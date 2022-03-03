@@ -1,3 +1,5 @@
+<img src="./assets/avatar.svg" width="150" alt="Rushkoff Avatar" title="Rushkoff Avatar">
+
 # Rushkoff Archive
 
 This repository contains code to extract the posts stored at
