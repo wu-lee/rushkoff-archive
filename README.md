@@ -5,7 +5,7 @@
 This repository contains code to extract the posts stored at
 https://api.archive.rushkoff.com/.
 
-To use, run:
+To execute the extraction, run:
 
     posts2yaml.rb  # to get Markdown with a YAML metadata header
 	
@@ -16,6 +16,14 @@ Or:
 Requires Ruby 2.x or later.
 
 Note, there is currently a dump of the posts in YAML format under
-[posts/](./posts), included for inspection. This may be altered/and or
-serve as a basis for static site generation later.
+[docs/_articles/][1], included for inspection. This is a work in
+progress.
 
+This dump additionally also serves as a basis for a [GitHub Pages][2]
+static site generation at https://wu-lee.github.io/rushkoff-archive/
+but could be altered later. When pages here are edited, the site
+should get upated accordingly as soon as the changes are pushed into
+the repository on GitHub.
+
+[1]: ./docs/_articles
+[2]: https://pages.github.com/
