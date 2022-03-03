@@ -1,3 +1,21 @@
+---
+layout: default
+---
+
+# Contents
+
+The original boilerplate index text remains below the contents...
+
+With a bit of configuration, these articles could be sorted and categorised.
+
+<ul>
+{% for article in site.articles %}
+  <li><a href="articles/{{ article.slug }}.html">{{ article.publication.title }}: {{ article.title }}</a></li>
+{% endfor %}
+</ul>
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/wu-lee/rushkoff-archive/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
