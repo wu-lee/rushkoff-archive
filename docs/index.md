@@ -10,7 +10,13 @@ With a bit of configuration, these articles could be sorted and categorised.
 
 <ul>
 {% for article in site.articles %}
-  <li><a href="articles/{{ article.slug }}.html">{{ article.publication.title }}: {{ article.title }}</a></li>
+  <li>
+  {% if article.published %}
+    <a href="articles/{{ article.slug }}.html">{{ article.publication.title }}: {{ article.title }}</a>
+  {% else %}
+    {{ article.publication.title }}: {{ article.title }} <em>(marked unpublished)</em>
+  {% endif %}
+  </li>
 {% endfor %}
 </ul>
 
