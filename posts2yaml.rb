@@ -1,6 +1,7 @@
 #!/bin/env ruby
 
-# Downloads the Rushkoff Archive posts from dataUrl, and outputs as TSV
+# Downloads the Rushkoff Archive posts from dataUrl, and outputs as
+# YAML in a directory 'posts/'
 
 require 'json'
 require 'net/http'
