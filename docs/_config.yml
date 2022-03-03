@@ -1,4 +1,13 @@
 theme: jekyll-theme-slate
 title: Rushkoff Archive
 description: Douglas Rushkoff's Article Archive
-
+collections:
+  articles:
+    output: true
+defaults:
+  - scope:
+      path: ''
+      type: 'articles'
+    values:
+      layout: 'article'
+  
