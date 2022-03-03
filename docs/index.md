@@ -6,10 +6,13 @@ layout: default
 
 The original boilerplate index text remains below the contents...
 
-With a bit of configuration, these articles could be sorted and categorised.
 
 <ul>
-{% for article in site.articles %}
+{% assign publications = site.articles | group_by: 'publication.title' %}
+{% assign publicationsSorted = publications | sort: 'name' %}
+{% for publication in publicationsSorted %}
+{% assign articlesSorted = publication.items | sort: 'title' %}
+{% for article in articlesSorted %}
   <li>
   {% if article.published %}
     <a href="articles/{{ article.slug }}.html">{{ article.publication.title }}: {{ article.title }}</a>
@@ -17,6 +20,7 @@ With a bit of configuration, these articles could be sorted and categorised.
     {{ article.publication.title }}: {{ article.title }} <em>(marked unpublished)</em>
   {% endif %}
   </li>
+{% endfor %}
 {% endfor %}
 </ul>
 
