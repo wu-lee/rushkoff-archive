@@ -10,7 +10,7 @@ require 'uri'
 require 'yaml'
 require 'fileutils'
 
-path = 'docs'
+path = 'docs/_articles'
 dataUrl = "https://api.archive.rushkoff.com/posts?_limit=-1"
 
 def outputTsv(path, data)
