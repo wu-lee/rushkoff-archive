@@ -13,7 +13,7 @@ require 'fileutils'
 path = 'docs/_articles'
 dataUrl = "https://api.archive.rushkoff.com/posts?_limit=-1"
 
-def outputTsv(path, data)
+def outputYaml(path, data)
   headers = data[0].keys
   slugs = {}
   
@@ -54,4 +54,4 @@ end
 
 FileUtils.rmtree(path) if File.exist?(path)
 FileUtils.mkpath(path)
-outputTsv path, JSON.parse(fetch dataUrl)
+outputYaml path, JSON.parse(fetch dataUrl)
