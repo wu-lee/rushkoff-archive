@@ -11,7 +11,7 @@ require 'yaml'
 require 'fileutils'
 
 path = 'docs'
-dataUrl = "https://api.archive.rushkoff.com/posts"
+dataUrl = "https://api.archive.rushkoff.com/posts?_limit=-1"
 
 def outputTsv(path, data)
   headers = data[0].keys

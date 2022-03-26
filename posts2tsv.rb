@@ -7,7 +7,7 @@ require 'net/http'
 require 'uri'
 
 
-dataUrl = "https://api.archive.rushkoff.com/posts"
+dataUrl = "https://api.archive.rushkoff.com/posts?_limit=-1"
 
 def outputTsv(data)
   headers = data[0].keys
