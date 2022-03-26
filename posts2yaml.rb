@@ -19,14 +19,15 @@ def outputTsv(path, data)
   
   data.each do |a|
     title = a['title']
-    slug = a['title']
-             .strip
-             .downcase
-             .gsub(/[^\s\w]+/, '')
-             .gsub(/\s+/, '-')[0,40]
     id = "%04d" % a['id']
-    name = "#{path}/#{id}-#{slug}.md"
+    slug = id+'-'+a['title']
+                    .strip
+                    .downcase
+                    .gsub(/[^\s\w]+/, '')
+                    .gsub(/\s+/, '-')[0,40]
+    name = "#{path}/#{slug}.md"
     body = a.delete 'body'
+    a['slug'] = slug
     if slugs[title] then
       slugs[title] += 1
       warn "Potential name clash: title #{title} appears #{slugs[title]} times"
