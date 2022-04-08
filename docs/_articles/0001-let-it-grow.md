@@ -1,7 +1,7 @@
 ---
 id: 1
 title: Let It Grow
-subtitle: 
+subtitle: (Test subtitle)
 date: '1999-11-01T05:00:00.000Z'
 publication: Adbusters
 blurb: 
