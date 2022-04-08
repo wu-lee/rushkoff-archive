@@ -28,6 +28,8 @@ def outputYaml(path, data)
     name = "#{path}/#{slug}.md"
     body = a.delete 'body'
     a['slug'] = slug
+    a['publication'] = a['publication']['slug']
+                         
     if slugs[title] then
       slugs[title] += 1
       warn "Potential name clash: title #{title} appears #{slugs[title]} times"
