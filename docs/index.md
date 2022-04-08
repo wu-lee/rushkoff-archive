@@ -18,7 +18,7 @@ The original boilerplate index text remains below the contents...
     <a href="articles/{{ article.slug }}.html">{{ article.publication }} &mdash; <em>{{ article.title }}</em></a>
 	<em>({{ article.date | date: "%D" }})</em>
   {% else %}
-    {{ article.publication }} &mdash; <em>{{ article.title }}</em> <em>({{ article.date | date: "%D" }}; marked unpublished)</em>
+    {{ article.publication }} &mdash; <em>{{ article.title }}</em> <em>({{ article.date | date: "%D" }}; marked <a href="articles/{{ article.slug }}.html">unpublished</a>)</em>
   {% endif %}
   </li>
 {% endfor %}
