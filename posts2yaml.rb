@@ -28,7 +28,7 @@ def outputYaml(path, data)
     name = "#{path}/#{slug}.md"
     body = a.delete 'body'
     a['slug'] = slug
-    a['publication'] = a['publication']['slug']
+    a['publication'] = a['publication']['title']
                          
     if slugs[title] then
       slugs[title] += 1

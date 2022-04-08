@@ -14,7 +14,7 @@ def outputTsv(data)
   puts headers.join("\t")
 
   data.each do |a|
-    a['publication'] = a['publication']['slug']
+    a['publication'] = a['publication']['title']
 
     row = headers.map do |f|
       case a[f]
