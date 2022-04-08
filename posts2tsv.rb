@@ -11,11 +11,14 @@ dataUrl = "https://api.archive.rushkoff.com/posts?_limit=-1"
 
 def outputTsv(data)
   headers = data[0].keys
+  ix = headers.find_index('title')
+  headers.insert(ix+1, 'subtitle')
   puts headers.join("\t")
 
   data.each do |a|
     a['publication'] = a['publication']['title']
-
+    a['subtitle'] = '' # insert this field
+    
     row = headers.map do |f|
       case a[f]
       when nil
