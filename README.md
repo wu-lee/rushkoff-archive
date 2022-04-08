@@ -25,5 +25,22 @@ but could be altered later. When pages here are edited, the site
 should get upated accordingly as soon as the changes are pushed into
 the repository on GitHub.
 
+
+## Running in development mode
+
+To run Jekyll in development mode, see [3][].  In brief, assuming
+you're on a Unix-like OS and have Git, Ruby, and Ruby's Bundler
+command installed:
+
+- Check out this repository locally: `git clone git@github.com:wu-lee/rushkoff-archive.git`
+- Change to the `docs` folder: `cd rushkoff-archive/docs`
+- Install Jekyll: `bundle install`
+- Run Jekyll: `bundle exec jekyll serve`
+- This should print out the server address to use, typically http://127.0.0.1:4000. Open that in a browser.
+- Edits should trigger Jekyll to rebuild the site automatically.
+
+
+
 [1]: ./docs/_articles
 [2]: https://pages.github.com/
+[3]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll
