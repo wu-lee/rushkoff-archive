@@ -1,18 +1,14 @@
 ---
 id: 757
 title: Like It or Not, We Jews Can’t Separate From Israel
+subtitle: 
 date: '2010-06-15T04:00:00.000Z'
-publication:
-  id: 19
-  title: The Jewish Week
-  slug: jewish-week
-  created_at: '2020-08-03T15:11:55.000Z'
-  updated_at: '2020-08-03T15:12:00.000Z'
+publication: The Jewish Week
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 0757-like-it-or-not-we-jews-cant-separate-fro
 created_at: '2020-08-02T00:44:11.000Z'

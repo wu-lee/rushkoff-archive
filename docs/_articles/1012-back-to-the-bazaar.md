@@ -1,18 +1,14 @@
 ---
 id: 1012
 title: Back to the Bazaar
+subtitle: 
 date: '2011-01-03T05:00:00.000Z'
-publication:
-  id: 29
-  title: One+
-  slug: one-plus
-  created_at: '2020-08-03T15:14:49.000Z'
-  updated_at: '2020-08-03T15:14:49.000Z'
+publication: One+
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1012-back-to-the-bazaar
 created_at: '2020-08-02T05:56:50.000Z'

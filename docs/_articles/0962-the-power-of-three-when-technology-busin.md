@@ -2,23 +2,13 @@
 id: 962
 title: 'The Power of Three: When Technology, Business, and Marketing Converge - Part
   III'
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
-blurb: ''
+publication: Nokia's The Feature
+blurb: 
 notes: 
-refs:
-- text: part one
-  original: http://www.thefeature.com/article?articleid=100415
-  meta:
-    title: 'ページが見つかりませんでした  '
-    keywords:
-    - ''
-    favicon: http://www.thefeature.com/favicon.ico
+refs: '[{"text"=>"part one", "original"=>"http://www.thefeature.com/article?articleid=100415",
+  "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}}]'
 sources: 
 published: true
 img: 

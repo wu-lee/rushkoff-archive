@@ -1,76 +1,36 @@
 ---
 id: 839
 title: The Powers That Be
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: The wireless industry's biggest problem could become the world's biggest solution.
 notes: 
-refs:
-- text: Moore's Law
-  original: http://www.intel.com/research/silicon/mooreslaw.htm
-  archive: http://web.archive.org/web/20090323072845/http://www.intel.com:80/research/silicon/mooreslaw.htm
-  meta:
-    title: Intel Labs - Computer Science Research and Collaboration
-    keywords:
-    - labs
-    - research
-    - researchers
-    - research labs
-    - research and development
-    - technological breakthroughs
-    - technology research
-    - computing research
-    - advanced computer research
-    - future of computing
-    description: Explore Intel Labs. Learn about our research initiatives in computer
-      science, and discover our academic and industry collaboration partnerships.
-    open_graph:
-      images:
-      - url: https://www.intel.com/apps/settings/wcm/designs/intel/us/en/images/resources/printlogo.png
-      type: company
-      site_name: Intel
-      title: Intel Labs - Computer Science Research and Collaboration
-      url: https://www.intel.com/content/www/us/en/research/overview.html
-      description: Explore Intel Labs. Learn about our research initiatives in computer
-        science, and discover our academic and industry collaboration partnerships.
-    favicon: http://www.intel.com/etc.clientlibs/settings/wcm/designs/ver/6.8.1333/intel/default/resources/favicon.ico
-- text: '"battery anxiety"'
-  original: http://abcnews.go.com/sections/tech/TechTV/innovations01_2.html
-- text: fuel cell-powered Bluetooth headset
-  original: http://finance.myway.com/jsp/nw/nwdt_ge.jsp?news_id=dji-00030720040615&feed=dji&date=20040615
-- text: 10-hour fuel cell-powered laptop
-  original: http://news.bbc.co.uk/2/hi/technology/3837585.stm
-- text: next-generation fuel cells that don't require their gas to maintained under
-    pressure
-  original: http://www.eetimes.com/sys/news/showArticle.jhtml?articleId=22100806
-- text: bell curve of oil extraction
-  original: http://www.nypress.com/17/22/feature/AaronNaparstek.cfm
-  meta:
-    title: Error404
-    open_graph:
-      title: Error404
-      images:
-      - url: http://www.nypress.com/news-portlet/img/ogimage_default.jpg
-      type: Article
-      url: http://www.nypress.com/error404
-      site_name: www.nypress.com
-    twitter_card:
-      card: summary_large_image
-      site: "@N_YPress"
-    favicon: http://www.nypress.com/base-portlet/webrsrc/ctxvar/f7b4629b-4a0c-4f58-ade7-0d8300181f41.jpeg
-- text: competing technologies
-  original: http://www.smalltimes.com/document_display.cfm?document_id=3730
-  archive: http://web.archive.org/web/20060426140848/http://www.smalltimes.com:80/document_display.cfm?document_id=3730
-- text: harvesting
-  original: http://www.controlmagazine.com/Web_First/CT.nsf/ArticleID/SKUN-5Y3K5R/
-  meta:
-    title: controlmagazine.com
-    favicon: http://www.controlmagazine.com/favicon.ico
+refs: '[{"text"=>"Moore''s Law", "original"=>"http://www.intel.com/research/silicon/mooreslaw.htm",
+  "archive"=>"http://web.archive.org/web/20090323072845/http://www.intel.com:80/research/silicon/mooreslaw.htm",
+  "meta"=>{"title"=>"Intel Labs - Computer Science Research and Collaboration", "keywords"=>["labs",
+  "research", "researchers", "research labs", "research and development", "technological
+  breakthroughs", "technology research", "computing research", "advanced computer
+  research", "future of computing"], "description"=>"Explore Intel Labs. Learn about
+  our research initiatives in computer science, and discover our academic and industry
+  collaboration partnerships.", "open_graph"=>{"images"=>[{"url"=>"https://www.intel.com/apps/settings/wcm/designs/intel/us/en/images/resources/printlogo.png"}],
+  "type"=>"company", "site_name"=>"Intel", "title"=>"Intel Labs - Computer Science
+  Research and Collaboration", "url"=>"https://www.intel.com/content/www/us/en/research/overview.html",
+  "description"=>"Explore Intel Labs. Learn about our research initiatives in computer
+  science, and discover our academic and industry collaboration partnerships."}, "favicon"=>"http://www.intel.com/etc.clientlibs/settings/wcm/designs/ver/6.8.1333/intel/default/resources/favicon.ico"}},
+  {"text"=>"\"battery anxiety\"", "original"=>"http://abcnews.go.com/sections/tech/TechTV/innovations01_2.html"},
+  {"text"=>"fuel cell-powered Bluetooth headset", "original"=>"http://finance.myway.com/jsp/nw/nwdt_ge.jsp?news_id=dji-00030720040615&feed=dji&date=20040615"},
+  {"text"=>"10-hour fuel cell-powered laptop", "original"=>"http://news.bbc.co.uk/2/hi/technology/3837585.stm"},
+  {"text"=>"next-generation fuel cells that don''t require their gas to maintained
+  under pressure", "original"=>"http://www.eetimes.com/sys/news/showArticle.jhtml?articleId=22100806"},
+  {"text"=>"bell curve of oil extraction", "original"=>"http://www.nypress.com/17/22/feature/AaronNaparstek.cfm",
+  "meta"=>{"title"=>"Error404", "open_graph"=>{"title"=>"Error404", "images"=>[{"url"=>"http://www.nypress.com/news-portlet/img/ogimage_default.jpg"}],
+  "type"=>"Article", "url"=>"http://www.nypress.com/error404", "site_name"=>"www.nypress.com"},
+  "twitter_card"=>{"card"=>"summary_large_image", "site"=>"@N_YPress"}, "favicon"=>"http://www.nypress.com/base-portlet/webrsrc/ctxvar/f7b4629b-4a0c-4f58-ade7-0d8300181f41.jpeg"}},
+  {"text"=>"competing technologies", "original"=>"http://www.smalltimes.com/document_display.cfm?document_id=3730",
+  "archive"=>"http://web.archive.org/web/20060426140848/http://www.smalltimes.com:80/document_display.cfm?document_id=3730"},
+  {"text"=>"harvesting", "original"=>"http://www.controlmagazine.com/Web_First/CT.nsf/ArticleID/SKUN-5Y3K5R/",
+  "meta"=>{"title"=>"controlmagazine.com", "favicon"=>"http://www.controlmagazine.com/favicon.ico"}}]'
 sources: 
 published: true
 img: 

@@ -1,13 +1,9 @@
 ---
 id: 1138
 title: The best smartphone is the one you already own
+subtitle: 
 date: '2016-09-24T16:00:00.000Z'
-publication:
-  id: 47
-  title: Digital Trends
-  slug: digital-trends
-  created_at: '2021-09-30T17:13:19.000Z'
-  updated_at: '2021-09-30T17:13:19.000Z'
+publication: Digital Trends
 blurb: 
 notes: 
 refs: 

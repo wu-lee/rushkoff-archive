@@ -2,18 +2,13 @@
 id: 726
 title: Sending Out an S.O.S. - What the Storm Taught Me About People, Power, and the
   Commons
+subtitle: 
 date: '2012-11-05T05:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
-refs:
-- text: 'Eatocracy: Anthony Bourdain says help NYC restaurants: Eat out, tip big'
-  original: http://eatocracy.cnn.com/2012/11/05/anthony-bourdain-nyc-restaurants-after-sandy/?hpt=op_t1
+refs: '[{"text"=>"Eatocracy: Anthony Bourdain says help NYC restaurants: Eat out,
+  tip big", "original"=>"http://eatocracy.cnn.com/2012/11/05/anthony-bourdain-nyc-restaurants-after-sandy/?hpt=op_t1"}]'
 sources: 
 published: true
 img: "../../../../storage/post-images/121101074223-10-sandy-damage-1101-horizontal-gallery-__SQUARESPACE_CACHEVERSION=1352163522278.jpeg"

@@ -1,13 +1,9 @@
 ---
 id: 972
 title: The People's Net
+subtitle: 
 date: '2001-07-01T04:00:00.000Z'
-publication:
-  id: 42
-  title: Yahoo! Internet Life
-  slug: yahoo-internet-life
-  created_at: '2020-08-03T15:17:20.000Z'
-  updated_at: '2020-08-03T15:17:20.000Z'
+publication: Yahoo! Internet Life
 blurb: The Internet is Back, Alive and Well
 notes: 
 refs: 

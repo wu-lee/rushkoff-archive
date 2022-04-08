@@ -1,18 +1,14 @@
 ---
 id: 1044
 title: Developing the Social Self
+subtitle: 
 date: '2013-01-24T05:00:00.000Z'
-publication:
-  id: 9
-  title: Edutopia
-  slug: edutopia
-  created_at: '2020-08-03T15:09:22.000Z'
-  updated_at: '2020-08-03T15:09:43.000Z'
+publication: Edutopia
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1044-developing-the-social-self
 created_at: '2020-08-03T04:26:24.000Z'
@@ -54,7 +50,7 @@ Until America catches up with South Korea, Estonia, and pretty much every other 
 
 ### Resources for Raising Digitally Healthy Kids
 
--  [PBS Frontline's digital\_nation](https://www.pbs.org/wgbh/frontline/film/digitalnation/) is a documentary I helped make for PBS about our current state of digital engagement and what we might do about it.
+-  [PBS Frontline's digital\\_nation](https://www.pbs.org/wgbh/frontline/film/digitalnation/) is a documentary I helped make for PBS about our current state of digital engagement and what we might do about it.
 -  _[Program or Be Programmed](http://www.rushkoff.com/program-or-be-programmed/)_ is my short book explaining the biases of the digital landscape.
 -  [Computer Science Unplugged](http://csunplugged.com) features computer science exercises without any computers -- great for youngsters.
 -  [Codecademy](http://codecademy.com) offers free courses that teach real computer languages for high school age and above.

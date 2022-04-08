@@ -1,13 +1,9 @@
 ---
 id: 1080
 title: 'The Economy of Likes '
+subtitle: 
 date: '2014-06-01T16:00:00.000Z'
-publication:
-  id: 46
-  title: Hemispheres Magazine
-  slug: hemispheres-magazine
-  created_at: '2021-09-10T13:11:05.000Z'
-  updated_at: '2021-09-10T13:11:05.000Z'
+publication: Hemispheres Magazine
 blurb: 
 notes: 
 refs: 

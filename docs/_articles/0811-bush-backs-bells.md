@@ -1,86 +1,62 @@
 ---
 id: 811
 title: Bush Backs Bells
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: The Bush administration has signalled it won't oppose efforts by the Baby Bells
   to overturn laws forcing them to lease out their landlines at discounted rates --
   thanks to competition from mobile networks and other technologies.
 notes: 
-refs:
-- text: the media
-  original: http://www.nytimes.com/2004/06/10/business/10PHON.html?hp
-  archive: http://web.archive.org/web/20120323184909/http://www.nytimes.com/2004/06/10/business/10PHON.html?hp
-  meta:
-    title: BUSH BACKS OFF RULE THAT EASED PHONE LINE FEES - The New York Times
-    description: Bush administration, in reversal critics say could lead to higher
-      phone rates, sides with four regional Bell companies in court case over fees
-      they charge rivals for access to their networks; drops out of appeal of appeals
-      court ruling striking down Federal Communications Commission rules requiring
-      Verizon, SBC Communications, BellSouth and Qwest Communications to make their
-      networks available to rivals at heavy discounts; move cuts chances Supreme Court
-      will accept appeal, particularly because FCC, under Bush administration pressure,
-      also decides not to pursue appeal; Consumer Federation of America official Mark
-      Cooper says end to rules could lead to higher rates for 19 million consumers
-      who get service from rivals and 30 million who get discounts from Bells in response
-      to competition; AT&T, MCI and other rivals score switch; warn of higher local
-      phone rates; Bell companies hold local markets are more competitive than when
-      rules were adopted; FCC decision results from shift by Kevin J Martin, who had
-      been lone Republican commissioner backing appeal; photo (M)
-    open_graph:
-      url: https://www.nytimes.com/2004/06/10/business/bush-backs-off-rule-that-eased-phone-line-fees.html
-      type: article
-      title: BUSH BACKS OFF RULE THAT EASED PHONE LINE FEES
-      images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-      description: Bush administration, in reversal critics say could lead to higher
-        phone rates, sides with four regional Bell companies in court case over fees
-        they charge rivals for access to their networks; drops out of appeal of appeals
-        court ruling striking down Federal Communications Commission rules requiring
-        Verizon, SBC Communications, BellSouth and Qwest Communications to make their
-        networks available to rivals at heavy discounts; move cuts chances Supreme
-        Court will accept appeal, particularly because FCC, under Bush administration
-        pressure, also decides not to pursue appeal; Consumer Federation of America
-        official Mark Cooper says end to rules could lead to higher rates for 19 million
-        consumers who get service from rivals and 30 million who get discounts from
-        Bells in response to competition; AT&T, MCI and other rivals score switch;
-        warn of higher local phone rates; Bell companies hold local markets are more
-        competitive than when rules were adopted; FCC decision results from shift
-        by Kevin J Martin, who had been lone Republican commissioner backing appeal;
-        photo (M)
-    twitter_card:
-      url: https://www.nytimes.com/2004/06/10/business/bush-backs-off-rule-that-eased-phone-line-fees.html
-      title: BUSH BACKS OFF RULE THAT EASED PHONE LINE FEES
-      description: Bush administration, in reversal critics say could lead to higher
-        phone rates, sides with four regional Bell companies in court case over fees
-        they charge rivals for access to their networks; drops out of appeal of appeals
-        court ruling striking down Federal Communications Commission rules requiring
-        Verizon, SBC Communications, BellSouth and Qwest Communications to make their
-        networks available to rivals at heavy discounts; move cuts chances Supreme
-        Court will accept appeal, particularly because FCC, under Bush administration
-        pressure, also decides not to pursue appeal; Consumer Federation of America
-        official Mark Cooper says end to rules could lead to higher rates for 19 million
-        consumers who get service from rivals and 30 million who get discounts from
-        Bells in response to competition; AT&T, MCI and other rivals score switch;
-        warn of higher local phone rates; Bell companies hold local markets are more
-        competitive than when rules were adopted; FCC decision results from shift
-        by Kevin J Martin, who had been lone Republican commissioner backing appeal;
-        photo (M)
-      images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultCrop.png
-        alt: ''
-      card: summary_large_image
-      apps:
-        googleplay:
-          name: NYTimes
-          id: com.nytimes.android
-          url: nyt://article/e0895128-81ee-5306-a481-5b102f65eedb
-    favicon: http://www.nytimes.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico
+refs: '[{"text"=>"the media", "original"=>"http://www.nytimes.com/2004/06/10/business/10PHON.html?hp",
+  "archive"=>"http://web.archive.org/web/20120323184909/http://www.nytimes.com/2004/06/10/business/10PHON.html?hp",
+  "meta"=>{"title"=>"BUSH BACKS OFF RULE THAT EASED PHONE LINE FEES - The New York
+  Times", "description"=>"Bush administration, in reversal critics say could lead
+  to higher phone rates, sides with four regional Bell companies in court case over
+  fees they charge rivals for access to their networks; drops out of appeal of appeals
+  court ruling striking down Federal Communications Commission rules requiring Verizon,
+  SBC Communications, BellSouth and Qwest Communications to make their networks available
+  to rivals at heavy discounts; move cuts chances Supreme Court will accept appeal,
+  particularly because FCC, under Bush administration pressure, also decides not to
+  pursue appeal; Consumer Federation of America official Mark Cooper says end to rules
+  could lead to higher rates for 19 million consumers who get service from rivals
+  and 30 million who get discounts from Bells in response to competition; AT&T, MCI
+  and other rivals score switch; warn of higher local phone rates; Bell companies
+  hold local markets are more competitive than when rules were adopted; FCC decision
+  results from shift by Kevin J Martin, who had been lone Republican commissioner
+  backing appeal; photo (M)", "open_graph"=>{"url"=>"https://www.nytimes.com/2004/06/10/business/bush-backs-off-rule-that-eased-phone-line-fees.html",
+  "type"=>"article", "title"=>"BUSH BACKS OFF RULE THAT EASED PHONE LINE FEES", "images"=>[{"url"=>"https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"}],
+  "description"=>"Bush administration, in reversal critics say could lead to higher
+  phone rates, sides with four regional Bell companies in court case over fees they
+  charge rivals for access to their networks; drops out of appeal of appeals court
+  ruling striking down Federal Communications Commission rules requiring Verizon,
+  SBC Communications, BellSouth and Qwest Communications to make their networks available
+  to rivals at heavy discounts; move cuts chances Supreme Court will accept appeal,
+  particularly because FCC, under Bush administration pressure, also decides not to
+  pursue appeal; Consumer Federation of America official Mark Cooper says end to rules
+  could lead to higher rates for 19 million consumers who get service from rivals
+  and 30 million who get discounts from Bells in response to competition; AT&T, MCI
+  and other rivals score switch; warn of higher local phone rates; Bell companies
+  hold local markets are more competitive than when rules were adopted; FCC decision
+  results from shift by Kevin J Martin, who had been lone Republican commissioner
+  backing appeal; photo (M)"}, "twitter_card"=>{"url"=>"https://www.nytimes.com/2004/06/10/business/bush-backs-off-rule-that-eased-phone-line-fees.html",
+  "title"=>"BUSH BACKS OFF RULE THAT EASED PHONE LINE FEES", "description"=>"Bush
+  administration, in reversal critics say could lead to higher phone rates, sides
+  with four regional Bell companies in court case over fees they charge rivals for
+  access to their networks; drops out of appeal of appeals court ruling striking down
+  Federal Communications Commission rules requiring Verizon, SBC Communications, BellSouth
+  and Qwest Communications to make their networks available to rivals at heavy discounts;
+  move cuts chances Supreme Court will accept appeal, particularly because FCC, under
+  Bush administration pressure, also decides not to pursue appeal; Consumer Federation
+  of America official Mark Cooper says end to rules could lead to higher rates for
+  19 million consumers who get service from rivals and 30 million who get discounts
+  from Bells in response to competition; AT&T, MCI and other rivals score switch;
+  warn of higher local phone rates; Bell companies hold local markets are more competitive
+  than when rules were adopted; FCC decision results from shift by Kevin J Martin,
+  who had been lone Republican commissioner backing appeal; photo (M)", "images"=>[{"url"=>"https://static01.nyt.com/newsgraphics/images/icons/defaultCrop.png",
+  "alt"=>""}], "card"=>"summary_large_image", "apps"=>{"googleplay"=>{"name"=>"NYTimes",
+  "id"=>"com.nytimes.android", "url"=>"nyt://article/e0895128-81ee-5306-a481-5b102f65eedb"}}},
+  "favicon"=>"http://www.nytimes.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico"}}]'
 sources: 
 published: true
 img: 

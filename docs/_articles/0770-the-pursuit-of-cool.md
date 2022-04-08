@@ -1,13 +1,9 @@
 ---
 id: 770
 title: The Pursuit of Cool
+subtitle: 
 date: '2008-10-28T00:00:00.000Z'
-publication:
-  id: 37
-  title: Sportswear International
-  slug: sportswear-international
-  created_at: '2020-08-03T15:16:34.000Z'
-  updated_at: '2020-08-03T15:16:34.000Z'
+publication: Sportswear International
 blurb: Introduction to Anti-Hyper-Consumerism
 notes: 
 refs: 

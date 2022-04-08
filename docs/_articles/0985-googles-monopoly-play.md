@@ -1,13 +1,9 @@
 ---
 id: 985
 title: Google's Monopoly Play
+subtitle: 
 date: '2010-03-20T04:00:00.000Z'
-publication:
-  id: 6
-  title: The Daily Beast
-  slug: daily-beast
-  created_at: '2020-08-03T15:08:16.000Z'
-  updated_at: '2020-08-03T15:10:07.000Z'
+publication: The Daily Beast
 blurb: Why can't we all just get along?
 notes: 
 refs: 

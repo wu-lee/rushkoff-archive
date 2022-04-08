@@ -1,14 +1,10 @@
 ---
 id: 735
 title: The Terror of 'Real Time'
+subtitle: 
 date: '2013-04-22T04:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
 refs: 
 sources: 

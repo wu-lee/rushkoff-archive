@@ -1,38 +1,23 @@
 ---
 id: 716
 title: How Much Is Facebook Really Worth?
+subtitle: 
 date: '2011-03-08T05:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
-refs:
-- text: getting credit for helping to topple regimes in the Middle East
-  original: http://www.cnn.com/2011/TECH/social.media/02/24/facebook.revolution/index.html?iref=allsearch
-  meta:
-    title: Why not call it a Facebook revolution? - CNN.com
-    open_graph:
-      title: Why not call it a Facebook revolution?
-      type: article
-    description: Tunisians filled the streets with the help of Twitter. Egypt's protests
-      were coordinated on Facebook pages like that of internet activist Wael Ghonim.
-      Libyan dissenters spread the word about their "day of rage" last week the same
-      way.
-    favicon: http://www.cnn.com/favicon.ico
-- text: it's not so strong that they can't move somewhere else
-  original: http://www.cnn.com/2011/OPINION/01/07/rushkoff.facebook.myspace/index.html
-  archive: http://web.archive.org/web/20191006154703/http://www.cnn.com/2011/OPINION/01/07/rushkoff.facebook.myspace/index.html
-  meta:
-    title: Facebook hype will fade - CNN.com
-    open_graph:
-      title: Facebook hype will fade
-      type: article
-    description: 'All signs for Facebook appear to be pointing up. '
-    favicon: http://www.cnn.com/favicon.ico
+refs: '[{"text"=>"getting credit for helping to topple regimes in the Middle East",
+  "original"=>"http://www.cnn.com/2011/TECH/social.media/02/24/facebook.revolution/index.html?iref=allsearch",
+  "meta"=>{"title"=>"Why not call it a Facebook revolution? - CNN.com", "open_graph"=>{"title"=>"Why
+  not call it a Facebook revolution?", "type"=>"article"}, "description"=>"Tunisians
+  filled the streets with the help of Twitter. Egypt''s protests were coordinated
+  on Facebook pages like that of internet activist Wael Ghonim. Libyan dissenters
+  spread the word about their \"day of rage\" last week the same way.", "favicon"=>"http://www.cnn.com/favicon.ico"}},
+  {"text"=>"it''s not so strong that they can''t move somewhere else", "original"=>"http://www.cnn.com/2011/OPINION/01/07/rushkoff.facebook.myspace/index.html",
+  "archive"=>"http://web.archive.org/web/20191006154703/http://www.cnn.com/2011/OPINION/01/07/rushkoff.facebook.myspace/index.html",
+  "meta"=>{"title"=>"Facebook hype will fade - CNN.com", "open_graph"=>{"title"=>"Facebook
+  hype will fade", "type"=>"article"}, "description"=>"All signs for Facebook appear
+  to be pointing up. ", "favicon"=>"http://www.cnn.com/favicon.ico"}}]'
 sources: 
 published: true
 img: 
@@ -76,7 +61,7 @@ But analysts say the judicious use of that information must inevitably form the 
 
 For Facebook, that's the potential gold mine -- and the risk. Because even the company does not know how the public will respond if Facebook tries to cash in on all that data.
 
-"It's one thing for me to send that \[information\] to my friends," Buyer said. "It's something else for someone else to try to use that information to market to me. Now maybe, folks who will be marketed to will be happy to have ads from their real interests. Maybe they won't. We'll see."
+"It's one thing for me to send that \\[information\\] to my friends," Buyer said. "It's something else for someone else to try to use that information to market to me. Now maybe, folks who will be marketed to will be happy to have ads from their real interests. Maybe they won't. We'll see."
 
 To become a permanent fixture on the internet, Facebook must transform itself from a wildly popular social network into a money-making machine. And analysts say that will be tricky.
 

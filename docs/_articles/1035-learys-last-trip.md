@@ -1,18 +1,14 @@
 ---
 id: 1035
 title: Leary's Last Trip
+subtitle: 
 date: '1996-08-01T04:00:00.000Z'
-publication:
-  id: 10
-  title: Esquire
-  slug: esquire
-  created_at: '2020-08-03T15:09:30.000Z'
-  updated_at: '2020-08-03T15:09:48.000Z'
+publication: Esquire
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1035-learys-last-trip
 created_at: '2020-08-02T07:16:58.000Z'

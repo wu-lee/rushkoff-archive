@@ -1,13 +1,14 @@
 ---
 id: 1036
 title: Trickle Up Democracy
+subtitle: 
 date: '2012-09-01T04:00:00.000Z'
-publication: {}
+publication: 
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1036-trickle-up-democracy
 created_at: '2020-08-02T07:18:55.000Z'

@@ -1,37 +1,25 @@
 ---
 id: 741
 title: Why Wikileaks Hackers Are a Glitch, Not a Cyberwar
+subtitle: 
 date: '2010-12-10T00:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
 refs: 
-sources:
-- _type: WebPage
-  id: https://api.cognitive.microsoft.com/api/v7/#WebPages.0
-  name: Why WikiLeaks hackers are a glitch, not a cyberwar - CNN.com
-  url: http://www.cnn.com/2010/OPINION/12/10/rushkoff.hacking.wikileaks/index.html
-  displayUrl: www.cnn.com/2010/OPINION/12/10/rushkoff.hacking.wikileaks
-  snippet: Like a momentary glitch on a flat-panel display, the attacks by hackers
-    calling themselves "Anonymous" came and went. Visa, PayPal, MasterCard and Amazon
-    report no significant damage, and business ...
-  dateLastCrawled: '2020-05-29T10:14:00.0000000Z'
-- _type: WebPage
-  id: https://api.cognitive.microsoft.com/api/v7/#WebPages.1
-  name: Just Another CyberWar - Rushkoff
-  url: https://rushkoff.com/just-another-cyberwar/
-  displayUrl: https://rushkoff.com/just-another-cyberwar
-  snippet: Published at CNN.com this morning. (CNN) — Like a momentary glitch on a
-    flat-panel display, the attacks by hackers calling themselves “Anonymous” came
-    and went. Visa, PayPal, MasterCard and Amazon report no significant damage, and
-    business goes on as usual. The corporations acting to cut off WikiLeaks remain
-    safe. Although many are unsettled by the […]
-  dateLastCrawled: '2020-05-02T18:53:00.0000000Z'
+sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v7/#WebPages.0",
+  "name"=>"Why WikiLeaks hackers are a glitch, not a cyberwar - CNN.com", "url"=>"http://www.cnn.com/2010/OPINION/12/10/rushkoff.hacking.wikileaks/index.html",
+  "displayUrl"=>"www.cnn.com/2010/OPINION/12/10/rushkoff.hacking.wikileaks", "snippet"=>"Like
+  a momentary glitch on a flat-panel display, the attacks by hackers calling themselves
+  \"Anonymous\" came and went. Visa, PayPal, MasterCard and Amazon report no significant
+  damage, and business ...", "dateLastCrawled"=>"2020-05-29T10:14:00.0000000Z"}, {"_type"=>"WebPage",
+  "id"=>"https://api.cognitive.microsoft.com/api/v7/#WebPages.1", "name"=>"Just Another
+  CyberWar - Rushkoff", "url"=>"https://rushkoff.com/just-another-cyberwar/", "displayUrl"=>"https://rushkoff.com/just-another-cyberwar",
+  "snippet"=>"Published at CNN.com this morning. (CNN) — Like a momentary glitch on
+  a flat-panel display, the attacks by hackers calling themselves “Anonymous” came
+  and went. Visa, PayPal, MasterCard and Amazon report no significant damage, and
+  business goes on as usual. The corporations acting to cut off WikiLeaks remain safe.
+  Although many are unsettled by the […]", "dateLastCrawled"=>"2020-05-02T18:53:00.0000000Z"}]'
 published: true
 img: 
 slug: 0741-why-wikileaks-hackers-are-a-glitch-not-a

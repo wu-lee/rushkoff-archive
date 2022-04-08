@@ -1,25 +1,16 @@
 ---
 id: 715
 title: Google Sees No Evil
+subtitle: 
 date: '2013-12-19T00:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
-refs:
-- text: Boston Dynamics
-  original: http://money.cnn.com/2013/12/16/technology/google-boston-dynamics-robots/
-  archive: http://web.archive.org/web/20200211082442/https://money.cnn.com/2013/12/16/technology/google-boston-dynamics-robots/
-- text: "@BrentButt"
-  original: https://twitter.com/BrentButt
-  archive: http://web.archive.org/web/20131221025046/https://twitter.com/BrentButt
-- text: donated $5 million to the World Wildlife Federation
-  original: http://worldwildlife.org/stories/google-helps-wwf-stop-wildlife-crime
-  archive: http://web.archive.org/web/20190829104825/https://www.worldwildlife.org/stories/google-helps-wwf-stop-wildlife-crime
+refs: '[{"text"=>"Boston Dynamics", "original"=>"http://money.cnn.com/2013/12/16/technology/google-boston-dynamics-robots/",
+  "archive"=>"http://web.archive.org/web/20200211082442/https://money.cnn.com/2013/12/16/technology/google-boston-dynamics-robots/"},
+  {"text"=>"@BrentButt", "original"=>"https://twitter.com/BrentButt", "archive"=>"http://web.archive.org/web/20131221025046/https://twitter.com/BrentButt"},
+  {"text"=>"donated $5 million to the World Wildlife Federation", "original"=>"http://worldwildlife.org/stories/google-helps-wwf-stop-wildlife-crime",
+  "archive"=>"http://web.archive.org/web/20190829104825/https://www.worldwildlife.org/stories/google-helps-wwf-stop-wildlife-crime"}]'
 sources: 
 published: true
 img: "../../../../storage/131216070713-newday-romans-google-robots-00013427-story-top-__SQUARESPACE_CACHEVERSION=1387484052933.jpg"

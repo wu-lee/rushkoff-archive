@@ -1,18 +1,14 @@
 ---
 id: 1013
 title: Tech Firm's Push For Universal Basic Income Is Self-Serving
+subtitle: 
 date: '2017-07-28T04:00:00.000Z'
-publication:
-  id: 20
-  title: Los Angeles Times
-  slug: los-angeles-times
-  created_at: '2020-08-03T15:12:24.000Z'
-  updated_at: '2020-08-03T15:12:46.000Z'
+publication: Los Angeles Times
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1013-tech-firms-push-for-universal-basic-inco
 created_at: '2020-08-02T06:21:55.000Z'

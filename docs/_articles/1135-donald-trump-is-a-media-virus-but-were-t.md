@@ -1,13 +1,9 @@
 ---
 id: 1135
 title: Donald Trump is a media virus, but we’re the ones spreading him
+subtitle: 
 date: '2016-12-17T17:00:00.000Z'
-publication:
-  id: 47
-  title: Digital Trends
-  slug: digital-trends
-  created_at: '2021-09-30T17:13:19.000Z'
-  updated_at: '2021-09-30T17:13:19.000Z'
+publication: Digital Trends
 blurb: 
 notes: 
 refs: 

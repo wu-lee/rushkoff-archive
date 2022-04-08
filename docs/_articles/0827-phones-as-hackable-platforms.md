@@ -1,41 +1,22 @@
 ---
 id: 827
 title: Phones as Hackable Platforms
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: Marko Ahtisaari wants the wireless industry to embrace its users as developers.
 notes: 
-refs:
-- text: Nokia's Insight and Foresight
-  original: http://www.nokia.com/nokia/0,,54516,00.html
-  archive: http://web.archive.org/web/20080306052103/http://www.nokia.com:80/nokia/0,,54516,00.html
-- text: Marko Ahtisaari.
-  original: http://www.aula.cc/%7Emarko/
-  archive: http://web.archive.org/web/20100413225148/http://www.aula.cc:80/~marko/
-  meta:
-    title: 404 Not Found
-    favicon: http://www.aula.cc/favicon.ico
-- text: Interactive Telecommunications Program
-  original: http://itp.nyu.edu/
-- text: social currency
-  original: http://www.thefeature.com/article?articleid=100068
-  archive: http://web.archive.org/web/20050524073641/http://www.thefeature.com:80/article?articleid=100068
-  meta:
-    title: 'ページが見つかりませんでした  '
-    keywords:
-    - ''
-    favicon: http://www.thefeature.com/favicon.ico
-- text: July of 1999
-  original: http://www.textually.org/ringtonia/archives/000439.htm
-  archive: http://web.archive.org/web/20050409054148/http://www.textually.org:80/ringtonia/archives/000439.htm
-  meta:
-    title: 404 Not Found
-    favicon: http://www.textually.org/favicon.ico
+refs: '[{"text"=>"Nokia''s Insight and Foresight", "original"=>"http://www.nokia.com/nokia/0,,54516,00.html",
+  "archive"=>"http://web.archive.org/web/20080306052103/http://www.nokia.com:80/nokia/0,,54516,00.html"},
+  {"text"=>"Marko Ahtisaari.", "original"=>"http://www.aula.cc/%7Emarko/", "archive"=>"http://web.archive.org/web/20100413225148/http://www.aula.cc:80/~marko/",
+  "meta"=>{"title"=>"404 Not Found", "favicon"=>"http://www.aula.cc/favicon.ico"}},
+  {"text"=>"Interactive Telecommunications Program", "original"=>"http://itp.nyu.edu/"},
+  {"text"=>"social currency", "original"=>"http://www.thefeature.com/article?articleid=100068",
+  "archive"=>"http://web.archive.org/web/20050524073641/http://www.thefeature.com:80/article?articleid=100068",
+  "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}},
+  {"text"=>"July of 1999", "original"=>"http://www.textually.org/ringtonia/archives/000439.htm",
+  "archive"=>"http://web.archive.org/web/20050409054148/http://www.textually.org:80/ringtonia/archives/000439.htm",
+  "meta"=>{"title"=>"404 Not Found", "favicon"=>"http://www.textually.org/favicon.ico"}}]'
 sources: 
 published: true
 img: 

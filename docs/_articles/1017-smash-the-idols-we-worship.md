@@ -1,18 +1,14 @@
 ---
 id: 1017
 title: Smash the Idols We Worship
+subtitle: 
 date: '2011-04-22T04:00:00.000Z'
-publication:
-  id: 12
-  title: The Forward
-  slug: forward
-  created_at: '2020-08-03T15:10:32.000Z'
-  updated_at: '2020-08-03T15:10:32.000Z'
+publication: The Forward
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1017-smash-the-idols-we-worship
 created_at: '2020-08-02T06:27:12.000Z'

@@ -1,15 +1,11 @@
 ---
 id: 17
 title: Net Loss
+subtitle: 
 date: '2007-04-05T04:00:00.000Z'
-publication:
-  id: 3
-  title: Arthur
-  slug: arthur
-  created_at: '2020-08-03T15:07:46.000Z'
-  updated_at: '2020-08-03T15:07:46.000Z'
-blurb: "*(intended for publication in the cancelled Arthur Vol. 1, No. 26 \\[March
-  2007\\])*"
+publication: Arthur
+blurb: "*(intended for publication in the cancelled Arthur Vol. 1, No. 26 \\\\[March
+  2007\\\\])*"
 notes: 
 refs: 
 sources: 

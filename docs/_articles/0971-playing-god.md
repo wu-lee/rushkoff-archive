@@ -1,13 +1,9 @@
 ---
 id: 971
 title: Playing God
+subtitle: 
 date: '2001-12-01T05:00:00.000Z'
-publication:
-  id: 42
-  title: Yahoo! Internet Life
-  slug: yahoo-internet-life
-  created_at: '2020-08-03T15:17:20.000Z'
-  updated_at: '2020-08-03T15:17:20.000Z'
+publication: Yahoo! Internet Life
 blurb: The Net and Fundamentalism
 notes: 
 refs: 

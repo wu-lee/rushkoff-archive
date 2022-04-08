@@ -1,13 +1,9 @@
 ---
 id: 1075
 title: " The Growth Trap"
+subtitle: 
 date: '2016-03-01T17:00:00.000Z'
-publication:
-  id: 46
-  title: Hemispheres Magazine
-  slug: hemispheres-magazine
-  created_at: '2021-09-10T13:11:05.000Z'
-  updated_at: '2021-09-10T13:11:05.000Z'
+publication: Hemispheres Magazine
 blurb: 
 notes: 
 refs: 

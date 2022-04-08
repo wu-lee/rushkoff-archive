@@ -1,18 +1,14 @@
 ---
 id: 1077
 title: 'Recycling Money: Why Double-Dipping Is Good Business'
+subtitle: 
 date: '2015-08-01T16:56:02.000Z'
-publication:
-  id: 46
-  title: Hemispheres Magazine
-  slug: hemispheres-magazine
-  created_at: '2021-09-10T13:11:05.000Z'
-  updated_at: '2021-09-10T13:11:05.000Z'
+publication: Hemispheres Magazine
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1077-recycling-money-why-doubledipping-is-goo
 created_at: '2021-09-10T13:19:11.000Z'

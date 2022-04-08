@@ -1,31 +1,17 @@
 ---
 id: 951
 title: Rock the (Wireless) vote.com
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: Does politics by thumb - via the culture of MTV - enhance democracy, or reduce
   it to a marketing survey?
 notes: 
-refs:
-- text: Open Source Democracy
-  original: http://www.demos.co.uk/catalogue/opensourcedemocracy_page292.aspx
-  meta:
-    title: 403 Forbidden
-    favicon: http://www.demos.co.uk/favicon.ico
-- text: Rock the Mobile Vote
-  original: http://www.rockthevote.com/wireless/
-  meta:
-    title: Page not found - Rock the Vote
-    open_graph:
-      locale: en_US
-      title: Page not found - Rock the Vote
-      site_name: Rock the Vote
-    favicon: https://www.rockthevote.org/wp-content/uploads/cropped-checkmark-icon-192x192.png
+refs: '[{"text"=>"Open Source Democracy", "original"=>"http://www.demos.co.uk/catalogue/opensourcedemocracy_page292.aspx",
+  "meta"=>{"title"=>"403 Forbidden", "favicon"=>"http://www.demos.co.uk/favicon.ico"}},
+  {"text"=>"Rock the Mobile Vote", "original"=>"http://www.rockthevote.com/wireless/",
+  "meta"=>{"title"=>"Page not found - Rock the Vote", "open_graph"=>{"locale"=>"en_US",
+  "title"=>"Page not found - Rock the Vote", "site_name"=>"Rock the Vote"}, "favicon"=>"https://www.rockthevote.org/wp-content/uploads/cropped-checkmark-icon-192x192.png"}}]'
 sources: 
 published: true
 img: 

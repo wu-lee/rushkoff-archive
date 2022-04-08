@@ -1,13 +1,9 @@
 ---
 id: 1073
 title: Did the Homepage Kill the Internet?
+subtitle: 
 date: '2021-08-26T16:00:00.000Z'
-publication:
-  id: 23
-  title: Medium
-  slug: medium
-  created_at: '2020-08-03T15:13:31.000Z'
-  updated_at: '2020-08-03T15:13:31.000Z'
+publication: Medium
 blurb: 
 notes: 
 refs: 

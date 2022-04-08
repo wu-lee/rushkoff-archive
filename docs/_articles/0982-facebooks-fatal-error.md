@@ -1,18 +1,14 @@
 ---
 id: 982
 title: Facebook's Fatal Error
+subtitle: 
 date: '2009-06-10T04:00:00.000Z'
-publication:
-  id: 6
-  title: The Daily Beast
-  slug: daily-beast
-  created_at: '2020-08-03T15:08:16.000Z'
-  updated_at: '2020-08-03T15:10:07.000Z'
+publication: The Daily Beast
 blurb: The minute that last night turned into Saturday morning, if all went right,
   Facebook's servers were overloaded by millions of people racing to register their
   personal usernames with the social media Web site, so that their friends—and anyone
   else in the known universe—will be able to find them even easier. Instead of trying
-  "Douglas Rushkoff" in the site's search window, or laboriously tracking me through
+  \"Douglas Rushkoff\" in the site's search window, or laboriously tracking me through
   your own friends and groups, my name will easily show up on Google, and you'll be
   able to find me through a simple Facebook URL that I can trumpet to the world.
 notes: 

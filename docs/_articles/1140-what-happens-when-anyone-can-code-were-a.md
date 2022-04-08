@@ -1,13 +1,9 @@
 ---
 id: 1140
 title: What happens when anyone can code? We’re about to find out
+subtitle: 
 date: '2016-06-10T16:00:00.000Z'
-publication:
-  id: 47
-  title: Digital Trends
-  slug: digital-trends
-  created_at: '2021-09-30T17:13:19.000Z'
-  updated_at: '2021-09-30T17:13:19.000Z'
+publication: Digital Trends
 blurb: 
 notes: 
 refs: 

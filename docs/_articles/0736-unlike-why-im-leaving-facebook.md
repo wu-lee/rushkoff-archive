@@ -1,59 +1,32 @@
 ---
 id: 736
 title: Unlike - Why I'm Leaving Facebook
+subtitle: 
 date: '2013-02-25T05:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
-refs:
-- text: does things on our behalf
-  original: http://www.forbes.com/sites/anthonykosner/2013/01/21/facebook-is-recycling-your-likes-to-promote-stories-youve-never-seen-to-all-your-friends/
-  archive: http://web.archive.org/web/20200531055608/https://www.forbes.com/sites/anthonykosner/2013/01/21/facebook-is-recycling-your-likes-to-promote-stories-youve-never-seen-to-all-your-friends/
-  meta:
-    title: Security Violation (403)
-    favicon: http://www.forbes.com/favicon.ico
-- text: corporate researchers have been mining
-  original: http://www.nytimes.com/2012/02/05/opinion/sunday/facebook-is-using-you.html?pagewanted=all&_r=1&
-  meta:
-    title: Opinion | Facebook Is Using You - The New York Times
-    description: Whether you can obtain a job, credit or insurance can be based on
-      your digital doppelgänger — and you may never know why you’ve been turned down.
-    open_graph:
-      url: https://www.nytimes.com/2012/02/05/opinion/sunday/facebook-is-using-you.html
-      type: article
-      title: Opinion | Facebook Is Using You
-      images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-      description: Whether you can obtain a job, credit or insurance can be based
-        on your digital doppelgänger — and you may never know why you’ve been turned
-        down.
-    twitter_card:
-      url: https://www.nytimes.com/2012/02/05/opinion/sunday/facebook-is-using-you.html
-      title: Opinion | Facebook Is Using You
-      description: Whether you can obtain a job, credit or insurance can be based
-        on your digital doppelgänger — and you may never know why you’ve been turned
-        down.
-      images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultCrop.png
-        alt: ''
-      card: summary_large_image
-      apps:
-        googleplay:
-          name: NYTimes
-          id: com.nytimes.android
-          url: nyt://article/4f28b6ac-32c8-56df-b241-e31f8c842b14
-    favicon: http://www.nytimes.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico
-- text: Sponsored Stories
-  original: http://mashable.com/2013/01/03/facebook-settlement-email/
-  archive: http://web.archive.org/web/20200502050145/https://mashable.com/2013/01/03/facebook-settlement-email/
-- text: If you 'like' me
-  original: http://readwrite.com/2012/12/11/why-are-dead-people-liking-stuff-on-facebook
-  archive: http://web.archive.org/web/20191230055425/https://readwrite.com/2012/12/11/why-are-dead-people-liking-stuff-on-facebook/
+refs: '[{"text"=>"does things on our behalf", "original"=>"http://www.forbes.com/sites/anthonykosner/2013/01/21/facebook-is-recycling-your-likes-to-promote-stories-youve-never-seen-to-all-your-friends/",
+  "archive"=>"http://web.archive.org/web/20200531055608/https://www.forbes.com/sites/anthonykosner/2013/01/21/facebook-is-recycling-your-likes-to-promote-stories-youve-never-seen-to-all-your-friends/",
+  "meta"=>{"title"=>"Security Violation (403)", "favicon"=>"http://www.forbes.com/favicon.ico"}},
+  {"text"=>"corporate researchers have been mining", "original"=>"http://www.nytimes.com/2012/02/05/opinion/sunday/facebook-is-using-you.html?pagewanted=all&_r=1&",
+  "meta"=>{"title"=>"Opinion | Facebook Is Using You - The New York Times", "description"=>"Whether
+  you can obtain a job, credit or insurance can be based on your digital doppelgänger
+  — and you may never know why you’ve been turned down.", "open_graph"=>{"url"=>"https://www.nytimes.com/2012/02/05/opinion/sunday/facebook-is-using-you.html",
+  "type"=>"article", "title"=>"Opinion | Facebook Is Using You", "images"=>[{"url"=>"https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"}],
+  "description"=>"Whether you can obtain a job, credit or insurance can be based on
+  your digital doppelgänger — and you may never know why you’ve been turned down."},
+  "twitter_card"=>{"url"=>"https://www.nytimes.com/2012/02/05/opinion/sunday/facebook-is-using-you.html",
+  "title"=>"Opinion | Facebook Is Using You", "description"=>"Whether you can obtain
+  a job, credit or insurance can be based on your digital doppelgänger — and you may
+  never know why you’ve been turned down.", "images"=>[{"url"=>"https://static01.nyt.com/newsgraphics/images/icons/defaultCrop.png",
+  "alt"=>""}], "card"=>"summary_large_image", "apps"=>{"googleplay"=>{"name"=>"NYTimes",
+  "id"=>"com.nytimes.android", "url"=>"nyt://article/4f28b6ac-32c8-56df-b241-e31f8c842b14"}}},
+  "favicon"=>"http://www.nytimes.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico"}},
+  {"text"=>"Sponsored Stories", "original"=>"http://mashable.com/2013/01/03/facebook-settlement-email/",
+  "archive"=>"http://web.archive.org/web/20200502050145/https://mashable.com/2013/01/03/facebook-settlement-email/"},
+  {"text"=>"If you ''like'' me", "original"=>"http://readwrite.com/2012/12/11/why-are-dead-people-liking-stuff-on-facebook",
+  "archive"=>"http://web.archive.org/web/20191230055425/https://readwrite.com/2012/12/11/why-are-dead-people-liking-stuff-on-facebook/"}]'
 sources: 
 published: true
 img: 

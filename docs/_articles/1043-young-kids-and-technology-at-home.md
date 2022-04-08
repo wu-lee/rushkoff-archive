@@ -1,18 +1,14 @@
 ---
 id: 1043
 title: Young Kids and Technology at Home
+subtitle: 
 date: '2013-01-04T05:00:00.000Z'
-publication:
-  id: 9
-  title: Edutopia
-  slug: edutopia
-  created_at: '2020-08-03T15:09:22.000Z'
-  updated_at: '2020-08-03T15:09:43.000Z'
+publication: Edutopia
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1043-young-kids-and-technology-at-home
 created_at: '2020-08-03T04:24:36.000Z'

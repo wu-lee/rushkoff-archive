@@ -1,14 +1,10 @@
 ---
 id: 712
 title: Ed Snowden - Human Hero Intervenes on Machine Logic
+subtitle: 
 date: '2013-06-10T04:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
 refs: 
 sources: 

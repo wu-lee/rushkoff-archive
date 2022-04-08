@@ -1,13 +1,9 @@
 ---
 id: 2
 title: The Sabbath Revolt
+subtitle: 
 date: '2009-04-11T04:00:00.000Z'
-publication:
-  id: 1
-  title: Adbusters
-  slug: adbusters
-  created_at: '2020-08-03T15:07:12.000Z'
-  updated_at: '2020-08-03T15:07:12.000Z'
+publication: Adbusters
 blurb: Printed in Adbusters No. 34, 1999
 notes: 
 refs: 

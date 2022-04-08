@@ -1,94 +1,54 @@
 ---
 id: 740
 title: Why Reining in Google Is Good for Us
+subtitle: 
 date: '2012-05-04T04:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
-refs:
-- text: challenging
-  original: http://www.nytimes.com/2012/04/28/technology/us-move-has-google-fighting-on-2-fronts.html
-  archive: http://web.archive.org/web/20171015161111/http://www.nytimes.com:80/2012/04/28/technology/us-move-has-google-fighting-on-2-fronts.html
-  meta:
-    title: U.S. Antitrust Move Has Google Fighting on Two Fronts - The New York Times
-    description: A potential case by the Federal Trade Commission, which hired a former
-      prosecutor to lead its effort, could embolden European Union officials in their
-      own antitrust investigation.
-    open_graph:
-      url: https://www.nytimes.com/2012/04/28/technology/us-move-has-google-fighting-on-2-fronts.html
-      type: article
-      title: U.S. Antitrust Move Has Google Fighting on Two Fronts
-      images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-      description: A potential case by the Federal Trade Commission, which hired a
-        former prosecutor to lead its effort, could embolden European Union officials
-        in their own antitrust investigation.
-    twitter_card:
-      url: https://www.nytimes.com/2012/04/28/technology/us-move-has-google-fighting-on-2-fronts.html
-      title: U.S. Antitrust Move Has Google Fighting on Two Fronts
-      description: A potential case by the Federal Trade Commission, which hired a
-        former prosecutor to lead its effort, could embolden European Union officials
-        in their own antitrust investigation.
-      images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultCrop.png
-        alt: Gary Reback, a lawyer at Carr & Ferrell, represents companies who have
-          complained to the government about Google.
-      card: summary_large_image
-      apps:
-        googleplay:
-          name: NYTimes
-          id: com.nytimes.android
-          url: nyt://article/31cc7e22-7312-5c44-86ef-16ee06176f17
-    favicon: http://www.nytimes.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico
-- text: getting slapped
-  original: http://web.archive.org/web/20060413082435/http://www.cnn.com/2004/BUSINESS/03/24/microsoft.eu/
-  archive: http://web.archive.org/web/20190323120030/https://web.archive.org/web/20060413082435/http://www.cnn.com/2004/BUSINESS/03/24/microsoft.eu/
-- text: do some WiFi monitoring
-  original: http://www.bloomberg.com/news/2012-04-29/google-staff-said-they-were-unaware-of-data-gathering-fcc-says.html
-  archive: http://web.archive.org/web/20130514031250/http://www.bloomberg.com/news/2012-04-29/google-staff-said-they-were-unaware-of-data-gathering-fcc-says.html
-  meta:
-    title: Bloomberg - Are you a robot?
-    favicon: http://www.bloomberg.com/favicon.ico
-- text: got irked by this move
-  original: http://www.pcmag.com/article2/0,2817,2383363,00.asp
-  archive: http://web.archive.org/web/20190202220405/https://www.pcmag.com/article2/0,2817,2383363,00.asp
-  meta:
-    title: Google Abandons Street View in Germany | PCMag
-    description: Google has voluntarily opted out of enlarging its Street View program
-      within Germany--what's been shot by Google's roving cars will stay, but no new
-      Street View images will be added to Google's program.
-    open_graph:
-      site_name: PCMAG
-      title: Google Abandons Street View in Germany
-      url: https://www.pcmag.com/archive/google-abandons-street-view-in-germany-262946
-      images:
-      - url: https://www.pcmag.com/images/pcmag-social-share.jpg
-        width: 1200
-        height: 1200
-      description: Google has voluntarily opted out of enlarging its Street View program
-        within Germany--what's been shot by Google's roving cars will stay, but no
-        new Street View images will be added to Google's program.
-    twitter_card:
-      card: summary
-      site: "@pcmag"
-      url: https://www.pcmag.com/archive/google-abandons-street-view-in-germany-262946
-      title: Google Abandons Street View in Germany
-      description: Google has voluntarily opted out of enlarging its Street View program
-        within Germany--what's been shot by Google's roving cars will stay, but no
-        new Street View images will be added to Google's program.
-      images:
-      - url: https://www.pcmag.com/images/pcmag-social-share.jpg
-    favicon: http://www.pcmag.com/images/android-chrome-192x192.png
-- text: what
-  original: http://www.sabine.k12.la.us/zhs/Webintro/gopher.html
-  meta:
-    title: Error 404 - Page Not Found
-    favicon: http://www.sabine.k12.la.us/favicon.ico
+refs: '[{"text"=>"challenging", "original"=>"http://www.nytimes.com/2012/04/28/technology/us-move-has-google-fighting-on-2-fronts.html",
+  "archive"=>"http://web.archive.org/web/20171015161111/http://www.nytimes.com:80/2012/04/28/technology/us-move-has-google-fighting-on-2-fronts.html",
+  "meta"=>{"title"=>"U.S. Antitrust Move Has Google Fighting on Two Fronts - The New
+  York Times", "description"=>"A potential case by the Federal Trade Commission, which
+  hired a former prosecutor to lead its effort, could embolden European Union officials
+  in their own antitrust investigation.", "open_graph"=>{"url"=>"https://www.nytimes.com/2012/04/28/technology/us-move-has-google-fighting-on-2-fronts.html",
+  "type"=>"article", "title"=>"U.S. Antitrust Move Has Google Fighting on Two Fronts",
+  "images"=>[{"url"=>"https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"}],
+  "description"=>"A potential case by the Federal Trade Commission, which hired a
+  former prosecutor to lead its effort, could embolden European Union officials in
+  their own antitrust investigation."}, "twitter_card"=>{"url"=>"https://www.nytimes.com/2012/04/28/technology/us-move-has-google-fighting-on-2-fronts.html",
+  "title"=>"U.S. Antitrust Move Has Google Fighting on Two Fronts", "description"=>"A
+  potential case by the Federal Trade Commission, which hired a former prosecutor
+  to lead its effort, could embolden European Union officials in their own antitrust
+  investigation.", "images"=>[{"url"=>"https://static01.nyt.com/newsgraphics/images/icons/defaultCrop.png",
+  "alt"=>"Gary Reback, a lawyer at Carr & Ferrell, represents companies who have complained
+  to the government about Google."}], "card"=>"summary_large_image", "apps"=>{"googleplay"=>{"name"=>"NYTimes",
+  "id"=>"com.nytimes.android", "url"=>"nyt://article/31cc7e22-7312-5c44-86ef-16ee06176f17"}}},
+  "favicon"=>"http://www.nytimes.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico"}},
+  {"text"=>"getting slapped", "original"=>"http://web.archive.org/web/20060413082435/http://www.cnn.com/2004/BUSINESS/03/24/microsoft.eu/",
+  "archive"=>"http://web.archive.org/web/20190323120030/https://web.archive.org/web/20060413082435/http://www.cnn.com/2004/BUSINESS/03/24/microsoft.eu/"},
+  {"text"=>"do some WiFi monitoring", "original"=>"http://www.bloomberg.com/news/2012-04-29/google-staff-said-they-were-unaware-of-data-gathering-fcc-says.html",
+  "archive"=>"http://web.archive.org/web/20130514031250/http://www.bloomberg.com/news/2012-04-29/google-staff-said-they-were-unaware-of-data-gathering-fcc-says.html",
+  "meta"=>{"title"=>"Bloomberg - Are you a robot?", "favicon"=>"http://www.bloomberg.com/favicon.ico"}},
+  {"text"=>"got irked by this move", "original"=>"http://www.pcmag.com/article2/0,2817,2383363,00.asp",
+  "archive"=>"http://web.archive.org/web/20190202220405/https://www.pcmag.com/article2/0,2817,2383363,00.asp",
+  "meta"=>{"title"=>"Google Abandons Street View in Germany | PCMag", "description"=>"Google
+  has voluntarily opted out of enlarging its Street View program within Germany--what''s
+  been shot by Google''s roving cars will stay, but no new Street View images will
+  be added to Google''s program.", "open_graph"=>{"site_name"=>"PCMAG", "title"=>"Google
+  Abandons Street View in Germany", "url"=>"https://www.pcmag.com/archive/google-abandons-street-view-in-germany-262946",
+  "images"=>[{"url"=>"https://www.pcmag.com/images/pcmag-social-share.jpg", "width"=>1200,
+  "height"=>1200}], "description"=>"Google has voluntarily opted out of enlarging
+  its Street View program within Germany--what''s been shot by Google''s roving cars
+  will stay, but no new Street View images will be added to Google''s program."},
+  "twitter_card"=>{"card"=>"summary", "site"=>"@pcmag", "url"=>"https://www.pcmag.com/archive/google-abandons-street-view-in-germany-262946",
+  "title"=>"Google Abandons Street View in Germany", "description"=>"Google has voluntarily
+  opted out of enlarging its Street View program within Germany--what''s been shot
+  by Google''s roving cars will stay, but no new Street View images will be added
+  to Google''s program.", "images"=>[{"url"=>"https://www.pcmag.com/images/pcmag-social-share.jpg"}]},
+  "favicon"=>"http://www.pcmag.com/images/android-chrome-192x192.png"}}, {"text"=>"what",
+  "original"=>"http://www.sabine.k12.la.us/zhs/Webintro/gopher.html", "meta"=>{"title"=>"Error
+  404 - Page Not Found", "favicon"=>"http://www.sabine.k12.la.us/favicon.ico"}}]'
 sources: 
 published: true
 img: "../../../../storage/google-__SQUARESPACE_CACHEVERSION=1379079599480.jpg"

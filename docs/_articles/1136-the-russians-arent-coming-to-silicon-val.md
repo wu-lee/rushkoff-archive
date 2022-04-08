@@ -1,13 +1,9 @@
 ---
 id: 1136
 title: The Russians aren’t coming to Silicon Valley, they’re already here
+subtitle: 
 date: '2017-01-21T17:00:00.000Z'
-publication:
-  id: 47
-  title: Digital Trends
-  slug: digital-trends
-  created_at: '2021-09-30T17:13:19.000Z'
-  updated_at: '2021-09-30T17:13:19.000Z'
+publication: Digital Trends
 blurb: 
 notes: 
 refs: 

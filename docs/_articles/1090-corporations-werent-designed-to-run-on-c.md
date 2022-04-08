@@ -1,13 +1,9 @@
 ---
 id: 1090
 title: Corporations Weren’t Designed to Run on Code
+subtitle: 
 date: '2016-03-02T17:00:00.000Z'
-publication:
-  id: 23
-  title: Medium
-  slug: medium
-  created_at: '2020-08-03T15:13:31.000Z'
-  updated_at: '2020-08-03T15:13:31.000Z'
+publication: Medium
 blurb: 
 notes: 
 refs: 

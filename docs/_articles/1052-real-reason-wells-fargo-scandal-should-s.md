@@ -1,18 +1,14 @@
 ---
 id: 1052
 title: Real reason Wells Fargo scandal should scare you
+subtitle: 
 date: '2016-09-09T04:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
+publication: CNN
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1052-real-reason-wells-fargo-scandal-should-s
 created_at: '2020-12-02T14:21:58.000Z'

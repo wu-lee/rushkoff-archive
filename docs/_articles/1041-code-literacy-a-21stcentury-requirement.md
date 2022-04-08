@@ -1,18 +1,14 @@
 ---
 id: 1041
 title: 'Code Literacy: A 21st-Century Requirement'
+subtitle: 
 date: '2012-11-13T05:00:00.000Z'
-publication:
-  id: 9
-  title: Edutopia
-  slug: edutopia
-  created_at: '2020-08-03T15:09:22.000Z'
-  updated_at: '2020-08-03T15:09:43.000Z'
+publication: Edutopia
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1041-code-literacy-a-21stcentury-requirement
 created_at: '2020-08-03T04:22:16.000Z'

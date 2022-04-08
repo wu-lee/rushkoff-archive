@@ -1,13 +1,9 @@
 ---
 id: 969
 title: Which One of These Sneakers Is Me?
+subtitle: 
 date: '2009-04-13T04:00:00.000Z'
-publication:
-  id: 21
-  title: London Times
-  slug: london-times
-  created_at: '2020-08-03T15:13:08.000Z'
-  updated_at: '2020-08-03T17:00:37.000Z'
+publication: London Times
 blurb: How Marketers Outsmart Our Media-Savvy Children
 notes: 
 refs: 
@@ -24,7 +20,7 @@ His jaw was dropped and his eyes were glazed over - a psycho-physical response t
 
 Having finished several years of research on this exact mind state, I knew to proceed with caution. I slowly made my way to the boy's side and gently asked him, "what is going through your mind right now?"
 
-He responded without hesitation, "I don't know which of these trainers is \_me\_." The boy proceeded to explain his dilemma. He thought of Nike as the most utilitarian and scientifically advanced shoe, but had heard something about third world laborers and was afraid that wearing this brand might label him as too anti-Green. He then considered a skateboard shoe, Airwalk, by an "indie" manufacturer (the trainer equivalent of a micro-brewery) but had recently learned that this company was almost as big as Nike. The truly hip brands of skate shoe were too esoteric for his current profile at school - he'd look like he was "trying." This left the "retro" brands, like Puma, Converse and Adidas, none of which he felt any real affinity, since he wasn't even alive in the 70's when they were truly and non-ironically popular.
+He responded without hesitation, "I don't know which of these trainers is \\_me\\_." The boy proceeded to explain his dilemma. He thought of Nike as the most utilitarian and scientifically advanced shoe, but had heard something about third world laborers and was afraid that wearing this brand might label him as too anti-Green. He then considered a skateboard shoe, Airwalk, by an "indie" manufacturer (the trainer equivalent of a micro-brewery) but had recently learned that this company was almost as big as Nike. The truly hip brands of skate shoe were too esoteric for his current profile at school - he'd look like he was "trying." This left the "retro" brands, like Puma, Converse and Adidas, none of which he felt any real affinity, since he wasn't even alive in the 70's when they were truly and non-ironically popular.
 
 With no clear choice and, more importantly, no other way to conceive of his own identity, the boy stood their, paralyzed in the modern youth equivalent of an existential crisis. Which brand am I, anyway?
 
@@ -56,7 +52,7 @@ Kids feel the tug, but in a way they can't quite identify as advertising. Their 
 
 Moreover, the time a child spends in the Pokemon craze amounts to a remedial lesson in how to consume. Pokemon teaches them how to want things that they can't or won't actually play with. In fact, it teaches them how to buy things they don't even want. While a child might want one particular card, he needs to purchase them in packages whose contents are not revealed. He must buy blind and repeatedly until he gets the object of his desire.
 
-Worse yet, the card itself has no value - certainly not as a play-thing. It is a functionless purchase, slipped into a display case, whose value lies purely in its possession. It is analogous to those children who buy action figures from their favorite TV shows and movies, with \_no intention of ever removing them from their packaging!\_ They are purchased for their collectible value alone. Thus, the imagination game is reduced to some fictional moment in the future where the will, presumably, be resold to another collector. Children are no longer playing. They are investing.
+Worse yet, the card itself has no value - certainly not as a play-thing. It is a functionless purchase, slipped into a display case, whose value lies purely in its possession. It is analogous to those children who buy action figures from their favorite TV shows and movies, with \\_no intention of ever removing them from their packaging!\\_ They are purchased for their collectible value alone. Thus, the imagination game is reduced to some fictional moment in the future where the will, presumably, be resold to another collector. Children are no longer playing. They are investing.
 
 Meanwhile, older kids have attempted to opt out of aspiration, altogether. The "15-24" demographic, considered by marketers the most difficult to wrangle into submission, have adopted a series of postures they hoped would make them impervious to marketing techniques. They take pride in their ability to recognize when they are being pandered to, and watch TV for the sole purpose of calling out when they are being manipulated. They are armchair media theorists, who take pleasure in deconstructing and defusing the messages of their enemies.
 

@@ -1,70 +1,37 @@
 ---
 id: 710
 title: Are Jobs Obsolete?
+subtitle: 
 date: '2011-09-07T04:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
-refs:
-- text: U.N. Food and Agriculture Organization
-  original: http://www.fao.org/dg/1999/millen-e.htm
-  meta:
-    title: 'FAO: From the Office of the Director-General'
-    favicon: http://www.fao.org/favicon.ico
-- text: demolishing vacant dwellings
-  original: http://www.cnn.com/video/#/video/bestoftv/2009/05/05/nr.bank.demolishes.home.cnn?iref=allsearch
-  archive: http://web.archive.org/web/20140228103618/http://www.cnn.com/video/
-  meta:
-    title: Video News - CNN
-    open_graph:
-      url: https://www.cnn.com/videos
-      title: Video News - CNN
-      description: Watch breaking news videos, viral videos and original video clips
-        on CNN.com.
-      site_name: CNN
-      type: website
-    twitter_card:
-      title: Video News - CNN
-      description: Watch breaking news videos, viral videos and original video clips
-        on CNN.com.
-      card: summary_large_image
-    description: Watch breaking news videos, viral videos and original video clips
-      on CNN.com.
-    keywords:
-    - breaking news video
-    - news videos
-    - cnn video
-    - videos
-    - Video News - CNN
-    favicon: http://www.cnn.com/favicon.ico
-- text: recently pointed out
-  original: http://edge.org/conversation/the-local-global-flip
-  archive: http://web.archive.org/web/20200723020142/https://www.edge.org/conversation/the-local-global-flip
-sources:
-- _type: WebPage
-  id: https://api.cognitive.microsoft.com/api/v7/#WebPages.0
-  name: Are jobs obsolete? - CNN.com
-  url: http://www.cnn.com/2011/OPINION/09/07/rushkoff.jobs.obsolete/index.html
-  displayUrl: www.cnn.com/2011/OPINION/09/07/rushkoff.jobs.obsolete
-  snippet: The U.S. Postal Service appears to be the latest casualty in digital technology's
-    slow but steady replacement of working humans. Unless an external source of funding
-    comes in, the post office will ...
-  dateLastCrawled: '2020-07-26T23:42:00.0000000Z'
-- _type: WebPage
-  id: https://api.cognitive.microsoft.com/api/v7/#WebPages.1
-  name: 'CNN.com: Are Jobs Obsolete? - Rushkoff'
-  url: https://rushkoff.com/cnn-com-are-jobs-obsolete/
-  displayUrl: https://rushkoff.com/cnn-com-are-jobs-obsolete
-  snippet: "(CNN) — The U.S. Postal Service appears to be the latest casualty in digital
-    technology’s slow but steady replacement of working humans. Unless an external
-    source of funding comes in, the post office will have to scale back its operations
-    drastically, or simply shut down altogether."
-  dateLastCrawled: '2020-07-28T03:28:00.0000000Z'
+refs: '[{"text"=>"U.N. Food and Agriculture Organization", "original"=>"http://www.fao.org/dg/1999/millen-e.htm",
+  "meta"=>{"title"=>"FAO: From the Office of the Director-General", "favicon"=>"http://www.fao.org/favicon.ico"}},
+  {"text"=>"demolishing vacant dwellings", "original"=>"http://www.cnn.com/video/#/video/bestoftv/2009/05/05/nr.bank.demolishes.home.cnn?iref=allsearch",
+  "archive"=>"http://web.archive.org/web/20140228103618/http://www.cnn.com/video/",
+  "meta"=>{"title"=>"Video News - CNN", "open_graph"=>{"url"=>"https://www.cnn.com/videos",
+  "title"=>"Video News - CNN", "description"=>"Watch breaking news videos, viral videos
+  and original video clips on CNN.com.", "site_name"=>"CNN", "type"=>"website"}, "twitter_card"=>{"title"=>"Video
+  News - CNN", "description"=>"Watch breaking news videos, viral videos and original
+  video clips on CNN.com.", "card"=>"summary_large_image"}, "description"=>"Watch
+  breaking news videos, viral videos and original video clips on CNN.com.", "keywords"=>["breaking
+  news video", "news videos", "cnn video", "videos", "Video News - CNN"], "favicon"=>"http://www.cnn.com/favicon.ico"}},
+  {"text"=>"recently pointed out", "original"=>"http://edge.org/conversation/the-local-global-flip",
+  "archive"=>"http://web.archive.org/web/20200723020142/https://www.edge.org/conversation/the-local-global-flip"}]'
+sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v7/#WebPages.0",
+  "name"=>"Are jobs obsolete? - CNN.com", "url"=>"http://www.cnn.com/2011/OPINION/09/07/rushkoff.jobs.obsolete/index.html",
+  "displayUrl"=>"www.cnn.com/2011/OPINION/09/07/rushkoff.jobs.obsolete", "snippet"=>"The
+  U.S. Postal Service appears to be the latest casualty in digital technology''s slow
+  but steady replacement of working humans. Unless an external source of funding comes
+  in, the post office will ...", "dateLastCrawled"=>"2020-07-26T23:42:00.0000000Z"},
+  {"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v7/#WebPages.1",
+  "name"=>"CNN.com: Are Jobs Obsolete? - Rushkoff", "url"=>"https://rushkoff.com/cnn-com-are-jobs-obsolete/",
+  "displayUrl"=>"https://rushkoff.com/cnn-com-are-jobs-obsolete", "snippet"=>"(CNN)
+  — The U.S. Postal Service appears to be the latest casualty in digital technology’s
+  slow but steady replacement of working humans. Unless an external source of funding
+  comes in, the post office will have to scale back its operations drastically, or
+  simply shut down altogether.", "dateLastCrawled"=>"2020-07-28T03:28:00.0000000Z"}]'
 published: true
 img: http://i.cdn.turner.com/cnn/.element/img/3.0/global/icons/video_icon.gif
 slug: 0710-are-jobs-obsolete

@@ -1,18 +1,14 @@
 ---
 id: 1018
 title: Now, outsourcing bug bites the US
+subtitle: 
 date: '2006-01-01T05:00:00.000Z'
-publication:
-  id: 8
-  title: Economic Times
-  slug: economic-times
-  created_at: '2020-08-03T15:09:16.000Z'
-  updated_at: '2020-08-03T15:09:16.000Z'
+publication: Economic Times
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1018-now-outsourcing-bug-bites-the-us
 created_at: '2020-08-02T06:28:30.000Z'

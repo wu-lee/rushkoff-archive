@@ -1,32 +1,18 @@
 ---
 id: 844
 title: Walter's Wireless World
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: What would Walter Ong have thought about the current evolution of mobile media,
   or, What Would Jesus Moblog?
 notes: 
-refs:
-- text: extraordinary discussion
-  original: http://www.thefeature.com/article?articleid=100229
-  archive: http://web.archive.org/web/20050405230837/http://www.thefeature.com:80/article?articleid=100229
-  meta:
-    title: 'ページが見つかりませんでした  '
-    keywords:
-    - ''
-    favicon: http://www.thefeature.com/favicon.ico
-- text: Walter Ong
-  original: http://www.rememberingwalterong.com/
-- text: the Well
-  original: http://www.well.com/
-  archive: http://web.archive.org/web/20200731174223/https://www.well.com/
-- text: Electric Minds
-  original: http://gnutenberg.net/textz/text.php?text=rheingold_howard_my_experience_with_electric_minds&id=1009948415611
+refs: '[{"text"=>"extraordinary discussion", "original"=>"http://www.thefeature.com/article?articleid=100229",
+  "archive"=>"http://web.archive.org/web/20050405230837/http://www.thefeature.com:80/article?articleid=100229",
+  "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}},
+  {"text"=>"Walter Ong", "original"=>"http://www.rememberingwalterong.com/"}, {"text"=>"the
+  Well", "original"=>"http://www.well.com/", "archive"=>"http://web.archive.org/web/20200731174223/https://www.well.com/"},
+  {"text"=>"Electric Minds", "original"=>"http://gnutenberg.net/textz/text.php?text=rheingold_howard_my_experience_with_electric_minds&id=1009948415611"}]'
 sources: 
 published: true
 img: 

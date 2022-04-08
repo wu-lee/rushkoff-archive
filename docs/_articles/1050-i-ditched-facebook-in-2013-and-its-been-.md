@@ -1,18 +1,14 @@
 ---
 id: 1050
 title: I ditched Facebook in 2013, and it's been fine
+subtitle: 
 date: '2018-03-21T22:30:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
+publication: CNN
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1050-i-ditched-facebook-in-2013-and-its-been-
 created_at: '2020-12-02T14:17:27.000Z'

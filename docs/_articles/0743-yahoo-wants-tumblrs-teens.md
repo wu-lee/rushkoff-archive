@@ -1,25 +1,17 @@
 ---
 id: 743
 title: Yahoo Wants Tumblr's Teens
+subtitle: 
 date: '2013-05-20T04:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
-refs:
-- text: pay over $1 billion
-  original: http://money.cnn.com/2013/05/20/technology/yahoo-buys-tumblr/index.html
-  archive: http://web.archive.org/web/20200531093325/https://money.cnn.com/2013/05/20/technology/yahoo-buys-tumblr/index.html
-- text: for web-sharing app Instagram
-  original: http://dealbook.nytimes.com/2012/04/09/facebook-buys-instagram-for-1-billion/
-  archive: http://web.archive.org/web/20200722163907/https://dealbook.nytimes.com/2012/04/09/facebook-buys-instagram-for-1-billion/
-- text: his blog post responding
-  original: http://staff.tumblr.com/post/50902268806/news
-  archive: http://web.archive.org/web/20200623231018/https://staff.tumblr.com/post/50902268806/news
+refs: '[{"text"=>"pay over $1 billion", "original"=>"http://money.cnn.com/2013/05/20/technology/yahoo-buys-tumblr/index.html",
+  "archive"=>"http://web.archive.org/web/20200531093325/https://money.cnn.com/2013/05/20/technology/yahoo-buys-tumblr/index.html"},
+  {"text"=>"for web-sharing app Instagram", "original"=>"http://dealbook.nytimes.com/2012/04/09/facebook-buys-instagram-for-1-billion/",
+  "archive"=>"http://web.archive.org/web/20200722163907/https://dealbook.nytimes.com/2012/04/09/facebook-buys-instagram-for-1-billion/"},
+  {"text"=>"his blog post responding", "original"=>"http://staff.tumblr.com/post/50902268806/news",
+  "archive"=>"http://web.archive.org/web/20200623231018/https://staff.tumblr.com/post/50902268806/news"}]'
 sources: 
 published: true
 img: 

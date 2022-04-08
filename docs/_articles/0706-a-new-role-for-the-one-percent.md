@@ -1,26 +1,18 @@
 ---
 id: 706
 title: A New Role for the One Percent
+subtitle: 
 date: '2012-03-09T05:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
 refs: 
-sources:
-- _type: WebPage
-  id: https://api.cognitive.microsoft.com/api/v7/#WebPages.0
-  name: 'Douglas Rushkoff: News & Videos about Douglas ... - CNN'
-  url: http://www.cnn.com/OPINION/rushkoff.commentaries/archive/index.html
-  displayUrl: www.cnn.com/OPINION/rushkoff.commentaries/archive
-  snippet: A whole lot of us are stuck with credit-card debt that goes up each month,
-    mortgages worth more than our homes and student loans that extend into infinity.
-    So it's only natural that we look at the ...
-  dateLastCrawled: '2020-04-29T23:48:00.0000000Z'
+sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v7/#WebPages.0",
+  "name"=>"Douglas Rushkoff: News & Videos about Douglas ... - CNN", "url"=>"http://www.cnn.com/OPINION/rushkoff.commentaries/archive/index.html",
+  "displayUrl"=>"www.cnn.com/OPINION/rushkoff.commentaries/archive", "snippet"=>"A
+  whole lot of us are stuck with credit-card debt that goes up each month, mortgages
+  worth more than our homes and student loans that extend into infinity. So it''s
+  only natural that we look at the ...", "dateLastCrawled"=>"2020-04-29T23:48:00.0000000Z"}]'
 published: true
 img: 
 slug: 0706-a-new-role-for-the-one-percent

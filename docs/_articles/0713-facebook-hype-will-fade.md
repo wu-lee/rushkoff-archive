@@ -1,25 +1,15 @@
 ---
 id: 713
 title: Facebook Hype Will Fade
+subtitle: 
 date: '2011-01-07T05:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
-refs:
-- text: CNN.com
-  original: http://www.cnn.com/2011/OPINION/01/07/rushkoff.facebook.myspace/
-  meta:
-    title: Facebook hype will fade - CNN.com
-    open_graph:
-      title: Facebook hype will fade
-      type: article
-    description: 'All signs for Facebook appear to be pointing up. '
-    favicon: http://www.cnn.com/favicon.ico
+refs: '[{"text"=>"CNN.com", "original"=>"http://www.cnn.com/2011/OPINION/01/07/rushkoff.facebook.myspace/",
+  "meta"=>{"title"=>"Facebook hype will fade - CNN.com", "open_graph"=>{"title"=>"Facebook
+  hype will fade", "type"=>"article"}, "description"=>"All signs for Facebook appear
+  to be pointing up. ", "favicon"=>"http://www.cnn.com/favicon.ico"}}]'
 sources: 
 published: true
 img: 

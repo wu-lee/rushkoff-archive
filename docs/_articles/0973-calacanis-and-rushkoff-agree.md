@@ -1,20 +1,13 @@
 ---
 id: 973
 title: Calacanis and Rushkoff Agree
+subtitle: 
 date: '2009-07-29T04:00:00.000Z'
-publication:
-  id: 6
-  title: The Daily Beast
-  slug: daily-beast
-  created_at: '2020-08-03T15:08:16.000Z'
-  updated_at: '2020-08-03T15:10:07.000Z'
+publication: The Daily Beast
 blurb: 'Me, at Daily Beast, on the Yahoo-Microsoft deal:'
 notes: 
-refs:
-- text: Me, at Daily Beast
-  original: http://tinyurl.com/mchrzl
-- text: Jason Calacanis, on Calacanis.com
-  original: http://calacanis.com/2009/07/29/yahoo-committed-seppuku-today/
+refs: '[{"text"=>"Me, at Daily Beast", "original"=>"http://tinyurl.com/mchrzl"}, {"text"=>"Jason
+  Calacanis, on Calacanis.com", "original"=>"http://calacanis.com/2009/07/29/yahoo-committed-seppuku-today/"}]'
 sources: 
 published: true
 img: 

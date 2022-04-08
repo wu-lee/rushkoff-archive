@@ -1,13 +1,9 @@
 ---
 id: 1179
 title: 'Breaking Up Is Hard to Do: How Market Segmentation Could Erode A Mobile Culture'
+subtitle: 
 date: '2004-11-24T17:00:00.000Z'
-publication:
-  id: 48
-  title: The Feature
-  slug: the-feature
-  created_at: '2021-09-30T17:37:22.000Z'
-  updated_at: '2021-09-30T17:37:22.000Z'
+publication: The Feature
 blurb: 
 notes: 
 refs: 

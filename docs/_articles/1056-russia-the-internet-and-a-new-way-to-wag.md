@@ -1,13 +1,9 @@
 ---
 id: 1056
 title: Russia, the Internet and a new way to wage war?
+subtitle: 
 date: '2015-10-28T16:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
+publication: CNN
 blurb: 
 notes: 
 refs: 

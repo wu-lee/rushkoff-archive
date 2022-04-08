@@ -1,23 +1,15 @@
 ---
 id: 808
 title: As Above, So Below
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: The satellite dish at the heart of a new age conference dedicated to 'world
   peace' begs whether violent communications strategies only beget more of the same.
 notes: 
-refs:
-- text: The Alliance for the New Humanity.
-  original: http://www.anhglobal.org/main.html
-  archive: http://web.archive.org/web/20050306013541/http://www.anhglobal.org:80/main.html
-  meta:
-    description: See related links to what you are looking for.
-    favicon: http://www.anhglobal.org/favicon.ico
+refs: '[{"text"=>"The Alliance for the New Humanity.", "original"=>"http://www.anhglobal.org/main.html",
+  "archive"=>"http://web.archive.org/web/20050306013541/http://www.anhglobal.org:80/main.html",
+  "meta"=>{"description"=>"See related links to what you are looking for.", "favicon"=>"http://www.anhglobal.org/favicon.ico"}}]'
 sources: 
 published: true
 img: 

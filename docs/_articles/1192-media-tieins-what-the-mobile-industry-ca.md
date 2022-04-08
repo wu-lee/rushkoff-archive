@@ -1,13 +1,9 @@
 ---
 id: 1192
 title: 'Media Tie-Ins: What the Mobile Industry Can Learn from Ovaltine'
+subtitle: 
 date: '2004-10-19T16:00:00.000Z'
-publication:
-  id: 48
-  title: The Feature
-  slug: the-feature
-  created_at: '2021-09-30T17:37:22.000Z'
-  updated_at: '2021-09-30T17:37:22.000Z'
+publication: The Feature
 blurb: 
 notes: 
 refs: 

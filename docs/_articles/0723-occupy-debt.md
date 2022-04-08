@@ -1,128 +1,68 @@
 ---
 id: 723
 title: Occupy Debt
+subtitle: 
 date: '2012-11-14T00:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
-refs:
-- text: Most recently,
-  original: http://www.nytimes.com/2012/11/11/nyregion/where-fema-fell-short-occupy-sandy-was-there.html?pagewanted=all
-  archive: http://web.archive.org/web/20200721044136/https://www.nytimes.com/2012/11/11/nyregion/where-fema-fell-short-occupy-sandy-was-there.html?pagewanted=all
-  meta:
-    title: Where FEMA Fell Short, Occupy Sandy Was There - The New York Times
-    description: In Hurricane Sandy’s aftermath, Occupy Wall Street has tapped into
-      an unfulfilled desire among city residents to assist in the recovery.
-    open_graph:
-      url: https://www.nytimes.com/2012/11/11/nyregion/where-fema-fell-short-occupy-sandy-was-there.html
-      type: article
-      title: 'Occupy Sandy: A Movement Moves to Relief'
-      images:
-      - url: https://static01.nyt.com/images/2012/11/11/nyregion/11RECOVER5/11RECOVER5-articleLarge.jpg
-      description: In Hurricane Sandy’s aftermath, Occupy Wall Street has tapped into
-        an unfulfilled desire among city residents to assist in the recovery.
-    twitter_card:
-      url: https://www.nytimes.com/2012/11/11/nyregion/where-fema-fell-short-occupy-sandy-was-there.html
-      title: 'Occupy Sandy: A Movement Moves to Relief'
-      description: In Hurricane Sandy’s aftermath, Occupy Wall Street has tapped into
-        an unfulfilled desire among city residents to assist in the recovery.
-      images:
-      - url: https://static01.nyt.com/images/2012/11/11/nyregion/11RECOVER5/11RECOVER5-articleLarge.jpg
-        alt: ORIENTATION  An Occupy Sandy collection-distribution center in Brooklyn.
-      card: summary_large_image
-      apps:
-        googleplay:
-          name: NYTimes
-          id: com.nytimes.android
-          url: nyt://article/b7983bf3-6789-5762-ad00-a006dfadc26a
-    favicon: http://www.nytimes.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico
-- text: unjustified fees, inappropriate credit products or even outright fraud
-  original: http://dealbook.nytimes.com/2012/08/12/problems-riddle-moves-to-collect-credit-card-debt/
-  archive: http://web.archive.org/web/20200718121627/https://dealbook.nytimes.com/2012/08/12/problems-riddle-moves-to-collect-credit-card-debt/
-- text: Rolling Jubilee
-  original: http://rollingjubilee.org/
-- text: The People's Bailout.
-  original: http://www.lepoissonrouge.com/lpr_events/peoples-bailout/
-  archive: http://web.archive.org/web/20151018071722/http://lepoissonrouge.com/lpr_events/peoples-bailout/
-  meta:
-    title: People's Bailout - LPR
-    open_graph:
-      locale: en_US
-      type: article
-      title: People's Bailout - LPR
-      description: The People’s Bailout, a variety show and telethon to benefit the
-        99%   The event will be livestreamed at www.rollingjubilee.org   Join Strike
-        Debt for an updated version of an old classic, the telethon, to launch The
-        Rolling Jubilee, a campaign that buys debt for pennies on the dollar and does
-        away with it. Instead …
-      url: https://lpr.com/lpr_events/peoples-bailout/
-      site_name: LPR
-      images:
-      - url: https://lpr.com/wp-content/uploads/2012/10/Strikedebt.jpg
-        secure_url: https://lpr.com/wp-content/uploads/2012/10/Strikedebt.jpg
-        width: 699
-        height: 554
-    twitter_card:
-      card: summary
-      description: The People’s Bailout, a variety show and telethon to benefit the
-        99%   The event will be livestreamed at www.rollingjubilee.org   Join Strike
-        Debt for an updated version of an old classic, the telethon, to launch The
-        Rolling Jubilee, a campaign that buys debt for pennies on the dollar and does
-        away with it. Instead […]
-      title: People's Bailout - LPR
-      site: "@lprnyc"
-      images:
-      - url: https://lpr.com/wp-content/uploads/2012/10/Strikedebt.jpg
-      creator: "@lprnyc"
-    favicon: https://lpr.com/wp-content/uploads/2019/09/cropped-circlefish-favicon-192x192.png
-- text: every $25
-  original: http://www.lepoissonrouge.com/lpr_events/peoples-bailout/
-  archive: http://web.archive.org/web/20151018071722/http://lepoissonrouge.com/lpr_events/peoples-bailout/
-  meta:
-    title: People's Bailout - LPR
-    open_graph:
-      locale: en_US
-      type: article
-      title: People's Bailout - LPR
-      description: The People’s Bailout, a variety show and telethon to benefit the
-        99%   The event will be livestreamed at www.rollingjubilee.org   Join Strike
-        Debt for an updated version of an old classic, the telethon, to launch The
-        Rolling Jubilee, a campaign that buys debt for pennies on the dollar and does
-        away with it. Instead …
-      url: https://lpr.com/lpr_events/peoples-bailout/
-      site_name: LPR
-      images:
-      - url: https://lpr.com/wp-content/uploads/2012/10/Strikedebt.jpg
-        secure_url: https://lpr.com/wp-content/uploads/2012/10/Strikedebt.jpg
-        width: 699
-        height: 554
-    twitter_card:
-      card: summary
-      description: The People’s Bailout, a variety show and telethon to benefit the
-        99%   The event will be livestreamed at www.rollingjubilee.org   Join Strike
-        Debt for an updated version of an old classic, the telethon, to launch The
-        Rolling Jubilee, a campaign that buys debt for pennies on the dollar and does
-        away with it. Instead […]
-      title: People's Bailout - LPR
-      site: "@lprnyc"
-      images:
-      - url: https://lpr.com/wp-content/uploads/2012/10/Strikedebt.jpg
-      creator: "@lprnyc"
-    favicon: https://lpr.com/wp-content/uploads/2019/09/cropped-circlefish-favicon-192x192.png
-- text: As a test run, we spent $500, which bought $14,000 of distressed debt. We
-    then ERASED THAT DEBT
-  original: http://howtosharpenpencils.tumblr.com/post/35285338188/the-peoples-bailout
-  archive: http://web.archive.org/web/20200626033905/https://howtosharpenpencils.tumblr.com/post/35285338188/the-peoples-bailout
-- text: Why not bail out the actual people?
-  original: http://www.forbes.com/sites/timworstall/2012/11/10/links-10-nov-finally-an-occupy-wall-street-idea-we-can-all-get-behind-the-rolling-jubilee/
-  meta:
-    title: Security Violation (403)
-    favicon: http://www.forbes.com/favicon.ico
+refs: '[{"text"=>"Most recently,", "original"=>"http://www.nytimes.com/2012/11/11/nyregion/where-fema-fell-short-occupy-sandy-was-there.html?pagewanted=all",
+  "archive"=>"http://web.archive.org/web/20200721044136/https://www.nytimes.com/2012/11/11/nyregion/where-fema-fell-short-occupy-sandy-was-there.html?pagewanted=all",
+  "meta"=>{"title"=>"Where FEMA Fell Short, Occupy Sandy Was There - The New York
+  Times", "description"=>"In Hurricane Sandy’s aftermath, Occupy Wall Street has tapped
+  into an unfulfilled desire among city residents to assist in the recovery.", "open_graph"=>{"url"=>"https://www.nytimes.com/2012/11/11/nyregion/where-fema-fell-short-occupy-sandy-was-there.html",
+  "type"=>"article", "title"=>"Occupy Sandy: A Movement Moves to Relief", "images"=>[{"url"=>"https://static01.nyt.com/images/2012/11/11/nyregion/11RECOVER5/11RECOVER5-articleLarge.jpg"}],
+  "description"=>"In Hurricane Sandy’s aftermath, Occupy Wall Street has tapped into
+  an unfulfilled desire among city residents to assist in the recovery."}, "twitter_card"=>{"url"=>"https://www.nytimes.com/2012/11/11/nyregion/where-fema-fell-short-occupy-sandy-was-there.html",
+  "title"=>"Occupy Sandy: A Movement Moves to Relief", "description"=>"In Hurricane
+  Sandy’s aftermath, Occupy Wall Street has tapped into an unfulfilled desire among
+  city residents to assist in the recovery.", "images"=>[{"url"=>"https://static01.nyt.com/images/2012/11/11/nyregion/11RECOVER5/11RECOVER5-articleLarge.jpg",
+  "alt"=>"ORIENTATION  An Occupy Sandy collection-distribution center in Brooklyn."}],
+  "card"=>"summary_large_image", "apps"=>{"googleplay"=>{"name"=>"NYTimes", "id"=>"com.nytimes.android",
+  "url"=>"nyt://article/b7983bf3-6789-5762-ad00-a006dfadc26a"}}}, "favicon"=>"http://www.nytimes.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico"}},
+  {"text"=>"unjustified fees, inappropriate credit products or even outright fraud",
+  "original"=>"http://dealbook.nytimes.com/2012/08/12/problems-riddle-moves-to-collect-credit-card-debt/",
+  "archive"=>"http://web.archive.org/web/20200718121627/https://dealbook.nytimes.com/2012/08/12/problems-riddle-moves-to-collect-credit-card-debt/"},
+  {"text"=>"Rolling Jubilee", "original"=>"http://rollingjubilee.org/"}, {"text"=>"The
+  People''s Bailout.", "original"=>"http://www.lepoissonrouge.com/lpr_events/peoples-bailout/",
+  "archive"=>"http://web.archive.org/web/20151018071722/http://lepoissonrouge.com/lpr_events/peoples-bailout/",
+  "meta"=>{"title"=>"People''s Bailout - LPR", "open_graph"=>{"locale"=>"en_US", "type"=>"article",
+  "title"=>"People''s Bailout - LPR", "description"=>"The People’s Bailout, a variety
+  show and telethon to benefit the 99%   The event will be livestreamed at www.rollingjubilee.org
+    Join Strike Debt for an updated version of an old classic, the telethon, to launch
+  The Rolling Jubilee, a campaign that buys debt for pennies on the dollar and does
+  away with it. Instead …", "url"=>"https://lpr.com/lpr_events/peoples-bailout/",
+  "site_name"=>"LPR", "images"=>[{"url"=>"https://lpr.com/wp-content/uploads/2012/10/Strikedebt.jpg",
+  "secure_url"=>"https://lpr.com/wp-content/uploads/2012/10/Strikedebt.jpg", "width"=>699,
+  "height"=>554}]}, "twitter_card"=>{"card"=>"summary", "description"=>"The People’s
+  Bailout, a variety show and telethon to benefit the 99%   The event will be livestreamed
+  at www.rollingjubilee.org   Join Strike Debt for an updated version of an old classic,
+  the telethon, to launch The Rolling Jubilee, a campaign that buys debt for pennies
+  on the dollar and does away with it. Instead […]", "title"=>"People''s Bailout -
+  LPR", "site"=>"@lprnyc", "images"=>[{"url"=>"https://lpr.com/wp-content/uploads/2012/10/Strikedebt.jpg"}],
+  "creator"=>"@lprnyc"}, "favicon"=>"https://lpr.com/wp-content/uploads/2019/09/cropped-circlefish-favicon-192x192.png"}},
+  {"text"=>"every $25", "original"=>"http://www.lepoissonrouge.com/lpr_events/peoples-bailout/",
+  "archive"=>"http://web.archive.org/web/20151018071722/http://lepoissonrouge.com/lpr_events/peoples-bailout/",
+  "meta"=>{"title"=>"People''s Bailout - LPR", "open_graph"=>{"locale"=>"en_US", "type"=>"article",
+  "title"=>"People''s Bailout - LPR", "description"=>"The People’s Bailout, a variety
+  show and telethon to benefit the 99%   The event will be livestreamed at www.rollingjubilee.org
+    Join Strike Debt for an updated version of an old classic, the telethon, to launch
+  The Rolling Jubilee, a campaign that buys debt for pennies on the dollar and does
+  away with it. Instead …", "url"=>"https://lpr.com/lpr_events/peoples-bailout/",
+  "site_name"=>"LPR", "images"=>[{"url"=>"https://lpr.com/wp-content/uploads/2012/10/Strikedebt.jpg",
+  "secure_url"=>"https://lpr.com/wp-content/uploads/2012/10/Strikedebt.jpg", "width"=>699,
+  "height"=>554}]}, "twitter_card"=>{"card"=>"summary", "description"=>"The People’s
+  Bailout, a variety show and telethon to benefit the 99%   The event will be livestreamed
+  at www.rollingjubilee.org   Join Strike Debt for an updated version of an old classic,
+  the telethon, to launch The Rolling Jubilee, a campaign that buys debt for pennies
+  on the dollar and does away with it. Instead […]", "title"=>"People''s Bailout -
+  LPR", "site"=>"@lprnyc", "images"=>[{"url"=>"https://lpr.com/wp-content/uploads/2012/10/Strikedebt.jpg"}],
+  "creator"=>"@lprnyc"}, "favicon"=>"https://lpr.com/wp-content/uploads/2019/09/cropped-circlefish-favicon-192x192.png"}},
+  {"text"=>"As a test run, we spent $500, which bought $14,000 of distressed debt.
+  We then ERASED THAT DEBT", "original"=>"http://howtosharpenpencils.tumblr.com/post/35285338188/the-peoples-bailout",
+  "archive"=>"http://web.archive.org/web/20200626033905/https://howtosharpenpencils.tumblr.com/post/35285338188/the-peoples-bailout"},
+  {"text"=>"Why not bail out the actual people?", "original"=>"http://www.forbes.com/sites/timworstall/2012/11/10/links-10-nov-finally-an-occupy-wall-street-idea-we-can-all-get-behind-the-rolling-jubilee/",
+  "meta"=>{"title"=>"Security Violation (403)", "favicon"=>"http://www.forbes.com/favicon.ico"}}]'
 sources: 
 published: true
 img: "../../../../storage/121114050624-rushkoff-occupy-debt-story-top-__SQUARESPACE_CACHEVERSION=1352925412340.jpeg"

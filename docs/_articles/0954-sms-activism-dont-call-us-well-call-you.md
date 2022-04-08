@@ -1,48 +1,22 @@
 ---
 id: 954
 title: 'Sms Activism: Don''t Call Us, We''ll Call You'
+subtitle: 
 date: '2005-06-08T04:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
-blurb: ''
+publication: Nokia's The Feature
+blurb: 
 notes: 
-refs:
-- text: Mass Immediate Response
-  original: http://www.pfaw.org/pfaw/general/default.aspx?oid=18708
-  meta:
-    description: ''
-    open_graph:
-      title: Page not found - People For the American Way
-      type: article
-      url: ''
-      description: ''
-      site_name: People For the American Way
-      images:
-      - url: ''
-      locale: en_US
-    twitter_card:
-      card: summary_large_image
-      site: "@peoplefor"
-      title: " via @peoplefor"
-      images:
-      - url: ''
-    title: Page not found - People For the American Way
-    favicon: https://www.pfaw.org/wp-content/themes/pfaw/images/favicon.ico
-- text: SMS at concerts this year.
-  original: http://www.textually.org/textually/archives/2005/04/007875.htm
-  meta:
-    title: 404 Not Found
-    favicon: http://www.textually.org/favicon.ico
-- text: Amnesty International supporters
-  original: http://www.smartmobs.com/archive/2005/05/30/sms_alerts_as_h.html
-  meta:
-    title: 'Smart Mobs  '
-    description: Just another WordPress weblog
-    favicon: http://www.smartmobs.com/favicon.ico
+refs: '[{"text"=>"Mass Immediate Response", "original"=>"http://www.pfaw.org/pfaw/general/default.aspx?oid=18708",
+  "meta"=>{"description"=>"", "open_graph"=>{"title"=>"Page not found - People For
+  the American Way", "type"=>"article", "url"=>"", "description"=>"", "site_name"=>"People
+  For the American Way", "images"=>[{"url"=>""}], "locale"=>"en_US"}, "twitter_card"=>{"card"=>"summary_large_image",
+  "site"=>"@peoplefor", "title"=>" via @peoplefor", "images"=>[{"url"=>""}]}, "title"=>"Page
+  not found - People For the American Way", "favicon"=>"https://www.pfaw.org/wp-content/themes/pfaw/images/favicon.ico"}},
+  {"text"=>"SMS at concerts this year.", "original"=>"http://www.textually.org/textually/archives/2005/04/007875.htm",
+  "meta"=>{"title"=>"404 Not Found", "favicon"=>"http://www.textually.org/favicon.ico"}},
+  {"text"=>"Amnesty International supporters", "original"=>"http://www.smartmobs.com/archive/2005/05/30/sms_alerts_as_h.html",
+  "meta"=>{"title"=>"Smart Mobs  ", "description"=>"Just another WordPress weblog",
+  "favicon"=>"http://www.smartmobs.com/favicon.ico"}}]'
 sources: 
 published: true
 img: 

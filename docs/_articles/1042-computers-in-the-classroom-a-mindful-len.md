@@ -1,18 +1,14 @@
 ---
 id: 1042
 title: 'Computers in the Classroom: A Mindful Lens on Technology'
+subtitle: 
 date: '2012-12-11T05:00:00.000Z'
-publication:
-  id: 9
-  title: Edutopia
-  slug: edutopia
-  created_at: '2020-08-03T15:09:22.000Z'
-  updated_at: '2020-08-03T15:09:43.000Z'
+publication: Edutopia
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1042-computers-in-the-classroom-a-mindful-len
 created_at: '2020-08-03T04:23:33.000Z'

@@ -1,13 +1,9 @@
 ---
 id: 666
 title: We Don't Run Computers Anymore, They Run Us
+subtitle: 
 date: '2013-03-14T04:00:00.000Z'
-publication:
-  id: 41
-  title: Wall Street Journal
-  slug: wall-street-journal
-  created_at: '2020-08-03T15:16:58.000Z'
-  updated_at: '2020-08-03T15:16:58.000Z'
+publication: Wall Street Journal
 blurb: 
 notes: 
 refs: 

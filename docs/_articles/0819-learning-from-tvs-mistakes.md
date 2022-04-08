@@ -1,13 +1,9 @@
 ---
 id: 819
 title: Learning From Tv's Mistakes
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: Today's advertising crisis needn't threaten mobile content at all. In fact,
   the mobile industry can exploit the coming shift in media buying patterns to establish
   itself firmly in the emerging landscape.

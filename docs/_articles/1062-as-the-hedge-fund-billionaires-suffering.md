@@ -4,13 +4,9 @@ title: As the hedge fund billionaires suffering catastrophic losses in the r/Wal
   activist campaign now realize, we reap what we sow. Even more so in a digital age.
   Norbert Wiener tried to warn us way back in the 1950s that digital technologies
   would b
+subtitle: 
 date: '2021-01-29T17:00:00.000Z'
-publication:
-  id: 23
-  title: Medium
-  slug: medium
-  created_at: '2020-08-03T15:13:31.000Z'
-  updated_at: '2020-08-03T15:13:31.000Z'
+publication: Medium
 blurb: 
 notes: 
 refs: 

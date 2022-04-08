@@ -1,96 +1,51 @@
 ---
 id: 727
 title: Should Twitter Fear Saudi Prince?
+subtitle: 
 date: '2011-12-20T00:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
-refs:
-- text: invested $300 million
-  original: http://money.cnn.com/2011/12/19/technology/saudi_prince_twitter/index.htm
-- text: less restricted about what they can do with them once they quit.
-  original: http://ppc.cc/all-ppc-articles/the-real-reason-twitter-employees-are-leaving%E2%80%94so-they-can-sell-their-stock/
-  archive: http://web.archive.org/web/20160930124805/http://ppc.cc:80/all-ppc-articles/the-real-reason-twitter-employees-are-leaving%E2%80%94so-they-can-sell-their-stock/
-- text: curtailing the regulations
-  original: http://www.whitehouse.gov/blog/2011/11/04/crowdfunding-democratizing-investment-entrepreneurs
-  archive: http://web.archive.org/web/20161109205443/https://www.whitehouse.gov/blog/2011/11/04/crowdfunding-democratizing-investment-entrepreneurs
-  meta:
-    open_graph:
-      site_name: whitehouse.gov
-      type: article
-      url: https://obamawhitehouse.archives.gov/blog/2011/11/04/crowdfunding-democratizing-investment-entrepreneurs
-      title: 'Crowdfunding: Democratizing Investment for Entrepreneurs'
-      description: Yesterday, in an overwhelmingly bipartisan vote of 407-17, the
-        House of Representatives passed a bill supported by President Obama that would
-        allow small companies to raise capital through “crowdfunding.”
-      images:
-      - url: https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/images/twitter_cards_blog.jpg
-        secure_url: https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/images/twitter_cards_blog.jpg
-        type: image/jpeg
-        width: 240
-        height: 240
-    twitter_card:
-      card: summary
-      site: "@WhiteHouse"
-      creator: "@WhiteHouse"
-      url: https://obamawhitehouse.archives.gov/blog/2011/11/04/crowdfunding-democratizing-investment-entrepreneurs
-      title: 'Crowdfunding: Democratizing Investment for Entrepreneurs'
-      images:
-      - url: https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/images/twitter_cards_blog.jpg
-    title: 'Crowdfunding: Democratizing Investment for Entrepreneurs | whitehouse.gov'
-    favicon: https://obamawhitehouse.archives.gov/profiles/forall/themes/custom/fortyfour/favicon.ico
-- text: Original at CNN.com
-  original: http://www.cnn.com/2011/12/20/opinion/rushkoff-saudi-prince-twitter/index.html
-  meta:
-    title: Should Twitter fear Saudi prince? - CNN
-    open_graph:
-      url: https://www.cnn.com/2011/12/20/opinion/rushkoff-saudi-prince-twitter/index.html
-      description: Douglas Rushkoff says there's no need to worry about Twitter's
-        fate now that a Saudi prince has bought a $300 million stake.
-      site_name: CNN
-      type: article
-      images:
-      - url: https://cdn.cnn.com/cnnnext/dam/assets/110915084759-saudi-prince-alwaleed-bin-talal-story-top.jpg
-        width: 460
-        height: 259
-    description: Douglas Rushkoff says there's no need to worry about Twitter's fate
-      now that a Saudi prince has bought a $300 million stake.
-    twitter_card:
-      description: Douglas Rushkoff says there's no need to worry about Twitter's
-        fate now that a Saudi prince has bought a $300 million stake.
-      card: summary_large_image
-      images:
-      - url: https://cdn.cnn.com/cnnnext/dam/assets/110915084759-saudi-prince-alwaleed-bin-talal-story-top.jpg
-    keywords:
-    - opinion
-    - Should Twitter fear Saudi prince? - CNN
-    favicon: http://www.cnn.com/favicon.ico
-sources:
-- _type: WebPage
-  id: https://api.cognitive.microsoft.com/api/v7/#WebPages.0
-  name: 'CNN: Should Twitter Fear Saudi Prince? - Rushkoff'
-  url: https://rushkoff.com/cnn-should-twitter-fear-saudi-prince/
-  displayUrl: https://rushkoff.com/cnn-should-twitter-fear-saudi-prince
-  snippet: The social media universe has been aghast this week after the revelation
-    that Prince Alwaleed bin Talal of Saudi Arabia has invested $300 million in Twitter.
-    The shock and awe seems to center around the notion that Twitter has been at least
-    partly responsible for the Arab Spring uprisings that directly threaten the Saudi
-    royal […]
-  dateLastCrawled: '2020-07-28T11:40:00.0000000Z'
-- _type: WebPage
-  id: https://api.cognitive.microsoft.com/api/v7/#WebPages.1
-  name: Should Twitter fear Saudi prince? - CNN
-  url: https://www.cnn.com/2011/12/20/opinion/rushkoff-saudi-prince-twitter/index.html
-  displayUrl: https://www.cnn.com/2011/12/20/opinion/rushkoff-saudi-prince-twitter
-  snippet: The social media universe has been aghast this week after the revelation
-    that Prince Alwaleed bin Talal of Saudi Arabia has invested $300 million in Twitter.
-    The shock and awe seems to center ...
-  dateLastCrawled: '2020-04-22T05:51:00.0000000Z'
+refs: '[{"text"=>"invested $300 million", "original"=>"http://money.cnn.com/2011/12/19/technology/saudi_prince_twitter/index.htm"},
+  {"text"=>"less restricted about what they can do with them once they quit.", "original"=>"http://ppc.cc/all-ppc-articles/the-real-reason-twitter-employees-are-leaving%E2%80%94so-they-can-sell-their-stock/",
+  "archive"=>"http://web.archive.org/web/20160930124805/http://ppc.cc:80/all-ppc-articles/the-real-reason-twitter-employees-are-leaving%E2%80%94so-they-can-sell-their-stock/"},
+  {"text"=>"curtailing the regulations", "original"=>"http://www.whitehouse.gov/blog/2011/11/04/crowdfunding-democratizing-investment-entrepreneurs",
+  "archive"=>"http://web.archive.org/web/20161109205443/https://www.whitehouse.gov/blog/2011/11/04/crowdfunding-democratizing-investment-entrepreneurs",
+  "meta"=>{"open_graph"=>{"site_name"=>"whitehouse.gov", "type"=>"article", "url"=>"https://obamawhitehouse.archives.gov/blog/2011/11/04/crowdfunding-democratizing-investment-entrepreneurs",
+  "title"=>"Crowdfunding: Democratizing Investment for Entrepreneurs", "description"=>"Yesterday,
+  in an overwhelmingly bipartisan vote of 407-17, the House of Representatives passed
+  a bill supported by President Obama that would allow small companies to raise capital
+  through “crowdfunding.”", "images"=>[{"url"=>"https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/images/twitter_cards_blog.jpg",
+  "secure_url"=>"https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/images/twitter_cards_blog.jpg",
+  "type"=>"image/jpeg", "width"=>240, "height"=>240}]}, "twitter_card"=>{"card"=>"summary",
+  "site"=>"@WhiteHouse", "creator"=>"@WhiteHouse", "url"=>"https://obamawhitehouse.archives.gov/blog/2011/11/04/crowdfunding-democratizing-investment-entrepreneurs",
+  "title"=>"Crowdfunding: Democratizing Investment for Entrepreneurs", "images"=>[{"url"=>"https://obamawhitehouse.archives.gov/sites/whitehouse.gov/files/images/twitter_cards_blog.jpg"}]},
+  "title"=>"Crowdfunding: Democratizing Investment for Entrepreneurs | whitehouse.gov",
+  "favicon"=>"https://obamawhitehouse.archives.gov/profiles/forall/themes/custom/fortyfour/favicon.ico"}},
+  {"text"=>"Original at CNN.com", "original"=>"http://www.cnn.com/2011/12/20/opinion/rushkoff-saudi-prince-twitter/index.html",
+  "meta"=>{"title"=>"Should Twitter fear Saudi prince? - CNN", "open_graph"=>{"url"=>"https://www.cnn.com/2011/12/20/opinion/rushkoff-saudi-prince-twitter/index.html",
+  "description"=>"Douglas Rushkoff says there''s no need to worry about Twitter''s
+  fate now that a Saudi prince has bought a $300 million stake.", "site_name"=>"CNN",
+  "type"=>"article", "images"=>[{"url"=>"https://cdn.cnn.com/cnnnext/dam/assets/110915084759-saudi-prince-alwaleed-bin-talal-story-top.jpg",
+  "width"=>460, "height"=>259}]}, "description"=>"Douglas Rushkoff says there''s no
+  need to worry about Twitter''s fate now that a Saudi prince has bought a $300 million
+  stake.", "twitter_card"=>{"description"=>"Douglas Rushkoff says there''s no need
+  to worry about Twitter''s fate now that a Saudi prince has bought a $300 million
+  stake.", "card"=>"summary_large_image", "images"=>[{"url"=>"https://cdn.cnn.com/cnnnext/dam/assets/110915084759-saudi-prince-alwaleed-bin-talal-story-top.jpg"}]},
+  "keywords"=>["opinion", "Should Twitter fear Saudi prince? - CNN"], "favicon"=>"http://www.cnn.com/favicon.ico"}}]'
+sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v7/#WebPages.0",
+  "name"=>"CNN: Should Twitter Fear Saudi Prince? - Rushkoff", "url"=>"https://rushkoff.com/cnn-should-twitter-fear-saudi-prince/",
+  "displayUrl"=>"https://rushkoff.com/cnn-should-twitter-fear-saudi-prince", "snippet"=>"The
+  social media universe has been aghast this week after the revelation that Prince
+  Alwaleed bin Talal of Saudi Arabia has invested $300 million in Twitter. The shock
+  and awe seems to center around the notion that Twitter has been at least partly
+  responsible for the Arab Spring uprisings that directly threaten the Saudi royal
+  […]", "dateLastCrawled"=>"2020-07-28T11:40:00.0000000Z"}, {"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v7/#WebPages.1",
+  "name"=>"Should Twitter fear Saudi prince? - CNN", "url"=>"https://www.cnn.com/2011/12/20/opinion/rushkoff-saudi-prince-twitter/index.html",
+  "displayUrl"=>"https://www.cnn.com/2011/12/20/opinion/rushkoff-saudi-prince-twitter",
+  "snippet"=>"The social media universe has been aghast this week after the revelation
+  that Prince Alwaleed bin Talal of Saudi Arabia has invested $300 million in Twitter.
+  The shock and awe seems to center ...", "dateLastCrawled"=>"2020-04-22T05:51:00.0000000Z"}]'
 published: true
 img: 
 slug: 0727-should-twitter-fear-saudi-prince

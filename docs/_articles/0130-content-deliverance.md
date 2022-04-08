@@ -1,39 +1,19 @@
 ---
 id: 130
 title: Content Deliverance
+subtitle: 
 date: '2004-01-25T05:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: 'Content Management is for losers. Young people may have discovered the dark
   truth about digital media: the person who wins the right to store a piece of data
   has actually won the booby prize.'
 notes: 
-refs:
-- text: The Feature
-  original: http://www.thefeature.com/article?articleid=100343
-  meta:
-    title: 'ページが見つかりませんでした  '
-    keywords:
-    - ''
-    favicon: http://www.thefeature.com/favicon.ico
-- text: The Feature
-  original: http://www.thefeature.com/article?articleid=100343
-  meta:
-    title: 'ページが見つかりませんでした  '
-    keywords:
-    - ''
-    favicon: http://www.thefeature.com/favicon.ico
-- text: The Feature
-  original: http://www.thefeature.com/article?articleid=100343
-  meta:
-    title: 'ページが見つかりませんでした  '
-    keywords:
-    - ''
-    favicon: http://www.thefeature.com/favicon.ico
+refs: '[{"text"=>"The Feature", "original"=>"http://www.thefeature.com/article?articleid=100343",
+  "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}},
+  {"text"=>"The Feature", "original"=>"http://www.thefeature.com/article?articleid=100343",
+  "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}},
+  {"text"=>"The Feature", "original"=>"http://www.thefeature.com/article?articleid=100343",
+  "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}}]'
 sources: 
 published: true
 img: http://www.blogger.com:80/img/icon18_email.gif

@@ -1,27 +1,19 @@
 ---
 id: 937
 title: Death in the Center Ring
+subtitle: 
 date: '2008-05-13T04:00:00.000Z'
-publication:
-  id: 43
-  title: Uncategorized
-  slug: uncategorized
-  created_at: '2020-08-03T15:17:32.000Z'
-  updated_at: '2020-08-03T15:17:32.000Z'
+publication: Uncategorized
 blurb: Timothy Leary's High Dive
 notes: 
 refs: 
-sources:
-- _type: WebPage
-  id: https://api.cognitive.microsoft.com/api/v7/#WebPages.0
-  name: Death in the Center Ring - Rushkoff
-  url: https://rushkoff.com/death-in-the-center-ring/
-  displayUrl: https://rushkoff.com/death-in-the-center-ring
-  snippet: Back to all Articles; Death in the Center Ring. Timothy Leary’s High Dive
-    by Douglas Rushkoff “That’s probably the worst place in the house to leave those,”
-    Tim barks at a beautiful young assistant as she clears a pile of videocassettes
-    from the path of his oncoming electric wheelchair.
-  dateLastCrawled: '2020-07-22T10:43:00.0000000Z'
+sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v7/#WebPages.0",
+  "name"=>"Death in the Center Ring - Rushkoff", "url"=>"https://rushkoff.com/death-in-the-center-ring/",
+  "displayUrl"=>"https://rushkoff.com/death-in-the-center-ring", "snippet"=>"Back
+  to all Articles; Death in the Center Ring. Timothy Leary’s High Dive by Douglas
+  Rushkoff “That’s probably the worst place in the house to leave those,” Tim barks
+  at a beautiful young assistant as she clears a pile of videocassettes from the path
+  of his oncoming electric wheelchair.", "dateLastCrawled"=>"2020-07-22T10:43:00.0000000Z"}]'
 published: true
 img: 
 slug: '0937-death-in-the-center-ring'

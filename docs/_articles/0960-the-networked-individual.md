@@ -1,28 +1,18 @@
 ---
 id: 960
 title: The Networked Individual
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: The cell phone may be bringing us into a new renaissance, but it may end up
   differently than what we're expecting. Instead of becoming more empowered as individuals,
   we may give up on the notion of individuality altogether.
 notes: 
-refs:
-- text: Buckminster Fuller
-  original: http://www.bfi.org/operating_manual.htm
-  archive: http://web.archive.org/web/20051103011742/http://www.bfi.org:80/operating_manual.htm
-  meta:
-    title: Oops, 404! | The Buckminster Fuller Institute
-    favicon: https://www.bfi.org/sites/default/files/favicon_0_0.ico
-- text: Networked Individualism
-  original: http://www.ascusc.org/jcmc/vol8/issue3/wellman.html
-  meta:
-    favicon: http://www.ascusc.org/favicon.ico
+refs: '[{"text"=>"Buckminster Fuller", "original"=>"http://www.bfi.org/operating_manual.htm",
+  "archive"=>"http://web.archive.org/web/20051103011742/http://www.bfi.org:80/operating_manual.htm",
+  "meta"=>{"title"=>"Oops, 404! | The Buckminster Fuller Institute", "favicon"=>"https://www.bfi.org/sites/default/files/favicon_0_0.ico"}},
+  {"text"=>"Networked Individualism", "original"=>"http://www.ascusc.org/jcmc/vol8/issue3/wellman.html",
+  "meta"=>{"favicon"=>"http://www.ascusc.org/favicon.ico"}}]'
 sources: 
 published: true
 img: 

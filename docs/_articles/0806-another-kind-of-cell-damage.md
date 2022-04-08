@@ -1,97 +1,47 @@
 ---
 id: 806
 title: Another Kind of Cell Damage
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: Mobile phones marketed to children may cause less injury to tykes than they
   do to the image of the entire wireless industry.
 notes: 
-refs:
-- text: Firefly Mobile
-  original: http://www.fireflymobile.com/
-  meta:
-    favicon: data:image/x-icon;,
-- text: handset for pre and pre-preteens.
-  original: http://fireflymobile.com/product/
-- text: Camel sales went up 8000% among American teens
-  original: http://interact.uoregon.edu/MediaLit/mlr/readings/articles/JoeCamel.html
-- text: streaming animation for mobile phones
-  original: http://www.thefeature.com/article?articleid=101419
-  archive: http://web.archive.org/web/20050313084222/http://www.thefeature.com:80/article?articleid=101419
-  meta:
-    title: 'ページが見つかりませんでした  '
-    keywords:
-    - ''
-    favicon: http://www.thefeature.com/favicon.ico
-- text: Barbie cell phone.
-  original: http://www.businessweek.com/technology/content/feb2005/tc20050218_4609_tc024.htm
-  meta:
-    title: Bloomberg - Are you a robot?
-    favicon: http://www.businessweek.com/favicon.ico
-- text: halted the release of its MyMo mobile phone
-  original: http://www.mobile-weblog.com/archives/mymo_recalled.html
-  archive: http://web.archive.org/web/20060528113103/http://www.mobile-weblog.com:80/archives/mymo_recalled.html
-  meta:
-    title: The Mobile Technology Weblog - Location Based Services and all about Mobile
-      Marketing - mobile technology, trends, technology trends, wireless, mobile marketing,
-      mobile web, mobile internet, mobile 2.0
-    favicon: http://www.mobile-weblog.com/favicon.ico
-- text: UK National Radiological Protection Board
-  original: http://www.nrpb.org/press/information_sheets/mobile_telephony/index.htm
-  archive: http://web.archive.org/web/20181103161610/http://www.nrpb.org:80/press/information_sheets/mobile_telephony/index.htm
-  meta:
-    title: NRPB - ED Symptoms, Causes, and Treatments
-    description: ED Symptoms, Causes, and Treatments
-    open_graph:
-      locale: en_US
-      type: website
-      title: NRPB - ED Symptoms, Causes, and Treatments
-      description: ED Symptoms, Causes, and Treatments
-      url: https://www.nrpb.org/
-      site_name: NRPB
-    twitter_card:
-      card: summary_large_image
-      title: NRPB - ED Symptoms, Causes, and Treatments
-      description: ED Symptoms, Causes, and Treatments
-    favicon: http://cdn-5e1cdb49f911c8096c0b1fdb.closte.com/wp-content/themes/magazine-pro/images/favicon.ico
-- text: SunCom
-  original: http://suncom.com/equipment/Firefly.shtml
-- text: local journalists
-  original: http://www.charlotte.com/mld/charlotte/news/columnists/citizen_watchdog/10839215.htm?template=contentModules/printstory.jsp
-- text: In Good Company
-  original: http://www.imdb.com/title/tt0385267/
-  meta:
-    title: In Good Company (2004) - IMDb
-    open_graph:
-      url: http://www.imdb.com/title/tt0385267/
-      images:
-      - url: https://m.media-amazon.com/images/M/MV5BZjlhOTg4MzQtYWFjOS00MTc0LWIxMjYtN2E1MjA5OWU2ODk0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY1200_CR91,0,630,1200_AL_.jpg
-      type: video.movie
-      title: In Good Company (2004) - IMDb
-      site_name: IMDb
-      description: Directed by Paul Weitz.  With Dennis Quaid, Topher Grace, Scarlett
-        Johansson, Marg Helgenberger. A middle-aged ad exec is faced with a new boss
-        who's nearly half his age... and who also happens to be sleeping with his
-        daughter.
-    description: Directed by Paul Weitz.  With Dennis Quaid, Topher Grace, Scarlett
-      Johansson, Marg Helgenberger. A middle-aged ad exec is faced with a new boss
-      who's nearly half his age... and who also happens to be sleeping with his daughter.
-    keywords:
-    - Reviews
-    - Showtimes
-    - DVDs
-    - Photos
-    - Message Boards
-    - User Ratings
-    - Synopsis
-    - Trailers
-    - Credits
-    favicon: https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/android-mobile-196x196._CB479962153_.png
+refs: '[{"text"=>"Firefly Mobile", "original"=>"http://www.fireflymobile.com/", "meta"=>{"favicon"=>"data:image/x-icon;,"}},
+  {"text"=>"handset for pre and pre-preteens.", "original"=>"http://fireflymobile.com/product/"},
+  {"text"=>"Camel sales went up 8000% among American teens", "original"=>"http://interact.uoregon.edu/MediaLit/mlr/readings/articles/JoeCamel.html"},
+  {"text"=>"streaming animation for mobile phones", "original"=>"http://www.thefeature.com/article?articleid=101419",
+  "archive"=>"http://web.archive.org/web/20050313084222/http://www.thefeature.com:80/article?articleid=101419",
+  "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}},
+  {"text"=>"Barbie cell phone.", "original"=>"http://www.businessweek.com/technology/content/feb2005/tc20050218_4609_tc024.htm",
+  "meta"=>{"title"=>"Bloomberg - Are you a robot?", "favicon"=>"http://www.businessweek.com/favicon.ico"}},
+  {"text"=>"halted the release of its MyMo mobile phone", "original"=>"http://www.mobile-weblog.com/archives/mymo_recalled.html",
+  "archive"=>"http://web.archive.org/web/20060528113103/http://www.mobile-weblog.com:80/archives/mymo_recalled.html",
+  "meta"=>{"title"=>"The Mobile Technology Weblog - Location Based Services and all
+  about Mobile Marketing - mobile technology, trends, technology trends, wireless,
+  mobile marketing, mobile web, mobile internet, mobile 2.0", "favicon"=>"http://www.mobile-weblog.com/favicon.ico"}},
+  {"text"=>"UK National Radiological Protection Board", "original"=>"http://www.nrpb.org/press/information_sheets/mobile_telephony/index.htm",
+  "archive"=>"http://web.archive.org/web/20181103161610/http://www.nrpb.org:80/press/information_sheets/mobile_telephony/index.htm",
+  "meta"=>{"title"=>"NRPB - ED Symptoms, Causes, and Treatments", "description"=>"ED
+  Symptoms, Causes, and Treatments", "open_graph"=>{"locale"=>"en_US", "type"=>"website",
+  "title"=>"NRPB - ED Symptoms, Causes, and Treatments", "description"=>"ED Symptoms,
+  Causes, and Treatments", "url"=>"https://www.nrpb.org/", "site_name"=>"NRPB"}, "twitter_card"=>{"card"=>"summary_large_image",
+  "title"=>"NRPB - ED Symptoms, Causes, and Treatments", "description"=>"ED Symptoms,
+  Causes, and Treatments"}, "favicon"=>"http://cdn-5e1cdb49f911c8096c0b1fdb.closte.com/wp-content/themes/magazine-pro/images/favicon.ico"}},
+  {"text"=>"SunCom", "original"=>"http://suncom.com/equipment/Firefly.shtml"}, {"text"=>"local
+  journalists", "original"=>"http://www.charlotte.com/mld/charlotte/news/columnists/citizen_watchdog/10839215.htm?template=contentModules/printstory.jsp"},
+  {"text"=>"In Good Company", "original"=>"http://www.imdb.com/title/tt0385267/",
+  "meta"=>{"title"=>"In Good Company (2004) - IMDb", "open_graph"=>{"url"=>"http://www.imdb.com/title/tt0385267/",
+  "images"=>[{"url"=>"https://m.media-amazon.com/images/M/MV5BZjlhOTg4MzQtYWFjOS00MTc0LWIxMjYtN2E1MjA5OWU2ODk0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY1200_CR91,0,630,1200_AL_.jpg"}],
+  "type"=>"video.movie", "title"=>"In Good Company (2004) - IMDb", "site_name"=>"IMDb",
+  "description"=>"Directed by Paul Weitz.  With Dennis Quaid, Topher Grace, Scarlett
+  Johansson, Marg Helgenberger. A middle-aged ad exec is faced with a new boss who''s
+  nearly half his age... and who also happens to be sleeping with his daughter."},
+  "description"=>"Directed by Paul Weitz.  With Dennis Quaid, Topher Grace, Scarlett
+  Johansson, Marg Helgenberger. A middle-aged ad exec is faced with a new boss who''s
+  nearly half his age... and who also happens to be sleeping with his daughter.",
+  "keywords"=>["Reviews", "Showtimes", "DVDs", "Photos", "Message Boards", "User Ratings",
+  "Synopsis", "Trailers", "Credits"], "favicon"=>"https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/android-mobile-196x196._CB479962153_.png"}}]'
 sources: 
 published: true
 img: 

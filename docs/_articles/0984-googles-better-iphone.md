@@ -1,13 +1,9 @@
 ---
 id: 984
 title: Google's Better iPhone
+subtitle: 
 date: '2009-10-06T04:00:00.000Z'
-publication:
-  id: 6
-  title: The Daily Beast
-  slug: daily-beast
-  created_at: '2020-08-03T15:08:16.000Z'
-  updated_at: '2020-08-03T15:10:07.000Z'
+publication: The Daily Beast
 blurb: I feel a large dose of schadenfreude whenever iPhone users get dropped in the
   middle of their calls with me. Somehow, the failings of the overtaxed AT&T network
   (through which all iPhones must connect) make me feel better about staying with

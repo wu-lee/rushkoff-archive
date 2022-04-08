@@ -1,33 +1,17 @@
 ---
 id: 826
 title: Open Source Currency
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: Or, how mobile phones can break the money monopoly.
 notes: 
-refs:
-- text: Ithaca Hours
-  original: http://www.ithacahours.org/
-  archive: http://web.archive.org/web/20200116135655/http://www.ithacahours.org:80/
-  meta:
-    title: 403 Forbidden
-    favicon: http://www.ithacahours.org/favicon.ico
-- text: LETSystem
-  original: http://www.gmlets.u-net.com/
-  archive: http://web.archive.org/web/20150217040159/http://www.gmlets.u-net.com/
-- text: PayCircle
-  original: http://www.paycircle.org/
-  archive: http://web.archive.org/web/20190606120431/http://www.paycircle.org/
-  meta:
-    favicon: http://www.paycircle.org/favicon.ico
-- text: Yahoo Group
-  original: http://groups.yahoo.com/group/ijccr/
-  archive: http://web.archive.org/web/20050207153144/http://groups.yahoo.com:80/group/ijccr/
+refs: '[{"text"=>"Ithaca Hours", "original"=>"http://www.ithacahours.org/", "archive"=>"http://web.archive.org/web/20200116135655/http://www.ithacahours.org:80/",
+  "meta"=>{"title"=>"403 Forbidden", "favicon"=>"http://www.ithacahours.org/favicon.ico"}},
+  {"text"=>"LETSystem", "original"=>"http://www.gmlets.u-net.com/", "archive"=>"http://web.archive.org/web/20150217040159/http://www.gmlets.u-net.com/"},
+  {"text"=>"PayCircle", "original"=>"http://www.paycircle.org/", "archive"=>"http://web.archive.org/web/20190606120431/http://www.paycircle.org/",
+  "meta"=>{"favicon"=>"http://www.paycircle.org/favicon.ico"}}, {"text"=>"Yahoo Group",
+  "original"=>"http://groups.yahoo.com/group/ijccr/", "archive"=>"http://web.archive.org/web/20050207153144/http://groups.yahoo.com:80/group/ijccr/"}]'
 sources: 
 published: true
 img: 

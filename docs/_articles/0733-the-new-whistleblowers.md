@@ -1,26 +1,18 @@
 ---
 id: 733
 title: The New Whistleblowers
+subtitle: 
 date: '2012-03-24T04:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
 refs: 
-sources:
-- _type: WebPage
-  id: https://api.cognitive.microsoft.com/api/v7/#WebPages.0
-  name: These modern whistle-blowers don't get it - CNN
-  url: https://www.cnn.com/2012/03/19/opinion/rushkoff-goldman-google/index.html
-  displayUrl: https://www.cnn.com/2012/03/19/opinion/rushkoff-goldman-google
-  snippet: 'Back when I was a kid, they were called "whistle-blowers": employees of
-    corrupt companies or government agencies, who went to the press with shocking
-    stories of criminality or abuse.'
-  dateLastCrawled: '2020-06-22T05:13:00.0000000Z'
+sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v7/#WebPages.0",
+  "name"=>"These modern whistle-blowers don''t get it - CNN", "url"=>"https://www.cnn.com/2012/03/19/opinion/rushkoff-goldman-google/index.html",
+  "displayUrl"=>"https://www.cnn.com/2012/03/19/opinion/rushkoff-goldman-google",
+  "snippet"=>"Back when I was a kid, they were called \"whistle-blowers\": employees
+  of corrupt companies or government agencies, who went to the press with shocking
+  stories of criminality or abuse.", "dateLastCrawled"=>"2020-06-22T05:13:00.0000000Z"}]'
 published: true
 img: 
 slug: 0733-the-new-whistleblowers

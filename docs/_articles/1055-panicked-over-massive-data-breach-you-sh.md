@@ -1,18 +1,14 @@
 ---
 id: 1055
 title: Panicked over massive data breach? You should be
+subtitle: 
 date: '2014-12-01T16:56:02.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
+publication: CNN
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1055-panicked-over-massive-data-breach-you-sh
 created_at: '2020-12-02T14:31:01.000Z'

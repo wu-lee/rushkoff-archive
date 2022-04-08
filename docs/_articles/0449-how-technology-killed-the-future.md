@@ -1,13 +1,9 @@
 ---
 id: 449
 title: How Technology Killed the Future
+subtitle: 
 date: '2014-01-15T05:00:00.000Z'
-publication:
-  id: 31
-  title: Politico
-  slug: politico
-  created_at: '2020-08-03T15:15:36.000Z'
-  updated_at: '2020-08-03T15:15:36.000Z'
+publication: Politico
 blurb: Presidents—and the rest of us—can't get anything done anymore.
 notes: 
 refs: 

@@ -1,143 +1,72 @@
 ---
 id: 769
 title: The Next Net
+subtitle: 
 date: '2011-01-03T05:00:00.000Z'
-publication:
-  id: 36
-  title: Shareable
-  slug: shareable
-  created_at: '2020-08-03T15:16:22.000Z'
-  updated_at: '2020-08-03T15:16:22.000Z'
-blurb: ''
+publication: Shareable
+blurb: 
 notes: 
-refs:
-- text: Glenn Zucman.
-  original: http://www.flickr.com/photos/artboyusa/
-  meta:
-    open_graph:
-      site_name: Flickr
-      title: Glenn Zucman
-      description: Explore Glenn Zucman's 6,414 photos on Flickr!
-      type: flickr_photos:photostream
-      url: https://www.flickr.com/photos/artboyusa/
-      images:
-      - url: https://live.staticflickr.com/1783/28223532717_6aa15e2616_k.jpg
-        width: 2048
-        height: 1685
-    twitter_card:
-      apps:
-        iphone:
-          name: Flickr
-          id: '328407587'
-          url: flickr://flickr.com/photos/artboyusa/
-      site: "@flickr"
-      card: summary
-      description: Explore Glenn Zucman's 6,414 photos on Flickr!
-    title: Glenn Zucman | Flickr
-    description: Explore Glenn Zucman's 6,414 photos on Flickr!
-    favicon: https://combo.staticflickr.com/pw/images/favicons/favicon-196.png
-- text: Douglas Rushkoff
-  original: http://rushkoff.com/
-  archive: http://web.archive.org/web/20200718072221/https://rushkoff.com/
-- text: Contact
-  original: http://contactcon.com/
-  archive: http://web.archive.org/web/20191223220035/http://contactcon.com/
-- text: The Evolution Will Be Socialized
-  original: http://shareable.net/blog/the-evolution-will-be-socialized
-- text: "#nextnet"
-  original: http://twitter.com/#!/search/%23nextnet
-  archive: http://web.archive.org/web/20200801201200/https://twitter.com/
-- text: "…And Satellite Internet for All"
-  original: http://www.shareable.net/blog/and-satellite-internet-for-all
-  meta:
-    title: "... And Satellite Internet for All - Shareable"
-    open_graph:
-      locale: en_US
-      type: article
-      title: "... And Satellite Internet for All - Shareable"
-      description: Last week, I wrote about the importance of concrete physical parts
-        of the intellectual commons, like food, water, and internet access. In this
-        post, I look at one group that has dedicated itself to building an often-overlooked
-        part of that foundation. When we think of human rights, we usually think of
-        life staples (food, water,
-      url: https://www.shareable.net/and-satellite-internet-for-all/
-      site_name: Shareable
-      images:
-      - url: https://www.shareable.net/wp-content/uploads/2010/12/blog_top-image_astra_satellite.jpg
-        width: 800
-        height: 274
-    twitter_card:
-      card: summary_large_image
-    favicon: https://www.shareable.net/wp-content/uploads/2019/03/shareable-favicon.png
-- text: Shareable Futures
-  original: http://www.shareable.net/blog/shareable-futures
-  meta:
-    title: Shareable Futures - Shareable
-    open_graph:
-      locale: en_US
-      type: article
-      title: Shareable Futures - Shareable
-      description: UPDATE 1/14/13: Shareable Futures is now available as an e-book
-        in PDF, Kindle, and iPad versions through HyperInk Press here. Free web version
-        is below. Where our future used to be, we now face a massive debt. The debt
-        is national and measurable. We in America spent two decades buying on credit.
-        We made promises we couldn’t keep
-      url: https://www.shareable.net/shareable-futures/
-      site_name: Shareable
-      images:
-      - url: https://www.shareable.net/wp-content/uploads/2010/05/blog_top-image_featured.jpg
-        width: 538
-        height: 283
-    twitter_card:
-      card: summary_large_image
-    favicon: https://www.shareable.net/wp-content/uploads/2019/03/shareable-favicon.png
-- text: Notes from the International Commons Conference
-  original: http://www.shareable.net/blog/notes-from-the-international-commons-conference
-  meta:
-    title: Notes from the International Commons Conference - Shareable
-    open_graph:
-      locale: en_US
-      type: article
-      title: Notes from the International Commons Conference - Shareable
-      description: Where do conservative urbanists, liberal activists, and free culture
-        advocates congregate? Last week it was in Berlin at the first ever International
-        Commons Conference (ICC) held by the Commons Strategies Group and the Heinrich
-        Boll Foundation. The combination of traditional and digital commons was explored
-        as a transformational paradigm for the first time through an international
-      url: https://www.shareable.net/notes-from-the-international-commons-conference/
-      site_name: Shareable
-      images:
-      - url: https://www.shareable.net/wp-content/uploads/2010/11/blog_top-image_opening_talk.jpg
-        width: 500
-        height: 218
-    twitter_card:
-      card: summary_large_image
-    favicon: https://www.shareable.net/wp-content/uploads/2019/03/shareable-favicon.png
-- text: No Public Domain Day for the United States
-  original: http://www.shareable.net/blog/no-public-domain-day-for-the-united-states
-  archive: http://web.archive.org/web/20160312120207/http://www.shareable.net/blog/no-public-domain-day-for-the-united-states
-  meta:
-    title: No Public Domain Day for the United States - Shareable
-    open_graph:
-      locale: en_US
-      type: article
-      title: No Public Domain Day for the United States - Shareable
-      description: Did you celebrate the New Year by reading Waiting for Godot on
-        your Kindle for free? Or watching Disney’s 20,000 Leagues Under the Sea on
-        Archive.org? If you live in the United States, most likely not, as these decades-old
-        cultural artifacts remain shackled by copyright limitations, in spite of the
-        law's original intent. Around the
-      url: https://www.shareable.net/no-public-domain-day-for-the-united-states/
-      site_name: Shareable
-      images:
-      - url: https://www.shareable.net/wp-content/uploads/2011/01/blog_top-image_pdd2011.jpeg
-        width: 600
-        height: 251
-    twitter_card:
-      card: summary_large_image
-    favicon: https://www.shareable.net/wp-content/uploads/2019/03/shareable-favicon.png
+refs: '[{"text"=>"Glenn Zucman.", "original"=>"http://www.flickr.com/photos/artboyusa/",
+  "meta"=>{"open_graph"=>{"site_name"=>"Flickr", "title"=>"Glenn Zucman", "description"=>"Explore
+  Glenn Zucman''s 6,414 photos on Flickr!", "type"=>"flickr_photos:photostream", "url"=>"https://www.flickr.com/photos/artboyusa/",
+  "images"=>[{"url"=>"https://live.staticflickr.com/1783/28223532717_6aa15e2616_k.jpg",
+  "width"=>2048, "height"=>1685}]}, "twitter_card"=>{"apps"=>{"iphone"=>{"name"=>"Flickr",
+  "id"=>"328407587", "url"=>"flickr://flickr.com/photos/artboyusa/"}}, "site"=>"@flickr",
+  "card"=>"summary", "description"=>"Explore Glenn Zucman''s 6,414 photos on Flickr!"},
+  "title"=>"Glenn Zucman | Flickr", "description"=>"Explore Glenn Zucman''s 6,414
+  photos on Flickr!", "favicon"=>"https://combo.staticflickr.com/pw/images/favicons/favicon-196.png"}},
+  {"text"=>"Douglas Rushkoff", "original"=>"http://rushkoff.com/", "archive"=>"http://web.archive.org/web/20200718072221/https://rushkoff.com/"},
+  {"text"=>"Contact", "original"=>"http://contactcon.com/", "archive"=>"http://web.archive.org/web/20191223220035/http://contactcon.com/"},
+  {"text"=>"The Evolution Will Be Socialized", "original"=>"http://shareable.net/blog/the-evolution-will-be-socialized"},
+  {"text"=>"#nextnet", "original"=>"http://twitter.com/#!/search/%23nextnet", "archive"=>"http://web.archive.org/web/20200801201200/https://twitter.com/"},
+  {"text"=>"…And Satellite Internet for All", "original"=>"http://www.shareable.net/blog/and-satellite-internet-for-all",
+  "meta"=>{"title"=>"... And Satellite Internet for All - Shareable", "open_graph"=>{"locale"=>"en_US",
+  "type"=>"article", "title"=>"... And Satellite Internet for All - Shareable", "description"=>"Last
+  week, I wrote about the importance of concrete physical parts of the intellectual
+  commons, like food, water, and internet access. In this post, I look at one group
+  that has dedicated itself to building an often-overlooked part of that foundation.
+  When we think of human rights, we usually think of life staples (food, water,",
+  "url"=>"https://www.shareable.net/and-satellite-internet-for-all/", "site_name"=>"Shareable",
+  "images"=>[{"url"=>"https://www.shareable.net/wp-content/uploads/2010/12/blog_top-image_astra_satellite.jpg",
+  "width"=>800, "height"=>274}]}, "twitter_card"=>{"card"=>"summary_large_image"},
+  "favicon"=>"https://www.shareable.net/wp-content/uploads/2019/03/shareable-favicon.png"}},
+  {"text"=>"Shareable Futures", "original"=>"http://www.shareable.net/blog/shareable-futures",
+  "meta"=>{"title"=>"Shareable Futures - Shareable", "open_graph"=>{"locale"=>"en_US",
+  "type"=>"article", "title"=>"Shareable Futures - Shareable", "description"=>"UPDATE
+  1/14/13: Shareable Futures is now available as an e-book in PDF, Kindle, and iPad
+  versions through HyperInk Press here. Free web version is below. Where our future
+  used to be, we now face a massive debt. The debt is national and measurable. We
+  in America spent two decades buying on credit. We made promises we couldn’t keep",
+  "url"=>"https://www.shareable.net/shareable-futures/", "site_name"=>"Shareable",
+  "images"=>[{"url"=>"https://www.shareable.net/wp-content/uploads/2010/05/blog_top-image_featured.jpg",
+  "width"=>538, "height"=>283}]}, "twitter_card"=>{"card"=>"summary_large_image"},
+  "favicon"=>"https://www.shareable.net/wp-content/uploads/2019/03/shareable-favicon.png"}},
+  {"text"=>"Notes from the International Commons Conference", "original"=>"http://www.shareable.net/blog/notes-from-the-international-commons-conference",
+  "meta"=>{"title"=>"Notes from the International Commons Conference - Shareable",
+  "open_graph"=>{"locale"=>"en_US", "type"=>"article", "title"=>"Notes from the International
+  Commons Conference - Shareable", "description"=>"Where do conservative urbanists,
+  liberal activists, and free culture advocates congregate? Last week it was in Berlin
+  at the first ever International Commons Conference (ICC) held by the Commons Strategies
+  Group and the Heinrich Boll Foundation. The combination of traditional and digital
+  commons was explored as a transformational paradigm for the first time through an
+  international", "url"=>"https://www.shareable.net/notes-from-the-international-commons-conference/",
+  "site_name"=>"Shareable", "images"=>[{"url"=>"https://www.shareable.net/wp-content/uploads/2010/11/blog_top-image_opening_talk.jpg",
+  "width"=>500, "height"=>218}]}, "twitter_card"=>{"card"=>"summary_large_image"},
+  "favicon"=>"https://www.shareable.net/wp-content/uploads/2019/03/shareable-favicon.png"}},
+  {"text"=>"No Public Domain Day for the United States", "original"=>"http://www.shareable.net/blog/no-public-domain-day-for-the-united-states",
+  "archive"=>"http://web.archive.org/web/20160312120207/http://www.shareable.net/blog/no-public-domain-day-for-the-united-states",
+  "meta"=>{"title"=>"No Public Domain Day for the United States - Shareable", "open_graph"=>{"locale"=>"en_US",
+  "type"=>"article", "title"=>"No Public Domain Day for the United States - Shareable",
+  "description"=>"Did you celebrate the New Year by reading Waiting for Godot on your
+  Kindle for free? Or watching Disney’s 20,000 Leagues Under the Sea on Archive.org?
+  If you live in the United States, most likely not, as these decades-old cultural
+  artifacts remain shackled by copyright limitations, in spite of the law''s original
+  intent. Around the", "url"=>"https://www.shareable.net/no-public-domain-day-for-the-united-states/",
+  "site_name"=>"Shareable", "images"=>[{"url"=>"https://www.shareable.net/wp-content/uploads/2011/01/blog_top-image_pdd2011.jpeg",
+  "width"=>600, "height"=>251}]}, "twitter_card"=>{"card"=>"summary_large_image"},
+  "favicon"=>"https://www.shareable.net/wp-content/uploads/2019/03/shareable-favicon.png"}}]'
 sources: 
-published: 
+published: false
 img: 
 slug: '0769-the-next-net'
 created_at: '2020-08-02T00:44:12.000Z'

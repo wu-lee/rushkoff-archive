@@ -1,42 +1,23 @@
 ---
 id: 828
 title: Photographs and Memories
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: The cameraphone represents the latest step in a long evolution away from elevating
   and preserving moments, to capturing and disposing of them.
 notes: 
-refs:
-- text: Katsumi Ihara's admission
-  original: http://www.thefeature.com/article?articleid=100508
-  archive: http://web.archive.org/web/20050307094750/http://www.thefeature.com:80/article?articleid=100508
-  meta:
-    title: 'ページが見つかりませんでした  '
-    keywords:
-    - ''
-    favicon: http://www.thefeature.com/favicon.ico
-- text: aficionados of the cameraphone
-  original: http://www.russellbeattie.com/notebook/1007306.html
-  archive: http://web.archive.org/web/20100811022753/http://www.russellbeattie.com:80/notebook/1007306.html
-  meta:
-    title: Woops! - Russell Beattie
-    description: Russell Beattie's Weblog
-    favicon: http://www.russellbeattie.com/favicon.ico
-- text: last week booted Kodak from its Industrial Average
-  original: http://money.cnn.com/2004/04/01/markets/dow/
-- text: 84 million cameraphones were sold in 2003,
-  original: http://www.thefeature.com/article?articleid=100489
-  archive: http://web.archive.org/web/20041228093717/http://www.thefeature.com:80/article?articleid=100489
-  meta:
-    title: 'ページが見つかりませんでした  '
-    keywords:
-    - ''
-    favicon: http://www.thefeature.com/favicon.ico
+refs: '[{"text"=>"Katsumi Ihara''s admission", "original"=>"http://www.thefeature.com/article?articleid=100508",
+  "archive"=>"http://web.archive.org/web/20050307094750/http://www.thefeature.com:80/article?articleid=100508",
+  "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}},
+  {"text"=>"aficionados of the cameraphone", "original"=>"http://www.russellbeattie.com/notebook/1007306.html",
+  "archive"=>"http://web.archive.org/web/20100811022753/http://www.russellbeattie.com:80/notebook/1007306.html",
+  "meta"=>{"title"=>"Woops! - Russell Beattie", "description"=>"Russell Beattie''s
+  Weblog", "favicon"=>"http://www.russellbeattie.com/favicon.ico"}}, {"text"=>"last
+  week booted Kodak from its Industrial Average", "original"=>"http://money.cnn.com/2004/04/01/markets/dow/"},
+  {"text"=>"84 million cameraphones were sold in 2003,", "original"=>"http://www.thefeature.com/article?articleid=100489",
+  "archive"=>"http://web.archive.org/web/20041228093717/http://www.thefeature.com:80/article?articleid=100489",
+  "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}}]'
 sources: 
 published: true
 img: photomem_files/elphsony.jfif

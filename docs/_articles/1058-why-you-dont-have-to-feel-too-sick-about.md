@@ -1,18 +1,14 @@
 ---
 id: 1058
 title: Why You Don’t Have to Feel Too Sick About What Happened Last Night
+subtitle: 
 date: '2020-09-30T16:00:00.000Z'
-publication:
-  id: 23
-  title: Medium
-  slug: medium
-  created_at: '2020-08-03T15:13:31.000Z'
-  updated_at: '2020-08-03T15:13:31.000Z'
+publication: Medium
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: https://miro.medium.com/max/1400/1*cZzuwnd7AUcklDveBL7kZg.jpeg
 slug: 1058-why-you-dont-have-to-feel-too-sick-about
 created_at: '2021-09-07T18:11:17.000Z'

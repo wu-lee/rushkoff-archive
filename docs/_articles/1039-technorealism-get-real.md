@@ -1,18 +1,14 @@
 ---
 id: 1039
 title: 'Technorealism: Get Real!'
+subtitle: 
 date: '1998-04-06T04:00:00.000Z'
-publication:
-  id: 24
-  title: The Nation
-  slug: nation
-  created_at: '2020-08-03T15:13:43.000Z'
-  updated_at: '2020-08-03T15:13:47.000Z'
+publication: The Nation
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1039-technorealism-get-real
 created_at: '2020-08-02T07:25:15.000Z'

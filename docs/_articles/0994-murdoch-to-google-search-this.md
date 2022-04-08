@@ -1,50 +1,29 @@
 ---
 id: 994
 title: Murdoch to Google - Search This
+subtitle: 
 date: '2009-11-09T05:00:00.000Z'
-publication:
-  id: 6
-  title: The Daily Beast
-  slug: daily-beast
-  created_at: '2020-08-03T15:08:16.000Z'
-  updated_at: '2020-08-03T15:10:07.000Z'
+publication: The Daily Beast
 blurb: 'As unlikely as it sounds, Rupert Murdoch may end up being our last best hope
   for a peaceful solution to the Internet''s war on professional journalism. A man
   who many blame for commodifying, globalizing, sensationalizing, and cheapening news
   is considering taking a stand against a force even bigger than himself: the Web
   link.'
 notes: 
-refs:
-- text: In an interview with Sky News Australia
-  original: http://www.thedailybeast.com/videos/2009/11/09/rupert-murdoch-challenges-google.html
-  meta:
-    title: Rupert Murdoch Challenges Google
-    keywords:
-    - Google
-    - News Corporation
-    - Rupert Murdoch
-    - British Sky Broadcasting
-    open_graph:
-      title: Rupert Murdoch Challenges Google
-      description: "Are Google and other search engines guilty of theft? They sure
-        are, according to Rupert Murdoch, who, in this interview with Sky News, argues
-        that whatever benefits his news sites receive from Google are minimal at best.
-        Clip above; full interview \nhere."
-      url: https://www.thedailybeast.com/videos/2009/11/09/rupert-murdoch-challenges-google
-      site_name: The Daily Beast
-      images:
-      - url: https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_270,w_480,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1493134503/videos/2009/11/09/rupert-murdoch-challenges-google/sky-news-rupert-murdoch_csuz4t
-    description: "Are Google and other search engines guilty of theft? They sure are,
-      according to Rupert Murdoch, who, in this interview with Sky News, argues that
-      whatever benefits his news sites receive from Google are minimal at best. Clip
-      above; full interview \nhere."
-    twitter_card:
-      card: summary_large_image
-      site: "@thedailybeast"
-      creator: ''
-      images:
-      - url: https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_270,w_480,x_0,y_0/dpr_2.0/c_limit,w_600/f_jpg/fl_lossy,q_auto/v1493134503/videos/2009/11/09/rupert-murdoch-challenges-google/sky-news-rupert-murdoch_csuz4t
-    favicon: http://www.thedailybeast.com/static/media/favicon.b30a79ed.ico
+refs: '[{"text"=>"In an interview with Sky News Australia", "original"=>"http://www.thedailybeast.com/videos/2009/11/09/rupert-murdoch-challenges-google.html",
+  "meta"=>{"title"=>"Rupert Murdoch Challenges Google", "keywords"=>["Google", "News
+  Corporation", "Rupert Murdoch", "British Sky Broadcasting"], "open_graph"=>{"title"=>"Rupert
+  Murdoch Challenges Google", "description"=>"Are Google and other search engines
+  guilty of theft? They sure are, according to Rupert Murdoch, who, in this interview
+  with Sky News, argues that whatever benefits his news sites receive from Google
+  are minimal at best. Clip above; full interview \nhere.", "url"=>"https://www.thedailybeast.com/videos/2009/11/09/rupert-murdoch-challenges-google",
+  "site_name"=>"The Daily Beast", "images"=>[{"url"=>"https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_270,w_480,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1493134503/videos/2009/11/09/rupert-murdoch-challenges-google/sky-news-rupert-murdoch_csuz4t"}]},
+  "description"=>"Are Google and other search engines guilty of theft? They sure are,
+  according to Rupert Murdoch, who, in this interview with Sky News, argues that whatever
+  benefits his news sites receive from Google are minimal at best. Clip above; full
+  interview \nhere.", "twitter_card"=>{"card"=>"summary_large_image", "site"=>"@thedailybeast",
+  "creator"=>"", "images"=>[{"url"=>"https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_270,w_480,x_0,y_0/dpr_2.0/c_limit,w_600/f_jpg/fl_lossy,q_auto/v1493134503/videos/2009/11/09/rupert-murdoch-challenges-google/sky-news-rupert-murdoch_csuz4t"}]},
+  "favicon"=>"http://www.thedailybeast.com/static/media/favicon.b30a79ed.ico"}}]'
 sources: 
 published: true
 img: 

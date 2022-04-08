@@ -1,13 +1,9 @@
 ---
 id: 998
 title: The Great Google Coverup?
+subtitle: 
 date: '2010-01-13T05:00:00.000Z'
-publication:
-  id: 6
-  title: The Daily Beast
-  slug: daily-beast
-  created_at: '2020-08-03T15:08:16.000Z'
-  updated_at: '2020-08-03T15:10:07.000Z'
+publication: The Daily Beast
 blurb: Google's actions just don't add up. In response to what they say they suspect
   was a Chinese government-supported cyberattack, including hacking into the Gmail
   accounts of human-rights activists, the search giant says it has had a change of

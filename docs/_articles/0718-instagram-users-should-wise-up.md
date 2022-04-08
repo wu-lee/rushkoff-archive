@@ -1,44 +1,23 @@
 ---
 id: 718
 title: Instagram Users Should Wise Up
+subtitle: 
 date: '2012-12-19T00:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
-refs:
-- text: a blog post backtracking significantly
-  original: http://www.cnn.com/2012/12/18/tech/social-media/instagram-terms-users/index.html
-  meta:
-    title: Instagram backtracks after user privacy revolt - CNN
-    open_graph:
-      url: https://www.cnn.com/2012/12/18/tech/social-media/instagram-terms-users/index.html
-      description: Users of Instagram, the popular photo-sharing app, were up in arms
-        Tuesday over language that appears to give the company ownership of their
-        images.
-      site_name: CNN
-      type: article
-      images:
-      - url: https://cdn.cnn.com/cnnnext/dam/assets/121218034208-instagram-terms-users-story-top.jpg
-        width: 460
-        height: 259
-    description: Users of Instagram, the popular photo-sharing app, were up in arms
-      Tuesday over language that appears to give the company ownership of their images.
-    twitter_card:
-      description: Users of Instagram, the popular photo-sharing app, were up in arms
-        Tuesday over language that appears to give the company ownership of their
-        images.
-      card: summary_large_image
-      images:
-      - url: https://cdn.cnn.com/cnnnext/dam/assets/121218034208-instagram-terms-users-story-top.jpg
-    keywords:
-    - tech
-    - Instagram backtracks after user privacy revolt - CNN
-    favicon: http://www.cnn.com/favicon.ico
+refs: '[{"text"=>"a blog post backtracking significantly", "original"=>"http://www.cnn.com/2012/12/18/tech/social-media/instagram-terms-users/index.html",
+  "meta"=>{"title"=>"Instagram backtracks after user privacy revolt - CNN", "open_graph"=>{"url"=>"https://www.cnn.com/2012/12/18/tech/social-media/instagram-terms-users/index.html",
+  "description"=>"Users of Instagram, the popular photo-sharing app, were up in arms
+  Tuesday over language that appears to give the company ownership of their images.",
+  "site_name"=>"CNN", "type"=>"article", "images"=>[{"url"=>"https://cdn.cnn.com/cnnnext/dam/assets/121218034208-instagram-terms-users-story-top.jpg",
+  "width"=>460, "height"=>259}]}, "description"=>"Users of Instagram, the popular
+  photo-sharing app, were up in arms Tuesday over language that appears to give the
+  company ownership of their images.", "twitter_card"=>{"description"=>"Users of Instagram,
+  the popular photo-sharing app, were up in arms Tuesday over language that appears
+  to give the company ownership of their images.", "card"=>"summary_large_image",
+  "images"=>[{"url"=>"https://cdn.cnn.com/cnnnext/dam/assets/121218034208-instagram-terms-users-story-top.jpg"}]},
+  "keywords"=>["tech", "Instagram backtracks after user privacy revolt - CNN"], "favicon"=>"http://www.cnn.com/favicon.ico"}}]'
 sources: 
 published: true
 img: 

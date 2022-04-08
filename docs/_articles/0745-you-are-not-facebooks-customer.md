@@ -1,14 +1,10 @@
 ---
 id: 745
 title: You Are Not Facebook's Customer
+subtitle: 
 date: '2011-09-23T04:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
 refs: 
 sources: 

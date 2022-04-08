@@ -1,14 +1,10 @@
 ---
 id: 747
 title: Dreary Driving
+subtitle: 
 date: '2007-04-03T04:00:00.000Z'
-publication:
-  id: 7
-  title: Discover
-  slug: discover
-  created_at: '2020-08-03T15:09:08.000Z'
-  updated_at: '2020-08-03T15:10:02.000Z'
-blurb: ''
+publication: Discover
+blurb: 
 notes: 
 refs: 
 sources: 

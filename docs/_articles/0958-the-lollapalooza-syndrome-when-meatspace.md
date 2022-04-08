@@ -1,23 +1,15 @@
 ---
 id: 958
 title: 'The Lollapalooza Syndrome: When Meatspace and Cellspace Are Redundant'
+subtitle: 
 date: '2003-08-26T04:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: A mass gathering of wireless generation members doesn't necessarily mean a
   massive use of wireless technologies. On the contrary, the most wirelessly literate
   may know best when to switch off and enjoy the party.
 notes: 
-refs:
-- text: HipNTasty
-  original: http://www.hipntasty.com/
-  archive: http://web.archive.org/web/20190622224244/http://hipntasty.com/
-  meta:
-    favicon: data:image/x-icon;,
+refs: '[{"text"=>"HipNTasty", "original"=>"http://www.hipntasty.com/", "archive"=>"http://web.archive.org/web/20190622224244/http://hipntasty.com/",
+  "meta"=>{"favicon"=>"data:image/x-icon;,"}}]'
 sources: 
 published: true
 img: 

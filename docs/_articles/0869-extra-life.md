@@ -1,13 +1,9 @@
 ---
 id: 869
 title: Extra Life
+subtitle: 
 date: '1998-10-01T04:00:00.000Z'
-publication:
-  id: 28
-  title: The New York Times Syndicate/Guardian of London
-  slug: nyt-guardian
-  created_at: '2020-08-03T15:14:34.000Z'
-  updated_at: '2020-10-09T01:17:31.000Z'
+publication: The New York Times Syndicate/Guardian of London
 blurb: Computers, Not Just Software, Should be Taught in School
 notes: 
 refs: 

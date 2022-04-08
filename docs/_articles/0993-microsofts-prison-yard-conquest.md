@@ -1,13 +1,9 @@
 ---
 id: 993
 title: Microsoft's Prison Yard Conquest
+subtitle: 
 date: '2009-07-29T04:00:00.000Z'
-publication:
-  id: 6
-  title: The Daily Beast
-  slug: daily-beast
-  created_at: '2020-08-03T15:08:16.000Z'
-  updated_at: '2020-08-03T15:10:07.000Z'
+publication: The Daily Beast
 blurb: Perhaps the only thing more amazing than the ability of a newcomer to fundamentally
   change the landscape of the entire technology industry is the ability of the old
   guard to adapt to the new terrain. IBM, AT&T, and Intel, to name three, all rebounded

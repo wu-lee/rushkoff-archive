@@ -1,14 +1,10 @@
 ---
 id: 1131
 title: Restoring the Economy Is the Last Thing We Should Want
+subtitle: 
 date: '2020-04-27T16:00:00.000Z'
-publication:
-  id: 23
-  title: Medium
-  slug: medium
-  created_at: '2020-08-03T15:13:31.000Z'
-  updated_at: '2020-08-03T15:13:31.000Z'
-blurb: 
+publication: Medium
+blurb: 'Blah the Black of Black '
 notes: 
 refs: 
 sources: 
@@ -16,7 +12,7 @@ published: true
 img: 
 slug: 1131-restoring-the-economy-is-the-last-thing-
 created_at: '2021-09-13T20:01:27.000Z'
-updated_at: '2021-09-13T20:01:27.000Z'
+updated_at: '2022-03-29T13:25:03.000Z'
 ---
 Everyone wants to know when we’re going to get the economy started up again, and just how many lives we’re willing to surrender before we do. We’ve all been made to understand the dilemma: The sooner we “open up” American and get back to our jobs, the more likely we spread Covid-19, further overwhelming hospitals and killing more people. Yet the longer we wait, the more people will suffer and die in other ways.
 

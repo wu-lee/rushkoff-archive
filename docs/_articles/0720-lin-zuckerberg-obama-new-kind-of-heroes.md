@@ -1,26 +1,18 @@
 ---
 id: 720
 title: 'Lin, Zuckerberg, Obama: New Kind of Heroes?'
+subtitle: 
 date: '2012-02-22T05:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
 refs: 
-sources:
-- _type: WebPage
-  id: https://api.cognitive.microsoft.com/api/v7/#WebPages.0
-  name: 'Douglas Rushkoff: News & Videos about Douglas ... - CNN'
-  url: http://www.cnn.com/OPINION/rushkoff.commentaries/archive/index.html
-  displayUrl: www.cnn.com/OPINION/rushkoff.commentaries/archive
-  snippet: The "Linsanity" surrounding the New York Knicks' surprise phenom at point
-    guard may be motivated by something bigger than sports. Yes, Jeremy Lin is a terrific
-    athlete, whose almost accidental ...
-  dateLastCrawled: '2020-04-29T23:48:00.0000000Z'
+sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v7/#WebPages.0",
+  "name"=>"Douglas Rushkoff: News & Videos about Douglas ... - CNN", "url"=>"http://www.cnn.com/OPINION/rushkoff.commentaries/archive/index.html",
+  "displayUrl"=>"www.cnn.com/OPINION/rushkoff.commentaries/archive", "snippet"=>"The
+  \"Linsanity\" surrounding the New York Knicks'' surprise phenom at point guard may
+  be motivated by something bigger than sports. Yes, Jeremy Lin is a terrific athlete,
+  whose almost accidental ...", "dateLastCrawled"=>"2020-04-29T23:48:00.0000000Z"}]'
 published: true
 img: "../../../../storage/lin-__SQUARESPACE_CACHEVERSION=1379079737778.jpg"
 slug: 0720-lin-zuckerberg-obama-new-kind-of-heroes

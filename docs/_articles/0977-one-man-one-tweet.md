@@ -1,57 +1,30 @@
 ---
 id: 977
 title: One Man, One Tweet
+subtitle: 
 date: '2009-06-16T04:00:00.000Z'
-publication:
-  id: 6
-  title: The Daily Beast
-  slug: daily-beast
-  created_at: '2020-08-03T15:08:16.000Z'
-  updated_at: '2020-08-03T15:10:07.000Z'
+publication: The Daily Beast
 blurb: I posted a piece I like late last night to the Daily Beast - where I've just
   become a columnist - about social networking in Iran.
 notes: 
-refs:
-- text: Daily Beast
-  original: http://www.thedailybeast.com/blogs-and-stories/2009-06-16/how-irans-hackers-killed-big-brother/?cid=hp:featureline
-  archive: http://web.archive.org/web/20100330021201/http://www.thedailybeast.com:80/blogs-and-stories/2009-06-16/how-irans-hackers-killed-big-brother/?cid=hp:featureline
-  meta:
-    title: The Daily Beast
-    description: A smart, speedy take on the news from around the world.
-    open_graph:
-      title: The Daily Beast
-      description: A smart, speedy take on the news from around the world.
-      url: https://www.thedailybeast.com/
-      type: website
-      images:
-      - url: https://img.thedailybeast.com/image/upload/fl_lossy,q_auto/placeholder_euli9k
-      site_name: The Daily Beast
-    twitter_card:
-      card: summary
-      site: "@thedailybeast"
-      images:
-      - url: https://img.thedailybeast.com/image/upload/fl_lossy,q_auto/placeholder_euli9k
-    favicon: http://www.thedailybeast.com/static/media/favicon.b30a79ed.ico
-- text: more...
-  original: http://www.thedailybeast.com/blogs-and-stories/2009-06-16/how-irans-hackers-killed-big-brother/?cid=hp:featureline
-  archive: http://web.archive.org/web/20100330021201/http://www.thedailybeast.com:80/blogs-and-stories/2009-06-16/how-irans-hackers-killed-big-brother/?cid=hp:featureline
-  meta:
-    title: The Daily Beast
-    description: A smart, speedy take on the news from around the world.
-    open_graph:
-      title: The Daily Beast
-      description: A smart, speedy take on the news from around the world.
-      url: https://www.thedailybeast.com/
-      type: website
-      images:
-      - url: https://img.thedailybeast.com/image/upload/fl_lossy,q_auto/placeholder_euli9k
-      site_name: The Daily Beast
-    twitter_card:
-      card: summary
-      site: "@thedailybeast"
-      images:
-      - url: https://img.thedailybeast.com/image/upload/fl_lossy,q_auto/placeholder_euli9k
-    favicon: http://www.thedailybeast.com/static/media/favicon.b30a79ed.ico
+refs: '[{"text"=>"Daily Beast", "original"=>"http://www.thedailybeast.com/blogs-and-stories/2009-06-16/how-irans-hackers-killed-big-brother/?cid=hp:featureline",
+  "archive"=>"http://web.archive.org/web/20100330021201/http://www.thedailybeast.com:80/blogs-and-stories/2009-06-16/how-irans-hackers-killed-big-brother/?cid=hp:featureline",
+  "meta"=>{"title"=>"The Daily Beast", "description"=>"A smart, speedy take on the
+  news from around the world.", "open_graph"=>{"title"=>"The Daily Beast", "description"=>"A
+  smart, speedy take on the news from around the world.", "url"=>"https://www.thedailybeast.com/",
+  "type"=>"website", "images"=>[{"url"=>"https://img.thedailybeast.com/image/upload/fl_lossy,q_auto/placeholder_euli9k"}],
+  "site_name"=>"The Daily Beast"}, "twitter_card"=>{"card"=>"summary", "site"=>"@thedailybeast",
+  "images"=>[{"url"=>"https://img.thedailybeast.com/image/upload/fl_lossy,q_auto/placeholder_euli9k"}]},
+  "favicon"=>"http://www.thedailybeast.com/static/media/favicon.b30a79ed.ico"}}, {"text"=>"more...",
+  "original"=>"http://www.thedailybeast.com/blogs-and-stories/2009-06-16/how-irans-hackers-killed-big-brother/?cid=hp:featureline",
+  "archive"=>"http://web.archive.org/web/20100330021201/http://www.thedailybeast.com:80/blogs-and-stories/2009-06-16/how-irans-hackers-killed-big-brother/?cid=hp:featureline",
+  "meta"=>{"title"=>"The Daily Beast", "description"=>"A smart, speedy take on the
+  news from around the world.", "open_graph"=>{"title"=>"The Daily Beast", "description"=>"A
+  smart, speedy take on the news from around the world.", "url"=>"https://www.thedailybeast.com/",
+  "type"=>"website", "images"=>[{"url"=>"https://img.thedailybeast.com/image/upload/fl_lossy,q_auto/placeholder_euli9k"}],
+  "site_name"=>"The Daily Beast"}, "twitter_card"=>{"card"=>"summary", "site"=>"@thedailybeast",
+  "images"=>[{"url"=>"https://img.thedailybeast.com/image/upload/fl_lossy,q_auto/placeholder_euli9k"}]},
+  "favicon"=>"http://www.thedailybeast.com/static/media/favicon.b30a79ed.ico"}}]'
 sources: 
 published: true
 img: 

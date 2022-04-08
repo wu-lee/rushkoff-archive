@@ -1,34 +1,18 @@
 ---
 id: 928
 title: 21st Century Renaissance
+subtitle: 
 date: '2008-03-31T04:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
-blurb: ''
+publication: Nokia's The Feature
+blurb: 
 notes: 
-refs:
-- text: Douglas Rushkoff
-  original: http://www.rushkoff.com/
-  archive: http://web.archive.org/web/20200718072221/https://rushkoff.com/
-  meta:
-    title: 'Douglas Rushkoff :: Official Site'
-    description: Official site with news, book information, articles, cover art, biography,
-      tour schedule, and mailing list.
-    open_graph:
-      locale: en_US
-      type: website
-      title: 'Douglas Rushkoff :: Official Site'
-      description: Official site with news, book information, articles, cover art,
-        biography, tour schedule, and mailing list.
-      url: https://rushkoff.com/
-      site_name: Rushkoff
-    twitter_card:
-      card: summary
-    favicon: http://www.rushkoff.com/favicon-16x16.png
+refs: '[{"text"=>"Douglas Rushkoff", "original"=>"http://www.rushkoff.com/", "archive"=>"http://web.archive.org/web/20200718072221/https://rushkoff.com/",
+  "meta"=>{"title"=>"Douglas Rushkoff :: Official Site", "description"=>"Official
+  site with news, book information, articles, cover art, biography, tour schedule,
+  and mailing list.", "open_graph"=>{"locale"=>"en_US", "type"=>"website", "title"=>"Douglas
+  Rushkoff :: Official Site", "description"=>"Official site with news, book information,
+  articles, cover art, biography, tour schedule, and mailing list.", "url"=>"https://rushkoff.com/",
+  "site_name"=>"Rushkoff"}, "twitter_card"=>{"card"=>"summary"}, "favicon"=>"http://www.rushkoff.com/favicon-16x16.png"}}]'
 sources: 
 published: true
 img: 

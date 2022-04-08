@@ -1,120 +1,64 @@
 ---
 id: 767
 title: Program or Be Programmed
+subtitle: 
 date: '2010-10-07T04:00:00.000Z'
-publication:
-  id: 36
-  title: Shareable
-  slug: shareable
-  created_at: '2020-08-03T15:16:22.000Z'
-  updated_at: '2020-08-03T15:16:22.000Z'
-blurb: ''
+publication: Shareable
+blurb: 
 notes: 
-refs:
-- text: 'Program or be Programmed: Ten Commands for the Digital Age'
-  original: http://www.orbooks.com/our-books/program/
-  archive: http://web.archive.org/web/20111103125723/http://www.orbooks.com:80/our-books/program/
-  meta:
-    title: 'Program or be Programmed: Ten Commands for Digital Age, by Douglas Rushkoff
-      - OR Books'
-    description: 'Paperback: $16/£10 E-book: $10/£7 Print + E-book: $20/£14 Send a
-      blank email to studyprogram@orbooks.com and get a free chapter-by-chapter study
-      guide,'
-    open_graph:
-      locale: en_US
-      type: article
-      title: 'Program or be Programmed: Ten Commands for Digital Age, by Douglas Rushkoff
-        - OR Books'
-      description: 'Paperback: $16/£10 E-book: $10/£7 Print + E-book: $20/£14 Send
-        a blank email to studyprogram@orbooks.com and get a free chapter-by-chapter
-        study guide,'
-      url: https://www.orbooks.com/catalog/program/
-      site_name: OR Books
-      images:
-      - url: https://www.orbooks.com/wp-content/uploads/2010/08/Program-web.jpg
-        secure_url: https://www.orbooks.com/wp-content/uploads/2010/08/Program-web.jpg
-    twitter_card:
-      card: summary
-      description: 'Paperback: $16/£10 E-book: $10/£7 Print + E-book: $20/£14 Send
-        a blank email to studyprogram@orbooks.com and get a free chapter-by-chapter
-        study guide,'
-      title: 'Program or be Programmed: Ten Commands for Digital Age, by Douglas Rushkoff
-        - OR Books'
-      site: "@orbooks"
-      images:
-      - url: https://www.orbooks.com/wp-content/uploads/2010/08/Program-web.jpg
-      creator: "@orbooks"
-    favicon: https://www.orbooks.com/wp-content/uploads/2019/04/orlogo-300x300.png
-- text: 'Program or be Programmed: Ten Commands for a Digital Age'
-  original: http://www.orbooks.com/our-books/program/
-  archive: http://web.archive.org/web/20111103125723/http://www.orbooks.com:80/our-books/program/
-  meta:
-    title: 'Program or be Programmed: Ten Commands for Digital Age, by Douglas Rushkoff
-      - OR Books'
-    description: 'Paperback: $16/£10 E-book: $10/£7 Print + E-book: $20/£14 Send a
-      blank email to studyprogram@orbooks.com and get a free chapter-by-chapter study
-      guide,'
-    open_graph:
-      locale: en_US
-      type: article
-      title: 'Program or be Programmed: Ten Commands for Digital Age, by Douglas Rushkoff
-        - OR Books'
-      description: 'Paperback: $16/£10 E-book: $10/£7 Print + E-book: $20/£14 Send
-        a blank email to studyprogram@orbooks.com and get a free chapter-by-chapter
-        study guide,'
-      url: https://www.orbooks.com/catalog/program/
-      site_name: OR Books
-      images:
-      - url: https://www.orbooks.com/wp-content/uploads/2010/08/Program-web.jpg
-        secure_url: https://www.orbooks.com/wp-content/uploads/2010/08/Program-web.jpg
-    twitter_card:
-      card: summary
-      description: 'Paperback: $16/£10 E-book: $10/£7 Print + E-book: $20/£14 Send
-        a blank email to studyprogram@orbooks.com and get a free chapter-by-chapter
-        study guide,'
-      title: 'Program or be Programmed: Ten Commands for Digital Age, by Douglas Rushkoff
-        - OR Books'
-      site: "@orbooks"
-      images:
-      - url: https://www.orbooks.com/wp-content/uploads/2010/08/Program-web.jpg
-      creator: "@orbooks"
-    favicon: https://www.orbooks.com/wp-content/uploads/2019/04/orlogo-300x300.png
-- text: available exclusively from O/R Books
-  original: http://www.orbooks.com/our-books/program/
-  archive: http://web.archive.org/web/20111103125723/http://www.orbooks.com:80/our-books/program/
-  meta:
-    title: 'Program or be Programmed: Ten Commands for Digital Age, by Douglas Rushkoff
-      - OR Books'
-    description: 'Paperback: $16/£10 E-book: $10/£7 Print + E-book: $20/£14 Send a
-      blank email to studyprogram@orbooks.com and get a free chapter-by-chapter study
-      guide,'
-    open_graph:
-      locale: en_US
-      type: article
-      title: 'Program or be Programmed: Ten Commands for Digital Age, by Douglas Rushkoff
-        - OR Books'
-      description: 'Paperback: $16/£10 E-book: $10/£7 Print + E-book: $20/£14 Send
-        a blank email to studyprogram@orbooks.com and get a free chapter-by-chapter
-        study guide,'
-      url: https://www.orbooks.com/catalog/program/
-      site_name: OR Books
-      images:
-      - url: https://www.orbooks.com/wp-content/uploads/2010/08/Program-web.jpg
-        secure_url: https://www.orbooks.com/wp-content/uploads/2010/08/Program-web.jpg
-    twitter_card:
-      card: summary
-      description: 'Paperback: $16/£10 E-book: $10/£7 Print + E-book: $20/£14 Send
-        a blank email to studyprogram@orbooks.com and get a free chapter-by-chapter
-        study guide,'
-      title: 'Program or be Programmed: Ten Commands for Digital Age, by Douglas Rushkoff
-        - OR Books'
-      site: "@orbooks"
-      images:
-      - url: https://www.orbooks.com/wp-content/uploads/2010/08/Program-web.jpg
-      creator: "@orbooks"
-    favicon: https://www.orbooks.com/wp-content/uploads/2019/04/orlogo-300x300.png
+refs: '[{"text"=>"Program or be Programmed: Ten Commands for the Digital Age", "original"=>"http://www.orbooks.com/our-books/program/",
+  "archive"=>"http://web.archive.org/web/20111103125723/http://www.orbooks.com:80/our-books/program/",
+  "meta"=>{"title"=>"Program or be Programmed: Ten Commands for Digital Age, by Douglas
+  Rushkoff - OR Books", "description"=>"Paperback: $16/£10 E-book: $10/£7 Print +
+  E-book: $20/£14 Send a blank email to studyprogram@orbooks.com and get a free chapter-by-chapter
+  study guide,", "open_graph"=>{"locale"=>"en_US", "type"=>"article", "title"=>"Program
+  or be Programmed: Ten Commands for Digital Age, by Douglas Rushkoff - OR Books",
+  "description"=>"Paperback: $16/£10 E-book: $10/£7 Print + E-book: $20/£14 Send a
+  blank email to studyprogram@orbooks.com and get a free chapter-by-chapter study
+  guide,", "url"=>"https://www.orbooks.com/catalog/program/", "site_name"=>"OR Books",
+  "images"=>[{"url"=>"https://www.orbooks.com/wp-content/uploads/2010/08/Program-web.jpg",
+  "secure_url"=>"https://www.orbooks.com/wp-content/uploads/2010/08/Program-web.jpg"}]},
+  "twitter_card"=>{"card"=>"summary", "description"=>"Paperback: $16/£10 E-book: $10/£7
+  Print + E-book: $20/£14 Send a blank email to studyprogram@orbooks.com and get a
+  free chapter-by-chapter study guide,", "title"=>"Program or be Programmed: Ten Commands
+  for Digital Age, by Douglas Rushkoff - OR Books", "site"=>"@orbooks", "images"=>[{"url"=>"https://www.orbooks.com/wp-content/uploads/2010/08/Program-web.jpg"}],
+  "creator"=>"@orbooks"}, "favicon"=>"https://www.orbooks.com/wp-content/uploads/2019/04/orlogo-300x300.png"}},
+  {"text"=>"Program or be Programmed: Ten Commands for a Digital Age", "original"=>"http://www.orbooks.com/our-books/program/",
+  "archive"=>"http://web.archive.org/web/20111103125723/http://www.orbooks.com:80/our-books/program/",
+  "meta"=>{"title"=>"Program or be Programmed: Ten Commands for Digital Age, by Douglas
+  Rushkoff - OR Books", "description"=>"Paperback: $16/£10 E-book: $10/£7 Print +
+  E-book: $20/£14 Send a blank email to studyprogram@orbooks.com and get a free chapter-by-chapter
+  study guide,", "open_graph"=>{"locale"=>"en_US", "type"=>"article", "title"=>"Program
+  or be Programmed: Ten Commands for Digital Age, by Douglas Rushkoff - OR Books",
+  "description"=>"Paperback: $16/£10 E-book: $10/£7 Print + E-book: $20/£14 Send a
+  blank email to studyprogram@orbooks.com and get a free chapter-by-chapter study
+  guide,", "url"=>"https://www.orbooks.com/catalog/program/", "site_name"=>"OR Books",
+  "images"=>[{"url"=>"https://www.orbooks.com/wp-content/uploads/2010/08/Program-web.jpg",
+  "secure_url"=>"https://www.orbooks.com/wp-content/uploads/2010/08/Program-web.jpg"}]},
+  "twitter_card"=>{"card"=>"summary", "description"=>"Paperback: $16/£10 E-book: $10/£7
+  Print + E-book: $20/£14 Send a blank email to studyprogram@orbooks.com and get a
+  free chapter-by-chapter study guide,", "title"=>"Program or be Programmed: Ten Commands
+  for Digital Age, by Douglas Rushkoff - OR Books", "site"=>"@orbooks", "images"=>[{"url"=>"https://www.orbooks.com/wp-content/uploads/2010/08/Program-web.jpg"}],
+  "creator"=>"@orbooks"}, "favicon"=>"https://www.orbooks.com/wp-content/uploads/2019/04/orlogo-300x300.png"}},
+  {"text"=>"available exclusively from O/R Books", "original"=>"http://www.orbooks.com/our-books/program/",
+  "archive"=>"http://web.archive.org/web/20111103125723/http://www.orbooks.com:80/our-books/program/",
+  "meta"=>{"title"=>"Program or be Programmed: Ten Commands for Digital Age, by Douglas
+  Rushkoff - OR Books", "description"=>"Paperback: $16/£10 E-book: $10/£7 Print +
+  E-book: $20/£14 Send a blank email to studyprogram@orbooks.com and get a free chapter-by-chapter
+  study guide,", "open_graph"=>{"locale"=>"en_US", "type"=>"article", "title"=>"Program
+  or be Programmed: Ten Commands for Digital Age, by Douglas Rushkoff - OR Books",
+  "description"=>"Paperback: $16/£10 E-book: $10/£7 Print + E-book: $20/£14 Send a
+  blank email to studyprogram@orbooks.com and get a free chapter-by-chapter study
+  guide,", "url"=>"https://www.orbooks.com/catalog/program/", "site_name"=>"OR Books",
+  "images"=>[{"url"=>"https://www.orbooks.com/wp-content/uploads/2010/08/Program-web.jpg",
+  "secure_url"=>"https://www.orbooks.com/wp-content/uploads/2010/08/Program-web.jpg"}]},
+  "twitter_card"=>{"card"=>"summary", "description"=>"Paperback: $16/£10 E-book: $10/£7
+  Print + E-book: $20/£14 Send a blank email to studyprogram@orbooks.com and get a
+  free chapter-by-chapter study guide,", "title"=>"Program or be Programmed: Ten Commands
+  for Digital Age, by Douglas Rushkoff - OR Books", "site"=>"@orbooks", "images"=>[{"url"=>"https://www.orbooks.com/wp-content/uploads/2010/08/Program-web.jpg"}],
+  "creator"=>"@orbooks"}, "favicon"=>"https://www.orbooks.com/wp-content/uploads/2019/04/orlogo-300x300.png"}}]'
 sources: 
-published: 
+published: false
 img: 
 slug: 0767-program-or-be-programmed
 created_at: '2020-08-02T00:44:12.000Z'

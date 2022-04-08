@@ -1,41 +1,24 @@
 ---
 id: 834
 title: The Developer's Dilemma
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: The inability to create a great cell-phone software course may tell us a lot
   about the plight of independent developers in a development-hostile environment.
 notes: 
-refs:
-- text: Interactive Telecommunications Program,
-  original: http://www.itp.nyu.edu/
-  meta:
-    title: ITP and IMA
-    description: Learn more about the Interactive Telecommunications Program (ITP)
-      at NYU Tisch, a two-year graduate program exploring the imaginative use of communications
-      technologies and the Undergraduate Interactive Media Arts Program, IMA.
-    open_graph:
-      title: ITP and IMA
-      description: Learn more about the Interactive Telecommunications Program (ITP)
-        at NYU Tisch, a two-year graduate program exploring the imaginative use of
-        communications technologies and the Undergraduate Interactive Media Arts Program,
-        IMA.
-      type: article
-      images:
-      - url: https://tisch.nyu.edu/content/dam/tisch/shared/salute2016/salute-2016-banner3.jpg
-    favicon: http://www.itp.nyu.edu/etc/designs/tisch/favicon.ico
-- text: Clay Shirky
-  original: http://www.shirky.com/
-  archive: http://web.archive.org/web/20200729163025/http://shirky.com/
-  meta:
-    title: shirky.com is almost here!
-    description: The owner of this domain has not yet uploaded their website.
-    favicon: http://www.shirky.com/favicon.ico
+refs: '[{"text"=>"Interactive Telecommunications Program,", "original"=>"http://www.itp.nyu.edu/",
+  "meta"=>{"title"=>"ITP and IMA", "description"=>"Learn more about the Interactive
+  Telecommunications Program (ITP) at NYU Tisch, a two-year graduate program exploring
+  the imaginative use of communications technologies and the Undergraduate Interactive
+  Media Arts Program, IMA.", "open_graph"=>{"title"=>"ITP and IMA", "description"=>"Learn
+  more about the Interactive Telecommunications Program (ITP) at NYU Tisch, a two-year
+  graduate program exploring the imaginative use of communications technologies and
+  the Undergraduate Interactive Media Arts Program, IMA.", "type"=>"article", "images"=>[{"url"=>"https://tisch.nyu.edu/content/dam/tisch/shared/salute2016/salute-2016-banner3.jpg"}]},
+  "favicon"=>"http://www.itp.nyu.edu/etc/designs/tisch/favicon.ico"}}, {"text"=>"Clay
+  Shirky", "original"=>"http://www.shirky.com/", "archive"=>"http://web.archive.org/web/20200729163025/http://shirky.com/",
+  "meta"=>{"title"=>"shirky.com is almost here!", "description"=>"The owner of this
+  domain has not yet uploaded their website.", "favicon"=>"http://www.shirky.com/favicon.ico"}}]'
 sources: 
 published: true
 img: 

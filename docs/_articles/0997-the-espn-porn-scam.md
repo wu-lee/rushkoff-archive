@@ -1,94 +1,36 @@
 ---
 id: 997
 title: The ESPN Porn Scam
+subtitle: 
 date: '2009-07-22T04:00:00.000Z'
-publication:
-  id: 6
-  title: The Daily Beast
-  slug: daily-beast
-  created_at: '2020-08-03T15:08:16.000Z'
-  updated_at: '2020-08-03T15:10:07.000Z'
+publication: The Daily Beast
 blurb: On the Internet, there's no currency more readily accepted—and exploitable—than
   a few pixels of porn. This week's leak of a video, apparently taped illegally, of
   ESPN star Erin Andrews changing in her hotel room has kept her fans busy downloading
   torrents, and the gossip sites busy generating chatter and speculation.
 notes: 
-refs:
-- text: how it works
-  original: http://www.youtube.com/watch?v=H4qbLKy32rIIt
-  meta:
-    title: Erin Andrews Peephole Video Leads to Malware - YouTube
-    description: Virus writers are using the Erin Andrews peephole video as a trap
-      to infect Apple Macs and Windows PCs with malware. Watch this video from Sophos
-      to find out...
-    keywords:
-    - Sophos
-    - SophosLabs
-    - Erin Andrews
-    - Mac
-    - malware
-    - virus
-    - trojan
-    - pictures
-    - peephole
-    - ESPN
-    open_graph:
-      site_name: YouTube
-      url: https://www.youtube.com/watch?v=H4qbLKy32rI
-      title: Erin Andrews Peephole Video Leads to Malware
-      images:
-      - url: https://i.ytimg.com/vi/H4qbLKy32rI/hqdefault.jpg
-        width: 480
-        height: 360
-      description: Virus writers are using the Erin Andrews peephole video as a trap
-        to infect Apple Macs and Windows PCs with malware. Watch this video from Sophos
-        to find out...
-      type: video.other
-      videos:
-      - url: https://www.youtube.com/embed/H4qbLKy32rI
-        secure_url: https://www.youtube.com/embed/H4qbLKy32rI
-        type: text/html
-        width: 640
-        height: 360
-        tags:
-        - Sophos
-        - SophosLabs
-        - Erin Andrews
-        - Mac
-        - malware
-        - virus
-        - trojan
-        - pictures
-        - peephole
-        - ESPN
-    twitter_card:
-      card: player
-      site: "@youtube"
-      url: https://www.youtube.com/watch?v=H4qbLKy32rI
-      title: Erin Andrews Peephole Video Leads to Malware
-      description: Virus writers are using the Erin Andrews peephole video as a trap
-        to infect Apple Macs and Windows PCs with malware. Watch this video from Sophos
-        to find out...
-      images:
-      - url: https://i.ytimg.com/vi/H4qbLKy32rI/hqdefault.jpg
-      apps:
-        iphone:
-          name: YouTube
-          id: '544007664'
-          url: vnd.youtube://www.youtube.com/watch?v=H4qbLKy32rI&feature=applinks
-        ipad:
-          name: YouTube
-          id: '544007664'
-          url: vnd.youtube://www.youtube.com/watch?v=H4qbLKy32rI&feature=applinks
-        googleplay:
-          name: YouTube
-          id: com.google.android.youtube
-          url: https://www.youtube.com/watch?v=H4qbLKy32rI
-      players:
-      - url: https://www.youtube.com/embed/H4qbLKy32rI
-        width: 640
-        height: 360
-    favicon: http://www.youtube.com/yts/img/favicon_144-vfliLAfaB.png
+refs: '[{"text"=>"how it works", "original"=>"http://www.youtube.com/watch?v=H4qbLKy32rIIt",
+  "meta"=>{"title"=>"Erin Andrews Peephole Video Leads to Malware - YouTube", "description"=>"Virus
+  writers are using the Erin Andrews peephole video as a trap to infect Apple Macs
+  and Windows PCs with malware. Watch this video from Sophos to find out...", "keywords"=>["Sophos",
+  "SophosLabs", "Erin Andrews", "Mac", "malware", "virus", "trojan", "pictures", "peephole",
+  "ESPN"], "open_graph"=>{"site_name"=>"YouTube", "url"=>"https://www.youtube.com/watch?v=H4qbLKy32rI",
+  "title"=>"Erin Andrews Peephole Video Leads to Malware", "images"=>[{"url"=>"https://i.ytimg.com/vi/H4qbLKy32rI/hqdefault.jpg",
+  "width"=>480, "height"=>360}], "description"=>"Virus writers are using the Erin
+  Andrews peephole video as a trap to infect Apple Macs and Windows PCs with malware.
+  Watch this video from Sophos to find out...", "type"=>"video.other", "videos"=>[{"url"=>"https://www.youtube.com/embed/H4qbLKy32rI",
+  "secure_url"=>"https://www.youtube.com/embed/H4qbLKy32rI", "type"=>"text/html",
+  "width"=>640, "height"=>360, "tags"=>["Sophos", "SophosLabs", "Erin Andrews", "Mac",
+  "malware", "virus", "trojan", "pictures", "peephole", "ESPN"]}]}, "twitter_card"=>{"card"=>"player",
+  "site"=>"@youtube", "url"=>"https://www.youtube.com/watch?v=H4qbLKy32rI", "title"=>"Erin
+  Andrews Peephole Video Leads to Malware", "description"=>"Virus writers are using
+  the Erin Andrews peephole video as a trap to infect Apple Macs and Windows PCs with
+  malware. Watch this video from Sophos to find out...", "images"=>[{"url"=>"https://i.ytimg.com/vi/H4qbLKy32rI/hqdefault.jpg"}],
+  "apps"=>{"iphone"=>{"name"=>"YouTube", "id"=>"544007664", "url"=>"vnd.youtube://www.youtube.com/watch?v=H4qbLKy32rI&feature=applinks"},
+  "ipad"=>{"name"=>"YouTube", "id"=>"544007664", "url"=>"vnd.youtube://www.youtube.com/watch?v=H4qbLKy32rI&feature=applinks"},
+  "googleplay"=>{"name"=>"YouTube", "id"=>"com.google.android.youtube", "url"=>"https://www.youtube.com/watch?v=H4qbLKy32rI"}},
+  "players"=>[{"url"=>"https://www.youtube.com/embed/H4qbLKy32rI", "width"=>640, "height"=>360}]},
+  "favicon"=>"http://www.youtube.com/yts/img/favicon_144-vfliLAfaB.png"}}]'
 sources: 
 published: true
 img: 

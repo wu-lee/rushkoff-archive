@@ -1,13 +1,9 @@
 ---
 id: 927
 title: They Called Me Cyberboy
+subtitle: 
 date: '2009-04-12T04:00:00.000Z'
-publication:
-  id: 45
-  title: Time
-  slug: time
-  created_at: '2020-08-03T19:49:37.000Z'
-  updated_at: '2020-08-03T19:49:37.000Z'
+publication: Time
 blurb: 
 notes: 
 refs: 

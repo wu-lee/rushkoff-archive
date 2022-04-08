@@ -1,18 +1,14 @@
 ---
 id: 22
 title: Why I Left My Publisher in Order to Publish a Book
+subtitle: 
 date: '2010-09-29T23:00:00.000Z'
-publication:
-  id: 3
-  title: Arthur
-  slug: arthur
-  created_at: '2020-08-03T15:07:46.000Z'
-  updated_at: '2020-08-03T15:07:46.000Z'
+publication: Arthur
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 0022-why-i-left-my-publisher-in-order-to-publ
 created_at: '2020-08-02T00:43:52.000Z'

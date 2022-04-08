@@ -1,13 +1,9 @@
 ---
 id: 763
 title: The Hidden Architecure of the Internet
+subtitle: 
 date: '2008-05-13T04:00:00.000Z'
-publication:
-  id: 33
-  title: Red Herring
-  slug: red-herring
-  created_at: '2020-08-03T15:15:56.000Z'
-  updated_at: '2020-08-03T15:15:56.000Z'
+publication: Red Herring
 blurb: The real space of cyberspace
 notes: 
 refs: 

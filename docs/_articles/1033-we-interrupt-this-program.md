@@ -1,18 +1,14 @@
 ---
 id: 1033
 title: We Interrupt This Program
+subtitle: 
 date: '2011-02-01T05:00:00.000Z'
-publication:
-  id: 34
-  title: School Library Journal
-  slug: school-library-journal
-  created_at: '2020-08-03T15:16:06.000Z'
-  updated_at: '2020-08-03T15:16:06.000Z'
+publication: School Library Journal
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1033-we-interrupt-this-program
 created_at: '2020-08-02T07:13:33.000Z'

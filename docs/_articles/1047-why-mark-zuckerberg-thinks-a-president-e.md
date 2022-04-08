@@ -1,18 +1,14 @@
 ---
 id: 1047
 title: Why Mark Zuckerberg thinks a President Elizabeth Warren would 'suck'
+subtitle: 
 date: '2019-10-01T13:27:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
+publication: CNN
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1047-why-mark-zuckerberg-thinks-a-president-e
 created_at: '2020-12-02T14:11:16.000Z'

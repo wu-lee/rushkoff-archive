@@ -1,13 +1,9 @@
 ---
 id: 253
 title: Hubble Hobbled by Bush's Bubble
+subtitle: 
 date: '2004-01-17T05:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: I starting writing about this last night on The Feature, but I'm still finding
   myself actively irked, so I'll use my blog to blather on.
 notes: 

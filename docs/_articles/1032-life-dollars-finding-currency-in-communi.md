@@ -1,18 +1,14 @@
 ---
 id: 1032
 title: 'Life Dollars: Finding Currency In Community'
+subtitle: 
 date: '2010-09-01T04:00:00.000Z'
-publication:
-  id: 13
-  title: The Futurist
-  slug: futurist
-  created_at: '2020-08-03T15:10:43.000Z'
-  updated_at: '2020-08-03T15:10:48.000Z'
+publication: The Futurist
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1032-life-dollars-finding-currency-in-communi
 created_at: '2020-08-02T07:11:34.000Z'

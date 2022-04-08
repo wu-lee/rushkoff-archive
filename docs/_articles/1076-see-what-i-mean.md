@@ -1,13 +1,9 @@
 ---
 id: 1076
 title: See What I Mean?
+subtitle: 
 date: '2015-12-01T17:00:00.000Z'
-publication:
-  id: 46
-  title: Hemispheres Magazine
-  slug: hemispheres-magazine
-  created_at: '2021-09-10T13:11:05.000Z'
-  updated_at: '2021-09-10T13:11:05.000Z'
+publication: Hemispheres Magazine
 blurb: 
 notes: 
 refs: 

@@ -1,18 +1,14 @@
 ---
 id: 1057
 title: No, you can't have it all
+subtitle: 
 date: '2015-10-20T16:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
+publication: CNN
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1057-no-you-cant-have-it-all
 created_at: '2020-12-02T14:35:58.000Z'

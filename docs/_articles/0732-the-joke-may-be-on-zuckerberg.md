@@ -1,52 +1,30 @@
 ---
 id: 732
 title: The Joke May Be on Zuckerberg
+subtitle: 
 date: '2013-04-17T04:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
-refs:
-- text: Mark Zuckerberg's announcement
-  original: http://hothardware.com/News/Zuckerberg-Evangelizes-Facebook-Home-In-New-Video-Ad-Actually-Entertaining/
-- text: '"screaming goat" appears on a desk and bleats loudly.'
-  original: http://blogs.discovery.com/animal_oddities/2013/02/why-are-these-goats-screaming.html
-- text: teens in particular,
-  original: http://www.theverge.com/2013/3/1/4049592/the-age-of-the-brag-is-over-why-facebook-might-be-losing-teens
-  archive: http://web.archive.org/web/20200723183913/https://www.theverge.com/2013/3/1/4049592/the-age-of-the-brag-is-over-why-facebook-might-be-losing-teens
-  meta:
-    title: 'The age of the brag is over: why Facebook might be losing teens - The
-      Verge'
-    description: "One week ago, Facebook Director of Product Blake Ross announced
-      that he’d leave the company in a goodbye letter he posted on his profile page.
-      Ross wrote:\r\n\"I’m leaving because a Forbes writer..."
-    open_graph:
-      description: "One week ago, Facebook Director of Product Blake Ross announced
-        that he’d leave the company in a goodbye letter he posted on his profile page.
-        Ross wrote:\r\n\"I’m leaving because a Forbes writer..."
-      images:
-      - url: https://cdn.vox-cdn.com/thumbor/puTx8VZzr6CswSkYdRfaQtRiPvY=/0x51:1020x625/1600x900/cdn.vox-cdn.com/assets/2023319/mark-zuckerberg-theverge-stock-1_1020.jpg
-        height: 900
-        width: 1600
-      site_name: The Verge
-      title: 'The age of the brag is over: why Facebook might be losing teens'
-      type: article
-      url: https://www.theverge.com/2013/3/1/4049592/the-age-of-the-brag-is-over-why-facebook-might-be-losing-teens
-    twitter_card:
-      card: summary_large_image
-      url: https://www.theverge.com/2013/3/1/4049592/the-age-of-the-brag-is-over-why-facebook-might-be-losing-teens
-      title: 'The age of the brag is over: why Facebook might be losing teens'
-      description: "One week ago, Facebook Director of Product Blake Ross announced
-        that he’d leave the company in a goodbye letter he posted on his profile page.
-        Ross wrote:\r\n\"I’m leaving because a Forbes writer..."
-      images:
-      - url: https://cdn.vox-cdn.com/thumbor/puTx8VZzr6CswSkYdRfaQtRiPvY=/0x51:1020x625/1600x900/cdn.vox-cdn.com/assets/2023319/mark-zuckerberg-theverge-stock-1_1020.jpg
-      site: verge
-    favicon: https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395351/android-chrome-192x192.0.png
+refs: '[{"text"=>"Mark Zuckerberg''s announcement", "original"=>"http://hothardware.com/News/Zuckerberg-Evangelizes-Facebook-Home-In-New-Video-Ad-Actually-Entertaining/"},
+  {"text"=>"\"screaming goat\" appears on a desk and bleats loudly.", "original"=>"http://blogs.discovery.com/animal_oddities/2013/02/why-are-these-goats-screaming.html"},
+  {"text"=>"teens in particular,", "original"=>"http://www.theverge.com/2013/3/1/4049592/the-age-of-the-brag-is-over-why-facebook-might-be-losing-teens",
+  "archive"=>"http://web.archive.org/web/20200723183913/https://www.theverge.com/2013/3/1/4049592/the-age-of-the-brag-is-over-why-facebook-might-be-losing-teens",
+  "meta"=>{"title"=>"The age of the brag is over: why Facebook might be losing teens
+  - The Verge", "description"=>"One week ago, Facebook Director of Product Blake Ross
+  announced that he’d leave the company in a goodbye letter he posted on his profile
+  page. Ross wrote:\r\n\"I’m leaving because a Forbes writer...", "open_graph"=>{"description"=>"One
+  week ago, Facebook Director of Product Blake Ross announced that he’d leave the
+  company in a goodbye letter he posted on his profile page. Ross wrote:\r\n\"I’m
+  leaving because a Forbes writer...", "images"=>[{"url"=>"https://cdn.vox-cdn.com/thumbor/puTx8VZzr6CswSkYdRfaQtRiPvY=/0x51:1020x625/1600x900/cdn.vox-cdn.com/assets/2023319/mark-zuckerberg-theverge-stock-1_1020.jpg",
+  "height"=>900, "width"=>1600}], "site_name"=>"The Verge", "title"=>"The age of the
+  brag is over: why Facebook might be losing teens", "type"=>"article", "url"=>"https://www.theverge.com/2013/3/1/4049592/the-age-of-the-brag-is-over-why-facebook-might-be-losing-teens"},
+  "twitter_card"=>{"card"=>"summary_large_image", "url"=>"https://www.theverge.com/2013/3/1/4049592/the-age-of-the-brag-is-over-why-facebook-might-be-losing-teens",
+  "title"=>"The age of the brag is over: why Facebook might be losing teens", "description"=>"One
+  week ago, Facebook Director of Product Blake Ross announced that he’d leave the
+  company in a goodbye letter he posted on his profile page. Ross wrote:\r\n\"I’m
+  leaving because a Forbes writer...", "images"=>[{"url"=>"https://cdn.vox-cdn.com/thumbor/puTx8VZzr6CswSkYdRfaQtRiPvY=/0x51:1020x625/1600x900/cdn.vox-cdn.com/assets/2023319/mark-zuckerberg-theverge-stock-1_1020.jpg"}],
+  "site"=>"verge"}, "favicon"=>"https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395351/android-chrome-192x192.0.png"}}]'
 sources: 
 published: true
 img: 

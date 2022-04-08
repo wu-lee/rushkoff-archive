@@ -1,13 +1,9 @@
 ---
 id: 764
 title: Clonaid
+subtitle: 
 date: '2009-04-12T04:00:00.000Z'
-publication:
-  id: 35
-  title: SEED
-  slug: seed
-  created_at: '2020-08-03T15:16:14.000Z'
-  updated_at: '2020-08-03T15:16:14.000Z'
+publication: SEED
 blurb: SEED Magazine March/April 2003
 notes: 
 refs: 

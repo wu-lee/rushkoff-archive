@@ -1,19 +1,15 @@
 ---
 id: 11
 title: Douglas Rushkoff and Genesis P-Orridge Conversation
+subtitle: 
 date: '2003-01-01T05:00:00.000Z'
-publication:
-  id: 3
-  title: Arthur
-  slug: arthur
-  created_at: '2020-08-03T15:07:46.000Z'
-  updated_at: '2020-08-03T15:07:46.000Z'
+publication: Arthur
 blurb: "*As originally published in [Arthur No. 2 (Jan 2003)](http://store.arthurmag.com/product/arthur-issue-2),
   with accompanying photography by Shawn Mortensen…*"
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 0011-douglas-rushkoff-and-genesis-porridge-co
 created_at: '2020-08-02T00:43:52.000Z'
@@ -44,7 +40,7 @@ Now, it’s always good to look at what’s happening parallel to the art world 
 
 I came in around this point, where suddenly it’s ALL up for grabs. I was born in 1950, so in 1960 I’m ten: my mind’s beginning to really think, make thought processes as well as just observe and absorb, and so I was really blessed in that the material world, the world of consciousness, and the world of accepted forms of writing and painting and music, all suddenly came up for grabs. They all became malleable. To many people, the rulebooks were thrown out. I don’t think it’s just coincidental—I think that it was a very important evolutionary moment, that we still haven’t fully grasped. As you said, it’s TOTALLY affected the culture on every possible level—on television all the adverts are just cut-ups!—to degrees that most people haven’t even considered yet.
 
-I was being educated in an English public school and the basic bumper sticker for those is, We’re building the leaders of tomorrow. The ‘leaders of tomorrow’ were supposed to be the shepherds and farmers of inertia: to maintain the status quo, the Establishment. There was a book that came out that was called The Shock of the New. \[pausing\] Let me think about what it felt like. I’m just trying to track back. I remember, this seems weird to say this, I remember the Cuban missile crisis. I remember going to school, being told, You may not come home tonight because there might be an atomic war. And I was on a bus, with my face on the window of the bus, and I suddenly imagined the glass just melting around my face. I imagined there being an explosion, and the result of that being me, enfolded in molten glass, preserved in this shell of molten atomic glass. That image somehow simultaneously suggested the idea of preserving oneself, and that the shell that is oneself is invisible and transparent, and that in fact everything I’d been told about reality just wasn’t true. \[laughing\] Don’t ask me why that image made that happen for me! But that was my epiphany, and that was when I decided to seek out alternative methods of reporting upon experience.
+I was being educated in an English public school and the basic bumper sticker for those is, We’re building the leaders of tomorrow. The ‘leaders of tomorrow’ were supposed to be the shepherds and farmers of inertia: to maintain the status quo, the Establishment. There was a book that came out that was called The Shock of the New. \\[pausing\\] Let me think about what it felt like. I’m just trying to track back. I remember, this seems weird to say this, I remember the Cuban missile crisis. I remember going to school, being told, You may not come home tonight because there might be an atomic war. And I was on a bus, with my face on the window of the bus, and I suddenly imagined the glass just melting around my face. I imagined there being an explosion, and the result of that being me, enfolded in molten glass, preserved in this shell of molten atomic glass. That image somehow simultaneously suggested the idea of preserving oneself, and that the shell that is oneself is invisible and transparent, and that in fact everything I’d been told about reality just wasn’t true. \\[laughing\\] Don’t ask me why that image made that happen for me! But that was my epiphany, and that was when I decided to seek out alternative methods of reporting upon experience.
 
 In a way, I think that what we’ve always looked for is methods and media and techniques to report back upon what experience is and what being alive is. And as social life and civilization and Western Culture, which is what I know, as they have developed and become more and more complex, you would think that that implies we would be seeing some kind of shimmering atomic kaleidoscope that would be really vibrant and exciting, and constantly getting more complex. But the irony is that Western civilization seems to be more and more like threads binding rather than atomic splitting.
 
@@ -54,7 +50,7 @@ What you really end up doing is, you surrender to the idea of oblivion. At some 
 
 **DR:** I have always understood the kinds of shifts you’re talking about as the same kind of shift in perspective that occurs through a full-fledged renaissance. If you look back at the original “capital-R” Renaissance, what do you really have going on there? Perspective painting, successful circumnavigation of the globe, the printing press, calculus, and then the sonnet (which is really just an extended metaphor). Each of these 15th-cenutry innovations is all about being able to see three dimensions where there had formerly been two—or being able to relate two dimensions to three as in calculus, or being able to go around the globe, which is to experience the planet as three-dimensional rather than as flat. That’s renaissance . And we’re going through a similar shift, now. From the 1940s to the present, you have a series of analogous innovations. Instead of being able to circumnavigate the globe, we can blow the globe up!
 
-**G P-O:** \[agreeing\] Or go into space and look at it.
+**G P-O:** \\[agreeing\\] Or go into space and look at it.
 
 **DR:** Indeed, or go into space and see it from a distance—which is just another increase in perspective. Instead of the printing press, we have the Internet, which rather than just allowing the individual in his drawing room to interpret a piece of literature, enables him or her to write one and then disseminate it through the whole network. Instead of just having perspective painting which allows you to see three dimensions on two, you get the holograph, which allows you to see four dimensions on two: the bird waving its wings, or the girl winking her eye as you walk across the plate. And then instead of calculus, which allows you to relate the second dimension to the third, or the third to the fourth, you get fractals, which is about fractional dimensionality: this thing has two and three-quarters dimensions, and what does that mean? Instead of the sonnet, which gave us the extended metaphor, we get hypertext, which allows us to make anything into a metaphor for something else—it’s all potential allegory.
 
@@ -70,11 +66,11 @@ And we are going through something like that again, obviously at a much faster p
 
 The point you’re making is absolutely right. I was looking at the television just yesterday on the news and there was a person from a Muslim country and they were talking and they said, ‘Well you’ll never understand because you’re all Christian.’ And their assumption is still that the narrative in the West is ultimately a linear narrative that has an author, that its an unfolding linear story; and that if you’re not Muslim, you must be Christian, and that your whole behavior is based upon Christian dogma, because theirs is based on their dogma. So, for this Muslim, that’s obviously that’s the problem: it‘s Muslim dogma versus Christian dogma.
 
-But the problem isn’t that at all. The problem is that we in the ‘West,’ are in their sense, amoral. We don’t care! Most people over here DON’T CARE what religion people are, and most people in the West don’t label themselves ‘Christians’ or anything else. The majority in the West are irreligious. They don’t have a faith. I’m not saying that’s a good thing—I’m saying it’s a fact. They’re a godless people. And in a sense, maybe, God is supposed to be ‘The Author.’ In the past, God was the ‘ultimate author.’ Well, guess what? We always said we wanted to challenge god and be like god—and now we have! We’ve just fallen, you know? \[laughs\] It’s as if the story of the fallen angel—Lucifer—has just happened. In a way, we’ve just started to reap the rewards of having decided to ask the questions.
+But the problem isn’t that at all. The problem is that we in the ‘West,’ are in their sense, amoral. We don’t care! Most people over here DON’T CARE what religion people are, and most people in the West don’t label themselves ‘Christians’ or anything else. The majority in the West are irreligious. They don’t have a faith. I’m not saying that’s a good thing—I’m saying it’s a fact. They’re a godless people. And in a sense, maybe, God is supposed to be ‘The Author.’ In the past, God was the ‘ultimate author.’ Well, guess what? We always said we wanted to challenge god and be like god—and now we have! We’ve just fallen, you know? \\[laughs\\] It’s as if the story of the fallen angel—Lucifer—has just happened. In a way, we’ve just started to reap the rewards of having decided to ask the questions.
 
-**DR:** \[agreeing\] Right. Lately, I’ve started to wonder, ‘What if the painful truth is that we really are a fungus on a rock, hurtling through cold and meaningless space?’
+**DR:** \\[agreeing\\] Right. Lately, I’ve started to wonder, ‘What if the painful truth is that we really are a fungus on a rock, hurtling through cold and meaningless space?’
 
-**G P-O:** \[laughs\] Oh, I think about that every day!
+**G P-O:** \\[laughs\\] Oh, I think about that every day!
 
 **DR:** To me, it doesn’t really matter, because just as easily as the idea that God could have created us with meaning, is the possibility that just as life emerged from this cold and meaningless rock, and that meaning can now emerge…from us!
 
@@ -88,7 +84,7 @@ But the problem isn’t that at all. The problem is that we in the ‘West,’ a
 
 **G P-O:** Hence, it is painful—but fabulous. And that, in a way, is the whole point of the book. That’s why it’s not written just by me. This is dealt with in the book. What happened was, it became impossible for me to make a book that was both by me and about me, because I don’t even know if ‘me’ exists. And whoever ‘me’ is, is shifting and changing too—because one of things I’ve done is cut-and-pasted identity. I’ve taken it even further, you know?
 
-**DR:** I ran into the same problem in my own SoftSkull book too \[the novel *Exit Strategy*, published earlier this year\], which is that if I’m writing a book about our ability to co-author the reality in which we live, how can I do that as a solitary author? So I had to put it online and let people contribute live to it.
+**DR:** I ran into the same problem in my own SoftSkull book too \\[the novel *Exit Strategy*, published earlier this year\\], which is that if I’m writing a book about our ability to co-author the reality in which we live, how can I do that as a solitary author? So I had to put it online and let people contribute live to it.
 
 **G P-O:** I think that’s one of the ONLY authentic and the nearest to an honest answer with any integrity is that you have to actually surrender to the fact that we’re in a moment where there is no need for genius to be individualized. Also, it’s not that healthy for it to be individualized because it continues this hierarchy thing. Hierarchical society means injustice, it means that certain numbers of people will follow other people and do damage based upon sort of an unthinking state of mind. So we’re at this amazing point where we have to actually say that no particular person has answers. It’s a collaborative effort.
 
@@ -96,7 +92,7 @@ You’ve always said, and we’ve agreed, that what goes on in art is usually th
 
 **DR:** Talking the talk IS walking the walk.
 
-**G P-O:** It’s just the classic conundrum which is, I’m using words to describe the fact that they’re useless. Of course, the response to that has always been, ‘But there’s such joy in talking about it.’ \[laughter\] And then you get back to the cut-up, of course. BECAUSE we’re so aware that, especially in a linear way, language has become this controlling factor–that every word is loaded with meaning and history, that each word is a hologram, and each hologram has all kinds of hidden agendas from all the people who have utilized it–
+**G P-O:** It’s just the classic conundrum which is, I’m using words to describe the fact that they’re useless. Of course, the response to that has always been, ‘But there’s such joy in talking about it.’ \\[laughter\\] And then you get back to the cut-up, of course. BECAUSE we’re so aware that, especially in a linear way, language has become this controlling factor–that every word is loaded with meaning and history, that each word is a hologram, and each hologram has all kinds of hidden agendas from all the people who have utilized it–
 
 **DR:** Your language is an incantation, whether you realize it or not–
 
@@ -104,13 +100,13 @@ You’ve always said, and we’ve agreed, that what goes on in art is usually th
 
 It’s that kind of analogy, that the cut-up gives you that breathing space, in a sense a moment for survival as an intelligent and autonomous being. For me. So, if you take all the words and cut them all up and give yourself the opportunity to have these unexpected collisions, to have things revealed that you would just have forgot, filtered out, were lazy about and so on. It is just SO radical when you start to do it. The sense of empowerment and freedom from expectation…
 
-**DR:** When you do it consciously—dis-assembly, re-assembly, compression—it’s almost identical to creating a sigil. \[A sigil is a picture used in magical incantations. Like the symbols we use for letters, today, they are composed of drawings and symbols that are condensed into simpler sets of lines that can be remembered and meditated upon.\]
+**DR:** When you do it consciously—dis-assembly, re-assembly, compression—it’s almost identical to creating a sigil. \\[A sigil is a picture used in magical incantations. Like the symbols we use for letters, today, they are composed of drawings and symbols that are condensed into simpler sets of lines that can be remembered and meditated upon.\\]
 
 **G P-O:** That’s true, and there’s a whole section in the book all about creating sigils, and some of the possibilities of them.
 
 **DR:** The strange thing about the sigils is not so much hearing about them or figuring out how they function, but the almost-always surprising truth that they WORK.
 
-**G P-O:** Yes. \[laughter\] This is mind-boggling, isn’t it?
+**G P-O:** Yes. \\[laughter\\] This is mind-boggling, isn’t it?
 
 **DR:** I don’t believe in magick, exactly. But I know that sigils work, if they’re created the right way. And sometimes they work so well that they almost come back at you as a joke. Like Grant Morrison was telling me about this big sigil that he wanted to meet Superman, and he was sitting on a park bench and Superman walked up. But it was a guy working at a convention! He treated him like he was Superman, though, and had a great interview. So sometimes it’s obviously not going to be that magical, in the sense of a puff of smoke or something. And obviously if you pick something too specific, you end up getting it, which can be scary.
 
@@ -124,7 +120,7 @@ It’s that kind of analogy, that the cut-up gives you that breathing space, in 
 
 **G P-O:** Absolutely. Well you know that Burroughs and Gysin used to say, In a pre-recorded universe, who made the first recording? I’ve thought about that a lot. And what it led me to wasn’t so much wondering about that question, because I think you’re right, it doesn’t matter, actually, but what it did make me realize is that the entire planet is a recording device. That, as you and I are speaking now, on this planet, there is, certainly it seems that way, and we’ll probably find more, there’s some kind of data recorded—whether it be fossils, geological strata—
 
-**DR:** \[laughing\]: Or the digital cassette that we’re recording on right now.
+**DR:** \\[laughing\\]: Or the digital cassette that we’re recording on right now.
 
 **G P-O:** —basically everything that’s happened so far is still here, recorded. On the planet, and in the planet. And there are people in New Guinea living in different centuries to the ones we’re living in. The people in the Kalahari are living in the pre-Stone Ages. So we actually still have the pre-Stone Age, parallel to the next phase, which is, because some people in the West and Japan and so on, high-tech societies, are already in the future, so allllllll the realities humanity has programmed through history are still here simultaneously! We’re actually layering more on top. So what we really have is a point of intersection, which is the earth, and everything that’s ever been manifested is still here. That’s not just a concept, this is actually HOW IT IS.
 
@@ -134,7 +130,7 @@ I mean, I walk down the street and if I meet somebody that I know who’s from N
 
 **G P-O:** Yes, it’s remaining open to dialogue. It’s not about the ego—look at me, I’m a great artist, I have something in the Tate, you know? That is SO redundant. Museums? THIS IS THE MUSEUM! The whole planet is the museum! I call all of that The Museum of Magic, because it’s all about illusion. That’s the whole illusion.
 
-We really are in a new place. And as people kind of grasped almost immediately, the Internet is, they knew it would be a metaphor, but it’s actually also a reality. Yes, we are actually building some kind of new brain. A global brain, as Howard \[Howard K. Bloom, author of *Global Brain: The Evolution of Mass Mind from the Big Bang to the 21st Century* (2000)\] would call it. That’s actually going on. These AREN’T abstractions.
+We really are in a new place. And as people kind of grasped almost immediately, the Internet is, they knew it would be a metaphor, but it’s actually also a reality. Yes, we are actually building some kind of new brain. A global brain, as Howard \\[Howard K. Bloom, author of *Global Brain: The Evolution of Mass Mind from the Big Bang to the 21st Century* (2000)\\] would call it. That’s actually going on. These AREN’T abstractions.
 
 That’s the thing that I think that we’ve got to get hold of.
 
@@ -152,7 +148,7 @@ That’s the thing that I think that we’ve got to get hold of.
 
 **DR:** Well, Neil’s not on there.
 
-**G P-O:** No, but he’s discussed in one chapter. So no, I don’t put myself as the author. I’m not the author. I’m blessed to have let other people do it for me! \[laughs\] This is an open-source book, see? I said to everybody, Look you’ve got carte blanche for once, no one’s gonna censor you, you can use me as an excuse to say something you’ve always wanted to say, I don’t care, I don’t have to agree with you, use ‘Genesis P-Orridge’ the idea to say whatever you want, and if you need Genesis P-Orridge the idea to trigger something, feel free. And that’s basically how the book happened, as you know. And that’s why I love it so much. Because I got to see it happen too. I was just as much of a witness as anyone who reads it. And of course truly I do feel incredibly humbled and honored by the amount of positive energy that people gave me based around this character, that they HAVE found that something was useful for them. And at the end, the last page says, ‘To be continued.’ For the very reason that this isn’t over, this is an ongoing thing. I don’t know the end. That’s why there’s all these different faces in there. Which one is me? I don’t know. Funny thing is none of those is how I look now, so…
+**G P-O:** No, but he’s discussed in one chapter. So no, I don’t put myself as the author. I’m not the author. I’m blessed to have let other people do it for me! \\[laughs\\] This is an open-source book, see? I said to everybody, Look you’ve got carte blanche for once, no one’s gonna censor you, you can use me as an excuse to say something you’ve always wanted to say, I don’t care, I don’t have to agree with you, use ‘Genesis P-Orridge’ the idea to say whatever you want, and if you need Genesis P-Orridge the idea to trigger something, feel free. And that’s basically how the book happened, as you know. And that’s why I love it so much. Because I got to see it happen too. I was just as much of a witness as anyone who reads it. And of course truly I do feel incredibly humbled and honored by the amount of positive energy that people gave me based around this character, that they HAVE found that something was useful for them. And at the end, the last page says, ‘To be continued.’ For the very reason that this isn’t over, this is an ongoing thing. I don’t know the end. That’s why there’s all these different faces in there. Which one is me? I don’t know. Funny thing is none of those is how I look now, so…
 
 It’s all about letting go of those preconceptions, and not being afraid to not exist in a sense, because even as you are theoretically here and present, you still don’t really know if you exist. It’s incredibly liberating when you let go of that need, and let yourself become fictional–as well as knowing you’re fictional. Because actually we all are fictions. We’re all just stories unfolding.
 
@@ -160,15 +156,15 @@ It’s all about letting go of those preconceptions, and not being afraid to not
 
 **G P-O:** In answer to that question, then, with those people, right, that you want me to encourage them. However this may sound, this is the basic exercise I’ve used. First of all is the classic Sufi thing, which is ‘Always try to go to sleep feeling that the day you’ve just had, something extra was added into the word’—something that you’re proud of, or pleased about. It may be that you cleaned a room. Or you wrote a nice postcard to a friend. Or made a phone call to Mum. It doesn’t have to be grand. Something happened that day, that wouldn’t’ve happened without you being alive, something that is somehow to you a positive thing. Feed the dog, stroke it, whatever. That’s one thing to do. The other exercise is to be able to think at any moment during the day, whenever you’re doing something… like if you’re writing a letter, think to yourself, ‘If I died now, and my life was judged by what this letter is like, would I be proud of that?’ Do EVERYTHING as if that so meticulously, make it so full of passion and of love for the moment and for the thing that you’re doing, so that you would always be proud to be remembered by that thing. Whatever it is, whether it’s cooking for a friend, washing up, anything. To always feel honorable and proud and that you’ve given love back by the way that you act every day.
 
-And then another exercise is this: Imagine your life is a book, and you’re going to write this book. So when you’re thinking, What should I do? Should I have this relationship or not? or something, you can think in terms of would doing that make for an interesting chapter. Even now sometimes I sit back with Miss Jackie and go, There’s another good page in the book. \[laughs\] The Theoretical Autobiography that I could never write because it’s too much stuff, but… It’s a good exercise, to just go ‘Well yeah, that was a good bit of the book.’ Sometimes it’s ‘Well that was dramatic, but that was a good bit of the book too.’ Or, ‘That was terrible, oh, argh, but it’ll look great in the book.’ Or if you want to get more contemporary, you can imagine your life as a movie: ‘Was that a good scene?’
+And then another exercise is this: Imagine your life is a book, and you’re going to write this book. So when you’re thinking, What should I do? Should I have this relationship or not? or something, you can think in terms of would doing that make for an interesting chapter. Even now sometimes I sit back with Miss Jackie and go, There’s another good page in the book. \\[laughs\\] The Theoretical Autobiography that I could never write because it’s too much stuff, but… It’s a good exercise, to just go ‘Well yeah, that was a good bit of the book.’ Sometimes it’s ‘Well that was dramatic, but that was a good bit of the book too.’ Or, ‘That was terrible, oh, argh, but it’ll look great in the book.’ Or if you want to get more contemporary, you can imagine your life as a movie: ‘Was that a good scene?’
 
 Suddenly you will find more balance. The great ups and the great downs start to become the coloring of the story—they start to have their own special value and emotional joy, because it’s YOUR story and it’s your passion and it’s your tragedy and it’s your moment of adulation. It’s your moment of…whatever. All these wonderful emotional events that take place that make us more individual than anything else–those are always wonderful, no matter how hard they are to experience. And that’s the other thing, the other trick: always try to work with other people, because none of us know everything. My feeling is, if I can have one good idea, and it’s quite a good idea, and I know four really clever people, and then I share it with them, then the odds are higher by getting four clever people, or four people I trust, to be involved, it’s gonna be somehow better than I could do on my own. Now why do I need to prove I can do it on my own when it’s not gonna be as good or as useful to other people? The old way was, to try and claim individual genius.
 
 **DR:** That’s the academic’s way, at least.
 
-**G P-O:** \[continuing\] But a), it’s not the most efficient method, and b) it’s not glamorous to be narcissistic like that.
+**G P-O:** \\[continuing\\] But a), it’s not the most efficient method, and b) it’s not glamorous to be narcissistic like that.
 
-**DR:** \[laughing\] And c), it’s not as much fun!
+**DR:** \\[laughing\\] And c), it’s not as much fun!
 
 **G P-O:** When I did Contemporary Artists (1977), I’d written these questionnaires to the thousand ‘most important’ artists in the last century, and they would write back, and one of the things asked was what were their influences. Most people would say ‘oh I was influenced by meeting this person or reading that book,’ but once in a while you would get somebody who would say, ‘Nothing.’ They would basically say ‘I am just so brilliant and I have this God-given talent that’s MINE ALONE, and NOTHING influenced me.’ That’s ridiculous! Everything that happens to us every second is influencing everything else. That’s the new way. That’s what we’ve taught ourselves.
 

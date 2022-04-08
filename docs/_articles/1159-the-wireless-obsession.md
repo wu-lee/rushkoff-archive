@@ -1,13 +1,9 @@
 ---
 id: 1159
 title: The Wireless Obsession
+subtitle: 
 date: '2004-01-12T17:00:00.000Z'
-publication:
-  id: 48
-  title: The Feature
-  slug: the-feature
-  created_at: '2021-09-30T17:37:22.000Z'
-  updated_at: '2021-09-30T17:37:22.000Z'
+publication: The Feature
 blurb: 
 notes: 
 refs: 

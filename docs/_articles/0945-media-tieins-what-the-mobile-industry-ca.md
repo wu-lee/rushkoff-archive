@@ -1,77 +1,34 @@
 ---
 id: 945
 title: 'Media Tie-Ins: What the Mobile Industry Can Learn From Ovaltine'
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
-blurb: ''
+publication: Nokia's The Feature
+blurb: 
 notes: 
-refs:
-- text: Radio Orphan Annie Secret Society
-  original: http://www.radioarchives.org/annie/
-  meta:
-    title: Radio Archives
-    favicon: http://www.radioarchives.org/favicon.ico
-- text: social currency
-  original: http://www.thefeature.com/article?articleid=100068
-  archive: http://web.archive.org/web/20050524073641/http://www.thefeature.com:80/article?articleid=100068
-  meta:
-    title: 'ページが見つかりませんでした  '
-    keywords:
-    - ''
-    favicon: http://www.thefeature.com/favicon.ico
-- text: Kellogg's and Cingular
-  original: http://%20www.kelloggscornpops.com/promotions/kcp_connected/
-- text: ilovebees
-  original: http://%20www.ilovebees.com/
-- text: Final Fantasy video game
-  original: http://www.square-enix.co.jp/mobile/bcff7.html
-  archive: http://web.archive.org/web/20180305151828/http://www.square-enix.co.jp:80/mobile/bcff7.html
-  meta:
-    title: "「ファイナルファンタジーモバイル」サービス終了のお知らせ(3/31) | SQUARE ENIX"
-    description: "「ファイナルファンタジーモバイル」サービス終了のお知らせ(3/31)"
-    open_graph:
-      title: "「ファイナルファンタジーモバイル」サービス終了のお知らせ(3/31) | SQUARE ENIX"
-      type: article
-      url: http://www.square-enix.co.jp/mobile/ff/
-      images:
-      - url: https://www.jp.square-enix.com/common/images/fb_icon_sqex.jpg
-      site_name: スクウェア・エニックス 商品・サービス情報 | SQUARE ENIX
-      description: "「ファイナルファンタジーモバイル」サービス終了のお知らせ(3/31)"
-    favicon: http://www.square-enix.co.jp/favicon.ico
-- text: Precure
-  original: http://www.toei-anim.co.jp/tv/precure/index.html
-  archive: http://web.archive.org/web/20170122102655/http://www.toei-anim.co.jp/tv/precure/index.html
-  meta:
-    title: 404 Not Found
-    favicon: http://www.toei-anim.co.jp/favicon.ico
-- text: clamshell mobile device
-  original: http://www.wirelesswatch.jp/modules.php?name=News&file=article&sid=717
-  archive: http://web.archive.org/web/20070220133401/http://www.wirelesswatch.jp:80/modules.php?name=News
-  meta:
-    title: "  Page Not Found | Wireless Watch Japan"
-    open_graph:
-      title: ''
-      url: ''
-      description: ''
-      type: website
-      images:
-      - url: http://www.wirelesswatch.jp/bts/_4sns.jpg
-        type: image/jpg
-        width: 1120
-        height: 540
-    twitter_card:
-      title: ''
-      description: ''
-      images:
-      - url: http://www.wirelesswatch.jp/bts/_4sns.jpg
-      card: summary_large_image
-      site: "@Wireless_Watch"
-    favicon: http://www.wirelesswatch.jp/bts/ico.png
+refs: '[{"text"=>"Radio Orphan Annie Secret Society", "original"=>"http://www.radioarchives.org/annie/",
+  "meta"=>{"title"=>"Radio Archives", "favicon"=>"http://www.radioarchives.org/favicon.ico"}},
+  {"text"=>"social currency", "original"=>"http://www.thefeature.com/article?articleid=100068",
+  "archive"=>"http://web.archive.org/web/20050524073641/http://www.thefeature.com:80/article?articleid=100068",
+  "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}},
+  {"text"=>"Kellogg''s and Cingular", "original"=>"http://%20www.kelloggscornpops.com/promotions/kcp_connected/"},
+  {"text"=>"ilovebees", "original"=>"http://%20www.ilovebees.com/"}, {"text"=>"Final
+  Fantasy video game", "original"=>"http://www.square-enix.co.jp/mobile/bcff7.html",
+  "archive"=>"http://web.archive.org/web/20180305151828/http://www.square-enix.co.jp:80/mobile/bcff7.html",
+  "meta"=>{"title"=>"「ファイナルファンタジーモバイル」サービス終了のお知らせ(3/31) | SQUARE ENIX", "description"=>"「ファイナルファンタジーモバイル」サービス終了のお知らせ(3/31)",
+  "open_graph"=>{"title"=>"「ファイナルファンタジーモバイル」サービス終了のお知らせ(3/31) | SQUARE ENIX", "type"=>"article",
+  "url"=>"http://www.square-enix.co.jp/mobile/ff/", "images"=>[{"url"=>"https://www.jp.square-enix.com/common/images/fb_icon_sqex.jpg"}],
+  "site_name"=>"スクウェア・エニックス 商品・サービス情報 | SQUARE ENIX", "description"=>"「ファイナルファンタジーモバイル」サービス終了のお知らせ(3/31)"},
+  "favicon"=>"http://www.square-enix.co.jp/favicon.ico"}}, {"text"=>"Precure", "original"=>"http://www.toei-anim.co.jp/tv/precure/index.html",
+  "archive"=>"http://web.archive.org/web/20170122102655/http://www.toei-anim.co.jp/tv/precure/index.html",
+  "meta"=>{"title"=>"404 Not Found", "favicon"=>"http://www.toei-anim.co.jp/favicon.ico"}},
+  {"text"=>"clamshell mobile device", "original"=>"http://www.wirelesswatch.jp/modules.php?name=News&file=article&sid=717",
+  "archive"=>"http://web.archive.org/web/20070220133401/http://www.wirelesswatch.jp:80/modules.php?name=News",
+  "meta"=>{"title"=>"  Page Not Found | Wireless Watch Japan", "open_graph"=>{"title"=>"",
+  "url"=>"", "description"=>"", "type"=>"website", "images"=>[{"url"=>"http://www.wirelesswatch.jp/bts/_4sns.jpg",
+  "type"=>"image/jpg", "width"=>1120, "height"=>540}]}, "twitter_card"=>{"title"=>"",
+  "description"=>"", "images"=>[{"url"=>"http://www.wirelesswatch.jp/bts/_4sns.jpg"}],
+  "card"=>"summary_large_image", "site"=>"@Wireless_Watch"}, "favicon"=>"http://www.wirelesswatch.jp/bts/ico.png"}}]'
 sources: 
 published: true
 img: 

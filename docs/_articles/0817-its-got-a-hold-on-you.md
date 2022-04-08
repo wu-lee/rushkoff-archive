@@ -1,62 +1,31 @@
 ---
 id: 817
 title: It's Got a Hold on You
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: The mobile phones in our hands may have a more totemic role in our lives than
   we suspect.
 notes: 
-refs:
-- text: Genevieve Bell
-  original: http://www.bbc.co.uk/religion/realmedia/sunday/s20050327n.ram
-  meta:
-    title: "\n   BBC - Error 404: Not Found\n    "
-    description: The best of the BBC, with the latest news and sport headlines, weather,
-      TV & radio highlights and much more from across the whole of BBC Online
-    favicon: https://www.bbc.co.uk/favicon.ico
-- text: for a lucky cell phone number
-  original: http://news.xinhuanet.com/english/2004-04/13/content_1415725.htm
-  archive: http://web.archive.org/web/20110824121815/http://news.xinhuanet.com/english/2004-04/13/content_1415725.htm
-- text: ShipofFools.com
-  original: http://www.shipoffools.com/
-  archive: http://web.archive.org/web/20200116043022/http://shipoffools.com:80/
-  meta:
-    title: 'Ship of Fools: The Magazine of Christian Unrest'
-    open_graph:
-      locale: en_GB
-      type: website
-      title: 'Ship of Fools: The Magazine of Christian Unrest'
-      url: http://www.shipoffools.com/
-      site_name: Ship of Fools
-      images:
-      - url: http://www.shipoffools.com/wp-content/uploads/2018/08/ShipOfFools-Blue-Texture.png
-        width: 460
-        height: 303
-    twitter_card:
-      card: summary_large_image
-      title: 'Ship of Fools: The Magazine of Christian Unrest'
-      images:
-      - url: http://www.shipoffools.com/wp-content/uploads/2018/08/ShipOfFools-Blue-Texture.png
-    favicon: http://www.shipoffools.com/wp-content/uploads/2018/09/cropped-ShipOfFools-Blue-S-192x192.png
-- text: hymns as ringtones
-  original: http://www.catholictunes.nl/
-  archive: http://web.archive.org/web/20190909180749/http://catholictunes.nl/
-  meta:
-    title: catholictunes.nl – Linda Tunes
-    favicon: http://www.catholictunes.nl/favicon.ico
-- text: The Mobile Deepak Chopra website
-  original: http://www.airborne-e.com/website/chopra/
-  archive: http://web.archive.org/web/20090105205933/http://www.airborne-e.com/website/chopra/
-- text: divinely blessed limited-edition cellphone.
-  original: http://www.textually.org/textually/archives/2004/07/004381.htm
-  meta:
-    title: 404 Not Found
-    favicon: http://www.textually.org/favicon.ico
+refs: '[{"text"=>"Genevieve Bell", "original"=>"http://www.bbc.co.uk/religion/realmedia/sunday/s20050327n.ram",
+  "meta"=>{"title"=>"\n   BBC - Error 404: Not Found\n    ", "description"=>"The best
+  of the BBC, with the latest news and sport headlines, weather, TV & radio highlights
+  and much more from across the whole of BBC Online", "favicon"=>"https://www.bbc.co.uk/favicon.ico"}},
+  {"text"=>"for a lucky cell phone number", "original"=>"http://news.xinhuanet.com/english/2004-04/13/content_1415725.htm",
+  "archive"=>"http://web.archive.org/web/20110824121815/http://news.xinhuanet.com/english/2004-04/13/content_1415725.htm"},
+  {"text"=>"ShipofFools.com", "original"=>"http://www.shipoffools.com/", "archive"=>"http://web.archive.org/web/20200116043022/http://shipoffools.com:80/",
+  "meta"=>{"title"=>"Ship of Fools: The Magazine of Christian Unrest", "open_graph"=>{"locale"=>"en_GB",
+  "type"=>"website", "title"=>"Ship of Fools: The Magazine of Christian Unrest", "url"=>"http://www.shipoffools.com/",
+  "site_name"=>"Ship of Fools", "images"=>[{"url"=>"http://www.shipoffools.com/wp-content/uploads/2018/08/ShipOfFools-Blue-Texture.png",
+  "width"=>460, "height"=>303}]}, "twitter_card"=>{"card"=>"summary_large_image",
+  "title"=>"Ship of Fools: The Magazine of Christian Unrest", "images"=>[{"url"=>"http://www.shipoffools.com/wp-content/uploads/2018/08/ShipOfFools-Blue-Texture.png"}]},
+  "favicon"=>"http://www.shipoffools.com/wp-content/uploads/2018/09/cropped-ShipOfFools-Blue-S-192x192.png"}},
+  {"text"=>"hymns as ringtones", "original"=>"http://www.catholictunes.nl/", "archive"=>"http://web.archive.org/web/20190909180749/http://catholictunes.nl/",
+  "meta"=>{"title"=>"catholictunes.nl – Linda Tunes", "favicon"=>"http://www.catholictunes.nl/favicon.ico"}},
+  {"text"=>"The Mobile Deepak Chopra website", "original"=>"http://www.airborne-e.com/website/chopra/",
+  "archive"=>"http://web.archive.org/web/20090105205933/http://www.airborne-e.com/website/chopra/"},
+  {"text"=>"divinely blessed limited-edition cellphone.", "original"=>"http://www.textually.org/textually/archives/2004/07/004381.htm",
+  "meta"=>{"title"=>"404 Not Found", "favicon"=>"http://www.textually.org/favicon.ico"}}]'
 sources: 
 published: true
 img: 

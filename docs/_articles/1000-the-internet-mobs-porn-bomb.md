@@ -1,14 +1,10 @@
 ---
 id: 1000
 title: The Internet Mob's Porn Bomb
+subtitle: 
 date: '2010-01-10T05:00:00.000Z'
-publication:
-  id: 6
-  title: The Daily Beast
-  slug: daily-beast
-  created_at: '2020-08-03T15:08:16.000Z'
-  updated_at: '2020-08-03T15:10:07.000Z'
-blurb: 'Members of 4chan''s notorious "random" board, known as /b/, were swarming
+publication: The Daily Beast
+blurb: 'Members of 4chan''s notorious \"random\" board, known as /b/, were swarming
   like hornets again last week. And rather than stinging Scientology, Sarah Palin,
   or any of the other targets they''ve focused on in the past, they decided to go
   after perhaps the biggest player on the Internet itself: Google-owned YouTube.'

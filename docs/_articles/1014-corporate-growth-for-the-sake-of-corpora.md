@@ -1,18 +1,14 @@
 ---
 id: 1014
 title: Corporate Growth for the Sake of Corporate Growth
+subtitle: 
 date: '2016-04-20T04:00:00.000Z'
-publication:
-  id: 4
-  title: The Atlantic
-  slug: atlantic
-  created_at: '2020-08-03T15:08:02.000Z'
-  updated_at: '2020-08-03T15:10:11.000Z'
+publication: The Atlantic
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1014-corporate-growth-for-the-sake-of-corpora
 created_at: '2020-08-02T06:23:32.000Z'

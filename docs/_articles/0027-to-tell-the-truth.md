@@ -1,13 +1,9 @@
 ---
 id: 27
 title: To Tell the Truth
+subtitle: 
 date: '2005-06-01T04:00:00.000Z'
-publication:
-  id: 3
-  title: Arthur
-  slug: arthur
-  created_at: '2020-08-03T15:07:46.000Z'
-  updated_at: '2020-08-03T15:07:46.000Z'
+publication: Arthur
 blurb: Technologies of Persuasion
 notes: 
 refs: 

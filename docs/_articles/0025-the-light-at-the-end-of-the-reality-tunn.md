@@ -1,13 +1,9 @@
 ---
 id: 25
 title: The Light at the End of the Reality Tunnel
+subtitle: 
 date: '2006-12-27T00:00:00.000Z'
-publication:
-  id: 3
-  title: Arthur
-  slug: arthur
-  created_at: '2020-08-03T15:07:46.000Z'
-  updated_at: '2020-08-03T15:07:46.000Z'
+publication: Arthur
 blurb: "(Originally published in [Arthur No. 25/Winter 02006](http://www.arthurmag.com/store/index.php?ID=31))"
 notes: 
 refs: 

@@ -1,54 +1,27 @@
 ---
 id: 975
 title: Google's Velvet Rope
+subtitle: 
 date: '2009-10-14T00:00:00.000Z'
-publication:
-  id: 6
-  title: The Daily Beast
-  slug: daily-beast
-  created_at: '2020-08-03T15:08:16.000Z'
-  updated_at: '2020-08-03T15:10:07.000Z'
+publication: The Daily Beast
 blurb: Ubiquity ain't what it used to be.
 notes: 
-refs:
-- text: this week's column on Daily Beast
-  original: http://www.thedailybeast.com/blogs-and-stories/2009-10-14/googles-velvet-rope/?cid=hp:mainpromo8
-  meta:
-    title: The Daily Beast
-    description: A smart, speedy take on the news from around the world.
-    open_graph:
-      title: The Daily Beast
-      description: A smart, speedy take on the news from around the world.
-      url: https://www.thedailybeast.com/
-      type: website
-      images:
-      - url: https://img.thedailybeast.com/image/upload/fl_lossy,q_auto/placeholder_euli9k
-      site_name: The Daily Beast
-    twitter_card:
-      card: summary
-      site: "@thedailybeast"
-      images:
-      - url: https://img.thedailybeast.com/image/upload/fl_lossy,q_auto/placeholder_euli9k
-    favicon: http://www.thedailybeast.com/static/media/favicon.b30a79ed.ico
-- text: more...
-  original: http://www.thedailybeast.com/blogs-and-stories/2009-10-14/googles-velvet-rope/?cid=hp:mainpromo8
-  meta:
-    title: The Daily Beast
-    description: A smart, speedy take on the news from around the world.
-    open_graph:
-      title: The Daily Beast
-      description: A smart, speedy take on the news from around the world.
-      url: https://www.thedailybeast.com/
-      type: website
-      images:
-      - url: https://img.thedailybeast.com/image/upload/fl_lossy,q_auto/placeholder_euli9k
-      site_name: The Daily Beast
-    twitter_card:
-      card: summary
-      site: "@thedailybeast"
-      images:
-      - url: https://img.thedailybeast.com/image/upload/fl_lossy,q_auto/placeholder_euli9k
-    favicon: http://www.thedailybeast.com/static/media/favicon.b30a79ed.ico
+refs: '[{"text"=>"this week''s column on Daily Beast", "original"=>"http://www.thedailybeast.com/blogs-and-stories/2009-10-14/googles-velvet-rope/?cid=hp:mainpromo8",
+  "meta"=>{"title"=>"The Daily Beast", "description"=>"A smart, speedy take on the
+  news from around the world.", "open_graph"=>{"title"=>"The Daily Beast", "description"=>"A
+  smart, speedy take on the news from around the world.", "url"=>"https://www.thedailybeast.com/",
+  "type"=>"website", "images"=>[{"url"=>"https://img.thedailybeast.com/image/upload/fl_lossy,q_auto/placeholder_euli9k"}],
+  "site_name"=>"The Daily Beast"}, "twitter_card"=>{"card"=>"summary", "site"=>"@thedailybeast",
+  "images"=>[{"url"=>"https://img.thedailybeast.com/image/upload/fl_lossy,q_auto/placeholder_euli9k"}]},
+  "favicon"=>"http://www.thedailybeast.com/static/media/favicon.b30a79ed.ico"}}, {"text"=>"more...",
+  "original"=>"http://www.thedailybeast.com/blogs-and-stories/2009-10-14/googles-velvet-rope/?cid=hp:mainpromo8",
+  "meta"=>{"title"=>"The Daily Beast", "description"=>"A smart, speedy take on the
+  news from around the world.", "open_graph"=>{"title"=>"The Daily Beast", "description"=>"A
+  smart, speedy take on the news from around the world.", "url"=>"https://www.thedailybeast.com/",
+  "type"=>"website", "images"=>[{"url"=>"https://img.thedailybeast.com/image/upload/fl_lossy,q_auto/placeholder_euli9k"}],
+  "site_name"=>"The Daily Beast"}, "twitter_card"=>{"card"=>"summary", "site"=>"@thedailybeast",
+  "images"=>[{"url"=>"https://img.thedailybeast.com/image/upload/fl_lossy,q_auto/placeholder_euli9k"}]},
+  "favicon"=>"http://www.thedailybeast.com/static/media/favicon.b30a79ed.ico"}}]'
 sources: 
 published: true
 img: 
@@ -70,7 +43,7 @@ It's hard to get too outraged by this. On the one hand, Google claims it wants t
 
 Google's technologies are either taken for granted, or attacked as predatory. No sooner do they develop a suite of free cloud computing services that work—such as Google Docs—than they are accused of breaking the software industry's business model. They give away everything from search to the Android cellphone platform, and yet they're now regarded with the same suspicion as Microsoft during the 1990s “browser wars” (another case of a company getting in the most trouble when it tried to give something away).
 
-Think of what it must be like for them to watch the way people line up overnight outside Apple stores for the privilege of being among the first to dish out $200 or $300 for the latest iPhone (not to mention another couple of thousand over the next two years for an AT&T contract). Apple enjoys *Harry Potter*\-like adoration and queues because it sells physical objects, limited by the pace of assembly lines in China. To own is to have, to have is to hold, and to hold is to show off.
+Think of what it must be like for them to watch the way people line up overnight outside Apple stores for the privilege of being among the first to dish out $200 or $300 for the latest iPhone (not to mention another couple of thousand over the next two years for an AT&T contract). Apple enjoys *Harry Potter*\\-like adoration and queues because it sells physical objects, limited by the pace of assembly lines in China. To own is to have, to have is to hold, and to hold is to show off.
 
 Google's “invite” strategy one-ups Apple on the social-marketing scale. Getting behind the velvet rope—being the person who has gotten in—empowers that user to get others in, and so on. It's like having an iPhone that can create others for your friends. For the next week or so, until the geometric progression of three friends telling three friends, and so on, and so on, takes effect, owning invites will earn social currency for more than a few Google loyalists.
 

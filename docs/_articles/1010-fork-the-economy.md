@@ -1,19 +1,15 @@
 ---
 id: 1010
 title: Fork the Economy
+subtitle: 
 date: '2016-01-04T05:00:00.000Z'
-publication:
-  id: 36
-  title: Shareable
-  slug: shareable
-  created_at: '2020-08-03T15:16:22.000Z'
-  updated_at: '2020-08-03T15:16:22.000Z'
+publication: Shareable
 blurb: I've given up on fixing the economy. The economy is not broken. It's simply
   unjust. There's a difference.
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1010-fork-the-economy
 created_at: '2020-08-02T05:26:13.000Z'

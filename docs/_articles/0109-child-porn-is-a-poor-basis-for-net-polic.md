@@ -1,89 +1,46 @@
 ---
 id: 109
 title: Child Porn Is a Poor Basis for Net Policy
+subtitle: 
 date: '2012-06-19T04:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
-refs:
-- text: and attorneys general,
-  original: http://kuow.org/program.php?id=26973
-  archive: http://web.archive.org/web/20120614034241/http://kuow.org:80/program.php?id=26973
-- text: exercise some level of editorial control
-  original: http://www.law.com/image/cc/mcdougall_statement.pdf
-- text: wrote
-  original: http://www.nytimes.com/2012/04/19/opinion/kristof-not-quite-a-teen-yet-sold-for-sex.html
-  meta:
-    title: Opinion | Not Quite a Teen, Yet Sold for Sex - The New York Times
-    description: While celebrating her Sweet Sixteen, this American teenager has a
-      personal story to share about how pervasive sex trafficking is right here in
-      our own backyards.
-    open_graph:
-      url: https://www.nytimes.com/2012/04/19/opinion/kristof-not-quite-a-teen-yet-sold-for-sex.html
-      type: article
-      title: Opinion | Not Quite a Teen, Yet Sold for Sex
-      images:
-      - url: https://static01.nyt.com/images/2018/04/03/opinion/nicholas-kristof/nicholas-kristof-facebookJumbo-v2.png
-      description: While celebrating her Sweet Sixteen, this American teenager has
-        a personal story to share about how pervasive sex trafficking is right here
-        in our own backyards.
-    twitter_card:
-      url: https://www.nytimes.com/2012/04/19/opinion/kristof-not-quite-a-teen-yet-sold-for-sex.html
-      title: Opinion | Not Quite a Teen, Yet Sold for Sex
-      description: While celebrating her Sweet Sixteen, this American teenager has
-        a personal story to share about how pervasive sex trafficking is right here
-        in our own backyards.
-      images:
-      - url: https://static01.nyt.com/images/2018/04/03/opinion/nicholas-kristof/nicholas-kristof-videoSixteenByNineJumbo1600-v2.png
-        alt: ''
-      card: summary_large_image
-      apps:
-        googleplay:
-          name: NYTimes
-          id: com.nytimes.android
-          url: nyt://article/8eede4b8-ac3c-53a9-8797-8a31b8c99911
-    favicon: http://www.nytimes.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico
-- text: scathing piece
-  original: http://www.nytimes.com/2012/03/18/opinion/sunday/kristof-where-pimps-peddle-their-goods.html
-  archive: http://web.archive.org/web/20200406073531/https://www.nytimes.com/2012/03/18/opinion/sunday/kristof-where-pimps-peddle-their-goods.html
-  meta:
-    title: Opinion | Where Pimps Peddle Their Goods - The New York Times
-    description: Backpage.com and similar Web sites help find buyers for enslaved
-      young girls.
-    open_graph:
-      url: https://www.nytimes.com/2012/03/18/opinion/sunday/kristof-where-pimps-peddle-their-goods.html
-      type: article
-      title: Opinion | Where Pimps Peddle Their Goods
-      images:
-      - url: https://static01.nyt.com/images/2018/04/03/opinion/nicholas-kristof/nicholas-kristof-facebookJumbo-v2.png
-      description: Backpage.com and similar Web sites help find buyers for enslaved
-        young girls.
-    twitter_card:
-      url: https://www.nytimes.com/2012/03/18/opinion/sunday/kristof-where-pimps-peddle-their-goods.html
-      title: Opinion | Where Pimps Peddle Their Goods
-      description: Backpage.com and similar Web sites help find buyers for enslaved
-        young girls.
-      images:
-      - url: https://static01.nyt.com/images/2018/04/03/opinion/nicholas-kristof/nicholas-kristof-videoSixteenByNineJumbo1600-v2.png
-        alt: ''
-      card: summary_large_image
-      apps:
-        googleplay:
-          name: NYTimes
-          id: com.nytimes.android
-          url: nyt://article/18fb9fa1-0ee6-54d4-afe0-7aee995ff017
-    favicon: http://www.nytimes.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico
-- text: responded in kind
-  original: http://kristof.blogs.nytimes.com/2012/03/21/responding-to-village-voice-on-sex-trafficking/
-  archive: http://web.archive.org/web/20190930165455/https://kristof.blogs.nytimes.com/2012/03/21/responding-to-village-voice-on-sex-trafficking/
-- text: ill-informed law SB 6251
-  original: http://apps.leg.wa.gov/billinfo/summary.aspx?bill=6251
-  archive: http://web.archive.org/web/20160324192530/http://apps.leg.wa.gov/billinfo/summary.aspx?bill=6251
+refs: '[{"text"=>"and attorneys general,", "original"=>"http://kuow.org/program.php?id=26973",
+  "archive"=>"http://web.archive.org/web/20120614034241/http://kuow.org:80/program.php?id=26973"},
+  {"text"=>"exercise some level of editorial control", "original"=>"http://www.law.com/image/cc/mcdougall_statement.pdf"},
+  {"text"=>"wrote", "original"=>"http://www.nytimes.com/2012/04/19/opinion/kristof-not-quite-a-teen-yet-sold-for-sex.html",
+  "meta"=>{"title"=>"Opinion | Not Quite a Teen, Yet Sold for Sex - The New York Times",
+  "description"=>"While celebrating her Sweet Sixteen, this American teenager has
+  a personal story to share about how pervasive sex trafficking is right here in our
+  own backyards.", "open_graph"=>{"url"=>"https://www.nytimes.com/2012/04/19/opinion/kristof-not-quite-a-teen-yet-sold-for-sex.html",
+  "type"=>"article", "title"=>"Opinion | Not Quite a Teen, Yet Sold for Sex", "images"=>[{"url"=>"https://static01.nyt.com/images/2018/04/03/opinion/nicholas-kristof/nicholas-kristof-facebookJumbo-v2.png"}],
+  "description"=>"While celebrating her Sweet Sixteen, this American teenager has
+  a personal story to share about how pervasive sex trafficking is right here in our
+  own backyards."}, "twitter_card"=>{"url"=>"https://www.nytimes.com/2012/04/19/opinion/kristof-not-quite-a-teen-yet-sold-for-sex.html",
+  "title"=>"Opinion | Not Quite a Teen, Yet Sold for Sex", "description"=>"While celebrating
+  her Sweet Sixteen, this American teenager has a personal story to share about how
+  pervasive sex trafficking is right here in our own backyards.", "images"=>[{"url"=>"https://static01.nyt.com/images/2018/04/03/opinion/nicholas-kristof/nicholas-kristof-videoSixteenByNineJumbo1600-v2.png",
+  "alt"=>""}], "card"=>"summary_large_image", "apps"=>{"googleplay"=>{"name"=>"NYTimes",
+  "id"=>"com.nytimes.android", "url"=>"nyt://article/8eede4b8-ac3c-53a9-8797-8a31b8c99911"}}},
+  "favicon"=>"http://www.nytimes.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico"}},
+  {"text"=>"scathing piece", "original"=>"http://www.nytimes.com/2012/03/18/opinion/sunday/kristof-where-pimps-peddle-their-goods.html",
+  "archive"=>"http://web.archive.org/web/20200406073531/https://www.nytimes.com/2012/03/18/opinion/sunday/kristof-where-pimps-peddle-their-goods.html",
+  "meta"=>{"title"=>"Opinion | Where Pimps Peddle Their Goods - The New York Times",
+  "description"=>"Backpage.com and similar Web sites help find buyers for enslaved
+  young girls.", "open_graph"=>{"url"=>"https://www.nytimes.com/2012/03/18/opinion/sunday/kristof-where-pimps-peddle-their-goods.html",
+  "type"=>"article", "title"=>"Opinion | Where Pimps Peddle Their Goods", "images"=>[{"url"=>"https://static01.nyt.com/images/2018/04/03/opinion/nicholas-kristof/nicholas-kristof-facebookJumbo-v2.png"}],
+  "description"=>"Backpage.com and similar Web sites help find buyers for enslaved
+  young girls."}, "twitter_card"=>{"url"=>"https://www.nytimes.com/2012/03/18/opinion/sunday/kristof-where-pimps-peddle-their-goods.html",
+  "title"=>"Opinion | Where Pimps Peddle Their Goods", "description"=>"Backpage.com
+  and similar Web sites help find buyers for enslaved young girls.", "images"=>[{"url"=>"https://static01.nyt.com/images/2018/04/03/opinion/nicholas-kristof/nicholas-kristof-videoSixteenByNineJumbo1600-v2.png",
+  "alt"=>""}], "card"=>"summary_large_image", "apps"=>{"googleplay"=>{"name"=>"NYTimes",
+  "id"=>"com.nytimes.android", "url"=>"nyt://article/18fb9fa1-0ee6-54d4-afe0-7aee995ff017"}}},
+  "favicon"=>"http://www.nytimes.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico"}},
+  {"text"=>"responded in kind", "original"=>"http://kristof.blogs.nytimes.com/2012/03/21/responding-to-village-voice-on-sex-trafficking/",
+  "archive"=>"http://web.archive.org/web/20190930165455/https://kristof.blogs.nytimes.com/2012/03/21/responding-to-village-voice-on-sex-trafficking/"},
+  {"text"=>"ill-informed law SB 6251", "original"=>"http://apps.leg.wa.gov/billinfo/summary.aspx?bill=6251",
+  "archive"=>"http://web.archive.org/web/20160324192530/http://apps.leg.wa.gov/billinfo/summary.aspx?bill=6251"}]'
 sources: 
 published: true
 img: 

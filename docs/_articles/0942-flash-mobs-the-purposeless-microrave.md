@@ -1,55 +1,24 @@
 ---
 id: 942
 title: 'Flash Mobs: The Purposeless Microrave'
+subtitle: 
 date: '2003-09-19T04:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: I surrender to the media hype. Here's what I think about Flash Mobs, writing
   about Flash Mobs, and writing about writing about Flash Mobs.
 notes: 
-refs:
-- text: Cyberia
-  original: http://www.rushkoff.com/cyberia.html
-  archive: http://web.archive.org/web/20080324221701/http://www.rushkoff.com:80/cyberia.html
-  meta:
-    title: Page not found - Rushkoff
-    open_graph:
-      locale: en_US
-      title: Page not found - Rushkoff
-      site_name: Rushkoff
-    favicon: http://www.rushkoff.com/favicon-16x16.png
-- text: smart mobs
-  original: http://www.smartmobs.com/
-  archive: http://web.archive.org/web/20200730000926/http://www.smartmobs.com/
-  meta:
-    title: 'Smart Mobs  '
-    description: Just another WordPress weblog
-    favicon: http://www.smartmobs.com/favicon.ico
-- text: Madagascar Institute
-  original: http://www.madagascarinstitute.com/
-  archive: http://web.archive.org/web/20200114203940/http://www.madagascarinstitute.com:80/
-  meta:
-    title: Madagascar Institute | Fear is Never Boring
-    open_graph:
-      type: website
-      title: Madagascar Institute
-      description: Fear is Never Boring
-      url: http://www.madagascarinstitute.com/
-      site_name: Madagascar Institute
-      images:
-      - url: http://www.madagascarinstitute.com/wp-content/uploads/2009/10/5042142461_82b1707157_o.jpg
-        width: 1200
-        height: 900
-      locale: en_US
-    twitter_card:
-      images:
-      - url: http://www.madagascarinstitute.com/wp-content/uploads/2009/10/5042142461_82b1707157_o.jpg?w=640
-      card: summary_large_image
-    favicon: http://www.madagascarinstitute.com/favicon.ico
+refs: '[{"text"=>"Cyberia", "original"=>"http://www.rushkoff.com/cyberia.html", "archive"=>"http://web.archive.org/web/20080324221701/http://www.rushkoff.com:80/cyberia.html",
+  "meta"=>{"title"=>"Page not found - Rushkoff", "open_graph"=>{"locale"=>"en_US",
+  "title"=>"Page not found - Rushkoff", "site_name"=>"Rushkoff"}, "favicon"=>"http://www.rushkoff.com/favicon-16x16.png"}},
+  {"text"=>"smart mobs", "original"=>"http://www.smartmobs.com/", "archive"=>"http://web.archive.org/web/20200730000926/http://www.smartmobs.com/",
+  "meta"=>{"title"=>"Smart Mobs  ", "description"=>"Just another WordPress weblog",
+  "favicon"=>"http://www.smartmobs.com/favicon.ico"}}, {"text"=>"Madagascar Institute",
+  "original"=>"http://www.madagascarinstitute.com/", "archive"=>"http://web.archive.org/web/20200114203940/http://www.madagascarinstitute.com:80/",
+  "meta"=>{"title"=>"Madagascar Institute | Fear is Never Boring", "open_graph"=>{"type"=>"website",
+  "title"=>"Madagascar Institute", "description"=>"Fear is Never Boring", "url"=>"http://www.madagascarinstitute.com/",
+  "site_name"=>"Madagascar Institute", "images"=>[{"url"=>"http://www.madagascarinstitute.com/wp-content/uploads/2009/10/5042142461_82b1707157_o.jpg",
+  "width"=>1200, "height"=>900}], "locale"=>"en_US"}, "twitter_card"=>{"images"=>[{"url"=>"http://www.madagascarinstitute.com/wp-content/uploads/2009/10/5042142461_82b1707157_o.jpg?w=640"}],
+  "card"=>"summary_large_image"}, "favicon"=>"http://www.madagascarinstitute.com/favicon.ico"}}]'
 sources: 
 published: true
 img: 

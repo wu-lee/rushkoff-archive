@@ -1,26 +1,18 @@
 ---
 id: 719
 title: Internet Is Easy Prey for Governments
+subtitle: 
 date: '2011-02-08T05:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
 refs: 
-sources:
-- _type: WebPage
-  id: https://api.cognitive.microsoft.com/api/v7/#WebPages.0
-  name: Internet is easy prey for governments - CNN.com
-  url: http://www.cnn.com/2011/OPINION/02/05/rushkoff.egypt.internet/index.html
-  displayUrl: www.cnn.com/2011/OPINION/02/05/rushkoff.egypt.internet
-  snippet: For all that the revolution in Egypt tells us about the power of networked
-    media to promote bottom-up change, it even more starkly reveals the limits of
-    our internet tools and the ease with which ...
-  dateLastCrawled: '2020-07-18T04:38:00.0000000Z'
+sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v7/#WebPages.0",
+  "name"=>"Internet is easy prey for governments - CNN.com", "url"=>"http://www.cnn.com/2011/OPINION/02/05/rushkoff.egypt.internet/index.html",
+  "displayUrl"=>"www.cnn.com/2011/OPINION/02/05/rushkoff.egypt.internet", "snippet"=>"For
+  all that the revolution in Egypt tells us about the power of networked media to
+  promote bottom-up change, it even more starkly reveals the limits of our internet
+  tools and the ease with which ...", "dateLastCrawled"=>"2020-07-18T04:38:00.0000000Z"}]'
 published: true
 img: 
 slug: '0719-internet-is-easy-prey-for-governments'

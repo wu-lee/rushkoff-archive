@@ -1,45 +1,31 @@
 ---
 id: 711
 title: Cutting Social Media No Answer to Flash Mobs
+subtitle: 
 date: '2011-08-17T04:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
-refs:
-- text: '"Flash mob" robs Maryland 7-11 in less than a minute, police say'
-  original: http://www.cnn.com/2011/CRIME/08/16/maryland.flash.mob/index.html?hpt=us_c2
-  archive: http://web.archive.org/web/20161110112247/http://www.cnn.com/2011/CRIME/08/16/maryland.flash.mob/index.html?hpt=us_c2
-  meta:
-    title: "'Flash mob' robs Maryland 7-Eleven in less than a minute, police say -
-      CNN.com"
-    open_graph:
-      title: "'Flash mob' robs Maryland 7-Eleven in less than a minute, police say"
-      url: http://www.cnn.com/2011/CRIME/08/16/maryland.flash.mob/index.html
-      description: A "flash mob" believed to have been organized on the Internet robbed
-        a Maryland convenience store in less than a minute, police said Tuesday, and
-        now authorities are using the same tool to identify participants in the crime.
-      type: article
-      images:
-      - url: http://i.cdn.turner.com/cnn/2011/CRIME/08/16/maryland.flash.mob/tzvids.flash.rob.youtube.jpg
-    description: A "flash mob" believed to have been organized on the Internet robbed
-      a Maryland convenience store in less than a minute, police said Tuesday, and
-      now authorities are using the same tool to identify participants in the crime.
-    favicon: http://www.cnn.com/favicon.ico
-sources:
-- _type: WebPage
-  id: https://api.cognitive.microsoft.com/api/v7/#WebPages.0
-  name: Cutting social media no answer to flash mobs - CNN.com
-  url: http://www.cnn.com/2011/OPINION/08/17/rushkoff.flash.mobs/index.html
-  displayUrl: www.cnn.com/2011/OPINION/08/17/rushkoff.flash.mobs
-  snippet: In the past, people seemed to require a massive "cue" to form a mob. The
-    New York blackouts of the summer of 1977 resulted in citywide looting, not just
-    because alarm systems were down, but ...
-  dateLastCrawled: '2020-07-20T08:38:00.0000000Z'
+refs: '[{"text"=>"\"Flash mob\" robs Maryland 7-11 in less than a minute, police say",
+  "original"=>"http://www.cnn.com/2011/CRIME/08/16/maryland.flash.mob/index.html?hpt=us_c2",
+  "archive"=>"http://web.archive.org/web/20161110112247/http://www.cnn.com/2011/CRIME/08/16/maryland.flash.mob/index.html?hpt=us_c2",
+  "meta"=>{"title"=>"''Flash mob'' robs Maryland 7-Eleven in less than a minute, police
+  say - CNN.com", "open_graph"=>{"title"=>"''Flash mob'' robs Maryland 7-Eleven in
+  less than a minute, police say", "url"=>"http://www.cnn.com/2011/CRIME/08/16/maryland.flash.mob/index.html",
+  "description"=>"A \"flash mob\" believed to have been organized on the Internet
+  robbed a Maryland convenience store in less than a minute, police said Tuesday,
+  and now authorities are using the same tool to identify participants in the crime.",
+  "type"=>"article", "images"=>[{"url"=>"http://i.cdn.turner.com/cnn/2011/CRIME/08/16/maryland.flash.mob/tzvids.flash.rob.youtube.jpg"}]},
+  "description"=>"A \"flash mob\" believed to have been organized on the Internet
+  robbed a Maryland convenience store in less than a minute, police said Tuesday,
+  and now authorities are using the same tool to identify participants in the crime.",
+  "favicon"=>"http://www.cnn.com/favicon.ico"}}]'
+sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v7/#WebPages.0",
+  "name"=>"Cutting social media no answer to flash mobs - CNN.com", "url"=>"http://www.cnn.com/2011/OPINION/08/17/rushkoff.flash.mobs/index.html",
+  "displayUrl"=>"www.cnn.com/2011/OPINION/08/17/rushkoff.flash.mobs", "snippet"=>"In
+  the past, people seemed to require a massive \"cue\" to form a mob. The New York
+  blackouts of the summer of 1977 resulted in citywide looting, not just because alarm
+  systems were down, but ...", "dateLastCrawled"=>"2020-07-20T08:38:00.0000000Z"}]'
 published: true
 img: 
 slug: 0711-cutting-social-media-no-answer-to-flash-

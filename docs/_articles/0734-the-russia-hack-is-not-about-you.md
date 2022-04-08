@@ -1,19 +1,13 @@
 ---
 id: 734
 title: The Russia Hack Is Not About You
+subtitle: 
 date: '2014-08-06T04:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
-refs:
-- text: 1.2 billion usernames and passwords have been compromised
-  original: http://money.cnn.com/2014/08/05/technology/security/russian-hackers-theft/index.html?hpt=hp_t2
-  archive: http://web.archive.org/web/20190104111836/https://money.cnn.com/2014/08/05/technology/security/russian-hackers-theft/index.html?hpt=hp_t2
+refs: '[{"text"=>"1.2 billion usernames and passwords have been compromised", "original"=>"http://money.cnn.com/2014/08/05/technology/security/russian-hackers-theft/index.html?hpt=hp_t2",
+  "archive"=>"http://web.archive.org/web/20190104111836/https://money.cnn.com/2014/08/05/technology/security/russian-hackers-theft/index.html?hpt=hp_t2"}]'
 sources: 
 published: true
 img: "../../../../storage/Screen Shot 2014-08-06 at 9.24.32 PM-__SQUARESPACE_CACHEVERSION=1407374751035.png"

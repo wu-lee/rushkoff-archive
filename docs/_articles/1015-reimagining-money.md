@@ -1,13 +1,9 @@
 ---
 id: 1015
 title: Reimagining Money
+subtitle: 
 date: '2016-03-07T05:00:00.000Z'
-publication:
-  id: 4
-  title: The Atlantic
-  slug: atlantic
-  created_at: '2020-08-03T15:08:02.000Z'
-  updated_at: '2020-08-03T15:10:11.000Z'
+publication: The Atlantic
 blurb: 
 notes: 
 refs: 

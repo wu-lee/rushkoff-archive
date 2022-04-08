@@ -1,13 +1,9 @@
 ---
 id: 4
 title: Acceptance (Doesn't Equal) Aquiescence
+subtitle: 
 date: '2006-10-01T04:00:00.000Z'
-publication:
-  id: 3
-  title: Arthur
-  slug: arthur
-  created_at: '2020-08-03T15:07:46.000Z'
-  updated_at: '2020-08-03T15:07:46.000Z'
+publication: Arthur
 blurb: 
 notes: 
 refs: 

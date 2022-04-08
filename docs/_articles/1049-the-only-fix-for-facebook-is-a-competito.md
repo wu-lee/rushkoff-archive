@@ -1,18 +1,14 @@
 ---
 id: 1049
 title: The only fix for Facebook is a competitor that puts users first
+subtitle: 
 date: '2018-04-11T07:57:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
+publication: CNN
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1049-the-only-fix-for-facebook-is-a-competito
 created_at: '2020-12-02T14:13:31.000Z'

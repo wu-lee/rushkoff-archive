@@ -1,19 +1,15 @@
 ---
 id: 967
 title: Welcoming One Another
+subtitle: 
 date: '2003-04-25T04:00:00.000Z'
-publication:
-  id: 19
-  title: The Jewish Week
-  slug: jewish-week
-  created_at: '2020-08-03T15:11:55.000Z'
-  updated_at: '2020-08-03T15:12:00.000Z'
-blurb: ''
+publication: The Jewish Week
+blurb: 
 notes: 
 refs: 
 sources: 
 published: true
-img: ''
+img: 
 slug: '0967-welcoming-one-another'
 created_at: '2020-08-02T00:44:17.000Z'
 updated_at: '2020-08-02T04:13:44.000Z'

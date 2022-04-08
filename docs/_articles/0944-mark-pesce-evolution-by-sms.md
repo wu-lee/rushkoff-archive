@@ -1,60 +1,29 @@
 ---
 id: 944
 title: 'Mark Pesce: Evolution by SMS'
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
-blurb: ''
+publication: Nokia's The Feature
+blurb: 
 notes: 
-refs:
-- text: The Playful World
-  original: http://www.playfulworld.com/playfulworld.html
-  archive: http://web.archive.org/web/20080807163229/http://www.playfulworld.com/playfulworld.html
-  meta:
-    favicon: http://www.playfulworld.com/favicon.ico
-- text: Webearth
-  original: http://www.webearth.org/
-  archive: http://web.archive.org/web/20200114154627/http://www.webearth.org:80/
-  meta:
-    title: Mark Pesce Codex – Everything All Together
-    open_graph:
-      type: website
-      title: Mark Pesce Codex
-      description: Everything All Together
-      url: https://markpescecodex.com/
-      site_name: Mark Pesce Codex
-      images:
-      - url: https://s0.wp.com/i/blank.jpg
-      locale: en_US
-    favicon: http://www.webearth.org/favicon.ico
-- text: personal website
-  original: http://www.hyperreal.org/%7Empesce
-  archive: http://web.archive.org/web/20191221224137/http://hyperreal.org:80/~mpesce/
-  meta:
-    title: Mark Pesce * Outside the Light-Cone
-    favicon: http://www.hyperreal.org/favicon.ico
-- text: Australian Film, Television and Radio School
-  original: http://www.aftrs.edu.au/
-  archive: http://web.archive.org/web/20200722105730/https://www.aftrs.edu.au/
-  meta:
-    title: Australian Film Television and Radio School
-    open_graph:
-      title: Australian Film Television and Radio School
-      description: Australia’s premier screen arts and broadcast school
-      images:
-      - url: https://www.aftrs.edu.au/wp-content/uploads/2018/07/home_header_new-1200x630-c-default.jpg
-        width: 1200
-        height: 630
-      url: https://www.aftrs.edu.au/
-      type: website
-    description: Australia’s premier screen arts and broadcast school
-    favicon: https://www.aftrs.edu.au/wp-content/themes/aftrs/img/favicons/favicon-16x16.png
-- text: The You Portal (PDF)
-  original: http://dlux.org.au/mobilejourneys/documentation/presentations/MJPesce.pdf
+refs: '[{"text"=>"The Playful World", "original"=>"http://www.playfulworld.com/playfulworld.html",
+  "archive"=>"http://web.archive.org/web/20080807163229/http://www.playfulworld.com/playfulworld.html",
+  "meta"=>{"favicon"=>"http://www.playfulworld.com/favicon.ico"}}, {"text"=>"Webearth",
+  "original"=>"http://www.webearth.org/", "archive"=>"http://web.archive.org/web/20200114154627/http://www.webearth.org:80/",
+  "meta"=>{"title"=>"Mark Pesce Codex – Everything All Together", "open_graph"=>{"type"=>"website",
+  "title"=>"Mark Pesce Codex", "description"=>"Everything All Together", "url"=>"https://markpescecodex.com/",
+  "site_name"=>"Mark Pesce Codex", "images"=>[{"url"=>"https://s0.wp.com/i/blank.jpg"}],
+  "locale"=>"en_US"}, "favicon"=>"http://www.webearth.org/favicon.ico"}}, {"text"=>"personal
+  website", "original"=>"http://www.hyperreal.org/%7Empesce", "archive"=>"http://web.archive.org/web/20191221224137/http://hyperreal.org:80/~mpesce/",
+  "meta"=>{"title"=>"Mark Pesce * Outside the Light-Cone", "favicon"=>"http://www.hyperreal.org/favicon.ico"}},
+  {"text"=>"Australian Film, Television and Radio School", "original"=>"http://www.aftrs.edu.au/",
+  "archive"=>"http://web.archive.org/web/20200722105730/https://www.aftrs.edu.au/",
+  "meta"=>{"title"=>"Australian Film Television and Radio School", "open_graph"=>{"title"=>"Australian
+  Film Television and Radio School", "description"=>"Australia’s premier screen arts
+  and broadcast school", "images"=>[{"url"=>"https://www.aftrs.edu.au/wp-content/uploads/2018/07/home_header_new-1200x630-c-default.jpg",
+  "width"=>1200, "height"=>630}], "url"=>"https://www.aftrs.edu.au/", "type"=>"website"},
+  "description"=>"Australia’s premier screen arts and broadcast school", "favicon"=>"https://www.aftrs.edu.au/wp-content/themes/aftrs/img/favicons/favicon-16x16.png"}},
+  {"text"=>"The You Portal (PDF)", "original"=>"http://dlux.org.au/mobilejourneys/documentation/presentations/MJPesce.pdf"}]'
 sources: 
 published: true
 img: 

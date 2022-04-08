@@ -1,18 +1,14 @@
 ---
 id: 1029
 title: Much of What We Call Interactive Really Isn't
+subtitle: 
 date: '1998-06-13T04:00:00.000Z'
-publication:
-  id: 28
-  title: The New York Times Syndicate/Guardian of London
-  slug: nyt-guardian
-  created_at: '2020-08-03T15:14:34.000Z'
-  updated_at: '2020-10-09T01:17:31.000Z'
+publication: The New York Times Syndicate/Guardian of London
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1029-much-of-what-we-call-interactive-really-
 created_at: '2020-08-02T06:57:17.000Z'

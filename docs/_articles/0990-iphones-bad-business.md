@@ -1,13 +1,9 @@
 ---
 id: 990
 title: iPhone's Bad Business
+subtitle: 
 date: '2009-09-18T04:00:00.000Z'
-publication:
-  id: 6
-  title: The Daily Beast
-  slug: daily-beast
-  created_at: '2020-08-03T15:08:16.000Z'
-  updated_at: '2020-08-03T15:10:07.000Z'
+publication: The Daily Beast
 blurb: 'What a difference a little update makes. Users of Apple''s iPhone models 3G
   and earlier got a rude awakening at work this past week: Their phones no longer
   work with their office''s email systems.'

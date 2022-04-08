@@ -1,13 +1,9 @@
 ---
 id: 1189
 title: 'Mark Pesce: Evolution by SMS'
+subtitle: 
 date: '2005-05-11T16:00:00.000Z'
-publication:
-  id: 48
-  title: The Feature
-  slug: the-feature
-  created_at: '2021-09-30T17:37:22.000Z'
-  updated_at: '2021-09-30T17:37:22.000Z'
+publication: The Feature
 blurb: 
 notes: 
 refs: 

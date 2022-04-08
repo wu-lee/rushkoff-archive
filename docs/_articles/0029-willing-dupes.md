@@ -1,18 +1,14 @@
 ---
 id: 29
 title: Willing Dupes
+subtitle: 
 date: '2008-05-01T04:00:00.000Z'
-publication:
-  id: 3
-  title: Arthur
-  slug: arthur
-  created_at: '2020-08-03T15:07:46.000Z'
-  updated_at: '2020-08-03T15:07:46.000Z'
-blurb: "*from [Arthur Magazine No. 29/May 2008](http://www.arthurmag.com/store/index.php?ID=36)*\n"
+publication: Arthur
+blurb: "*from [Arthur Magazine No. 29/May 2008](http://www.arthurmag.com/store/index.php?ID=36)*\\n"
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: '0029-willing-dupes'
 created_at: '2020-08-02T00:43:53.000Z'

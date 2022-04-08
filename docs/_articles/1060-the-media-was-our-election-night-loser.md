@@ -1,13 +1,9 @@
 ---
 id: 1060
 title: The Media Was Our Election Night Loser
+subtitle: 
 date: '2020-11-04T17:00:00.000Z'
-publication:
-  id: 23
-  title: Medium
-  slug: medium
-  created_at: '2020-08-03T15:13:31.000Z'
-  updated_at: '2020-08-03T15:13:31.000Z'
+publication: Medium
 blurb: 
 notes: 
 refs: 

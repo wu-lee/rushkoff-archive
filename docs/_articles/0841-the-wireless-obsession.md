@@ -1,21 +1,14 @@
 ---
 id: 841
 title: The Wireless Obsession
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: Are there times when going wireless is just plain pointless? Rushkoff's extended
   battle with Wireless Obsessive Dissorder.
 notes: 
-refs:
-- text: crazy conference
-  original: http://www.thefeature.com/article?articleid=100272
-- text: secretly available modem driver
-  original: http://groups.yahoo.com/group/vzw_t720/files/Mac%20OS%20X%20Verison%20Modem%20Scripts/
+refs: '[{"text"=>"crazy conference", "original"=>"http://www.thefeature.com/article?articleid=100272"},
+  {"text"=>"secretly available modem driver", "original"=>"http://groups.yahoo.com/group/vzw_t720/files/Mac%20OS%20X%20Verison%20Modem%20Scripts/"}]'
 sources: 
 published: true
 img: 

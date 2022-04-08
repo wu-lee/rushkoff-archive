@@ -1,55 +1,28 @@
 ---
 id: 843
 title: Tinseltown 2.0
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: University of Southern California's Interactive Media Division takes on mobile
   technology.
 notes: 
-refs:
-- text: Interactive Media Division
-  original: http://interactive.usc.edu/
-- text: Julian Bleecker
-  original: http://www.techkwondo.com/
-  meta:
-    title: TechKwonDo__julian bleecker
-    favicon: http://www.techkwondo.com/favicon.ico
-- text: Mizuko "Mimi" Ito
-  original: http://itofisher.com/mito/
-  archive: http://web.archive.org/web/20200723155012/http://www.itofisher.com/mito/
-- text: WiFi.Bedouin
-  original: http://www.techkwondo.com/projects/bedouin/
-  archive: http://web.archive.org/web/20200105195001/http://www.techkwondo.com:80/projects/bedouin/
-  meta:
-    title: TechKwonDo__WiFi.Bedouin
-    favicon: http://www.techkwondo.com/favicon.ico
-- text: Mobile SCOUT
-  original: http://www.mobilescout.org/
-- text: Smart Mobs
-  original: http://www.smartmobs.com/
-  archive: http://web.archive.org/web/20200730000926/http://www.smartmobs.com/
-  meta:
-    title: 'Smart Mobs  '
-    description: Just another WordPress weblog
-    favicon: http://www.smartmobs.com/favicon.ico
-- text: Design and Technology for Mobile Experiences
-  original: http://www.techkwondo.com/obj/design_technology_for_mobile_experiences.pdf
-- text: Location33
-  original: http://www.location33.net/
-- text: Pathalog
-  original: http://www.patholog.org/
-  archive: http://web.archive.org/web/20180326131258/http://patholog.org/
-  meta:
-    title: patholog.org is coming soon
-    favicon: http://www.patholog.org/favicon.ico
-- text: Tracking Agama
-  original: http://trackingagama.net/
-  archive: http://web.archive.org/web/20181105212528/http://trackingagama.net/
+refs: '[{"text"=>"Interactive Media Division", "original"=>"http://interactive.usc.edu/"},
+  {"text"=>"Julian Bleecker", "original"=>"http://www.techkwondo.com/", "meta"=>{"title"=>"TechKwonDo__julian
+  bleecker", "favicon"=>"http://www.techkwondo.com/favicon.ico"}}, {"text"=>"Mizuko
+  \"Mimi\" Ito", "original"=>"http://itofisher.com/mito/", "archive"=>"http://web.archive.org/web/20200723155012/http://www.itofisher.com/mito/"},
+  {"text"=>"WiFi.Bedouin", "original"=>"http://www.techkwondo.com/projects/bedouin/",
+  "archive"=>"http://web.archive.org/web/20200105195001/http://www.techkwondo.com:80/projects/bedouin/",
+  "meta"=>{"title"=>"TechKwonDo__WiFi.Bedouin", "favicon"=>"http://www.techkwondo.com/favicon.ico"}},
+  {"text"=>"Mobile SCOUT", "original"=>"http://www.mobilescout.org/"}, {"text"=>"Smart
+  Mobs", "original"=>"http://www.smartmobs.com/", "archive"=>"http://web.archive.org/web/20200730000926/http://www.smartmobs.com/",
+  "meta"=>{"title"=>"Smart Mobs  ", "description"=>"Just another WordPress weblog",
+  "favicon"=>"http://www.smartmobs.com/favicon.ico"}}, {"text"=>"Design and Technology
+  for Mobile Experiences", "original"=>"http://www.techkwondo.com/obj/design_technology_for_mobile_experiences.pdf"},
+  {"text"=>"Location33", "original"=>"http://www.location33.net/"}, {"text"=>"Pathalog",
+  "original"=>"http://www.patholog.org/", "archive"=>"http://web.archive.org/web/20180326131258/http://patholog.org/",
+  "meta"=>{"title"=>"patholog.org is coming soon", "favicon"=>"http://www.patholog.org/favicon.ico"}},
+  {"text"=>"Tracking Agama", "original"=>"http://trackingagama.net/", "archive"=>"http://web.archive.org/web/20181105212528/http://trackingagama.net/"}]'
 sources: 
 published: true
 img: 

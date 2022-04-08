@@ -1,13 +1,9 @@
 ---
 id: 1172
 title: The Powers That Be
+subtitle: 
 date: '2004-07-13T16:00:00.000Z'
-publication:
-  id: 48
-  title: The Feature
-  slug: the-feature
-  created_at: '2021-09-30T17:37:22.000Z'
-  updated_at: '2021-09-30T17:37:22.000Z'
+publication: The Feature
 blurb: 
 notes: 
 refs: 

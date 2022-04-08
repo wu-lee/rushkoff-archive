@@ -1,46 +1,27 @@
 ---
 id: 1001
 title: The New Good Guys
+subtitle: 
 date: '2009-11-23T00:00:00.000Z'
-publication:
-  id: 6
-  title: The Daily Beast
-  slug: daily-beast
-  created_at: '2020-08-03T15:08:16.000Z'
-  updated_at: '2020-08-03T15:10:07.000Z'
+publication: The Daily Beast
 blurb: 'Discussions between Microsoft and Rupert Murdoch''s News Corp. for a structure
   where the former''s search engine (Bing) would pay for exclusive rights to the latter’s
   content (Wall Street Journal, Fox, etc.) has proven instantly upsetting to the self-appointed
-  defenders of a "free" Internet. The simple reason: it might just work.'
+  defenders of a \"free\" Internet. The simple reason: it might just work.'
 notes: 
-refs:
-- text: threat
-  original: http://www.thedailybeast.com/articles/2009/11/09/murdoch-to-google-search-this.html
-  archive: http://web.archive.org/web/20161222075424/http://www.thedailybeast.com/articles/2009/11/09/murdoch-to-google-search-this.html
-  meta:
-    title: 'Murdoch to Google: Search This'
-    keywords:
-    - News Corporation
-    - Rupert Murdoch
-    open_graph:
-      title: 'Murdoch to Google: Search This'
-      description: The News Corp. billionaire is threatening to pull his newspapers’
-        content from Google searches. Douglas Rushkoff on why it may take a real conservative
-        to save journalism from the free Web.
-      url: https://www.thedailybeast.com/articles/2009/11/09/murdoch-to-google-search-this
-      site_name: The Daily Beast
-      images:
-      - url: https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_97,w_174,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1493134279/articles/2009/11/09/murdoch-to-google-search-this/rushkoff-rupert-murdoch_61742_kcpcy1
-    description: The News Corp. billionaire is threatening to pull his newspapers’
-      content from Google searches. Douglas Rushkoff on why it may take a real conservative
-      to save journalism from the free Web.
-    twitter_card:
-      card: summary_large_image
-      site: "@thedailybeast"
-      creator: ''
-      images:
-      - url: https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_97,w_174,x_0,y_0/dpr_2.0/c_limit,w_600/f_jpg/fl_lossy,q_auto/v1493134279/articles/2009/11/09/murdoch-to-google-search-this/rushkoff-rupert-murdoch_61742_kcpcy1
-    favicon: http://www.thedailybeast.com/static/media/favicon.b30a79ed.ico
+refs: '[{"text"=>"threat", "original"=>"http://www.thedailybeast.com/articles/2009/11/09/murdoch-to-google-search-this.html",
+  "archive"=>"http://web.archive.org/web/20161222075424/http://www.thedailybeast.com/articles/2009/11/09/murdoch-to-google-search-this.html",
+  "meta"=>{"title"=>"Murdoch to Google: Search This", "keywords"=>["News Corporation",
+  "Rupert Murdoch"], "open_graph"=>{"title"=>"Murdoch to Google: Search This", "description"=>"The
+  News Corp. billionaire is threatening to pull his newspapers’ content from Google
+  searches. Douglas Rushkoff on why it may take a real conservative to save journalism
+  from the free Web.", "url"=>"https://www.thedailybeast.com/articles/2009/11/09/murdoch-to-google-search-this",
+  "site_name"=>"The Daily Beast", "images"=>[{"url"=>"https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_97,w_174,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1493134279/articles/2009/11/09/murdoch-to-google-search-this/rushkoff-rupert-murdoch_61742_kcpcy1"}]},
+  "description"=>"The News Corp. billionaire is threatening to pull his newspapers’
+  content from Google searches. Douglas Rushkoff on why it may take a real conservative
+  to save journalism from the free Web.", "twitter_card"=>{"card"=>"summary_large_image",
+  "site"=>"@thedailybeast", "creator"=>"", "images"=>[{"url"=>"https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_97,w_174,x_0,y_0/dpr_2.0/c_limit,w_600/f_jpg/fl_lossy,q_auto/v1493134279/articles/2009/11/09/murdoch-to-google-search-this/rushkoff-rupert-murdoch_61742_kcpcy1"}]},
+  "favicon"=>"http://www.thedailybeast.com/static/media/favicon.b30a79ed.ico"}}]'
 sources: 
 published: true
 img: 

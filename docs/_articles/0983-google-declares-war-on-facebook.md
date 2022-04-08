@@ -1,13 +1,9 @@
 ---
 id: 983
 title: Google Declares War on Facebook
+subtitle: 
 date: '2009-11-04T05:00:00.000Z'
-publication:
-  id: 6
-  title: The Daily Beast
-  slug: daily-beast
-  created_at: '2020-08-03T15:08:16.000Z'
-  updated_at: '2020-08-03T15:10:07.000Z'
+publication: The Daily Beast
 blurb: To Google, it's just a new, relatively minor set of upgrades to one of its
   many applications. To Facebook, it's a declaration of war. Google wants in on “social,”
   and the search giant may just have the size, weight, and leverage to take it.

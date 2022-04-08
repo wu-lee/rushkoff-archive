@@ -1,13 +1,9 @@
 ---
 id: 840
 title: The Wireless Blackout
+subtitle: 
 date: '2008-03-31T04:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: In the Great Blackout of 2003, it was the landlines that worked, and the cell
   phones that failed.
 notes: 

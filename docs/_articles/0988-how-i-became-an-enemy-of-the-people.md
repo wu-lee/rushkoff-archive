@@ -1,87 +1,38 @@
 ---
 id: 988
 title: How I Became an Enemy of the People
+subtitle: 
 date: '2009-06-08T04:00:00.000Z'
-publication:
-  id: 6
-  title: The Daily Beast
-  slug: daily-beast
-  created_at: '2020-08-03T15:08:16.000Z'
-  updated_at: '2020-08-03T15:10:07.000Z'
+publication: The Daily Beast
 blurb: The only thing I wanted during my short infamy in the blogosphere was for the
   noise to stop. I had broken faith with the market, and the market was seeking its
   revenge in the form of hundreds, even thousands of posts from angry Brooklynites.
 notes: 
-refs:
-- text: ''
-  original: http://www.amazon.com/exec/obidos/ASIN/1400066891/thedaibea-20/ref=as_at?tag=thedailybeast-autotag-20&linkCode=as2&
-  meta:
-    open_graph:
-      url: http://www.amazon.com/dp/1400066891/ref=tsm_1_fb_lk
-      title: 'Life Inc.: How the World Became a Corporation and How to Take It Back'
-      description: 'Life Inc.: How the World Became a Corporation and How to Take
-        It Back'
-      images:
-      - url: https://images-na.ssl-images-amazon.com/images/I/41hLFASs4VL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFOUR%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(76%20Reviews)%2c445%2c291%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg
-        width: 600
-        height: 315
-      type: book
-      site_name: Amazon.com
-    description: 'Life Inc.: How the World Became a Corporation and How to Take It
-      Back [Rushkoff, Douglas] on Amazon.com. *FREE* shipping on qualifying offers.
-      Life Inc.: How the World Became a Corporation and How to Take It Back'
-    keywords:
-    - Rushkoff
-    - Douglas
-    - 'Life Inc.: How the World Became a Corporation and How to Take It Back'
-    - Random House
-    - '1400066891'
-    - Social Psychology
-    - Communities.
-    - Conduct of life.
-    - Materialism.
-    - Anthropology - Cultural
-    - BUSINESS & ECONOMICS / Corporate & Business History
-    - Business & Economics
-    - Business & Economics / Corporate Finance
-    - Business & Economics / General
-    - Business & Economics / Workplace Culture
-    - Business / Economics / Finance
-    - Business/Economics
-    - CAPITALISM
-    - CORPORATE CULTURE
-    - Communities
-    - Communities.
-    - Conduct of life
-    - Conduct of life.
-    - Corporate & Business History - General
-    - GENERAL
-    - General Adult
-    - History
-    - Materialism
-    - Materialism.
-    - Non-Fiction
-    - PSYCHOLOGY / Social Psychology
-    - SOCIAL PSYCHOLOGY
-    - United States
-    - Anthropology - Cultural
-    - BUSINESS & ECONOMICS / Corporate & Business History
-    - Business & Economics / Corporate Finance
-    - Business & Economics / General
-    - Business & Economics / Workplace Culture
-    - Corporate & Business History - General
-    - PSYCHOLOGY / Social Psychology
-    - Business / Economics / Finance
-    - Capitalism
-    - Corporate Culture
-    - Communities
-    - Conduct of life
-    - Materialism
-    - Business & Economics
-    - Business/Economics
-    title: 'Life Inc.: How the World Became a Corporation and How to Take It Back:
-      Rushkoff, Douglas: 9781400066896: Amazon.com: Books'
-    favicon: http://www.amazon.com/favicon.ico
+refs: '[{"text"=>"", "original"=>"http://www.amazon.com/exec/obidos/ASIN/1400066891/thedaibea-20/ref=as_at?tag=thedailybeast-autotag-20&linkCode=as2&",
+  "meta"=>{"open_graph"=>{"url"=>"http://www.amazon.com/dp/1400066891/ref=tsm_1_fb_lk",
+  "title"=>"Life Inc.: How the World Became a Corporation and How to Take It Back",
+  "description"=>"Life Inc.: How the World Became a Corporation and How to Take It
+  Back", "images"=>[{"url"=>"https://images-na.ssl-images-amazon.com/images/I/41hLFASs4VL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFOUR%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA(76%20Reviews)%2c445%2c291%2c400%2c400%2carial%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_.jpg",
+  "width"=>600, "height"=>315}], "type"=>"book", "site_name"=>"Amazon.com"}, "description"=>"Life
+  Inc.: How the World Became a Corporation and How to Take It Back [Rushkoff, Douglas]
+  on Amazon.com. *FREE* shipping on qualifying offers. Life Inc.: How the World Became
+  a Corporation and How to Take It Back", "keywords"=>["Rushkoff", "Douglas", "Life
+  Inc.: How the World Became a Corporation and How to Take It Back", "Random House",
+  "1400066891", "Social Psychology", "Communities.", "Conduct of life.", "Materialism.",
+  "Anthropology - Cultural", "BUSINESS & ECONOMICS / Corporate & Business History",
+  "Business & Economics", "Business & Economics / Corporate Finance", "Business &
+  Economics / General", "Business & Economics / Workplace Culture", "Business / Economics
+  / Finance", "Business/Economics", "CAPITALISM", "CORPORATE CULTURE", "Communities",
+  "Communities.", "Conduct of life", "Conduct of life.", "Corporate & Business History
+  - General", "GENERAL", "General Adult", "History", "Materialism", "Materialism.",
+  "Non-Fiction", "PSYCHOLOGY / Social Psychology", "SOCIAL PSYCHOLOGY", "United States",
+  "Anthropology - Cultural", "BUSINESS & ECONOMICS / Corporate & Business History",
+  "Business & Economics / Corporate Finance", "Business & Economics / General", "Business
+  & Economics / Workplace Culture", "Corporate & Business History - General", "PSYCHOLOGY
+  / Social Psychology", "Business / Economics / Finance", "Capitalism", "Corporate
+  Culture", "Communities", "Conduct of life", "Materialism", "Business & Economics",
+  "Business/Economics"], "title"=>"Life Inc.: How the World Became a Corporation and
+  How to Take It Back: Rushkoff, Douglas: 9781400066896: Amazon.com: Books", "favicon"=>"http://www.amazon.com/favicon.ico"}}]'
 sources: 
 published: true
 img: http://cdn.thedailybeast.com/content/dailybeast/articles/2009/06/08/how-i-became-an-enemy-of-the-people/_jcr_content/body/image_1.img.503.jpg/1337256000000.cached.jpg

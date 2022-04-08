@@ -1,13 +1,9 @@
 ---
 id: 18
 title: No Money Down
+subtitle: 
 date: '2008-05-01T04:00:00.000Z'
-publication:
-  id: 3
-  title: Arthur
-  slug: arthur
-  created_at: '2020-08-03T15:07:46.000Z'
-  updated_at: '2020-08-03T15:07:46.000Z'
+publication: Arthur
 blurb: Rushkoff on the rigged credit system*from Arthur Magazine No. 31, Oct 2008*
 notes: 
 refs: 
@@ -18,7 +14,7 @@ slug: '0018-no-money-down'
 created_at: '2020-08-02T00:43:52.000Z'
 updated_at: '2020-08-02T02:19:25.000Z'
 ---
-I poked my head up from writing my book a couple of months ago to engage with *Arthur* readers about the subject I was working on: the credit crunch and what to do about it \[see [“Riding Out the Credit Crisis”](http://www.arthurmag.com/magpie/?p=3149) in Arthur No. 29/May 2008\]. I got more email about that piece than anything I have written since a column threatening to defect from the Mac community back in the Quadra days.
+I poked my head up from writing my book a couple of months ago to engage with *Arthur* readers about the subject I was working on: the credit crunch and what to do about it \\[see [“Riding Out the Credit Crisis”](http://www.arthurmag.com/magpie/?p=3149) in Arthur No. 29/May 2008\\]. I got more email about that piece than anything I have written since a column threatening to defect from the Mac community back in the Quadra days.
 
 Many readers thought I was hinting at something under the surface—a conspiracy, of sorts, to take money from the poor and give it to the rich. It sounded to many like I was describing an economic system actually designed—planned—to redistribute income in the worst possible ways.
 
@@ -28,7 +24,7 @@ I guess I'd have to agree with that premise. Only it’s not a secret conspiracy
 
 [![keynote_ban.jpg](https://arthurmagdotcom.files.wordpress.com/2008/09/keynote_ban.jpg?w=660)](https://www.learningannex.com/realestate/realestate.taf?coursenum=&menu=&refer=&ccode=)
 
-It all started to make sense to me when **I attended [Learning Annex’s Wealth Expo](https://www.learningannex.com/realestate/realestate.taf?coursenum=&menu=&refer=&ccode=) earlier this year—a seminar where teachers of *The Secret*, the hosts of *Flip This House*, George Foreman, Tony Robbins and former Fed Chairman Alan Greenspan \[pictured above in banner from Learning Annex website\] purportedly taught the thousands in attendance how to take advantage of the current foreclosure boom.**
+It all started to make sense to me when **I attended [Learning Annex’s Wealth Expo](https://www.learningannex.com/realestate/realestate.taf?coursenum=&menu=&refer=&ccode=) earlier this year—a seminar where teachers of *The Secret*, the hosts of *Flip This House*, George Foreman, Tony Robbins and former Fed Chairman Alan Greenspan \\[pictured above in banner from Learning Annex website\\] purportedly taught the thousands in attendance how to take advantage of the current foreclosure boom.**
 
 Using language borrowed from today’s more money-centric New Age spiritualists, as well as the get-rich-quick books of the early 1900s “New Thought Movement” on which these pyramid schemes are based (such as Elizabeth Towne’s *The Science of Getting Rich* or Napoleon Hill’s *Think and Grow Rich*), they encouraged their mostly black audience to get on the ladder to success by purchasing educational DVDs and wealth-building “systems.”
 

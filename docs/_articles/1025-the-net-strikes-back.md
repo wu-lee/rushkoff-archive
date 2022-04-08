@@ -1,19 +1,15 @@
 ---
 id: 1025
 title: The net strikes back
+subtitle: 
 date: '2000-02-14T05:00:00.000Z'
-publication:
-  id: 28
-  title: The New York Times Syndicate/Guardian of London
-  slug: nyt-guardian
-  created_at: '2020-08-03T15:14:34.000Z'
-  updated_at: '2020-10-09T01:17:31.000Z'
+publication: The New York Times Syndicate/Guardian of London
 blurb: Hackers Remind Us That The Internet Isn't A Safe, Suburban Mall Constructed
   Just For Corporate America
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1025-the-net-strikes-back
 created_at: '2020-08-02T06:44:45.000Z'

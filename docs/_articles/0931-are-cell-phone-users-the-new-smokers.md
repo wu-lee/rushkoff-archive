@@ -1,73 +1,40 @@
 ---
 id: 931
 title: Are Cell Phone Users the New Smokers?
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
-blurb: ''
+publication: Nokia's The Feature
+blurb: 
 notes: 
-refs:
-- text: Seattle Times
-  original: http://seattletimes.nwsource.com/html/living/2002010067_etiquettenew22.html
-  archive: http://web.archive.org/web/20090109025921/http://seattletimes.nwsource.com/html/living/2002010067_etiquettenew22.html
-- text: Cellular Telecommunications and Internet Association
-  original: http://www.ctia.org/
-  archive: http://web.archive.org/web/20200728040639/https://www.ctia.org/
-  meta:
-    description: CTIA represents the U.S. wireless communications industry and companies
-      throughout the mobile ecosystem.
-    open_graph:
-      images:
-      - url: https://www.ctia.org/share.jpg
-      title: CTIA - The Wireless Association
-      description: CTIA represents the U.S. wireless communications industry and companies.
-    twitter_card:
-      card: summary_large_image
-      images:
-      - url: https://www.ctia.org/share.jpg
-      site: "@ctia"
-      creator: "@ctia"
-      title: CTIA - The Wireless Association
-      description: CTIA represents the U.S. wireless communications industry and companies.
-    title: CTIA - Home
-    favicon: http://www.ctia.org/favicon.ico
-- text: November Gallup poll
-  original: http://www.gallup.com/content/login.aspx?ci=9856
-  meta:
-    title: "\r\n\tPage Not Found\r\n"
-    twitter_card:
-      images:
-      - url: https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/GFDT/frozvbzp1um8k7ixfzz8ra.png
-    open_graph:
-      images:
-      - url: http://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/GFDT/frozvbzp1um8k7ixfzz8ra.png
-        secure_url: https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/GFDT/frozvbzp1um8k7ixfzz8ra.png
-    favicon: https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/WWWV7CORP/b2foxnnxmecoee_1avm01a.png
-- text: AT&T Wireless
-  original: http://www.attwireless.com/press/releases/2004_releases/070104.jhtml
-  archive: http://web.archive.org/web/20041211121225/http://www.attwireless.com:80/press/releases/2004_releases/070104.jhtml
-- text: Sprint survey
-  original: http://www3.sprint.com/PR/CDA/PR_CDA_Press_Releases_Detail/0,3681,1112110,00.html
-- text: new laws
-  original: http://www.denverpost.com/Stories/0,1413,36%7E33%7E2349173,00.html
-  meta:
-    title: Page not found – The Denver Post
-    favicon: https://www.denverpost.com/wp-content/uploads/2016/05/cropped-DP_bug_denverpost.jpg?w=192
-sources:
-- _type: WebPage
-  id: https://api.cognitive.microsoft.com/api/v7/#WebPages.0
-  name: Are Cell Phone Users the New Smokers? - Rushkoff
-  url: https://rushkoff.com/are-cell-phone-users-the-new-smokers/
-  displayUrl: https://rushkoff.com/are-cell-phone-users-the-new-smokers
-  snippet: Just to prove how good smokers used to have it, a recent Seattle Times
-    article cited the 1941 treatise on manners, “New American Etiquette.” The book,
-    with all the compassion that a high-school football coach bestows upon his third-stringers,
-    admonishes nonsmokers not merely to accept but to accommodate their smoking peers.
-  dateLastCrawled: '2020-05-19T21:29:00.0000000Z'
+refs: '[{"text"=>"Seattle Times", "original"=>"http://seattletimes.nwsource.com/html/living/2002010067_etiquettenew22.html",
+  "archive"=>"http://web.archive.org/web/20090109025921/http://seattletimes.nwsource.com/html/living/2002010067_etiquettenew22.html"},
+  {"text"=>"Cellular Telecommunications and Internet Association", "original"=>"http://www.ctia.org/",
+  "archive"=>"http://web.archive.org/web/20200728040639/https://www.ctia.org/", "meta"=>{"description"=>"CTIA
+  represents the U.S. wireless communications industry and companies throughout the
+  mobile ecosystem.", "open_graph"=>{"images"=>[{"url"=>"https://www.ctia.org/share.jpg"}],
+  "title"=>"CTIA - The Wireless Association", "description"=>"CTIA represents the
+  U.S. wireless communications industry and companies."}, "twitter_card"=>{"card"=>"summary_large_image",
+  "images"=>[{"url"=>"https://www.ctia.org/share.jpg"}], "site"=>"@ctia", "creator"=>"@ctia",
+  "title"=>"CTIA - The Wireless Association", "description"=>"CTIA represents the
+  U.S. wireless communications industry and companies."}, "title"=>"CTIA - Home",
+  "favicon"=>"http://www.ctia.org/favicon.ico"}}, {"text"=>"November Gallup poll",
+  "original"=>"http://www.gallup.com/content/login.aspx?ci=9856", "meta"=>{"title"=>"\r\n\tPage
+  Not Found\r\n", "twitter_card"=>{"images"=>[{"url"=>"https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/GFDT/frozvbzp1um8k7ixfzz8ra.png"}]},
+  "open_graph"=>{"images"=>[{"url"=>"http://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/GFDT/frozvbzp1um8k7ixfzz8ra.png",
+  "secure_url"=>"https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/GFDT/frozvbzp1um8k7ixfzz8ra.png"}]},
+  "favicon"=>"https://content.gallup.com/origin/gallupinc/GallupSpaces/Production/Cms/WWWV7CORP/b2foxnnxmecoee_1avm01a.png"}},
+  {"text"=>"AT&T Wireless", "original"=>"http://www.attwireless.com/press/releases/2004_releases/070104.jhtml",
+  "archive"=>"http://web.archive.org/web/20041211121225/http://www.attwireless.com:80/press/releases/2004_releases/070104.jhtml"},
+  {"text"=>"Sprint survey", "original"=>"http://www3.sprint.com/PR/CDA/PR_CDA_Press_Releases_Detail/0,3681,1112110,00.html"},
+  {"text"=>"new laws", "original"=>"http://www.denverpost.com/Stories/0,1413,36%7E33%7E2349173,00.html",
+  "meta"=>{"title"=>"Page not found – The Denver Post", "favicon"=>"https://www.denverpost.com/wp-content/uploads/2016/05/cropped-DP_bug_denverpost.jpg?w=192"}}]'
+sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v7/#WebPages.0",
+  "name"=>"Are Cell Phone Users the New Smokers? - Rushkoff", "url"=>"https://rushkoff.com/are-cell-phone-users-the-new-smokers/",
+  "displayUrl"=>"https://rushkoff.com/are-cell-phone-users-the-new-smokers", "snippet"=>"Just
+  to prove how good smokers used to have it, a recent Seattle Times article cited
+  the 1941 treatise on manners, “New American Etiquette.” The book, with all the compassion
+  that a high-school football coach bestows upon his third-stringers, admonishes nonsmokers
+  not merely to accept but to accommodate their smoking peers.", "dateLastCrawled"=>"2020-05-19T21:29:00.0000000Z"}]'
 published: true
 img: 
 slug: '0931-are-cell-phone-users-the-new-smokers'

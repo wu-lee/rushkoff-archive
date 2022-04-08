@@ -1,13 +1,9 @@
 ---
 id: 1067
 title: What if All Language is Oppressive?
+subtitle: 
 date: '2021-07-12T16:00:00.000Z'
-publication:
-  id: 23
-  title: Medium
-  slug: medium
-  created_at: '2020-08-03T15:13:31.000Z'
-  updated_at: '2020-08-03T15:13:31.000Z'
+publication: Medium
 blurb: 
 notes: 
 refs: 

@@ -1,82 +1,46 @@
 ---
 id: 739
 title: Why I Am Learning to Code and You Should, Too
+subtitle: 
 date: '2012-01-16T05:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
-refs:
-- text: Codecademy
-  original: http://www.codecademy.com/#!/exercises/0
-  archive: http://web.archive.org/web/20200719221529/https://www.codecademy.com/
-  meta:
-    title: Learn to Code - for Free | Codecademy
-    description: 'Learn the technical skills you need for the job you want. As leaders
-      in online education and learning to code, we’ve taught over 45 million people
-      using a tested curriculum and an interactive learning environment. Start with
-      HTML, CSS, JavaScript, SQL, Python, Data Science, and more. '
-    keywords:
-    - ''
-    open_graph:
-      url: https://www.codecademy.com/
-      site_name: Codecademy
-      type: article
-      title: Learn to Code - for Free | Codecademy
-      description: 'Learn the technical skills you need for the job you want. As leaders
-        in online education and learning to code, we’ve taught over 45 million people
-        using a tested curriculum and an interactive learning environment. Start with
-        HTML, CSS, JavaScript, SQL, Python, Data Science, and more. '
-      images:
-      - url: https://images.codecademy.com/social/logo-codecademy-social.png
-    twitter_card:
-      card: summary
-      site: "@codecademy"
-      title: Learn to Code - for Free | Codecademy
-      description: 'Learn the technical skills you need for the job you want. As leaders
-        in online education and learning to code, we’ve taught over 45 million people
-        using a tested curriculum and an interactive learning environment. Start with
-        HTML, CSS, JavaScript, SQL, Python, Data Science, and more. '
-      images:
-      - url: https://images.codecademy.com/social/logo-codecademy-social.png
-    favicon: https://www.codecademy.com/favicon.ico
-- text: Codecademy
-  original: http://www.codecademy.com/#!/exercises/0
-  archive: http://web.archive.org/web/20200719221529/https://www.codecademy.com/
-  meta:
-    title: Learn to Code - for Free | Codecademy
-    description: 'Learn the technical skills you need for the job you want. As leaders
-      in online education and learning to code, we’ve taught over 45 million people
-      using a tested curriculum and an interactive learning environment. Start with
-      HTML, CSS, JavaScript, SQL, Python, Data Science, and more. '
-    keywords:
-    - ''
-    open_graph:
-      url: https://www.codecademy.com/
-      site_name: Codecademy
-      type: article
-      title: Learn to Code - for Free | Codecademy
-      description: 'Learn the technical skills you need for the job you want. As leaders
-        in online education and learning to code, we’ve taught over 45 million people
-        using a tested curriculum and an interactive learning environment. Start with
-        HTML, CSS, JavaScript, SQL, Python, Data Science, and more. '
-      images:
-      - url: https://images.codecademy.com/social/logo-codecademy-social.png
-    twitter_card:
-      card: summary
-      site: "@codecademy"
-      title: Learn to Code - for Free | Codecademy
-      description: 'Learn the technical skills you need for the job you want. As leaders
-        in online education and learning to code, we’ve taught over 45 million people
-        using a tested curriculum and an interactive learning environment. Start with
-        HTML, CSS, JavaScript, SQL, Python, Data Science, and more. '
-      images:
-      - url: https://images.codecademy.com/social/logo-codecademy-social.png
-    favicon: https://www.codecademy.com/favicon.ico
+refs: '[{"text"=>"Codecademy", "original"=>"http://www.codecademy.com/#!/exercises/0",
+  "archive"=>"http://web.archive.org/web/20200719221529/https://www.codecademy.com/",
+  "meta"=>{"title"=>"Learn to Code - for Free | Codecademy", "description"=>"Learn
+  the technical skills you need for the job you want. As leaders in online education
+  and learning to code, we’ve taught over 45 million people using a tested curriculum
+  and an interactive learning environment. Start with HTML, CSS, JavaScript, SQL,
+  Python, Data Science, and more. ", "keywords"=>[""], "open_graph"=>{"url"=>"https://www.codecademy.com/",
+  "site_name"=>"Codecademy", "type"=>"article", "title"=>"Learn to Code - for Free
+  | Codecademy", "description"=>"Learn the technical skills you need for the job you
+  want. As leaders in online education and learning to code, we’ve taught over 45
+  million people using a tested curriculum and an interactive learning environment.
+  Start with HTML, CSS, JavaScript, SQL, Python, Data Science, and more. ", "images"=>[{"url"=>"https://images.codecademy.com/social/logo-codecademy-social.png"}]},
+  "twitter_card"=>{"card"=>"summary", "site"=>"@codecademy", "title"=>"Learn to Code
+  - for Free | Codecademy", "description"=>"Learn the technical skills you need for
+  the job you want. As leaders in online education and learning to code, we’ve taught
+  over 45 million people using a tested curriculum and an interactive learning environment.
+  Start with HTML, CSS, JavaScript, SQL, Python, Data Science, and more. ", "images"=>[{"url"=>"https://images.codecademy.com/social/logo-codecademy-social.png"}]},
+  "favicon"=>"https://www.codecademy.com/favicon.ico"}}, {"text"=>"Codecademy", "original"=>"http://www.codecademy.com/#!/exercises/0",
+  "archive"=>"http://web.archive.org/web/20200719221529/https://www.codecademy.com/",
+  "meta"=>{"title"=>"Learn to Code - for Free | Codecademy", "description"=>"Learn
+  the technical skills you need for the job you want. As leaders in online education
+  and learning to code, we’ve taught over 45 million people using a tested curriculum
+  and an interactive learning environment. Start with HTML, CSS, JavaScript, SQL,
+  Python, Data Science, and more. ", "keywords"=>[""], "open_graph"=>{"url"=>"https://www.codecademy.com/",
+  "site_name"=>"Codecademy", "type"=>"article", "title"=>"Learn to Code - for Free
+  | Codecademy", "description"=>"Learn the technical skills you need for the job you
+  want. As leaders in online education and learning to code, we’ve taught over 45
+  million people using a tested curriculum and an interactive learning environment.
+  Start with HTML, CSS, JavaScript, SQL, Python, Data Science, and more. ", "images"=>[{"url"=>"https://images.codecademy.com/social/logo-codecademy-social.png"}]},
+  "twitter_card"=>{"card"=>"summary", "site"=>"@codecademy", "title"=>"Learn to Code
+  - for Free | Codecademy", "description"=>"Learn the technical skills you need for
+  the job you want. As leaders in online education and learning to code, we’ve taught
+  over 45 million people using a tested curriculum and an interactive learning environment.
+  Start with HTML, CSS, JavaScript, SQL, Python, Data Science, and more. ", "images"=>[{"url"=>"https://images.codecademy.com/social/logo-codecademy-social.png"}]},
+  "favicon"=>"https://www.codecademy.com/favicon.ico"}}]'
 sources: 
 published: true
 img: 

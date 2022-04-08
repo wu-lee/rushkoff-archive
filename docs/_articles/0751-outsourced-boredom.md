@@ -1,14 +1,10 @@
 ---
 id: 751
 title: Outsourced Boredom
+subtitle: 
 date: '2007-02-27T05:00:00.000Z'
-publication:
-  id: 7
-  title: Discover
-  slug: discover
-  created_at: '2020-08-03T15:09:08.000Z'
-  updated_at: '2020-08-03T15:10:02.000Z'
-blurb: ''
+publication: Discover
+blurb: 
 notes: 
 refs: 
 sources: 

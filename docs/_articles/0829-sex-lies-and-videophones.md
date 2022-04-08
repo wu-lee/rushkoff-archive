@@ -1,80 +1,43 @@
 ---
 id: 829
 title: Sex, Lies and Videophones
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: New services allow users to fake the background sounds and appearance   of
   their locations -- all because interactive media really wants us to   be more honest.
 notes: 
-refs:
-- text: SounderCover
-  original: http://www.simeda.com/soundercover.html
-  archive: http://web.archive.org/web/20200303160510/http://www.simeda.com/soundercover.html
-  meta:
-    title: TopDomainer Search Engine
-    favicon: http://www.simeda.com/static/web/img/favicon.ico
-- text: Alibi Buddy
-  original: http://www.wired.com/wired/archive/12.04/play.html?pg=6
-  archive: http://web.archive.org/web/20111130060229/http://www.wired.com/wired/archive/12.04/play.html?pg=6
-  meta:
-    keywords:
-    - magazine-12.04
-    - play-archive
-    - play-magazine-12-04
-    description: Join our dynamic trio and kick criminal ass today. Comic books and
-      videogames are the chocolate and peanut butter of geek culture. The two flavors
-      of adolescent eye candy blend perfectly in City of Heroes, a massively multiplayer
-      online role-playing game sure to rob you of countless hours of fresh air and
-      sunshine. City lets \[…\]
-    open_graph:
-      type: article
-      title: Paragon City Needs You!
-      description: Join our dynamic trio and kick criminal ass today. Comic books
-        and videogames are the chocolate and peanut butter of geek culture. The two
-        flavors of adolescent eye candy blend perfectly in City of Heroes, a massively
-        multiplayer online role-playing game sure to rob you of countless hours of
-        fresh air and sunshine. City lets \[…\]
-      images:
-      - url: http://www.wired.com/images/video-fallback/w-fallback-full.png
-        width: 512
-        height: 512
-      locale: en_US
-      url: https://www.wired.com/2004/04/paragon-city-needs-you/
-      site_name: WIRED
-    twitter_card:
-      card: summary_large_image
-      title: Paragon City Needs You!
-      description: Join our dynamic trio and kick criminal ass today. Comic books
-        and videogames are the chocolate and peanut butter of geek culture. The two
-        flavors of adolescent eye candy blend perfectly in City of Heroes, a massively
-        multiplayer online role-playing game sure to rob you of countless hours of
-        fresh air and sunshine. City lets \[…\]
-      site: "@wired"
-      creator: "@wired"
-    title: Paragon City Needs You! | WIRED
-    favicon: http://www.wired.com/favicon.ico
-- text: SMSextender
-  original: http://www.simeda.com/smsxtender.html
-  archive: http://web.archive.org/web/20110805132225/http://www.simeda.com:80/smsxtender.html
-  meta:
-    title: TopDomainer Search Engine
-    favicon: http://www.simeda.com/static/web/img/favicon.ico
-- text: survey
-  original: http://www.silicon.com/networks/mobile/0,39024665,39117896,00.htm
-  meta:
-    description: This premium domain name is available for purchase!
-    title: silicon.com is for sale | www.oxley.com
-    favicon: https://www.efty.com/market/uploads/favicon/8e96ab2ee4d5c6107e4ef52955c9b51d.png
-- text: Some
-  original: http://www.160characters.org/members.php?action=info&username=Mike%20Grenville
-  meta:
-    title: Page not found – 160 characters
-    favicon: http://www.160characters.org/favicon.ico
+refs: '[{"text"=>"SounderCover", "original"=>"http://www.simeda.com/soundercover.html",
+  "archive"=>"http://web.archive.org/web/20200303160510/http://www.simeda.com/soundercover.html",
+  "meta"=>{"title"=>"TopDomainer Search Engine", "favicon"=>"http://www.simeda.com/static/web/img/favicon.ico"}},
+  {"text"=>"Alibi Buddy", "original"=>"http://www.wired.com/wired/archive/12.04/play.html?pg=6",
+  "archive"=>"http://web.archive.org/web/20111130060229/http://www.wired.com/wired/archive/12.04/play.html?pg=6",
+  "meta"=>{"keywords"=>["magazine-12.04", "play-archive", "play-magazine-12-04"],
+  "description"=>"Join our dynamic trio and kick criminal ass today. Comic books and
+  videogames are the chocolate and peanut butter of geek culture. The two flavors
+  of adolescent eye candy blend perfectly in City of Heroes, a massively multiplayer
+  online role-playing game sure to rob you of countless hours of fresh air and sunshine.
+  City lets \\[…\\]", "open_graph"=>{"type"=>"article", "title"=>"Paragon City Needs
+  You!", "description"=>"Join our dynamic trio and kick criminal ass today. Comic
+  books and videogames are the chocolate and peanut butter of geek culture. The two
+  flavors of adolescent eye candy blend perfectly in City of Heroes, a massively multiplayer
+  online role-playing game sure to rob you of countless hours of fresh air and sunshine.
+  City lets \\[…\\]", "images"=>[{"url"=>"http://www.wired.com/images/video-fallback/w-fallback-full.png",
+  "width"=>512, "height"=>512}], "locale"=>"en_US", "url"=>"https://www.wired.com/2004/04/paragon-city-needs-you/",
+  "site_name"=>"WIRED"}, "twitter_card"=>{"card"=>"summary_large_image", "title"=>"Paragon
+  City Needs You!", "description"=>"Join our dynamic trio and kick criminal ass today.
+  Comic books and videogames are the chocolate and peanut butter of geek culture.
+  The two flavors of adolescent eye candy blend perfectly in City of Heroes, a massively
+  multiplayer online role-playing game sure to rob you of countless hours of fresh
+  air and sunshine. City lets \\[…\\]", "site"=>"@wired", "creator"=>"@wired"}, "title"=>"Paragon
+  City Needs You! | WIRED", "favicon"=>"http://www.wired.com/favicon.ico"}}, {"text"=>"SMSextender",
+  "original"=>"http://www.simeda.com/smsxtender.html", "archive"=>"http://web.archive.org/web/20110805132225/http://www.simeda.com:80/smsxtender.html",
+  "meta"=>{"title"=>"TopDomainer Search Engine", "favicon"=>"http://www.simeda.com/static/web/img/favicon.ico"}},
+  {"text"=>"survey", "original"=>"http://www.silicon.com/networks/mobile/0,39024665,39117896,00.htm",
+  "meta"=>{"description"=>"This premium domain name is available for purchase!", "title"=>"silicon.com
+  is for sale | www.oxley.com", "favicon"=>"https://www.efty.com/market/uploads/favicon/8e96ab2ee4d5c6107e4ef52955c9b51d.png"}},
+  {"text"=>"Some", "original"=>"http://www.160characters.org/members.php?action=info&username=Mike%20Grenville",
+  "meta"=>{"title"=>"Page not found – 160 characters", "favicon"=>"http://www.160characters.org/favicon.ico"}}]'
 sources: 
 published: true
 img: videophones_files/image.jfif

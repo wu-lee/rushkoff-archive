@@ -1,82 +1,40 @@
 ---
 id: 766
 title: Last Day of Work
+subtitle: 
 date: '2011-03-21T04:00:00.000Z'
-publication:
-  id: 36
-  title: Shareable
-  slug: shareable
-  created_at: '2020-08-03T15:16:22.000Z'
-  updated_at: '2020-08-03T15:16:22.000Z'
-blurb: ''
+publication: Shareable
+blurb: 
 notes: 
-refs:
-- text: Douglas Rushkoff
-  original: http://rushkoff.com/
-  archive: http://web.archive.org/web/20200718072221/https://rushkoff.com/
-- text: can be found here
-  original: http://www.shareable.net/blog/shareable-futures
-  meta:
-    title: Shareable Futures - Shareable
-    open_graph:
-      locale: en_US
-      type: article
-      title: Shareable Futures - Shareable
-      description: UPDATE 1/14/13: Shareable Futures is now available as an e-book
-        in PDF, Kindle, and iPad versions through HyperInk Press here. Free web version
-        is below. Where our future used to be, we now face a massive debt. The debt
-        is national and measurable. We in America spent two decades buying on credit.
-        We made promises we couldn’t keep
-      url: https://www.shareable.net/shareable-futures/
-      site_name: Shareable
-      images:
-      - url: https://www.shareable.net/wp-content/uploads/2010/05/blog_top-image_featured.jpg
-        width: 538
-        height: 283
-    twitter_card:
-      card: summary_large_image
-    favicon: https://www.shareable.net/wp-content/uploads/2019/03/shareable-favicon.png
-- text: Wikimedia Commons
-  original: http://commons.wikimedia.org/wiki/File:Circuit_board_template.jpg
-- text: Johann kr on Flickr
-  original: http://www.flickr.com/photos/86147166@N00/2279278857
-  archive: http://web.archive.org/web/20190120205958/https://www.flickr.com/photos/86147166@N00/2279278857/
-  meta:
-    open_graph:
-      site_name: Flickr
-      title: Nesjavellir
-      description: This is Nesjavellir geothermal power plant in Iceland
-      type: article
-      url: https://www.flickr.com/photos/joikr/2279278857/
-      images:
-      - url: https://live.staticflickr.com/2274/2279278857_66fc2a1b97_z.jpg
-        width: 640
-        height: 480
-    twitter_card:
-      apps:
-        iphone:
-          name: Flickr
-          id: '328407587'
-          url: flickr://flickr.com/photos/joikr/2279278857/
-      site: "@flickr"
-      card: photo
-      description: This is Nesjavellir geothermal power plant in Iceland
-    title: Nesjavellir | This is Nesjavellir geothermal power plant in … | Flickr
-    description: This is Nesjavellir geothermal power plant in Iceland
-    keywords:
-    - powerplant
-    - geothermal
-    - nesjavellir
-    - reykjavikenergy
-    favicon: https://combo.staticflickr.com/pw/images/favicons/favicon-196.png
-- text: The Morrow Project
-  original: http://newsroom.intel.com/docs/DOC-1490
-  archive: http://web.archive.org/web/20150905214246/http://newsroom.intel.com/docs/DOC-1490
-- text: here
-  original: http://newsroom.intel.com/docs/DOC-1490
-  archive: http://web.archive.org/web/20150905214246/http://newsroom.intel.com/docs/DOC-1490
+refs: '[{"text"=>"Douglas Rushkoff", "original"=>"http://rushkoff.com/", "archive"=>"http://web.archive.org/web/20200718072221/https://rushkoff.com/"},
+  {"text"=>"can be found here", "original"=>"http://www.shareable.net/blog/shareable-futures",
+  "meta"=>{"title"=>"Shareable Futures - Shareable", "open_graph"=>{"locale"=>"en_US",
+  "type"=>"article", "title"=>"Shareable Futures - Shareable", "description"=>"UPDATE
+  1/14/13: Shareable Futures is now available as an e-book in PDF, Kindle, and iPad
+  versions through HyperInk Press here. Free web version is below. Where our future
+  used to be, we now face a massive debt. The debt is national and measurable. We
+  in America spent two decades buying on credit. We made promises we couldn’t keep",
+  "url"=>"https://www.shareable.net/shareable-futures/", "site_name"=>"Shareable",
+  "images"=>[{"url"=>"https://www.shareable.net/wp-content/uploads/2010/05/blog_top-image_featured.jpg",
+  "width"=>538, "height"=>283}]}, "twitter_card"=>{"card"=>"summary_large_image"},
+  "favicon"=>"https://www.shareable.net/wp-content/uploads/2019/03/shareable-favicon.png"}},
+  {"text"=>"Wikimedia Commons", "original"=>"http://commons.wikimedia.org/wiki/File:Circuit_board_template.jpg"},
+  {"text"=>"Johann kr on Flickr", "original"=>"http://www.flickr.com/photos/86147166@N00/2279278857",
+  "archive"=>"http://web.archive.org/web/20190120205958/https://www.flickr.com/photos/86147166@N00/2279278857/",
+  "meta"=>{"open_graph"=>{"site_name"=>"Flickr", "title"=>"Nesjavellir", "description"=>"This
+  is Nesjavellir geothermal power plant in Iceland", "type"=>"article", "url"=>"https://www.flickr.com/photos/joikr/2279278857/",
+  "images"=>[{"url"=>"https://live.staticflickr.com/2274/2279278857_66fc2a1b97_z.jpg",
+  "width"=>640, "height"=>480}]}, "twitter_card"=>{"apps"=>{"iphone"=>{"name"=>"Flickr",
+  "id"=>"328407587", "url"=>"flickr://flickr.com/photos/joikr/2279278857/"}}, "site"=>"@flickr",
+  "card"=>"photo", "description"=>"This is Nesjavellir geothermal power plant in Iceland"},
+  "title"=>"Nesjavellir | This is Nesjavellir geothermal power plant in … | Flickr",
+  "description"=>"This is Nesjavellir geothermal power plant in Iceland", "keywords"=>["powerplant",
+  "geothermal", "nesjavellir", "reykjavikenergy"], "favicon"=>"https://combo.staticflickr.com/pw/images/favicons/favicon-196.png"}},
+  {"text"=>"The Morrow Project", "original"=>"http://newsroom.intel.com/docs/DOC-1490",
+  "archive"=>"http://web.archive.org/web/20150905214246/http://newsroom.intel.com/docs/DOC-1490"},
+  {"text"=>"here", "original"=>"http://newsroom.intel.com/docs/DOC-1490", "archive"=>"http://web.archive.org/web/20150905214246/http://newsroom.intel.com/docs/DOC-1490"}]'
 sources: 
-published: 
+published: false
 img: 
 slug: 0766-last-day-of-work
 created_at: '2020-08-02T00:44:12.000Z'

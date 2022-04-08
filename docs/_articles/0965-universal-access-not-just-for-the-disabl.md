@@ -1,85 +1,36 @@
 ---
 id: 965
 title: 'Universal Access: Not Just for the Disabled'
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
-blurb: ''
+publication: Nokia's The Feature
+blurb: 
 notes: 
-refs:
-- text: Mobile Speak accessibility program.
-  original: http://www.optelec.com/blind_and_braille/mobile_speak/
-  meta:
-    description: Optelec develops products for low vision, visual impairment. The
-      Optelec low vision products help the visually impaired to live an independent
-      and full life.
-    title: Optelec offers solutions for low vision - visual impairment
-    open_graph:
-      title: ''
-      locale: en_US
-      site_name: Optelec US
-      url: https://us.optelec.com/
-    twitter_card:
-      card: summary
-      title: ''
-    favicon: http://www.optelec.com/media/images/favicon.ico
-- text: Tim Berners-Lee
-  original: http://www.w3.org/People/Berners-Lee/#Bio
-  archive: http://web.archive.org/web/20200730094647/https://www.w3.org/People/Berners-Lee/
-  meta:
-    title: Tim Berners-Lee
-    favicon: http://www.w3.org/favicon.ico
-- text: Ray Kurzweil's cybernetic vision
-  original: http://www-2.cs.cmu.edu/%7Eearthware/KurzweilAbstract.html
-  meta:
-    title: Ray Kurzweil's Abstract
-    favicon: http://www-2.cs.cmu.edu/favicon.ico
-- text: Cyberkinetics
-  original: http://www.cyberkineticsinc.com/
-  archive: http://web.archive.org/web/20200124230900/http://www.cyberkineticsinc.com:80/
-  meta:
-    title: CYBERKINETICSINC.COM
-    keywords:
-    - ''
-    favicon: http://www.cyberkineticsinc.com/favicon.ico
-- text: Neural Signals
-  original: http://www.neuralsignals.com/
-  archive: http://web.archive.org/web/20191203210447/http://www.neuralsignals.com:80/
-  meta:
-    title: Neural Signals, Inc. – Thinking outside the box.
-    favicon: http://www.neuralsignals.com/favicon.ico
-- text: BrainPort,
-  original: http://www.wicab.com/
-  archive: http://web.archive.org/web/20200616101828/https://www.wicab.com/
-  meta:
-    title: Disabilities Technology | BrainPort Technologies | United States
-    description: 'BrainPort Technologies: helping people with disabilities & health
-      problems live a better life!'
-    open_graph:
-      title: Disabilities Technology | BrainPort Technologies | United States
-      description: 'BrainPort Technologies: helping people with disabilities & health
-        problems live a better life!'
-      url: http://www.wicab.com/
-      site_name: Brainport
-      type: website
-    keywords:
-    - Biofeedback
-    - BrainPort Balance Plus
-    - BrainPort Technologies
-    - BrainPort Vision Pro
-    - Visual perception
-    - balance training aid
-    - health problems technology
-    - neuromodulation
-    - profoundly blind
-    - sensory substitution
-    - vestibular treatment
-    - vision aid
-    favicon: https://static.parastorage.com/client/pfavico.ico
+refs: '[{"text"=>"Mobile Speak accessibility program.", "original"=>"http://www.optelec.com/blind_and_braille/mobile_speak/",
+  "meta"=>{"description"=>"Optelec develops products for low vision, visual impairment.
+  The Optelec low vision products help the visually impaired to live an independent
+  and full life.", "title"=>"Optelec offers solutions for low vision - visual impairment",
+  "open_graph"=>{"title"=>"", "locale"=>"en_US", "site_name"=>"Optelec US", "url"=>"https://us.optelec.com/"},
+  "twitter_card"=>{"card"=>"summary", "title"=>""}, "favicon"=>"http://www.optelec.com/media/images/favicon.ico"}},
+  {"text"=>"Tim Berners-Lee", "original"=>"http://www.w3.org/People/Berners-Lee/#Bio",
+  "archive"=>"http://web.archive.org/web/20200730094647/https://www.w3.org/People/Berners-Lee/",
+  "meta"=>{"title"=>"Tim Berners-Lee", "favicon"=>"http://www.w3.org/favicon.ico"}},
+  {"text"=>"Ray Kurzweil''s cybernetic vision", "original"=>"http://www-2.cs.cmu.edu/%7Eearthware/KurzweilAbstract.html",
+  "meta"=>{"title"=>"Ray Kurzweil''s Abstract", "favicon"=>"http://www-2.cs.cmu.edu/favicon.ico"}},
+  {"text"=>"Cyberkinetics", "original"=>"http://www.cyberkineticsinc.com/", "archive"=>"http://web.archive.org/web/20200124230900/http://www.cyberkineticsinc.com:80/",
+  "meta"=>{"title"=>"CYBERKINETICSINC.COM", "keywords"=>[""], "favicon"=>"http://www.cyberkineticsinc.com/favicon.ico"}},
+  {"text"=>"Neural Signals", "original"=>"http://www.neuralsignals.com/", "archive"=>"http://web.archive.org/web/20191203210447/http://www.neuralsignals.com:80/",
+  "meta"=>{"title"=>"Neural Signals, Inc. – Thinking outside the box.", "favicon"=>"http://www.neuralsignals.com/favicon.ico"}},
+  {"text"=>"BrainPort,", "original"=>"http://www.wicab.com/", "archive"=>"http://web.archive.org/web/20200616101828/https://www.wicab.com/",
+  "meta"=>{"title"=>"Disabilities Technology | BrainPort Technologies | United States",
+  "description"=>"BrainPort Technologies: helping people with disabilities & health
+  problems live a better life!", "open_graph"=>{"title"=>"Disabilities Technology
+  | BrainPort Technologies | United States", "description"=>"BrainPort Technologies:
+  helping people with disabilities & health problems live a better life!", "url"=>"http://www.wicab.com/",
+  "site_name"=>"Brainport", "type"=>"website"}, "keywords"=>["Biofeedback", "BrainPort
+  Balance Plus", "BrainPort Technologies", "BrainPort Vision Pro", "Visual perception",
+  "balance training aid", "health problems technology", "neuromodulation", "profoundly
+  blind", "sensory substitution", "vestibular treatment", "vision aid"], "favicon"=>"https://static.parastorage.com/client/pfavico.ico"}}]'
 sources: 
 published: true
 img: 

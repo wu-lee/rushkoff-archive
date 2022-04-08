@@ -1,30 +1,20 @@
 ---
 id: 742
 title: Will ISPs Begin Spying on Users?
+subtitle: 
 date: '2012-07-06T04:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
-refs:
-- text: your Internet service provider may begin monitoring your account
-  original: http://business.time.com/2012/06/26/coming-soon-a-softer-approach-to-online-piracy/
-  archive: http://web.archive.org/web/20191225180554/http://business.time.com:80/2012/06/26/coming-soon-a-softer-approach-to-online-piracy/
-- text: to go into effect this month
-  original: http://news.cnet.com/8301-31001_3-57397452-261/riaa-chief-isps-to-start-policing-copyright-by-july-1/?tag=mncol;topStories
-- text: Center for Copyright Information
-  original: http://copyrightinformation.org/
-  archive: http://web.archive.org/web/20190403230435/http://www.copyrightinformation.org
-- text: new agreement
-  original: http://publicintelligence.net/center-for-copyright-information-isp-copyright-alert-system-memorandum-of-understanding/
-- text: subsequent comments
-  original: http://news.cnet.com/8301-31001_3-57397452-261/riaa-chief-isps-to-start-policing-copyright-by-july-1/?tag=mncol;topStories
-- text: Murdoch newspapers could successfully bribe Scotland Yard.
-  original: http://topics.nytimes.com/top/reference/timestopics/organizations/n/news_of_the_world/index.html
+refs: '[{"text"=>"your Internet service provider may begin monitoring your account",
+  "original"=>"http://business.time.com/2012/06/26/coming-soon-a-softer-approach-to-online-piracy/",
+  "archive"=>"http://web.archive.org/web/20191225180554/http://business.time.com:80/2012/06/26/coming-soon-a-softer-approach-to-online-piracy/"},
+  {"text"=>"to go into effect this month", "original"=>"http://news.cnet.com/8301-31001_3-57397452-261/riaa-chief-isps-to-start-policing-copyright-by-july-1/?tag=mncol;topStories"},
+  {"text"=>"Center for Copyright Information", "original"=>"http://copyrightinformation.org/",
+  "archive"=>"http://web.archive.org/web/20190403230435/http://www.copyrightinformation.org"},
+  {"text"=>"new agreement", "original"=>"http://publicintelligence.net/center-for-copyright-information-isp-copyright-alert-system-memorandum-of-understanding/"},
+  {"text"=>"subsequent comments", "original"=>"http://news.cnet.com/8301-31001_3-57397452-261/riaa-chief-isps-to-start-policing-copyright-by-july-1/?tag=mncol;topStories"},
+  {"text"=>"Murdoch newspapers could successfully bribe Scotland Yard.", "original"=>"http://topics.nytimes.com/top/reference/timestopics/organizations/n/news_of_the_world/index.html"}]'
 sources: 
 published: true
 img: "../../../../storage/120705103111-rushkoff-online-monitoring-story-top-__SQUARESPACE_CACHEVERSION=1341593455198.jpeg"
@@ -58,7 +48,7 @@ Worse, subscribers will be losing their expectation of privacy from their own se
 
 If monitoring of data streams becomes de rigueur, what's to stop an ISP (or a particularly unscrupulous or bribable employee) from monitoring its competitors' communications? Admittedly, such scenarios are only as outlandish as the possibility that [Murdoch newspapers could successfully bribe Scotland Yard.](http://topics.nytimes.com/top/reference/timestopics/organizations/n/news_of_the_world/index.html)
 
-As Internet security expert Josh Klein explained to me, "Honestly, the prohibition made more sense than this." To protect his own data, he already uses servers outside the United States, and fears other companies may soon feel the need to do the same: "The risk of losing their 'net \[access\] because someone accidentally streamed the wrong thing is a business prerogative significant enough to tunnel all their traffic to a country that provides sensible data privacy laws. How much long after that until the rest of the company gets off-shored?"
+As Internet security expert Josh Klein explained to me, "Honestly, the prohibition made more sense than this." To protect his own data, he already uses servers outside the United States, and fears other companies may soon feel the need to do the same: "The risk of losing their 'net \\[access\\] because someone accidentally streamed the wrong thing is a business prerogative significant enough to tunnel all their traffic to a country that provides sensible data privacy laws. How much long after that until the rest of the company gets off-shored?"
 
 Whether the agreement promises to unleash such demons has yet to be seen. For the time being, though, the practice of preventing abuse by restricting peer-to-peer activity appears doomed only to escalate the arms race between consumers and their producers.
 

@@ -1,19 +1,15 @@
 ---
 id: 1034
 title: Rave Against The Machine
+subtitle: 
 date: '1999-11-01T05:00:00.000Z'
-publication:
-  id: 39
-  title: This
-  slug: this
-  created_at: '2020-08-03T15:16:45.000Z'
-  updated_at: '2020-08-03T15:16:45.000Z'
+publication: This
 blurb: Rave culture once promised something truly extraordinary, capable of transforming
   the world... The spirit is gone.
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1034-rave-against-the-machine
 created_at: '2020-08-02T07:15:45.000Z'

@@ -1,70 +1,36 @@
 ---
 id: 717
 title: iPhone Is Not Your Savior
+subtitle: 
 date: '2012-09-12T04:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
-refs:
-- text: boost our nation's GDP
-  original: http://www.reuters.com/article/2012/09/11/us-usa-apple-gdp-idUSBRE8891E720120911
-  archive: http://web.archive.org/web/20151105065334/http://www.reuters.com/article/2012/09/11/us-usa-apple-gdp-idUSBRE8891E720120911
-  meta:
-    title: |2-
-
-                      New iPhone could boost U.S. GDP by up to 0.5 percent, JP Morgan says - Reuters
-    description: The next generation iPhone 5, which Apple Inc. plans to release this
-      week, could not only boost the tech giant's bottom line - but could give a significant
-      boost to the overall U.S. economy.
-    keywords:
-    - US
-    - USA
-    - APPLE
-    - GDP
-    - Economic Output
-    - Company News
-    - Computer Hardware (Legacy)
-    - Computers / Office Equipment (Legacy)
-    - Education
-    - Telecommunications Services (TRBC)
-    - Telecommunications Services (Legacy)
-    - Economic Events
-    - United States
-    - Computer Hardware (TRBC)
-    open_graph:
-      locale: en_US
-      site_name: U.S.
-      title: New iPhone could boost U.S. GDP by up to 0.5 percent, JP Morgan says
-      url: https://www.reuters.com/article/us-usa-apple-gdp-idUSBRE8891E720120911
-      type: article
-      description: The next generation iPhone 5, which Apple Inc. plans to release
-        this week, could not only boost the tech giant's bottom line - but could give
-        a significant boost to the overall U.S. economy.
-      images:
-      - url: https://s1.reutersmedia.net/resources/r/?m=02&d=20120911&t=2&i=651725552&w=1200&r=CBRE88A17ZV00
-    twitter_card:
-      site: "@Reuters"
-      creator: "@Reuters"
-      card: summary_large_image
-      title: New iPhone could boost U.S. GDP by up to 0.5 percent, JP Morgan says
-      description: The next generation iPhone 5, which Apple Inc. plans to release
-        this week, could not only boost the tech giant's bottom line - but could give
-        a significant boost to the overall U.S. economy.
-      images:
-      - url: https://s1.reutersmedia.net/resources/r/?m=02&d=20120911&t=2&i=651725552&w=1200&r=CBRE88A17ZV00
-      - url: https://s1.reutersmedia.net/resources/r/?m=02&d=20120911&t=2&i=651725552&w=1200&r=CBRE88A17ZV00
-    favicon: https://s3.reutersmedia.net/resources_v2/images/favicon-16x16.png
-- text: bought by Zynga
-  original: http://www.forbes.com/sites/terokuittinen/2012/05/01/is-the-omgpop-acquisition-haunting-zynga/
-  archive: http://web.archive.org/web/20191009063129/https://www.forbes.com/sites/terokuittinen/2012/05/01/is-the-omgpop-acquisition-haunting-zynga/
-  meta:
-    title: Security Violation (403)
-    favicon: http://www.forbes.com/favicon.ico
+refs: '[{"text"=>"boost our nation''s GDP", "original"=>"http://www.reuters.com/article/2012/09/11/us-usa-apple-gdp-idUSBRE8891E720120911",
+  "archive"=>"http://web.archive.org/web/20151105065334/http://www.reuters.com/article/2012/09/11/us-usa-apple-gdp-idUSBRE8891E720120911",
+  "meta"=>{"title"=>"\n                New iPhone could boost U.S. GDP by up to 0.5
+  percent, JP Morgan says - Reuters", "description"=>"The next generation iPhone 5,
+  which Apple Inc. plans to release this week, could not only boost the tech giant''s
+  bottom line - but could give a significant boost to the overall U.S. economy.",
+  "keywords"=>["US", "USA", "APPLE", "GDP", "Economic Output", "Company News", "Computer
+  Hardware (Legacy)", "Computers / Office Equipment (Legacy)", "Education", "Telecommunications
+  Services (TRBC)", "Telecommunications Services (Legacy)", "Economic Events", "United
+  States", "Computer Hardware (TRBC)"], "open_graph"=>{"locale"=>"en_US", "site_name"=>"U.S.",
+  "title"=>"New iPhone could boost U.S. GDP by up to 0.5 percent, JP Morgan says",
+  "url"=>"https://www.reuters.com/article/us-usa-apple-gdp-idUSBRE8891E720120911",
+  "type"=>"article", "description"=>"The next generation iPhone 5, which Apple Inc.
+  plans to release this week, could not only boost the tech giant''s bottom line -
+  but could give a significant boost to the overall U.S. economy.", "images"=>[{"url"=>"https://s1.reutersmedia.net/resources/r/?m=02&d=20120911&t=2&i=651725552&w=1200&r=CBRE88A17ZV00"}]},
+  "twitter_card"=>{"site"=>"@Reuters", "creator"=>"@Reuters", "card"=>"summary_large_image",
+  "title"=>"New iPhone could boost U.S. GDP by up to 0.5 percent, JP Morgan says",
+  "description"=>"The next generation iPhone 5, which Apple Inc. plans to release
+  this week, could not only boost the tech giant''s bottom line - but could give a
+  significant boost to the overall U.S. economy.", "images"=>[{"url"=>"https://s1.reutersmedia.net/resources/r/?m=02&d=20120911&t=2&i=651725552&w=1200&r=CBRE88A17ZV00"},
+  {"url"=>"https://s1.reutersmedia.net/resources/r/?m=02&d=20120911&t=2&i=651725552&w=1200&r=CBRE88A17ZV00"}]},
+  "favicon"=>"https://s3.reutersmedia.net/resources_v2/images/favicon-16x16.png"}},
+  {"text"=>"bought by Zynga", "original"=>"http://www.forbes.com/sites/terokuittinen/2012/05/01/is-the-omgpop-acquisition-haunting-zynga/",
+  "archive"=>"http://web.archive.org/web/20191009063129/https://www.forbes.com/sites/terokuittinen/2012/05/01/is-the-omgpop-acquisition-haunting-zynga/",
+  "meta"=>{"title"=>"Security Violation (403)", "favicon"=>"http://www.forbes.com/favicon.ico"}}]'
 sources: 
 published: true
 img: "../../../../storage/120911094145-rushkoff-iphone-story-top-__SQUARESPACE_CACHEVERSION=1347460275025.jpeg"

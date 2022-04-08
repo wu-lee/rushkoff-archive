@@ -1,13 +1,9 @@
 ---
 id: 961
 title: 'The Next Billion: Multilingual Users and Mobile Telephony'
+subtitle: 
 date: '2005-02-14T05:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: Why the mobile industry needs to learn the world's struggling languages.
 notes: 
 refs: 

@@ -1,141 +1,63 @@
 ---
 id: 816
 title: Honey, I Geotagged the Kids
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: How collaborative cartography could enable us to map our shared worlds -- and
   why the wireless industry probably won't go for it.
 notes: 
-refs:
-- text: Mapping Hacks
-  original: http://mappinghacks.com/
-- text: Simon Pattersen's work
-  original: http://www.tate.org.uk/servlet/ViewWork?cgroupid=999999961&workid=21700
-  meta:
-    open_graph:
-      url: https://www.tate.org.uk/art/artworks/patterson-the-great-bear-p77880
-      site_name: Tate
-      title: "‘The Great Bear’, Simon Patterson, 1992 | Tate"
-      images:
-      - url: https://storage.googleapis.com/tate-digital/ui/3.26.0-compressed/tate_social_logo.png
-        width: 840
-        height: 450
-      description: Artwork page for ‘The Great Bear’, Simon Patterson, 1992 on display
-        at Tate Liverpool. Adapting the official map of the London Underground, Patterson
-        has replaced the names of stations with philosophers, actors, politicians
-        and other celebrated figures. The title The Great Bear refers to the constellation
-        Ursa Major, a punning reference to Patterson''s own arrangement of ''stars''.
-        Patterson playfully subverts our belief that maps and diagrams provide a reliable
-        source of information. ''I like disrupting something people take as read'',
-        he comments.
-      type: article
-    twitter_card:
-      card: summary
-      site: "@tate"
-      creator: "@tate"
-      title: "‘The Great Bear’, Simon Patterson, 1992 | Tate"
-      images:
-      - url: https://storage.googleapis.com/tate-digital/ui/3.26.0-compressed/tate_social_logo.png
-      description: Artwork page for ‘The Great Bear’, Simon Patterson, 1992 on display
-        at Tate Liverpool. Adapting the official map of the London Underground, Patterson
-        has replaced the names of stations with philosophers, actors, politicians
-        and other celebrated figures. The title The Great Bear refers to the constellation
-        Ursa Major, a punning reference to Patterson''s own arrangement of ''stars''.
-        Patterson playfully subverts our belief that maps and diagrams provide a reliable
-        source of information. ''I like disrupting something people take as read'',
-        he comments.
-    description: Artwork page for ‘The Great Bear’, Simon Patterson, 1992 on display
-      at Tate Liverpool. Adapting the official map of the London Underground, Patterson
-      has replaced the names of stations with philosophers, actors, politicians and
-      other celebrated figures. The title The Great Bear refers to the constellation
-      Ursa Major, a punning reference to Patterson''s own arrangement of ''stars''.
-      Patterson playfully subverts our belief that maps and diagrams provide a reliable
-      source of information. ''I like disrupting something people take as read'',
-      he comments.
-    keywords:
-    - art
-    - "‘The Great Bear’"
-    - Simon Patterson
-    - Lithograph on paper
-    - Tate collection
-    - Tate Liverpool
-    - artwork
-    title: "‘The Great Bear’, Simon Patterson, 1992 | Tate"
-    favicon: https://www.tate.org.uk/favicon.ico
-- text: dynamic mapping of human cortical development
-  original: http://www.pnas.org/cgi/reprint/101/21/8174
-- text: representation of chromosomes
-  original: http://www.ncbi.nlm.nih.gov/books/bv.fcgi?call=bv.View..ShowSection&rid=gnd.chapter.272
-  meta:
-    title: Page not available - NCBI Bookshelf
-    open_graph:
-      type: book
-      url: https://www.ncbi.nlm.nih.gov/books//
-      site_name: NCBI Bookshelf
-      images:
-      - url: https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/bookshelf/thumbs/th--lrg.png
-    twitter_card:
-      card: summary
-      site: "@ncbibooks"
-    favicon: http://www.ncbi.nlm.nih.gov/favicon.ico
-- text: Pervasive and Locative Arts Network Conference
-  original: http://www.open-plan.org/
-- text: '"locative manifesto."'
-  original: http://www.headmap.org/
-  archive: http://web.archive.org/web/20141217050502/http://headmap.org/
-- text: gpster.net
-  original: http://www.gpster.net/
-  archive: http://web.archive.org/web/20180419131128/http://www.gpster.net/
-  meta:
-    title: Gpster International Blog  – Editor di News Made in Italy
-    open_graph:
-      type: website
-      title: 'Gpster International Blog '
-      description: Editor di News Made in Italy
-      url: https://gpster.net/
-      site_name: 'Gpster International Blog '
-      images:
-      - url: https://s0.wp.com/i/blank.jpg
-      locale: it_IT
-    favicon: http://www.gpster.net/favicon.ico
-- text: PDPal,
-  original: http://www.pdpal.com/
-  archive: http://web.archive.org/web/20160416054406/http://www.pdpal.com/
-- text: GPS Drawing project,
-  original: http://www.gpsdrawing.com/
-  meta:
-    title: GPS Drawing
-    description: Drawings with Global Positioning System technology made over water,
-      on land and in the air by Jeremy Wood.
-    keywords:
-    - gps
-    - drawing
-    - drawings
-    - maps
-    - mapping
-    - art
-    - data
-    - tracks
-    - science
-    - geography
-    - technology
-    - personal
-    - cartography
-    - workshops
-    - exhibitions
-    - gallery
-    - projects
-    - models
-    - games
-    - waypoints
-    - scale
-    - jeremy wood
-    favicon: http://www.gpsdrawing.com/favicon.ico
+refs: '[{"text"=>"Mapping Hacks", "original"=>"http://mappinghacks.com/"}, {"text"=>"Simon
+  Pattersen''s work", "original"=>"http://www.tate.org.uk/servlet/ViewWork?cgroupid=999999961&workid=21700",
+  "meta"=>{"open_graph"=>{"url"=>"https://www.tate.org.uk/art/artworks/patterson-the-great-bear-p77880",
+  "site_name"=>"Tate", "title"=>"‘The Great Bear’, Simon Patterson, 1992 | Tate",
+  "images"=>[{"url"=>"https://storage.googleapis.com/tate-digital/ui/3.26.0-compressed/tate_social_logo.png",
+  "width"=>840, "height"=>450}], "description"=>"Artwork page for ‘The Great Bear’,
+  Simon Patterson, 1992 on display at Tate Liverpool. Adapting the official map of
+  the London Underground, Patterson has replaced the names of stations with philosophers,
+  actors, politicians and other celebrated figures. The title The Great Bear refers
+  to the constellation Ursa Major, a punning reference to Patterson''''s own arrangement
+  of ''''stars''''. Patterson playfully subverts our belief that maps and diagrams
+  provide a reliable source of information. ''''I like disrupting something people
+  take as read'''', he comments.", "type"=>"article"}, "twitter_card"=>{"card"=>"summary",
+  "site"=>"@tate", "creator"=>"@tate", "title"=>"‘The Great Bear’, Simon Patterson,
+  1992 | Tate", "images"=>[{"url"=>"https://storage.googleapis.com/tate-digital/ui/3.26.0-compressed/tate_social_logo.png"}],
+  "description"=>"Artwork page for ‘The Great Bear’, Simon Patterson, 1992 on display
+  at Tate Liverpool. Adapting the official map of the London Underground, Patterson
+  has replaced the names of stations with philosophers, actors, politicians and other
+  celebrated figures. The title The Great Bear refers to the constellation Ursa Major,
+  a punning reference to Patterson''''s own arrangement of ''''stars''''. Patterson
+  playfully subverts our belief that maps and diagrams provide a reliable source of
+  information. ''''I like disrupting something people take as read'''', he comments."},
+  "description"=>"Artwork page for ‘The Great Bear’, Simon Patterson, 1992 on display
+  at Tate Liverpool. Adapting the official map of the London Underground, Patterson
+  has replaced the names of stations with philosophers, actors, politicians and other
+  celebrated figures. The title The Great Bear refers to the constellation Ursa Major,
+  a punning reference to Patterson''''s own arrangement of ''''stars''''. Patterson
+  playfully subverts our belief that maps and diagrams provide a reliable source of
+  information. ''''I like disrupting something people take as read'''', he comments.",
+  "keywords"=>["art", "‘The Great Bear’", "Simon Patterson", "Lithograph on paper",
+  "Tate collection", "Tate Liverpool", "artwork"], "title"=>"‘The Great Bear’, Simon
+  Patterson, 1992 | Tate", "favicon"=>"https://www.tate.org.uk/favicon.ico"}}, {"text"=>"dynamic
+  mapping of human cortical development", "original"=>"http://www.pnas.org/cgi/reprint/101/21/8174"},
+  {"text"=>"representation of chromosomes", "original"=>"http://www.ncbi.nlm.nih.gov/books/bv.fcgi?call=bv.View..ShowSection&rid=gnd.chapter.272",
+  "meta"=>{"title"=>"Page not available - NCBI Bookshelf", "open_graph"=>{"type"=>"book",
+  "url"=>"https://www.ncbi.nlm.nih.gov/books//", "site_name"=>"NCBI Bookshelf", "images"=>[{"url"=>"https://www.ncbi.nlm.nih.gov/corehtml/pmc/pmcgifs/bookshelf/thumbs/th--lrg.png"}]},
+  "twitter_card"=>{"card"=>"summary", "site"=>"@ncbibooks"}, "favicon"=>"http://www.ncbi.nlm.nih.gov/favicon.ico"}},
+  {"text"=>"Pervasive and Locative Arts Network Conference", "original"=>"http://www.open-plan.org/"},
+  {"text"=>"\"locative manifesto.\"", "original"=>"http://www.headmap.org/", "archive"=>"http://web.archive.org/web/20141217050502/http://headmap.org/"},
+  {"text"=>"gpster.net", "original"=>"http://www.gpster.net/", "archive"=>"http://web.archive.org/web/20180419131128/http://www.gpster.net/",
+  "meta"=>{"title"=>"Gpster International Blog  – Editor di News Made in Italy", "open_graph"=>{"type"=>"website",
+  "title"=>"Gpster International Blog ", "description"=>"Editor di News Made in Italy",
+  "url"=>"https://gpster.net/", "site_name"=>"Gpster International Blog ", "images"=>[{"url"=>"https://s0.wp.com/i/blank.jpg"}],
+  "locale"=>"it_IT"}, "favicon"=>"http://www.gpster.net/favicon.ico"}}, {"text"=>"PDPal,",
+  "original"=>"http://www.pdpal.com/", "archive"=>"http://web.archive.org/web/20160416054406/http://www.pdpal.com/"},
+  {"text"=>"GPS Drawing project,", "original"=>"http://www.gpsdrawing.com/", "meta"=>{"title"=>"GPS
+  Drawing", "description"=>"Drawings with Global Positioning System technology made
+  over water, on land and in the air by Jeremy Wood.", "keywords"=>["gps", "drawing",
+  "drawings", "maps", "mapping", "art", "data", "tracks", "science", "geography",
+  "technology", "personal", "cartography", "workshops", "exhibitions", "gallery",
+  "projects", "models", "games", "waypoints", "scale", "jeremy wood"], "favicon"=>"http://www.gpsdrawing.com/favicon.ico"}}]'
 sources: 
 published: true
 img: 

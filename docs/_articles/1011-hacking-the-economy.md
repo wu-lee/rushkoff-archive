@@ -1,18 +1,14 @@
 ---
 id: 1011
 title: Hacking The Economy
+subtitle: 
 date: '2009-03-19T04:00:00.000Z'
-publication:
-  id: 17
-  title: H+
-  slug: h-plus
-  created_at: '2020-08-03T15:11:31.000Z'
-  updated_at: '2020-08-03T15:11:31.000Z'
+publication: H+
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1011-hacking-the-economy
 created_at: '2020-08-02T05:43:16.000Z'

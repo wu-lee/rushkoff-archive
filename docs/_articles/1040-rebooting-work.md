@@ -1,18 +1,14 @@
 ---
 id: 1040
 title: Rebooting Work
+subtitle: 
 date: '2016-02-01T05:00:00.000Z'
-publication:
-  id: 14
-  title: Geographical
-  slug: geographical
-  created_at: '2020-08-03T15:10:56.000Z'
-  updated_at: '2020-08-03T15:12:56.000Z'
+publication: Geographical
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1040-rebooting-work
 created_at: '2020-08-02T07:27:02.000Z'

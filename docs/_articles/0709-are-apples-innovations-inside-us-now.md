@@ -1,29 +1,19 @@
 ---
 id: 709
 title: Are Apple's Innovations Inside Us Now?
+subtitle: 
 date: '2011-08-28T04:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
-refs:
-- text: pull eight of its products off the shelf,
-  original: http://money.cnn.com/2012/08/27/technology/apple-samsung/index.html
-sources:
-- _type: WebPage
-  id: https://api.cognitive.microsoft.com/api/v7/#WebPages.0
-  name: 'CNN: Are Apple''s Innovations inside Us Now? - Rushkoff'
-  url: https://rushkoff.com/cnn-are-apples-innovations-inside-us-now/
-  displayUrl: https://rushkoff.com/cnn-are-apples-innovations-inside-us-now
-  snippet: "(CNN) — Imagine that we were just developing spoken language for the first
-    time. And someone came up with a new word to describe an action, thought or feeling
-    — like “magnify” or “dreadful.” But in this strange world, the person who came
-    up with the word demanded that anyone else who used it pay him […]"
-  dateLastCrawled: '2020-07-13T12:14:00.0000000Z'
+refs: '[{"text"=>"pull eight of its products off the shelf,", "original"=>"http://money.cnn.com/2012/08/27/technology/apple-samsung/index.html"}]'
+sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v7/#WebPages.0",
+  "name"=>"CNN: Are Apple''s Innovations inside Us Now? - Rushkoff", "url"=>"https://rushkoff.com/cnn-are-apples-innovations-inside-us-now/",
+  "displayUrl"=>"https://rushkoff.com/cnn-are-apples-innovations-inside-us-now", "snippet"=>"(CNN)
+  — Imagine that we were just developing spoken language for the first time. And someone
+  came up with a new word to describe an action, thought or feeling — like “magnify”
+  or “dreadful.” But in this strange world, the person who came up with the word demanded
+  that anyone else who used it pay him […]", "dateLastCrawled"=>"2020-07-13T12:14:00.0000000Z"}]'
 published: true
 img: 
 slug: '0709-are-apples-innovations-inside-us-now'

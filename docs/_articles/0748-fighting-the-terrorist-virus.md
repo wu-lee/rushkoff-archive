@@ -1,14 +1,10 @@
 ---
 id: 748
 title: Fighting the Terrorist Virus
+subtitle: 
 date: '2006-12-04T06:00:00.000Z'
-publication:
-  id: 7
-  title: Discover
-  slug: discover
-  created_at: '2020-08-03T15:09:08.000Z'
-  updated_at: '2020-08-03T15:10:02.000Z'
-blurb: ''
+publication: Discover
+blurb: 
 notes: 
 refs: 
 sources: 

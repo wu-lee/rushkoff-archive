@@ -1,13 +1,9 @@
 ---
 id: 856
 title: Buying a Computer for Mom
+subtitle: 
 date: '2000-07-01T04:00:00.000Z'
-publication:
-  id: 28
-  title: The New York Times Syndicate/Guardian of London
-  slug: nyt-guardian
-  created_at: '2020-08-03T15:14:34.000Z'
-  updated_at: '2020-10-09T01:17:31.000Z'
+publication: The New York Times Syndicate/Guardian of London
 blurb: Why it's so hard to find something that works, anymore.
 notes: 
 refs: 

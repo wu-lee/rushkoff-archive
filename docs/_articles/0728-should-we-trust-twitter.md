@@ -1,68 +1,36 @@
 ---
 id: 728
 title: Should We Trust Twitter?
+subtitle: 
 date: '2012-08-01T04:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
-refs:
-- text: banned a user for openly criticizing NBC's coverage
-  original: http://www.cnn.com/2012/07/31/tech/social-media/nbc-critic-twitter-reinstated/index.html
-  meta:
-    title: NBC critic's Twitter account reinstated - CNN
-    open_graph:
-      url: https://www.cnn.com/2012/07/31/tech/social-media/nbc-critic-twitter-reinstated/index.html
-      description: Guy Adams, the Los Angeles-based journalist whose Twitter account
-        was suspended after blasting NBC over its Olympics coverage, is tweeting again
-        after being reinstated on the site.
-      site_name: CNN
-      type: article
-      images:
-      - url: https://cdn.cnn.com/cnnnext/dam/assets/120731070835-nbc-critic-twitter-story-top.jpg
-        width: 460
-        height: 259
-    description: Guy Adams, the Los Angeles-based journalist whose Twitter account
-      was suspended after blasting NBC over its Olympics coverage, is tweeting again
-      after being reinstated on the site.
-    twitter_card:
-      description: Guy Adams, the Los Angeles-based journalist whose Twitter account
-        was suspended after blasting NBC over its Olympics coverage, is tweeting again
-        after being reinstated on the site.
-      card: summary_large_image
-      images:
-      - url: https://cdn.cnn.com/cnnnext/dam/assets/120731070835-nbc-critic-twitter-story-top.jpg
-    keywords:
-    - tech
-    - NBC critic's Twitter account reinstated - CNN
-    favicon: http://www.cnn.com/favicon.ico
-- text: it was closing its API
-  original: http://www.pcworld.idg.com.au/article/430319/pursuit_business_plan_twitter_riles_developers/
-  meta:
-    description: Analysts say Twitter's API clampdown is part of a plan to generate
-      more revenue through ads
-    keywords:
-    - Research Good Gear Guide to find the latest independent product news and reviews.
-      Download our buying and shopping guides to make sure you're getting a good deal
-      today and everyday.
-    title: In pursuit of business plan, Twitter riles developers - PC World Australia
-    open_graph:
-      site_name: PC World
-      title: In pursuit of business plan, Twitter riles developers
-      type: article
-      images:
-      - url: https://www.idgcdn.com.au/dimg/600x600//idg_sites/logos/pcw_1.png
-      url: https://www.pcworld.idg.com.au/article/430319/pursuit_business_plan_twitter_riles_developers/
-      description: The changes Twitter is making to its API policies triggered a wave
-        of protest among its developers, but they might be necessary for the strategy
-        Twitter has laid out for itself to make money and keep growing its service.
-    twitter_card:
-      url: https://www.pcworld.idg.com.au/article/430319/pursuit_business_plan_twitter_riles_developers/
-    favicon: https://www.idgcdn.com.au/compressor-staticfiles/consumer/images/pcw/favicon.ico?release=20200730161603
+refs: '[{"text"=>"banned a user for openly criticizing NBC''s coverage", "original"=>"http://www.cnn.com/2012/07/31/tech/social-media/nbc-critic-twitter-reinstated/index.html",
+  "meta"=>{"title"=>"NBC critic''s Twitter account reinstated - CNN", "open_graph"=>{"url"=>"https://www.cnn.com/2012/07/31/tech/social-media/nbc-critic-twitter-reinstated/index.html",
+  "description"=>"Guy Adams, the Los Angeles-based journalist whose Twitter account
+  was suspended after blasting NBC over its Olympics coverage, is tweeting again after
+  being reinstated on the site.", "site_name"=>"CNN", "type"=>"article", "images"=>[{"url"=>"https://cdn.cnn.com/cnnnext/dam/assets/120731070835-nbc-critic-twitter-story-top.jpg",
+  "width"=>460, "height"=>259}]}, "description"=>"Guy Adams, the Los Angeles-based
+  journalist whose Twitter account was suspended after blasting NBC over its Olympics
+  coverage, is tweeting again after being reinstated on the site.", "twitter_card"=>{"description"=>"Guy
+  Adams, the Los Angeles-based journalist whose Twitter account was suspended after
+  blasting NBC over its Olympics coverage, is tweeting again after being reinstated
+  on the site.", "card"=>"summary_large_image", "images"=>[{"url"=>"https://cdn.cnn.com/cnnnext/dam/assets/120731070835-nbc-critic-twitter-story-top.jpg"}]},
+  "keywords"=>["tech", "NBC critic''s Twitter account reinstated - CNN"], "favicon"=>"http://www.cnn.com/favicon.ico"}},
+  {"text"=>"it was closing its API", "original"=>"http://www.pcworld.idg.com.au/article/430319/pursuit_business_plan_twitter_riles_developers/",
+  "meta"=>{"description"=>"Analysts say Twitter''s API clampdown is part of a plan
+  to generate more revenue through ads", "keywords"=>["Research Good Gear Guide to
+  find the latest independent product news and reviews. Download our buying and shopping
+  guides to make sure you''re getting a good deal today and everyday."], "title"=>"In
+  pursuit of business plan, Twitter riles developers - PC World Australia", "open_graph"=>{"site_name"=>"PC
+  World", "title"=>"In pursuit of business plan, Twitter riles developers", "type"=>"article",
+  "images"=>[{"url"=>"https://www.idgcdn.com.au/dimg/600x600//idg_sites/logos/pcw_1.png"}],
+  "url"=>"https://www.pcworld.idg.com.au/article/430319/pursuit_business_plan_twitter_riles_developers/",
+  "description"=>"The changes Twitter is making to its API policies triggered a wave
+  of protest among its developers, but they might be necessary for the strategy Twitter
+  has laid out for itself to make money and keep growing its service."}, "twitter_card"=>{"url"=>"https://www.pcworld.idg.com.au/article/430319/pursuit_business_plan_twitter_riles_developers/"},
+  "favicon"=>"https://www.idgcdn.com.au/compressor-staticfiles/consumer/images/pcw/favicon.ico?release=20200730161603"}}]'
 sources: 
 published: true
 img: 

@@ -1,18 +1,14 @@
 ---
 id: 15
 title: Let It Die
+subtitle: 
 date: '2009-03-15T04:00:00.000Z'
-publication:
-  id: 3
-  title: Arthur
-  slug: arthur
-  created_at: '2020-08-03T15:07:46.000Z'
-  updated_at: '2020-08-03T15:07:46.000Z'
+publication: Arthur
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: https://i1.wp.com/www.arthurmag.com/magpie/wp-content/uploads/2009/03/wallstreaper.jpg
 slug: 0015-let-it-die
 created_at: '2020-08-02T00:43:52.000Z'

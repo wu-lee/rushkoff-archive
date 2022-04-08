@@ -1,17 +1,13 @@
 ---
 id: 957
 title: The Facial
+subtitle: 
 date: '2009-04-12T04:00:00.000Z'
-publication:
-  id: 43
-  title: Uncategorized
-  slug: uncategorized
-  created_at: '2020-08-03T15:17:32.000Z'
-  updated_at: '2020-08-03T15:17:32.000Z'
+publication: Uncategorized
 blurb: 'I''m not talking about the latest place in Soho to get mud pack treatments,
   but a new preferred climax strategy for young men raised on porn videos. That''s
   right: coitus interuptus, once considered a particularly frustrating form of birth
-  control, has been popularized by the "pull out cum shot" into an erotic thrill.'
+  control, has been popularized by the \"pull out cum shot\" into an erotic thrill.'
 notes: 
 refs: 
 sources: 
@@ -35,7 +31,7 @@ So what's going on here? Life imitating art, sex imitating media, or fetish imit
 
 So far, so good--from a non-judgmental standpoint, anyway. There's no harm in extra-coital orgasms, and perhaps even a bit of extra safety in this viral age. But what would it mean to have an entire generation of young men who prefer the demonstrative squirt to the intimate throb? It adds a whole new set of parameters to the already long list of sexual performance metrics: range, accuracy, trajectory...
 
-There may be even more psychologically powerful undercurrents at work, here, as well. Dr. Holland believes the symbolic degradation inherent to the facial may well be behind its growing popularity. "The whole idea is very ego-syntonic \[in agreement\] with the idea that sex is dirty. That you shouldn't be watching a video and masturbating."
+There may be even more psychologically powerful undercurrents at work, here, as well. Dr. Holland believes the symbolic degradation inherent to the facial may well be behind its growing popularity. "The whole idea is very ego-syntonic \\[in agreement\\] with the idea that sex is dirty. That you shouldn't be watching a video and masturbating."
 
 I can't help but think the trend is also fueled, at least in part, by our increasingly confused relationship with technology and media. We live in a world where the measure of a man's tongue is its ability to imitate the frequency of a battery-operated vibrator. Likewise, as we grow increasingly dependent on video and computer simulations for the imagery in our fantasy lives, we may begin to aspire towards that which the machine can recreate, rather than that we can create ourselves.
 

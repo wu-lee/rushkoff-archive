@@ -1,43 +1,24 @@
 ---
 id: 933
 title: 'Autonomous Zone: The Work-as-Art of Yury Gitman'
+subtitle: 
 date: '2004-08-11T04:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: How mobile gaming energizes the spirit -- and technology -- of the networked
   society.
 notes: 
-refs:
-- text: Magicbike
-  original: http://www.magicbike.net/about.html
-  archive: http://web.archive.org/web/20200117045335/http://www.magicbike.net:80/about.html
-  meta:
-    title: About
-    description: Hi and welcome to MagicBike! This is our about page and here we will
-      try and explain who we are and why we are running this blog and guide about
-      motorcycles,
-    favicon: https://mljqdr025xym.i.optimole.com/8zjfiuY-QQjEV42_/w:192/h:192/q:90/https://www.magicbike.net/wp-content/uploads/2020/05/cropped-magicbike-logo-non-transparent.png
-- text: NYCWireless,
-  original: http://www.nycwireless.net/
-  archive: http://web.archive.org/web/20180926214246/https://nycwireless.net/
-  meta:
-    title: 'Error: Domain mapping upgrade for this domain not found'
-    favicon: http://www.nycwireless.net/favicon.ico
-- text: Carlos J. Gomez de Llarena
-  original: http://www.med44.com/resume.html
-  meta:
-    title: 'med44 : work'
-    favicon: http://www.med44.com/favicon.ico
-- text: Noderunner
-  original: http://www.uncommonprojects.com/noderunner/
-  archive: http://web.archive.org/web/20041204154243/http://www.uncommonprojects.com:80/noderunner/
-- text: Huizinga's
-  original: http://humlink.humanities.mcmaster.ca/%7Edidemusm/play/essay.html
-  archive: http://web.archive.org/web/20050406204634/http://humlink.humanities.mcmaster.ca:80/~didemusm/play/essay.html
+refs: '[{"text"=>"Magicbike", "original"=>"http://www.magicbike.net/about.html", "archive"=>"http://web.archive.org/web/20200117045335/http://www.magicbike.net:80/about.html",
+  "meta"=>{"title"=>"About", "description"=>"Hi and welcome to MagicBike! This is
+  our about page and here we will try and explain who we are and why we are running
+  this blog and guide about motorcycles,", "favicon"=>"https://mljqdr025xym.i.optimole.com/8zjfiuY-QQjEV42_/w:192/h:192/q:90/https://www.magicbike.net/wp-content/uploads/2020/05/cropped-magicbike-logo-non-transparent.png"}},
+  {"text"=>"NYCWireless,", "original"=>"http://www.nycwireless.net/", "archive"=>"http://web.archive.org/web/20180926214246/https://nycwireless.net/",
+  "meta"=>{"title"=>"Error: Domain mapping upgrade for this domain not found", "favicon"=>"http://www.nycwireless.net/favicon.ico"}},
+  {"text"=>"Carlos J. Gomez de Llarena", "original"=>"http://www.med44.com/resume.html",
+  "meta"=>{"title"=>"med44 : work", "favicon"=>"http://www.med44.com/favicon.ico"}},
+  {"text"=>"Noderunner", "original"=>"http://www.uncommonprojects.com/noderunner/",
+  "archive"=>"http://web.archive.org/web/20041204154243/http://www.uncommonprojects.com:80/noderunner/"},
+  {"text"=>"Huizinga''s", "original"=>"http://humlink.humanities.mcmaster.ca/%7Edidemusm/play/essay.html",
+  "archive"=>"http://web.archive.org/web/20050406204634/http://humlink.humanities.mcmaster.ca:80/~didemusm/play/essay.html"}]'
 sources: 
 published: true
 img: 

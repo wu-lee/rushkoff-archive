@@ -1,18 +1,14 @@
 ---
 id: 1022
 title: 'Teachers vs. machines: computers in the classroom'
+subtitle: 
 date: '1997-04-11T04:00:00.000Z'
-publication:
-  id: 44
-  title: Washington Times
-  slug: washington-times
-  created_at: '2020-08-03T15:26:00.000Z'
-  updated_at: '2020-08-03T15:26:00.000Z'
+publication: Washington Times
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1022-teachers-vs-machines-computers-in-the-cl
 created_at: '2020-08-02T06:39:33.000Z'

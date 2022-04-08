@@ -1,18 +1,14 @@
 ---
 id: 759
 title: Why Marketing Threatens the True Promise of Social Media
+subtitle: 
 date: '2011-01-06T12:12:36.000Z'
-publication:
-  id: 22
-  title: Mashable
-  slug: mashable
-  created_at: '2020-08-03T15:13:26.000Z'
-  updated_at: '2020-08-03T15:13:26.000Z'
-blurb: ''
+publication: Mashable
+blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: https://mondrian.mashable.com/2012%252F12%252F04%252Fb1%252Fwhymarketin.chr.jpg%252F950x534__filters%253Aquality%252880%2529.jpg
 slug: '0759-why-marketing-threatens-the-true-promise'
 created_at: '2020-08-02T00:44:11.000Z'

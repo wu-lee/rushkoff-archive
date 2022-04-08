@@ -1,19 +1,15 @@
 ---
 id: 1007
 title: We've Spent The Last Decade Letting Our Tech Define Us. It's Out Of Control.
+subtitle: 
 date: '2019-12-29T05:00:00.000Z'
-publication:
-  id: 16
-  title: The Guardian
-  slug: guardian
-  created_at: '2020-08-03T15:11:14.000Z'
-  updated_at: '2020-08-03T15:11:20.000Z'
+publication: The Guardian
 blurb: Technology has grown from some devices and platforms we use to an entire environment
   in which we function
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1007-weve-spent-the-last-decade-letting-our-t
 created_at: '2020-08-02T05:07:09.000Z'

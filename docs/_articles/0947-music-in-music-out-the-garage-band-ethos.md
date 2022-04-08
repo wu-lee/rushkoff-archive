@@ -1,99 +1,63 @@
 ---
 id: 947
 title: 'Music In, Music Out: The Garage Band Ethos in a Cellular World'
+subtitle: 
 date: '2005-01-26T05:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: The future of mobile music lies in creating tunes, not just downloading them.
 notes: 
-refs:
-- text: integrating their technology into mobile handsets
-  original: http://www.gizmodo.com/gadgets/portable-media/xm-aims-for-cell-phones-eventually-026697.php
-  meta:
-    title: XM Aims for Cell Phones (Eventually)
-    keywords:
-    - Gizmodo
-    twitter_card:
-      url: https://gizmodo.com/xm-aims-for-cell-phones-eventually-26697
-      card: summary_large_image
-      site: gizmodo
-      title: XM Aims for Cell Phones (Eventually)
-      description: |2-
-
-
-        I doubt that anyone will be surprised at this point by declarations from content companies that they'd like to see their products inside of cellphones, but until they actually get around to it, it's worth noting it when they do. XM Satellite Radio's CEO Hugh Panero is quoted in this Reuters article as expecting to see XM service in cellphones and mobile devices within the mythical 'next five years.' Beyond that bit, there's not a lot you'll not have heard before, as XM continues to push its XM2Go mobile player, which is just hitting stores this week. I hadn't see a picture of one in context yet. That thing looks sort of huge.
-      images:
-      - url: https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/Image_Not_Found_1x_qjofp8.png
-    description: |2-
-
-
-      I doubt that anyone will be surprised at this point by declarations from content companies that they'd like to see their products inside of cellphones, but until they actually get around to it, it's worth noting it when they do. XM Satellite Radio's CEO Hugh Panero is quoted in this Reuters article as expecting to see XM service in cellphones and mobile devices within the mythical 'next five years.' Beyond that bit, there's not a lot you'll not have heard before, as XM continues to push its XM2Go mobile player, which is just hitting stores this week. I hadn't see a picture of one in context yet. That thing looks sort of huge.
-    open_graph:
-      title: XM Aims for Cell Phones (Eventually)
-      type: article
-      url: https://gizmodo.com/xm-aims-for-cell-phones-eventually-26697
-      description: |2-
-
-
-        I doubt that anyone will be surprised at this point by declarations from content companies that they'd like to see their products inside of cellphones, but until they actually get around to it, it's worth noting it when they do. XM Satellite Radio's CEO Hugh Panero is quoted in this Reuters article as expecting to see XM service in cellphones and mobile devices within the mythical 'next five years.' Beyond that bit, there's not a lot you'll not have heard before, as XM continues to push its XM2Go mobile player, which is just hitting stores this week. I hadn't see a picture of one in context yet. That thing looks sort of huge.
-      locale: en_US
-      site_name: Gizmodo
-      images:
-      - url: https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/Image_Not_Found_1x_qjofp8.png
-    favicon: https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/fdj3buryz5nuzyf2k620.png
-- text: inking a few deals with the likes of the iTunes Music Store
-  original: http://www.thefeature.com/article?articleid=100921
-  archive: http://web.archive.org/web/20050313094235/http://www.thefeature.com:80/article?articleid=100921
-  meta:
-    title: 'ページが見つかりませんでした  '
-    keywords:
-    - ''
-    favicon: http://www.thefeature.com/favicon.ico
-- text: tracking ringtone sales each week
-  original: http://www.billboard.com/bb/daily/article_display.jsp?vnu_content_id=1000684908
-  meta:
-    title: 404 Not Found
-    favicon: http://www.billboard.com/favicon.ico
-- text: Ringtone Composer
-  original: http://www.ringtone-composer.com/
-  archive: http://web.archive.org/web/20190117221203/https://ringtone-composer.com/
-- text: Garageband
-  original: http://www.apple.com/ilife/garageband/
-  archive: http://web.archive.org/web/20131016010047/http://www.apple.com/ilife/garageband/
-  meta:
-    title: GarageBand for Mac - Apple
-    open_graph:
-      images:
-      - url: https://www.apple.com/v/mac/garageband/k/images/garageband/meta/og__f8l55cq8uxui.png?202001221015
-      title: GarageBand for Mac
-      description: GarageBand for Mac has everything you need to learn, play, record,
-        mix, and share incredible music, even if you’ve never played a note.
-      url: https://www.apple.com/mac/garageband/
-      locale: en_US
-      site_name: Apple
-      type: website
-    twitter_card:
-      site: "@Apple"
-      card: summary_large_image
-    favicon: http://www.apple.com/favicon.ico
-- text: Polyringtone Converter
-  original: http://www.apple.com/downloads/macosx/audio/polyringtoneconverter.html
-  archive: http://web.archive.org/web/20060109221110/http://www.apple.com:80/downloads/macosx/audio/polyringtoneconverter.html
-  meta:
-    title: Apple - Support - Downloads
-    favicon: http://www.apple.com/favicon.ico
-- text: Xingtone
-  original: http://xingtone.com/
-  archive: http://web.archive.org/web/20200114172758/http://www.xingtone.com:80/
-- text: Quick Ringtone
-  original: http://www.handyarchive.com/Audio/Utilities-Plugins/7407-Quick-Ringtone.html
-  meta:
-    title: 404 Not found!
-    favicon: http://www.handyarchive.com/favicon.ico
+refs: '[{"text"=>"integrating their technology into mobile handsets", "original"=>"http://www.gizmodo.com/gadgets/portable-media/xm-aims-for-cell-phones-eventually-026697.php",
+  "meta"=>{"title"=>"XM Aims for Cell Phones (Eventually)", "keywords"=>["Gizmodo"],
+  "twitter_card"=>{"url"=>"https://gizmodo.com/xm-aims-for-cell-phones-eventually-26697",
+  "card"=>"summary_large_image", "site"=>"gizmodo", "title"=>"XM Aims for Cell Phones
+  (Eventually)", "description"=>"\n\nI doubt that anyone will be surprised at this
+  point by declarations from content companies that they''d like to see their products
+  inside of cellphones, but until they actually get around to it, it''s worth noting
+  it when they do. XM Satellite Radio''s CEO Hugh Panero is quoted in this Reuters
+  article as expecting to see XM service in cellphones and mobile devices within the
+  mythical ''next five years.'' Beyond that bit, there''s not a lot you''ll not have
+  heard before, as XM continues to push its XM2Go mobile player, which is just hitting
+  stores this week. I hadn''t see a picture of one in context yet. That thing looks
+  sort of huge.", "images"=>[{"url"=>"https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/Image_Not_Found_1x_qjofp8.png"}]},
+  "description"=>"\n\nI doubt that anyone will be surprised at this point by declarations
+  from content companies that they''d like to see their products inside of cellphones,
+  but until they actually get around to it, it''s worth noting it when they do. XM
+  Satellite Radio''s CEO Hugh Panero is quoted in this Reuters article as expecting
+  to see XM service in cellphones and mobile devices within the mythical ''next five
+  years.'' Beyond that bit, there''s not a lot you''ll not have heard before, as XM
+  continues to push its XM2Go mobile player, which is just hitting stores this week.
+  I hadn''t see a picture of one in context yet. That thing looks sort of huge.",
+  "open_graph"=>{"title"=>"XM Aims for Cell Phones (Eventually)", "type"=>"article",
+  "url"=>"https://gizmodo.com/xm-aims-for-cell-phones-eventually-26697", "description"=>"\n\nI
+  doubt that anyone will be surprised at this point by declarations from content companies
+  that they''d like to see their products inside of cellphones, but until they actually
+  get around to it, it''s worth noting it when they do. XM Satellite Radio''s CEO
+  Hugh Panero is quoted in this Reuters article as expecting to see XM service in
+  cellphones and mobile devices within the mythical ''next five years.'' Beyond that
+  bit, there''s not a lot you''ll not have heard before, as XM continues to push its
+  XM2Go mobile player, which is just hitting stores this week. I hadn''t see a picture
+  of one in context yet. That thing looks sort of huge.", "locale"=>"en_US", "site_name"=>"Gizmodo",
+  "images"=>[{"url"=>"https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/Image_Not_Found_1x_qjofp8.png"}]},
+  "favicon"=>"https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_80,q_80,w_80/fdj3buryz5nuzyf2k620.png"}},
+  {"text"=>"inking a few deals with the likes of the iTunes Music Store", "original"=>"http://www.thefeature.com/article?articleid=100921",
+  "archive"=>"http://web.archive.org/web/20050313094235/http://www.thefeature.com:80/article?articleid=100921",
+  "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}},
+  {"text"=>"tracking ringtone sales each week", "original"=>"http://www.billboard.com/bb/daily/article_display.jsp?vnu_content_id=1000684908",
+  "meta"=>{"title"=>"404 Not Found", "favicon"=>"http://www.billboard.com/favicon.ico"}},
+  {"text"=>"Ringtone Composer", "original"=>"http://www.ringtone-composer.com/", "archive"=>"http://web.archive.org/web/20190117221203/https://ringtone-composer.com/"},
+  {"text"=>"Garageband", "original"=>"http://www.apple.com/ilife/garageband/", "archive"=>"http://web.archive.org/web/20131016010047/http://www.apple.com/ilife/garageband/",
+  "meta"=>{"title"=>"GarageBand for Mac - Apple", "open_graph"=>{"images"=>[{"url"=>"https://www.apple.com/v/mac/garageband/k/images/garageband/meta/og__f8l55cq8uxui.png?202001221015"}],
+  "title"=>"GarageBand for Mac", "description"=>"GarageBand for Mac has everything
+  you need to learn, play, record, mix, and share incredible music, even if you’ve
+  never played a note.", "url"=>"https://www.apple.com/mac/garageband/", "locale"=>"en_US",
+  "site_name"=>"Apple", "type"=>"website"}, "twitter_card"=>{"site"=>"@Apple", "card"=>"summary_large_image"},
+  "favicon"=>"http://www.apple.com/favicon.ico"}}, {"text"=>"Polyringtone Converter",
+  "original"=>"http://www.apple.com/downloads/macosx/audio/polyringtoneconverter.html",
+  "archive"=>"http://web.archive.org/web/20060109221110/http://www.apple.com:80/downloads/macosx/audio/polyringtoneconverter.html",
+  "meta"=>{"title"=>"Apple - Support - Downloads", "favicon"=>"http://www.apple.com/favicon.ico"}},
+  {"text"=>"Xingtone", "original"=>"http://xingtone.com/", "archive"=>"http://web.archive.org/web/20200114172758/http://www.xingtone.com:80/"},
+  {"text"=>"Quick Ringtone", "original"=>"http://www.handyarchive.com/Audio/Utilities-Plugins/7407-Quick-Ringtone.html",
+  "meta"=>{"title"=>"404 Not found!", "favicon"=>"http://www.handyarchive.com/favicon.ico"}}]'
 sources: 
 published: true
 img: 

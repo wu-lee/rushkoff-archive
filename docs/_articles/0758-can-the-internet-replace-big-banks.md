@@ -1,18 +1,14 @@
 ---
 id: 758
 title: Can the Internet Replace Big Banks?
+subtitle: 
 date: '2013-03-24T22:12:22.000Z'
-publication:
-  id: 22
-  title: Mashable
-  slug: mashable
-  created_at: '2020-08-03T15:13:26.000Z'
-  updated_at: '2020-08-03T15:13:26.000Z'
-blurb: ''
+publication: Mashable
+blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: https://mondrian.mashable.com/2013%252F03%252F24%252F69%252FBigBank.83567.jpg%252F950x534__filters%253Aquality%252880%2529.jpg
 slug: '0758-can-the-internet-replace-big-banks'
 created_at: '2020-08-02T00:44:11.000Z'

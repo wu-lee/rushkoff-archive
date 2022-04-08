@@ -1,13 +1,9 @@
 ---
 id: 950
 title: Playing With Fractals
+subtitle: 
 date: '2002-01-01T05:00:00.000Z'
-publication:
-  id: 2
-  title: Anthologies
-  slug: anthology
-  created_at: '2020-08-03T15:07:29.000Z'
-  updated_at: '2020-08-03T15:07:37.000Z'
+publication: Anthologies
 blurb: Published in *Sarah Sze*, By Sarah Sze (Center for Curatorial Studies/Bard
   College, 2002)
 notes: 

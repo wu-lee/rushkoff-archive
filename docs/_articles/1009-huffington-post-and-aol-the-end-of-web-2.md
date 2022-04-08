@@ -1,19 +1,15 @@
 ---
 id: 1009
 title: 'Huffington Post and AOL: The End of Web 2.0'
+subtitle: 
 date: '2011-02-09T05:00:00.000Z'
-publication:
-  id: 16
-  title: The Guardian
-  slug: guardian
-  created_at: '2020-08-03T15:11:14.000Z'
-  updated_at: '2020-08-03T15:11:20.000Z'
+publication: The Guardian
 blurb: 'HuffPo''s sale to AOL does not mean its demise, but it is the demise of something:
   we''d write for free for Arianna, but not AOL'
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1009-huffington-post-and-aol-the-end-of-web-2
 created_at: '2020-08-02T05:12:43.000Z'

@@ -1,79 +1,40 @@
 ---
 id: 768
 title: The Evolution Will Be Socialized
+subtitle: 
 date: '2011-02-07T05:00:00.000Z'
-publication:
-  id: 36
-  title: Shareable
-  slug: shareable
-  created_at: '2020-08-03T15:16:22.000Z'
-  updated_at: '2020-08-03T15:16:22.000Z'
-blurb: ''
+publication: Shareable
+blurb: 
 notes: 
-refs:
-- text: same thing in the US
-  original: http://www.fastcompany.com/1721753/egypt-internet-kill-switch
-  meta:
-    title: Could Egypt Happen Here? Obama’s Internet “Kill Switch”
-    description: 'Egypt pulled the plug on the Internet. A Senate bill would give
-      Obama the power to do the same–or something like it.
-
-      '
-    open_graph:
-      type: article
-      title: Could Egypt Happen Here? Obama’s Internet “Kill Switch”
-      url: https://www.fastcompany.com/1721753/could-egypt-happen-here-obamas-internet-kill-switch
-      locale: en_US
-      description: 'Egypt pulled the plug on the Internet. A Senate bill would give
-        Obama the power to do the same–or something like it.
-
-        '
-      images:
-      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/fc/1721753-could-egypt-happen-here-obamas-internet-kill-switch-rotator.jpg
-        width: 1280
-        height: 720
-      site_name: Fast Company
-    twitter_card:
-      card: summary_large_image
-      title: Could Egypt Happen Here? Obama’s Internet “Kill Switch”
-      description: 'Egypt pulled the plug on the Internet. A Senate bill would give
-        Obama the power to do the same–or something like it.
-
-        '
-      url: https://www.fastcompany.com/1721753/could-egypt-happen-here-obamas-internet-kill-switch
-      site: "@fastcompany"
-      images:
-      - url: https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/fc/1721753-could-egypt-happen-here-obamas-internet-kill-switch-rotator.jpg
-    favicon: http://www.fastcompany.com/favicon.ico?v=5
-- text: sponsored stories
-  original: http://mashable.com/2011/01/26/facebook-sponsored-stories-2/
-- text: Shareable
-  original: http://shareable.net/blog/the-next-net
-- text: OpEd for CNN.com
-  original: http://www.cnn.com/2011/OPINION/02/05/rushkoff.egypt.internet/index.html
-  meta:
-    title: Internet is easy prey for governments - CNN.com
-    open_graph:
-      title: Internet is easy prey for governments
-      type: article
-    description: For all that the revolution in Egypt tells us about the power of
-      networked media to promote bottom-up change, it even more starkly reveals the
-      limits of our internet tools and the ease with which those holding power can
-      take them away.
-    favicon: http://www.cnn.com/favicon.ico
-- text: P2P Foundation
-  original: http://p2pfoundation.net/
-- text: Forward Foundation
-  original: http://forwardfoundation.org/
-  archive: http://web.archive.org/web/20181120030405/http://www.forwardfoundation.org/
-- text: Wikimedia Commons
-  original: http://commons.wikimedia.org/wiki/File:Akihabara_Station_square.jpg
-  archive: http://web.archive.org/web/20170318083854/https://commons.wikimedia.org/wiki/File:Akihabara_Station_square.jpg
-- text: http://contactcon.com/contact/
-  original: http://contactcon.com/contact/
-  archive: http://web.archive.org/web/20110213034426/http://contactcon.com:80/contact/
+refs: '[{"text"=>"same thing in the US", "original"=>"http://www.fastcompany.com/1721753/egypt-internet-kill-switch",
+  "meta"=>{"title"=>"Could Egypt Happen Here? Obama’s Internet “Kill Switch”", "description"=>"Egypt
+  pulled the plug on the Internet. A Senate bill would give Obama the power to do
+  the same–or something like it.\n", "open_graph"=>{"type"=>"article", "title"=>"Could
+  Egypt Happen Here? Obama’s Internet “Kill Switch”", "url"=>"https://www.fastcompany.com/1721753/could-egypt-happen-here-obamas-internet-kill-switch",
+  "locale"=>"en_US", "description"=>"Egypt pulled the plug on the Internet. A Senate
+  bill would give Obama the power to do the same–or something like it.\n", "images"=>[{"url"=>"https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/fc/1721753-could-egypt-happen-here-obamas-internet-kill-switch-rotator.jpg",
+  "width"=>1280, "height"=>720}], "site_name"=>"Fast Company"}, "twitter_card"=>{"card"=>"summary_large_image",
+  "title"=>"Could Egypt Happen Here? Obama’s Internet “Kill Switch”", "description"=>"Egypt
+  pulled the plug on the Internet. A Senate bill would give Obama the power to do
+  the same–or something like it.\n", "url"=>"https://www.fastcompany.com/1721753/could-egypt-happen-here-obamas-internet-kill-switch",
+  "site"=>"@fastcompany", "images"=>[{"url"=>"https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/fc/1721753-could-egypt-happen-here-obamas-internet-kill-switch-rotator.jpg"}]},
+  "favicon"=>"http://www.fastcompany.com/favicon.ico?v=5"}}, {"text"=>"sponsored stories",
+  "original"=>"http://mashable.com/2011/01/26/facebook-sponsored-stories-2/"}, {"text"=>"Shareable",
+  "original"=>"http://shareable.net/blog/the-next-net"}, {"text"=>"OpEd for CNN.com",
+  "original"=>"http://www.cnn.com/2011/OPINION/02/05/rushkoff.egypt.internet/index.html",
+  "meta"=>{"title"=>"Internet is easy prey for governments - CNN.com", "open_graph"=>{"title"=>"Internet
+  is easy prey for governments", "type"=>"article"}, "description"=>"For all that
+  the revolution in Egypt tells us about the power of networked media to promote bottom-up
+  change, it even more starkly reveals the limits of our internet tools and the ease
+  with which those holding power can take them away.", "favicon"=>"http://www.cnn.com/favicon.ico"}},
+  {"text"=>"P2P Foundation", "original"=>"http://p2pfoundation.net/"}, {"text"=>"Forward
+  Foundation", "original"=>"http://forwardfoundation.org/", "archive"=>"http://web.archive.org/web/20181120030405/http://www.forwardfoundation.org/"},
+  {"text"=>"Wikimedia Commons", "original"=>"http://commons.wikimedia.org/wiki/File:Akihabara_Station_square.jpg",
+  "archive"=>"http://web.archive.org/web/20170318083854/https://commons.wikimedia.org/wiki/File:Akihabara_Station_square.jpg"},
+  {"text"=>"http://contactcon.com/contact/", "original"=>"http://contactcon.com/contact/",
+  "archive"=>"http://web.archive.org/web/20110213034426/http://contactcon.com:80/contact/"}]'
 sources: 
-published: 
+published: false
 img: 
 slug: '0768-the-evolution-will-be-socialized'
 created_at: '2020-08-02T00:44:12.000Z'

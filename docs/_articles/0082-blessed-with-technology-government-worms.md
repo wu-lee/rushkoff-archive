@@ -1,50 +1,29 @@
 ---
 id: 82
 title: 'Blessed With Technology: Government Worms'
+subtitle: 
 date: '2012-06-19T04:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
-refs:
-- text: Flame virus
-  original: http://money.cnn.com/2012/05/30/technology/flame-virus/index.htm
-- text: according to an article
-  original: http://www.nytimes.com/2012/06/01/world/middleeast/obama-ordered-wave-of-cyberattacks-against-iran.html?pagewanted=all
-  meta:
-    title: Obama Ordered Wave of Cyberattacks Against Iran - The New York Times
-    description: Even after the Stuxnet computer worm became public, President Obama
-      accelerated cyberattacks against Iran that had begun in the Bush administration,
-      temporarily disabling 1,000 centrifuges.
-    open_graph:
-      url: https://www.nytimes.com/2012/06/01/world/middleeast/obama-ordered-wave-of-cyberattacks-against-iran.html
-      type: article
-      title: Obama Order Sped Up Wave of Cyberattacks Against Iran
-      images:
-      - url: https://static01.nyt.com/images/2012/06/01/world/jp-cyber1/jp-cyber1-articleLarge.jpg
-      description: Even after the Stuxnet computer worm became public, President Obama
-        accelerated cyberattacks against Iran that had begun in the Bush administration,
-        temporarily disabling 1,000 centrifuges.
-    twitter_card:
-      url: https://www.nytimes.com/2012/06/01/world/middleeast/obama-ordered-wave-of-cyberattacks-against-iran.html
-      title: Obama Order Sped Up Wave of Cyberattacks Against Iran
-      description: Even after the Stuxnet computer worm became public, President Obama
-        accelerated cyberattacks against Iran that had begun in the Bush administration,
-        temporarily disabling 1,000 centrifuges.
-      images:
-      - url: https://static01.nyt.com/images/2012/06/01/world/jp-cyber1/jp-cyber1-articleLarge.jpg
-        alt: Iran’s nuclear enrichment facility at Natanz.
-      card: summary_large_image
-      apps:
-        googleplay:
-          name: NYTimes
-          id: com.nytimes.android
-          url: nyt://article/d87a4eed-0070-5824-8e05-daf17a16d437
-    favicon: http://www.nytimes.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico
+refs: '[{"text"=>"Flame virus", "original"=>"http://money.cnn.com/2012/05/30/technology/flame-virus/index.htm"},
+  {"text"=>"according to an article", "original"=>"http://www.nytimes.com/2012/06/01/world/middleeast/obama-ordered-wave-of-cyberattacks-against-iran.html?pagewanted=all",
+  "meta"=>{"title"=>"Obama Ordered Wave of Cyberattacks Against Iran - The New York
+  Times", "description"=>"Even after the Stuxnet computer worm became public, President
+  Obama accelerated cyberattacks against Iran that had begun in the Bush administration,
+  temporarily disabling 1,000 centrifuges.", "open_graph"=>{"url"=>"https://www.nytimes.com/2012/06/01/world/middleeast/obama-ordered-wave-of-cyberattacks-against-iran.html",
+  "type"=>"article", "title"=>"Obama Order Sped Up Wave of Cyberattacks Against Iran",
+  "images"=>[{"url"=>"https://static01.nyt.com/images/2012/06/01/world/jp-cyber1/jp-cyber1-articleLarge.jpg"}],
+  "description"=>"Even after the Stuxnet computer worm became public, President Obama
+  accelerated cyberattacks against Iran that had begun in the Bush administration,
+  temporarily disabling 1,000 centrifuges."}, "twitter_card"=>{"url"=>"https://www.nytimes.com/2012/06/01/world/middleeast/obama-ordered-wave-of-cyberattacks-against-iran.html",
+  "title"=>"Obama Order Sped Up Wave of Cyberattacks Against Iran", "description"=>"Even
+  after the Stuxnet computer worm became public, President Obama accelerated cyberattacks
+  against Iran that had begun in the Bush administration, temporarily disabling 1,000
+  centrifuges.", "images"=>[{"url"=>"https://static01.nyt.com/images/2012/06/01/world/jp-cyber1/jp-cyber1-articleLarge.jpg",
+  "alt"=>"Iran’s nuclear enrichment facility at Natanz."}], "card"=>"summary_large_image",
+  "apps"=>{"googleplay"=>{"name"=>"NYTimes", "id"=>"com.nytimes.android", "url"=>"nyt://article/d87a4eed-0070-5824-8e05-daf17a16d437"}}},
+  "favicon"=>"http://www.nytimes.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico"}}]'
 sources: 
 published: true
 img: http://i2.cdn.turner.com/cnn/dam/assets/120530054205-black-russia-flame-malware-00013521-story-body.jpg

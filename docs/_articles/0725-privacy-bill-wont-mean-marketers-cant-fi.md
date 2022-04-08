@@ -1,28 +1,18 @@
 ---
 id: 725
 title: Privacy Bill Won't Mean Marketers Can't Find You
+subtitle: 
 date: '2011-04-14T04:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
-refs:
-- text: John Kerry and John McCain proposed this week
-  original: http://www.cnn.com/2011/TECH/web/04/13/privacy.bill.rights.internet/index.html?iref=allsearch
-  archive: http://web.archive.org/web/20170421120148/http://www.cnn.com/2011/TECH/web/04/13/privacy.bill.rights.internet/index.html?iref=allsearch
-  meta:
-    title: Privacy 'bill of rights' would regulate opt-in, opt-out - CNN.com
-    open_graph:
-      title: Privacy 'bill of rights' would regulate opt-in, opt-out
-      type: article
-    description: The federal government wants to get into the opt-in, opt-out business.
-    favicon: http://www.cnn.com/favicon.ico
-- text: Commercial Privacy Bill of Rights
-  original: http://kerry.senate.gov/imo/media/doc/Commercial%20Privacy%20Bill%20of%20Rights%20Text.pdf
+refs: '[{"text"=>"John Kerry and John McCain proposed this week", "original"=>"http://www.cnn.com/2011/TECH/web/04/13/privacy.bill.rights.internet/index.html?iref=allsearch",
+  "archive"=>"http://web.archive.org/web/20170421120148/http://www.cnn.com/2011/TECH/web/04/13/privacy.bill.rights.internet/index.html?iref=allsearch",
+  "meta"=>{"title"=>"Privacy ''bill of rights'' would regulate opt-in, opt-out - CNN.com",
+  "open_graph"=>{"title"=>"Privacy ''bill of rights'' would regulate opt-in, opt-out",
+  "type"=>"article"}, "description"=>"The federal government wants to get into the
+  opt-in, opt-out business.", "favicon"=>"http://www.cnn.com/favicon.ico"}}, {"text"=>"Commercial
+  Privacy Bill of Rights", "original"=>"http://kerry.senate.gov/imo/media/doc/Commercial%20Privacy%20Bill%20of%20Rights%20Text.pdf"}]'
 sources: 
 published: true
 img: 

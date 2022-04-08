@@ -1,13 +1,9 @@
 ---
 id: 938
 title: Don't Judge Judaism by the Numbers
+subtitle: 
 date: '2002-11-21T01:00:00.000Z'
-publication:
-  id: 26
-  title: New York Times
-  slug: new-york-times
-  created_at: '2020-08-03T15:14:10.000Z'
-  updated_at: '2020-08-03T15:14:10.000Z'
+publication: New York Times
 blurb: 
 notes: 
 refs: 

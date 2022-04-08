@@ -1,14 +1,10 @@
 ---
 id: 771
 title: Playing Undead
+subtitle: 
 date: '1995-04-01T05:00:00.000Z'
-publication:
-  id: 38
-  title: Swing
-  slug: swing
-  created_at: '2020-08-03T15:16:41.000Z'
-  updated_at: '2020-08-03T15:16:41.000Z'
-blurb: ''
+publication: Swing
+blurb: 
 notes: 
 refs: 
 sources: 
@@ -64,7 +60,7 @@ Holding and maintaining one's fictional character, intense energy, and air of in
 
 Suddenly, I'm accosted by giggling, chubby boy holding a Slinky. I offer a guarded "hello," (I'm still not sure if anyone here might really bite me) to which he responds by holding out a marble. I take his gift, and he runs off screaming.
 
-"Don't worry, he's just a Malkavian," says Laurenn Kennedy, an actress/performance artist who drops out of character long enough to explain some of the order beneath this apparent chaos. Everyone present is pretending to be a member of one of several vampire clans, who are all competing for some measure of control over the city of San Francisco. The many different clans of vampires give different personality types the opportunity to express themselves within the game. As Laurenn breaks it down, "Malkvanian's are exhibitionist, and want to be crazy in real life. People who play Tremere are spooky, and have a mystical spiritual bent. Nosferatus \[that guy with the ears\] tend to be ugly, or think they are. People who play Ventrue want to be military, mighty, powerful or yuppie. Toreadors want to be beautiful club people, and Brujahs just want to rebel." Each of these clans appears to be based on one of the vampire film traditions. Nosferatus are from the old silent horror movie, Tremere are Lugosi-style scientists, Toreadors are the guilt-stricken romantics of Ann Rice's Interview, and Brujahs are the punkish Lost Boys. Each clan of vampires appears to be fighting for the value of their own aesthetic.
+"Don't worry, he's just a Malkavian," says Laurenn Kennedy, an actress/performance artist who drops out of character long enough to explain some of the order beneath this apparent chaos. Everyone present is pretending to be a member of one of several vampire clans, who are all competing for some measure of control over the city of San Francisco. The many different clans of vampires give different personality types the opportunity to express themselves within the game. As Laurenn breaks it down, "Malkvanian's are exhibitionist, and want to be crazy in real life. People who play Tremere are spooky, and have a mystical spiritual bent. Nosferatus \\[that guy with the ears\\] tend to be ugly, or think they are. People who play Ventrue want to be military, mighty, powerful or yuppie. Toreadors want to be beautiful club people, and Brujahs just want to rebel." Each of these clans appears to be based on one of the vampire film traditions. Nosferatus are from the old silent horror movie, Tremere are Lugosi-style scientists, Toreadors are the guilt-stricken romantics of Ann Rice's Interview, and Brujahs are the punkish Lost Boys. Each clan of vampires appears to be fighting for the value of their own aesthetic.
 
 Except for the rare physical battle, which is usually arranged and choreographed ahead of time by the players and a storyteller, most of the action is conversational and totally spontaneous. Still, any argument can quickly escalate into an all-out group brawl, so it is not without trepidation that Vitosius, Prince of the entire Elysium and a member of the preppy Ventrue clan, approaches Lord Julius of the Tremeres to challenge the elder's irresponsible spawning of an unauthorized vampire. Everyone gathers around to watch the confrontation, and the tone gets decidedly more theatrical, with the angry pair playing performers to the crowd's enthralled audience.
 
@@ -78,7 +74,7 @@ The Prince, through a weak but cordial grin, expresses his "concern about the ne
 
 The Tremere's bodyguards salivate in anticipation of physical combat as the Prince manages a polite protest, "I cannot help but --"
 
-\--when suddenly the action stops. Two innocent bystanders approach from the periphery, very confused by the spectacle.
+\\--when suddenly the action stops. Two innocent bystanders approach from the periphery, very confused by the spectacle.
 
 One vampire drops character and whispers nervously to his fellows, "You know, from a distance this might look tremendously like a gang fight..."
 
@@ -112,7 +108,7 @@ Suddenly, there is a loud shriek. Laurenn, the actress, is chasing another femal
 
 A particularly calm vampire approaches the scene and pushes his arm out, as if in a Tai Chi movement, towards the conflict. Laurenn falls off her prey, screams, and then curls up into a wimpering ball.
 
-"Time out!" shouts a tall boy in a top hat, one of the storytellers. "What has happened here is that Sugar Finney \[the vampire played by Laurenn\] is now engulfed in large ball of flame. When it goes out, one of the gargoyles above turns into an angel, flies down and, before we can do anything, spirits the torpored Sugar Finney away. You may now act as is appropriate, the time stop is over." Laurenn runs out of the atrium. All resume their Goth-chatter.
+"Time out!" shouts a tall boy in a top hat, one of the storytellers. "What has happened here is that Sugar Finney \\[the vampire played by Laurenn\\] is now engulfed in large ball of flame. When it goes out, one of the gargoyles above turns into an angel, flies down and, before we can do anything, spirits the torpored Sugar Finney away. You may now act as is appropriate, the time stop is over." Laurenn runs out of the atrium. All resume their Goth-chatter.
 
 This battle, I learn later, was a choreographed fight between Sugar Finney and one of her enemies, who over the past several weeks, had been poisoning the "herd" of junkies on which Finney normally feeds. Crazed with hunger, she attacked the vampire, but met with her own demise or, in vampire-speak, the blood-drained state of "torpor." Now Laurenn has to make up another role if she wants to keep on playing.
 

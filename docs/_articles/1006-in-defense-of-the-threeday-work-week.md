@@ -1,18 +1,14 @@
 ---
 id: 1006
 title: In Defense Of The Three-Day Work Week
+subtitle: 
 date: '2015-06-30T04:00:00.000Z'
-publication:
-  id: 15
-  title: GOOD
-  slug: good
-  created_at: '2020-08-03T15:11:04.000Z'
-  updated_at: '2020-08-03T15:11:04.000Z'
+publication: GOOD
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1006-in-defense-of-the-threeday-work-week
 created_at: '2020-08-02T04:49:08.000Z'

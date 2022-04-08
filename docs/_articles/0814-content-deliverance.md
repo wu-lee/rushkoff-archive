@@ -1,38 +1,21 @@
 ---
 id: 814
 title: Content Deliverance
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: 'Content Management is for losers. Young people may have discovered the dark
   truth about digital media: the person who wins the right to store a piece of data
   has actually won the booby prize.'
 notes: 
-refs:
-- text: Mark Hurst
-  original: http://www.creativegood.com/
-  archive: http://web.archive.org/web/20200129193829/http://www.creativegood.com:80/
-  meta:
-    title: 'Creative Good: projects from Mark Hurst, since 1997'
-    favicon: http://www.creativegood.com/favicon.ico
-- text: blog
-  original: http://joi.ito.com/archives/2003/07/22/thoughts_on_microcontent_metadata_and_trends.html
-- text: Social Currency
-  original: http://www.thefeature.com/article?articleid=100068
-  archive: http://web.archive.org/web/20050524073641/http://www.thefeature.com:80/article?articleid=100068
-  meta:
-    title: 'ページが見つかりませんでした  '
-    keywords:
-    - ''
-    favicon: http://www.thefeature.com/favicon.ico
-- text: Interactive Telecommunications Program
-  original: http://itp.nyu.edu/
-- text: The Bass Station
-  original: http://stage.itp.nyu.edu/%7Eaw596/BassStation-final.pdf
+refs: '[{"text"=>"Mark Hurst", "original"=>"http://www.creativegood.com/", "archive"=>"http://web.archive.org/web/20200129193829/http://www.creativegood.com:80/",
+  "meta"=>{"title"=>"Creative Good: projects from Mark Hurst, since 1997", "favicon"=>"http://www.creativegood.com/favicon.ico"}},
+  {"text"=>"blog", "original"=>"http://joi.ito.com/archives/2003/07/22/thoughts_on_microcontent_metadata_and_trends.html"},
+  {"text"=>"Social Currency", "original"=>"http://www.thefeature.com/article?articleid=100068",
+  "archive"=>"http://web.archive.org/web/20050524073641/http://www.thefeature.com:80/article?articleid=100068",
+  "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}},
+  {"text"=>"Interactive Telecommunications Program", "original"=>"http://itp.nyu.edu/"},
+  {"text"=>"The Bass Station", "original"=>"http://stage.itp.nyu.edu/%7Eaw596/BassStation-final.pdf"}]'
 sources: 
 published: true
 img: 

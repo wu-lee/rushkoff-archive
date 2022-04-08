@@ -1,13 +1,9 @@
 ---
 id: 918
 title: To Life
+subtitle: 
 date: '2001-09-01T04:00:00.000Z'
-publication:
-  id: 28
-  title: The New York Times Syndicate/Guardian of London
-  slug: nyt-guardian
-  created_at: '2020-08-03T15:14:34.000Z'
-  updated_at: '2020-10-09T01:17:31.000Z'
+publication: The New York Times Syndicate/Guardian of London
 blurb: 10 Ways to Understand What Just Happened
 notes: 
 refs: 
@@ -27,7 +23,7 @@ But because I've received so many emails from younger readers, anxious to make s
 1) Everyone's reactions to tragedies like this are different. Some people feel excited, some feel angry, guilty, depressed, or even nothing. While most of our leaders and ministers want us to pull together and feel the same thing (vengeance, togetherness, righteousness, whatever) all our reactions will be different. Don't try to pathologize your reaction. These are emotions, and they're not logical. However you are reacting, as long as you aren't hurting anyone (sending fake emails, vandalizing mosques, beating up people) it's okay.
 
 2) What happened in New York on Tuesday was a big deal, but it wasn't actually all that new. The World Trade Center was bombed before, remember? This was a further attack, albeit a much more successful attack, but not the first one. I say this to give a little continuity. In a sense, we knew this was coming  
-\- we just didn't know when, or how bad it would be.
+\\- we just didn't know when, or how bad it would be.
 
 3) Whether it was Bin Laden or Saddam or almost any other terrorism-sanctioning leader who organized this, chances are the US at one time sponsored their activities. We did this because our foreign policy has been short-sighted and strategic rather than based in our stated ethics or ideals.
 

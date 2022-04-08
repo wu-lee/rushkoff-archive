@@ -1,44 +1,26 @@
 ---
 id: 935
 title: 'Breaking Up Is Hard to Do: How Market Segmentation Could Erode a Mobile Culture'
+subtitle: 
 date: '2004-12-08T05:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
-blurb: '"I know I''m wasting half my advertising dollars — I just don''t know which
-  half."'
+publication: Nokia's The Feature
+blurb: \"I know I'm wasting half my advertising dollars — I just don't know which
+  half.\"
 notes: 
-refs:
-- text: Acxiom
-  original: http://www.acxiom.com/
-  archive: http://web.archive.org/web/20200801063347/http://www.acxiom.com/
-  meta:
-    title: Data, Identity Solution & People-Based Marketing Solutions | Acxiom
-    description: Acxiom's data and technology transform marketing – giving our clients
-      the power to manage audiences, personalize customer experiences and create profitable
-      customer relationships.
-    open_graph:
-      locale: en_US
-      type: website
-      title: Data, Identity Solution & People-Based Marketing Solutions | Acxiom
-      description: Acxiom's data and technology transform marketing – giving our clients
-        the power to manage audiences, personalize customer experiences and create
-        profitable customer relationships.
-      url: https://www.acxiom.com/
-      site_name: Acxiom
-    twitter_card:
-      card: summary
-      description: Acxiom's data and technology transform marketing – giving our clients
-        the power to manage audiences, personalize customer experiences and create
-        profitable customer relationships.
-      title: Data, Identity Solution & People-Based Marketing Solutions | Acxiom
-    favicon: https://www.acxiom.com/wp-content/themes/acxiom/favicon.ico
-- text: Claritas
-  original: http://www.claritas.com/
-  archive: http://web.archive.org/web/20200722170833/https://www.claritas.com/
+refs: '[{"text"=>"Acxiom", "original"=>"http://www.acxiom.com/", "archive"=>"http://web.archive.org/web/20200801063347/http://www.acxiom.com/",
+  "meta"=>{"title"=>"Data, Identity Solution & People-Based Marketing Solutions |
+  Acxiom", "description"=>"Acxiom''s data and technology transform marketing – giving
+  our clients the power to manage audiences, personalize customer experiences and
+  create profitable customer relationships.", "open_graph"=>{"locale"=>"en_US", "type"=>"website",
+  "title"=>"Data, Identity Solution & People-Based Marketing Solutions | Acxiom",
+  "description"=>"Acxiom''s data and technology transform marketing – giving our clients
+  the power to manage audiences, personalize customer experiences and create profitable
+  customer relationships.", "url"=>"https://www.acxiom.com/", "site_name"=>"Acxiom"},
+  "twitter_card"=>{"card"=>"summary", "description"=>"Acxiom''s data and technology
+  transform marketing – giving our clients the power to manage audiences, personalize
+  customer experiences and create profitable customer relationships.", "title"=>"Data,
+  Identity Solution & People-Based Marketing Solutions | Acxiom"}, "favicon"=>"https://www.acxiom.com/wp-content/themes/acxiom/favicon.ico"}},
+  {"text"=>"Claritas", "original"=>"http://www.claritas.com/", "archive"=>"http://web.archive.org/web/20200722170833/https://www.claritas.com/"}]'
 sources: 
 published: true
 img: 

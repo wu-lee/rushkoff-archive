@@ -1,18 +1,14 @@
 ---
 id: 1038
 title: There's More To Being A Journalist Than Hitting The 'Publish' Button
+subtitle: 
 date: '2010-06-01T04:00:00.000Z'
-publication:
-  id: 25
-  title: Nieman Reports
-  slug: nieman-reports
-  created_at: '2020-08-03T15:14:02.000Z'
-  updated_at: '2020-08-03T15:14:02.000Z'
+publication: Nieman Reports
 blurb: For better or worse, the internet is 'biased to the amateur and to the immediate.'
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1038-theres-more-to-being-a-journalist-than-h
 created_at: '2020-08-02T07:21:36.000Z'

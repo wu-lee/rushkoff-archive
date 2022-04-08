@@ -1,23 +1,13 @@
 ---
 id: 970
 title: 'Your Mother: Ma Bell, Brand Whore?'
+subtitle: 
 date: '2004-05-21T04:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: AT&T's MVNO deal with Sprint points to a new telecom infrastructure strategy.
 notes: 
-refs:
-- text: sell Sprint wireless services under the AT&T brand
-  original: http://www.thefeature.com/article?articleid=100647
-  meta:
-    title: 'ページが見つかりませんでした  '
-    keywords:
-    - ''
-    favicon: http://www.thefeature.com/favicon.ico
+refs: '[{"text"=>"sell Sprint wireless services under the AT&T brand", "original"=>"http://www.thefeature.com/article?articleid=100647",
+  "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}}]'
 sources: 
 published: true
 img: 

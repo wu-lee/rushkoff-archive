@@ -1,18 +1,14 @@
 ---
 id: 1045
 title: Why Johnny Can't Program
+subtitle: 
 date: '2010-09-30T04:00:00.000Z'
-publication:
-  id: 18
-  title: Huffington Post
-  slug: huffington-post
-  created_at: '2020-08-03T15:11:45.000Z'
-  updated_at: '2020-08-03T15:11:45.000Z'
+publication: Huffington Post
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1045-why-johnny-cant-program
 created_at: '2020-08-03T16:09:52.000Z'

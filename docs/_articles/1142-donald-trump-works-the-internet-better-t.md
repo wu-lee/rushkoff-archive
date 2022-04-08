@@ -2,13 +2,9 @@
 id: 1142
 title: Donald Trump works the Internet better than you do (whether he knows it or
   not)
+subtitle: 
 date: '2015-12-01T17:00:00.000Z'
-publication:
-  id: 47
-  title: Digital Trends
-  slug: digital-trends
-  created_at: '2021-09-30T17:13:19.000Z'
-  updated_at: '2021-09-30T17:13:19.000Z'
+publication: Digital Trends
 blurb: 
 notes: 
 refs: 

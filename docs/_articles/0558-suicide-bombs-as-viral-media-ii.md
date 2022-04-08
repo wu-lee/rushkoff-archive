@@ -1,13 +1,9 @@
 ---
 id: 558
 title: Suicide Bombs as Viral Media II
+subtitle: 
 date: '2005-07-24T04:00:00.000Z'
-publication:
-  id: 3
-  title: Arthur
-  slug: arthur
-  created_at: '2020-08-03T15:07:46.000Z'
-  updated_at: '2020-08-03T15:07:46.000Z'
+publication: Arthur
 blurb: Although I've got very little spare time for blogging right now, I thought
   it important to share a brief reflection on what I perceive to be the underlying
   mechanism propelling the recent spate of suicide attacks, as well as the common
@@ -16,7 +12,7 @@ notes:
 refs: 
 sources: 
 published: true
-img: ''
+img: 
 slug: '0558-suicide-bombs-as-viral-media-ii'
 created_at: '2020-08-02T00:44:06.000Z'
 updated_at: '2020-08-02T02:28:09.000Z'

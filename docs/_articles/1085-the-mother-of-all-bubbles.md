@@ -1,13 +1,9 @@
 ---
 id: 1085
 title: The Mother of All Bubbles
+subtitle: 
 date: '2014-02-04T16:56:02.000Z'
-publication:
-  id: 46
-  title: Hemispheres Magazine
-  slug: hemispheres-magazine
-  created_at: '2021-09-10T13:11:05.000Z'
-  updated_at: '2021-09-10T13:11:05.000Z'
+publication: Hemispheres Magazine
 blurb: 
 notes: 
 refs: 

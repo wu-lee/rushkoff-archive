@@ -1,18 +1,14 @@
 ---
 id: 1037
 title: We'll Be Back
+subtitle: 
 date: '2009-08-24T04:00:00.000Z'
-publication:
-  id: 32
-  title: Publisher's Weekly
-  slug: publishers-weekly
-  created_at: '2020-08-03T15:15:47.000Z'
-  updated_at: '2020-08-03T15:15:47.000Z'
+publication: Publisher's Weekly
 blurb: Why scaling down is good for publishing
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1037-well-be-back
 created_at: '2020-08-02T07:19:48.000Z'

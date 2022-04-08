@@ -1,13 +1,9 @@
 ---
 id: 762
 title: All God's Children, They Got Vings
+subtitle: 
 date: '2009-04-12T04:00:00.000Z'
-publication:
-  id: 30
-  title: Paper
-  slug: paper
-  created_at: '2020-08-03T15:15:01.000Z'
-  updated_at: '2020-08-03T15:15:01.000Z'
+publication: Paper
 blurb: The New Kabbalah
 notes: 
 refs: 

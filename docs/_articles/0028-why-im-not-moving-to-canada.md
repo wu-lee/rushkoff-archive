@@ -1,13 +1,9 @@
 ---
 id: 28
 title: Why I'm Not Moving to Canada
+subtitle: 
 date: '2006-07-01T04:00:00.000Z'
-publication:
-  id: 3
-  title: Arthur
-  slug: arthur
-  created_at: '2020-08-03T15:07:46.000Z'
-  updated_at: '2020-08-03T15:07:46.000Z'
+publication: Arthur
 blurb: 
 notes: 
 refs: 

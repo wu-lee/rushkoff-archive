@@ -1,17 +1,13 @@
 ---
 id: 987
 title: How Google Trained Your Brain
+subtitle: 
 date: '2009-06-03T04:00:00.000Z'
-publication:
-  id: 6
-  title: The Daily Beast
-  slug: daily-beast
-  created_at: '2020-08-03T15:08:16.000Z'
-  updated_at: '2020-08-03T15:10:07.000Z'
+publication: The Daily Beast
 blurb: In a few ways—just a few, but real enough—Bing represents more than Microsoft's
   ability to purchase a memorable but (necessarily) meaningless one-syllable name
   for the latest version of its search-engine competitor to Google. Bing is a genuinely
-  alternative and, dare I say, "intuitive" approach to bringing people and information
+  alternative and, dare I say, \"intuitive\" approach to bringing people and information
   together. The real question is who is being rendered unto whom.
 notes: 
 refs: 

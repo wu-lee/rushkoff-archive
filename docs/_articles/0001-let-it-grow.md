@@ -1,13 +1,9 @@
 ---
 id: 1
 title: Let It Grow
+subtitle: 
 date: '1999-11-01T05:00:00.000Z'
-publication:
-  id: 1
-  title: Adbusters
-  slug: adbusters
-  created_at: '2020-08-03T15:07:12.000Z'
-  updated_at: '2020-08-03T15:07:12.000Z'
+publication: Adbusters
 blurb: 
 notes: 
 refs: 

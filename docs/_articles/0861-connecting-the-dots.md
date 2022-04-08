@@ -1,13 +1,9 @@
 ---
 id: 861
 title: Connecting the Dots
+subtitle: 
 date: '1996-12-01T05:00:00.000Z'
-publication:
-  id: 28
-  title: The New York Times Syndicate/Guardian of London
-  slug: nyt-guardian
-  created_at: '2020-08-03T15:14:34.000Z'
-  updated_at: '2020-10-09T01:17:31.000Z'
+publication: The New York Times Syndicate/Guardian of London
 blurb: TWA flight 808, CIA Crack sales, and Internet-style Conspiracy Theory
 notes: 
 refs: 
@@ -20,9 +16,9 @@ updated_at: '2020-08-02T00:44:14.000Z'
 ---
 Is the Internet really a forum capable of exposing our governments' deepest, darkest secrets, or is it just a hotbed for conspiracy theorists and the dissemination of their most paranoid delusions to an uncritical audience?
 
-Officials from the FBI, Secret Service, and US Navy are still busy denying assertions by former Kennedy administration Press Secretary and TV reporter Pierre Salinger that TWA flight 800 was actually shot down by a US Navy missile. According to Salinger, he received a document proving this to be the case from a French intelligence agent who got the incriminating paperwork from a U.S. Secret Service agent. Last Friday, he admitted that the document has been available on the Internet since July 30. \[http://www.iglou.com/homepages/mkennedy/twa.html\]
+Officials from the FBI, Secret Service, and US Navy are still busy denying assertions by former Kennedy administration Press Secretary and TV reporter Pierre Salinger that TWA flight 800 was actually shot down by a US Navy missile. According to Salinger, he received a document proving this to be the case from a French intelligence agent who got the incriminating paperwork from a U.S. Secret Service agent. Last Friday, he admitted that the document has been available on the Internet since July 30. \\[http://www.iglou.com/homepages/mkennedy/twa.html\\]
 
-In October, the San Jose Mercury News printed a story, also vehemently denied by US officials, that the CIA helped distributed crack in American inner-cities as part of their support for contra forces in Nicaragua. The paper presented its findings as if it were breaking news. The photos and evidence of these charges had been available on the Internet for several years. \[http://www.dorsai.org/~wbai/earthwatch/crackwatch.html\]
+In October, the San Jose Mercury News printed a story, also vehemently denied by US officials, that the CIA helped distributed crack in American inner-cities as part of their support for contra forces in Nicaragua. The paper presented its findings as if it were breaking news. The photos and evidence of these charges had been available on the Internet for several years. \\[http://www.dorsai.org/~wbai/earthwatch/crackwatch.html\\]
 
 In the case of flight 800, it appears that the now-infamous photo accidentally snapped by a woman attending a party on an outdoor terrace of Long Island restaurant may, indeed, show a mysterious streak in the sky just minutes before the felling of the plane - but that she was facing the opposite direction in the sky at the time. Though now all-but entirely discredited in the mainstream media, debate and speculation about the possibility of "friendly fire" downing flight 800 rages on in conspiracy-related Usenet groups.
 

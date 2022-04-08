@@ -1,18 +1,14 @@
 ---
 id: 1028
 title: Will Software Agents Rob Us Of Our Identities
+subtitle: 
 date: '1998-08-08T04:00:00.000Z'
-publication:
-  id: 28
-  title: The New York Times Syndicate/Guardian of London
-  slug: nyt-guardian
-  created_at: '2020-08-03T15:14:34.000Z'
-  updated_at: '2020-10-09T01:17:31.000Z'
+publication: The New York Times Syndicate/Guardian of London
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1028-will-software-agents-rob-us-of-our-ident
 created_at: '2020-08-02T06:56:30.000Z'

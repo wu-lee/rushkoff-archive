@@ -1,19 +1,15 @@
 ---
 id: 738
 title: What Would Steve Jobs Do?
+subtitle: 
 date: '2011-11-11T00:00:00.000Z'
-publication:
-  id: 5
-  title: CNN
-  slug: cnn
-  created_at: '2020-08-03T15:08:09.000Z'
-  updated_at: '2020-08-03T15:08:09.000Z'
-blurb: ''
+publication: CNN
+blurb: 
 notes: 
 refs: 
 sources: 
 published: true
-img: ''
+img: 
 slug: '0738-what-would-steve-jobs-do'
 created_at: '2020-08-02T00:44:11.000Z'
 updated_at: '2020-08-02T03:14:23.000Z'

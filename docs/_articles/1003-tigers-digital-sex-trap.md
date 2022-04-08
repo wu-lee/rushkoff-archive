@@ -1,13 +1,9 @@
 ---
 id: 1003
 title: Tiger's Digital Sex Trap
+subtitle: 
 date: '2010-12-02T05:00:00.000Z'
-publication:
-  id: 6
-  title: The Daily Beast
-  slug: daily-beast
-  created_at: '2020-08-03T15:08:16.000Z'
-  updated_at: '2020-08-03T15:10:07.000Z'
+publication: The Daily Beast
 blurb: It's always the cover-ups that undo them in the end.
 notes: 
 refs: 

@@ -1,153 +1,59 @@
 ---
 id: 812
 title: Cell Phone Cinema
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: Lights, camera, compression! The new world of bite-sized video.
 notes: 
-refs:
-- text: CTIA Wireless IT and Entertainment Expo
-  original: http://www.wirelessit.com/
-  archive: http://web.archive.org/web/20200130193547/http://www.wirelessit.com:80/
-  meta:
-    title: Wirelessit.com
-    favicon: http://www.wirelessit.com/favicon.ico
-- text: consumer demand has yet to be determined
-  original: http://www.emarketer.com/Article.aspx?1003072
-  archive: http://web.archive.org/web/20041209041737/http://www.emarketer.com:80/Article.aspx?1003072
-  meta:
-    title: Today's Trending Articles on Digital Marketing and Media | eMarketer
-    open_graph:
-      title: Today's Trending Articles on Digital Marketing and Media
-      site_name: eMarketer
-      url: https://www.emarketer.com/articles
-      type: article
-      description: Browse articles featuring eMarketer's latest data and insights
-        on digital marketing. Topics include mobile, video, search, ecommerce, social,
-        ad spend and more
-      images:
-      - width: 1200
-    description: Browse articles featuring eMarketer's latest data and insights on
-      digital marketing. Topics include mobile, video, search, ecommerce, social,
-      ad spend and more
-    twitter_card:
-      url: https://www.emarketer.com/articles
-      title: Today's Trending Articles on Digital Marketing and Media
-      description: Browse articles featuring eMarketer's latest data and insights
-        on digital marketing. Topics include mobile, video, search, ecommerce, social,
-        ad spend and more
-      card: summary
-    favicon: http://www.emarketer.com/favicon.ico
-- text: reports
-  original: http://research.analysys.com/Articles/StandardArticle.asp?mode=article&iLeftArticle=1694
-- text: ", particularly for emerging 3G networks"
-  original: http://research.analysys.com/default.asp?Mode=article&iLeftArticle=1710&m=&n=
-- text: Big Digit,
-  original: http://www.bigdigit.com/
-  archive: http://web.archive.org/web/20200116072600/http://www.bigdigit.com:80/
-  meta:
-    title: Big Digit
-    favicon: http://www.bigdigit.com/favicon.ico
-- text: mFlix,
-  original: http://www.mflix.com/
-  meta:
-    title: mFlix.com - Premium Domain For Sale
-    description: Modern Landing Page
-    keywords:
-    - landing
-    favicon: http://www.mflix.com/favicon.ico
-- text: 20,000 paying subscribers for mFlix
-  original: http://www.iht.com/articles/542864.html
-  archive: http://web.archive.org/web/20050307091310/http://www.iht.com:80/articles/542864.html
-  meta:
-    title: The New York Times - Breaking News, World News & Multimedia
-    description: 'The New York Times: Find breaking news, multimedia, reviews & opinion
-      on Washington, business, sports, movies, travel, books, jobs, education, real
-      estate, cars & more at nytimes.com.'
-    open_graph:
-      url: https://www.nytimes.com/
-      type: website
-      title: Breaking News, World News & Multimedia
-      description: 'The New York Times: Find breaking news, multimedia, reviews &
-        opinion on Washington, business, sports, movies, travel, books, jobs, education,
-        real estate, cars & more at nytimes.com.'
-      images:
-      - url: https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png
-    keywords:
-    - Coronavirus;COVID-19
-    - Disease Rates
-    - US states
-    - Midwestern United States
-    - Serum Institute of India
-    - Vaccines Immunization
-    - Pune
-    - Pharmaceuticals
-    - Clinical trial
-    - Family business
-    - Government Contracting and Procurement
-    - Horse
-    - Third World
-    - Bill and Melinda Gates Foundation
-    - India
-    - Neo Nazis
-    - Alternative for Germany
-    - National Socialist Underground Germany
-    - Angela Merkel
-    - Germany
-    - News media;journalism
-    - News Corp
-    - Fox News Channel
-    - James R Murdoch
-    - Lachlan Murdoch
-    - Rupert Murdoch
-    - Mergers and Acquisitions
-    - Mobile Apps
-    - TikTok
-    - US Politics
-    - Social Media
-    - Executive Orders
-    - Computers and the Internet
-    - Tech Industry
-    - Donald Trump
-    - 2020 Election
-    - Campaign finance
-    - Lobbying
-    - Joe Biden
-    - James P Rubin
-    - Antony J Blinken
-    - Elliott Broidy
-    - Thomas E Donilon
-    - Anita Dunn
-    - Avril D Haines
-    - Ken Salazar
-    - Jake Sullivan
-    - Elizabeth Warren
-    - Bernard Sanders;Bernie Sanders
-    - Democrats
-    - Steven Ricchetti
-    - L Tammy Duckworth
-    - Vice President US
-    - Illinois
-    - Veteran
-    - US Military
-    - 2016 Presidential Election
-    - Writer
-    - Books
-    - John Bolton
-    - Omarosa Manigault
-    - James B Comey
-    - Andrew G. McCabe
-    - Sean Spicer
-    - Hurricanes
-    twitter_card: {}
-    favicon: http://www.iht.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico
-- text: Mobisodes
-  original: http://news.com.com/TV+to+the+rescue/2100-1039_3-5423178.html?tag=nefd.top
+refs: '[{"text"=>"CTIA Wireless IT and Entertainment Expo", "original"=>"http://www.wirelessit.com/",
+  "archive"=>"http://web.archive.org/web/20200130193547/http://www.wirelessit.com:80/",
+  "meta"=>{"title"=>"Wirelessit.com", "favicon"=>"http://www.wirelessit.com/favicon.ico"}},
+  {"text"=>"consumer demand has yet to be determined", "original"=>"http://www.emarketer.com/Article.aspx?1003072",
+  "archive"=>"http://web.archive.org/web/20041209041737/http://www.emarketer.com:80/Article.aspx?1003072",
+  "meta"=>{"title"=>"Today''s Trending Articles on Digital Marketing and Media | eMarketer",
+  "open_graph"=>{"title"=>"Today''s Trending Articles on Digital Marketing and Media",
+  "site_name"=>"eMarketer", "url"=>"https://www.emarketer.com/articles", "type"=>"article",
+  "description"=>"Browse articles featuring eMarketer''s latest data and insights
+  on digital marketing. Topics include mobile, video, search, ecommerce, social, ad
+  spend and more", "images"=>[{"width"=>1200}]}, "description"=>"Browse articles featuring
+  eMarketer''s latest data and insights on digital marketing. Topics include mobile,
+  video, search, ecommerce, social, ad spend and more", "twitter_card"=>{"url"=>"https://www.emarketer.com/articles",
+  "title"=>"Today''s Trending Articles on Digital Marketing and Media", "description"=>"Browse
+  articles featuring eMarketer''s latest data and insights on digital marketing. Topics
+  include mobile, video, search, ecommerce, social, ad spend and more", "card"=>"summary"},
+  "favicon"=>"http://www.emarketer.com/favicon.ico"}}, {"text"=>"reports", "original"=>"http://research.analysys.com/Articles/StandardArticle.asp?mode=article&iLeftArticle=1694"},
+  {"text"=>", particularly for emerging 3G networks", "original"=>"http://research.analysys.com/default.asp?Mode=article&iLeftArticle=1710&m=&n="},
+  {"text"=>"Big Digit,", "original"=>"http://www.bigdigit.com/", "archive"=>"http://web.archive.org/web/20200116072600/http://www.bigdigit.com:80/",
+  "meta"=>{"title"=>"Big Digit", "favicon"=>"http://www.bigdigit.com/favicon.ico"}},
+  {"text"=>"mFlix,", "original"=>"http://www.mflix.com/", "meta"=>{"title"=>"mFlix.com
+  - Premium Domain For Sale", "description"=>"Modern Landing Page", "keywords"=>["landing"],
+  "favicon"=>"http://www.mflix.com/favicon.ico"}}, {"text"=>"20,000 paying subscribers
+  for mFlix", "original"=>"http://www.iht.com/articles/542864.html", "archive"=>"http://web.archive.org/web/20050307091310/http://www.iht.com:80/articles/542864.html",
+  "meta"=>{"title"=>"The New York Times - Breaking News, World News & Multimedia",
+  "description"=>"The New York Times: Find breaking news, multimedia, reviews & opinion
+  on Washington, business, sports, movies, travel, books, jobs, education, real estate,
+  cars & more at nytimes.com.", "open_graph"=>{"url"=>"https://www.nytimes.com/",
+  "type"=>"website", "title"=>"Breaking News, World News & Multimedia", "description"=>"The
+  New York Times: Find breaking news, multimedia, reviews & opinion on Washington,
+  business, sports, movies, travel, books, jobs, education, real estate, cars & more
+  at nytimes.com.", "images"=>[{"url"=>"https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png"}]},
+  "keywords"=>["Coronavirus;COVID-19", "Disease Rates", "US states", "Midwestern United
+  States", "Serum Institute of India", "Vaccines Immunization", "Pune", "Pharmaceuticals",
+  "Clinical trial", "Family business", "Government Contracting and Procurement", "Horse",
+  "Third World", "Bill and Melinda Gates Foundation", "India", "Neo Nazis", "Alternative
+  for Germany", "National Socialist Underground Germany", "Angela Merkel", "Germany",
+  "News media;journalism", "News Corp", "Fox News Channel", "James R Murdoch", "Lachlan
+  Murdoch", "Rupert Murdoch", "Mergers and Acquisitions", "Mobile Apps", "TikTok",
+  "US Politics", "Social Media", "Executive Orders", "Computers and the Internet",
+  "Tech Industry", "Donald Trump", "2020 Election", "Campaign finance", "Lobbying",
+  "Joe Biden", "James P Rubin", "Antony J Blinken", "Elliott Broidy", "Thomas E Donilon",
+  "Anita Dunn", "Avril D Haines", "Ken Salazar", "Jake Sullivan", "Elizabeth Warren",
+  "Bernard Sanders;Bernie Sanders", "Democrats", "Steven Ricchetti", "L Tammy Duckworth",
+  "Vice President US", "Illinois", "Veteran", "US Military", "2016 Presidential Election",
+  "Writer", "Books", "John Bolton", "Omarosa Manigault", "James B Comey", "Andrew
+  G. McCabe", "Sean Spicer", "Hurricanes"], "twitter_card"=>{}, "favicon"=>"http://www.iht.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico"}},
+  {"text"=>"Mobisodes", "original"=>"http://news.com.com/TV+to+the+rescue/2100-1039_3-5423178.html?tag=nefd.top"}]'
 sources: 
 published: true
 img: 

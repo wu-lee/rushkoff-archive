@@ -1,135 +1,56 @@
 ---
 id: 805
 title: A Spectrum Carol
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: Yes, it's holiday time, so here's a true legend from the early days of wireless
   data.
 notes: 
-refs:
-- text: Federal Register
-  original: http://edocket.access.gpo.gov/2004/pdf/04-23835.pdf
-- text: Bennett Z. Kobb,
-  original: http://www.kobb.us/
-  meta:
-    title: Bennett Z. Kobb
-    favicon: http://www.kobb.us/favicon.ico
-- text: 'Wireless Spectrum Finder: Telecommunications, Government and Scientific Radio
-    Frequency Allocations in the US, 30 MHz - 300 GHz.'
-  original: http://www.amazon.com/exec/obidos/tg/detail/-/0071375066/qid=1074477719
-  meta:
-    open_graph:
-      url: http://www.amazon.com/dp/0071375066/ref=tsm_1_fb_lk
-      title: 'Wireless Spectrum Finder: Telecommunications, Government and Scientific
-        Radio Frequency Allocations in the US 30 MHz - 300 GHz'
-      description: 'Wireless Spectrum Finder: Telecommunications, Government and Scientific
-        Radio Frequency Allocations in the US 30 MHz - 300 GHz'
-      images:
-      - url: https://images-na.ssl-images-amazon.com/images/I/514Jzk3VGFL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingTWOANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_SCLZZZZZZZ_.jpg
-        width: 600
-        height: 315
-      type: book
-      site_name: Amazon.com
-    description: 'Wireless Spectrum Finder: Telecommunications, Government and Scientific
-      Radio Frequency Allocations in the US 30 MHz - 300 GHz [Kobb, Bennett Z., Kobb,
-      Bennett] on Amazon.com. *FREE* shipping on qualifying offers. Wireless Spectrum
-      Finder: Telecommunications, Government and Scientific Radio Frequency Allocations
-      in the US 30 MHz - 300 GHz'
-    keywords:
-    - Kobb
-    - Bennett Z.
-    - Kobb
-    - Bennett
-    - 'Wireless Spectrum Finder: Telecommunications'
-    - Government and Scientific Radio Frequency Allocations in the US 30 MHz - 300
-      GHz
-    - McGraw-Hill Professional Publishing
-    - '0071375066'
-    - Electricity
-    - Mobile communication systems
-    - Mobile communication systems;United States.
-    - Radio frequency allocation;United States.
-    - United States
-    - CELLULAR COMMUNICATION TECHNOLOGY
-    - Communications engineering / telecommunications
-    - Electrical engineering
-    - Electricity
-    - Electronics engineering
-    - Mobile communication systems
-    - Mobile communication systems;United States.
-    - Non-Fiction
-    - Professional
-    - Radio
-    - Radio frequency allocation
-    - Radio frequency allocation;United States.
-    - Reference
-    - Science/Math
-    - Science/Mathematics
-    - TECHNOLOGY & ENGINEERING / Electrical
-    - TELECOMMUNICATION (ENGINEERING)
-    - TEXT
-    - Technology & Engineering
-    - Technology & Engineering / Telecommunications
-    - 'Technology & Engineering : Radio'
-    - 'Technology & Engineering : Reference'
-    - Technology & Industrial Arts
-    - Telecommunications
-    - United States
-    - Radio
-    - Reference
-    - TECHNOLOGY & ENGINEERING / Electrical
-    - Technology & Engineering / Telecommunications
-    - 'Technology & Engineering : Radio'
-    - 'Technology & Engineering : Reference'
-    - Telecommunications
-    - Technology & Industrial Arts
-    - Cellular Communication Technology
-    - Telecommunication (Engineering)
-    - Radio frequency allocation
-    - Technology & Engineering
-    - Science/Mathematics
-    - Communications engineering / telecommunications
-    - Electrical engineering
-    - Electronics engineering
-    title: 'Wireless Spectrum Finder: Telecommunications, Government and Scientific
-      Radio Frequency Allocations in the US 30 MHz - 300 GHz: Kobb, Bennett Z., Kobb,
-      Bennett: 0639785328582: Amazon.com: Books'
-    favicon: http://www.amazon.com/favicon.ico
-- text: Peter Pan
-  original: http://www.apple-history.com/noframes/body.php?page=gallery&model=tv
-  meta:
-    title: apple-history.com / Macintosh TV
-    description: A brief history of the company that changed the computing world forever.
-      Includes specifications, a description and pictures of every Apple computer
-      ever made.
-    keywords:
-    - apple
-    - history
-    - specs
-    - specifications
-    - mac
-    - g3
-    - g4
-    - g5
-    - macintosh
-    - powermac
-    - powerbook
-    - lisa
-    - imac
-    - ibook
-    - ipod
-    - iphone
-    favicon: http://www.apple-history.com/favicon.ico
-- text: Spectrum Etiquette,
-  original: http://www.sss-mag.com/fccarchive.html
-  meta:
-    title: Archived FCC RF News, page 1
-    favicon: http://www.sss-mag.com/favicon.ico
+refs: '[{"text"=>"Federal Register", "original"=>"http://edocket.access.gpo.gov/2004/pdf/04-23835.pdf"},
+  {"text"=>"Bennett Z. Kobb,", "original"=>"http://www.kobb.us/", "meta"=>{"title"=>"Bennett
+  Z. Kobb", "favicon"=>"http://www.kobb.us/favicon.ico"}}, {"text"=>"Wireless Spectrum
+  Finder: Telecommunications, Government and Scientific Radio Frequency Allocations
+  in the US, 30 MHz - 300 GHz.", "original"=>"http://www.amazon.com/exec/obidos/tg/detail/-/0071375066/qid=1074477719",
+  "meta"=>{"open_graph"=>{"url"=>"http://www.amazon.com/dp/0071375066/ref=tsm_1_fb_lk",
+  "title"=>"Wireless Spectrum Finder: Telecommunications, Government and Scientific
+  Radio Frequency Allocations in the US 30 MHz - 300 GHz", "description"=>"Wireless
+  Spectrum Finder: Telecommunications, Government and Scientific Radio Frequency Allocations
+  in the US 30 MHz - 300 GHz", "images"=>[{"url"=>"https://images-na.ssl-images-amazon.com/images/I/514Jzk3VGFL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingTWOANDHALF%2cBottomLeft%2c360%2c-6_SR600%2c315_SCLZZZZZZZ_.jpg",
+  "width"=>600, "height"=>315}], "type"=>"book", "site_name"=>"Amazon.com"}, "description"=>"Wireless
+  Spectrum Finder: Telecommunications, Government and Scientific Radio Frequency Allocations
+  in the US 30 MHz - 300 GHz [Kobb, Bennett Z., Kobb, Bennett] on Amazon.com. *FREE*
+  shipping on qualifying offers. Wireless Spectrum Finder: Telecommunications, Government
+  and Scientific Radio Frequency Allocations in the US 30 MHz - 300 GHz", "keywords"=>["Kobb",
+  "Bennett Z.", "Kobb", "Bennett", "Wireless Spectrum Finder: Telecommunications",
+  "Government and Scientific Radio Frequency Allocations in the US 30 MHz - 300 GHz",
+  "McGraw-Hill Professional Publishing", "0071375066", "Electricity", "Mobile communication
+  systems", "Mobile communication systems;United States.", "Radio frequency allocation;United
+  States.", "United States", "CELLULAR COMMUNICATION TECHNOLOGY", "Communications
+  engineering / telecommunications", "Electrical engineering", "Electricity", "Electronics
+  engineering", "Mobile communication systems", "Mobile communication systems;United
+  States.", "Non-Fiction", "Professional", "Radio", "Radio frequency allocation",
+  "Radio frequency allocation;United States.", "Reference", "Science/Math", "Science/Mathematics",
+  "TECHNOLOGY & ENGINEERING / Electrical", "TELECOMMUNICATION (ENGINEERING)", "TEXT",
+  "Technology & Engineering", "Technology & Engineering / Telecommunications", "Technology
+  & Engineering : Radio", "Technology & Engineering : Reference", "Technology & Industrial
+  Arts", "Telecommunications", "United States", "Radio", "Reference", "TECHNOLOGY
+  & ENGINEERING / Electrical", "Technology & Engineering / Telecommunications", "Technology
+  & Engineering : Radio", "Technology & Engineering : Reference", "Telecommunications",
+  "Technology & Industrial Arts", "Cellular Communication Technology", "Telecommunication
+  (Engineering)", "Radio frequency allocation", "Technology & Engineering", "Science/Mathematics",
+  "Communications engineering / telecommunications", "Electrical engineering", "Electronics
+  engineering"], "title"=>"Wireless Spectrum Finder: Telecommunications, Government
+  and Scientific Radio Frequency Allocations in the US 30 MHz - 300 GHz: Kobb, Bennett
+  Z., Kobb, Bennett: 0639785328582: Amazon.com: Books", "favicon"=>"http://www.amazon.com/favicon.ico"}},
+  {"text"=>"Peter Pan", "original"=>"http://www.apple-history.com/noframes/body.php?page=gallery&model=tv",
+  "meta"=>{"title"=>"apple-history.com / Macintosh TV", "description"=>"A brief history
+  of the company that changed the computing world forever. Includes specifications,
+  a description and pictures of every Apple computer ever made.", "keywords"=>["apple",
+  "history", "specs", "specifications", "mac", "g3", "g4", "g5", "macintosh", "powermac",
+  "powerbook", "lisa", "imac", "ibook", "ipod", "iphone"], "favicon"=>"http://www.apple-history.com/favicon.ico"}},
+  {"text"=>"Spectrum Etiquette,", "original"=>"http://www.sss-mag.com/fccarchive.html",
+  "meta"=>{"title"=>"Archived FCC RF News, page 1", "favicon"=>"http://www.sss-mag.com/favicon.ico"}}]'
 sources: 
 published: true
 img: 
@@ -158,7 +79,7 @@ While knowing the tale of a failed patch of bandwidth may not mean much to our c
 
 Our story begins in the early '90s when Apple Computer was in its awkward adolescent phase. They had a number of superb ideas and a handful of great products, but an arrogant, undisciplined research and development methodology that led to an even greater number of missed opportunities than products to market. Like many other teenagers, the pubescent company was struggling with a number of issues. The most popular kid on the block had lost control of the personal computer market to the Wintel gang. Its original father, Steve Jobs, had been forced out of the house by an impatient board. Now, it was suffering from an identity crisis as a result of its technology licensing deals and oddly prescient but unmarketably early hybrid media devices like the Macintosh TV, fittingly code-named Peter Pan, for the company that couldn't, and wouldn't, grow up.
 
-It was during this era — the very last of the days when anything still seemed possible — that Apple initiated a petition to the FCC for an as-yet unlicensed spectrum they hoped they could utilize use for wireless data. Having already learned the hard lesson of going it alone, they hired a young Benn Kobb to create a trade association of manufacturers and named it the Wireless Information Networks Forum, or WINForum. According to Kobb, "the theory was that the combined clout of IBM, HP, Sun, AT&T and many other companies in one group would reassure the \[Federal Communications\] Commission that the proposal had wide support, and that the thorny technical issues would be worked aggressively by this group so the FCC wouldn't have to make the effort."
+It was during this era — the very last of the days when anything still seemed possible — that Apple initiated a petition to the FCC for an as-yet unlicensed spectrum they hoped they could utilize use for wireless data. Having already learned the hard lesson of going it alone, they hired a young Benn Kobb to create a trade association of manufacturers and named it the Wireless Information Networks Forum, or WINForum. According to Kobb, "the theory was that the combined clout of IBM, HP, Sun, AT&T and many other companies in one group would reassure the \\[Federal Communications\\] Commission that the proposal had wide support, and that the thorny technical issues would be worked aggressively by this group so the FCC wouldn't have to make the effort."
 
 Ahh, classic early dot-com bubble enthusiasm: if enough companies could be convinced to wave off the technological hurdles ahead, everyone else would nod their heads, too. Maybe, just maybe, the combined will of believers would make wireless information networks a reality. It would be no small task.
 

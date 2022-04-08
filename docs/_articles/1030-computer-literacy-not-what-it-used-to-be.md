@@ -1,18 +1,14 @@
 ---
 id: 1030
 title: Computer Literacy Not What It Used To Be
+subtitle: 
 date: '1998-10-24T04:00:00.000Z'
-publication:
-  id: 28
-  title: The New York Times Syndicate/Guardian of London
-  slug: nyt-guardian
-  created_at: '2020-08-03T15:14:34.000Z'
-  updated_at: '2020-10-09T01:17:31.000Z'
+publication: The New York Times Syndicate/Guardian of London
 blurb: 
 notes: 
 refs: 
 sources: 
-published: 
+published: false
 img: 
 slug: 1030-computer-literacy-not-what-it-used-to-be
 created_at: '2020-08-02T06:59:23.000Z'

@@ -1,58 +1,29 @@
 ---
 id: 822
 title: Networked Plush
+subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication:
-  id: 11
-  title: Nokia's The Feature
-  slug: feature
-  created_at: '2020-08-03T15:09:37.000Z'
-  updated_at: '2020-10-09T01:17:08.000Z'
+publication: Nokia's The Feature
 blurb: Inserting a cell phone or an Airport in a fuzzy doll just won't cut it. It's
   time for toys to network.
 notes: 
-refs:
-- text: Winnie the Pooh
-  original: http://www.fisher-price.com/us/pooh/products/product.asp?cat=Plush&catcode=Pooh_Plush&pg=2&id=32156
-  meta:
-    title: 404 - File or directory not found.
-    favicon: http://www.fisher-price.com/favicon.ico
-- text: Elmo
-  original: http://www.fisher-price.com/us/sesame/products/product.asp?cat=plush&catcode=ss_stuff&pg=2&id=31070
-  meta:
-    title: 404 - File or directory not found.
-    favicon: http://www.fisher-price.com/favicon.ico
-- text: new and improved Furby
-  original: http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=HAS&script=411&layout=-6&item_id=669652
-  archive: http://web.archive.org/web/20050503235247/http://www.corporate-ir.net:80/ireye/ir_site.zhtml?ticker=HAS
-  meta:
-    title: Service Unavailable
-    favicon: http://www.corporate-ir.net/favicon.ico
-- text: Serafina,
-  original: http://www.popgadget.net/2004/11/barbies-rfid-kitty-serafina.html
-  meta:
-    title: 500 Internal Server Error
-    favicon: http://www.popgadget.net/favicon.ico
-- text: The Needies.
-  original: http://www.needies.com/
-  archive: http://web.archive.org/web/20140103221202/http://needies.com/
-  meta:
-    description: Buy a domain and see how a premium domain can be the best investment.
-      Your business starts here. Buy a domain today.
-    keywords:
-    - premium domain
-    - buy domain
-    open_graph:
-      locale: en_US
-      title: Buy Domains - needies.com is for sale!
-      description: Buy a domain and see how a premium domain can be the best investment.
-        Your business starts here. Buy a domain today.
-      site_name: BuyDomains.com
-      images:
-      - url: https://www.buydomains.com/browser/img/logo-header.png
-      type: website
-    title: Buy Domains - needies.com is for sale!
-    favicon: http://static.buydomains.com//browser/img/favicon.ico?version=202007220
+refs: '[{"text"=>"Winnie the Pooh", "original"=>"http://www.fisher-price.com/us/pooh/products/product.asp?cat=Plush&catcode=Pooh_Plush&pg=2&id=32156",
+  "meta"=>{"title"=>"404 - File or directory not found.", "favicon"=>"http://www.fisher-price.com/favicon.ico"}},
+  {"text"=>"Elmo", "original"=>"http://www.fisher-price.com/us/sesame/products/product.asp?cat=plush&catcode=ss_stuff&pg=2&id=31070",
+  "meta"=>{"title"=>"404 - File or directory not found.", "favicon"=>"http://www.fisher-price.com/favicon.ico"}},
+  {"text"=>"new and improved Furby", "original"=>"http://www.corporate-ir.net/ireye/ir_site.zhtml?ticker=HAS&script=411&layout=-6&item_id=669652",
+  "archive"=>"http://web.archive.org/web/20050503235247/http://www.corporate-ir.net:80/ireye/ir_site.zhtml?ticker=HAS",
+  "meta"=>{"title"=>"Service Unavailable", "favicon"=>"http://www.corporate-ir.net/favicon.ico"}},
+  {"text"=>"Serafina,", "original"=>"http://www.popgadget.net/2004/11/barbies-rfid-kitty-serafina.html",
+  "meta"=>{"title"=>"500 Internal Server Error", "favicon"=>"http://www.popgadget.net/favicon.ico"}},
+  {"text"=>"The Needies.", "original"=>"http://www.needies.com/", "archive"=>"http://web.archive.org/web/20140103221202/http://needies.com/",
+  "meta"=>{"description"=>"Buy a domain and see how a premium domain can be the best
+  investment. Your business starts here. Buy a domain today.", "keywords"=>["premium
+  domain", "buy domain"], "open_graph"=>{"locale"=>"en_US", "title"=>"Buy Domains
+  - needies.com is for sale!", "description"=>"Buy a domain and see how a premium
+  domain can be the best investment. Your business starts here. Buy a domain today.",
+  "site_name"=>"BuyDomains.com", "images"=>[{"url"=>"https://www.buydomains.com/browser/img/logo-header.png"}],
+  "type"=>"website"}, "title"=>"Buy Domains - needies.com is for sale!", "favicon"=>"http://static.buydomains.com//browser/img/favicon.ico?version=202007220"}}]'
 sources: 
 published: true
 img: 
