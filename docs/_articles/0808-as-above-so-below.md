@@ -11,7 +11,7 @@ refs: '[{"text"=>"The Alliance for the New Humanity.", "original"=>"http://www.a
   "archive"=>"http://web.archive.org/web/20050306013541/http://www.anhglobal.org:80/main.html",
   "meta"=>{"description"=>"See related links to what you are looking for.", "favicon"=>"http://www.anhglobal.org/favicon.ico"}}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0808-as-above-so-below'
 created_at: '2020-08-02T00:44:13.000Z'

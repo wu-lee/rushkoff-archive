@@ -17,7 +17,7 @@ refs: '[{"text"=>"Mark Hurst", "original"=>"http://www.creativegood.com/", "arch
   {"text"=>"Interactive Telecommunications Program", "original"=>"http://itp.nyu.edu/"},
   {"text"=>"The Bass Station", "original"=>"http://stage.itp.nyu.edu/%7Eaw596/BassStation-final.pdf"}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0814-content-deliverance'
 created_at: '2020-08-02T00:44:13.000Z'

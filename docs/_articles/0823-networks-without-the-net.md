@@ -9,7 +9,7 @@ blurb: Software for the next generation of wireless networks may forgo access to
 notes: 
 refs: '[{"text"=>"Umbrella.net", "original"=>"http://www.undertheumbrella.net/", "archive"=>"http://web.archive.org/web/20200115111221/http://undertheumbrella.net:80/"}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0823-networks-without-the-net'
 created_at: '2020-08-02T00:44:13.000Z'

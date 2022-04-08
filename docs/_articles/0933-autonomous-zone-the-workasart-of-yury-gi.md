@@ -20,7 +20,7 @@ refs: '[{"text"=>"Magicbike", "original"=>"http://www.magicbike.net/about.html",
   {"text"=>"Huizinga''s", "original"=>"http://humlink.humanities.mcmaster.ca/%7Edidemusm/play/essay.html",
   "archive"=>"http://web.archive.org/web/20050406204634/http://humlink.humanities.mcmaster.ca:80/~didemusm/play/essay.html"}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0933-autonomous-zone-the-workasart-of-yury-gi'
 created_at: '2020-08-02T00:44:16.000Z'

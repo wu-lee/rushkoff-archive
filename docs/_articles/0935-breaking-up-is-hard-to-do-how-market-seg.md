@@ -22,7 +22,7 @@ refs: '[{"text"=>"Acxiom", "original"=>"http://www.acxiom.com/", "archive"=>"htt
   Identity Solution & People-Based Marketing Solutions | Acxiom"}, "favicon"=>"https://www.acxiom.com/wp-content/themes/acxiom/favicon.ico"}},
   {"text"=>"Claritas", "original"=>"http://www.claritas.com/", "archive"=>"http://web.archive.org/web/20200722170833/https://www.claritas.com/"}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0935-breaking-up-is-hard-to-do-how-market-seg'
 created_at: '2020-08-02T00:44:16.000Z'

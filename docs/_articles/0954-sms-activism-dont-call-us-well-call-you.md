@@ -18,7 +18,7 @@ refs: '[{"text"=>"Mass Immediate Response", "original"=>"http://www.pfaw.org/pfa
   "meta"=>{"title"=>"Smart Mobs  ", "description"=>"Just another WordPress weblog",
   "favicon"=>"http://www.smartmobs.com/favicon.ico"}}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0954-sms-activism-dont-call-us-well-call-you'
 created_at: '2020-08-02T00:44:16.000Z'

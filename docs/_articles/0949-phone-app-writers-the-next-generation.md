@@ -53,7 +53,7 @@ refs: '[{"text"=>"Interactive Telecommunications Program", "original"=>"http://i
   with a cameraphone.", "images"=>[{"url"=>"https://farm4.staticflickr.com/3914/15118079089_489aa62638_b.jpg"}]},
   "title"=>"Find your inspiration. | Flickr", "favicon"=>"https://combo.staticflickr.com/pw/images/favicons/favicon-196.png"}}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0949-phone-app-writers-the-next-generation'
 created_at: '2020-08-02T00:44:16.000Z'

@@ -32,7 +32,7 @@ refs: '[{"text"=>"Mobile Speak accessibility program.", "original"=>"http://www.
   "balance training aid", "health problems technology", "neuromodulation", "profoundly
   blind", "sensory substitution", "vestibular treatment", "vision aid"], "favicon"=>"https://static.parastorage.com/client/pfavico.ico"}}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0965-universal-access-not-just-for-the-disabl'
 created_at: '2020-08-02T00:44:16.000Z'

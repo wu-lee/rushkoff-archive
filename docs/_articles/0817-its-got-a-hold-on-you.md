@@ -27,7 +27,7 @@ refs: '[{"text"=>"Genevieve Bell", "original"=>"http://www.bbc.co.uk/religion/re
   {"text"=>"divinely blessed limited-edition cellphone.", "original"=>"http://www.textually.org/textually/archives/2004/07/004381.htm",
   "meta"=>{"title"=>"404 Not Found", "favicon"=>"http://www.textually.org/favicon.ico"}}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0817-its-got-a-hold-on-you'
 created_at: '2020-08-02T00:44:13.000Z'

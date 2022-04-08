@@ -35,7 +35,7 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   the 1941 treatise on manners, “New American Etiquette.” The book, with all the compassion
   that a high-school football coach bestows upon his third-stringers, admonishes nonsmokers
   not merely to accept but to accommodate their smoking peers.", "dateLastCrawled"=>"2020-05-19T21:29:00.0000000Z"}]'
-published: true
+published: false
 img: 
 slug: '0931-are-cell-phone-users-the-new-smokers'
 created_at: '2020-08-02T00:44:16.000Z'

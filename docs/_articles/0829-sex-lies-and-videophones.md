@@ -39,7 +39,7 @@ refs: '[{"text"=>"SounderCover", "original"=>"http://www.simeda.com/soundercover
   {"text"=>"Some", "original"=>"http://www.160characters.org/members.php?action=info&username=Mike%20Grenville",
   "meta"=>{"title"=>"Page not found – 160 characters", "favicon"=>"http://www.160characters.org/favicon.ico"}}]'
 sources: 
-published: true
+published: false
 img: videophones_files/image.jfif
 slug: '0829-sex-lies-and-videophones'
 created_at: '2020-08-02T00:44:13.000Z'

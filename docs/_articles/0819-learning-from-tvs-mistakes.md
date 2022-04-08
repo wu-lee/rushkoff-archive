@@ -10,7 +10,7 @@ blurb: Today's advertising crisis needn't threaten mobile content at all. In fac
 notes: 
 refs: 
 sources: 
-published: true
+published: false
 img: 
 slug: '0819-learning-from-tvs-mistakes'
 created_at: '2020-08-02T00:44:13.000Z'

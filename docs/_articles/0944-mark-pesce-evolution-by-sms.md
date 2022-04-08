@@ -25,7 +25,7 @@ refs: '[{"text"=>"The Playful World", "original"=>"http://www.playfulworld.com/p
   "description"=>"Australia’s premier screen arts and broadcast school", "favicon"=>"https://www.aftrs.edu.au/wp-content/themes/aftrs/img/favicons/favicon-16x16.png"}},
   {"text"=>"The You Portal (PDF)", "original"=>"http://dlux.org.au/mobilejourneys/documentation/presentations/MJPesce.pdf"}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0944-mark-pesce-evolution-by-sms'
 created_at: '2020-08-02T00:44:16.000Z'

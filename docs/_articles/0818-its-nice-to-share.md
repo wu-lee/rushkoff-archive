@@ -10,7 +10,7 @@ blurb: In their relentless pursuit to move “up the food chain” wireless prov
 notes: 
 refs: 
 sources: 
-published: true
+published: false
 img: 
 slug: '0818-its-nice-to-share'
 created_at: '2020-08-02T00:44:13.000Z'

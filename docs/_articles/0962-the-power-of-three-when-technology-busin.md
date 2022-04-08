@@ -10,7 +10,7 @@ notes:
 refs: '[{"text"=>"part one", "original"=>"http://www.thefeature.com/article?articleid=100415",
   "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0962-the-power-of-three-when-technology-busin'
 created_at: '2020-08-02T00:44:16.000Z'

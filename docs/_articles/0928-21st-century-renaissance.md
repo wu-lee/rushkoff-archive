@@ -14,7 +14,7 @@ refs: '[{"text"=>"Douglas Rushkoff", "original"=>"http://www.rushkoff.com/", "ar
   articles, cover art, biography, tour schedule, and mailing list.", "url"=>"https://rushkoff.com/",
   "site_name"=>"Rushkoff"}, "twitter_card"=>{"card"=>"summary"}, "favicon"=>"http://www.rushkoff.com/favicon-16x16.png"}}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0928-21st-century-renaissance'
 created_at: '2020-08-02T00:44:16.000Z'

@@ -9,7 +9,7 @@ blurb: No matter how colorful you make it, content will never be king in a wirel
 notes: 
 refs: 
 sources: 
-published: true
+published: false
 img: 
 slug: '0831-social-currency'
 created_at: '2020-08-02T00:44:13.000Z'

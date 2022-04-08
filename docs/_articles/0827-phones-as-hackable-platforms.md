@@ -18,7 +18,7 @@ refs: '[{"text"=>"Nokia''s Insight and Foresight", "original"=>"http://www.nokia
   "archive"=>"http://web.archive.org/web/20050409054148/http://www.textually.org:80/ringtonia/archives/000439.htm",
   "meta"=>{"title"=>"404 Not Found", "favicon"=>"http://www.textually.org/favicon.ico"}}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0827-phones-as-hackable-platforms'
 created_at: '2020-08-02T00:44:13.000Z'

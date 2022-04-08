@@ -20,7 +20,7 @@ refs: '[{"text"=>"Cyberia", "original"=>"http://www.rushkoff.com/cyberia.html", 
   "width"=>1200, "height"=>900}], "locale"=>"en_US"}, "twitter_card"=>{"images"=>[{"url"=>"http://www.madagascarinstitute.com/wp-content/uploads/2009/10/5042142461_82b1707157_o.jpg?w=640"}],
   "card"=>"summary_large_image"}, "favicon"=>"http://www.madagascarinstitute.com/favicon.ico"}}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0942-flash-mobs-the-purposeless-microrave'
 created_at: '2020-08-02T00:44:16.000Z'

@@ -58,7 +58,7 @@ refs: '[{"text"=>"the media", "original"=>"http://www.nytimes.com/2004/06/10/bus
   "id"=>"com.nytimes.android", "url"=>"nyt://article/e0895128-81ee-5306-a481-5b102f65eedb"}}},
   "favicon"=>"http://www.nytimes.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico"}}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0811-bush-backs-bells'
 created_at: '2020-08-02T00:44:13.000Z'

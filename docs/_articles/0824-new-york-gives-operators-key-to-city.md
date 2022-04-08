@@ -10,7 +10,7 @@ notes:
 refs: '[{"text"=>"Local coverage", "original"=>"http://www.nypost.com/news/regionalnews/18259.htm",
   "meta"=>{"title"=>"Page not found | New York Post", "favicon"=>"https://nypost.com/wp-content/themes/nypost-2016/static/images/favicon-nypost/favicon.ico"}}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0824-new-york-gives-operators-key-to-city'
 created_at: '2020-08-02T00:44:13.000Z'

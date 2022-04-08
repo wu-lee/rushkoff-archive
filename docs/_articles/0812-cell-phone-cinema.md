@@ -55,7 +55,7 @@ refs: '[{"text"=>"CTIA Wireless IT and Entertainment Expo", "original"=>"http://
   G. McCabe", "Sean Spicer", "Hurricanes"], "twitter_card"=>{}, "favicon"=>"http://www.iht.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico"}},
   {"text"=>"Mobisodes", "original"=>"http://news.com.com/TV+to+the+rescue/2100-1039_3-5423178.html?tag=nefd.top"}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0812-cell-phone-cinema'
 created_at: '2020-08-02T00:44:13.000Z'

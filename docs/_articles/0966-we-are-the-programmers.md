@@ -8,7 +8,7 @@ blurb: It all began with the remote control.
 notes: 
 refs: 
 sources: 
-published: true
+published: false
 img: 
 slug: '0966-we-are-the-programmers'
 created_at: '2020-08-02T00:44:16.000Z'

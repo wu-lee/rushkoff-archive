@@ -13,7 +13,7 @@ refs: '[{"text"=>"Ithaca Hours", "original"=>"http://www.ithacahours.org/", "arc
   "meta"=>{"favicon"=>"http://www.paycircle.org/favicon.ico"}}, {"text"=>"Yahoo Group",
   "original"=>"http://groups.yahoo.com/group/ijccr/", "archive"=>"http://web.archive.org/web/20050207153144/http://groups.yahoo.com:80/group/ijccr/"}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0826-open-source-currency'
 created_at: '2020-08-02T00:44:13.000Z'

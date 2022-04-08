@@ -9,7 +9,7 @@ blurb:
 notes: 
 refs: 
 sources: 
-published: true
+published: false
 img: 
 slug: '0963-the-power-of-three-when-technology-busin'
 created_at: '2020-08-02T00:44:16.000Z'

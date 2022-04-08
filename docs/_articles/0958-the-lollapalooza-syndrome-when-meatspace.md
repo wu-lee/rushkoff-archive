@@ -11,7 +11,7 @@ notes:
 refs: '[{"text"=>"HipNTasty", "original"=>"http://www.hipntasty.com/", "archive"=>"http://web.archive.org/web/20190622224244/http://hipntasty.com/",
   "meta"=>{"favicon"=>"data:image/x-icon;,"}}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0958-the-lollapalooza-syndrome-when-meatspace'
 created_at: '2020-08-02T00:44:16.000Z'

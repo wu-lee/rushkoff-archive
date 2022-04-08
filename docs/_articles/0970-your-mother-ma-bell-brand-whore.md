@@ -9,7 +9,7 @@ notes:
 refs: '[{"text"=>"sell Sprint wireless services under the AT&T brand", "original"=>"http://www.thefeature.com/article?articleid=100647",
   "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0970-your-mother-ma-bell-brand-whore'
 created_at: '2020-08-02T00:44:17.000Z'

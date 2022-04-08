@@ -8,7 +8,7 @@ blurb: Why the mobile industry needs to learn the world's struggling languages.
 notes: 
 refs: 
 sources: 
-published: true
+published: false
 img: 
 slug: '0961-the-next-billion-multilingual-users-and-'
 created_at: '2020-08-02T00:44:16.000Z'

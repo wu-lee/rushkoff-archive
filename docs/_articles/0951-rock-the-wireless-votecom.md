@@ -13,7 +13,7 @@ refs: '[{"text"=>"Open Source Democracy", "original"=>"http://www.demos.co.uk/ca
   "meta"=>{"title"=>"Page not found - Rock the Vote", "open_graph"=>{"locale"=>"en_US",
   "title"=>"Page not found - Rock the Vote", "site_name"=>"Rock the Vote"}, "favicon"=>"https://www.rockthevote.org/wp-content/uploads/cropped-checkmark-icon-192x192.png"}}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0951-rock-the-wireless-votecom'
 created_at: '2020-08-02T00:44:16.000Z'

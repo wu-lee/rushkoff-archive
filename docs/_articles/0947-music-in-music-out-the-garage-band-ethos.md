@@ -59,7 +59,7 @@ refs: '[{"text"=>"integrating their technology into mobile handsets", "original"
   {"text"=>"Quick Ringtone", "original"=>"http://www.handyarchive.com/Audio/Utilities-Plugins/7407-Quick-Ringtone.html",
   "meta"=>{"title"=>"404 Not found!", "favicon"=>"http://www.handyarchive.com/favicon.ico"}}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0947-music-in-music-out-the-garage-band-ethos'
 created_at: '2020-08-02T00:44:16.000Z'

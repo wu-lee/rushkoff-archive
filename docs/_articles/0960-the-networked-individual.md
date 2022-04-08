@@ -14,7 +14,7 @@ refs: '[{"text"=>"Buckminster Fuller", "original"=>"http://www.bfi.org/operating
   {"text"=>"Networked Individualism", "original"=>"http://www.ascusc.org/jcmc/vol8/issue3/wellman.html",
   "meta"=>{"favicon"=>"http://www.ascusc.org/favicon.ico"}}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0960-the-networked-individual'
 created_at: '2020-08-02T00:44:16.000Z'

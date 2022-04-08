@@ -24,7 +24,7 @@ refs: '[{"text"=>"Interactive Media Division", "original"=>"http://interactive.u
   "meta"=>{"title"=>"patholog.org is coming soon", "favicon"=>"http://www.patholog.org/favicon.ico"}},
   {"text"=>"Tracking Agama", "original"=>"http://trackingagama.net/", "archive"=>"http://web.archive.org/web/20181105212528/http://trackingagama.net/"}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0843-tinseltown-20'
 created_at: '2020-08-02T00:44:13.000Z'

@@ -43,7 +43,7 @@ refs: '[{"text"=>"Firefly Mobile", "original"=>"http://www.fireflymobile.com/", 
   "keywords"=>["Reviews", "Showtimes", "DVDs", "Photos", "Message Boards", "User Ratings",
   "Synopsis", "Trailers", "Credits"], "favicon"=>"https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/android-mobile-196x196._CB479962153_.png"}}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0806-another-kind-of-cell-damage'
 created_at: '2020-08-02T00:44:13.000Z'

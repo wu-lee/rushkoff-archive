@@ -52,7 +52,7 @@ refs: '[{"text"=>"Federal Register", "original"=>"http://edocket.access.gpo.gov/
   {"text"=>"Spectrum Etiquette,", "original"=>"http://www.sss-mag.com/fccarchive.html",
   "meta"=>{"title"=>"Archived FCC RF News, page 1", "favicon"=>"http://www.sss-mag.com/favicon.ico"}}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0805-a-spectrum-carol'
 created_at: '2020-08-02T00:44:13.000Z'

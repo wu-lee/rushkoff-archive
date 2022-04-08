@@ -15,7 +15,7 @@ refs: '[{"text"=>"The Feature", "original"=>"http://www.thefeature.com/article?a
   {"text"=>"The Feature", "original"=>"http://www.thefeature.com/article?articleid=100343",
   "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}}]'
 sources: 
-published: true
+published: false
 img: http://www.blogger.com:80/img/icon18_email.gif
 slug: 0130-content-deliverance
 created_at: '2020-08-02T00:43:55.000Z'

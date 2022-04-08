@@ -10,7 +10,7 @@ blurb: Number portability is finally set to arrive in the United States. Provide
 notes: 
 refs: 
 sources: 
-published: true
+published: false
 img: 
 slug: '0846-you-can-take-it-with-you'
 created_at: '2020-08-02T00:44:14.000Z'

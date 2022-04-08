@@ -45,7 +45,7 @@ refs: '[{"text"=>"NYU''s Interactive Telecommunications Program", "original"=>"h
   "meta"=>{"title"=>"賢く借りるキャッシング審査・ローンを比較！", "keywords"=>["キャッシング", "借りる", "審査", "ローン"],
   "favicon"=>"http://www.thefeature.com/favicon.ico"}}]'
 sources: 
-published: true
+published: false
 img: http://www.blogger.com:80/img/icon18_email.gif
 slug: '0681-what-am-i-working-on'
 created_at: '2020-08-02T00:44:09.000Z'

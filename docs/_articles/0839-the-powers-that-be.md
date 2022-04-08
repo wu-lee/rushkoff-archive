@@ -32,7 +32,7 @@ refs: '[{"text"=>"Moore''s Law", "original"=>"http://www.intel.com/research/sili
   {"text"=>"harvesting", "original"=>"http://www.controlmagazine.com/Web_First/CT.nsf/ArticleID/SKUN-5Y3K5R/",
   "meta"=>{"title"=>"controlmagazine.com", "favicon"=>"http://www.controlmagazine.com/favicon.ico"}}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0839-the-powers-that-be'
 created_at: '2020-08-02T00:44:13.000Z'

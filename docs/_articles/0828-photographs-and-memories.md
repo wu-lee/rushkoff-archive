@@ -19,7 +19,7 @@ refs: '[{"text"=>"Katsumi Ihara''s admission", "original"=>"http://www.thefeatur
   "archive"=>"http://web.archive.org/web/20041228093717/http://www.thefeature.com:80/article?articleid=100489",
   "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}}]'
 sources: 
-published: true
+published: false
 img: photomem_files/elphsony.jfif
 slug: '0828-photographs-and-memories'
 created_at: '2020-08-02T00:44:13.000Z'

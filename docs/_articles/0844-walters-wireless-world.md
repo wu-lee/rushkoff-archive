@@ -14,7 +14,7 @@ refs: '[{"text"=>"extraordinary discussion", "original"=>"http://www.thefeature.
   Well", "original"=>"http://www.well.com/", "archive"=>"http://web.archive.org/web/20200731174223/https://www.well.com/"},
   {"text"=>"Electric Minds", "original"=>"http://gnutenberg.net/textz/text.php?text=rheingold_howard_my_experience_with_electric_minds&id=1009948415611"}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0844-walters-wireless-world'
 created_at: '2020-08-02T00:44:13.000Z'

@@ -30,7 +30,7 @@ refs: '[{"text"=>"Radio Orphan Annie Secret Society", "original"=>"http://www.ra
   "description"=>"", "images"=>[{"url"=>"http://www.wirelesswatch.jp/bts/_4sns.jpg"}],
   "card"=>"summary_large_image", "site"=>"@Wireless_Watch"}, "favicon"=>"http://www.wirelesswatch.jp/bts/ico.png"}}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0945-media-tieins-what-the-mobile-industry-ca'
 created_at: '2020-08-02T00:44:16.000Z'

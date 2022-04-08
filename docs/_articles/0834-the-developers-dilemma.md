@@ -20,7 +20,7 @@ refs: '[{"text"=>"Interactive Telecommunications Program,", "original"=>"http://
   "meta"=>{"title"=>"shirky.com is almost here!", "description"=>"The owner of this
   domain has not yet uploaded their website.", "favicon"=>"http://www.shirky.com/favicon.ico"}}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0834-the-developers-dilemma'
 created_at: '2020-08-02T00:44:13.000Z'

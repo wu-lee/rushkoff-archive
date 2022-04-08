@@ -10,7 +10,7 @@ notes:
 refs: '[{"text"=>"crazy conference", "original"=>"http://www.thefeature.com/article?articleid=100272"},
   {"text"=>"secretly available modem driver", "original"=>"http://groups.yahoo.com/group/vzw_t720/files/Mac%20OS%20X%20Verison%20Modem%20Scripts/"}]'
 sources: 
-published: true
+published: false
 img: 
 slug: '0841-the-wireless-obsession'
 created_at: '2020-08-02T00:44:13.000Z'

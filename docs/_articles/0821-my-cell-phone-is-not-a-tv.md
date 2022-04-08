@@ -9,7 +9,7 @@ blurb: The wireless industry's insistence on bringing the wrong media to our cel
 notes: 
 refs: 
 sources: 
-published: true
+published: false
 img: 
 slug: '0821-my-cell-phone-is-not-a-tv'
 created_at: '2020-08-02T00:44:13.000Z'
