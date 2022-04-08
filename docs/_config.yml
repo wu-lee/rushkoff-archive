@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 title: Rushkoff Archive
 description: Douglas Rushkoff's Article Archive
+unpublished: true
 collections:
   articles:
     output: true
