@@ -15,10 +15,13 @@ The original boilerplate index text remains below the contents...
 {% for article in articlesSorted %}
   <li>
   {% if article.published %}
-    <a href="articles/{{ article.slug }}.html">{{ article.publication }} &mdash; <em>{{ article.title }}</em></a>
-	<em>({{ article.date | date: "%D" }})</em>
+    <a href="articles/{{ article.slug }}.html">{{ article.title }}</a>, <em>{{ article.publication }}</em>
+	<em>({{ article.date | date: "%D" }})</em><br>
+	{{ article.subtitle }}
   {% else %}
-    {{ article.publication }} &mdash; <em>{{ article.title }}</em> <em>({{ article.date | date: "%D" }}; marked <a href="articles/{{ article.slug }}.html">unpublished</a>)</em>
+    {{ article.title }}, <em>{{ article.publication }}</em>
+	<em>({{ article.date | date: "%D" }}; <a href="articles/{{ article.slug }}.html">unpublished</a>)</em><br>
+	{{ article.subtitle }}
   {% endif %}
   </li>
 {% endfor %}
