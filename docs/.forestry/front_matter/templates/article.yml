@@ -1,0 +1,43 @@
+---
+label: Article
+hide_body: false
+fields:
+- type: number
+  name: id
+  label: id
+- type: text
+  name: title
+  label: title
+- type: text
+  name: subtitle
+  label: subtitle
+- type: datetime
+  name: date
+  label: date
+- type: text
+  name: publication
+  label: publication
+- type: text
+  name: blurb
+  label: blurb
+- type: text
+  name: notes
+  label: notes
+- type: text
+  name: refs
+  label: refs
+- type: text
+  name: sources
+  label: sources
+- type: text
+  name: img
+  label: img
+- type: text
+  name: slug
+  label: slug
+- type: datetime
+  name: created_at
+  label: created_at
+- type: datetime
+  name: updated_at
+  label: updated_at
