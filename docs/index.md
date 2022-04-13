@@ -8,15 +8,12 @@ The original boilerplate index text remains below the contents...
 
 
 <ul>
-{% assign publications = site.articles | group_by: 'publication' %}
-{% assign publicationsSorted = publications | sort: 'name' %}
-{% for publication in publicationsSorted %}
-{% assign articlesSorted = publication.items | sort: 'title' %}
-{% for article in articlesSorted %}
+{% assign articles = site.articles |  sort: 'date' | reverse %}
+{% for article in articles %}
   <li>
   {% if article.published %}
     <a href="articles/{{ article.slug }}.html">{{ article.title }}</a>, <em>{{ article.publication }}</em>
-	<em>({{ article.date | date: "%D" }})</em><br>
+	<em>({{ article.date | date_to_string }})</em><br>
 	{{ article.subtitle }}
   {% else %}
     {{ article.title }}, <em>{{ article.publication }}</em>
@@ -24,7 +21,6 @@ The original boilerplate index text remains below the contents...
 	{{ article.subtitle }}
   {% endif %}
   </li>
-{% endfor %}
 {% endfor %}
 </ul>
 
