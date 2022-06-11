@@ -3,7 +3,7 @@ id: 725
 title: Privacy Bill Won't Mean Marketers Can't Find You
 subtitle: 
 date: '2011-04-14T04:00:00.000Z'
-publication: CNN
+publication: cnn
 blurb: 
 notes: 
 refs: '[{"text"=>"John Kerry and John McCain proposed this week", "original"=>"http://www.cnn.com/2011/TECH/web/04/13/privacy.bill.rights.internet/index.html?iref=allsearch",

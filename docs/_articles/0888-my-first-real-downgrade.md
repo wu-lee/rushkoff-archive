@@ -3,7 +3,7 @@ id: 888
 title: My First Real Downgrade
 subtitle: 
 date: '1997-08-01T04:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: How Spam Nuked My Ability to Cybercommute
 notes: 
 refs: 

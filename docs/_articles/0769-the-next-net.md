@@ -3,7 +3,7 @@ id: 769
 title: The Next Net
 subtitle: 
 date: '2011-01-03T05:00:00.000Z'
-publication: Shareable
+publication: shareable
 blurb: 
 notes: 
 refs: '[{"text"=>"Glenn Zucman.", "original"=>"http://www.flickr.com/photos/artboyusa/",

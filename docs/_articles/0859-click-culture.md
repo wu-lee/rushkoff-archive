@@ -3,7 +3,7 @@ id: 859
 title: Click Culture
 subtitle: 
 date: '1996-08-01T04:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: Thoughts on the strength of mouse-driven attention spans
 notes: 
 refs: 

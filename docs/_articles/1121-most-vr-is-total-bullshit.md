@@ -3,7 +3,7 @@ id: 1121
 title: Most VR Is Total Bullshit
 subtitle: 
 date: '2019-08-26T16:00:00.000Z'
-publication: Medium
+publication: medium
 blurb: 
 notes: 
 refs: 

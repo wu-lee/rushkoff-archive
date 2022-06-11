@@ -3,7 +3,7 @@ id: 876
 title: Hollywood Lays an Egg
 subtitle: 
 date: '1998-03-01T05:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: The myth of the Content Provider
 notes: 
 refs: 

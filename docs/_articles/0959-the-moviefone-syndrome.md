@@ -3,7 +3,7 @@ id: 959
 title: The Moviefone Syndrome
 subtitle: 
 date: '1999-08-01T04:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: How Convenience Becomes Coercion
 notes: 
 refs: 

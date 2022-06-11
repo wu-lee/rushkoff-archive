@@ -3,7 +3,7 @@ id: 764
 title: Clonaid
 subtitle: 
 date: '2009-04-12T04:00:00.000Z'
-publication: SEED
+publication: seed
 blurb: SEED Magazine March/April 2003
 notes: 
 refs: 

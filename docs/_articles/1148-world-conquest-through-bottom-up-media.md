@@ -3,7 +3,7 @@ id: 1148
 title: World Conquest through Bottom Up Media
 subtitle: 
 date: '2003-04-02T17:00:00.000Z'
-publication: The Feature
+publication: feature
 blurb: 
 notes: 
 refs: 

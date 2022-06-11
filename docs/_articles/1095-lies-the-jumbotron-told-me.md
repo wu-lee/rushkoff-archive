@@ -3,7 +3,7 @@ id: 1095
 title: Lies the Jumbotron Told Me
 subtitle: 
 date: '2018-08-16T16:00:00.000Z'
-publication: Medium
+publication: medium
 blurb: 
 notes: 
 refs: 

@@ -3,7 +3,7 @@ id: 768
 title: The Evolution Will Be Socialized
 subtitle: 
 date: '2011-02-07T05:00:00.000Z'
-publication: Shareable
+publication: shareable
 blurb: 
 notes: 
 refs: '[{"text"=>"same thing in the US", "original"=>"http://www.fastcompany.com/1721753/egypt-internet-kill-switch",

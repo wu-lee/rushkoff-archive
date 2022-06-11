@@ -3,7 +3,7 @@ id: 821
 title: My Cell Phone Is Not a Tv
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: The wireless industry's insistence on bringing the wrong media to our cell
   phones may cost us - and them - the whole game.
 notes: 

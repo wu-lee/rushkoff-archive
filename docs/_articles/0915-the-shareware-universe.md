@@ -3,7 +3,7 @@ id: 915
 title: The Shareware Universe
 subtitle: 
 date: '1998-05-01T04:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: Why innovation happens through cooperation, not competition.
 notes: 
 refs: 

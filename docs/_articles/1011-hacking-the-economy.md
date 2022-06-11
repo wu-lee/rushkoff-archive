@@ -3,7 +3,7 @@ id: 1011
 title: Hacking The Economy
 subtitle: 
 date: '2009-03-19T04:00:00.000Z'
-publication: H+
+publication: h_plus
 blurb: 
 notes: 
 refs: 

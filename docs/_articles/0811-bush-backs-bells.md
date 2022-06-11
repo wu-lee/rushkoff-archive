@@ -3,7 +3,7 @@ id: 811
 title: Bush Backs Bells
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: The Bush administration has signalled it won't oppose efforts by the Baby Bells
   to overturn laws forcing them to lease out their landlines at discounted rates --
   thanks to competition from mobile networks and other technologies.

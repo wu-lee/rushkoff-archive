@@ -3,7 +3,7 @@ id: 5
 title: An End to Movements
 subtitle: 
 date: '2009-08-15T23:00:00.000Z'
-publication: Arthur
+publication: arthur
 blurb: 
 notes: 
 refs: 

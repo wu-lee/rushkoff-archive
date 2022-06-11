@@ -3,7 +3,7 @@ id: 1160
 title: Content Deliverance
 subtitle: 
 date: '2004-01-25T17:00:00.000Z'
-publication: The Feature
+publication: feature
 blurb: 
 notes: 
 refs: 

@@ -3,7 +3,7 @@ id: 1173
 title: New York Gives Operators Key to City
 subtitle: 
 date: '2004-07-30T16:00:00.000Z'
-publication: The Feature
+publication: feature
 blurb: 
 notes: 
 refs: 

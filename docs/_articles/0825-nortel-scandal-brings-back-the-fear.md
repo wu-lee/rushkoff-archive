@@ -3,7 +3,7 @@ id: 825
 title: Nortel Scandal Brings Back the Fear
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: Just last week, it looked like a Fed rate hike or the cooling of China's markets
   were Wall Street's biggest worries. Now, corporate malfeasance has roared back into
   the headlines.

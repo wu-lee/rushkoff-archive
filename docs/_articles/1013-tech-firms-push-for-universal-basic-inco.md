@@ -3,7 +3,7 @@ id: 1013
 title: Tech Firm's Push For Universal Basic Income Is Self-Serving
 subtitle: 
 date: '2017-07-28T04:00:00.000Z'
-publication: Los Angeles Times
+publication: los_angeles_times
 blurb: 
 notes: 
 refs: 

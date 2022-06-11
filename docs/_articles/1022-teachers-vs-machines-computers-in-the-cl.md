@@ -3,7 +3,7 @@ id: 1022
 title: 'Teachers vs. machines: computers in the classroom'
 subtitle: 
 date: '1997-04-11T04:00:00.000Z'
-publication: Washington Times
+publication: washington_times
 blurb: 
 notes: 
 refs: 

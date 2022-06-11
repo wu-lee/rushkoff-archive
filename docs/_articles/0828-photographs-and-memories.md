@@ -3,7 +3,7 @@ id: 828
 title: Photographs and Memories
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: The cameraphone represents the latest step in a long evolution away from elevating
   and preserving moments, to capturing and disposing of them.
 notes: 

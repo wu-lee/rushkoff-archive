@@ -3,7 +3,7 @@ id: 911
 title: The Kids Are Back
 subtitle: 
 date: '1998-11-01T05:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: Hotline Reinvents the Internet
 notes: 
 refs: 

@@ -3,7 +3,7 @@ id: 892
 title: Opportunity Costs
 subtitle: 
 date: '2008-05-09T04:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: March 1997
 notes: 
 refs: 

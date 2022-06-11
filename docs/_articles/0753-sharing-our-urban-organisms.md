@@ -3,7 +3,7 @@ id: 753
 title: Sharing Our Urban Organisms
 subtitle: 
 date: '2006-11-01T06:00:00.000Z'
-publication: Discover
+publication: discover
 blurb: 
 notes: 
 refs: 

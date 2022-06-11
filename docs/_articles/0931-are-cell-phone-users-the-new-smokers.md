@@ -3,7 +3,7 @@ id: 931
 title: Are Cell Phone Users the New Smokers?
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: 
 notes: 
 refs: '[{"text"=>"Seattle Times", "original"=>"http://seattletimes.nwsource.com/html/living/2002010067_etiquettenew22.html",

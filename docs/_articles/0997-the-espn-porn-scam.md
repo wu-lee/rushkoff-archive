@@ -3,7 +3,7 @@ id: 997
 title: The ESPN Porn Scam
 subtitle: 
 date: '2009-07-22T04:00:00.000Z'
-publication: The Daily Beast
+publication: daily_beast
 blurb: On the Internet, there's no currency more readily accepted—and exploitable—than
   a few pixels of porn. This week's leak of a video, apparently taped illegally, of
   ESPN star Erin Andrews changing in her hotel room has kept her fans busy downloading

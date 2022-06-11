@@ -3,7 +3,7 @@ id: 1037
 title: We'll Be Back
 subtitle: 
 date: '2009-08-24T04:00:00.000Z'
-publication: Publisher's Weekly
+publication: publishers_weekly
 blurb: Why scaling down is good for publishing
 notes: 
 refs: 

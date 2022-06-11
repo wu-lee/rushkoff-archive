@@ -3,7 +3,7 @@ id: 817
 title: It's Got a Hold on You
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: The mobile phones in our hands may have a more totemic role in our lives than
   we suspect.
 notes: 

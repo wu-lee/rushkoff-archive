@@ -3,7 +3,7 @@ id: 966
 title: We Are the Programmers
 subtitle: 
 date: '2009-04-13T04:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: It all began with the remote control.
 notes: 
 refs: 

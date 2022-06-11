@@ -3,7 +3,7 @@ id: 1194
 title: 'Autonomous Zone: The Work-as-Art of Yury Gitman'
 subtitle: 
 date: '2004-08-11T16:00:00.000Z'
-publication: The Feature
+publication: feature
 blurb: 
 notes: 
 refs: 

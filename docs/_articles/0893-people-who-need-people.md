@@ -3,7 +3,7 @@ id: 893
 title: People Who Need People
 subtitle: 
 date: '1998-03-01T05:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: How the Dwarf Beat Leonardo
 notes: 
 refs: 

@@ -3,7 +3,7 @@ id: 854
 title: Blinded by the Bytes
 subtitle: 
 date: '2000-06-01T04:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: Why the MP3 Format Sucks
 notes: 
 refs: 

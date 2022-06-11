@@ -3,7 +3,7 @@ id: 822
 title: Networked Plush
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: Inserting a cell phone or an Airport in a fuzzy doll just won't cut it. It's
   time for toys to network.
 notes: 

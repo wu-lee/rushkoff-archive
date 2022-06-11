@@ -3,7 +3,7 @@ id: 991
 title: Is Apple the New Big Brother?
 subtitle: 
 date: '2009-08-11T04:00:00.000Z'
-publication: The Daily Beast
+publication: daily_beast
 blurb: 'Has the company that famously satirized the stultifying primacy of IBM-compatible
   computers in its Orwellian commercial for the 1984 Super Bowl finally emerged as
   the successor to Big Brother? Jason Calacanis, Web entrepreneur and a longtime Macintosh

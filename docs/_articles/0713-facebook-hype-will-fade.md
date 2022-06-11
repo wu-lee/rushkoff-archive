@@ -3,7 +3,7 @@ id: 713
 title: Facebook Hype Will Fade
 subtitle: 
 date: '2011-01-07T05:00:00.000Z'
-publication: CNN
+publication: cnn
 blurb: 
 notes: 
 refs: '[{"text"=>"CNN.com", "original"=>"http://www.cnn.com/2011/OPINION/01/07/rushkoff.facebook.myspace/",

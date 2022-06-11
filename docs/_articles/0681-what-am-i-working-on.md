@@ -3,7 +3,7 @@ id: 681
 title: What Am I Working On?
 subtitle: 
 date: '2003-11-06T05:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: Lots of people have been emailing to find out what I'm working on right now.
   Honestly, I'm working on too much. Here's the main list - I'll break it down in
   future posts, because some of it would benefit from discussion.

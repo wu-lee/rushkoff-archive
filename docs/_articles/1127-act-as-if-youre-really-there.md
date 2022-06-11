@@ -3,7 +3,7 @@ id: 1127
 title: Act as if You’re Really There
 subtitle: 
 date: '2020-03-16T16:00:00.000Z'
-publication: Medium
+publication: medium
 blurb: 
 notes: 
 refs: 

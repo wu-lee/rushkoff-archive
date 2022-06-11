@@ -3,7 +3,7 @@ id: 826
 title: Open Source Currency
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: Or, how mobile phones can break the money monopoly.
 notes: 
 refs: '[{"text"=>"Ithaca Hours", "original"=>"http://www.ithacahours.org/", "archive"=>"http://web.archive.org/web/20200116135655/http://www.ithacahours.org:80/",

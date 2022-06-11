@@ -3,7 +3,7 @@ id: 896
 title: Remedy Over Revenge
 subtitle: 
 date: '2001-07-01T04:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: How to Solve the Microsoft Case Once, and for All
 notes: 
 refs: 

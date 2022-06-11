@@ -3,7 +3,7 @@ id: 1188
 title: It's Got a Hold on You
 subtitle: 
 date: '2005-05-27T16:00:00.000Z'
-publication: The Feature
+publication: feature
 blurb: 
 notes: 
 refs: 

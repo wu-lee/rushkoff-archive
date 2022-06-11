@@ -3,7 +3,7 @@ id: 870
 title: Eyes on the Prize
 subtitle: 
 date: '2000-10-01T04:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: Let business build our Internet for us
 notes: 
 refs: 

@@ -3,7 +3,7 @@ id: 25
 title: The Light at the End of the Reality Tunnel
 subtitle: 
 date: '2006-12-27T00:00:00.000Z'
-publication: Arthur
+publication: arthur
 blurb: "(Originally published in [Arthur No. 25/Winter 02006](http://www.arthurmag.com/store/index.php?ID=31))"
 notes: 
 refs: 

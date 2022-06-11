@@ -3,7 +3,7 @@ id: 1123
 title: Was Humanity Simply Not Ready for the Internet?
 subtitle: 
 date: '2019-11-14T17:00:00.000Z'
-publication: Medium
+publication: medium
 blurb: 
 notes: 
 refs: 

@@ -3,7 +3,7 @@ id: 1183
 title: 'The Next Billion: Multilingual Users and Mobile Telephony'
 subtitle: 
 date: '2005-01-26T17:00:00.000Z'
-publication: The Feature
+publication: feature
 blurb: 
 notes: 
 refs: 

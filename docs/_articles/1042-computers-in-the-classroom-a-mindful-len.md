@@ -3,7 +3,7 @@ id: 1042
 title: 'Computers in the Classroom: A Mindful Lens on Technology'
 subtitle: 
 date: '2012-12-11T05:00:00.000Z'
-publication: Edutopia
+publication: edutopia
 blurb: 
 notes: 
 refs: 

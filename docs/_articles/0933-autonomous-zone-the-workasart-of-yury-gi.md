@@ -3,7 +3,7 @@ id: 933
 title: 'Autonomous Zone: The Work-as-Art of Yury Gitman'
 subtitle: 
 date: '2004-08-11T04:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: How mobile gaming energizes the spirit -- and technology -- of the networked
   society.
 notes: 

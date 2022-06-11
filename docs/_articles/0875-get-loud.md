@@ -3,7 +3,7 @@ id: 875
 title: Get Loud!
 subtitle: 
 date: '1999-05-01T04:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: The Knicks Noise-Meter and the Pitfalls of Interactive Style
 notes: 
 refs: 

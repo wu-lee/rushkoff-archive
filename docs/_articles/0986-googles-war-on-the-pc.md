@@ -3,7 +3,7 @@ id: 986
 title: Google's War on the PC
 subtitle: 
 date: '2009-07-08T04:00:00.000Z'
-publication: The Daily Beast
+publication: daily_beast
 blurb: As the GoogleApps suite of programs finally graduated from its \"beta\" status
   this week, Google also announced its plans to release an operating system on which
   to run them. Google Chrome, based on the company's new browser, will invite us all

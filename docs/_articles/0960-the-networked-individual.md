@@ -3,7 +3,7 @@ id: 960
 title: The Networked Individual
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: The cell phone may be bringing us into a new renaissance, but it may end up
   differently than what we're expecting. Instead of becoming more empowered as individuals,
   we may give up on the notion of individuality altogether.

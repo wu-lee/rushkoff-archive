@@ -3,7 +3,7 @@ id: 894
 title: Predictions, Anyone?
 subtitle: 
 date: '1998-12-01T05:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: Predictions and Anti-predictions for the Coming Decade
 notes: 
 refs: 

@@ -3,7 +3,7 @@ id: 856
 title: Buying a Computer for Mom
 subtitle: 
 date: '2000-07-01T04:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: Why it's so hard to find something that works, anymore.
 notes: 
 refs: 

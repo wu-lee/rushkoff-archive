@@ -3,7 +3,7 @@ id: 829
 title: Sex, Lies and Videophones
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: New services allow users to fake the background sounds and appearance   of
   their locations -- all because interactive media really wants us to   be more honest.
 notes: 

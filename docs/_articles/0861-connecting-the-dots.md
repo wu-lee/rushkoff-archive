@@ -3,7 +3,7 @@ id: 861
 title: Connecting the Dots
 subtitle: 
 date: '1996-12-01T05:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: TWA flight 808, CIA Crack sales, and Internet-style Conspiracy Theory
 notes: 
 refs: 

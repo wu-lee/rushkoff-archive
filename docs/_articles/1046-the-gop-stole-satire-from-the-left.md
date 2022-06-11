@@ -3,7 +3,7 @@ id: 1046
 title: The GOP Stole Satire From the Left
 subtitle: 
 date: '2020-09-16T16:00:00.000Z'
-publication: Medium
+publication: medium
 blurb: Trump has brought pranksterism to the Republican Party. That used to be liberals’
   specialty.
 notes: 

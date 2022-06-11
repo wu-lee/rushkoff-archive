@@ -3,7 +3,7 @@ id: 24
 title: Suicide Bombs as Viral Media
 subtitle: 
 date: '2005-07-01T04:00:00.000Z'
-publication: Arthur
+publication: arthur
 blurb: 
 notes: 
 refs: 

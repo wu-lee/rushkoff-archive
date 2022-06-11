@@ -3,7 +3,7 @@ id: 951
 title: Rock the (Wireless) vote.com
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: Does politics by thumb - via the culture of MTV - enhance democracy, or reduce
   it to a marketing survey?
 notes: 

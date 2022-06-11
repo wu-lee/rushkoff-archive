@@ -5,10 +5,17 @@ unpublished: false
 collections:
   articles:
     output: true
+  publications:
+    output: true
 defaults:
   - scope:
       path: ''
       type: 'articles'
     values:
       layout: 'article'
+  - scope:
+      path: ''
+      type: 'publications'
+    values:
+      layout: 'publication'
   

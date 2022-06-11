@@ -3,7 +3,7 @@ id: 844
 title: Walter's Wireless World
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: What would Walter Ong have thought about the current evolution of mobile media,
   or, What Would Jesus Moblog?
 notes: 

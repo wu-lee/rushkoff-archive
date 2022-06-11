@@ -3,7 +3,7 @@ id: 17
 title: Net Loss
 subtitle: 
 date: '2007-04-05T04:00:00.000Z'
-publication: Arthur
+publication: arthur
 blurb: "*(intended for publication in the cancelled Arthur Vol. 1, No. 26 \\\\[March
   2007\\\\])*"
 notes: 

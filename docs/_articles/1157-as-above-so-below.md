@@ -3,7 +3,7 @@ id: 1157
 title: As Above, So Below
 subtitle: 
 date: '2003-12-14T17:00:00.000Z'
-publication: The Feature
+publication: feature
 blurb: 
 notes: 
 refs: 

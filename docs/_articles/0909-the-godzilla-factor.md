@@ -3,7 +3,7 @@ id: 909
 title: The Godzilla Factor
 subtitle: 
 date: '1998-07-01T04:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: Why the movie, and the New Economy, failed.
 notes: 
 refs: 

@@ -3,7 +3,7 @@ id: 955
 title: Suicide Jews
 subtitle: 
 date: '2003-06-11T04:00:00.000Z'
-publication: NY Press
+publication: ny_press
 blurb: The self-imposed death of institutional Judaism.
 notes: 
 refs: 

@@ -1,0 +1,66 @@
+/* Make the padding bottom of headers larger */
+header.post-header {
+  padding-bottom: 20px;
+}
+
+/* Style the .meta element and position it below the header rule */
+header.post-header {
+  margin-bottom: 50px;
+  position: relative;
+}
+header.post-header .meta {
+  position: absolute;
+  font-size: small;
+  font-style: italic;
+  bottom: -2em;
+}
+header.post-header .meta a {
+  color: #333;
+}
+
+/* Add a larger margin and a rule to post-lists */
+.post-list-wrapper {
+  margin-top: 2em;
+}
+ul.post-list {
+  margin-top: 0;
+	border-top: 1px solid #ccc;
+}
+
+
+/* Align article post-list dates and publications vertically */
+ul.post-list .flex-align {
+  display: flex;
+  align-items: baseline;
+}
+
+/* Align the post-list subtitles */
+ul.post-list .flex-align .post-list-title {
+  flex-grow: 1;
+}
+ul.post-list .flex-align .post-link {
+  margin-left: revert; /* undo theme style */
+}
+ul.post-list .flex-align .post-date {
+  margin-right: 10px;
+}
+ul.post-list .flex-align .post-list-publication {
+  margin-left: 10px;
+}
+li.post-list-item .post-list-subtitle {
+  flex-basis: 100%;
+  margin-left: 90px;
+  font-style: italic;
+  font-size: medium;
+}
+
+/* Prevent content from expanding too wide; center it when it stops expanding */
+article.post {
+  max-width: 65em;
+  margin: auto;
+}
+
+/* Space content paragraphs */
+article.post .post-text p {
+  margin-bottom: 1.5em;
+}

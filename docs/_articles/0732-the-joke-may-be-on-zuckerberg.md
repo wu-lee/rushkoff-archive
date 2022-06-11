@@ -3,7 +3,7 @@ id: 732
 title: The Joke May Be on Zuckerberg
 subtitle: 
 date: '2013-04-17T04:00:00.000Z'
-publication: CNN
+publication: cnn
 blurb: 
 notes: 
 refs: '[{"text"=>"Mark Zuckerberg''s announcement", "original"=>"http://hothardware.com/News/Zuckerberg-Evangelizes-Facebook-Home-In-New-Video-Ad-Actually-Entertaining/"},

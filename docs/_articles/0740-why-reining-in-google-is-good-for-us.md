@@ -3,7 +3,7 @@ id: 740
 title: Why Reining in Google Is Good for Us
 subtitle: 
 date: '2012-05-04T04:00:00.000Z'
-publication: CNN
+publication: cnn
 blurb: 
 notes: 
 refs: '[{"text"=>"challenging", "original"=>"http://www.nytimes.com/2012/04/28/technology/us-move-has-google-fighting-on-2-fronts.html",

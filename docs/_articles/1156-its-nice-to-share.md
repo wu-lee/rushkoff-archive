@@ -3,7 +3,7 @@ id: 1156
 title: It's Nice to Share
 subtitle: 
 date: '2003-11-21T17:00:00.000Z'
-publication: The Feature
+publication: feature
 blurb: 
 notes: 
 refs: 

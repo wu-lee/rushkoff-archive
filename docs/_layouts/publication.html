@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article class="post">
+  <header class="post-header">
+    <div class="post-title">{{ page.title | escape }}</div>
+  </header>
+
+  {% if page.img %}
+  <div>
+    <a href="{{ page.url }}">
+      <img class="publication hero" src="{{ page.img }}" alt="publication image">
+    </a>
+  </div>
+  {% endif %}
+
+  <div class="post-text">
+    {{ content }}
+  </div>
+
+  {% include article-list.html publication=page.slug %}
+</article>

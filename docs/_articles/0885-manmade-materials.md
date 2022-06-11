@@ -3,7 +3,7 @@ id: 885
 title: Manmade Materials
 subtitle: 
 date: '1998-10-01T04:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: Is Anything Not Natural?
 notes: 
 refs: 

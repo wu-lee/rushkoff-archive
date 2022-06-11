@@ -3,7 +3,7 @@ id: 1184
 title: That’s Inter-tainment
 subtitle: 
 date: '2005-03-09T17:00:00.000Z'
-publication: The Feature
+publication: feature
 blurb: 
 notes: 
 refs: 

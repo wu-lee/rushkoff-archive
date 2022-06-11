@@ -3,7 +3,7 @@ id: 831
 title: Social Currency
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: No matter how colorful you make it, content will never be king in a wireless
   world. It's not the content that matters - it's the contact.
 notes: 

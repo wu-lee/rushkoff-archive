@@ -4,7 +4,7 @@ title: Sending Out an S.O.S. - What the Storm Taught Me About People, Power, and
   Commons
 subtitle: 
 date: '2012-11-05T05:00:00.000Z'
-publication: CNN
+publication: cnn
 blurb: 
 notes: 
 refs: '[{"text"=>"Eatocracy: Anthony Bourdain says help NYC restaurants: Eat out,

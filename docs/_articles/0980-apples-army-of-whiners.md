@@ -3,7 +3,7 @@ id: 980
 title: Apple's Army of Whiners
 subtitle: 
 date: '2009-06-22T04:00:00.000Z'
-publication: The Daily Beast
+publication: daily_beast
 blurb: Feel better Steve, but what about me? I mean, I know cancer surgery is no picnic,
   but what does the possibility that you'll reject your new liver mean for my Apple
   share price? Or my iTunes collection? Should I be converting it all to MP3? I just

@@ -3,7 +3,7 @@ id: 865
 title: Designer Apocalypse
 subtitle: 
 date: '1997-03-01T05:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: One reaction to the Heavens Gate Cult suicide
 notes: 
 refs: 

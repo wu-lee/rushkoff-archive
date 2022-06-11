@@ -3,7 +3,7 @@ id: 976
 title: 'Murdoch to Google: Search This'
 subtitle: 
 date: '2009-11-10T00:00:00.000Z'
-publication: The Daily Beast
+publication: daily_beast
 blurb: 'As unlikely as it sounds, Rupert Murdoch may end up being our last best hope
   for a peaceful solution to the Internet''s war on professional journalism. A man
   who many blame for commodifying, globalizing, sensationalizing, and cheapening news

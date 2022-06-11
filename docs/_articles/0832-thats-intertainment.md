@@ -3,7 +3,7 @@ id: 832
 title: That's Inter-Tainment
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: How mobile can -- and should -- change the way we think about entertaining
   ourselves and each other.
 notes: 

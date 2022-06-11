@@ -6,7 +6,7 @@ title: As the hedge fund billionaires suffering catastrophic losses in the r/Wal
   would b
 subtitle: 
 date: '2021-01-29T17:00:00.000Z'
-publication: Medium
+publication: medium
 blurb: 
 notes: 
 refs: 

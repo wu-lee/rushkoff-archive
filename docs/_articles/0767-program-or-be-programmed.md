@@ -3,7 +3,7 @@ id: 767
 title: Program or Be Programmed
 subtitle: 
 date: '2010-10-07T04:00:00.000Z'
-publication: Shareable
+publication: shareable
 blurb: 
 notes: 
 refs: '[{"text"=>"Program or be Programmed: Ten Commands for the Digital Age", "original"=>"http://www.orbooks.com/our-books/program/",

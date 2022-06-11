@@ -3,7 +3,7 @@ id: 12
 title: Faith = Illness
 subtitle: 
 date: '2006-04-30T04:00:00.000Z'
-publication: Arthur
+publication: arthur
 blurb: Why I've had it with religious tolerance.
 notes: 
 refs: 

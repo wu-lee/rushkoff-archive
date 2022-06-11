@@ -3,7 +3,7 @@ id: 1149
 title: The Wireless Background
 subtitle: 
 date: '2003-08-23T16:00:00.000Z'
-publication: The Feature
+publication: feature
 blurb: 
 notes: 
 refs: 

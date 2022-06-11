@@ -3,7 +3,7 @@ id: 719
 title: Internet Is Easy Prey for Governments
 subtitle: 
 date: '2011-02-08T05:00:00.000Z'
-publication: CNN
+publication: cnn
 blurb: 
 notes: 
 refs: 

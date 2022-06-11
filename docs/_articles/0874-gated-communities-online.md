@@ -3,7 +3,7 @@ id: 874
 title: Gated Communities Online
 subtitle: 
 date: '1997-07-01T04:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: Member-only areas, and the social costs.
 notes: 
 refs: 

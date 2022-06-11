@@ -3,7 +3,7 @@ id: 1069
 title: The AntiVax MetaConspiracy
 subtitle: 
 date: '2021-07-28T16:00:00.000Z'
-publication: Medium
+publication: medium
 blurb: 
 notes: 
 refs: 

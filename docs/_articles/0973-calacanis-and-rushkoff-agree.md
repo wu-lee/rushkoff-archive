@@ -3,7 +3,7 @@ id: 973
 title: Calacanis and Rushkoff Agree
 subtitle: 
 date: '2009-07-29T04:00:00.000Z'
-publication: The Daily Beast
+publication: daily_beast
 blurb: 'Me, at Daily Beast, on the Yahoo-Microsoft deal:'
 notes: 
 refs: '[{"text"=>"Me, at Daily Beast", "original"=>"http://tinyurl.com/mchrzl"}, {"text"=>"Jason

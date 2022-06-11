@@ -3,7 +3,7 @@ id: 743
 title: Yahoo Wants Tumblr's Teens
 subtitle: 
 date: '2013-05-20T04:00:00.000Z'
-publication: CNN
+publication: cnn
 blurb: 
 notes: 
 refs: '[{"text"=>"pay over $1 billion", "original"=>"http://money.cnn.com/2013/05/20/technology/yahoo-buys-tumblr/index.html",

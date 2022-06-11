@@ -3,7 +3,7 @@ id: 995
 title: Obama's Internet Misfire
 subtitle: 
 date: '2009-05-29T04:00:00.000Z'
-publication: The Daily Beast
+publication: daily_beast
 blurb: Neither President Obama's announcement Friday of a new \"cyber czar\" nor the
   Pentagon's simultaneous creation of a central \"Cyber Command\" from which to defend
   our nation's networks will be enough to bring us up to speed in a rapidly evolving

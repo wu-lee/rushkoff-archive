@@ -3,7 +3,7 @@ id: 1083
 title: '3D Printers: Making is the New Taking'
 subtitle: 
 date: '2013-12-01T17:00:00.000Z'
-publication: Hemispheres Magazine
+publication: hemispheres_magazine
 blurb: 
 notes: 
 refs: 

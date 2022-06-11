@@ -3,7 +3,7 @@ id: 763
 title: The Hidden Architecure of the Internet
 subtitle: 
 date: '2008-05-13T04:00:00.000Z'
-publication: Red Herring
+publication: red_herring
 blurb: The real space of cyberspace
 notes: 
 refs: 

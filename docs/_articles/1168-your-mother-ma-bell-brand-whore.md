@@ -3,7 +3,7 @@ id: 1168
 title: 'Your Mother: Ma Bell, Brand Whore?'
 subtitle: 
 date: '2004-05-21T16:00:00.000Z'
-publication: The Feature
+publication: feature
 blurb: 
 notes: 
 refs: 

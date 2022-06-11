@@ -3,7 +3,7 @@ id: 956
 title: 'The Ayes Have It: Us Law Catches Up With Camera Phones'
 subtitle: 
 date: '2004-05-13T04:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: In reaction to a recent spate of camera phone voyeurism in places like locker
   rooms and bleacher seats, a new bill has been put before the US Congress that would
   make it illegal to videotape, photograph, film, broadcast or record a person who

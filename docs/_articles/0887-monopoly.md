@@ -3,7 +3,7 @@ id: 887
 title: Monopoly
 subtitle: 
 date: '2000-02-01T05:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: Why I'm not afraid of media monopolies
 notes: 
 refs: 

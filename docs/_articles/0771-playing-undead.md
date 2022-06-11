@@ -3,7 +3,7 @@ id: 771
 title: Playing Undead
 subtitle: 
 date: '1995-04-01T05:00:00.000Z'
-publication: Swing
+publication: swing
 blurb: 
 notes: 
 refs: 

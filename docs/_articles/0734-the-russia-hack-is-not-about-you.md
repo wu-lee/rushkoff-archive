@@ -3,7 +3,7 @@ id: 734
 title: The Russia Hack Is Not About You
 subtitle: 
 date: '2014-08-06T04:00:00.000Z'
-publication: CNN
+publication: cnn
 blurb: 
 notes: 
 refs: '[{"text"=>"1.2 billion usernames and passwords have been compromised", "original"=>"http://money.cnn.com/2014/08/05/technology/security/russian-hackers-theft/index.html?hpt=hp_t2",

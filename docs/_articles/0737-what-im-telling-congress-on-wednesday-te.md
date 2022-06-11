@@ -3,7 +3,7 @@ id: 737
 title: 'What I''m Telling Congress on Wednesday: Teach Kids Code'
 subtitle: 
 date: '2012-12-10T00:00:00.000Z'
-publication: CNN
+publication: cnn
 blurb: 
 notes: 
 refs: '[{"text"=>"Computer Science Education Week", "original"=>"http://www.csedweek.org/",

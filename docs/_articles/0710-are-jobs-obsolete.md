@@ -3,7 +3,7 @@ id: 710
 title: Are Jobs Obsolete?
 subtitle: 
 date: '2011-09-07T04:00:00.000Z'
-publication: CNN
+publication: cnn
 blurb: 
 notes: 
 refs: '[{"text"=>"U.N. Food and Agriculture Organization", "original"=>"http://www.fao.org/dg/1999/millen-e.htm",

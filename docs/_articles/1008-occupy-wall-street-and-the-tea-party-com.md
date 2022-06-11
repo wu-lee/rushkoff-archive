@@ -3,7 +3,7 @@ id: 1008
 title: Occupy Wall Street and the Tea Party compared
 subtitle: 
 date: '2011-11-07T05:00:00.000Z'
-publication: The Guardian
+publication: guardian
 blurb: 
 notes: 
 refs: 

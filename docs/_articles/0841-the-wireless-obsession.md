@@ -3,7 +3,7 @@ id: 841
 title: The Wireless Obsession
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: Are there times when going wireless is just plain pointless? Rushkoff's extended
   battle with Wireless Obsessive Dissorder.
 notes: 

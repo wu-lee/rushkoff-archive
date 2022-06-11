@@ -3,7 +3,7 @@ id: 988
 title: How I Became an Enemy of the People
 subtitle: 
 date: '2009-06-08T04:00:00.000Z'
-publication: The Daily Beast
+publication: daily_beast
 blurb: The only thing I wanted during my short infamy in the blogosphere was for the
   noise to stop. I had broken faith with the market, and the market was seeking its
   revenge in the form of hundreds, even thousands of posts from angry Brooklynites.

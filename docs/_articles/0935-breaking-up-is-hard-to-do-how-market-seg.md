@@ -3,7 +3,7 @@ id: 935
 title: 'Breaking Up Is Hard to Do: How Market Segmentation Could Erode a Mobile Culture'
 subtitle: 
 date: '2004-12-08T05:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: \"I know I'm wasting half my advertising dollars — I just don't know which
   half.\"
 notes: 

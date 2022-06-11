@@ -3,7 +3,7 @@ id: 750
 title: New Pseudoscience Patina, Same Snake Oil
 subtitle: 
 date: '2007-06-20T04:00:00.000Z'
-publication: Discover
+publication: discover
 blurb: 
 notes: 
 refs: 

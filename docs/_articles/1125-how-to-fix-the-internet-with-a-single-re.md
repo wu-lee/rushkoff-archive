@@ -3,7 +3,7 @@ id: 1125
 title: How to Fix the Internet With a Single Regulation
 subtitle: 
 date: '2020-01-09T17:00:00.000Z'
-publication: Medium
+publication: medium
 blurb: 
 notes: 
 refs: 

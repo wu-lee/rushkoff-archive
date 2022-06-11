@@ -3,7 +3,7 @@ id: 723
 title: Occupy Debt
 subtitle: 
 date: '2012-11-14T00:00:00.000Z'
-publication: CNN
+publication: cnn
 blurb: 
 notes: 
 refs: '[{"text"=>"Most recently,", "original"=>"http://www.nytimes.com/2012/11/11/nyregion/where-fema-fell-short-occupy-sandy-was-there.html?pagewanted=all",

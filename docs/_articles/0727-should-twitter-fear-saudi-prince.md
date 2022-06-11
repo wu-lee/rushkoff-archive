@@ -3,7 +3,7 @@ id: 727
 title: Should Twitter Fear Saudi Prince?
 subtitle: 
 date: '2011-12-20T00:00:00.000Z'
-publication: CNN
+publication: cnn
 blurb: 
 notes: 
 refs: '[{"text"=>"invested $300 million", "original"=>"http://money.cnn.com/2011/12/19/technology/saudi_prince_twitter/index.htm"},

@@ -3,7 +3,7 @@ id: 1023
 title: Tilting at Windows
 subtitle: 
 date: '1998-06-04T04:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: 
 notes: 
 refs: 

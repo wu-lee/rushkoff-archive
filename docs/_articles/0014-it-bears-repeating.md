@@ -3,7 +3,7 @@ id: 14
 title: It Bears Repeating
 subtitle: 
 date: '2008-05-01T04:00:00.000Z'
-publication: Arthur
+publication: arthur
 blurb: "*from [Arthur Magazine No. 29/**May 2008**](http://www.arthurmag.com/store/index.php?ID=36)*"
 notes: 
 refs: 

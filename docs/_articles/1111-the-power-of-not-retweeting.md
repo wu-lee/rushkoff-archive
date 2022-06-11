@@ -3,7 +3,7 @@ id: 1111
 title: The Power of Not Retweeting
 subtitle: 
 date: '2018-01-30T17:00:00.000Z'
-publication: Medium
+publication: medium
 blurb: 
 notes: 
 refs: 

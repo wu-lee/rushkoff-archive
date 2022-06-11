@@ -1,0 +1,60 @@
+{%- comment -%}
+<!--
+ This include accepts one parameter:
+   - publication: restrict articles those with this publication slug
+
+ It is intended to next inside markdown content, i.e. within a page layout.
+-->
+{%- endcomment -%}
+
+{% if include.publication %}
+{%   assign articles = site.articles | where: "publication", include.publication | sort: 'date' | reverse %}
+{% else %}
+{%   assign articles = site.articles | sort: 'date' | reverse %}
+{% endif %}
+
+<div class="post-list-wrapper">
+<p class="badge">
+  {{ articles.size }} {% if articles.size == 1 %}article{% else %}articles{% endif %}.
+</p>
+
+{%- if articles.size > 0 -%}
+<ul class="post-list">
+  {%- for article in articles -%}
+  {% assign publication = site.publications | where: "slug", article.publication | first %}
+  <li class="post-list-item">
+    <div class="flex-align">
+
+    {%- assign date_format = "%Y/%m/%d" -%}
+    <span class="post-date">{{ article.date | date: date_format }}</span>
+
+    <span class="post-list-title">
+      {% if article.published %}
+      <a class="post-link" href="{{ article.url | relative_url }}">
+        {{ article.title | escape }}
+      </a>
+      
+      {% else %}
+      {{ article.title | escape }}
+      
+      {% endif %}
+    </span>
+
+    <span class="post-list-publication">
+    {% if include.publication %}
+    {%   unless article.published %}(unpublished){% endunless %}
+    {% else %}
+      (<a href="{{ publication.url }}" class="post-link">{{ publication.title | escape -}}</a>
+      {%- unless article.published -%}; unpublished{%- endunless -%})
+    {% endif %}
+    </span>
+    </div>
+    {% if article.subtitle %}
+    <div class="post-list-subtitle">{{ article.subtitle | escape }}</span>
+    {% endif %}
+
+  </li>
+  {%- endfor -%}
+</ul>
+{%- endif -%}
+</div>

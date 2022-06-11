@@ -3,7 +3,7 @@ id: 949
 title: 'Phone App Writers: The Next Generation'
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: Last year, it was Dodgeball. What do this year's students have in store for
   the mobile phone?
 notes: 

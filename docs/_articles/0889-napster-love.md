@@ -3,7 +3,7 @@ id: 889
 title: Napster Love
 subtitle: 
 date: '2000-05-01T04:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: How Napster amounts to little more than a consumer revolt.
 notes: 
 refs: 

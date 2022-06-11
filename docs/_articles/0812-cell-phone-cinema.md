@@ -3,7 +3,7 @@ id: 812
 title: Cell Phone Cinema
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: Lights, camera, compression! The new world of bite-sized video.
 notes: 
 refs: '[{"text"=>"CTIA Wireless IT and Entertainment Expo", "original"=>"http://www.wirelessit.com/",

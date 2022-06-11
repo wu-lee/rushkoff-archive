@@ -3,7 +3,7 @@ id: 1085
 title: The Mother of All Bubbles
 subtitle: 
 date: '2014-02-04T16:56:02.000Z'
-publication: Hemispheres Magazine
+publication: hemispheres_magazine
 blurb: 
 notes: 
 refs: 

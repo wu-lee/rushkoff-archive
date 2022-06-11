@@ -3,7 +3,7 @@ id: 1118
 title: Operation Mindfuck 2.0
 subtitle: 
 date: '2019-04-24T16:00:00.000Z'
-publication: Medium
+publication: medium
 blurb: 
 notes: 
 refs: 

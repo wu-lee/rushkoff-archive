@@ -3,7 +3,7 @@ id: 999
 title: The iPhone Becomes a Bully
 subtitle: 
 date: '2010-03-02T05:00:00.000Z'
-publication: The Daily Beast
+publication: daily_beast
 blurb: Okay, I'll admit that when I turned on my brand new Google Android Nexus phone
   yesterday morning, I was pleasantly surprised to see the now-familiar sliding \"unlock\"
   screen icon sported on the Apple iPhone. It's a clever way to prevent accidental

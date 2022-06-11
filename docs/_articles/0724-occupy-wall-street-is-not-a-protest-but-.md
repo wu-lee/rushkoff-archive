@@ -3,7 +3,7 @@ id: 724
 title: Occupy Wall Street Is Not a Protest but a Prototype
 subtitle: 
 date: '2011-10-26T00:00:00.000Z'
-publication: CNN
+publication: cnn
 blurb: 
 notes: 
 refs: '[{"text"=>"General Assembly", "original"=>"http://www.nycga.net/resources/general-assembly-guide/",

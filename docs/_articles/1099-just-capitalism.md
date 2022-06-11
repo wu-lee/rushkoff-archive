@@ -3,7 +3,7 @@ id: 1099
 title: Just Capitalism
 subtitle: 
 date: '2018-09-18T16:00:00.000Z'
-publication: Medium
+publication: medium
 blurb: 
 notes: 
 refs: 

@@ -3,7 +3,7 @@ id: 900
 title: Teachers vs Machines
 subtitle: 
 date: '1996-12-01T05:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: Why teachers needn't be afraid of computers in their classrooms
 notes: 
 refs: 

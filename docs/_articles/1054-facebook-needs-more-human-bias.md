@@ -3,7 +3,7 @@ id: 1054
 title: Facebook needs more 'human bias'
 subtitle: 
 date: '2016-05-11T16:00:00.000Z'
-publication: CNN
+publication: cnn
 blurb: 
 notes: 
 refs: 

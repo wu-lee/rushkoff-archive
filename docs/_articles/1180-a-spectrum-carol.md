@@ -3,7 +3,7 @@ id: 1180
 title: A Spectrum Carol
 subtitle: 
 date: '2004-12-22T17:00:00.000Z'
-publication: The Feature
+publication: feature
 blurb: 
 notes: 
 refs: 

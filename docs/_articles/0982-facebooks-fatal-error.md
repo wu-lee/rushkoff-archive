@@ -3,7 +3,7 @@ id: 982
 title: Facebook's Fatal Error
 subtitle: 
 date: '2009-06-10T04:00:00.000Z'
-publication: The Daily Beast
+publication: daily_beast
 blurb: The minute that last night turned into Saturday morning, if all went right,
   Facebook's servers were overloaded by millions of people racing to register their
   personal usernames with the social media Web site, so that their friends—and anyone

@@ -3,7 +3,7 @@ id: 623
 title: The Wireless Obsession
 subtitle: 
 date: '2004-01-12T05:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: I've got a new piece up on The Feature, about my recent obsession with doing
   things wirelessly.
 notes: 

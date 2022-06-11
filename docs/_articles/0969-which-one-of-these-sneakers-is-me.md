@@ -3,7 +3,7 @@ id: 969
 title: Which One of These Sneakers Is Me?
 subtitle: 
 date: '2009-04-13T04:00:00.000Z'
-publication: London Times
+publication: london_times
 blurb: How Marketers Outsmart Our Media-Savvy Children
 notes: 
 refs: 

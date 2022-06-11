@@ -3,7 +3,7 @@ id: 1070
 title: Why the CDC Should Never Have Gotten Involved in Manufacturing Consent
 subtitle: 
 date: '2021-08-06T16:00:00.000Z'
-publication: Medium
+publication: medium
 blurb: 
 notes: 
 refs: 

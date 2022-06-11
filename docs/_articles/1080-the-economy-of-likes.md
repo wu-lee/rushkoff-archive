@@ -3,7 +3,7 @@ id: 1080
 title: 'The Economy of Likes '
 subtitle: 
 date: '2014-06-01T16:00:00.000Z'
-publication: Hemispheres Magazine
+publication: hemispheres_magazine
 blurb: 
 notes: 
 refs: 

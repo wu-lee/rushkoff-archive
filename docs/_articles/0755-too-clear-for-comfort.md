@@ -3,7 +3,7 @@ id: 755
 title: Too Clear for Comfort
 subtitle: 
 date: '2006-10-09T05:00:00.000Z'
-publication: Discover
+publication: discover
 blurb: 
 notes: 
 refs: 

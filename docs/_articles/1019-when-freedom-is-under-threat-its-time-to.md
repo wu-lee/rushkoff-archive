@@ -3,7 +3,7 @@ id: 1019
 title: When freedom is under threat, it's time to network
 subtitle: 
 date: '2001-09-20T04:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: 
 notes: 
 refs: 

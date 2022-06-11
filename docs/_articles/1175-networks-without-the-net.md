@@ -3,7 +3,7 @@ id: 1175
 title: Networks Without the Net
 subtitle: 
 date: '2004-09-22T16:00:00.000Z'
-publication: The Feature
+publication: feature
 blurb: 
 notes: 
 refs: 

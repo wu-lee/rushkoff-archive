@@ -3,7 +3,7 @@ id: 736
 title: Unlike - Why I'm Leaving Facebook
 subtitle: 
 date: '2013-02-25T05:00:00.000Z'
-publication: CNN
+publication: cnn
 blurb: 
 notes: 
 refs: '[{"text"=>"does things on our behalf", "original"=>"http://www.forbes.com/sites/anthonykosner/2013/01/21/facebook-is-recycling-your-likes-to-promote-stories-youve-never-seen-to-all-your-friends/",

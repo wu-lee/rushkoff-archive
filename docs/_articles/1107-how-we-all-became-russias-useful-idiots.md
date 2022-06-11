@@ -3,7 +3,7 @@ id: 1107
 title: How We All Became Russia’s ‘Useful Idiots’
 subtitle: 
 date: '2018-12-05T17:00:00.000Z'
-publication: Medium
+publication: medium
 blurb: 
 notes: 
 refs: 

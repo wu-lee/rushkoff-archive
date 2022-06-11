@@ -3,7 +3,7 @@ id: 899
 title: So Went the Salon
 subtitle: 
 date: '1997-05-01T04:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: The decline of the online community.
 notes: 
 refs: 

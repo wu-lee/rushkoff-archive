@@ -3,7 +3,7 @@ id: 898
 title: See No Evil
 subtitle: 
 date: '2001-01-01T05:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: A Self-Censored Internet
 notes: 
 refs: 

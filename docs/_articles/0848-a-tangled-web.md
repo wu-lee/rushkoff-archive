@@ -3,7 +3,7 @@ id: 848
 title: A Tangled Web
 subtitle: 
 date: '1996-12-01T05:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: Mixed feelings about the Internet's most TV-like application
 notes: 
 refs: 

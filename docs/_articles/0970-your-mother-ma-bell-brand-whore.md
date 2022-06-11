@@ -3,7 +3,7 @@ id: 970
 title: 'Your Mother: Ma Bell, Brand Whore?'
 subtitle: 
 date: '2004-05-21T04:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: AT&T's MVNO deal with Sprint points to a new telecom infrastructure strategy.
 notes: 
 refs: '[{"text"=>"sell Sprint wireless services under the AT&T brand", "original"=>"http://www.thefeature.com/article?articleid=100647",

@@ -3,7 +3,7 @@ id: 869
 title: Extra Life
 subtitle: 
 date: '1998-10-01T04:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: Computers, Not Just Software, Should be Taught in School
 notes: 
 refs: 

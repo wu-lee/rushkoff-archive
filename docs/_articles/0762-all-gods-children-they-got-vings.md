@@ -3,7 +3,7 @@ id: 762
 title: All God's Children, They Got Vings
 subtitle: 
 date: '2009-04-12T04:00:00.000Z'
-publication: Paper
+publication: paper
 blurb: The New Kabbalah
 notes: 
 refs: 

@@ -3,7 +3,7 @@ id: 1171
 title: Learning From TV's Mistakes
 subtitle: 
 date: '2004-06-15T16:00:00.000Z'
-publication: The Feature
+publication: feature
 blurb: 
 notes: 
 refs: 

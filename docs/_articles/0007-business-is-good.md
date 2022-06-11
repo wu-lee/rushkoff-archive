@@ -3,7 +3,7 @@ id: 7
 title: Business Is Good
 subtitle: 
 date: '2006-02-01T05:00:00.000Z'
-publication: Arthur
+publication: arthur
 blurb: 
 notes: 
 refs: 

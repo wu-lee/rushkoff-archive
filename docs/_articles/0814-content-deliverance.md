@@ -3,7 +3,7 @@ id: 814
 title: Content Deliverance
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: 'Content Management is for losers. Young people may have discovered the dark
   truth about digital media: the person who wins the right to store a piece of data
   has actually won the booby prize.'

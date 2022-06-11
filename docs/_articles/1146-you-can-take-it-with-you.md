@@ -3,7 +3,7 @@ id: 1146
 title: You CAN Take it With You!
 subtitle: 
 date: '2003-10-26T17:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: 
 notes: 
 refs: 

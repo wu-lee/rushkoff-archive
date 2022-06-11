@@ -4,7 +4,7 @@ title: Donald Trump works the Internet better than you do (whether he knows it o
   not)
 subtitle: 
 date: '2015-12-01T17:00:00.000Z'
-publication: Digital Trends
+publication: digital_trends
 blurb: 
 notes: 
 refs: 

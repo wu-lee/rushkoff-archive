@@ -3,7 +3,7 @@ id: 9
 title: Corporations as Uber-Citizens
 subtitle: 
 date: '2010-01-30T00:00:00.000Z'
-publication: Arthur
+publication: arthur
 blurb: 
 notes: 
 refs: 

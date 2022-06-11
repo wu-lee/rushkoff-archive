@@ -3,7 +3,7 @@ id: 834
 title: The Developer's Dilemma
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: The inability to create a great cell-phone software course may tell us a lot
   about the plight of independent developers in a development-hostile environment.
 notes: 

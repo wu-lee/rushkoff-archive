@@ -3,7 +3,7 @@ id: 813
 title: Cell Phones Are Good
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: Sci-fi writer and media academic Paul Levinson attempts to show in his new
   book that cell phones are as natural as fingers.
 notes: 

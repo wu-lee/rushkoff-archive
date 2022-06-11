@@ -3,7 +3,7 @@ id: 864
 title: Depress This
 subtitle: 
 date: '1998-09-01T04:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: Study shows Internet use is depressing. So is real life.
 notes: 
 refs: 

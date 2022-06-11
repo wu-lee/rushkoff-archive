@@ -3,7 +3,7 @@ id: 1064
 title: 'It’s Official: We OD’d on the Internet'
 subtitle: 
 date: '2021-06-08T16:00:00.000Z'
-publication: Medium
+publication: medium
 blurb: 
 notes: 
 refs: 

@@ -3,7 +3,7 @@ id: 947
 title: 'Music In, Music Out: The Garage Band Ethos in a Cellular World'
 subtitle: 
 date: '2005-01-26T05:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: The future of mobile music lies in creating tunes, not just downloading them.
 notes: 
 refs: '[{"text"=>"integrating their technology into mobile handsets", "original"=>"http://www.gizmodo.com/gadgets/portable-media/xm-aims-for-cell-phones-eventually-026697.php",

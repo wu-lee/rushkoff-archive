@@ -3,7 +3,7 @@ id: 985
 title: Google's Monopoly Play
 subtitle: 
 date: '2010-03-20T04:00:00.000Z'
-publication: The Daily Beast
+publication: daily_beast
 blurb: Why can't we all just get along?
 notes: 
 refs: 

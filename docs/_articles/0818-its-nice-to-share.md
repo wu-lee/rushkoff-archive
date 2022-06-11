@@ -3,7 +3,7 @@ id: 818
 title: It's Nice to Share
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: In their relentless pursuit to move “up the food chain” wireless providers
   are sacrificing the massive potential (and profit) of open standards and interoperability
   to the booby prize of cool commercial content.

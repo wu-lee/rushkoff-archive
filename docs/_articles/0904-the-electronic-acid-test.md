@@ -3,7 +3,7 @@ id: 904
 title: The Electronic Acid Test
 subtitle: 
 date: '1997-07-01T04:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: The Electronic Acid Test
 notes: 
 refs: 

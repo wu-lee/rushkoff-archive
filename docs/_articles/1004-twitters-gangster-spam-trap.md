@@ -3,7 +3,7 @@ id: 1004
 title: Twitter's Gangster Spam Trap
 subtitle: 
 date: '2009-09-30T04:00:00.000Z'
-publication: The Daily Beast
+publication: daily_beast
 blurb: 'Spam schemes are everywhere, and now they''ve hit Twitter. Early Monday morning,
   I received a rare email from a woman I respect tremendously, Marina Gorbis, executive
   director of Institute for the Future. She''s the kind of person whose emails you

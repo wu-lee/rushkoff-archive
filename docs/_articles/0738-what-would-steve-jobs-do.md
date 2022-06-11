@@ -3,7 +3,7 @@ id: 738
 title: What Would Steve Jobs Do?
 subtitle: 
 date: '2011-11-11T00:00:00.000Z'
-publication: CNN
+publication: cnn
 blurb: 
 notes: 
 refs: 

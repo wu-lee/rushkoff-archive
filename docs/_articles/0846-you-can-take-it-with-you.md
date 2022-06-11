@@ -3,7 +3,7 @@ id: 846
 title: You Can Take It With You!
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: Number portability is finally set to arrive in the United States. Providers
   are bracing themselves for the biggest change in their industry since 'mobile' meant
   car phone.

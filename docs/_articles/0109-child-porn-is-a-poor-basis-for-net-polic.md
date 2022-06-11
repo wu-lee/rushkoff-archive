@@ -3,7 +3,7 @@ id: 109
 title: Child Porn Is a Poor Basis for Net Policy
 subtitle: 
 date: '2012-06-19T04:00:00.000Z'
-publication: CNN
+publication: cnn
 blurb: 
 notes: 
 refs: '[{"text"=>"and attorneys general,", "original"=>"http://kuow.org/program.php?id=26973",

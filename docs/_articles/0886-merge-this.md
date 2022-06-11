@@ -3,7 +3,7 @@ id: 886
 title: Merge This
 subtitle: 
 date: '2001-01-01T05:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: An Acquisition by Any Other Name
 notes: 
 refs: 

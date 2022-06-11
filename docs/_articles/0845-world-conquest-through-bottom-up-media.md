@@ -3,7 +3,7 @@ id: 845
 title: World Conquest Through Bottom Up Media
 subtitle: 
 date: '2008-03-31T04:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: So how do the owners of handheld wireless devices take over the world? Easy.
   By using them.
 notes: 

@@ -3,7 +3,7 @@ id: 717
 title: iPhone Is Not Your Savior
 subtitle: 
 date: '2012-09-12T04:00:00.000Z'
-publication: CNN
+publication: cnn
 blurb: 
 notes: 
 refs: '[{"text"=>"boost our nation''s GDP", "original"=>"http://www.reuters.com/article/2012/09/11/us-usa-apple-gdp-idUSBRE8891E720120911",

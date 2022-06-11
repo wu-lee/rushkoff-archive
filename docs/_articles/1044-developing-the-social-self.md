@@ -3,7 +3,7 @@ id: 1044
 title: Developing the Social Self
 subtitle: 
 date: '2013-01-24T05:00:00.000Z'
-publication: Edutopia
+publication: edutopia
 blurb: 
 notes: 
 refs: 

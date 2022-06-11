@@ -3,7 +3,7 @@ id: 1117
 title: Time for Progressives to Stop Shaming One Another
 subtitle: 
 date: '2019-04-10T16:00:00.000Z'
-publication: Medium
+publication: medium
 blurb: 
 notes: 
 refs: 

@@ -3,7 +3,7 @@ id: 975
 title: Google's Velvet Rope
 subtitle: 
 date: '2009-10-14T00:00:00.000Z'
-publication: The Daily Beast
+publication: daily_beast
 blurb: Ubiquity ain't what it used to be.
 notes: 
 refs: '[{"text"=>"this week''s column on Daily Beast", "original"=>"http://www.thedailybeast.com/blogs-and-stories/2009-10-14/googles-velvet-rope/?cid=hp:mainpromo8",

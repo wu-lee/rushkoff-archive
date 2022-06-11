@@ -3,7 +3,7 @@ id: 1052
 title: Real reason Wells Fargo scandal should scare you
 subtitle: 
 date: '2016-09-09T04:00:00.000Z'
-publication: CNN
+publication: cnn
 blurb: 
 notes: 
 refs: 

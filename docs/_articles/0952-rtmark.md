@@ -3,7 +3,7 @@ id: 952
 title: RTMark
 subtitle: 
 date: '1999-04-01T05:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: The ultimate friend of media pranks may just be a prank, too.
 notes: 
 refs: 

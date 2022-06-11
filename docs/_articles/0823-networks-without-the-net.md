@@ -3,7 +3,7 @@ id: 823
 title: Networks Without the Net
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: Nokia's The Feature
+publication: nokias_the_feature
 blurb: Software for the next generation of wireless networks may forgo access to the
   Internet, and give users access to one another.
 notes: 

@@ -3,7 +3,7 @@ id: 16
 title: 'Net Effect: It''s Not Too Late for Humanity to Survive the Digital'
 subtitle: 
 date: '2009-10-12T04:00:00.000Z'
-publication: Arthur
+publication: arthur
 blurb: 
 notes: 
 refs: 

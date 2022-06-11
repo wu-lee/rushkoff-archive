@@ -1,0 +1,24 @@
+---
+layout: default
+---
+{% assign publication = site.publications | where: "slug", page.publication | first %}
+<article class="post">
+  <header class="post-header">
+    <div class="post-title">{{ page.title | escape }}</div>
+    <div class="post-subtitle">{{ page.subtitle }}</div>
+    <p class="meta">
+      Published in <a href="{{ publication.url }}">{{ publication.title }}</a> on {{ page.date | date: "%-d %B %Y" }}
+    </p>
+  </header>
+
+  
+  {% if page.img %}
+  <div class="image">
+    <img class="article hero" src="{{ page.img }}" alt="article image">
+  </div>
+  {% endif %}
+
+  <div class="post-text">
+    {{ content }}
+  </div>
+</article>

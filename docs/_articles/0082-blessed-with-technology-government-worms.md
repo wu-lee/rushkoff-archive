@@ -3,7 +3,7 @@ id: 82
 title: 'Blessed With Technology: Government Worms'
 subtitle: 
 date: '2012-06-19T04:00:00.000Z'
-publication: CNN
+publication: cnn
 blurb: 
 notes: 
 refs: '[{"text"=>"Flame virus", "original"=>"http://money.cnn.com/2012/05/30/technology/flame-virus/index.htm"},

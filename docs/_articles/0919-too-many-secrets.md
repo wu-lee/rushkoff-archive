@@ -3,7 +3,7 @@ id: 919
 title: Too Many Secrets
 subtitle: 
 date: '1996-12-01T05:00:00.000Z'
-publication: The New York Times Syndicate/Guardian of London
+publication: nyt_syndicate_guardian_of_london
 blurb: Thoughts on Cryptography, Privacy, and Secrets
 notes: 
 refs: 
