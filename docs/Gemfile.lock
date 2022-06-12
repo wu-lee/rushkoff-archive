@@ -10,7 +10,7 @@ GIT
 
 GIT
   remote: https://github.com/wu-lee/jekyll-theme-monos
-  revision: 1697b376a8ba280d293a34d36542d2845126ffaf
+  revision: 5e4033ef9b0d3eddfe289d0902e64c9ccc879541
   specs:
     jekyll-theme-monos (1.0.0)
       jekyll (~> 4.0.0)
@@ -69,7 +69,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rexml (3.2.5)
-    rouge (3.28.0)
+    rouge (3.29.0)
     rubyzip (2.3.2)
     safe_yaml (1.0.5)
     sassc (2.4.0)
