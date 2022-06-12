@@ -10,19 +10,19 @@
 {% assign publications = site.publications | sort: 'date' | reverse %}
 
 <div class="post-list-wrapper">
-<p class="badge">
-  {{ publications.size }} {% if publications.size == 1 %}publication{% else %}publications{% endif %}.
-</p>
+  <p class="badge">
+    {{ publications.size }} {% if publications.size == 1 %}publication{% else %}publications{% endif %}.
+  </p>
 
-{%- if publications.size > 0 -%}
-<ul class="post-list">
-  {%- for publication in site.publications -%}
-  <li class="post-list-item">
-    <a class="post-link" href="{{ publication.url | relative_url }}">
-      {{ publication.title | escape }}
-    </a>
-  </li>
-  {%- endfor -%}
-</ul>
-{%- endif -%}
+  {%- if publications.size > 0 -%}
+  <ul class="post-list">
+    {%- for publication in site.publications -%}
+    <li class="post-list-item">
+      <a class="post-link" href="{{ publication.url | relative_url }}">
+        {{ publication.title | escape }}
+      </a>
+    </li>
+    {%- endfor -%}
+  </ul>
+  {%- endif -%}
 </div>
