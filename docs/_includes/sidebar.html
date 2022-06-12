@@ -1,6 +1,6 @@
 <div class="sidebar-item sidebar-header">
 	<div class='sidebar-brand'>
-		<a href="/">{{ site.title }}</a>
+		<a href="{{ '/' | relative_url }}">{{ site.title }}</a>
 	</div>
 	<p class="lead">{{ site.description }}</p>
 	{%- if social.github -%}
@@ -19,7 +19,7 @@
 	  {% if node.title != null %}
 	  {% if node.layout == "page" %}
 	  <li>
-	    <a class="nav-item" href="{{ node.url }}">
+	    <a class="nav-item" href="{{ node.url | relative_url }}">
 	      {{ node.title }}
 	    </a>
 	  </li>

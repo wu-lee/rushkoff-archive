@@ -8,8 +8,8 @@ layout: default
 
   {% if page.img %}
   <div>
-    <a href="{{ page.url }}">
-      <img class="publication hero" src="{{ page.img }}" alt="publication image">
+    <a href="{{ page.url | relative_url }}">
+      <img class="publication hero" src="{{ page.img | relative_url }}" alt="publication image">
     </a>
   </div>
   {% endif %}

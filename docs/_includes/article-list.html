@@ -44,7 +44,7 @@
     {% if include.publication %}
     {%   unless article.published %}(unpublished){% endunless %}
     {% else %}
-      (<a href="{{ publication.url }}" class="post-link">{{ publication.title | escape -}}</a>
+      (<a href="{{ publication.url | relative_url }}" class="post-link">{{ publication.title | escape -}}</a>
       {%- unless article.published -%}; unpublished{%- endunless -%})
     {% endif %}
     </span>

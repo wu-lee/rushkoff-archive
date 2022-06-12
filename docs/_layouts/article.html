@@ -7,14 +7,14 @@ layout: default
     <div class="post-title">{{ page.title | escape }}</div>
     <div class="post-subtitle">{{ page.subtitle }}</div>
     <p class="meta">
-      Published in <a href="{{ publication.url }}">{{ publication.title }}</a> on {{ page.date | date: "%-d %B %Y" }}
+      Published in <a href="{{ publication.url | relative_url }}">{{ publication.title }}</a> on {{ page.date | date: "%-d %B %Y" }}
     </p>
   </header>
 
   
   {% if page.img %}
   <div class="image">
-    <img class="article hero" src="{{ page.img }}" alt="article image">
+    <img class="article hero" src="{{ page.img | relative_url }}" alt="article image">
   </div>
   {% endif %}
 

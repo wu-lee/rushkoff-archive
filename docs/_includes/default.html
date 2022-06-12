@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
   {%- include head.html -%}
-  <style>@import url(/assets/css/syntax/{{ site.highlighter-theme }}.css);</style>
+  <style>@import url({{ '/assets/css/syntax/'+site.highlighter-theme+'.css' | relative_url }});</style>
   <title>{% if page.title %}{{ page.title }} &mdash; {% endif %}{{ site.title }}</title>
-  <!-- <link href="/assets/css/bootstrap.min.css" rel="stylesheet"> -->
 
   <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet">
   <link href="{{ '/assets/css/local-style.css' | relative_url }}" rel="stylesheet">
