@@ -83,6 +83,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.0)
+  jekyll-feed
   jekyll-remote-theme!
   jekyll-theme-monos!
 
