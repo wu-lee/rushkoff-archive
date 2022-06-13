@@ -77,3 +77,8 @@ form.search .search-input {
 form.search .search-button {
   margin-left: 2px;
 }
+
+/* Feed icon */
+img.feed {
+  vertical-align: middle;
+}

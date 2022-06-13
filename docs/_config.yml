@@ -20,3 +20,7 @@ defaults:
       layout: 'publication'
 plugins:
   - jekyll-remote-theme
+  - jekyll-feed
+feed:
+  collections:
+    - articles
