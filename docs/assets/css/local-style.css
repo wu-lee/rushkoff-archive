@@ -64,3 +64,16 @@ article.post {
 article.post .post-text p {
   margin-bottom: 1.5em;
 }
+
+/* Style the search input */
+form.search {
+  display: flex;
+  width: 100%;
+  padding: 3px 0;
+}
+form.search .search-input {
+  flex: 1;
+}
+form.search .search-button {
+  margin-left: 2px;
+}
