@@ -41,3 +41,5 @@ fields:
 - type: datetime
   name: updated_at
   label: updated_at
+pages:
+- docs/_articles/the-tail-wagging-the-doge.md
