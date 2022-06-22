@@ -12,7 +12,6 @@ img: ''
 slug: ''
 created_at: 2022-06-22 00:00:00 -0400
 updated_at: 2022-06-22 00:00:00 -0400
-published: false
 
 ---
 First they came for the musicians, and I did not speak out—because I am not a musician. Then they came for the filmmakers, and I did not speak out—because I am not a filmmaker. Then they came for the journalists, and there was no one left to speak out for us.
