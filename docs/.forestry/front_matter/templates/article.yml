@@ -42,4 +42,5 @@ fields:
   name: updated_at
   label: updated_at
 pages:
+- docs/_articles/the-media-virus-my-problem-child.md
 - docs/_articles/the-tail-wagging-the-doge.md
