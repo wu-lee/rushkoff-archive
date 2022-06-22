@@ -19,7 +19,6 @@ img: ''
 slug: ''
 created_at: 2022-06-22 00:00:00 -0400
 updated_at: 2022-06-22 00:00:00 -0400
-published: false
 
 ---
 The marketplace in which most commerce takes place today is not a pre-existing condition of the universe. It's not nature. It's a game, with very particular rules, set in motion by real people with real purposes. That's why it's so amazing to me that scientists, and people calling themselves scientists, would propose to study the market as if it were some natural system — like the weather, or a coral reef.
