@@ -6,6 +6,7 @@ date: 2018-09-01 00:00:00 -0400
 publication: Timothy McSweeney's Quarterly Concern
 blurb: ''
 notes: Fall 2018 (per Wikipedia). Text pasted from https://www.eff.org/files/2019/02/22/end_of_trust_interior_pages_lores.pdf
+  and edited for formatting.
 refs: ''
 sources: ''
 img: ''
