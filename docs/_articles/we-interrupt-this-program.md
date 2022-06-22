@@ -12,7 +12,6 @@ img: https://s3.amazonaws.com/ArchiveImages/SLJ/2011/SLJ1102_Rushkoff_web.jpg
 slug: ''
 created_at: 2022-06-22 00:00:00 -0400
 updated_at: 2022-06-22 00:00:00 -0400
-published: false
 
 ---
 Ask any kid what Facebook is for and he’ll tell you it’s there to help him make friends. What else could he think? It’s how he does make friends. He has no idea that the real purpose of the software, and the people coding it, is to monetize his relationships. He isn’t even aware of those people, the program, or their purpose.
