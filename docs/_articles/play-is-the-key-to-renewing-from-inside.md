@@ -13,7 +13,6 @@ img: ''
 slug: ''
 created_at: 2022-06-22 00:00:00 -0400
 updated_at: 2022-06-22 00:00:00 -0400
-published: false
 
 ---
 _What do playing and doing business have in common?_ 
