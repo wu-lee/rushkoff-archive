@@ -43,6 +43,7 @@ fields:
   label: updated_at
 pages:
 - docs/_articles/beyond-the-am.md
+- docs/_articles/corporate-growth-for-the-sake-of-corporate-growth.md
 - docs/_articles/economics-is-not-a-natural-science.md
 - docs/_articles/mediasprawl.md
 - docs/_articles/no-exit.md
