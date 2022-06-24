@@ -1,5 +1,5 @@
 ---
-id: 
+id: 1099
 title: The Tail Wagging the Doge
 subtitle: How Speculators Prevent Crypto from Working as a Safe Haven
 date: 2022-06-13 00:00:00 -0400
