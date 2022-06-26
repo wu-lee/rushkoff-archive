@@ -14,7 +14,6 @@ img: https://cdn.theatlantic.com/thumbor/vFeBH6_ljGEm5WmyI3bAYwC0Mxc=/0x104:2000
 slug: ''
 created_at: 2022-06-26 00:00:00 -0400
 updated_at: 2022-06-26 00:00:00 -0400
-published: false
 
 ---
 **Reason for despair:** We are blindly running an extractive, growth-driven economic operating system that has reached the limits of its ability to serve anyone, rich or poor, human or corporate. Moreover, we’re running it on digital networks that amplify all its effects. Growth is the single, uncontested, core command of the economy, and when accelerated through supercomputers, threatens human existence. Meanwhile, by refusing to acknowledge the existence of this man-made landscape and our complicity in perpetuating it, we render ourselves incapable of getting beneath its surface. We end up optimizing our technologies for an existentially threatening economic model, instead of for the sustainability of humanity. I am saddened by clueless tech billionaires, who can't see how their technologies and companies are draining the real economy of the means to create and transact value.
