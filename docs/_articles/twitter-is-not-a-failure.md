@@ -13,7 +13,6 @@ img: https://cdn.theatlantic.com/thumbor/mF_BJFAXSDWg6QZ6YXqv-nk_pes=/0x106:3500
 slug: ''
 created_at: 2022-06-23 00:00:00 -0400
 updated_at: 2022-06-23 00:00:00 -0400
-published: false
 
 ---
 To listen to Wall Street tell the story, Twitter is an abject failure. The stock is [down more than 50 percent](http://www.wired.com/2016/01/twitters-stock-dips-below-20-to-all-time-low/) since co-founder Jack Dorsey took over as CEO last year. User growth and revenue prospects have stagnated, and investors see little chance of a major turnaround.
