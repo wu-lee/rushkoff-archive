@@ -1,0 +1,13 @@
+---
+label: Publication
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: stub
+  label: stub
+- type: text
+  name: url
+  label: url
