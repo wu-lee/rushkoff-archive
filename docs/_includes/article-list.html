@@ -36,7 +36,7 @@
         <span class="post-date">{{ article.date | date: date_format }}</span>
         
         <span class="post-list-title">
-          {% if article.published %}
+          {% if article.published != false %}
           <a class="post-link" href="{{ article.url | relative_url }}">
             {{ article.title | escape }}
           </a>
@@ -49,13 +49,13 @@
         
         <span class="post-list-publication">
           {% if include.publication %}
-          {%   unless article.published %}(unpublished){% endunless %}
+          {%   unless article.published != false %}(unpublished){% endunless %}
           {% else %}
           {%   if publication %}
           (<a href="{{ publication.url | relative_url }}" class="post-link">{{ publication.title | escape -}}</a>
-          {%-    unless article.published -%}; unpublished{%- endunless -%})
+          {%-    unless article.published != false -%}; unpublished{%- endunless -%})
           {%   else %}
-          (no publication{%-    unless article.published -%}; unpublished{%- endunless -%})
+          (no publication{%-    unless article.published != false -%}; unpublished{%- endunless -%})
           {%   endif %}
           {% endif %}
         </span>
