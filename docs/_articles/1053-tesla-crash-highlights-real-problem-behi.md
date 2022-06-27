@@ -1,18 +1,18 @@
 ---
-id: 1053
+id: "1053"
 title: Tesla crash highlights real problem behind self-driving cars
 subtitle: 
-date: '2016-06-01T16:00:00.000Z'
+date: 2016-06-01T16:00:00.000Z
 publication: cnn
 blurb: 
 notes: 
 refs: 
 sources: 
-published: false
 img: 
 slug: 1053-tesla-crash-highlights-real-problem-behi
-created_at: '2020-12-02T14:26:19.000Z'
-updated_at: '2020-12-02T14:26:19.000Z'
+created_at: 2020-12-02T14:26:19.000Z
+updated_at: 2020-12-02T14:26:19.000Z
+
 ---
 We think of automobiles as American as baseball, apple pie, and hotdogs - or at least that's what the car advertisers have gotten us to believe.
 
@@ -37,4 +37,3 @@ Now that we live in an automobile culture, it's only natural that our leading te
 If Google, Tesla, and the other tech behemoths looking to remake transportation had even a fraction of the chutzpah and innovative capacity of General Motors, Ford, and their automobile counterparts did in the early 20th century, they would be looking toward reprogramming transportation from the ground up. Imagine solar-powered light rail, public hovercrafts, or buses with pods that detached for the final blocks of traveI. Instead, they seem capable only of adopting the car industry's PR strategy of casting humans as the enemy of technological progress.
 
 But it is not we humans who are the jaywalkers in this case. It is the technology firms, whose outmoded vision of transportation will keep us trapped in a war with machines that we would do better to leave behind
-
