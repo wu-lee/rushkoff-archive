@@ -2,17 +2,17 @@
 id: 
 title: The Media Virus, My Problem Child
 subtitle: ''
-date: 2018-09-01 00:00:00 -0400
-publication: Timothy McSweeney's Quarterly Concern
+date: 2018-09-01T00:00:00.000-04:00
+publication: mcsweeneys
 blurb: ''
 notes: Fall 2018 (per Wikipedia). Text pasted from https://www.eff.org/files/2019/02/22/end_of_trust_interior_pages_lores.pdf
   and edited for formatting.
 refs: ''
 sources: ''
 img: ''
-slug: ''
-created_at: 2022-06-22 00:00:00 -0400
-updated_at: 2022-06-22 00:00:00 -0400
+slug: the-media-virus-my-problem-child
+created_at: 2022-06-22T00:00:00.000-04:00
+updated_at: 2022-06-22T00:00:00.000-04:00
 
 ---
 When I published my book Media Virus in 1994, the most common question I got from readers was whether this new phenomenon of media viruses—through which ideas could circumvent any top-down control and spread purely based on social contagion—was “a good thing or a bad thing.” I tried not to sound too enthusiastic at the time lest I betray my countercultural roots, but deep down I thought that viral media was going to change things for the better: the informational tyranny of William Randolph Hearst and Rupert Murdoch would be broken by new armies of media activists armed with photocopiers, fax machines, video cameras, cable TV, personal computers, and email messages. I saw ideas spreading as never before. They were moving laterally between people, and mutating along the way as if in a game of telephone. When one caught on, it spread like wildfire, kudzu vines… or a virus.
