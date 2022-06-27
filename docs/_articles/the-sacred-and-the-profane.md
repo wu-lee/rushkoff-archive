@@ -3,7 +3,7 @@ id:
 title: The Sacred and the Profane
 subtitle: A Conversation with Douglas Rushkoff
 date: 2003-07-01T00:00:00.000-04:00
-publication: zeek
+publication: zeek-a-jewish-journal
 blurb: ''
 notes: Pasted from http://www.zeek.net/feature_0307.shtml and additional URLs linked
   at bottom. Includes additional images.
