@@ -1,18 +1,18 @@
 ---
-id: 1038
+id: "1038"
 title: There's More To Being A Journalist Than Hitting The 'Publish' Button
 subtitle: 
-date: '2010-06-01T04:00:00.000Z'
+date: 2010-06-01T04:00:00.000Z
 publication: nieman_reports
 blurb: For better or worse, the internet is 'biased to the amateur and to the immediate.'
 notes: 
 refs: 
 sources: 
-published: false
 img: 
 slug: 1038-theres-more-to-being-a-journalist-than-h
-created_at: '2020-08-02T07:21:36.000Z'
-updated_at: '2020-08-02T07:21:57.000Z'
+created_at: 2020-08-02T07:21:36.000Z
+updated_at: 2020-08-02T07:21:57.000Z
+
 ---
 First they came for the musicians, and I did not speak out--because I am not a musician. Then they came for the filmmakers, and I did not speak out--because I am not a filmmaker. Then they came for the journalists, and there was no one left to speak out for us.
 
