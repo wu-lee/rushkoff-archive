@@ -2,16 +2,16 @@
 id: 
 title: No Exit
 subtitle: When Everything Becomes a Shopping Mall
-date: 2018-06-01 00:00:00 -0400
-publication: Future Now
+date: 2018-06-01T00:00:00.000-04:00
+publication: future-now
 blurb: When media is ambient, it's no longer part of the environment-- it is the environment.
 notes: Pasted from https://www.iftf.org/future-now/article-detail/no-exit/
 refs: ''
 sources: ''
 img: https://www.iftf.org/uploads/RTEmagicC_No_Exit_pic_2.png.png
-slug: ''
-created_at: 2022-06-22 00:00:00 -0400
-updated_at: 2022-06-22 00:00:00 -0400
+slug: no-exit-when-everything-becomes-a-shopping-mall
+created_at: 2022-06-22T00:00:00.000-04:00
+updated_at: 2022-06-22T00:00:00.000-04:00
 
 ---
 In John Carpenter’s B-movie classic, “They Live”, donning a pair of special glasses allowed humans to see the hidden programming in the media all around them. Messages from alien overlords, such as Art is Terrorism or simply Obey were revealed to be hidden in billboards and magazine covers.
