@@ -1,18 +1,18 @@
 ---
-id: 1052
+id: "1052"
 title: Real reason Wells Fargo scandal should scare you
 subtitle: 
-date: '2016-09-09T04:00:00.000Z'
+date: 2016-09-09T04:00:00.000Z
 publication: cnn
 blurb: 
 notes: 
 refs: 
 sources: 
-published: false
 img: 
 slug: 1052-real-reason-wells-fargo-scandal-should-s
-created_at: '2020-12-02T14:21:58.000Z'
-updated_at: '2020-12-02T14:21:58.000Z'
+created_at: 2020-12-02T14:21:58.000Z
+updated_at: 2020-12-02T14:21:58.000Z
+
 ---
 It's not hackers breaking into your bank account that should scare you; it's the banks themselves. Details are now surfacing about more than 1.5 million unauthorized Wells Fargo bank and credit card accounts created on behalf of unwitting customers by bank employees hoping to cash in on new account bonuses.
 
