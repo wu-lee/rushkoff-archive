@@ -12,7 +12,6 @@ img: https://media.cnn.com/api/v1/images/stellar/prod/111004103034-rushkoff-occu
 slug: think-occupy-wall-st-is-a-phase
 created_at: 2022-06-27 00:00:00 -0400
 updated_at: 2022-06-27 00:00:00 -0400
-published: false
 
 ---
 Like the spokesmen for Arab dictators feigning bewilderment over protesters’ demands, mainstream television news reporters finally training their attention on the growing Occupy Wall Street protest movement seem determined to cast it as the random, silly blather of an ungrateful and lazy generation of weirdos. They couldn’t be more wrong and, as time will tell, may eventually be forced to accept the inevitability of their own obsolescence.
