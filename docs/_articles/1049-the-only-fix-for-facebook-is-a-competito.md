@@ -1,18 +1,18 @@
 ---
-id: 1049
+id: "1049"
 title: The only fix for Facebook is a competitor that puts users first
 subtitle: 
-date: '2018-04-11T07:57:00.000Z'
+date: 2018-04-11T07:57:00.000Z
 publication: cnn
 blurb: 
 notes: 
 refs: 
 sources: 
-published: false
 img: 
 slug: 1049-the-only-fix-for-facebook-is-a-competito
-created_at: '2020-12-02T14:13:31.000Z'
-updated_at: '2020-12-02T14:14:45.000Z'
+created_at: 2020-12-02T14:13:31.000Z
+updated_at: 2020-12-02T14:14:45.000Z
+
 ---
 Anyone expecting bombshell revelations from Mark Zuckerberg's testimony before Congress may have been disappointed by repetitive questions and circular responses. But that doesn't mean we learned nothing important.
 
