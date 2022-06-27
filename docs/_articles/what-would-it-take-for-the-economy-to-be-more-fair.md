@@ -3,17 +3,17 @@ id:
 title: What Would It Take for the Economy to Be More Fair?
 subtitle: Experts on business, labor, and corporate governance offer their reasons
   for optimism and pessimism going into 2016.
-date: 2015-12-30 00:00:00 -0500
-publication: The Atlantic
+date: 2015-12-30T00:00:00.000-05:00
+publication: atlantic
 blurb: ''
 notes: Excerpted and pasted from https://www.theatlantic.com/business/archive/2015/12/economy-fairness-rules/421809/
   (Rushkoff portion only)
 refs: ''
 sources: ''
 img: https://cdn.theatlantic.com/thumbor/vFeBH6_ljGEm5WmyI3bAYwC0Mxc=/0x104:2000x1229/976x549/media/img/mt/2015/12/HopeDespair_Infrastructure/original.jpg
-slug: ''
-created_at: 2022-06-26 00:00:00 -0400
-updated_at: 2022-06-26 00:00:00 -0400
+slug: what-would-it-take-for-the-economy-to-be-more-fair
+created_at: 2022-06-26T00:00:00.000-04:00
+updated_at: 2022-06-26T00:00:00.000-04:00
 
 ---
 **Reason for despair:** We are blindly running an extractive, growth-driven economic operating system that has reached the limits of its ability to serve anyone, rich or poor, human or corporate. Moreover, we’re running it on digital networks that amplify all its effects. Growth is the single, uncontested, core command of the economy, and when accelerated through supercomputers, threatens human existence. Meanwhile, by refusing to acknowledge the existence of this man-made landscape and our complicity in perpetuating it, we render ourselves incapable of getting beneath its surface. We end up optimizing our technologies for an existentially threatening economic model, instead of for the sustainability of humanity. I am saddened by clueless tech billionaires, who can't see how their technologies and companies are draining the real economy of the means to create and transact value.
