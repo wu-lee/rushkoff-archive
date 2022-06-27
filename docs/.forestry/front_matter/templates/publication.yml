@@ -16,3 +16,5 @@ fields:
 - type: text
   name: url
   label: url
+pages:
+- docs/_publications/future-now.md
