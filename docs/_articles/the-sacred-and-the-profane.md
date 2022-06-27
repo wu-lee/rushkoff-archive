@@ -2,17 +2,17 @@
 id: 
 title: The Sacred and the Profane
 subtitle: A Conversation with Douglas Rushkoff
-date: 2003-07-01 00:00:00 -0400
-publication: Zeek
+date: 2003-07-01T00:00:00.000-04:00
+publication: zeek
 blurb: ''
 notes: Pasted from http://www.zeek.net/feature_0307.shtml and additional URLs linked
   at bottom. Includes additional images.
 refs: ''
 sources: ''
 img: http://www.zeek.net/i/rsefirot.jpg
-slug: ''
-created_at: 2022-06-22 00:00:00 -0400
-updated_at: 2022-06-22 00:00:00 -0400
+slug: the-sacred-and-the-profane
+created_at: 2022-06-22T00:00:00.000-04:00
+updated_at: 2022-06-22T00:00:00.000-04:00
 
 ---
 Douglas Rushkoff is a well-known media theorist and social critic who made his mark as a prophet of the early Internet. In pioneering works such as _Cyberia, Playing the Future_, and _Media Virus_ , as well as in reconsiderations in works such as _Coercion_, Rushkoff advanced and then partly retracted a theory that the Internet's new modes of social communication were truly revolutionary, and entered into the media theorist's lexicon a host of terms once reserved for computer programmers.
