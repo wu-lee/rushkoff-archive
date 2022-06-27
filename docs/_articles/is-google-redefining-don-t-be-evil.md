@@ -12,7 +12,6 @@ img: https://media.cnn.com/api/v1/images/stellar/prod/131216070713-newday-romans
 slug: is-google-redefining-dont-be-evil
 created_at: 2022-06-27 00:00:00 -0400
 updated_at: 2022-06-27 00:00:00 -0400
-published: false
 
 ---
 _“Do the right thing; don’t be evil_
