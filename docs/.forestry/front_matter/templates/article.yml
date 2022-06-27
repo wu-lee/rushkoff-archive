@@ -2,13 +2,6 @@
 label: Article
 hide_body: false
 fields:
-- type: number
-  name: id
-  label: id
-  config:
-    required: true
-    step: 1
-    min: 1
 - type: text
   name: title
   label: title
