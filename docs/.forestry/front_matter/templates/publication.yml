@@ -17,6 +17,7 @@ fields:
   name: url
   label: url
 pages:
+- docs/_publications/contact.md
 - docs/_publications/develop.md
 - docs/_publications/future-now.md
 - docs/_publications/nieman-reports.md
