@@ -1,18 +1,18 @@
 ---
-id: 1077
+id: "1077"
 title: 'Recycling Money: Why Double-Dipping Is Good Business'
 subtitle: 
-date: '2015-08-01T16:56:02.000Z'
+date: 2015-08-01T16:56:02.000Z
 publication: hemispheres_magazine
 blurb: 
 notes: 
 refs: 
 sources: 
-published: false
 img: 
 slug: 1077-recycling-money-why-doubledipping-is-goo
-created_at: '2021-09-10T13:19:11.000Z'
-updated_at: '2021-09-10T13:19:19.000Z'
+created_at: 2021-09-10T13:19:11.000Z
+updated_at: 2021-09-10T13:19:19.000Z
+
 ---
 Wouldn’t you like to earn the same dollar twice? It may sound crazy - or even illegal - but it’s actually the secret to success in the new normal: invest and spend in people and enterprises who will end up giving you back the money, one way or the other. 
 
@@ -30,5 +30,4 @@ Unilever, inspired in part by the inability to gain traction through unidirectio
 
 Any business or person can employ the double dip. The next time you have some money to invest, think twice before buying stock of some companies you’ll never interact with. Consider investing in your own town’s main street, companies that employ your customers, or even your very own vendors. 
 
-Yes, it’s a form of favoritism. A restauranteur hiring his kid to wait tables is a multi-faceted investment in his family and its future, and an airline buying stock in oil companies is a hedge on its own expenses. By putting boundaries around your capital, you stand a chance of seeing your hard earned cash come back at you. And it gives a whole new meaning to the phrase “return on investment.” 
-
+Yes, it’s a form of favoritism. A restauranteur hiring his kid to wait tables is a multi-faceted investment in his family and its future, and an airline buying stock in oil companies is a hedge on its own expenses. By putting boundaries around your capital, you stand a chance of seeing your hard earned cash come back at you. And it gives a whole new meaning to the phrase “return on investment.”
