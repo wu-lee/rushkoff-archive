@@ -12,7 +12,6 @@ img: ''
 slug: punching-nerds-in-the-face-is-never-a-good-thing
 created_at: 2022-06-27 00:00:00 -0400
 updated_at: 2022-06-27 00:00:00 -0400
-published: false
 
 ---
 At this year’s White House Correspondents’ Dinner — the annual opportunity for the President to engage directly, and humorously, with reporters who cover him — it was expected that most of the jibes would be aimed at Barack Obama. Sure, he gets the chance to defend himself, but it’s pretty much a roast: A leading comedian is invited every year to make jokes, while the commander in chief tries to laugh instead of squirm.
