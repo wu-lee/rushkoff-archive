@@ -2,17 +2,17 @@
 id: 
 title: Play is the Key to Renewing From Inside
 subtitle: ''
-date: 2008-01-01 00:00:00 -0500
-publication: Develop
+date: 2008-01-01T00:00:00.000-05:00
+publication: develop
 blurb: ''
 notes: Pasted from https://www.kessels-smit.com/files/Douglas_Rushkoff_-_Develop_2-2008.pdf
   , edited for formatting
 refs: ''
 sources: ''
 img: ''
-slug: ''
-created_at: 2022-06-22 00:00:00 -0400
-updated_at: 2022-06-22 00:00:00 -0400
+slug: play-is-the-key-to-renewing-from-inside
+created_at: 2022-06-22T00:00:00.000-04:00
+updated_at: 2022-06-22T00:00:00.000-04:00
 
 ---
 _What do playing and doing business have in common?_ 
