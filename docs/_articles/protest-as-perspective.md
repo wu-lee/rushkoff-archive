@@ -2,16 +2,16 @@
 id: 
 title: Protest as Perspective
 subtitle: Do We Want a Revolution or a Renaissance?
-date: 2002-01-01 00:00:00 -0500
-publication: Journal of Cognitive Liberties
+date: 2002-01-01T00:00:00.000-05:00
+publication: journal-of-cognitive-liberties
 blurb: ''
 notes: 2002. Pasted from https://www.cognitiveliberty.org/ccle1/9jcl/Rushkoff_protest.html
 refs: ''
 sources: ''
 img: ''
-slug: ''
-created_at: 2022-06-23 00:00:00 -0400
-updated_at: 2022-06-23 00:00:00 -0400
+slug: protest-as-perspective-do-we-want-a-revolution
+created_at: 2022-06-23T00:00:00.000-04:00
+updated_at: 2022-06-23T00:00:00.000-04:00
 
 ---
 So often we hear people using the word “revolution” to describe the current overwhelming cultural shift fostered by technology and new media. However overwhelming it might be, can we really describe the current transition as a revolution? For me, the word “revolution” evokes images of a violent upheaval and guillotined heads. There’s certainly very little progress implied by revolution; it’s simply someone spinning around in circles.  
