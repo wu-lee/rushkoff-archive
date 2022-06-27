@@ -1,18 +1,18 @@
 ---
-id: 1033
+id: "1033"
 title: We Interrupt This Program
 subtitle: 
-date: '2011-02-01T05:00:00.000Z'
+date: 2011-02-01T05:00:00.000Z
 publication: school_library_journal
 blurb: 
 notes: 
 refs: 
 sources: 
-published: false
 img: 
 slug: 1033-we-interrupt-this-program
-created_at: '2020-08-02T07:13:33.000Z'
-updated_at: '2020-08-02T07:13:33.000Z'
+created_at: 2020-08-02T07:13:33.000Z
+updated_at: 2020-08-02T07:13:33.000Z
+
 ---
 Ask any kid what Facebook is for and he'll tell you it's there to help him make friends. What else could he think? It's how he does make friends. He has no idea that the real purpose of the software, and the people coding it, is to monetize his relationships. He isn't even aware of those people, the program, or their purpose.
 
