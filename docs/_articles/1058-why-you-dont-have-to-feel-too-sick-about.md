@@ -1,18 +1,18 @@
 ---
-id: 1058
+id: "1058"
 title: Why You Don’t Have to Feel Too Sick About What Happened Last Night
 subtitle: 
-date: '2020-09-30T16:00:00.000Z'
+date: 2020-09-30T16:00:00.000Z
 publication: medium
 blurb: 
 notes: 
 refs: 
 sources: 
-published: false
 img: https://miro.medium.com/max/1400/1*cZzuwnd7AUcklDveBL7kZg.jpeg
 slug: 1058-why-you-dont-have-to-feel-too-sick-about
-created_at: '2021-09-07T18:11:17.000Z'
-updated_at: '2021-09-07T18:11:17.000Z'
+created_at: 2021-09-07T18:11:17.000Z
+updated_at: 2021-09-07T18:11:17.000Z
+
 ---
 I admit, it was a hard night. I’ve finally reached the point in my career where I get to live-tweet a debate on behalf of a publication. But now that I’ve gotten here, presidential politics has deteriorated beyond recognition. Tuesday night was a sick, depressing spectacle closer to late-stage Jerry Springer than civic discourse.
 
