@@ -1,21 +1,18 @@
 ---
-id: 1062
-title: As the hedge fund billionaires suffering catastrophic losses in the r/WallStreetBets
-  activist campaign now realize, we reap what we sow. Even more so in a digital age.
-  Norbert Wiener tried to warn us way back in the 1950s that digital technologies
-  would b
+id: "1062"
+title: How Lulz Took Down Wall Street
 subtitle: 
-date: '2021-01-29T17:00:00.000Z'
+date: 2021-01-29T17:00:00.000Z
 publication: medium
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 img: https://miro.medium.com/max/1400/1*3wyg7DCcXwr6woNC7n6EPg.jpeg
 slug: 1062-as-the-hedge-fund-billionaires-suffering
-created_at: '2021-09-07T18:20:52.000Z'
-updated_at: '2021-09-07T18:20:52.000Z'
+created_at: 2021-09-07T18:20:52.000Z
+updated_at: 2021-09-07T18:20:52.000Z
+
 ---
 As the hedge fund billionaires suffering catastrophic losses in the r/WallStreetBets activist campaign now realize, we reap what we sow. Even more so in a digital age.
 
