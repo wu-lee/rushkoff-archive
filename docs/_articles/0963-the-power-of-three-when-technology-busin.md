@@ -1,19 +1,20 @@
 ---
-id: 963
+id: "963"
 title: 'The Power of Three: When Technology, Business, and Marketing Converge - Parts
   I & II'
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
-publication: nokias_the_feature
+date: 2008-10-16T00:00:00.000Z
+publication: feature
 blurb: 
 notes: 
 refs: 
 sources: 
-published: false
 img: 
 slug: '0963-the-power-of-three-when-technology-busin'
-created_at: '2020-08-02T00:44:16.000Z'
-updated_at: '2020-08-02T04:08:41.000Z'
+created_at: 2020-08-02T00:44:16.000Z
+updated_at: 2020-08-02T04:08:41.000Z
+published: false
+
 ---
 The new generation of high-speed content delivery technologies marks a turning point for the mobile industry. It's finally time to abandon the notion that you are just cell phone companies or wireless access providers, and come to grips with the fact that you are selling, or at least supporting, an entirely new set of digital lifestyles.
 
