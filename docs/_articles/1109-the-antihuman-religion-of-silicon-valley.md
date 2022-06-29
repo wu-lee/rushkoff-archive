@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1109-the-antihuman-religion-of-silicon-valley
 created_at: '2021-09-13T16:44:16.000Z'
 updated_at: '2021-09-13T16:44:16.000Z'
 ---

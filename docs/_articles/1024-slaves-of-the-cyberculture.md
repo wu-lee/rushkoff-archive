@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1024-slaves-of-the-cyberculture
 created_at: '2020-08-02T06:42:43.000Z'
 updated_at: '2020-08-02T06:42:43.000Z'
 ---

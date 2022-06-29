@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1015-reimagining-money
 created_at: '2020-08-02T06:24:34.000Z'
 updated_at: '2020-12-02T14:33:55.000Z'
 ---

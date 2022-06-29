@@ -9,7 +9,6 @@ notes: ''
 refs: ''
 sources: ''
 img: https://miro.medium.com/max/1400/0*ztja6yNToIZgr7Xx
-slug: 1099-the-tail-wagging-the-doge
 created_at: 2022-06-21 00:00:00 -0400
 updated_at: 2022-06-21 00:00:00 -0400
 

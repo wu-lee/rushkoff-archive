@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0449-how-technology-killed-the-future'
 created_at: '2020-08-02T00:44:04.000Z'
 updated_at: '2020-08-02T03:32:22.000Z'
 ---

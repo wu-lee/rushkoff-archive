@@ -37,7 +37,6 @@ refs: '[{"text"=>"Computer Science Education Week", "original"=>"http://www.csed
 sources: 
 published: true
 img: "../../../../storage/121209115840-rushkoff-code-writing-story-top-__SQUARESPACE_CACHEVERSION=1355159791156.jpg"
-slug: 0737-what-im-telling-congress-on-wednesday-te
 created_at: '2020-08-02T00:44:11.000Z'
 updated_at: '2020-08-02T00:44:11.000Z'
 ---

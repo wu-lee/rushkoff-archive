@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1400/1*iTM4zxhbyVmWjiu9UlqsZw.jpeg
-slug: 1074-its-good-to-feel-small
 created_at: '2021-09-07T18:41:51.000Z'
 updated_at: '2021-09-07T18:41:51.000Z'
 ---

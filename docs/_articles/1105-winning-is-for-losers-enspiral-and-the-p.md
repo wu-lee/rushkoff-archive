@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1105-winning-is-for-losers-enspiral-and-the-p
 created_at: '2021-09-13T16:39:28.000Z'
 updated_at: '2021-09-13T16:39:28.000Z'
 ---

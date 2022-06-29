@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1116-this-time-its-personal
 created_at: '2021-09-13T16:57:36.000Z'
 updated_at: '2021-09-13T16:57:54.000Z'
 ---

@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1120-why-america-is-playing-vaccine-roulette
 created_at: '2021-09-13T17:04:24.000Z'
 updated_at: '2021-09-13T17:04:24.000Z'
 ---

@@ -54,7 +54,6 @@ refs: '[{"text"=>"Federal Register", "original"=>"http://edocket.access.gpo.gov/
 sources: 
 published: false
 img: 
-slug: '0805-a-spectrum-carol'
 created_at: '2020-08-02T00:44:13.000Z'
 updated_at: '2020-08-02T00:44:13.000Z'
 ---

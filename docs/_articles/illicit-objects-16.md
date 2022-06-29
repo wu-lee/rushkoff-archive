@@ -8,7 +8,6 @@ notes: Pasted from https://www.hilobrow.com/2017/08/20/illicit-objects-16/
 refs: ''
 sources: ''
 img: https://www.hilobrow.com/wp-content/uploads/2017/08/2stashbox.jpg
-slug: illicit-objects-learys-stash-box
 created_at: 2022-06-29 00:00:00 -0400
 updated_at: 2022-06-29 00:00:00 -0400
 

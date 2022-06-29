@@ -22,7 +22,6 @@ refs: '[{"text"=>"Magicbike", "original"=>"http://www.magicbike.net/about.html",
 sources: 
 published: false
 img: 
-slug: '0933-autonomous-zone-the-workasart-of-yury-gi'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T04:16:51.000Z'
 ---

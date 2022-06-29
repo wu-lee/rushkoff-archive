@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0940-evolution-as-a-team-sport'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T04:15:51.000Z'
 ---

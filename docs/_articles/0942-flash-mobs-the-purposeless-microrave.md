@@ -22,7 +22,6 @@ refs: '[{"text"=>"Cyberia", "original"=>"http://www.rushkoff.com/cyberia.html", 
 sources: 
 published: false
 img: 
-slug: '0942-flash-mobs-the-purposeless-microrave'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T04:17:58.000Z'
 ---

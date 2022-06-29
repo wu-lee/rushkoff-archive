@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1400/1*LqgR-FLqSWwKFZTNgO0K6A.jpeg
-slug: 1064-its-official-we-odd-on-the-internet
 created_at: '2021-09-07T18:25:25.000Z'
 updated_at: '2021-09-07T18:25:25.000Z'
 ---

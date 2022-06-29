@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1089-fork-the-economy
 created_at: '2021-09-10T13:49:48.000Z'
 updated_at: '2022-03-29T13:26:41.000Z'
 ---

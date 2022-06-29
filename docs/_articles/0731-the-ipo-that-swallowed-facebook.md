@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 0731-the-ipo-that-swallowed-facebook
 created_at: '2020-08-02T00:44:11.000Z'
 updated_at: '2020-08-02T03:12:37.000Z'
 ---

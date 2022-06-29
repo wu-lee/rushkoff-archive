@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1022-teachers-vs-machines-computers-in-the-cl
 created_at: '2020-08-02T06:39:33.000Z'
 updated_at: '2020-08-02T06:39:33.000Z'
 ---

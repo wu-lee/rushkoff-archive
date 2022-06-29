@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1122-note-to-dems-your-television-debates-sti
 created_at: '2021-09-13T17:11:16.000Z'
 updated_at: '2021-09-13T17:11:16.000Z'
 ---

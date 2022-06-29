@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0953-signs-of-the-times'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T05:00:40.000Z'
 ---

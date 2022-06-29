@@ -9,7 +9,6 @@ notes: Pasted from https://rushkoff.com/wild-west-web-needs-a-sheriff/ . Date fr
 refs: ''
 sources: ''
 img: ''
-slug: wild-west-web-needs-a-sheriff
 created_at: 2022-06-27 00:00:00 -0400
 updated_at: 2022-06-27 00:00:00 -0400
 

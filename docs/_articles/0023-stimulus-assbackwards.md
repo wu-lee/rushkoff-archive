@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 0023-stimulus-assbackwards
 created_at: '2020-08-02T00:43:52.000Z'
 updated_at: '2020-08-02T02:16:11.000Z'
 ---

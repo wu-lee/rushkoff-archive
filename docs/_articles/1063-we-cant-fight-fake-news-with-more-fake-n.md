@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1400/1*q1Z6uBHM8Td0n2H7lRkmUQ.jpeg
-slug: 1063-we-cant-fight-fake-news-with-more-fake-n
 created_at: '2021-09-07T18:23:43.000Z'
 updated_at: '2021-09-07T18:23:43.000Z'
 ---

@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1193-tinseltown-20
 created_at: '2021-09-30T18:59:12.000Z'
 updated_at: '2021-09-30T18:59:12.000Z'
 ---

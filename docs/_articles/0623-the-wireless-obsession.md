@@ -22,7 +22,6 @@ refs: '[{"text"=>"The Feature", "original"=>"http://www.thefeature.com/article?a
 sources: 
 published: false
 img: http://www.blogger.com:80/img/icon18_email.gif
-slug: 0623-the-wireless-obsession
 created_at: '2020-08-02T00:44:08.000Z'
 updated_at: '2020-08-02T00:44:08.000Z'
 ---

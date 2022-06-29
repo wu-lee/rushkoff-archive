@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-slug: 1111-the-power-of-not-retweeting
 created_at: 2021-09-13T16:49:23.000Z
 updated_at: 2021-09-13T16:49:23.000Z
 

@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1151-my-cell-phone-is-not-a-tv
 created_at: '2021-09-30T17:55:13.000Z'
 updated_at: '2021-09-30T17:55:13.000Z'
 ---

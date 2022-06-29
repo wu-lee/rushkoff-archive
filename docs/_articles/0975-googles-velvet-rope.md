@@ -25,7 +25,6 @@ refs: '[{"text"=>"this week''s column on Daily Beast", "original"=>"http://www.t
 sources: 
 published: true
 img: 
-slug: '0975-googles-velvet-rope'
 created_at: '2020-08-02T02:59:01.000Z'
 updated_at: '2020-08-02T02:59:01.000Z'
 ---

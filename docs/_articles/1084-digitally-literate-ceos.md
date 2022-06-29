@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1084-digitally-literate-ceos
 created_at: '2021-09-10T13:39:18.000Z'
 updated_at: '2021-09-10T13:39:18.000Z'
 ---

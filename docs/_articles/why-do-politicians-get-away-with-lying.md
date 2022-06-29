@@ -13,7 +13,6 @@ notes: Excerpted and pasted from https://www.cnn.com/2015/12/01/opinions/opinion
 refs: ''
 sources: ''
 img: ''
-slug: why-do-politicians-get-away-with-lying
 created_at: 2022-06-27 00:00:00 -0400
 updated_at: 2022-06-27 00:00:00 -0400
 

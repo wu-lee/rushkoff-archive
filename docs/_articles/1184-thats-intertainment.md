@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1184-thats-intertainment
 created_at: '2021-09-30T18:47:05.000Z'
 updated_at: '2021-09-30T18:47:05.000Z'
 ---

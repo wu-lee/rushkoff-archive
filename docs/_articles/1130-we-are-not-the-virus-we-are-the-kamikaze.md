@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1130-we-are-not-the-virus-we-are-the-kamikaze
 created_at: '2021-09-13T19:59:19.000Z'
 updated_at: '2021-09-13T19:59:19.000Z'
 ---

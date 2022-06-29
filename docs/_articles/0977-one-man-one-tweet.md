@@ -28,7 +28,6 @@ refs: '[{"text"=>"Daily Beast", "original"=>"http://www.thedailybeast.com/blogs-
 sources: 
 published: true
 img: 
-slug: '0977-one-man-one-tweet'
 created_at: '2020-08-02T02:59:01.000Z'
 updated_at: '2020-08-02T02:59:01.000Z'
 ---

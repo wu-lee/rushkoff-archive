@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1112-selling-the-green-new-deal-with-positivi
 created_at: '2021-09-13T16:50:43.000Z'
 updated_at: '2021-09-13T16:50:54.000Z'
 ---

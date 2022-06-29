@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1023-tilting-at-windows
 created_at: '2020-08-02T06:40:47.000Z'
 updated_at: '2020-08-02T06:40:47.000Z'
 ---

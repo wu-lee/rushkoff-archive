@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1154-sex-lies-and-videophones
 created_at: '2021-09-30T18:00:28.000Z'
 updated_at: '2021-09-30T18:00:51.000Z'
 ---

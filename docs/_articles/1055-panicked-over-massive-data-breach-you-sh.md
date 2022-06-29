@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1055-panicked-over-massive-data-breach-you-sh
 created_at: '2020-12-02T14:31:01.000Z'
 updated_at: '2020-12-02T14:31:36.000Z'
 ---

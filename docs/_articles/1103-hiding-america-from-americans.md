@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1103-hiding-america-from-americans
 created_at: '2021-09-13T15:42:05.000Z'
 updated_at: '2021-09-13T15:42:05.000Z'
 ---

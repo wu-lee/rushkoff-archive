@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0959-the-moviefone-syndrome'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T04:19:11.000Z'
 ---

@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1128-coronavirus-is-making-me-believe-in-the-
 created_at: '2021-09-13T19:56:36.000Z'
 updated_at: '2021-09-13T19:56:36.000Z'
 ---

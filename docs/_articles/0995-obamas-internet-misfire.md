@@ -16,7 +16,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0995-obamas-internet-misfire'
 created_at: '2020-08-02T02:59:01.000Z'
 updated_at: '2020-08-02T02:59:01.000Z'
 ---

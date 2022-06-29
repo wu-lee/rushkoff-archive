@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1028-will-software-agents-rob-us-of-our-ident
 created_at: '2020-08-02T06:56:30.000Z'
 updated_at: '2020-08-02T06:56:30.000Z'
 ---

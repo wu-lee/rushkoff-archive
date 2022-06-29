@@ -9,7 +9,6 @@ notes: Pasted from https://rushkoff.com/punching-nerds-in-the-face-is-never-a-go
 refs: ''
 sources: ''
 img: ''
-slug: punching-nerds-in-the-face-is-never-a-good-thing
 created_at: 2022-06-27 00:00:00 -0400
 updated_at: 2022-06-27 00:00:00 -0400
 

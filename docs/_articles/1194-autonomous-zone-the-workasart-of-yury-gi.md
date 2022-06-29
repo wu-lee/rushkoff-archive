@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1194-autonomous-zone-the-workasart-of-yury-gi
 created_at: '2021-09-30T19:01:00.000Z'
 updated_at: '2021-09-30T19:01:00.000Z'
 ---

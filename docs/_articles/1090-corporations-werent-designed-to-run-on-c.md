@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1090-corporations-werent-designed-to-run-on-c
 created_at: '2021-09-10T13:51:50.000Z'
 updated_at: '2021-09-10T13:51:50.000Z'
 ---

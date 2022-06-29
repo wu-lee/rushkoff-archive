@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 0745-you-are-not-facebooks-customer
 created_at: '2020-08-02T00:44:11.000Z'
 updated_at: '2020-08-02T03:14:51.000Z'
 ---

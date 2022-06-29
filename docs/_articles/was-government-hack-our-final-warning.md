@@ -9,7 +9,6 @@ notes: Pasted from https://rushkoff.com/cnn-was-government-hack-our-final-warnin
 refs: ''
 sources: ''
 img: ''
-slug: was-government-hack-our-final-warning
 created_at: 2022-06-27 00:00:00 -0400
 updated_at: 2022-06-27 00:00:00 -0400
 

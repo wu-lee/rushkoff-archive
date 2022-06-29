@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 0770-the-pursuit-of-cool
 created_at: '2020-08-02T00:44:12.000Z'
 updated_at: '2020-08-02T03:36:41.000Z'
 ---

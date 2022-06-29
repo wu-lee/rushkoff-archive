@@ -20,7 +20,6 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   area.”", "dateLastCrawled"=>"2020-06-06T14:05:00.0000000Z"}]'
 published: false
 img: 
-slug: '0956-the-ayes-have-it-us-law-catches-up-with-'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T04:17:19.000Z'
 ---

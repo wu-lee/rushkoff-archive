@@ -16,7 +16,6 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   of his oncoming electric wheelchair.", "dateLastCrawled"=>"2020-07-22T10:43:00.0000000Z"}]'
 published: true
 img: 
-slug: '0937-death-in-the-center-ring'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T00:44:16.000Z'
 ---

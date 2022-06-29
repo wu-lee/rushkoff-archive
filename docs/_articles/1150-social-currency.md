@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1150-social-currency
 created_at: '2021-09-30T17:52:33.000Z'
 updated_at: '2021-09-30T17:52:33.000Z'
 ---

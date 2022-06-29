@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1044-developing-the-social-self
 created_at: '2020-08-03T04:26:24.000Z'
 updated_at: '2020-08-03T04:27:33.000Z'
 ---

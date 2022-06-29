@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1138-the-best-smartphone-is-the-one-you-alrea
 created_at: '2021-09-30T17:22:42.000Z'
 updated_at: '2021-09-30T17:22:42.000Z'
 ---

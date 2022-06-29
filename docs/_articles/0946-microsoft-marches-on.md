@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0946-microsoft-marches-on'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T03:35:48.000Z'
 ---

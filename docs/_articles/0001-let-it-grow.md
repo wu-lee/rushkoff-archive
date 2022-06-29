@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 0001-let-it-grow
 created_at: '2020-08-02T00:43:52.000Z'
 updated_at: '2020-08-02T00:47:49.000Z'
 ---

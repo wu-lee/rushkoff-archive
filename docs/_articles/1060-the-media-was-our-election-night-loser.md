@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1400/1*qRk8KItOdlxCxXe6fupNQw.png
-slug: 1060-the-media-was-our-election-night-loser
 created_at: '2021-09-07T18:16:26.000Z'
 updated_at: '2021-09-07T18:16:27.000Z'
 ---

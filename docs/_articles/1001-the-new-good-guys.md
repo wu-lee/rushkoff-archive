@@ -25,7 +25,6 @@ refs: '[{"text"=>"threat", "original"=>"http://www.thedailybeast.com/articles/20
 sources: 
 published: true
 img: 
-slug: 1001-the-new-good-guys
 created_at: '2020-08-02T02:59:01.000Z'
 updated_at: '2020-08-02T02:59:01.000Z'
 ---

@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1157-as-above-so-below
 created_at: '2021-09-30T18:07:13.000Z'
 updated_at: '2021-09-30T18:07:13.000Z'
 ---

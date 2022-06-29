@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1139-no-secrets-no-shame-how-technology-force
 created_at: '2021-09-30T17:24:17.000Z'
 updated_at: '2021-09-30T17:24:17.000Z'
 ---

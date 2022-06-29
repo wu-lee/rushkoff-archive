@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1173-new-york-gives-operators-key-to-city
 created_at: '2021-09-30T18:23:48.000Z'
 updated_at: '2021-09-30T18:23:48.000Z'
 ---

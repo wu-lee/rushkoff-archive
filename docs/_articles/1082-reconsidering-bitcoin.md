@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1082-reconsidering-bitcoin
 created_at: '2021-09-10T13:34:15.000Z'
 updated_at: '2021-09-10T13:34:15.000Z'
 ---

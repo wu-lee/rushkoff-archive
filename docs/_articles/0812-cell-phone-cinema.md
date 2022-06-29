@@ -57,7 +57,6 @@ refs: '[{"text"=>"CTIA Wireless IT and Entertainment Expo", "original"=>"http://
 sources: 
 published: false
 img: 
-slug: '0812-cell-phone-cinema'
 created_at: '2020-08-02T00:44:13.000Z'
 updated_at: '2020-08-02T00:44:13.000Z'
 ---

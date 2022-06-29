@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1400/0*VVKeuMSxewlb76iwThe Internet is Us
-slug: 1065-the-internet-is-us
 created_at: '2021-09-07T18:26:56.000Z'
 updated_at: '2021-09-07T18:26:56.000Z'
 ---

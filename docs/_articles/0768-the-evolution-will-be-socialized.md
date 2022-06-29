@@ -36,7 +36,6 @@ refs: '[{"text"=>"same thing in the US", "original"=>"http://www.fastcompany.com
 sources: 
 published: false
 img: 
-slug: '0768-the-evolution-will-be-socialized'
 created_at: '2020-08-02T00:44:12.000Z'
 updated_at: '2020-08-02T05:30:10.000Z'
 ---

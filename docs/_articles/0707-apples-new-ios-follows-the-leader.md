@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: http://i2.cdn.turner.com/cnn/dam/assets/130910190743-apple-iphone-event-story-top.jpg?__SQUARESPACE_CACHEVERSION=1379619159017
-slug: 0707-apples-new-ios-follows-the-leader
 created_at: '2020-08-02T00:44:10.000Z'
 updated_at: '2020-08-02T03:08:43.000Z'
 ---

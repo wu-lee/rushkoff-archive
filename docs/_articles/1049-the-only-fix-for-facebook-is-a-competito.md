@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-slug: 1049-the-only-fix-for-facebook-is-a-competito
 created_at: 2020-12-02T14:13:31.000Z
 updated_at: 2020-12-02T14:14:45.000Z
 

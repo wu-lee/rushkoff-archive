@@ -34,7 +34,6 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   simply shut down altogether.", "dateLastCrawled"=>"2020-07-28T03:28:00.0000000Z"}]'
 published: true
 img: http://i.cdn.turner.com/cnn/.element/img/3.0/global/icons/video_icon.gif
-slug: 0710-are-jobs-obsolete
 created_at: '2020-08-02T00:44:10.000Z'
 updated_at: '2020-08-02T03:15:05.000Z'
 ---

@@ -11,7 +11,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: '0929-american-teens-stupid-or-spoiled'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T04:17:29.000Z'
 ---

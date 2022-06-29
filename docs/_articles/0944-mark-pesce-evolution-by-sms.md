@@ -27,7 +27,6 @@ refs: '[{"text"=>"The Playful World", "original"=>"http://www.playfulworld.com/p
 sources: 
 published: false
 img: 
-slug: '0944-mark-pesce-evolution-by-sms'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T04:05:50.000Z'
 ---

@@ -11,7 +11,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1034-rave-against-the-machine
 created_at: '2020-08-02T07:15:45.000Z'
 updated_at: '2020-08-02T07:15:45.000Z'
 ---

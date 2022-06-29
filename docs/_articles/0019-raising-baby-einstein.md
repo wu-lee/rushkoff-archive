@@ -12,7 +12,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0019-raising-baby-einstein'
 created_at: '2020-08-02T00:43:52.000Z'
 updated_at: '2020-08-02T00:43:52.000Z'
 ---

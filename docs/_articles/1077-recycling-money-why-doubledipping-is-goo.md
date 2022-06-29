@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-slug: 1077-recycling-money-why-doubledipping-is-goo
 created_at: 2021-09-10T13:19:11.000Z
 updated_at: 2021-09-10T13:19:19.000Z
 

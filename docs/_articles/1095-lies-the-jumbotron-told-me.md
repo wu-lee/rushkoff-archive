@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1095-lies-the-jumbotron-told-me
 created_at: '2021-09-13T15:26:15.000Z'
 updated_at: '2021-09-13T15:26:15.000Z'
 ---

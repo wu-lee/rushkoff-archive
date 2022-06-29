@@ -24,7 +24,6 @@ refs: '[{"text"=>"Acxiom", "original"=>"http://www.acxiom.com/", "archive"=>"htt
 sources: 
 published: false
 img: 
-slug: '0935-breaking-up-is-hard-to-do-how-market-seg'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T04:16:31.000Z'
 ---

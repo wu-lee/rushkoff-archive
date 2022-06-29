@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0738-what-would-steve-jobs-do'
 created_at: '2020-08-02T00:44:11.000Z'
 updated_at: '2020-08-02T03:14:23.000Z'
 ---

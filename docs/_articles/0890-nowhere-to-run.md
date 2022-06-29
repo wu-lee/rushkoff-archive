@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0890-nowhere-to-run'
 created_at: '2020-08-02T00:44:15.000Z'
 updated_at: '2020-08-02T00:44:15.000Z'
 ---

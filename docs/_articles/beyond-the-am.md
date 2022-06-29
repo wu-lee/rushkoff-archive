@@ -12,7 +12,6 @@ notes: Spring 2008. Pasted from https://steinhardtfoundation.org/contact/spring_
 refs: ''
 sources: ''
 img: ''
-slug: beyond-the-am
 created_at: 2022-06-22T00:00:00.000-04:00
 updated_at: 2022-06-22T00:00:00.000-04:00
 

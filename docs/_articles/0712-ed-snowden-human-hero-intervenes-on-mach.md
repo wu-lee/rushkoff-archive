@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 0712-ed-snowden-human-hero-intervenes-on-mach
 created_at: '2020-08-02T00:44:10.000Z'
 updated_at: '2020-08-02T03:05:16.000Z'
 ---

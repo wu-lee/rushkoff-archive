@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1179-breaking-up-is-hard-to-do-how-market-seg
 created_at: '2021-09-30T18:37:06.000Z'
 updated_at: '2021-09-30T18:37:06.000Z'
 ---

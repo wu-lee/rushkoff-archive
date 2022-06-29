@@ -14,7 +14,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0999-the-iphone-becomes-a-bully'
 created_at: '2020-08-02T02:59:01.000Z'
 updated_at: '2020-08-02T04:26:43.000Z'
 ---

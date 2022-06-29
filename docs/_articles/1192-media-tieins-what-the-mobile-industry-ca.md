@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1192-media-tieins-what-the-mobile-industry-ca
 created_at: '2021-09-30T18:57:25.000Z'
 updated_at: '2021-09-30T18:57:25.000Z'
 ---

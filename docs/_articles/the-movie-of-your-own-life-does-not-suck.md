@@ -9,7 +9,6 @@ notes: Pasted from https://rushkoff.medium.com/the-movie-of-your-own-life-does-n
 refs: ''
 sources: ''
 img: https://miro.medium.com/max/700/1*TRCuLMjoabPRtYsQjCqNHQ.jpeg
-slug: the-movie-of-your-own-life-does-not-suck
 created_at: 2022-06-28 00:00:00 -0400
 updated_at: 2022-06-28 00:00:00 -0400
 

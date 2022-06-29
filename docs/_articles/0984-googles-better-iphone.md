@@ -13,7 +13,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0984-googles-better-iphone'
 created_at: '2020-08-02T02:59:01.000Z'
 updated_at: '2020-08-02T04:27:25.000Z'
 ---

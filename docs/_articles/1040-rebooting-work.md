@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1040-rebooting-work
 created_at: '2020-08-02T07:27:02.000Z'
 updated_at: '2020-08-02T07:27:02.000Z'
 ---

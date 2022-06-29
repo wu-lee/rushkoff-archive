@@ -10,7 +10,6 @@ notes: Pasted from https://www.rushkoff.com/wp-content/uploads/2015/12/Whos-the-
 refs: ''
 sources: ''
 img: ''
-slug: whos-the-rat-reality-tv
 created_at: 2022-06-23T00:00:00.000-04:00
 updated_at: 2022-06-23T00:00:00.000-04:00
 

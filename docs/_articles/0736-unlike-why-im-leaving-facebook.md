@@ -30,7 +30,6 @@ refs: '[{"text"=>"does things on our behalf", "original"=>"http://www.forbes.com
 sources: 
 published: true
 img: 
-slug: 0736-unlike-why-im-leaving-facebook
 created_at: '2020-08-02T00:44:11.000Z'
 updated_at: '2020-08-02T03:07:54.000Z'
 ---

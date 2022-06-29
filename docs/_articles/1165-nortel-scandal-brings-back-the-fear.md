@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1165-nortel-scandal-brings-back-the-fear
 created_at: '2021-09-30T18:15:42.000Z'
 updated_at: '2021-09-30T18:15:42.000Z'
 ---

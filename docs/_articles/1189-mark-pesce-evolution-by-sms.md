@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1189-mark-pesce-evolution-by-sms
 created_at: '2021-09-30T18:53:16.000Z'
 updated_at: '2021-09-30T18:53:16.000Z'
 ---

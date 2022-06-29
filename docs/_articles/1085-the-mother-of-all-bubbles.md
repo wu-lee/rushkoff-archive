@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1085-the-mother-of-all-bubbles
 created_at: '2021-09-10T13:41:06.000Z'
 updated_at: '2021-09-10T13:41:10.000Z'
 ---

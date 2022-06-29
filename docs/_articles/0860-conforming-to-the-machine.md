@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0860-conforming-to-the-machine'
 created_at: '2020-08-02T00:44:14.000Z'
 updated_at: '2020-08-02T00:44:14.000Z'
 ---

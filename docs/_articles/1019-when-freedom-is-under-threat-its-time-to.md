@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1019-when-freedom-is-under-threat-its-time-to
 created_at: '2020-08-02T06:33:47.000Z'
 updated_at: '2020-08-02T06:33:47.000Z'
 ---

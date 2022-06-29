@@ -36,7 +36,6 @@ refs: '[{"text"=>"", "original"=>"http://www.amazon.com/exec/obidos/ASIN/1400066
 sources: 
 published: true
 img: http://cdn.thedailybeast.com/content/dailybeast/articles/2009/06/08/how-i-became-an-enemy-of-the-people/_jcr_content/body/image_1.img.503.jpg/1337256000000.cached.jpg
-slug: '0988-how-i-became-an-enemy-of-the-people'
 created_at: '2020-08-02T02:59:01.000Z'
 updated_at: '2020-08-02T02:59:01.000Z'
 ---

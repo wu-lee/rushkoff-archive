@@ -16,7 +16,6 @@ refs: '[{"text"=>"Buckminster Fuller", "original"=>"http://www.bfi.org/operating
 sources: 
 published: false
 img: 
-slug: '0960-the-networked-individual'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T04:07:58.000Z'
 ---

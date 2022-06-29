@@ -9,7 +9,6 @@ notes: Pasted from https://www.cnn.com/2013/12/19/opinion/rushkoff-google-roboti
 refs: ''
 sources: ''
 img: https://media.cnn.com/api/v1/images/stellar/prod/131216070713-newday-romans-google-robots-00013427.jpg?q=x_104,y_55,h_658,w_1170,c_crop/h_720,w_1280
-slug: is-google-redefining-dont-be-evil
 created_at: 2022-06-27 00:00:00 -0400
 updated_at: 2022-06-27 00:00:00 -0400
 

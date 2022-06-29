@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1124-trump-believes-the-law-itself-is-corrupt
 created_at: '2021-09-13T17:16:15.000Z'
 updated_at: '2021-09-13T17:16:19.000Z'
 ---

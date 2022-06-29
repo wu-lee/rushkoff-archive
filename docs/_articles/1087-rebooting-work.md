@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1087-rebooting-work
 created_at: '2021-09-10T13:46:54.000Z'
 updated_at: '2021-09-10T13:47:10.000Z'
 ---

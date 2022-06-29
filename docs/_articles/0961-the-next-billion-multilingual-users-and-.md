@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: '0961-the-next-billion-multilingual-users-and-'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T04:15:12.000Z'
 ---

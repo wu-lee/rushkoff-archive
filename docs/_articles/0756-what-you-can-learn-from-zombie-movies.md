@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 0756-what-you-can-learn-from-zombie-movies
 created_at: '2020-08-02T00:44:11.000Z'
 updated_at: '2020-08-02T04:40:41.000Z'
 ---

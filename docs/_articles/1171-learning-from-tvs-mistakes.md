@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1171-learning-from-tvs-mistakes
 created_at: '2021-09-30T18:21:47.000Z'
 updated_at: '2021-09-30T18:21:47.000Z'
 ---

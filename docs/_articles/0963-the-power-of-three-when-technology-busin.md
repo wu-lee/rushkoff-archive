@@ -10,7 +10,6 @@ notes:
 refs: 
 sources: 
 img: 
-slug: '0963-the-power-of-three-when-technology-busin'
 created_at: 2020-08-02T00:44:16.000Z
 updated_at: 2020-08-02T04:08:41.000Z
 

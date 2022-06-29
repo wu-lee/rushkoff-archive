@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1029-much-of-what-we-call-interactive-really-
 created_at: '2020-08-02T06:57:17.000Z'
 updated_at: '2020-08-02T06:57:17.000Z'
 ---

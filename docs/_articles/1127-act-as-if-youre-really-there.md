@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1127-act-as-if-youre-really-there
 created_at: '2021-09-13T19:55:21.000Z'
 updated_at: '2021-09-13T19:55:21.000Z'
 ---

@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 0762-all-gods-children-they-got-vings
 created_at: '2020-08-02T00:44:11.000Z'
 updated_at: '2020-08-02T00:44:11.000Z'
 ---

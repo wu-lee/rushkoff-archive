@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 0002-the-sabbath-revolt
 created_at: '2020-08-02T00:43:52.000Z'
 updated_at: '2020-08-02T04:20:57.000Z'
 ---

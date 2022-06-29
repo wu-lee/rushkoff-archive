@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1144-can-hires-streaming-turn-digital-from-an
 created_at: '2021-09-30T17:32:50.000Z'
 updated_at: '2021-09-30T17:32:50.000Z'
 ---

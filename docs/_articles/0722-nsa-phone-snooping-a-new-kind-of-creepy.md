@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 0722-nsa-phone-snooping-a-new-kind-of-creepy
 created_at: '2020-08-02T00:44:10.000Z'
 updated_at: '2020-08-02T03:05:40.000Z'
 ---

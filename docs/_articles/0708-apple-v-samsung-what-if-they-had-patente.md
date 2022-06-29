@@ -16,7 +16,6 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   that anyone else who used it pay him […]", "dateLastCrawled"=>"2020-07-13T12:14:00.0000000Z"}]'
 published: true
 img: 
-slug: '0708-apple-v-samsung-what-if-they-had-patente'
 created_at: '2020-08-02T00:44:10.000Z'
 updated_at: '2020-08-02T03:09:00.000Z'
 ---

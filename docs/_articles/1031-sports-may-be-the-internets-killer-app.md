@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1031-sports-may-be-the-internets-killer-app
 created_at: '2020-08-02T07:09:47.000Z'
 updated_at: '2020-08-02T07:09:47.000Z'
 ---

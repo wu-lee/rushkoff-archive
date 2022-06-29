@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1170-bush-backs-bells
 created_at: '2021-09-30T18:20:53.000Z'
 updated_at: '2021-09-30T18:20:53.000Z'
 ---

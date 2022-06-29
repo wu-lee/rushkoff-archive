@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: https://i1.wp.com/www.arthurmag.com/magpie/wp-content/uploads/2009/03/wallstreaper.jpg
-slug: 0015-let-it-die
 created_at: '2020-08-02T00:43:52.000Z'
 updated_at: '2020-08-02T02:18:09.000Z'
 ---

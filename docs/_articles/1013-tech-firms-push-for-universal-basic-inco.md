@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-slug: 1013-tech-firms-push-for-universal-basic-inco
 created_at: 2020-08-02T06:21:55.000Z
 updated_at: 2020-08-02T06:21:55.000Z
 

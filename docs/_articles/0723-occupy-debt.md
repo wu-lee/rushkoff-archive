@@ -66,7 +66,6 @@ refs: '[{"text"=>"Most recently,", "original"=>"http://www.nytimes.com/2012/11/1
 sources: 
 published: true
 img: "../../../../storage/121114050624-rushkoff-occupy-debt-story-top-__SQUARESPACE_CACHEVERSION=1352925412340.jpeg"
-slug: 0723-occupy-debt
 created_at: '2020-08-02T00:44:10.000Z'
 updated_at: '2020-08-02T00:44:10.000Z'
 ---

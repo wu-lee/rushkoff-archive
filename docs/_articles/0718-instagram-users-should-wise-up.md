@@ -21,7 +21,6 @@ refs: '[{"text"=>"a blog post backtracking significantly", "original"=>"http://w
 sources: 
 published: true
 img: 
-slug: '0718-instagram-users-should-wise-up'
 created_at: '2020-08-02T00:44:10.000Z'
 updated_at: '2020-08-02T03:08:06.000Z'
 ---

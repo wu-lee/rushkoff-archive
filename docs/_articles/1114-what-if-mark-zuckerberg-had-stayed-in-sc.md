@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1114-what-if-mark-zuckerberg-had-stayed-in-sc
 created_at: '2021-09-13T16:54:25.000Z'
 updated_at: '2021-09-13T16:54:25.000Z'
 ---

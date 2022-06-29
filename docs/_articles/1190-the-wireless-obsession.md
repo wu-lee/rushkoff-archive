@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1190-the-wireless-obsession
 created_at: '2021-09-30T18:53:55.000Z'
 updated_at: '2021-09-30T18:53:55.000Z'
 ---

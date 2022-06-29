@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1100-we-won-get-used-to-it
 created_at: '2021-09-13T15:35:40.000Z'
 updated_at: '2021-09-13T15:35:40.000Z'
 ---

@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: https://mondrian.mashable.com/2012%252F12%252F04%252Fb1%252Fwhymarketin.chr.jpg%252F950x534__filters%253Aquality%252880%2529.jpg
-slug: '0759-why-marketing-threatens-the-true-promise'
 created_at: '2020-08-02T00:44:11.000Z'
 updated_at: '2020-08-02T03:26:55.000Z'
 ---

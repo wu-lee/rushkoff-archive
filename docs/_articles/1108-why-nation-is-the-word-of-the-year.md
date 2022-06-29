@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1108-why-nation-is-the-word-of-the-year
 created_at: '2021-09-13T16:43:17.000Z'
 updated_at: '2021-09-13T16:43:17.000Z'
 ---

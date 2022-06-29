@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1106-the-epidemic-of-civic-amnesia-is-spreadi
 created_at: '2021-09-13T16:40:43.000Z'
 updated_at: '2021-09-13T16:40:43.000Z'
 ---

@@ -44,7 +44,6 @@ refs: '[{"text"=>"and attorneys general,", "original"=>"http://kuow.org/program.
 sources: 
 published: true
 img: 
-slug: '0109-child-porn-is-a-poor-basis-for-net-polic'
 created_at: '2020-08-02T00:43:55.000Z'
 updated_at: '2020-08-02T03:10:29.000Z'
 ---

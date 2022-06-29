@@ -9,7 +9,6 @@ notes: Pasted from https://www.fastcompany.com/40432885/its-time-to-break-up-ama
 refs: ''
 sources: ''
 img: https://images.fastcompany.net/image/upload/w_937,ar_16:9,c_fill,g_auto,f_auto,q_auto,fl_lossy/wp-cms/uploads/2017/06/p-1-its-time-to-break-up-amazon.webp
-slug: its-time-to-break-up-amazon
 created_at: 2022-06-29 00:00:00 -0400
 updated_at: 2022-06-29 00:00:00 -0400
 

@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 0757-like-it-or-not-we-jews-cant-separate-fro
 created_at: '2020-08-02T00:44:11.000Z'
 updated_at: '2020-08-02T03:23:43.000Z'
 ---

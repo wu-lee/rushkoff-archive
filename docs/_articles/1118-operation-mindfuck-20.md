@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1118-operation-mindfuck-20
 created_at: '2021-09-13T17:00:33.000Z'
 updated_at: '2021-09-13T17:00:33.000Z'
 ---

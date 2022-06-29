@@ -13,7 +13,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0558-suicide-bombs-as-viral-media-ii'
 created_at: '2020-08-02T00:44:06.000Z'
 updated_at: '2020-08-02T02:28:09.000Z'
 ---

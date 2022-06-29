@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1143-maybe-you-can-handle-the-truth-how-tech-
 created_at: '2021-09-30T17:30:52.000Z'
 updated_at: '2021-09-30T17:30:52.000Z'
 ---

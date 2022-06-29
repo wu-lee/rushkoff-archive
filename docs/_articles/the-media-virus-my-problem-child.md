@@ -10,7 +10,6 @@ notes: Fall 2018 (per Wikipedia). Text pasted from https://www.eff.org/files/201
 refs: ''
 sources: ''
 img: ''
-slug: the-media-virus-my-problem-child
 created_at: 2022-06-22T00:00:00.000-04:00
 updated_at: 2022-06-22T00:00:00.000-04:00
 

@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-slug: 1032-life-dollars-finding-currency-in-communi
 created_at: 2020-08-02T07:11:34.000Z
 updated_at: 2020-08-02T07:11:34.000Z
 

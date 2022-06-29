@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-slug: 1054-facebook-needs-more-human-bias
 created_at: 2020-12-02T14:28:09.000Z
 updated_at: 2020-12-02T14:28:09.000Z
 

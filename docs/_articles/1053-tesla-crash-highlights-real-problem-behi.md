@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-slug: 1053-tesla-crash-highlights-real-problem-behi
 created_at: 2020-12-02T14:26:19.000Z
 updated_at: 2020-12-02T14:26:19.000Z
 

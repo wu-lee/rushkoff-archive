@@ -11,7 +11,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1142-donald-trump-works-the-internet-better-t
 created_at: '2021-09-30T17:29:26.000Z'
 updated_at: '2021-09-30T17:29:26.000Z'
 ---

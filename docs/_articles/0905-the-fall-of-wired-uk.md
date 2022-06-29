@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0905-the-fall-of-wired-uk'
 created_at: '2020-08-02T00:44:15.000Z'
 updated_at: '2020-08-02T04:19:43.000Z'
 ---

@@ -18,7 +18,6 @@ refs: '[{"text"=>"your Internet service provider may begin monitoring your accou
 sources: 
 published: true
 img: "../../../../storage/120705103111-rushkoff-online-monitoring-story-top-__SQUARESPACE_CACHEVERSION=1341593455198.jpeg"
-slug: 0742-will-isps-begin-spying-on-users
 created_at: '2020-08-02T00:44:11.000Z'
 updated_at: '2020-08-02T03:09:58.000Z'
 ---

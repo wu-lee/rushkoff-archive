@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1006-in-defense-of-the-threeday-work-week
 created_at: '2020-08-02T04:49:08.000Z'
 updated_at: '2020-08-02T04:49:08.000Z'
 ---

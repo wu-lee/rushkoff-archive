@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1088-how-the-digital-media-environment-enforc
 created_at: '2021-09-10T13:48:29.000Z'
 updated_at: '2021-09-10T13:48:29.000Z'
 ---

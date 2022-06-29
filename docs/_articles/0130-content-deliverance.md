@@ -17,7 +17,6 @@ refs: '[{"text"=>"The Feature", "original"=>"http://www.thefeature.com/article?a
 sources: 
 published: false
 img: http://www.blogger.com:80/img/icon18_email.gif
-slug: 0130-content-deliverance
 created_at: '2020-08-02T00:43:55.000Z'
 updated_at: '2020-08-02T00:43:55.000Z'
 ---

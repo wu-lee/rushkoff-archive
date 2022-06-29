@@ -60,7 +60,6 @@ refs: '[{"text"=>"Program or be Programmed: Ten Commands for the Digital Age", "
 sources: 
 published: false
 img: 
-slug: 0767-program-or-be-programmed
 created_at: '2020-08-02T00:44:12.000Z'
 updated_at: '2020-08-02T05:29:14.000Z'
 ---

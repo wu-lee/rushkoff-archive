@@ -34,7 +34,6 @@ refs: '[{"text"=>"boost our nation''s GDP", "original"=>"http://www.reuters.com/
 sources: 
 published: true
 img: "../../../../storage/120911094145-rushkoff-iphone-story-top-__SQUARESPACE_CACHEVERSION=1347460275025.jpeg"
-slug: 0717-iphone-is-not-your-savior
 created_at: '2020-08-02T00:44:10.000Z'
 updated_at: '2020-08-02T03:08:33.000Z'
 ---

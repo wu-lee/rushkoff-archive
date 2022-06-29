@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1160-content-deliverance
 created_at: '2021-09-30T18:09:44.000Z'
 updated_at: '2021-09-30T18:09:44.000Z'
 ---

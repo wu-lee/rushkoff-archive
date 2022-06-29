@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1134-the-privileged-have-entered-their-escape
 created_at: '2021-09-13T20:06:43.000Z'
 updated_at: '2021-09-13T20:06:43.000Z'
 ---

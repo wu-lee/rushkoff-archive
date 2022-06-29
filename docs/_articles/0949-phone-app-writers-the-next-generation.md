@@ -55,7 +55,6 @@ refs: '[{"text"=>"Interactive Telecommunications Program", "original"=>"http://i
 sources: 
 published: false
 img: 
-slug: '0949-phone-app-writers-the-next-generation'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T04:07:17.000Z'
 ---

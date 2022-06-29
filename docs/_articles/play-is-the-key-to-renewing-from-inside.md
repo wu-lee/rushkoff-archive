@@ -10,7 +10,6 @@ notes: Pasted from https://www.kessels-smit.com/files/Douglas_Rushkoff_-_Develop
 refs: ''
 sources: ''
 img: ''
-slug: play-is-the-key-to-renewing-from-inside
 created_at: 2022-06-22T00:00:00.000-04:00
 updated_at: 2022-06-22T00:00:00.000-04:00
 

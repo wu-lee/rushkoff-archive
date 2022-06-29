@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1042-computers-in-the-classroom-a-mindful-len
 created_at: '2020-08-03T04:23:33.000Z'
 updated_at: '2020-08-03T04:23:33.000Z'
 ---

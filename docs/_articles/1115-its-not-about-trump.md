@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1115-its-not-about-trump
 created_at: '2021-09-13T16:56:25.000Z'
 updated_at: '2021-09-13T16:56:25.000Z'
 ---

@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1119-how-the-media-produces-trump-tv
 created_at: '2021-09-13T17:02:08.000Z'
 updated_at: '2021-09-13T17:02:08.000Z'
 ---

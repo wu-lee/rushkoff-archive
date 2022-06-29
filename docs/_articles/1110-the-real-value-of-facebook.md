@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1110-the-real-value-of-facebook
 created_at: '2021-09-13T16:46:05.000Z'
 updated_at: '2021-09-13T16:46:05.000Z'
 ---

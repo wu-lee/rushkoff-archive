@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1104-the-gop-has-ditched-democracy
 created_at: '2021-09-13T15:44:48.000Z'
 updated_at: '2021-09-13T16:37:54.000Z'
 ---

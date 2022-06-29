@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1092-twelve-steps-to-sustainable-business
 created_at: '2021-09-13T15:20:05.000Z'
 updated_at: '2021-09-13T15:20:05.000Z'
 ---

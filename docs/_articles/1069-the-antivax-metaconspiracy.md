@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1224/1*FAUzTFj0RmHra0Le3wktbg.jpeg
-slug: 1069-the-antivax-metaconspiracy
 created_at: '2021-09-07T18:34:06.000Z'
 updated_at: '2021-09-07T18:34:08.000Z'
 ---

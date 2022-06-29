@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1187-networked-plush
 created_at: '2021-09-30T18:49:18.000Z'
 updated_at: '2021-09-30T18:49:18.000Z'
 ---

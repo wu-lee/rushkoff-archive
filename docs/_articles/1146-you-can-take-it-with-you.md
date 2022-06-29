@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-slug: 1146-you-can-take-it-with-you
 created_at: 2021-09-30T17:39:11.000Z
 updated_at: 2021-09-30T17:39:11.000Z
 

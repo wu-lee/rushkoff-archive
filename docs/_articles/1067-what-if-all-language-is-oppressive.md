@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1400/0*QqDllg3XFQGQG_9m
-slug: 1067-what-if-all-language-is-oppressive
 created_at: '2021-09-07T18:30:35.000Z'
 updated_at: '2021-09-07T18:30:35.000Z'
 ---

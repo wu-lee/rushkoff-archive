@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: '0009-corporations-as-ubercitizens'
 created_at: '2020-08-02T00:43:52.000Z'
 updated_at: '2020-08-02T02:15:38.000Z'
 ---

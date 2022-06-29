@@ -13,7 +13,6 @@ refs: '[{"text"=>"The Alliance for the New Humanity.", "original"=>"http://www.a
 sources: 
 published: false
 img: 
-slug: '0808-as-above-so-below'
 created_at: '2020-08-02T00:44:13.000Z'
 updated_at: '2020-08-02T00:44:13.000Z'
 ---

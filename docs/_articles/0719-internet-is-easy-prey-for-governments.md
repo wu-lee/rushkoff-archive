@@ -15,7 +15,6 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   tools and the ease with which ...", "dateLastCrawled"=>"2020-07-18T04:38:00.0000000Z"}]'
 published: true
 img: 
-slug: '0719-internet-is-easy-prey-for-governments'
 created_at: '2020-08-02T00:44:10.000Z'
 updated_at: '2020-08-02T03:15:40.000Z'
 ---

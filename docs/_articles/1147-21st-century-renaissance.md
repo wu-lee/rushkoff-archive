@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1147-21st-century-renaissance
 created_at: '2021-09-30T17:40:47.000Z'
 updated_at: '2021-09-30T17:40:47.000Z'
 ---

@@ -61,7 +61,6 @@ refs: '[{"text"=>"integrating their technology into mobile handsets", "original"
 sources: 
 published: false
 img: 
-slug: '0947-music-in-music-out-the-garage-band-ethos'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T04:16:13.000Z'
 ---

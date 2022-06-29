@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 0751-outsourced-boredom
 created_at: '2020-08-02T00:44:11.000Z'
 updated_at: '2020-08-02T04:39:45.000Z'
 ---

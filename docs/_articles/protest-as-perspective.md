@@ -9,7 +9,6 @@ notes: 2002. Pasted from https://www.cognitiveliberty.org/ccle1/9jcl/Rushkoff_pr
 refs: ''
 sources: ''
 img: ''
-slug: protest-as-perspective-do-we-want-a-revolution
 created_at: 2022-06-23T00:00:00.000-04:00
 updated_at: 2022-06-23T00:00:00.000-04:00
 

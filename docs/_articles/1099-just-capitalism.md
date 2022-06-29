@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1099-just-capitalism
 created_at: '2021-09-13T15:34:18.000Z'
 updated_at: '2021-09-13T15:34:18.000Z'
 ---

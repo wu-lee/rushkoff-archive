@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1008-occupy-wall-street-and-the-tea-party-com
 created_at: '2020-08-02T05:09:26.000Z'
 updated_at: '2020-08-02T05:09:26.000Z'
 ---

@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0893-people-who-need-people'
 created_at: '2020-08-02T00:44:15.000Z'
 updated_at: '2020-08-02T00:44:15.000Z'
 ---

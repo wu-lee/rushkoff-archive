@@ -44,7 +44,6 @@ refs: '[{"text"=>"and attorneys general,", "original"=>"http://kuow.org/program.
 sources: 
 published: true
 img: 
-slug: '0729-state-ban-on-sex-listings-is-a-dangerous'
 created_at: '2020-08-02T00:44:11.000Z'
 updated_at: '2020-08-02T03:11:23.000Z'
 ---

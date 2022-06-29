@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1091-turning-off-the-news
 created_at: '2021-09-10T13:54:23.000Z'
 updated_at: '2021-09-10T13:54:24.000Z'
 ---

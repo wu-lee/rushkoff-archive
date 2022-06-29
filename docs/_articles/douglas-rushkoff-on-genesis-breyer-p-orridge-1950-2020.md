@@ -8,7 +8,6 @@ notes: Pasted from https://boingboing.net/2020/03/14/douglas-rushkoff-on-genesis
 refs: ''
 sources: ''
 img: https://i0.wp.com/boingboing.net/wp-content/uploads/2020/03/IMG_3341.jpg?w=700&ssl=1
-slug: douglas-rushkoff-on-genesis-breyer-p-orridge
 created_at: 2022-06-29 00:00:00 -0400
 updated_at: 2022-06-29 00:00:00 -0400
 

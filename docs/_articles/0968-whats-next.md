@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0968-whats-next'
 created_at: '2020-08-02T00:44:17.000Z'
 updated_at: '2020-08-02T03:44:47.000Z'
 ---

@@ -32,7 +32,6 @@ refs: '[{"text"=>"Radio Orphan Annie Secret Society", "original"=>"http://www.ra
 sources: 
 published: false
 img: 
-slug: '0945-media-tieins-what-the-mobile-industry-ca'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T04:07:04.000Z'
 ---

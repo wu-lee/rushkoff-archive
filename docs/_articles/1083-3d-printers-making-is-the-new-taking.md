@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1083-3d-printers-making-is-the-new-taking
 created_at: '2021-09-10T13:37:44.000Z'
 updated_at: '2021-09-10T13:37:44.000Z'
 ---

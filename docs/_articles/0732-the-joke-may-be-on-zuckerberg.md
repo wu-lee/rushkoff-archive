@@ -28,7 +28,6 @@ refs: '[{"text"=>"Mark Zuckerberg''s announcement", "original"=>"http://hothardw
 sources: 
 published: true
 img: 
-slug: 0732-the-joke-may-be-on-zuckerberg
 created_at: '2020-08-02T00:44:11.000Z'
 updated_at: '2020-08-02T03:07:42.000Z'
 ---

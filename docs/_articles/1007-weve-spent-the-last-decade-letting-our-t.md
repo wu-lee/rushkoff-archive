@@ -11,7 +11,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1007-weve-spent-the-last-decade-letting-our-t
 created_at: '2020-08-02T05:07:09.000Z'
 updated_at: '2020-08-02T05:07:09.000Z'
 ---

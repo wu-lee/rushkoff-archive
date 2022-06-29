@@ -10,7 +10,6 @@ notes: Pasted from https://pubs.lib.uiowa.edu/ijcs/article/29902/galley/138245/v
 refs: ''
 sources: ''
 img: ''
-slug: mediasprawl-springfield-usa
 created_at: 2022-06-22T00:00:00.000-04:00
 updated_at: 2022-06-22T00:00:00.000-04:00
 

@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1035-learys-last-trip
 created_at: '2020-08-02T07:16:58.000Z'
 updated_at: '2020-08-02T07:16:58.000Z'
 ---

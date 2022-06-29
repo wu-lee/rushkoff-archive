@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1102-democrats-are-killing-it-on-prestige-tv
 created_at: '2021-09-13T15:40:44.000Z'
 updated_at: '2021-09-13T15:40:44.000Z'
 ---

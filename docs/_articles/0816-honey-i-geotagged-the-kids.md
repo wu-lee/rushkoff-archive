@@ -61,7 +61,6 @@ refs: '[{"text"=>"Mapping Hacks", "original"=>"http://mappinghacks.com/"}, {"tex
 sources: 
 published: false
 img: 
-slug: '0816-honey-i-geotagged-the-kids'
 created_at: '2020-08-02T00:44:13.000Z'
 updated_at: '2020-08-02T00:44:13.000Z'
 ---

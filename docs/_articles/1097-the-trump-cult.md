@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1097-the-trump-cult
 created_at: '2021-09-13T15:30:04.000Z'
 updated_at: '2021-09-13T15:30:04.000Z'
 ---

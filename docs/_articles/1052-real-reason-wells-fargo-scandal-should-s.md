@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-slug: 1052-real-reason-wells-fargo-scandal-should-s
 created_at: 2020-12-02T14:21:58.000Z
 updated_at: 2020-12-02T14:21:58.000Z
 

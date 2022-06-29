@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1158-walters-wireless-world
 created_at: '2021-09-30T18:08:33.000Z'
 updated_at: '2021-09-30T18:08:33.000Z'
 ---

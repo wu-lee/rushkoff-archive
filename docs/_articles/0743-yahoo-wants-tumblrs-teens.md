@@ -15,7 +15,6 @@ refs: '[{"text"=>"pay over $1 billion", "original"=>"http://money.cnn.com/2013/0
 sources: 
 published: true
 img: 
-slug: 0743-yahoo-wants-tumblrs-teens
 created_at: '2020-08-02T00:44:11.000Z'
 updated_at: '2020-08-02T03:06:07.000Z'
 ---

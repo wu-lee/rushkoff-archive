@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: http://s3.media.squarespace.com/production/899202/11122385/wordpress/wp-content/uploads/2008/09/keynote_ban.jpg
-slug: '0018-no-money-down'
 created_at: '2020-08-02T00:43:52.000Z'
 updated_at: '2020-08-02T02:19:25.000Z'
 ---

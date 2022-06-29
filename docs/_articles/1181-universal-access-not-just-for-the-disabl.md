@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1181-universal-access-not-just-for-the-disabl
 created_at: '2021-09-30T18:38:31.000Z'
 updated_at: '2021-09-30T18:38:31.000Z'
 ---

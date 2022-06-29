@@ -33,7 +33,6 @@ refs: '[{"text"=>"banned a user for openly criticizing NBC''s coverage", "origin
   "favicon"=>"https://www.idgcdn.com.au/compressor-staticfiles/consumer/images/pcw/favicon.ico?release=20200730161603"}}]'
 sources: 
 img: 
-slug: '0728-should-we-trust-twitter'
 created_at: 2020-08-02T00:44:11.000Z
 updated_at: 2020-08-02T03:09:13.000Z
 

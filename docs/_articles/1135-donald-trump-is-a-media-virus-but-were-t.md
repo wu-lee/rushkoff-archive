@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1135-donald-trump-is-a-media-virus-but-were-t
 created_at: '2021-09-30T17:17:09.000Z'
 updated_at: '2021-09-30T17:17:09.000Z'
 ---

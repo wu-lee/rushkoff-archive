@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1131-restoring-the-economy-is-the-last-thing-
 created_at: '2021-09-13T20:01:27.000Z'
 updated_at: '2022-03-29T13:25:03.000Z'
 ---

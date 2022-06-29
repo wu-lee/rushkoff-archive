@@ -11,7 +11,6 @@ refs: '[{"text"=>"1.2 billion usernames and passwords have been compromised", "o
 sources: 
 published: true
 img: "../../../../storage/Screen Shot 2014-08-06 at 9.24.32 PM-__SQUARESPACE_CACHEVERSION=1407374751035.png"
-slug: 0734-the-russia-hack-is-not-about-you
 created_at: '2020-08-02T00:44:11.000Z'
 updated_at: '2020-08-02T00:44:11.000Z'
 ---

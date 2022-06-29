@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1400/0*XdpUTPqzW6ljZCeN
-slug: 1072-cant-we-use-crypto-for-something-other-t
 created_at: '2021-09-07T18:39:33.000Z'
 updated_at: '2021-09-07T18:39:33.000Z'
 ---

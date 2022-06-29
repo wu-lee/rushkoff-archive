@@ -12,7 +12,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: '0818-its-nice-to-share'
 created_at: '2020-08-02T00:44:13.000Z'
 updated_at: '2020-08-02T00:44:13.000Z'
 ---

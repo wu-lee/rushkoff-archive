@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1039-technorealism-get-real
 created_at: '2020-08-02T07:25:15.000Z'
 updated_at: '2020-08-02T07:25:15.000Z'
 ---

@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1175-networks-without-the-net
 created_at: '2021-09-30T18:28:05.000Z'
 updated_at: '2021-09-30T18:28:05.000Z'
 ---

@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0938-dont-judge-judaism-by-the-numbers'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T06:31:34.000Z'
 ---

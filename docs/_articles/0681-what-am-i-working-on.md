@@ -47,7 +47,6 @@ refs: '[{"text"=>"NYU''s Interactive Telecommunications Program", "original"=>"h
 sources: 
 published: false
 img: http://www.blogger.com:80/img/icon18_email.gif
-slug: '0681-what-am-i-working-on'
 created_at: '2020-08-02T00:44:09.000Z'
 updated_at: '2020-08-02T00:44:09.000Z'
 ---

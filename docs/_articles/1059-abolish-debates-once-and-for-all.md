@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1400/1*BPI4Y4ueKcraRYPx3MzXWg.jpeg
-slug: 1059-abolish-debates-once-and-for-all
 created_at: '2021-09-07T18:13:53.000Z'
 updated_at: '2021-09-07T18:13:53.000Z'
 ---

@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 0005-an-end-to-movements
 created_at: '2020-08-02T00:43:52.000Z'
 updated_at: '2020-08-02T02:14:12.000Z'
 ---

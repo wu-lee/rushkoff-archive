@@ -8,7 +8,6 @@ notes: Pasted from https://medium.com/team-human/self-actualization-and-the-myth
 refs: ''
 sources: ''
 img: https://miro.medium.com/max/700/1*v9HemPwwVje3s8AoOgyCLg.jpeg
-slug: self-actualization-and-the-myth-of-personal-growth
 created_at: 2022-06-28 00:00:00 -0400
 updated_at: 2022-06-28 00:00:00 -0400
 

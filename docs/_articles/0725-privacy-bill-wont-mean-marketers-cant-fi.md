@@ -16,7 +16,6 @@ refs: '[{"text"=>"John Kerry and John McCain proposed this week", "original"=>"h
 sources: 
 published: true
 img: 
-slug: 0725-privacy-bill-wont-mean-marketers-cant-fi
 created_at: '2020-08-02T00:44:10.000Z'
 updated_at: '2020-08-02T03:15:23.000Z'
 ---

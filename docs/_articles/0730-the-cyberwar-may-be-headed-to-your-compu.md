@@ -27,7 +27,6 @@ refs: '[{"text"=>"Flame virus", "original"=>"http://money.cnn.com/2012/05/30/tec
 sources: 
 published: true
 img: 
-slug: 0730-the-cyberwar-may-be-headed-to-your-compu
 created_at: '2020-08-02T00:44:11.000Z'
 updated_at: '2020-08-02T03:11:09.000Z'
 ---

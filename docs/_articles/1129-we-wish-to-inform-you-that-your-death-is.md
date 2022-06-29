@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1129-we-wish-to-inform-you-that-your-death-is
 created_at: '2021-09-13T19:58:00.000Z'
 updated_at: '2021-09-13T19:58:00.000Z'
 ---

@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1141-dial-1-for-euphoria-what-happens-when-we
 created_at: '2021-09-30T17:27:11.000Z'
 updated_at: '2021-09-30T17:27:11.000Z'
 ---

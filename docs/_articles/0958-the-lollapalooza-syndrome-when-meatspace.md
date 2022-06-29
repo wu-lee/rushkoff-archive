@@ -13,7 +13,6 @@ refs: '[{"text"=>"HipNTasty", "original"=>"http://www.hipntasty.com/", "archive"
 sources: 
 published: false
 img: 
-slug: '0958-the-lollapalooza-syndrome-when-meatspace'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T04:18:20.000Z'
 ---

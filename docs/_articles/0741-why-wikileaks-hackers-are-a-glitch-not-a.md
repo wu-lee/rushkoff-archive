@@ -22,7 +22,6 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   Although many are unsettled by the […]", "dateLastCrawled"=>"2020-05-02T18:53:00.0000000Z"}]'
 published: true
 img: 
-slug: 0741-why-wikileaks-hackers-are-a-glitch-not-a
 created_at: '2020-08-02T00:44:11.000Z'
 updated_at: '2020-08-02T03:16:34.000Z'
 ---

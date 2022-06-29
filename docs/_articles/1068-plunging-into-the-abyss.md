@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1400/0*AnI7zP_1GAh8m17D
-slug: 1068-plunging-into-the-abyss
 created_at: '2021-09-07T18:32:43.000Z'
 updated_at: '2021-09-07T18:32:43.000Z'
 ---

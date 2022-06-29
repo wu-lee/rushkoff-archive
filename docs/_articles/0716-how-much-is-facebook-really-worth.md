@@ -21,7 +21,6 @@ refs: '[{"text"=>"getting credit for helping to topple regimes in the Middle Eas
 sources: 
 published: true
 img: 
-slug: 0716-how-much-is-facebook-really-worth
 created_at: '2020-08-02T00:44:10.000Z'
 updated_at: '2020-08-02T03:15:32.000Z'
 ---

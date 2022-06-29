@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1163-rock-the-wireless-votecom
 created_at: '2021-09-30T18:13:50.000Z'
 updated_at: '2021-09-30T18:13:50.000Z'
 ---

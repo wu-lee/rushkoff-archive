@@ -11,7 +11,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0924-wired-ventures-too-far'
 created_at: '2020-08-02T00:44:15.000Z'
 updated_at: '2020-08-02T00:44:15.000Z'
 ---

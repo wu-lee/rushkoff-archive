@@ -12,7 +12,6 @@ refs: '[{"text"=>"crazy conference", "original"=>"http://www.thefeature.com/arti
 sources: 
 published: false
 img: 
-slug: '0841-the-wireless-obsession'
 created_at: '2020-08-02T00:44:13.000Z'
 updated_at: '2020-08-02T00:44:13.000Z'
 ---

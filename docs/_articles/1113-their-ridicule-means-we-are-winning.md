@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1113-their-ridicule-means-we-are-winning
 created_at: '2021-09-13T16:52:41.000Z'
 updated_at: '2021-09-13T16:52:41.000Z'
 ---

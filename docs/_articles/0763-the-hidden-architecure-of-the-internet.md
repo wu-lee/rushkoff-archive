@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 0763-the-hidden-architecure-of-the-internet
 created_at: '2020-08-02T00:44:11.000Z'
 updated_at: '2020-08-02T03:33:31.000Z'
 ---

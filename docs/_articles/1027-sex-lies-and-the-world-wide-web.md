@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1027-sex-lies-and-the-world-wide-web
 created_at: '2020-08-02T06:55:39.000Z'
 updated_at: '2020-08-02T06:55:39.000Z'
 ---

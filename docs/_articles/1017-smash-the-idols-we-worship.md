@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1017-smash-the-idols-we-worship
 created_at: '2020-08-02T06:27:12.000Z'
 updated_at: '2020-08-02T06:27:12.000Z'
 ---

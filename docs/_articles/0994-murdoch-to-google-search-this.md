@@ -27,7 +27,6 @@ refs: '[{"text"=>"In an interview with Sky News Australia", "original"=>"http://
 sources: 
 published: true
 img: 
-slug: '0994-murdoch-to-google-search-this'
 created_at: '2020-08-02T02:59:01.000Z'
 updated_at: '2020-08-02T02:59:01.000Z'
 ---

@@ -18,7 +18,6 @@ refs: '[{"text"=>"Talking Street", "original"=>"http://www.talkingstreet.com/les
 sources: 
 published: false
 img: 
-slug: '0842-these-streets-were-made-for-talking'
 created_at: '2020-08-02T00:44:13.000Z'
 updated_at: '2020-08-02T00:44:13.000Z'
 ---

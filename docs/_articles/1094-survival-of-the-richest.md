@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1094-survival-of-the-richest
 created_at: '2021-09-13T15:24:35.000Z'
 updated_at: '2021-09-13T15:24:35.000Z'
 ---

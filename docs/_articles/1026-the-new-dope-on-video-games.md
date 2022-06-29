@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1026-the-new-dope-on-video-games
 created_at: '2020-08-02T06:54:16.000Z'
 updated_at: '2020-08-02T06:54:16.000Z'
 ---

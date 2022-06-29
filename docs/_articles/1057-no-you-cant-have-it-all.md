@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-slug: 1057-no-you-cant-have-it-all
 created_at: 2020-12-02T14:35:58.000Z
 updated_at: 2020-12-02T14:35:58.000Z
 

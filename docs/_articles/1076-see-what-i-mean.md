@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1076-see-what-i-mean
 created_at: '2021-09-10T13:17:05.000Z'
 updated_at: '2021-09-10T13:17:05.000Z'
 ---

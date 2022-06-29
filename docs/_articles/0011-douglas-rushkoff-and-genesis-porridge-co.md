@@ -11,7 +11,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 0011-douglas-rushkoff-and-genesis-porridge-co
 created_at: '2020-08-02T00:43:52.000Z'
 updated_at: '2020-08-02T06:06:52.000Z'
 ---

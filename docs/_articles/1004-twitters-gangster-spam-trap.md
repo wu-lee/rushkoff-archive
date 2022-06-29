@@ -14,7 +14,6 @@ refs:
 sources: 
 published: true
 img: http://cdn.thedailybeast.com/content/dailybeast/articles/2009/09/30/a-tweet-you-cant-refuse/_jcr_content/body/image_1.img.503.jpg/1337256000000.cached.jpg
-slug: 1004-twitters-gangster-spam-trap
 created_at: '2020-08-02T02:59:01.000Z'
 updated_at: '2020-08-02T02:59:01.000Z'
 ---

@@ -100,7 +100,6 @@ refs: '[{"text"=>"235th anniversary", "original"=>"http://dissenter.firedoglake.
 sources: 
 published: true
 img: "../../../../storage/130730131022-rushkoff-manning-story-top-__SQUARESPACE_CACHEVERSION=1375231364318.jpg"
-slug: 0721-manning-verdict-wont-end-government-tran
 created_at: '2020-08-02T00:44:10.000Z'
 updated_at: '2020-08-02T00:44:10.000Z'
 ---

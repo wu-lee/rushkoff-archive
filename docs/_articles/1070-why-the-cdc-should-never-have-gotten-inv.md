@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1400/0*ExabHU87GDC_qWFk
-slug: 1070-why-the-cdc-should-never-have-gotten-inv
 created_at: '2021-09-07T18:35:58.000Z'
 updated_at: '2021-09-07T18:35:58.000Z'
 ---

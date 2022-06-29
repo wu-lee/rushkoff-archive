@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-slug: 1038-theres-more-to-being-a-journalist-than-h
 created_at: 2020-08-02T07:21:36.000Z
 updated_at: 2020-08-02T07:21:57.000Z
 

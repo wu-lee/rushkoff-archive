@@ -48,7 +48,6 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   The shock and awe seems to center ...", "dateLastCrawled"=>"2020-04-22T05:51:00.0000000Z"}]'
 published: true
 img: 
-slug: 0727-should-twitter-fear-saudi-prince
 created_at: '2020-08-02T00:44:11.000Z'
 updated_at: '2020-08-02T03:14:05.000Z'
 ---

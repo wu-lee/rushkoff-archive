@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1186-another-kind-of-cell-damage
 created_at: '2021-09-30T18:48:32.000Z'
 updated_at: '2021-09-30T18:48:32.000Z'
 ---

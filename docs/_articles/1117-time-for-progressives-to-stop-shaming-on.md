@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1117-time-for-progressives-to-stop-shaming-on
 created_at: '2021-09-13T16:59:14.000Z'
 updated_at: '2021-09-13T16:59:14.000Z'
 ---

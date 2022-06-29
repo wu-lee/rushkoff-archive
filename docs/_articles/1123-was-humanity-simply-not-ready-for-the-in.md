@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1123-was-humanity-simply-not-ready-for-the-in
 created_at: '2021-09-13T17:14:08.000Z'
 updated_at: '2021-09-13T17:14:08.000Z'
 ---

@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1011-hacking-the-economy
 created_at: '2020-08-02T05:43:16.000Z'
 updated_at: '2020-08-02T05:45:27.000Z'
 ---

@@ -16,7 +16,6 @@ notes: Pasted from https://www.edge.org/conversation/economics-is-not-natural-sc
 refs: ''
 sources: ''
 img: ''
-slug: economics-is-not-a-natural-science
 created_at: 2022-06-22T00:00:00.000-04:00
 updated_at: 2022-06-22T00:00:00.000-04:00
 

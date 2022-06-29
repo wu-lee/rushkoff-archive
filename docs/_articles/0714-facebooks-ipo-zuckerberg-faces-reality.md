@@ -16,7 +16,6 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   to buy shares of the social networking company on an open stock exchange.", "dateLastCrawled"=>"2020-07-07T04:47:00.0000000Z"}]'
 published: true
 img: 
-slug: 0714-facebooks-ipo-zuckerberg-faces-reality
 created_at: '2020-08-02T00:44:10.000Z'
 updated_at: '2020-08-02T03:13:33.000Z'
 ---

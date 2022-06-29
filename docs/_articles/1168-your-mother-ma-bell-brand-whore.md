@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1168-your-mother-ma-bell-brand-whore
 created_at: '2021-09-30T18:19:15.000Z'
 updated_at: '2021-09-30T18:19:15.000Z'
 ---

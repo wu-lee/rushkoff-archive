@@ -13,7 +13,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0957-the-facial'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T00:44:16.000Z'
 ---

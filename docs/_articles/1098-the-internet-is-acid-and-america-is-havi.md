@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1098-the-internet-is-acid-and-america-is-havi
 created_at: '2021-09-13T15:31:43.000Z'
 updated_at: '2021-09-13T15:31:43.000Z'
 ---

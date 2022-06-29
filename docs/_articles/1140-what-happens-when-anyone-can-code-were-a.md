@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1140-what-happens-when-anyone-can-code-were-a
 created_at: '2021-09-30T17:25:41.000Z'
 updated_at: '2021-09-30T17:25:41.000Z'
 ---

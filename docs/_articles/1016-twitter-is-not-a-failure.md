@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-slug: 1016-twitter-is-not-a-failure
 created_at: 2020-08-02T06:25:10.000Z
 updated_at: 2020-08-02T06:25:10.000Z
 

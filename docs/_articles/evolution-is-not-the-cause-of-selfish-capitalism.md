@@ -9,7 +9,6 @@ notes: Pasted from https://medium.com/team-human/no-evolution-did-not-make-us-in
 refs: ''
 sources: ''
 img: https://miro.medium.com/max/700/1*PFRH5UvNLtEOrIeHJGJE7w.jpeg
-slug: evolution-is-not-the-cause-of-selfish-capitalism
 created_at: 2022-06-28 00:00:00 -0400
 updated_at: 2022-06-28 00:00:00 -0400
 

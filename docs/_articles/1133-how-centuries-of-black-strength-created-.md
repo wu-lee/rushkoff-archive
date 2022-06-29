@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1133-how-centuries-of-black-strength-created-
 created_at: '2021-09-13T20:04:44.000Z'
 updated_at: '2021-09-13T20:04:44.000Z'
 ---

@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1155-the-lollapalooza-syndrome-when-meatspace
 created_at: '2021-09-30T18:04:57.000Z'
 updated_at: '2021-09-30T18:04:57.000Z'
 ---

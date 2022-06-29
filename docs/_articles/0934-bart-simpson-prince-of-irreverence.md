@@ -11,7 +11,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0934-bart-simpson-prince-of-irreverence'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T03:58:05.000Z'
 ---

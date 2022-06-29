@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1191-sms-activism-dont-call-us-well-call-you
 created_at: '2021-09-30T18:54:45.000Z'
 updated_at: '2021-09-30T18:54:45.000Z'
 ---

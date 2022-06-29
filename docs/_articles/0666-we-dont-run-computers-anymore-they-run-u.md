@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 0666-we-dont-run-computers-anymore-they-run-u
 created_at: '2020-08-02T00:44:09.000Z'
 updated_at: '2020-08-02T03:42:07.000Z'
 ---

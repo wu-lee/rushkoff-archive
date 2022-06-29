@@ -12,7 +12,6 @@ refs: '[{"text"=>"Eatocracy: Anthony Bourdain says help NYC restaurants: Eat out
 sources: 
 published: true
 img: "../../../../storage/post-images/121101074223-10-sandy-damage-1101-horizontal-gallery-__SQUARESPACE_CACHEVERSION=1352163522278.jpeg"
-slug: 0726-sending-out-an-sos-what-the-storm-taught
 created_at: '2020-08-02T00:44:11.000Z'
 updated_at: '2020-08-02T03:08:22.000Z'
 ---

@@ -9,7 +9,6 @@ notes: Pasted from https://rushkoff.com/social-media-and-the-perils-of-looking-f
 refs: ''
 sources: ''
 img: ''
-slug: social-media-and-the-perils-of-looking-for-likes
 created_at: 2022-06-27 00:00:00 -0400
 updated_at: 2022-06-27 00:00:00 -0400
 

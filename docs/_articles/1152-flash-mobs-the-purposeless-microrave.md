@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1152-flash-mobs-the-purposeless-microrave
 created_at: '2021-09-30T17:57:20.000Z'
 updated_at: '2021-09-30T17:57:20.000Z'
 ---

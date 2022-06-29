@@ -9,7 +9,6 @@ notes: Pasted from https://www.cnn.com/2011/10/05/opinion/rushkoff-occupy-wall-s
 refs: ''
 sources: ''
 img: https://media.cnn.com/api/v1/images/stellar/prod/111004103034-rushkoff-occupy-wall-street.jpg?q=x_0,y_3,h_1458,w_2592,c_crop/h_720,w_1280
-slug: think-occupy-wall-st-is-a-phase
 created_at: 2022-06-27 00:00:00 -0400
 updated_at: 2022-06-27 00:00:00 -0400
 

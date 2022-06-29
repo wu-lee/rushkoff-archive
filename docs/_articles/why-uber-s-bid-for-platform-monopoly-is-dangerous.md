@@ -8,7 +8,6 @@ notes: Pasted from https://rushkoff.medium.com/my-problem-with-uber-all-along-ha
 refs: ''
 sources: ''
 img: ''
-slug: why-ubers-bid-for-platform-monopoly-is-dangerous
 created_at: 2022-06-28 00:00:00 -0400
 updated_at: 2022-06-28 00:00:00 -0400
 

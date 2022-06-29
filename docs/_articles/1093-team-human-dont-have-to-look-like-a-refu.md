@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1093-team-human-dont-have-to-look-like-a-refu
 created_at: '2021-09-13T15:21:31.000Z'
 updated_at: '2021-09-13T15:21:31.000Z'
 ---

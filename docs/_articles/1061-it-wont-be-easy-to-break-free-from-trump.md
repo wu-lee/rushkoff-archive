@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/2000/1*_8KkzRbBx-n_H65IBI7qpA.jpeg
-slug: 1061-it-wont-be-easy-to-break-free-from-trump
 created_at: '2021-09-07T18:18:58.000Z'
 updated_at: '2021-09-07T18:21:09.000Z'
 ---

@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1030-computer-literacy-not-what-it-used-to-be
 created_at: '2020-08-02T06:59:23.000Z'
 updated_at: '2020-08-02T06:59:23.000Z'
 ---

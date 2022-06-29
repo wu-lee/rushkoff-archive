@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1120/0*i2HL0kQXH-ZrxtlA
-slug: 1071-bitcoins-increasing-value-is-its-real-fa
 created_at: '2021-09-07T18:37:30.000Z'
 updated_at: '2021-09-07T18:37:30.000Z'
 ---

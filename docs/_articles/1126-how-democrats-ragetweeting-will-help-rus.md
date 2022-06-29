@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1126-how-democrats-ragetweeting-will-help-rus
 created_at: '2021-09-13T19:52:41.000Z'
 updated_at: '2021-09-13T19:52:41.000Z'
 ---

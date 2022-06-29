@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-slug: 1047-why-mark-zuckerberg-thinks-a-president-e
 created_at: 2020-12-02T14:11:16.000Z
 updated_at: 2020-12-02T14:11:16.000Z
 

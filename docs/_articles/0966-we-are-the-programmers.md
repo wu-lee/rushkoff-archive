@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: '0966-we-are-the-programmers'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T04:10:19.000Z'
 ---

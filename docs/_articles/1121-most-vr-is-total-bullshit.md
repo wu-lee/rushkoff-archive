@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1121-most-vr-is-total-bullshit
 created_at: '2021-09-13T17:08:52.000Z'
 updated_at: '2021-09-13T17:08:52.000Z'
 ---

@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1048-our-reptile-brains-were-triggered-by-mag
 created_at: '2020-12-02T14:12:55.000Z'
 updated_at: '2020-12-02T14:12:55.000Z'
 ---

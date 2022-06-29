@@ -10,7 +10,6 @@ notes: Pasted from http://www.zeek.net/feature_0307.shtml and additional URLs li
 refs: ''
 sources: ''
 img: http://www.zeek.net/i/rsefirot.jpg
-slug: the-sacred-and-the-profane
 created_at: 2022-06-22T00:00:00.000-04:00
 updated_at: 2022-06-22T00:00:00.000-04:00
 

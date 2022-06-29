@@ -19,7 +19,6 @@ refs: '[{"text"=>"Mark Hurst", "original"=>"http://www.creativegood.com/", "arch
 sources: 
 published: false
 img: 
-slug: '0814-content-deliverance'
 created_at: '2020-08-02T00:44:13.000Z'
 updated_at: '2020-08-02T00:44:13.000Z'
 ---

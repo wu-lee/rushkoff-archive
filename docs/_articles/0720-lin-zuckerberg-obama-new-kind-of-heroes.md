@@ -15,7 +15,6 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   whose almost accidental ...", "dateLastCrawled"=>"2020-04-29T23:48:00.0000000Z"}]'
 published: true
 img: "../../../../storage/lin-__SQUARESPACE_CACHEVERSION=1379079737778.jpg"
-slug: 0720-lin-zuckerberg-obama-new-kind-of-heroes
 created_at: '2020-08-02T00:44:10.000Z'
 updated_at: '2020-08-02T03:13:19.000Z'
 ---

@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-slug: 1033-we-interrupt-this-program
 created_at: 2020-08-02T07:13:33.000Z
 updated_at: 2020-08-02T07:13:33.000Z
 

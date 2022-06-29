@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-slug: 1014-corporate-growth-for-the-sake-of-corpora
 created_at: 2020-08-02T06:23:32.000Z
 updated_at: 2020-08-02T06:23:32.000Z
 

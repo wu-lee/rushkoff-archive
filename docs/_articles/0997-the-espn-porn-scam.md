@@ -34,7 +34,6 @@ refs: '[{"text"=>"how it works", "original"=>"http://www.youtube.com/watch?v=H4q
 sources: 
 published: true
 img: 
-slug: '0997-the-espn-porn-scam'
 created_at: '2020-08-02T02:59:01.000Z'
 updated_at: '2020-08-02T04:28:50.000Z'
 ---

@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1051-trump-as-job-creator-hope-or-hoax
 created_at: '2020-12-02T14:19:49.000Z'
 updated_at: '2020-12-02T14:19:49.000Z'
 ---

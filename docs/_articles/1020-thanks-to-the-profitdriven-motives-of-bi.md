@@ -11,7 +11,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1020-thanks-to-the-profitdriven-motives-of-bi
 created_at: '2020-08-02T06:35:38.000Z'
 updated_at: '2020-08-02T06:35:38.000Z'
 ---

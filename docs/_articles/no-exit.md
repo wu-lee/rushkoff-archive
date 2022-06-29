@@ -9,7 +9,6 @@ notes: Pasted from https://www.iftf.org/future-now/article-detail/no-exit/
 refs: ''
 sources: ''
 img: https://www.iftf.org/uploads/RTEmagicC_No_Exit_pic_2.png.png
-slug: no-exit-when-everything-becomes-a-shopping-mall
 created_at: 2022-06-22T00:00:00.000-04:00
 updated_at: 2022-06-22T00:00:00.000-04:00
 

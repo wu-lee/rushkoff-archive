@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1148-world-conquest-through-bottom-up-media
 created_at: '2021-09-30T17:41:33.000Z'
 updated_at: '2021-09-30T17:41:33.000Z'
 ---

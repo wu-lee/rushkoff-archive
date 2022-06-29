@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1136-the-russians-arent-coming-to-silicon-val
 created_at: '2021-09-30T17:19:00.000Z'
 updated_at: '2021-09-30T17:19:00.000Z'
 ---

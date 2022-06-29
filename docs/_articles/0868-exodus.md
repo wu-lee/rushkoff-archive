@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0868-exodus'
 created_at: '2020-08-02T00:44:14.000Z'
 updated_at: '2020-08-02T00:44:14.000Z'
 ---

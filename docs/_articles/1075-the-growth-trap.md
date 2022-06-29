@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1075-the-growth-trap
 created_at: '2021-09-10T13:14:37.000Z'
 updated_at: '2021-09-10T13:14:37.000Z'
 ---

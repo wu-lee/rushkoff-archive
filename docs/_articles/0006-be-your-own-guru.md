@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 0006-be-your-own-guru
 created_at: '2020-08-02T00:43:52.000Z'
 updated_at: '2020-08-02T02:22:17.000Z'
 ---

@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1132-good-cops-dont-need-grenade-launchers
 created_at: '2021-09-13T20:02:51.000Z'
 updated_at: '2021-09-13T20:02:51.000Z'
 ---

@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1188-its-got-a-hold-on-you
 created_at: '2021-09-30T18:50:14.000Z'
 updated_at: '2021-09-30T18:50:29.000Z'
 ---

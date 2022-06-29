@@ -12,7 +12,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0990-iphones-bad-business'
 created_at: '2020-08-02T02:59:01.000Z'
 updated_at: '2020-08-02T04:28:38.000Z'
 ---

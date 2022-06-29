@@ -16,7 +16,6 @@ refs: '[{"text"=>"extraordinary discussion", "original"=>"http://www.thefeature.
 sources: 
 published: false
 img: 
-slug: '0844-walters-wireless-world'
 created_at: '2020-08-02T00:44:13.000Z'
 updated_at: '2020-08-02T00:44:13.000Z'
 ---

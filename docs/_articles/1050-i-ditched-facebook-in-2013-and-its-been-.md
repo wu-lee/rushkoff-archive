@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-slug: 1050-i-ditched-facebook-in-2013-and-its-been-
 created_at: 2020-12-02T14:17:27.000Z
 updated_at: 2020-12-02T14:17:32.000Z
 

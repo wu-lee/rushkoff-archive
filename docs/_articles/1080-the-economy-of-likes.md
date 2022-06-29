@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1080-the-economy-of-likes
 created_at: '2021-09-10T13:24:40.000Z'
 updated_at: '2021-09-10T13:24:43.000Z'
 ---

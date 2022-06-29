@@ -12,7 +12,6 @@ refs: '[{"text"=>"Local coverage", "original"=>"http://www.nypost.com/news/regio
 sources: 
 published: false
 img: 
-slug: '0824-new-york-gives-operators-key-to-city'
 created_at: '2020-08-02T00:44:13.000Z'
 updated_at: '2020-08-02T00:44:13.000Z'
 ---

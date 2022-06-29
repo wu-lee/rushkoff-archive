@@ -8,7 +8,6 @@ notes: Pasted from https://blog.p2pfoundation.net/when-memes-fail-us/2016/12/07
 refs: ''
 sources: ''
 img: ''
-slug: when-memes-fail-us
 created_at: 2022-06-29 00:00:00 -0400
 updated_at: 2022-06-29 00:00:00 -0400
 

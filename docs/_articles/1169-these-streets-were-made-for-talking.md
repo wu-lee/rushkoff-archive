@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1169-these-streets-were-made-for-talking
 created_at: '2021-09-30T18:20:12.000Z'
 updated_at: '2021-09-30T18:20:12.000Z'
 ---

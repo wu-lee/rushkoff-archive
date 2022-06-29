@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 img: https://miro.medium.com/max/1400/1*cZzuwnd7AUcklDveBL7kZg.jpeg
-slug: 1058-why-you-dont-have-to-feel-too-sick-about
 created_at: 2021-09-07T18:11:17.000Z
 updated_at: 2021-09-07T18:11:17.000Z
 

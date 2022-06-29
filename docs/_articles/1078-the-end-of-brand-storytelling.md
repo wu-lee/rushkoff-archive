@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1078-the-end-of-brand-storytelling
 created_at: '2021-09-10T13:20:42.000Z'
 updated_at: '2021-09-10T13:32:28.000Z'
 ---

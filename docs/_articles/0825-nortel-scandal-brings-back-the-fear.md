@@ -12,7 +12,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: '0825-nortel-scandal-brings-back-the-fear'
 created_at: '2020-08-02T00:44:13.000Z'
 updated_at: '2020-08-02T00:44:13.000Z'
 ---

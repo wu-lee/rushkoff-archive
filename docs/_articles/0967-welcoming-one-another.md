@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0967-welcoming-one-another'
 created_at: '2020-08-02T00:44:17.000Z'
 updated_at: '2020-08-02T04:13:44.000Z'
 ---

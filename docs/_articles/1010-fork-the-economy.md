@@ -11,7 +11,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1010-fork-the-economy
 created_at: '2020-08-02T05:26:13.000Z'
 updated_at: '2020-08-02T05:26:13.000Z'
 ---

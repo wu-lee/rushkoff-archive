@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 0016-net-effect-its-not-too-late-for-humanity
 created_at: '2020-08-02T00:43:52.000Z'
 updated_at: '2020-08-02T02:15:58.000Z'
 ---

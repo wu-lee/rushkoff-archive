@@ -11,7 +11,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: '0950-playing-with-fractals'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T03:52:57.000Z'
 ---

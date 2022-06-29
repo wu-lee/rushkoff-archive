@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1400/0*fS7EIMEDsRRvWeZJ
-slug: 1066-human-beings-are-not-an-engineering-prob
 created_at: '2021-09-07T18:29:06.000Z'
 updated_at: '2021-09-07T18:29:06.000Z'
 ---

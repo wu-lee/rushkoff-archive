@@ -52,7 +52,6 @@ refs: '[{"text"=>"challenging", "original"=>"http://www.nytimes.com/2012/04/28/t
 sources: 
 published: true
 img: "../../../../storage/google-__SQUARESPACE_CACHEVERSION=1379079599480.jpg"
-slug: 0740-why-reining-in-google-is-good-for-us
 created_at: '2020-08-02T00:44:11.000Z'
 updated_at: '2020-08-02T00:44:11.000Z'
 ---

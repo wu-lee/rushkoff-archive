@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1125-how-to-fix-the-internet-with-a-single-re
 created_at: '2021-09-13T19:51:00.000Z'
 updated_at: '2021-09-13T19:51:00.000Z'
 ---

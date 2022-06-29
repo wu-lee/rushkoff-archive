@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1185-honey-i-geotagged-the-kids
 created_at: '2021-09-30T18:47:49.000Z'
 updated_at: '2021-09-30T18:47:49.000Z'
 ---

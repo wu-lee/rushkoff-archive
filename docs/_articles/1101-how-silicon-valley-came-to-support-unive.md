@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1101-how-silicon-valley-came-to-support-unive
 created_at: '2021-09-13T15:39:00.000Z'
 updated_at: '2021-09-13T15:39:06.000Z'
 ---

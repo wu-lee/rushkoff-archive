@@ -28,7 +28,6 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   systems were down, but ...", "dateLastCrawled"=>"2020-07-20T08:38:00.0000000Z"}]'
 published: true
 img: 
-slug: 0711-cutting-social-media-no-answer-to-flash-
 created_at: '2020-08-02T00:44:10.000Z'
 updated_at: '2020-08-02T03:16:51.000Z'
 ---

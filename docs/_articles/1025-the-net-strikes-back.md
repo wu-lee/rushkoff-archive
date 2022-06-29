@@ -11,7 +11,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1025-the-net-strikes-back
 created_at: '2020-08-02T06:44:45.000Z'
 updated_at: '2020-08-02T06:45:57.000Z'
 ---

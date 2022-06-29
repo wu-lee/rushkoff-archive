@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: '0029-willing-dupes'
 created_at: '2020-08-02T00:43:53.000Z'
 updated_at: '2020-08-02T02:19:38.000Z'
 ---

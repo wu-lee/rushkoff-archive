@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 0025-the-light-at-the-end-of-the-reality-tunn
 created_at: '2020-08-02T00:43:52.000Z'
 updated_at: '2020-08-02T02:21:25.000Z'
 ---

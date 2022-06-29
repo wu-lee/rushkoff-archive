@@ -15,7 +15,6 @@ refs: '[{"text"=>"Open Source Democracy", "original"=>"http://www.demos.co.uk/ca
 sources: 
 published: false
 img: 
-slug: '0951-rock-the-wireless-votecom'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T04:07:31.000Z'
 ---

@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1107-how-we-all-became-russias-useful-idiots
 created_at: '2021-09-13T16:41:54.000Z'
 updated_at: '2021-09-13T16:41:54.000Z'
 ---

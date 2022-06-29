@@ -10,7 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-slug: 1036-trickle-up-democracy
 created_at: '2020-08-02T07:18:55.000Z'
 updated_at: '2020-08-02T07:18:55.000Z'
 ---

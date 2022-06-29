@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1400/0*Qzf7SUbPlsda-ZUr
-slug: 1073-did-the-homepage-kill-the-internet
 created_at: '2021-09-07T18:40:42.000Z'
 updated_at: '2021-09-07T18:40:42.000Z'
 ---

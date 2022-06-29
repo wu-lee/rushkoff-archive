@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1056-russia-the-internet-and-a-new-way-to-wag
 created_at: '2020-12-02T14:33:40.000Z'
 updated_at: '2020-12-02T14:33:43.000Z'
 ---

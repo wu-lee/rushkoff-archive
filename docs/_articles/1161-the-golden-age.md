@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1161-the-golden-age
 created_at: '2021-09-30T18:10:26.000Z'
 updated_at: '2021-09-30T18:10:26.000Z'
 ---

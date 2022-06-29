@@ -20,7 +20,6 @@ refs: '[{"text"=>"Mass Immediate Response", "original"=>"http://www.pfaw.org/pfa
 sources: 
 published: false
 img: 
-slug: '0954-sms-activism-dont-call-us-well-call-you'
 created_at: '2020-08-02T00:44:16.000Z'
 updated_at: '2020-08-02T04:12:08.000Z'
 ---

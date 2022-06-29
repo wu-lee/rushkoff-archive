@@ -10,7 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-slug: 1086-disposable-news
 created_at: '2021-09-10T13:45:16.000Z'
 updated_at: '2021-09-10T13:45:44.000Z'
 ---

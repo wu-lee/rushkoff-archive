@@ -29,7 +29,6 @@ refs: '[{"text"=>"Genevieve Bell", "original"=>"http://www.bbc.co.uk/religion/re
 sources: 
 published: false
 img: 
-slug: '0817-its-got-a-hold-on-you'
 created_at: '2020-08-02T00:44:13.000Z'
 updated_at: '2020-08-02T00:44:13.000Z'
 ---

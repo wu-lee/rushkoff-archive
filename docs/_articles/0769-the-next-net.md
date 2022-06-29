@@ -68,7 +68,6 @@ refs: '[{"text"=>"Glenn Zucman.", "original"=>"http://www.flickr.com/photos/artb
 sources: 
 published: false
 img: 
-slug: '0769-the-next-net'
 created_at: '2020-08-02T00:44:12.000Z'
 updated_at: '2020-08-02T05:28:55.000Z'
 ---
