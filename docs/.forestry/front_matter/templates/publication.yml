@@ -17,6 +17,7 @@ fields:
   name: url
   label: url
 pages:
+- docs/_publications/boing-boing.md
 - docs/_publications/contact.md
 - docs/_publications/develop.md
 - docs/_publications/eme-explorations-in-media-ecology.md
