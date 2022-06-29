@@ -47,9 +47,6 @@ fields:
 - type: text
   name: sources
   label: sources
-- type: text
-  name: img
-  label: img
 - name: image
   type: file
   config:
