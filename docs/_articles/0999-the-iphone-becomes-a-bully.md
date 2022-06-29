@@ -14,8 +14,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T02:59:01.000Z'
-updated_at: '2020-08-02T04:26:43.000Z'
 ---
 But I didn't expect Apple to go suing the Taiwanese handset manufacturer HTC over the lifting of this now-standard unlocking routine, and about a dozen other iPhone innovations Steve Jobs claims to have patented. “We can sit by and watch competitors steal our patented inventions, or we can do something about it. We've decided to do something about it,” the Apple CEO said in a press release on Apple's blog. “We think competition is healthy, but competitors should create their own original technology, not steal ours.”
 

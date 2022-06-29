@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:43:52.000Z'
-updated_at: '2020-08-02T00:43:52.000Z'
 ---
 I had a weird vision the other day.
 

@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:13:02.000Z'
-updated_at: '2021-09-30T18:13:02.000Z'
 ---
 The inability to create a great cell-phone software course may tell us a lot about the plight of independent developers in a development-hostile environment.
 

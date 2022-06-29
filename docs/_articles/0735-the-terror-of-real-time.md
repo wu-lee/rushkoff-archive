@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:11.000Z'
-updated_at: '2020-08-02T03:07:22.000Z'
 ---
 So is this the "new normal"? That's the question I keep hearing as people try to comprehend the tragedy at the Boston Marathon and its chaotic aftermath. The answer is yes -- in more ways than you might think.
 

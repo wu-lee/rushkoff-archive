@@ -10,8 +10,6 @@ notes: Pasted from https://www.rushkoff.com/wp-content/uploads/2015/12/Whos-the-
 refs: ''
 sources: ''
 img: ''
-created_at: 2022-06-23T00:00:00.000-04:00
-updated_at: 2022-06-23T00:00:00.000-04:00
 
 ---
 A random sample of average people is divided into two groups: teachers and students. Each student sits on one side of a wall trying to remember a sequence of words, while the teacher sits on the other and is instructed to deliver an electric shock at each wrong answer. The voltage is increased until the student is writhing on the floor and screaming in agony. How far will each teacher go? Will he or she deliver a lethal dose? Finally, it will be revealed to the teachers that their pupils are really just actors. Won’t they be embarrassed when we all see how easily they can be turned into sadists? 

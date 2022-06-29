@@ -9,8 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-created_at: 2020-12-02T14:13:31.000Z
-updated_at: 2020-12-02T14:14:45.000Z
 
 ---
 Anyone expecting bombshell revelations from Mark Zuckerberg's testimony before Congress may have been disappointed by repetitive questions and circular responses. But that doesn't mean we learned nothing important.

@@ -60,8 +60,6 @@ refs: '[{"text"=>"Program or be Programmed: Ten Commands for the Digital Age", "
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:12.000Z'
-updated_at: '2020-08-02T05:29:14.000Z'
 ---
 An excerpt from Douglas Rushkoff's latest book, *[Program or be Programmed: Ten Commands for the Digital Age](http://www.orbooks.com/our-books/program/).*
 

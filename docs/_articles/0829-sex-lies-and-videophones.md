@@ -41,8 +41,6 @@ refs: '[{"text"=>"SounderCover", "original"=>"http://www.simeda.com/soundercover
 sources: 
 published: false
 img: videophones_files/image.jfif
-created_at: '2020-08-02T00:44:13.000Z'
-updated_at: '2020-08-02T00:44:13.000Z'
 ---
 New services allow users to fake the background sounds and appearance of their locations -- all because interactive media really wants us to be more honest.
 

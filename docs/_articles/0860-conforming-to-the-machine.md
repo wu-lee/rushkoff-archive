@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 The old man had never seen a computer up close before. As countless other first-time computer users had done before him, he picked up the mouse, pointed it at the monitor, and clicked.
 

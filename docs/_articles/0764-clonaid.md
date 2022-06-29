@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:11.000Z'
-updated_at: '2020-08-02T03:34:21.000Z'
 ---
 On the sensationalized landscape of American media, scientific breakthroughs and alien fantasies often seem to walk hand in hand. It's as if our inability to cope with the implications of a new discovery makes us susceptible to the most outlandish and unfounded claims.
 

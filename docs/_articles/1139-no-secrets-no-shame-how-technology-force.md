@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T17:24:17.000Z'
-updated_at: '2021-09-30T17:24:17.000Z'
 ---
 I once saw a human lie detector perform at a conference – one of those guys who can call a dozen people up on stage and match them up with the objects that belong to them, or even “deduce ” their email passwords. He wasn’t doing magic, of course, but simply reading the cues and tells we all give one another all the time. As any gate investigator on Israel’s national airline knows – and its security record attests – our bodies give us away.
 

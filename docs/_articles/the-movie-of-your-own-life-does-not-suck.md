@@ -9,8 +9,6 @@ notes: Pasted from https://rushkoff.medium.com/the-movie-of-your-own-life-does-n
 refs: ''
 sources: ''
 img: https://miro.medium.com/max/700/1*TRCuLMjoabPRtYsQjCqNHQ.jpeg
-created_at: 2022-06-28 00:00:00 -0400
-updated_at: 2022-06-28 00:00:00 -0400
 
 ---
 [Bo Burnham](http://boburnham.com/) restored my faith in social media. After a meteoric rise on YouTube comparable to Justin Bieber’s, the 20-something comedian went on a national tour, taped two Netflix specials, and just released a feature film called [_Eighth Grade_](http://eighthgrade.movie/) about a teenager who hopes to find herself via vlog.

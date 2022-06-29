@@ -34,8 +34,6 @@ refs: '[{"text"=>"Mobile Speak accessibility program.", "original"=>"http://www.
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:16.000Z'
-updated_at: '2020-08-02T04:09:04.000Z'
 ---
 Paying attention to one group's disabilities enhances usability for everyone else.
 

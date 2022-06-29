@@ -22,8 +22,6 @@ refs: '[{"text"=>"Interactive Telecommunications Program,", "original"=>"http://
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:13.000Z'
-updated_at: '2020-08-02T00:44:13.000Z'
 ---
 The inability to create a great cell-phone software course may tell us a lot about the plight of independent developers in a development-hostile environment.
 

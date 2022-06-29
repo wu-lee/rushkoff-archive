@@ -9,8 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-created_at: 2020-08-02T06:23:32.000Z
-updated_at: 2020-08-02T06:23:32.000Z
 
 ---
 On at least one level, Bernie Sanders remains right: Billionaires are getting richer as everyone else gets poorer. Yes, the top one-tenth of 1 percent own nearly as much wealth as the bottom 90 percent, but the problem is, Sanders stops his rhetoric right there. Such statements lead both his followers and detractors to assume he's calling for a forced redistribution of all that money through taxes or other penalties.

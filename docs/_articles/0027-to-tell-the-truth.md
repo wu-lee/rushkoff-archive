@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:43:52.000Z'
-updated_at: '2020-08-02T00:43:52.000Z'
 ---
 I'm teaching a course at New York University this coming Fall semester, called “Technologies of Persuasion: Marketing, Politics, and Propaganda in a Digital Age.” And, beyond the title, I didn’t really have anything particular in mind when I pitched the idea to my superiors; only that I was getting sick and tired of students coming to our Interactive Telecommunications Program with little motivation other than to apply new technologies to marketing.
 

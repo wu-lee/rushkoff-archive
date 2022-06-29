@@ -25,8 +25,6 @@ refs: '[{"text"=>"threat", "original"=>"http://www.thedailybeast.com/articles/20
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T02:59:01.000Z'
-updated_at: '2020-08-02T02:59:01.000Z'
 ---
 Defying the logic that everything is more valuable the higher it climbs on Google's search rankings, Rupert Murdoch is making good on his [threat](http://www.thedailybeast.com/articles/2009/11/09/murdoch-to-google-search-this.html) to pull out of Google searchability, altogether. Instead, he wants to be paid for his properties to show up in search results. And Microsoft CEO Steve Ballmer may be desperate enough for a competitive advantage against Google to take Murdoch up on the deal, and offer it to other media companies with content people really want to find.
 

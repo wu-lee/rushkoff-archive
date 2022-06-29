@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T17:34:30.000Z'
-updated_at: '2021-09-30T17:34:30.000Z'
 ---
 The digital economy isn’t working out quite like it was supposed to.
 The promise was that we were all going to get to work fewer hours, from home, in our pajamas, on creative pursuits, while our computers and networks did the heavy lifting. Instead, however, we find ourselves automated out of gainful employment, less secure in our futures, and glued 24/7 to screens that are extracting value from us — whether or not we’re even on the job.

@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 How was Wired magazine to have known that "Godzilla" would prove to be such a flop? With a three month lead-time, America's pre-eminent futurists are bound to make a few wrong guesses. Putting Godzilla on their June cover, in anticipation that the over-budgeted lizard flick would live up to its hype, probably seemed like a good bet.
 

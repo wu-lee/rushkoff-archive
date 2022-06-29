@@ -36,8 +36,6 @@ refs: '[{"text"=>"same thing in the US", "original"=>"http://www.fastcompany.com
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:12.000Z'
-updated_at: '2020-08-02T05:30:10.000Z'
 ---
 From the actions of the Egyptian government to the policies of Facebook, the monopolies of central banks to the corporatization of the Internet, we are witnessing the potential of a peer-to-peer networking become overshadowed by the hierarchies of the status quo. It's time for us to gather and see what is still possible on the net, and what, if anything, can be built to replace it.
 

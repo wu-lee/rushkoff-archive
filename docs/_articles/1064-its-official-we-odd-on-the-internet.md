@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1400/1*LqgR-FLqSWwKFZTNgO0K6A.jpeg
-created_at: '2021-09-07T18:25:25.000Z'
-updated_at: '2021-09-07T18:25:25.000Z'
 ---
 When I was in high school, I was in a play where I got to smoke cigarettes. I say “got to” because back then I was something of a nerd (before nerds were cool) and loved the idea of jocks and other popular kids spying the foil lining of my artfully positioned Marlboro softpack sticking out of my jeans jacket pocket.
 

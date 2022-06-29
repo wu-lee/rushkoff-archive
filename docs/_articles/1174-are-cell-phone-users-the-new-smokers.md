@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:26:57.000Z'
-updated_at: '2021-09-30T18:26:57.000Z'
 ---
 If the newest etiquette surveys are any indication, mobile phones may be going the way of the cigarette.
 

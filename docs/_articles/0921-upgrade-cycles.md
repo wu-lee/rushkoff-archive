@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 We're supposed to be in favor of innovation. It's a form of evolution. Then why is every new version of software or upgrade of processor feeling like such a drag?
 

@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 Do reality TV and webcams indicate the future of media? Shows like Survivor, its countless clones, and the thousands of voyeuristic web sites springing up online all point to an alarming trend: we have become more interested in watching real people than crafted entertainments like television drama and movies.
 

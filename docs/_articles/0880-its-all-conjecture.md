@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 All it took was one big flashy article calling me a "high-paid futurist" in the New York Times Business section to spoil my last week of 1996.
 

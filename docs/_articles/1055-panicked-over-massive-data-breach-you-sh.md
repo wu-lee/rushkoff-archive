@@ -10,8 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-12-02T14:31:01.000Z'
-updated_at: '2020-12-02T14:31:36.000Z'
 ---
 The Obama administration has admitted, painfully, that the recent hack of government agencies' personnel files may have put at least 21.5 million government background checks -- including those seeking top security clearance -- in the hands of Chinese hackers. It's as if our efforts to make ourselves safe by investigating people and storing that data have become our greatest vulnerability.
 

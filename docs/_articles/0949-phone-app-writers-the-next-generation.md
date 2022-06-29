@@ -55,8 +55,6 @@ refs: '[{"text"=>"Interactive Telecommunications Program", "original"=>"http://i
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:16.000Z'
-updated_at: '2020-08-02T04:07:17.000Z'
 ---
 Last year, it was Dodgeball. What do this year's students have in store for the mobile phone?
 

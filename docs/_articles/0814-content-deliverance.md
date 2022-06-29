@@ -19,8 +19,6 @@ refs: '[{"text"=>"Mark Hurst", "original"=>"http://www.creativegood.com/", "arch
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:13.000Z'
-updated_at: '2020-08-02T00:44:13.000Z'
 ---
 Content Management is for losers. Young people may have discovered the dark truth about digital media: the person who wins the right to store a piece of data has actually won the booby prize.
 

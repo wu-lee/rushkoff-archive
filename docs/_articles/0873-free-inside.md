@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 Back in the days when my dad was a kid, he'd get a free baseball card in every pack of bubble gum. It was a marketing gimmick on the order of a free toy whistle inside a box of Cap'n Crunch. But it eventually served to turn the bubble gum industry on its head.
 

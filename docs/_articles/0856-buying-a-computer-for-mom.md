@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 I've been avoiding this moment for a long time. But eventually, I knew I'd have to deal with it.
 

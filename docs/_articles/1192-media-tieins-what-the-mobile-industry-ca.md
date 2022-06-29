@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:57:25.000Z'
-updated_at: '2021-09-30T18:57:25.000Z'
 ---
 
 The stories, games, and characters driving youth culture can also drive the uptake of communications technologies.

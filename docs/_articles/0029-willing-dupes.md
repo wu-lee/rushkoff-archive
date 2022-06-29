@@ -10,8 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:43:53.000Z'
-updated_at: '2020-08-02T02:19:38.000Z'
 ---
 There's two kinds of people asking me about the economy lately: people with money wanting to know how to keep it “safe,” and people without money, wanting to know how to keep safe, themselves.
 

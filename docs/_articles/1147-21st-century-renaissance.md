@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T17:40:47.000Z'
-updated_at: '2021-09-30T17:40:47.000Z'
 ---
 Today’s renaissance makes us feel that our self-expression matters, too.
 

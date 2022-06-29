@@ -11,8 +11,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:16.000Z'
-updated_at: '2020-08-02T03:52:57.000Z'
 ---
 I first encountered Sarah Sze - whom I hadn't yet heard of - at a cocktail party in New York. She was about to leave for Paris to do an installation "with ladders."
 

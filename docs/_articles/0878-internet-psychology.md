@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 Is the Internet a source of psychological problems, or does it provide a cure? For every book or article I read about the detrimental effects of spending time online, I now see another listing sites where people can turn for psychological counseling.
 

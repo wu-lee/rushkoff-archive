@@ -10,8 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:11.000Z'
-updated_at: '2020-08-02T03:23:43.000Z'
 ---
 I generally feel guilty about stuff. Sometimes I blame that on my being Jewish — other times I accept that it's just me. Maybe that’s why the latest round of somewhat justified Israel bashing, as well as the utterly unjustified Jew-bashing that’s going along with it, has been keeping me up at night. Try as I might, I don’t seem able to extricate myself from Israel anymore.
 

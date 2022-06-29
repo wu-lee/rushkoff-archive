@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-13T17:08:52.000Z'
-updated_at: '2021-09-13T17:08:52.000Z'
 ---
 "This is going to change everything,” Timothy Leary told me as he took off his bulky headset and pulled an electronic glove from his right hand. It was the early 1990s, at a rave club in San Francisco. The famed psychologist and popularizer of psychedelic drugs had ventured into virtual reality for the first time, and he was reeling. At last, a technology capable of taking humanity to the next stage of consciousness and communication.
 

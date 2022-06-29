@@ -17,8 +17,6 @@ refs: '[{"text"=>"Douglas Rushkoff", "original"=>"http://www.rushkoff.com/", "ar
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 So how do the owners of handheld wireless devices take over the world? Easy. By using them.
 

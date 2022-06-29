@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-10T13:24:40.000Z'
-updated_at: '2021-09-10T13:24:43.000Z'
 ---
 So in spite of its interactive patina, the digital economy continues the industrial practice of preventing real people from participating in the growth economy – at least as its beneficiaries. We still get to work and we still end up living and socializing on a landscape that feels much more like business than pleasure. There’s just no money. 
 

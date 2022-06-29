@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-10T13:49:48.000Z'
-updated_at: '2022-03-29T13:26:41.000Z'
 ---
 We have to stop looking at our economy as a broken system, but one that is working absolutely true to its original design. It’s time to be progressive — and this means initiating systemic changes.
 

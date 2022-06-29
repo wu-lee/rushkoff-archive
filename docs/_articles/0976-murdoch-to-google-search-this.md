@@ -21,7 +21,5 @@ refs: '[{"text"=>"more at the Daily Beast", "original"=>"http://www.thedailybeas
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T02:59:01.000Z'
-updated_at: '2020-08-02T02:59:01.000Z'
 ---
 [more at the Daily Beast](http://www.thedailybeast.com/blogs-and-stories/2009-11-09/murdoch-to-google-search-this/full/)

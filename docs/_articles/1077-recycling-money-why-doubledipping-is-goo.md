@@ -9,8 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-created_at: 2021-09-10T13:19:11.000Z
-updated_at: 2021-09-10T13:19:19.000Z
 
 ---
 Wouldn’t you like to earn the same dollar twice? It may sound crazy - or even illegal - but it’s actually the secret to success in the new normal: invest and spend in people and enterprises who will end up giving you back the money, one way or the other. 

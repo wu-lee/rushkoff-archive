@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1400/1*BPI4Y4ueKcraRYPx3MzXWg.jpeg
-created_at: '2021-09-07T18:13:53.000Z'
-updated_at: '2021-09-07T18:13:53.000Z'
 ---
 Almost everyone seems to think last night’s debate was so much better than the first. To me, that’s a bit like saying having a stroke is much better than suffering a heart attack. It’s not. Even if it’s less painfully dramatic to watch, the damage is the same — or, in this case, actually worse.
 

@@ -9,8 +9,6 @@ notes: Pasted from https://rushkoff.com/social-media-and-the-perils-of-looking-f
 refs: ''
 sources: ''
 img: ''
-created_at: 2022-06-27 00:00:00 -0400
-updated_at: 2022-06-27 00:00:00 -0400
 
 ---
 Ask teens the object of social media, and they’ll all tell you the same thing: to get “likes.” Whether on Facebook, Twitter, Instagram or Tumblr, young users understand the coin of this realm, and are more than happy to do what is necessary to accumulate it. But is the currency value neutral, or does it come with an agenda of its own?

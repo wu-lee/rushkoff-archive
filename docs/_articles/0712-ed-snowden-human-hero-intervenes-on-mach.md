@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:10.000Z'
-updated_at: '2020-08-02T03:05:16.000Z'
 ---
 When I was a kid, I remember a guy named Daniel Ellsberg leaking some classified documents to the New York Times about the Vietnam War called “the Pentagon Papers.” When the whistleblower finally stood trial for espionage, my parents weren't quite sure how to feel. But when Richard Nixon's crew was revealed to have been conducting illegal wiretaps in an effort to discredit the former intelligence contractor, well, they were outraged and decided Ellsberg was a hero. So did the judge and most of America.
 

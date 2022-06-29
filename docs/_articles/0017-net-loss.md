@@ -11,8 +11,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:43:52.000Z'
-updated_at: '2020-08-02T02:20:06.000Z'
 ---
 I'm a bit down on the Internet these days.
 

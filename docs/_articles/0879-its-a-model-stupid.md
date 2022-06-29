@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 Computers are modeling systems. Good ones. So good, in fact, that it's easy to forget the worlds they create are not worlds at all, but models.
 

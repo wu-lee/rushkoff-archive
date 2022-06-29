@@ -11,8 +11,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T05:07:09.000Z'
-updated_at: '2020-08-02T05:07:09.000Z'
 ---
 We may come to remember this decade as the one when human beings finally realized we are up against something. We’re just not quite sure what it is.
 

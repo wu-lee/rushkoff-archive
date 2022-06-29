@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 When I was in junior high school, teachers would show us 16mm films about frogs, foreign cultures, and the force of friction. These films were once-a-week treats for all of us. The teacher got a free babysitter and an opportunity to grade some papers. We kids got to take a nap, pass around notes, or space out at the colors on the screen and the sound of the projector motor.
 

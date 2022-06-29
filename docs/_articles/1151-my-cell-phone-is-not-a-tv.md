@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T17:55:13.000Z'
-updated_at: '2021-09-30T17:55:13.000Z'
 ---
 
 The wireless industry’s insistence on bringing the wrong media to our cell phones may cost us – and them – the whole game.

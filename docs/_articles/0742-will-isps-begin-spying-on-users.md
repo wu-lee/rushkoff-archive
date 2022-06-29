@@ -18,8 +18,6 @@ refs: '[{"text"=>"your Internet service provider may begin monitoring your accou
 sources: 
 published: true
 img: "../../../../storage/120705103111-rushkoff-online-monitoring-story-top-__SQUARESPACE_CACHEVERSION=1341593455198.jpeg"
-created_at: '2020-08-02T00:44:11.000Z'
-updated_at: '2020-08-02T03:09:58.000Z'
 ---
 (CNN) -- This month, if everything goes according to schedule, your Internet service provider may begin monitoring your account, just to make sure you aren't doing anything wrong with it -- like sharing copyrighted movie or music files. While we might all agree that copyright holders need to be protected, we may not all be equally happy about all of our communications being checked for violations. People and businesses who are not doing anything illegal may still have some things they wish to hide from their Internet access providers.
 

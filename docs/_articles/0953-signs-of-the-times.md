@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:16.000Z'
-updated_at: '2020-08-02T05:00:40.000Z'
 ---
 When AOL bought Time Warner, the New York Times asked me to write a comment piece. "What does it all mean?" my assigning editor asked.
 

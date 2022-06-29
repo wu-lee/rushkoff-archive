@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-13T15:35:40.000Z'
-updated_at: '2021-09-13T15:35:40.000Z'
 ---
 Back in 2000, I was invited to appear at Richard Metzger’s famous counterculture festival, DisinfoCon, along with luminaries of the alternative scene like Joe Coleman, Robert Anton Wilson, The Girls of Karen Black, Marilyn Manson, Grant Morrison, Kembra Pfahler, and more. It was a crazy, boisterous, artsy, psychedelic, and rebellious celebration of the weird, the occult, and the odd, all presented under the tagline, “everything you know is wrong.”
 

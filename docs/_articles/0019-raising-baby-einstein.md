@@ -12,8 +12,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:43:52.000Z'
-updated_at: '2020-08-02T00:43:52.000Z'
 ---
 I thought parenthood would be an opportunity to unplug on a certain level. To disconnect from the consumerist pathology of the market and engage in the most intimate and natural process available to human beings. There's something going on between father, mother, and baby that no expert, no marketer, and no website can touch. Isn't there?
 

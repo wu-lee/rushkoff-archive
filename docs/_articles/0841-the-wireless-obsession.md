@@ -12,8 +12,6 @@ refs: '[{"text"=>"crazy conference", "original"=>"http://www.thefeature.com/arti
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:13.000Z'
-updated_at: '2020-08-02T00:44:13.000Z'
 ---
 Are there times when going wireless is just plain pointless? Rushkoff's extended battle with Wireless Obsessive Dissorder.
 

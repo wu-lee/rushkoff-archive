@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:36:19.000Z'
-updated_at: '2021-09-30T18:36:19.000Z'
 ---
 Marko Ahtisaari wants the wireless industry to embrace its users as developers.
 

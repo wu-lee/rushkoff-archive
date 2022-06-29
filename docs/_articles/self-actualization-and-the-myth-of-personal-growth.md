@@ -8,8 +8,6 @@ notes: Pasted from https://medium.com/team-human/self-actualization-and-the-myth
 refs: ''
 sources: ''
 img: https://miro.medium.com/max/700/1*v9HemPwwVje3s8AoOgyCLg.jpeg
-created_at: 2022-06-28 00:00:00 -0400
-updated_at: 2022-06-28 00:00:00 -0400
 
 ---
 Many Westerners have come to understand the problems inherent in a society obsessed with growth and have struggled to assert a more timeless set of spiritual sensibilities. But, almost invariably, such efforts get mired in our ingrained notions of personal growth, progress, and optimism.

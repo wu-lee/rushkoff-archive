@@ -20,8 +20,6 @@ refs: '[{"text"=>"Nokia''s Insight and Foresight", "original"=>"http://www.nokia
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:13.000Z'
-updated_at: '2020-08-02T00:44:13.000Z'
 ---
 Marko Ahtisaari wants the wireless industry to embrace its users as developers.
 

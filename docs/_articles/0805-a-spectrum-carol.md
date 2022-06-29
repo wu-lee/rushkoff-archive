@@ -54,8 +54,6 @@ refs: '[{"text"=>"Federal Register", "original"=>"http://edocket.access.gpo.gov/
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:13.000Z'
-updated_at: '2020-08-02T00:44:13.000Z'
 ---
 Yes, it's holiday time, so here's a true legend from the early days of wireless data.
 

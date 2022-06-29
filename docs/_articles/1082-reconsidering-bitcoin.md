@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-10T13:34:15.000Z'
-updated_at: '2021-09-10T13:34:15.000Z'
 ---
 The famous Winklevoss twins are back. In case you missed the movie The Social Network, they’re the Harvard frat boys who first hired Mark Zuckerberg to develop a social network before getting shut out of Facebook, themselves. They were right about the future of social networking, even if they weren’t the ones to implement it, and they made millions in the followup lawsuit. And now - again from the sidelines - they’re placing a bet on another emerging digital technology: Bitcoin. 
 

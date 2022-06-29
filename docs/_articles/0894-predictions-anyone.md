@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 As a writer who openly and on record detests futurists of almost all breeds, I thought it might be fitting to close out 1998 with a list of predictions of my own. As you'll see, each of these 10 prophecies for 1999 is part of a pair equal and, in most cases, opposite counter-prophecies. For the more things change, the more they stay the same.
 

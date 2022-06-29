@@ -36,8 +36,6 @@ refs: '[{"text"=>"", "original"=>"http://www.amazon.com/exec/obidos/ASIN/1400066
 sources: 
 published: true
 img: http://cdn.thedailybeast.com/content/dailybeast/articles/2009/06/08/how-i-became-an-enemy-of-the-people/_jcr_content/body/image_1.img.503.jpg/1337256000000.cached.jpg
-created_at: '2020-08-02T02:59:01.000Z'
-updated_at: '2020-08-02T02:59:01.000Z'
 ---
 Yes, I had gotten mugged at gunpoint, and yes, I was now talking trash about my neighborhood. But the real crime—the one that couldn't be forgiven by the likes of New York magazine—was that I might be threatening to help push artificially elevated real-estate prices off a precipice they were nearing all by themselves. As a defamer of the market at the height of its fascist mania, I had rendered myself an enemy of the people.
 

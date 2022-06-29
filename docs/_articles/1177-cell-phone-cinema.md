@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:34:23.000Z'
-updated_at: '2021-09-30T18:34:23.000Z'
 ---
 Lights, camera, compression! The new world of bite-sized video.
 

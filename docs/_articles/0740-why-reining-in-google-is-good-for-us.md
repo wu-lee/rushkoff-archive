@@ -52,8 +52,6 @@ refs: '[{"text"=>"challenging", "original"=>"http://www.nytimes.com/2012/04/28/t
 sources: 
 published: true
 img: "../../../../storage/google-__SQUARESPACE_CACHEVERSION=1379079599480.jpg"
-created_at: '2020-08-02T00:44:11.000Z'
-updated_at: '2020-08-02T00:44:11.000Z'
 ---
 *Google is in the cross hairs as the Federal Trade Commission and European Commission are challenging the firm's monopoly.*
 

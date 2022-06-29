@@ -15,8 +15,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T02:59:01.000Z'
-updated_at: '2020-08-02T04:27:33.000Z'
 ---
 In a sense, Google is just bringing computing back to the way it was supposed to be.
 

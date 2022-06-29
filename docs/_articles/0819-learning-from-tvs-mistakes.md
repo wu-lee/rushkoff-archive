@@ -12,8 +12,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:13.000Z'
-updated_at: '2020-08-02T00:44:13.000Z'
 ---
 Today's advertising crisis needn't threaten mobile content at all. In fact, the mobile industry can exploit the coming shift in media buying patterns to establish itself firmly in the emerging landscape.
 

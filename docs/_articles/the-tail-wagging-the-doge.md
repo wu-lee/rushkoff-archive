@@ -9,8 +9,6 @@ notes: ''
 refs: ''
 sources: ''
 img: https://miro.medium.com/max/1400/0*ztja6yNToIZgr7Xx
-created_at: 2022-06-21 00:00:00 -0400
-updated_at: 2022-06-21 00:00:00 -0400
 
 ---
 One of the most common questions I’ve been getting this week is from young investors (they wouldn’t call themselves investors, but they are) wondering why their crypto holdings are going down as fast or faster than the stock market.

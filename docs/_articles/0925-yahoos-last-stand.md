@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 We may never know exactly who perpetrated the string of attacks on the World Wide Web's most trafficked sites this week. It could have been international terrorists attempting to destabilize NASDAQ, or even a shady Internet security firm hoping to create a market for its own services. But it's certainly easy enough to understand the motives for such an outbreak of cyber-sabotage in the context of today's widespread resentment towards the corporations who have commandeered the Internet.
 

@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:17.000Z'
-updated_at: '2020-08-02T03:42:50.000Z'
 ---
 I saw a bumper sticker on a minivan in Wisconsin last week that read: "In case of rapture, this car will be empty!" I suppose that means that my car shall remain occupied. But I am less troubled by the supposed inevitability of my damnation than the delight with which those Milwaukee passengers seemed to be anticipating Armageddon. They're looking forward to the apocalypse!
 

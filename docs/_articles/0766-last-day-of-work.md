@@ -36,8 +36,6 @@ refs: '[{"text"=>"Douglas Rushkoff", "original"=>"http://rushkoff.com/", "archiv
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:12.000Z'
-updated_at: '2020-08-02T05:28:22.000Z'
 ---
 *In the latest entry in our Shareable Futures sci-fi series, [Douglas Rushkoff](http://rushkoff.com/) envisions a future in which technology is a partner, and work and money are a thing of the past. Past installments of the Shareable Futures series [can be found here](http://www.shareable.net/blog/shareable-futures).* 
 

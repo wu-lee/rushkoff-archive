@@ -15,8 +15,6 @@ refs: '[{"text"=>"Open Source Democracy", "original"=>"http://www.demos.co.uk/ca
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:16.000Z'
-updated_at: '2020-08-02T04:07:31.000Z'
 ---
 Does politics by thumb - via the culture of MTV - enhance democracy, or reduce it to a marketing survey?
 

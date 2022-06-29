@@ -28,8 +28,6 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   systems were down, but ...", "dateLastCrawled"=>"2020-07-20T08:38:00.0000000Z"}]'
 published: true
 img: 
-created_at: '2020-08-02T00:44:10.000Z'
-updated_at: '2020-08-02T03:16:51.000Z'
 ---
 In the past, people seemed to require a massive "cue" to form a mob. The New York blackouts of the summer of 1977 resulted in citywide looting, not just because alarm systems were down, but because a whole lot of hot, angry, frustrated people had an excuse to act en masse. Likewise, the verdict on the Rodney King trial served as a spark, synchronizing simultaneous explosions of mob behavior in a dozen North American cities.
 

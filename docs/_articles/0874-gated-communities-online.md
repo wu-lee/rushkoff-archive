@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 Throughout the United States, huge billboards with a large Netscape-style pointing finger herald the launch of Microsoft Network. Well, actually the re-launch of Microsoft Network, or MSN.
 

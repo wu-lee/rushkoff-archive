@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-13T16:56:25.000Z'
-updated_at: '2021-09-13T16:56:25.000Z'
 ---
 Noindictment? No collusion? In the wake of the Mueller investigation report this week, many of my progressive friends are reliving the trauma of election night. This can’t be true. It can’t have happened.
 

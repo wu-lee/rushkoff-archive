@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-13T15:27:16.000Z'
-updated_at: '2021-09-13T15:27:16.000Z'
 ---
 Dear Google Employees,
 

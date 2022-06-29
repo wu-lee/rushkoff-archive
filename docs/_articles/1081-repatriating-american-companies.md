@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-10T13:31:36.000Z'
-updated_at: '2021-09-10T13:31:36.000Z'
 ---
 I got a call from the CEO of what he called “an American television brand,” asking me to help him bring his company’s communications strategy into the 21st Century. “I want to get us on the social networks. Be less dependent on advertising and become a truly transparent company.” 
 

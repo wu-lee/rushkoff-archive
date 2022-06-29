@@ -28,8 +28,6 @@ refs: '[{"text"=>"Mark Zuckerberg''s announcement", "original"=>"http://hothardw
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:11.000Z'
-updated_at: '2020-08-02T03:07:42.000Z'
 ---
 Facebook's latest defense of the mental distraction it creates for its users? It's not a bug, it's a feature!
 

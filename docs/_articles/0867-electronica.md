@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 What do you think of when you hear the word "cyberculture?" The most popular answers I received in my informal poll this week were:
 

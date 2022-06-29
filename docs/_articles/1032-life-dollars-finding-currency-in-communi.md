@@ -9,8 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-created_at: 2020-08-02T07:11:34.000Z
-updated_at: 2020-08-02T07:11:34.000Z
 
 ---
 The recent financial meltdown may not be punishment for our sins, but it is at least in part the result of our widespread obsession with financial value over values of any other sort.

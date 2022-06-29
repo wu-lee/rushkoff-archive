@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:17.000Z'
-updated_at: '2020-08-02T04:13:44.000Z'
 ---
 So just who is allowed to participate in the conversation that is Judaism, anyway? Is it a blood test, a history of contributions to the right philanthropies, or a working knowledge of the Talmud that earns one a place at the table?
 

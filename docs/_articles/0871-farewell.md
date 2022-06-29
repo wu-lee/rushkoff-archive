@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 Everything really is going to be just fine. Not spectacular, but not disastrous, either. The handholding I've been doing for the past five years can end. It's time to free up this newspaper space for some news.
 

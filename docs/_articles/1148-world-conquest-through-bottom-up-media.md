@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T17:41:33.000Z'
-updated_at: '2021-09-30T17:41:33.000Z'
 ---
 
 So how do the owners of handheld wireless devices take over the world? Easy. By using them.

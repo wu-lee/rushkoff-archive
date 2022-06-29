@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-13T15:20:05.000Z'
-updated_at: '2021-09-13T15:20:05.000Z'
 ---
 Nobody cares about how we got here. They just want solutions for how to get out of the trap. CEOs are struggling to create value for corporations programmed only to accumulate more capital, drain local economies, and externalize the costs.
 

@@ -22,8 +22,6 @@ refs: '[{"text"=>"Cyberia", "original"=>"http://www.rushkoff.com/cyberia.html", 
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:16.000Z'
-updated_at: '2020-08-02T04:17:58.000Z'
 ---
 I've gotten more email than I want to count asking me about Flash Mobs. And phone calls from countless journalists from countless local papers, all charged with writing something about these spontaneous cell-inspired gatherings.
 

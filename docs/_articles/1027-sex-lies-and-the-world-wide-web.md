@@ -10,8 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T06:55:39.000Z'
-updated_at: '2020-08-02T06:55:39.000Z'
 ---
 Bill Clinton’s impeachment, if and when it comes, will not herald a crisis of Constitution but a crisis of media. Brilliant exploitation of television may have won this president his office, but he must blame his downfall on an inability to resist the impact of another, newer medium: the Internet.
 

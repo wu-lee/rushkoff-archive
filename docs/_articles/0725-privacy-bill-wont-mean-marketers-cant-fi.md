@@ -16,8 +16,6 @@ refs: '[{"text"=>"John Kerry and John McCain proposed this week", "original"=>"h
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:10.000Z'
-updated_at: '2020-08-02T03:15:23.000Z'
 ---
 With their "Commercial Privacy Bill of Rights Act of 2011," John Kerry and John McCain proposed this week to limit the sale and sharing of our sensitive information between companies. It's a quaint idea, even a good one, but overestimates government's ability to reverse the way marketers have worked for almost a century.
 

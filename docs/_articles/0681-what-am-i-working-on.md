@@ -47,8 +47,6 @@ refs: '[{"text"=>"NYU''s Interactive Telecommunications Program", "original"=>"h
 sources: 
 published: false
 img: http://www.blogger.com:80/img/icon18_email.gif
-created_at: '2020-08-02T00:44:09.000Z'
-updated_at: '2020-08-02T00:44:09.000Z'
 ---
 1\\. A new book on fun - doing things, particularly in one's profession or organization, for meaning rather than profit. Getting beyond survival as a motivation, if you're no longer truly fighting for survival - and this is made so hard in our culture.
 2\\. A new Frontline documentary, tentatively entitled Consumer Democracy. We start shooting today. It's about advertising, marketing, and public relations, and how they have come to shape American democracy.

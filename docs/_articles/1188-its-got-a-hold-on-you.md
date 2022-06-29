@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:50:14.000Z'
-updated_at: '2021-09-30T18:50:29.000Z'
 ---
 The mobile phones in our hands may have a more totemic role in our lives than we suspect.
 

@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 I've received a lot of email from people supporting my attempts to reach some clarity (mostly on the media-squatters discussion list) while avoiding any particular pole of fundamentalism or extremism. And I've received many critical emails from all 'sides' of this catastrophe.
 

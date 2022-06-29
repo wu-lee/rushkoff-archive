@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:16:57.000Z'
-updated_at: '2021-09-30T18:16:57.000Z'
 ---
 New services allow users to fake the background sounds and appearance of their locations -- all because interactive media really wants us to be more honest.
 

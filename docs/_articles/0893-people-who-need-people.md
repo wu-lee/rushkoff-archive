@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 Now, personally, I've got nothing against Leonardo DiCaprio. Still, I can't help but delight in his devastating loss for *People* Magazine's annual "Most Beautiful People" award to a man called "Hank, the Angry Drunken Dwarf." By a margin of about ten to one, visitors to *People*'s website voted for the essentially unknown diminutive demon over the angelic adolescent and a few dozen of his fabulous fellows.
 

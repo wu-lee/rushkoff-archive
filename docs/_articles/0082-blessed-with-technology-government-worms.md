@@ -27,8 +27,6 @@ refs: '[{"text"=>"Flame virus", "original"=>"http://money.cnn.com/2012/05/30/tec
 sources: 
 published: true
 img: http://i2.cdn.turner.com/cnn/dam/assets/120530054205-black-russia-flame-malware-00013521-story-body.jpg
-created_at: '2020-08-02T00:43:54.000Z'
-updated_at: '2020-08-02T03:03:27.000Z'
 ---
 **(CNN)** -- The recently discovered [Flame virus](http://money.cnn.com/2012/05/30/technology/flame-virus/index.htm) bears all the hallmarks of a cyberattack concocted by a nation-state. It's big and complex and pointed directly at a geopolitical hot zone, Iran.
 

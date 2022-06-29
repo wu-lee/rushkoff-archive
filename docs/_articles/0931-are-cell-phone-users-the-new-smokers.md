@@ -37,8 +37,6 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   not merely to accept but to accommodate their smoking peers.", "dateLastCrawled"=>"2020-05-19T21:29:00.0000000Z"}]'
 published: false
 img: 
-created_at: '2020-08-02T00:44:16.000Z'
-updated_at: '2020-08-02T04:05:02.000Z'
 ---
 If the newest etiquette surveys are any indication, mobile phones may be going the way of the cigarette.
   

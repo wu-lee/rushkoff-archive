@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 "What's with this Internet?" an old friend called to ask me late one night last week. "I mean I know it's a big deal and all," she admitted, "but this is crazy!"
 

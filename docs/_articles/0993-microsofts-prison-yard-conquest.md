@@ -13,8 +13,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T02:59:01.000Z'
-updated_at: '2020-08-02T02:59:01.000Z'
 ---
 Now, Microsoft and Yahoo are teaming up protect their brands and their shareholders against the unstoppable force that is Google. In doing so, both companies are demonstrating a willingness to change what they are on the most fundamental level, in order to survive. Yahoo search will now be licensed to Microsoft's Bing. Microsoft gets access to Yahoo's search community, and Yahoo gets to focus on display ads and its still-popular content, finance, and social sites. So why were Yahoo's shares down 12 percent Wednesday, and Microsoft's up a bit?
 

@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 "They'll come at night -- especially if you've got an electric lamp glowing somewhere, a dead giveaway," warned one member of an online survivalist conference.
 

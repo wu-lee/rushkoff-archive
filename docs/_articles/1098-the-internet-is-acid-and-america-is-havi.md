@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-13T15:31:43.000Z'
-updated_at: '2021-09-13T15:31:43.000Z'
 ---
 t’s been 25 years since I first turned the manuscript of my first book, Cyberia: Life in the Trenches of Hyperspace, to the publisher. Well, 27 years if you count the first publisher, which canceled the book because they thought the internet would be “over” by the time the book was to be released in 1993.
 

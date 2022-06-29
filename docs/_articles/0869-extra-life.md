@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 Those of us who can remember writing BASIC programs in makeshift high school "computer labs" no longer need to think of ourselves as nerds. We're simply old.
 

@@ -13,8 +13,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T02:59:01.000Z'
-updated_at: '2020-08-02T04:27:25.000Z'
 ---
 If today's announcement of a Google-Verizon partnership plays out as planned, that's a tradeoff we won't have to make anymore.
 

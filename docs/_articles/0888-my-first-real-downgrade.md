@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 Never, ever, respond to an email advertisement again. You'll be doing yourself and the rest of us trying to work or play on the Internet a big favor.
 

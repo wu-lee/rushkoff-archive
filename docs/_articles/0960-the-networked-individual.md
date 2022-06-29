@@ -16,8 +16,6 @@ refs: '[{"text"=>"Buckminster Fuller", "original"=>"http://www.bfi.org/operating
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:16.000Z'
-updated_at: '2020-08-02T04:07:58.000Z'
 ---
 The cell phone may be bringing us into a new renaissance, but it may end up differently than what we're expecting. Instead of becoming more empowered as individuals, we may give up on the notion of individuality altogether.
 

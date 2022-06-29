@@ -17,8 +17,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T02:59:01.000Z'
-updated_at: '2020-08-02T02:59:01.000Z'
 ---
 It’s an extremely dangerous game for Microsoft, which is effectively amputating its most profitable businesses in order to retain its share of the market.
 

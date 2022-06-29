@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:11.000Z'
-updated_at: '2020-08-02T04:42:07.000Z'
 ---
 We thought they had ended over 40 years ago, but Stanley Milgram's infamous psychology experiments are back—in a crueler and more public form than he ever devised.
 

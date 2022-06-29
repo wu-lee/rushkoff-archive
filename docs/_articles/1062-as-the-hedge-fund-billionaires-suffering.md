@@ -9,8 +9,6 @@ notes:
 refs: 
 sources: 
 img: https://miro.medium.com/max/1400/1*3wyg7DCcXwr6woNC7n6EPg.jpeg
-created_at: 2021-09-07T18:20:52.000Z
-updated_at: 2021-09-07T18:20:52.000Z
 
 ---
 As the hedge fund billionaires suffering catastrophic losses in the r/WallStreetBets activist campaign now realize, we reap what we sow. Even more so in a digital age.

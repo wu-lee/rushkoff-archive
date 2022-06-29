@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 As millions in America sat down to their Thanksgiving turkey dinners last week, we celebrated a shamelessly mythologized reconstruction of our continent's history. According to the well-ingrained but now-disputed legend, the pilgrims' first Thanksgiving was communal in spirit, a demonstration of the debt they owed the native Americans who taught them how to survive in a new and hostile environment.
 

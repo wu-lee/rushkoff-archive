@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-13T15:30:04.000Z'
-updated_at: '2021-09-13T15:30:04.000Z'
 ---
 On October 23, 1863, when the expected apocalypse failed to occur, an estimated 100,000 followers of breakaway Christian prophet William Miller descended from their rooftops in what the mainstream media assumed would be disgrace and embarrassment. “When the world stubbornly refused to come to an end last Spring,” a condescending Pennsylvania Statesmen mused, “notwithstanding the ingenious and elegant calculations of Mr. Miller, we indulged in the hope that the whole affair would be laid on the table, or indefinitely postponed.”
 

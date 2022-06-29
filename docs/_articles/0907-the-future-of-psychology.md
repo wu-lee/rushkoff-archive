@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 Imagine a whole society going into therapy. No, not thousands of neurotic New Yorkers sitting on couches, but an entire culture seeking psychological counseling. It might not be so outlandish a possibility.
 

@@ -10,8 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T07:25:15.000Z'
-updated_at: '2020-08-02T07:25:15.000Z'
 ---
 The New York Times recently launched a new technology section with an ad campaign that asked: Are you a technophile or a technophobe? As far as we can tell we're neither--or maybe both. And we're not alone. Although most commentary about the Internet and other innovations is replete with either breathless hype or doomsday talk, a silent majority finds such extremism inconsistent with its own experience and beliefs. At least, that's the claim made by those giving this perspective a name: technorealism.
 

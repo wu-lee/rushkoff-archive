@@ -10,8 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:43:52.000Z'
-updated_at: '2020-08-02T02:16:11.000Z'
 ---
 I've been trying to figure out exactly why President Obama’s approach to the economic crisis upsets me so much, so regularly, and I think I figured it out.
 

@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 I hate ads, I hate things that flash at me, and I hate to wait. That's why I've gone into the "preferences" menus in my Web browser and turned off the pictures altogether. I'd rather have no pictures at all than spend my time and money on obnoxious banners.
 

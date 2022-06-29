@@ -9,8 +9,6 @@ notes: Pasted from https://www.cnn.com/2011/10/05/opinion/rushkoff-occupy-wall-s
 refs: ''
 sources: ''
 img: https://media.cnn.com/api/v1/images/stellar/prod/111004103034-rushkoff-occupy-wall-street.jpg?q=x_0,y_3,h_1458,w_2592,c_crop/h_720,w_1280
-created_at: 2022-06-27 00:00:00 -0400
-updated_at: 2022-06-27 00:00:00 -0400
 
 ---
 Like the spokesmen for Arab dictators feigning bewilderment over protesters’ demands, mainstream television news reporters finally training their attention on the growing Occupy Wall Street protest movement seem determined to cast it as the random, silly blather of an ungrateful and lazy generation of weirdos. They couldn’t be more wrong and, as time will tell, may eventually be forced to accept the inevitability of their own obsolescence.

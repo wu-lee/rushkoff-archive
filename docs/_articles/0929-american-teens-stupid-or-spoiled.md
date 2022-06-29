@@ -11,8 +11,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:16.000Z'
-updated_at: '2020-08-02T04:17:29.000Z'
 ---
 I hadn't been to Europe for close to a year, and have to admit I was surprised, even inspired by the speed with which young people are upgrading their handheld wireless devices over there. As I strolled the streets of many a London neighborhood, I saw kids taking photos, shooting video, sending real email (not just text messages or sms, but genuine internet mail), and even mo-blogging, nearly everywhere I looked.
 

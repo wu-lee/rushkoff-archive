@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:16.000Z'
-updated_at: '2020-08-02T06:31:34.000Z'
 ---
 Today, at their annual conference, the United Jewish Communities had planned to release a new $6 million population study. In the past, these studies, issued every 10 years, have warned American Jews that they are ever more imperiled by an aging population, rampant intermarriage, low birth rates and declining synagogue membership.
 

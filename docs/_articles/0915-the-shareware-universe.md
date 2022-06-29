@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 Some people are getting tired of my anti-business tirades. Mostly businesspeople, in fact -- or developers and journalists trying to justify why they sold their souls to them. The argument they throw at me in emails, online forums, and my public speaking gigs is this: how can you hate a market-driven Internet when it's the market that's driving technological innovation, universal access, and competitive pricing?
 

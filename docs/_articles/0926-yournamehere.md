@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 What's in a name? When it comes to the Internet, more than meets the eye. A few select companies are making millions of dollars selling official Web site names to people and organizations around the world, and countless others are hoping to cash in buy "prospecting" names they think someone else might want to use in the future.
 

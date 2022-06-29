@@ -10,8 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:43:52.000Z'
-updated_at: '2020-08-02T02:15:58.000Z'
 ---
 The first time I worked with a computer, way back in high school in the late ’70s, there was no such thing as software. To use the terminal, I had to write my own code and then input it into the computer. Only then would the computer be a typewriter, a calculator, a psychiatrist, or an elevator controller. A computer was an “anything” machine. Moreover, everything I wrote and saved—my “content”—was accessible and changeable by anyone else on the system—unless I specifically ordered otherwise. Media was no longer fixed, it was changeable. Not only ownership, but also the notion of finality itself had become arbitrary—even artificial.
 

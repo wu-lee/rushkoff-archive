@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T17:27:11.000Z'
-updated_at: '2021-09-30T17:27:11.000Z'
 ---
 One algorithm makes you smaller, and one makes you tall. But the ones the FDA gives you won’t do anything at all – not without a prescription, anyway.
 

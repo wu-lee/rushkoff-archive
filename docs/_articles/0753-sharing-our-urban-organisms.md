@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:11.000Z'
-updated_at: '2020-08-02T04:37:48.000Z'
 ---
 Maybe it's my inner Brooklynite talking, but to me cities are natural phenomena: Ants make hills, bees make hives, humans make cities. Each of these colonies is a meta-organism, really. They all must survive by taking in resources and then figuring out what to do with the waste that comes out the other end. The most innovative organisms and communities figure out ways to recycle waste into raw material for more housing, new appendages, or further growth. The ability to exploit waste instead of drowning in it comes naturally to ants and bees, but it has proved tricky for us. Modern cities seem to be perpetually teetering at the brink of one crisis or another, be it chemical or microbial in origin. If the pollution doesn't get you, the influenza will. Still, such concerns pale in comparison to the survival challenges that cities used to face.
 

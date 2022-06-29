@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:54:45.000Z'
-updated_at: '2021-09-30T18:54:45.000Z'
 ---
 Mobile-enabled politics are still far from true networked solidarity -- and may do unaffiliated activists more harm than good.
 

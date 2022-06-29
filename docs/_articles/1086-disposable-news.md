@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-10T13:45:16.000Z'
-updated_at: '2021-09-10T13:45:44.000Z'
 ---
 I have become fascinated and concerned by the efforts of social media companies to become news services. Facebook, Twitter, and even Snapchat are now competing to be the way we find news stories. Is that because these companies are so very committed to making sure their users are informed? Does that have anything to do with the mandate (such as it is) of social media platforms?
 

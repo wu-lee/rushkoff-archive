@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:16.000Z'
-updated_at: '2020-08-02T03:35:48.000Z'
 ---
 The state and Federal officials accusing Microsoft of anti-competitive practices have found themselves in a precarious battle with two fronts. The Federal courts, as evidenced by Tuesday's appellate decision freeing Microsoft to bundle its Web browsing software with the Windows operating system, will need to be convinced that the company's newly integrated products violate any antitrust laws at all. And the court of public opinion will soon want proof that this enforcement of free-market capitalism will somehow make for a better digital future.  
 

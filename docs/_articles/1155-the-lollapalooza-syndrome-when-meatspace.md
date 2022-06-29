@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:04:57.000Z'
-updated_at: '2021-09-30T18:04:57.000Z'
 ---
 A mass gathering of wireless generation members doesn't necessarily mean a massive use of wireless technologies. On the contrary, the most wirelessly literate may know best when to switch off and enjoy the party.
 

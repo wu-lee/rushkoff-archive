@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:28:05.000Z'
-updated_at: '2021-09-30T18:28:05.000Z'
 ---
 Software for the next generation of wireless networks may forgo access to the Internet, and give users access to one another.
 

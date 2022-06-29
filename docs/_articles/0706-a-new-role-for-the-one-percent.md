@@ -15,8 +15,6 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   only natural that we look at the ...", "dateLastCrawled"=>"2020-04-29T23:48:00.0000000Z"}]'
 published: true
 img: 
-created_at: '2020-08-02T00:44:10.000Z'
-updated_at: '2020-08-02T03:17:10.000Z'
 ---
 (CNN) -- A whole lot of us are stuck with credit-card debt that goes up each month, mortgages worth more than our homes and student loans that extend into infinity. So it's only natural that we look at the debt crisis from the bottom up: from the perspective of the 99% who are getting screwed.
 

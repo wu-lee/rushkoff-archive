@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 "I'm getting a call, hold on," my friend explained before clicking off our phone conversation to check on the possibility of another.
 

@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1120/0*i2HL0kQXH-ZrxtlA
-created_at: '2021-09-07T18:37:30.000Z'
-updated_at: '2021-09-07T18:37:30.000Z'
 ---
 Asthose of us who were around will remember, Bitcoin emerged out of the same spirit as Occupy Wall Street. Those of us holding seminars about economic power in Zuccotti Park were thrilled by the possibility of a decentralized currency that could be authenticated in a peer-to-peer fashion instead of by some big bank. Bitcoin would break the monopoly of the Federal Reserve. And the love affair went both ways. Early Bitcoin enthusiasts made crypto donations to Occupy while many Occupiers lauded Bitcoin as an alternative to bank-issued central currency.
 

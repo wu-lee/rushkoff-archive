@@ -32,8 +32,6 @@ refs: '[{"text"=>"Radio Orphan Annie Secret Society", "original"=>"http://www.ra
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:16.000Z'
-updated_at: '2020-08-02T04:07:04.000Z'
 ---
 The stories, games, and characters driving youth culture can also drive the uptake of communications technologies.
 

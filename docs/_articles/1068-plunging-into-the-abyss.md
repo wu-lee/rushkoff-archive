@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1400/0*AnI7zP_1GAh8m17D
-created_at: '2021-09-07T18:32:43.000Z'
-updated_at: '2021-09-07T18:32:43.000Z'
 ---
 Itcomes in waves. A friend here, a co-worker there, getting curious about one conspiracy theory or another until they follow one too many trailheads, and end up over the edge. It’s a casualty of living in disorienting times, we tell ourselves. It will eventually pass.
 

@@ -27,8 +27,6 @@ refs: '[{"text"=>"Winnie the Pooh", "original"=>"http://www.fisher-price.com/us/
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:13.000Z'
-updated_at: '2020-08-02T00:44:13.000Z'
 ---
 Inserting a cell phone or an Airport in a fuzzy doll just won't cut it. It's time for toys to network.
 

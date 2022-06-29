@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:16.000Z'
-updated_at: '2020-08-02T03:30:34.000Z'
 ---
 I'm a Jew. Or, at least I was last time I checked.
 

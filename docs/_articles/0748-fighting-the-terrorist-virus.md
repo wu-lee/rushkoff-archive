@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:11.000Z'
-updated_at: '2020-08-02T04:38:27.000Z'
 ---
 As we watch our grandmothers drop toothpaste tubes into Transportation Security Administration trash bins before boarding planes this holiday season, we might reflect on whether something is wrong with our current model of national security. It doesn't take a military expert to see that a strategy of spot-checking for dangerous fluids or scanning international phone calls is a losing battle against a foe that can pop up literally anywhere.
 

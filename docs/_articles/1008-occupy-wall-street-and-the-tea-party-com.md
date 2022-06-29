@@ -10,8 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T05:09:26.000Z'
-updated_at: '2020-08-02T05:09:26.000Z'
 ---
 As America swells with Occupy Wall Street protests, pundits and politicians are still pretending to be confused by the whole thing. But the movement is as coherent an articulation of our economic problem as any I have seen in my lifetime. Unlike the Tea Party, who see themselves as the customers of government, people in the Occupy Wall Street movement understand that we are the government. Stated most simply, we are trying to run a 21st-century society on a 13th-century economic operating system. It just doesn't work.
 

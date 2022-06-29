@@ -9,8 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-created_at: 2020-08-02T06:21:55.000Z
-updated_at: 2020-08-02T06:21:55.000Z
 
 ---
 Just a year ago, proposing a concept like universal basic income could practically get me laughed off the stage at a tech industry conference. The idea that everyone should be guaranteed a minimum subsidy from the government seemed to go against every fundamental tenet of creative destruction: Don't reward the obsolete! Force people to evolve! If workers lose their jobs to automation, retrain them for new ones!

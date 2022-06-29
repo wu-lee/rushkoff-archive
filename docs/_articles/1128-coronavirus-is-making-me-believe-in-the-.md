@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-13T19:56:36.000Z'
-updated_at: '2021-09-13T19:56:36.000Z'
 ---
 Had South by Southwest not been canceled, I would have been giving a talk there this morning about fake news. I think they wanted me to get all worked up about the danger of deepfake videos, but I was having a hard time freaking myself out.
 

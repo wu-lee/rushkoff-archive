@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:11.000Z'
-updated_at: '2020-08-02T04:40:41.000Z'
 ---
 The undead are everywhere these days. The popular summer movie 28 Weeks Later pits them against the U.S. military. The comic series Marvel Zombies has them eating the Silver Surfer. The video game Dead Rising lets players attack them with weapons ranging from hockey pucks to shower heads. A recent CBS pilot, Babylon Fields, imagines what would happen if the undead tried to integrate back into their former lives.
 

@@ -21,8 +21,6 @@ refs: '[{"text"=>"Katsumi Ihara''s admission", "original"=>"http://www.thefeatur
 sources: 
 published: false
 img: photomem_files/elphsony.jfif
-created_at: '2020-08-02T00:44:13.000Z'
-updated_at: '2020-08-02T00:44:13.000Z'
 ---
 The cameraphone represents the latest step in a long evolution away from elevating and preserving moments, to capturing and disposing of them.
 

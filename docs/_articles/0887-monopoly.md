@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 The hubbub in concerned circles these days is that AOL-TimeWarner, and now Time-Warner-Elektra mergers herald a dangerous trend. The dark enemy at the heart of this nightmare scenario? Media Monopoly.
 

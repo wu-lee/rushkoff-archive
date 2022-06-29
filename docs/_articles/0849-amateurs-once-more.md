@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 The internet is for amateurs. No, that's not an insult, but high praise. "Amateurs," by definition, do what they do for the love of it. Because it's fun, social, enriching, transformational, evolutionary, or even just beautiful. Now that the investment community sees the net is seen as more of a lame duck than a cash cow, the only ones left out here (or the only ones that should be) are us amateurs.
 

@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:14:41.000Z'
-updated_at: '2021-09-30T18:14:41.000Z'
 ---
 
 The cameraphone represents the latest step in a long evolution away from elevating and preserving moments, to capturing and disposing of them.

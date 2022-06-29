@@ -33,8 +33,6 @@ refs: '[{"text"=>"banned a user for openly criticizing NBC''s coverage", "origin
   "favicon"=>"https://www.idgcdn.com.au/compressor-staticfiles/consumer/images/pcw/favicon.ico?release=20200730161603"}}]'
 sources: 
 img: 
-created_at: 2020-08-02T00:44:11.000Z
-updated_at: 2020-08-02T03:09:13.000Z
 
 ---
 (CNN) -- Twitter users are rightly aghast that the company on Sunday banned a user for openly criticizing NBC's coverage of the Olympics. After Guy Adams, a British newspaper reporter for The Independent, posted negative comments about NBC's tape-delayed Olympics coverage (including one executive's work e-mail for viewers to make complaints), Twitter alerted its business partner -- NBC -- and showed the network how to file a complaint capable of shutting down the offending user.

@@ -12,8 +12,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T02:59:01.000Z'
-updated_at: '2020-08-02T04:28:38.000Z'
 ---
 It seems the culprit is the latest software update, 3.1, which—to make it simple—has forced Apple to now admit that it never really was compatible with Microsoft Exchange's encryption protocols. Before, it simply acted like it was compatible, without ever doing the processor-intensive number-crunching to actually encrypt the Exchange data that it downloaded, as it promised it was doing. The iPhone worked with Exchange, that much is true. But it did so by pretending to do something it couldn't. Or now won't.
 

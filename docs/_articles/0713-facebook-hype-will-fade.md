@@ -13,8 +13,6 @@ refs: '[{"text"=>"CNN.com", "original"=>"http://www.cnn.com/2011/OPINION/01/07/r
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:10.000Z'
-updated_at: '2020-08-02T03:16:24.000Z'
 ---
 (CNN) -- All signs for Facebook appear to be pointing up.
 

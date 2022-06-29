@@ -10,8 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-12-02T14:12:55.000Z'
-updated_at: '2020-12-02T14:12:55.000Z'
 ---
 A viral video has once again confirmed everyone's preconceptions about human nature, the state of our politics and even "kids nowadays."
 

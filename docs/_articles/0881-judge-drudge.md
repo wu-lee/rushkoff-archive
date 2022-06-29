@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 "Maybe somebody now can stop the insanity!" Time magazine's Margaret Carlson exclaimed on national television just a few short weeks ago, when Internet scandal sheet Drudge Report was still under widespread attack from the mainstream media for posting a rumor about White House advisor Sidney Blumenthal beating his wife.
 

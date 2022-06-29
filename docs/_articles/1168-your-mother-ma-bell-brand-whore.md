@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:19:15.000Z'
-updated_at: '2021-09-30T18:19:15.000Z'
 ---
 AT&T's MVNO deal with Sprint points to a new telecom infrastructure strategy.
 

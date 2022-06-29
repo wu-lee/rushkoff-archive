@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:22:49.000Z'
-updated_at: '2021-09-30T18:22:49.000Z'
 ---
 The wireless industry's biggest problem could become the world's biggest solution.
 

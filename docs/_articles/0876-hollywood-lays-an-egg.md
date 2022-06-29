@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 Gathered together beneath the chandeliers of the Beverly Hilton's main ballroom last week, Hollywood's best and brightest (dressed, anyway) had paid about $1500 each to rub elbows with the interactive media makers who would soon, they feared, replace them. By getting "on board" instead of "run over," the hopeful executives sought to "dive in" and "get connected."
 

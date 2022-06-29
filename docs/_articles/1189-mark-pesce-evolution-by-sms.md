@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:53:16.000Z'
-updated_at: '2021-09-30T18:53:16.000Z'
 ---
 "LiveRecord is a bare-faced attempt to create another, more powerful form of mobile crack."
 

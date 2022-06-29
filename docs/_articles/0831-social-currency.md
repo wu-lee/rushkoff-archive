@@ -11,8 +11,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:13.000Z'
-updated_at: '2020-08-02T00:44:13.000Z'
 ---
 No matter how colorful you make it, content will never be king in a wireless world. It's not the content that matters - it's the contact.
 

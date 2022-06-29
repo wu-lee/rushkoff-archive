@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-10T13:54:23.000Z'
-updated_at: '2021-09-10T13:54:24.000Z'
 ---
 Thanks to recent flooding in my part of the country, I’ve been too busy digging myself and my neighbors out the mud to watch the news or scroll through Twitter. Not surprisingly, I am better for it.
 

@@ -11,8 +11,6 @@ refs:
 sources: 
 published: false
 img: http://www.blogger.com:80/img/icon18_email.gif
-created_at: '2020-08-02T00:43:59.000Z'
-updated_at: '2020-08-02T00:43:59.000Z'
 ---
 In order to fund Bush's PR campaign for space - a series of pointless but publicity-rich manned flights to the moon and Mars - NASA will have to abandon the Hubble telescope. The shuttle mission to do routine maintenance and battery replacement has been canceled, and the telescope has been slated to die sometime in 2007.
 

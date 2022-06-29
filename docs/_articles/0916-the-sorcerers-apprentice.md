@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 There's a terrific moment in Walt Disney's Fantasia -- you know the one I mean. Mickey Mouse, playing the Sorcerer's Apprentice, is charged with sweeping up the workshop. He figures he can make his task a little easier by reading out a spell from his master's book, activating the broom to carry a bucket and clean by itself. Mickey gleefully directs the broom with a wave of his arms.
 

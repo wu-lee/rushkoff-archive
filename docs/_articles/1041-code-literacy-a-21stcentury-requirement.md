@@ -10,8 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-08-03T04:22:16.000Z'
-updated_at: '2020-08-03T04:22:16.000Z'
 ---
 Ask kids what Facebook is for, and they'll tell you it's there to help them make friends. And, on the surface anyway, that's what it looks like. Of course, anyone who has poked a bit deeper or thought a bit longer about it understands that people programming Facebook aren't sitting around wondering how to foster more enduring relationships for little Johnny, Janey and their friends, but rather how to monetize their social graphs -- the trail of data the site is busy accumulating about Johnny and Janey every second of the day and night.
 

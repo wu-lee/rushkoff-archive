@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 Another month, another conference. This one, hosted by a respected Internet business consultancy firm, chose what has become the default theme for our once-booming industry's events: what to do after the crash.
 

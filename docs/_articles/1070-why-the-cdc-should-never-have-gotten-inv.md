@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1400/0*ExabHU87GDC_qWFk
-created_at: '2021-09-07T18:35:58.000Z'
-updated_at: '2021-09-07T18:35:58.000Z'
 ---
 I’ve been reading the critique. Everyone seems to hate the CDC these days. After telling vaccinated people in May that we can go maskless, they reversed course last week, instructing everyone to mask up wherever the virus is spreading rapidly.
 

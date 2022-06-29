@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:11.000Z'
-updated_at: '2020-08-02T00:44:11.000Z'
 ---
 The web site flashes images of a fetus, the mysterious face on the surface of Mars, and a ball of fire. Beneath the images, promises of the mysteries lying in wait for all comers:
 

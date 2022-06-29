@@ -18,8 +18,6 @@ refs: '[{"text"=>"Talking Street", "original"=>"http://www.talkingstreet.com/les
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:13.000Z'
-updated_at: '2020-08-02T00:44:13.000Z'
 ---
 Using utterly backwards-compatible technologies, a new mobile service lets city streets tell their histories to anyone with a cell phone.
 

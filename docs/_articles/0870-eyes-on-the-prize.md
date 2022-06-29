@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 Those of you who have followed my work for any length of time know I resent the way business has taken over the Internet. Since 1994, when the international research communications infrastructure was officially opened to business, I've watched what has appeared to me to be a degradation of the content, spirit, and mission of the interactive space.
 

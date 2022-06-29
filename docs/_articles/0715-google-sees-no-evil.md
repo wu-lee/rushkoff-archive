@@ -14,8 +14,6 @@ refs: '[{"text"=>"Boston Dynamics", "original"=>"http://money.cnn.com/2013/12/16
 sources: 
 published: true
 img: "../../../../storage/131216070713-newday-romans-google-robots-00013427-story-top-__SQUARESPACE_CACHEVERSION=1387484052933.jpg"
-created_at: '2020-08-02T00:44:10.000Z'
-updated_at: '2020-08-02T02:41:32.000Z'
 ---
 **(CNN)** -- *"Do the right thing; don't be evil.* *Honesty and integrity in all we do.* *Our business practices are beyond reproach.* *We make money by doing good things"*
 

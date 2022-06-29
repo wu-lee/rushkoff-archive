@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:39:40.000Z'
-updated_at: '2021-09-30T18:39:40.000Z'
 ---
 The future of mobile music lies in creating tunes, not just downloading them.
 

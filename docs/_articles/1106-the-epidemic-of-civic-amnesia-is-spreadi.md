@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-13T16:40:43.000Z'
-updated_at: '2021-09-13T16:40:43.000Z'
 ---
 I was at a dinner party the other night when a well-to-do woman I know, an ardent Hillary supporter in the last election, put down her wine glass and said to no one in particular, “Maybe 150 years is long enough.”
 

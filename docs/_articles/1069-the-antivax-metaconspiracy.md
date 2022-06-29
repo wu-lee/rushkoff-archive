@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1224/1*FAUzTFj0RmHra0Le3wktbg.jpeg
-created_at: '2021-09-07T18:34:06.000Z'
-updated_at: '2021-09-07T18:34:08.000Z'
 ---
 I’ve been trying to wrap my head around the misinformation campaigns driving vaccine refusal in America, and how to blunt or perhaps even “tweak” their impact. It’s hard, because a lot of it is just plain wacky. Many of the scenarios are compellingly dramatic, but don’t make logical sense. Still, if we put all these narratives in an even bigger conspiratorial context, we start to get some interesting possibilities.
 

@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-13T16:59:14.000Z'
-updated_at: '2021-09-13T16:59:14.000Z'
 ---
 Sometimes I find my hopes for the progressive agenda outweighed by my fear for what happens each time they make another stride. I realize times are hard — economic inequality is high; racism, sexism, and homophobia are on the rise; and climate crisis is in progress — and these issues need to be addressed urgently. But I’m growing increasingly concerned about the progressive left’s rigid understanding of positive social change. There’s almost a refusal to acknowledge victories and a reluctance to welcome those who want to join.
 

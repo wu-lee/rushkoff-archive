@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:11.000Z'
-updated_at: '2020-08-02T04:40:18.000Z'
 ---
 As the saying goes, opposites attract, as when an electron races to a positively charged ion, or the north pole of a magnet pulls the south pole of another. But try telling that to proponents of The Secret, the latest in a long line of spiritual systems aimed at selling personal prosperity through faulty scientific reasoning.
 

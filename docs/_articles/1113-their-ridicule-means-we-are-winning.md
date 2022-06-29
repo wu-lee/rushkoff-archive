@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-13T16:52:41.000Z'
-updated_at: '2021-09-13T16:52:41.000Z'
 ---
 It’s easy to underestimate the significance of what’s been happening this year. That’s just the way mainstream media pundits and politicians want it.
 

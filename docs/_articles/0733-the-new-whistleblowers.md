@@ -15,8 +15,6 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   stories of criminality or abuse.", "dateLastCrawled"=>"2020-06-22T05:13:00.0000000Z"}]'
 published: true
 img: 
-created_at: '2020-08-02T00:44:11.000Z'
-updated_at: '2020-08-02T03:13:05.000Z'
 ---
 Back when I was a kid, they were called "whistle-blowers": employees of corrupt companies or government agencies, who went to the press with shocking stories of criminality or abuse.
 

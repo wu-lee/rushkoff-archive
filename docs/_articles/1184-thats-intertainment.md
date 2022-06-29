@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:47:05.000Z'
-updated_at: '2021-09-30T18:47:05.000Z'
 ---
 How mobile can -- and should -- change the way we think about entertaining ourselves and each other.
 

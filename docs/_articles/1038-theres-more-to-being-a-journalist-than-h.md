@@ -9,8 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-created_at: 2020-08-02T07:21:36.000Z
-updated_at: 2020-08-02T07:21:57.000Z
 
 ---
 First they came for the musicians, and I did not speak out--because I am not a musician. Then they came for the filmmakers, and I did not speak out--because I am not a filmmaker. Then they came for the journalists, and there was no one left to speak out for us.

@@ -9,8 +9,6 @@ notes: Pasted from https://www.theatlantic.com/business/archive/2015/12/economy-
 refs: ''
 sources: ''
 img: https://cdn.theatlantic.com/thumbor/vFeBH6_ljGEm5WmyI3bAYwC0Mxc=/0x104:2000x1229/976x549/media/img/mt/2015/12/HopeDespair_Infrastructure/original.jpg
-created_at: 2022-06-29 00:00:00 -0400
-updated_at: 2022-06-29 00:00:00 -0400
 published: false
 
 ---

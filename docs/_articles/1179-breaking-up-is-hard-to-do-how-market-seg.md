@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:37:06.000Z'
-updated_at: '2021-09-30T18:37:06.000Z'
 ---
 "I know I'm wasting half my advertising dollars — I just don't know which half."
 

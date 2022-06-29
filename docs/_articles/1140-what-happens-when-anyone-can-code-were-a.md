@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T17:25:41.000Z'
-updated_at: '2021-09-30T17:25:41.000Z'
 ---
 We may be moving into an era when everyone can make computer programs, even though they don’t know how to code — at least not in the way we think about coding today.
 

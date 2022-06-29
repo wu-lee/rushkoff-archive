@@ -11,8 +11,6 @@ refs: '[{"text"=>"1.2 billion usernames and passwords have been compromised", "o
 sources: 
 published: true
 img: "../../../../storage/Screen Shot 2014-08-06 at 9.24.32 PM-__SQUARESPACE_CACHEVERSION=1407374751035.png"
-created_at: '2020-08-02T00:44:11.000Z'
-updated_at: '2020-08-02T00:44:11.000Z'
 ---
 **(CNN)** -- Most people's first response on hearing that [1.2 billion usernames and passwords have been compromised](http://money.cnn.com/2014/08/05/technology/security/russian-hackers-theft/index.html?hpt=hp_t2) by a group of Russian hackers? We check our own most important accounts for evidence of misuse, and change our passwords. If a week or two goes by with nothing out of the ordinary happening on our credit cards, we breathe a sigh of relief and go back to life as normal.
 

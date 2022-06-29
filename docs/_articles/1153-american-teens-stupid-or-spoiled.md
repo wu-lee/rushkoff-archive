@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T17:59:08.000Z'
-updated_at: '2021-09-30T17:59:08.000Z'
 ---
 America's teen market may prove difficult for snazzy handset manufacturers to penetrate. But the real reasons for upgrade reluctance might surprise them.
 

@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:38:31.000Z'
-updated_at: '2021-09-30T18:38:31.000Z'
 ---
 Paying attention to one group's disabilities enhances usability for everyone else.
 

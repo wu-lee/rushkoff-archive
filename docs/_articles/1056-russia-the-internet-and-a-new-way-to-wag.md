@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-12-02T14:33:40.000Z'
-updated_at: '2020-12-02T14:33:43.000Z'
 ---
 According to a report in The New York Times this week, the presence of Russian spy ships near important trans-Atlantic data cables is causing consternation among American military and intelligence officials. What, if anything, are the Russians planning to do? Are they trying to see how easily they could cut the cables if war broke out?
 

@@ -15,8 +15,6 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   tools and the ease with which ...", "dateLastCrawled"=>"2020-07-18T04:38:00.0000000Z"}]'
 published: true
 img: 
-created_at: '2020-08-02T00:44:10.000Z'
-updated_at: '2020-08-02T03:15:40.000Z'
 ---
 For all that the revolution in Egypt tells us about the power of networked media to promote bottom-up change, it even more starkly reveals the limits of our internet tools and the ease with which those holding power can take them away.
 

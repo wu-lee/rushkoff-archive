@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 I'm no cynic. I love the idea of human evolution, and I love to believe that technology has a role in it. As the interactive mediaspace extends around the globe, eradicating obsolete national and ideological boundaries, I get a thrill. I like going online and feeling what it's like to access servers, cultures, and people on the other side of the planet.
 

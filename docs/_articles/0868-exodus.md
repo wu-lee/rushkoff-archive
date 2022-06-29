@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 I'm in Europe this week, doing a few lectures and celebrating the launch of my new novel. For some reason, I feel less like an American author on book tour than a traveling rabbi helping people gain perspective about the past five years.
 

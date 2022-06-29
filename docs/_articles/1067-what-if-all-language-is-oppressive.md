@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1400/0*QqDllg3XFQGQG_9m
-created_at: '2021-09-07T18:30:35.000Z'
-updated_at: '2021-09-07T18:30:35.000Z'
 ---
 I’ve been reading a lot lately about Brandeis’s Prevention, Advocacy & Resource Center, PARC, and its well-meaning effort to make language less oppressive. The “oppressive language list” they’ve come up with mostly includes labels like “slave” to describe an enslaved person, “prisoner” for someone who is incarcerated, or “victim” for someone who has been victimized.
 

@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:11.000Z'
-updated_at: '2020-08-02T04:41:36.000Z'
 ---
 I wonder how many people picked up Time's “Person of the Year” issue, gazed into the little silver mirror on the cover, and felt genuinely proud to be among the 300-million-or-so people the magazine's editors felt deserved this special honor. After all, we had some stiff competition.
 

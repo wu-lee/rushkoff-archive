@@ -16,8 +16,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T02:59:01.000Z'
-updated_at: '2020-08-02T02:59:01.000Z'
 ---
 That is, if I manage to stake a claim to my own name. The personal stakes here are obvious. Doug Rushkoff is relatively unique, but pity the few thousand Robert Johnsons out there. If they're lightning quick and fairly lucky during in the wee hours, they’ll get something sporty like www.facebook.com/RobJohnson. More likely, their overarching Facebook persona is doomed to RJ1167 or Mynameisrobertjohnsonyesitis.
 

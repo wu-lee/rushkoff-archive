@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 Is the Internet American? Much of Europe seems to think so. Whenever I go there to give a talk about technology, I'm inevitably scolded by an ambassador or ex-prime minister for promoting an intrinsically American technology and ideology in places that are having enough trouble maintaining their own cultural values without getting deluged by more stuff from the United States.
 

@@ -12,8 +12,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 Number portability is finally set to arrive in the United States. Providers are bracing themselves for the biggest change in their industry since 'mobile' meant car phone.
 

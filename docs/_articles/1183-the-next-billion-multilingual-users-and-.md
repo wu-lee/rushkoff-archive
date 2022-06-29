@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:40:32.000Z'
-updated_at: '2021-09-30T18:40:32.000Z'
 ---
 Why the mobile industry needs to learn the world's struggling languages.
 

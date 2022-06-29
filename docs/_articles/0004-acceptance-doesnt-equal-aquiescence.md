@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:43:52.000Z'
-updated_at: '2020-08-02T00:43:52.000Z'
 ---
 I've been debating for a while about whether to do this. Whether to come right out and say it. On a certain level, it’s like shouting “fire” in a crowded theater. What good is it to announce a problem if I don’t have a ready solution at hand? Furthermore, what if sharing this information – this perspective on our predicament - simply exacerbates our paralysis to do anything about it. I mean, fascism breeds best in populations that have been stunned into complacency, cynicism, or despair.
 

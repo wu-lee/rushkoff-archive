@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T17:22:42.000Z'
-updated_at: '2021-09-30T17:22:42.000Z'
 ---
 Now that Apple has disappointed early adopters with a mere incremental iPhone upgrade, and Samsung has done even worse by releasing exploding Galaxy Note 7s, the preposterous futility of the smartphone wars should be coming apparent. Those people who are trading in perfectly usable phones for the latest models are the suckers.
 A brand new smartphone is anything but a status symbol.  It simply means you’ve been fooled into valuing a shiny new object over its impact on labor, the environment, or even your own time. And it’s not entirely your own fault.

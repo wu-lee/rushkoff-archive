@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-10T13:21:51.000Z'
-updated_at: '2021-09-10T13:21:51.000Z'
 ---
 Back when I was growing up in the 1970’s, Radio Shack was always one of my favorite stores. I was an electronics geek, fascinated by crystal radio kits, diodes and capacitors. A blank circuit board and pile of transistors was an invitation to make pretty much anything one could imagine: a walkie-talkie, a battery tester, a lie detector. If there were plans, I could follow them. If there were no plans, well, there was Larry at the New Rochelle Radio Shack who could point me in the right direction. 
 

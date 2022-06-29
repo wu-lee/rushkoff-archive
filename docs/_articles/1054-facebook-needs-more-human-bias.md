@@ -9,8 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-created_at: 2020-12-02T14:28:09.000Z
-updated_at: 2020-12-02T14:28:09.000Z
 
 ---
 Facebook's PR department has been busy defending itself against allegations from an anonymous, disgruntled employee that editors of the company's "trending stories" list were biased against conservative viewpoints. The story -- itself a trending topic today -- may say less about the failings of biased human intervention, however, than the need for more of it.

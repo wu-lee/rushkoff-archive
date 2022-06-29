@@ -10,8 +10,6 @@ refs:
 sources: 
 published: false
 img: https://mondrian.mashable.com/2013%252F03%252F24%252F69%252FBigBank.83567.jpg%252F950x534__filters%253Aquality%252880%2529.jpg
-created_at: '2020-08-02T00:44:11.000Z'
-updated_at: '2020-08-02T03:24:29.000Z'
 ---
 *Douglas Rushkoff, a media theorist, author, and documentarian. The ideas in this piece are built on the arguments of his new book, [Present Shock: When Everything Happens Now](http://www.amazon.com/Present-Shock-When-Everything-Happens/dp/1591844762).*
 

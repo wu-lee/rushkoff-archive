@@ -14,8 +14,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T02:59:01.000Z'
-updated_at: '2020-08-02T02:59:01.000Z'
 ---
 Google pays us for running its partners' ads on our blogs and podcast sites; Microsoft pays us to buy stuff from its partners.
 

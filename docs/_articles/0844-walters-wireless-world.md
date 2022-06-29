@@ -16,8 +16,6 @@ refs: '[{"text"=>"extraordinary discussion", "original"=>"http://www.thefeature.
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:13.000Z'
-updated_at: '2020-08-02T00:44:13.000Z'
 ---
 What would Walter Ong have thought about the current evolution of mobile media, or, What Would Jesus Moblog?
 

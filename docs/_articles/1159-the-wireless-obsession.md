@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:08:58.000Z'
-updated_at: '2021-09-30T18:08:58.000Z'
 ---
 
 Are there times when going wireless is just plain pointless? Rushkoff's extended battle with Wireless Obsessive Dissorder.

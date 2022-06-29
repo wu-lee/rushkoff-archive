@@ -13,8 +13,6 @@ refs: '[{"text"=>"The Alliance for the New Humanity.", "original"=>"http://www.a
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:13.000Z'
-updated_at: '2020-08-02T00:44:13.000Z'
 ---
 The satellite dish at the heart of a new age conference dedicated to 'world peace' begs whether violent communications strategies only beget more of the same.
 

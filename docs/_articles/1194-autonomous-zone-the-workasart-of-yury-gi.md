@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T19:01:00.000Z'
-updated_at: '2021-09-30T19:01:00.000Z'
 ---
 How mobile gaming energizes the spirit -- and technology -- of the networked society.
 

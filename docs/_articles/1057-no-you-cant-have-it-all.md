@@ -9,8 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-created_at: 2020-12-02T14:35:58.000Z
-updated_at: 2020-12-02T14:35:58.000Z
 
 ---
 Technology has always been about choice: Fire allowed us to choose to live in colder climates. Electric lighting offered us the choice to read at night. Drugs give us the freedom to choose stressful, self-destructive lifestyles.

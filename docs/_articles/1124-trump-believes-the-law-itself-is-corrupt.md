@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-13T17:16:15.000Z'
-updated_at: '2021-09-13T17:16:19.000Z'
 ---
 As a kid, I used to wonder if civilization is really just the process by which older, weaker people prevent younger, stronger ones from taking over. By the time the younger ones figure it all out, they’re old enough to need the protection of civilization’s rules themselves.
 

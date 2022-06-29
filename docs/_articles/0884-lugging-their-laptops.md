@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 A few students in the cyberculture class I teach at New York University just conducted an interesting survey. They interviewed over 125 children in elementary school about computers -- what they are, how much they like them, whether they own them and, most importantly, where and how they use them.
 

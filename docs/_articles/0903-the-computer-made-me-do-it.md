@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 It's media-bashing time again in America. In the ever-lingering wake of the Columbine High School tragedy and failed efforts to enact meaningful gun control legislation that might prevent further murders, Congress is setting its sights on a more phantom menace: "violent" video games. If the cultural conservatives get their way, a law will be passed banning the sale of simulated shoot 'em ups to minors.
 

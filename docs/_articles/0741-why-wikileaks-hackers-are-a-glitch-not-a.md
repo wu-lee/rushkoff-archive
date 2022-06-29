@@ -22,8 +22,6 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   Although many are unsettled by the […]", "dateLastCrawled"=>"2020-05-02T18:53:00.0000000Z"}]'
 published: true
 img: 
-created_at: '2020-08-02T00:44:11.000Z'
-updated_at: '2020-08-02T03:16:34.000Z'
 ---
 Like a momentary glitch on a flat-panel display, the attacks by hackers calling themselves "Anonymous" came and went. Visa, PayPal, MasterCard and Amazon report no significant damage, and business goes on as usual. The corporations acting to cut off WikiLeaks remain safe.
 

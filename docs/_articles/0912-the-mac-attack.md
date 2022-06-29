@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 Am I in the doghouse, or what? So far, I have received over 300 angry emails from angry Mac loyalists, damning me to eternal hell for announcing in my last column that I had deserted Apple and bought a Windows machine.  
 The letters - including a few from Apple employees -- raised some great points, but before I can bring myself to respond to them, I have to respond to the flood itself.

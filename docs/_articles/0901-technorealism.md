@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T07:23:20.000Z'
 ---
 I signed on to a cause a few weeks ago: a crusade for rational thinking   about technology and its role in human affairs.
 

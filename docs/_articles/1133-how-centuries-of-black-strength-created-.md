@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-13T20:04:44.000Z'
-updated_at: '2021-09-13T20:04:44.000Z'
 ---
 There is no level of reparation that could ever make up for the devastating impact of white cruelty on African Americans. But long before any such repair was even being floated in mainstream culture, Black Americans were busy repairing things for themselves. In fact, white oppression in America has always been matched by an even greater ingenuity and resilience from Black communities. The more Black people were shunned and segregated from the rest of the American society, the more they were forced to invent the kinds of circular economic and local reinvestment strategies the rest of us are discovering only now.
 

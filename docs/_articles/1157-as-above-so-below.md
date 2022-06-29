@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:07:13.000Z'
-updated_at: '2021-09-30T18:07:13.000Z'
 ---
 The satellite dish at the heart of a new age conference dedicated to 'world peace' begs whether violent communications strategies only beget more of the same.
 

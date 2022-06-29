@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1400/0*XdpUTPqzW6ljZCeN
-created_at: '2021-09-07T18:39:33.000Z'
-updated_at: '2021-09-07T18:39:33.000Z'
 ---
 took a bit of heat last week for suggesting that the blockchain movement may have gone largely off course. Some asked: What about NFTs? Or the decentralized autonomous corporations? Aren’t Bitcoin and Ethereum doing all sorts of great things?
 

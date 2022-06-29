@@ -10,8 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T07:27:02.000Z'
-updated_at: '2020-08-02T07:27:02.000Z'
 ---
 DIGITAL AND ROBOTIC technologies could offer us both a bounty of productivity as well as relief from myriad repeatable tasks. Unfortunately, as our economy is currently configured, neither of these potential miracles are coming true.
 

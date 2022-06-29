@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-13T16:41:54.000Z'
-updated_at: '2021-09-13T16:41:54.000Z'
 ---
 The New York Times recently ran one of the most compelling and informative documentaries I’ve seen since Adam Curtis’ mind-blowing Century of the Self series. “Operation Infektion,” as it’s called, is a tragically, egregiously underpublicized and difficult to access trio of 15-minute videos — either lost to the ineptitude of the Times web staff or simply buried in the torrent of other daily news and treasonous revelations.
 

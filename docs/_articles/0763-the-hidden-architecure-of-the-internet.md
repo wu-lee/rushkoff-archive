@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:11.000Z'
-updated_at: '2020-08-02T03:33:31.000Z'
 ---
 Back in the late 20th century, at the dawn of the Internet Era, Media Lab founder Nicholas Negroponte told us that to be "digital," we would have to learn the difference between atoms - those tiny particles making up the stuff of the real world - and bits - the units of pure, binary information that define the landscape and content of cyberspace.
 

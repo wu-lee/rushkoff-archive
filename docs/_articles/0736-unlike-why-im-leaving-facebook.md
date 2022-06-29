@@ -30,8 +30,6 @@ refs: '[{"text"=>"does things on our behalf", "original"=>"http://www.forbes.com
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:11.000Z'
-updated_at: '2020-08-02T03:07:54.000Z'
 ---
 I used to be able to justify using Facebook as a cost of doing business. As a writer and sometime activist who needs to promote my books and articles and occasionally rally people to one cause or another, I found Facebook fast and convenient. Though I never really used it to socialize, I figured it was okay to let other people do that, and I benefited from their behavior.
 

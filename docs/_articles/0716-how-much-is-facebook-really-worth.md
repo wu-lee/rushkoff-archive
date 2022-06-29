@@ -21,8 +21,6 @@ refs: '[{"text"=>"getting credit for helping to topple regimes in the Middle Eas
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:10.000Z'
-updated_at: '2020-08-02T03:15:32.000Z'
 ---
 (CNN) -- Depending on who you talk to, Facebook is valued at more than $50 billion -- maybe even as much as $65 billion.
 

@@ -12,8 +12,6 @@ refs: '[{"text"=>"Local coverage", "original"=>"http://www.nypost.com/news/regio
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:13.000Z'
-updated_at: '2020-08-02T00:44:13.000Z'
 ---
 The city's lampposts will provide more than just light, thanks to a new deal with a number of wireless companies.
 

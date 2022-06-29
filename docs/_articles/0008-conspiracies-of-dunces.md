@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:43:52.000Z'
-updated_at: '2020-08-02T00:43:52.000Z'
 ---
 I have to admit that I do this with some trepidation. I can already feel the assault on my inbox. But after a good long think about potential time and energy being lost by our entire community to senseless and ultimately inconsequential musings, I have to come out and say it: the alternative theories about 9-11 are wrong. Worse, the endless theorizing and speculation about trajectories, explosives, military tests, fake airplane parts and remote control navigation actually distracts some of our best potential activists from addressing the more substantive matters at hand.
 

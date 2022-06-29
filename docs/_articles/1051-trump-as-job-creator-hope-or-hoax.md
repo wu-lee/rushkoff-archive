@@ -10,8 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-12-02T14:19:49.000Z'
-updated_at: '2020-12-02T14:19:49.000Z'
 ---
 The power of the tweet is in full force.
 

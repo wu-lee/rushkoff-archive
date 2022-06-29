@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1400/1*qRk8KItOdlxCxXe6fupNQw.png
-created_at: '2021-09-07T18:16:26.000Z'
-updated_at: '2021-09-07T18:16:27.000Z'
 ---
 For days, if not weeks, our media pundits have been telling us not to expect a winner on election night. The left demanded patience and voiced their concerns that Trump would prematurely declare victory and turn to the courts for support.
 

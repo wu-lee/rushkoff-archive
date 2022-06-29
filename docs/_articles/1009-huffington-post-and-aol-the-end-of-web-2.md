@@ -11,8 +11,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T05:12:43.000Z'
-updated_at: '2020-08-02T05:13:40.000Z'
 ---
 It's easy to make fun of [AOL's pending purchase of HuffPo](https://www.theguardian.com/world/richard-adams-blog/2011/feb/07/huffington-post-sale-aol-ariana). Just like AOL's purchase of TimeWarner, here we have a new media company – [Huffington Post](http://www.huffingtonpost.com/) – fooling an old media company, AOL, into overpaying for something that has already peaked. Combined with the [merger of Daily Beast with Newsweek](http://www.thedailybeast.com/blogs-and-stories/2010-11-12/newsweek-daily-beast-merge-announcement/), and Facebook's primping for IPO, it seems as if the second great age of internet media, the fabled "Web 2.0", is now going the way of Web 1.0 – that is, boom, sell, and bust.
 

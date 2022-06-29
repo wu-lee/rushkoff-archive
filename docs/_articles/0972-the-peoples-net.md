@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:17.000Z'
-updated_at: '2020-08-02T03:42:58.000Z'
 ---
 To those of us who really love it, the Internet is looking and feeling more social, more alive, more participatory, and more, well, more Internet-y than ever before. This might sound surprising, given the headlines proclaiming the official bursting of the technology bubble. Likewise, analysts on the financial cable channels and the venture capitalists of Silicon Alley now shun any company whose name ends in .com and have moved on to more promising new buzzwords, such as wireless.
 

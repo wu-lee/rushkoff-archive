@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 Has your telephone company assigned you one of those new area codes? Don't take it. Kick and scream if you have to, make any excuse you can come up with -- or be willing to accept the consequences. They're not pretty.
 

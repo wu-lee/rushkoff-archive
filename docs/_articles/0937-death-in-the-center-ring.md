@@ -16,8 +16,6 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   of his oncoming electric wheelchair.", "dateLastCrawled"=>"2020-07-22T10:43:00.0000000Z"}]'
 published: true
 img: 
-created_at: '2020-08-02T00:44:16.000Z'
-updated_at: '2020-08-02T00:44:16.000Z'
 ---
 “That’s probably the worst place in the house to leave those,” Tim barks at a beautiful young assistant as she clears a pile of videocassettes from the path of his oncoming electric wheelchair. Then he stops short. “What are they, anyway?”
 

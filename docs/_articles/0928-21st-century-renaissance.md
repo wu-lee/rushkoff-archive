@@ -16,8 +16,6 @@ refs: '[{"text"=>"Douglas Rushkoff", "original"=>"http://www.rushkoff.com/", "ar
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:16.000Z'
-updated_at: '2020-08-02T04:09:54.000Z'
 ---
 Today's renaissance makes us feel that our self-expression matters, too.
 

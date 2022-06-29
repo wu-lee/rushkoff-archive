@@ -10,8 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-08-03T04:26:24.000Z'
-updated_at: '2020-08-03T04:27:33.000Z'
 ---
 I tried to write a single piece on [raising digital kids at home](/blog/kids-technology-home-young-children-douglas-rushkoff) -- but childhood is just too epic a journey for a single piece. Still, the overall strategy for technology in the home is the same from birth to high school graduation: match their developmental level, and make sure they understand whatever medium they are using from the inside out: who made this, how does it work, and what does it want from me?
 

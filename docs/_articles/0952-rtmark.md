@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:16.000Z'
-updated_at: '2020-08-02T06:41:56.000Z'
 ---
 I think I finally understand the method behind the madness of a hysterically funny but surprisingly effective Website named RTMark (www.rtmark.com) . Pronounced "ArtMark," the name is a loose acronym for \\`\\`registered trademark'' and a fitting title for this tongueincheek social action investment scheme.
 

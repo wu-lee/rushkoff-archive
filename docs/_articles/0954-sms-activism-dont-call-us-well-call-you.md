@@ -20,8 +20,6 @@ refs: '[{"text"=>"Mass Immediate Response", "original"=>"http://www.pfaw.org/pfa
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:16.000Z'
-updated_at: '2020-08-02T04:12:08.000Z'
 ---
 Mobile-enabled politics are still far from true networked solidarity -- and may do unaffiliated activists more harm than good.
 

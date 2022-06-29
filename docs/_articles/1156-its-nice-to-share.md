@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:06:16.000Z'
-updated_at: '2021-09-30T18:06:16.000Z'
 ---
 In their relentless pursuit to move “up the food chain” wireless providers are sacrificing the massive potential (and profit) of open standards and interoperability to the booby prize of cool commercial content.
 

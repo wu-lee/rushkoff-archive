@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 You've seen them. Walking through the streets speaking into tiny Motorola cellulars. Flipping open their Thinkpads in the middle of meetings and receiving Radiomail. Using special passwords and high-speed phone connections to access services the rest of us know nothing about.
 

@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:14.000Z'
-updated_at: '2020-08-02T00:44:14.000Z'
 ---
 Is the Internet really a forum capable of exposing our governments' deepest, darkest secrets, or is it just a hotbed for conspiracy theorists and the dissemination of their most paranoid delusions to an uncritical audience?
 

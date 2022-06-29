@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:10:26.000Z'
-updated_at: '2021-09-30T18:10:26.000Z'
 ---
 
 Don't take your handheld for granted. This sorry decade may just be remembered as the 'golden age' of wireless devices.

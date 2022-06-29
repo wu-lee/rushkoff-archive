@@ -10,8 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T06:33:47.000Z'
-updated_at: '2020-08-02T06:33:47.000Z'
 ---
 The attack on the World Trade Tower is no more an attack on the global economy than it is an attack on the global network. That's right: the internet we've argued over for the past 10 years has been targeted. Given the quality of a lot of what I've read online since the attack, it's hard to be too upset. The internet is at war with itself, when it should be coming to terms with its real enemies.
 

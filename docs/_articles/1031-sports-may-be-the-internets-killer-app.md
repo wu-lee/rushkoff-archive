@@ -10,8 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T07:09:47.000Z'
-updated_at: '2020-08-02T07:09:47.000Z'
 ---
 But the popularity of sports news, conversation and gambling on line has forced me to realize that quite the opposite is true: Sports fans are geeks. They are librarians, dedicated to preserving the most esoteric details of sports trivia and maintaining the archives of scores and players past.
 

@@ -9,8 +9,6 @@ notes: Pasted from https://rushkoff.com/wild-west-web-needs-a-sheriff/ . Date fr
 refs: ''
 sources: ''
 img: ''
-created_at: 2022-06-27 00:00:00 -0400
-updated_at: 2022-06-27 00:00:00 -0400
 
 ---
 This week, champions of the “open net” are decrying a U.S. Court of Appeals decision striking down an FCC ruling that required Internet service providers to be neutral in their restrictions on bandwidth.

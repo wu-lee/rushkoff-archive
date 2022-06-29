@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:23:48.000Z'
-updated_at: '2021-09-30T18:23:48.000Z'
 ---
 The city's lampposts will provide more than just light, thanks to a new deal with a number of wireless companies.
 

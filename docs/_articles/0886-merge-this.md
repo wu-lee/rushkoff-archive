@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 No matter how spirited the press conference, or how high the combined worth of the resulting entity - upwards of $300 billion - the proposed merger of America Online and Time Warner is as desperate a measure for both partners as it is intelligent. Each company bailed the other out, and just in time.
 

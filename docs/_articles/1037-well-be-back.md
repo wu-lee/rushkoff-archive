@@ -10,8 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T07:19:48.000Z'
-updated_at: '2020-08-02T07:19:48.000Z'
 ---
 The corporate consolidation of publishing over the past two decades has finally maxed out. Borders is verging on bankruptcy; Barnes & Noble is closing stores; and major media conglomerates are closing imprints and ejecting talent faster than they gobbled it up in the 1990s. While this makes for some bleak headlines in the short term, it bodes well for the future of a publishing industry that operates on a scale more appropriate to the medium we're all creating and selling.
 

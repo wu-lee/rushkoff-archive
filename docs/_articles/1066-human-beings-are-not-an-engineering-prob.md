@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1400/0*fS7EIMEDsRRvWeZJ
-created_at: '2021-09-07T18:29:06.000Z'
-updated_at: '2021-09-07T18:29:06.000Z'
 ---
 Robert Anton Wilson lived on the frontlines of the war for our reality. Like a latter-day Socrates by way of Paul Krassner, he was a revolutionary philosopher satirist who sought to preserve the wiggle room between human beings and our underlying assumptions about the world. Facts are fewer and far between than we have been led to believe. Death may be certain, but certainty is itself a kind of death.
 

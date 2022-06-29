@@ -21,8 +21,6 @@ refs: '[{"text"=>"a blog post backtracking significantly", "original"=>"http://w
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:10.000Z'
-updated_at: '2020-08-02T03:08:06.000Z'
 ---
 (CNN) -- I'm just as reactionary and just as outraged as the next Internet user when I learn that a service I've been using for free is going to start selling my information to market researchers or excerpting my posts and pictures for its clients' advertisements or charging me good money to communicate with an online cohort that might have taken me years to build.
 

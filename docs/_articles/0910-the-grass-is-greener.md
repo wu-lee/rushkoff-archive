@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 I just got back from an international film festival, where I just delivered a lecture to independent movie makers about the influence of interactive technologies on cinema. I suppose I shouldn't have been surprised by their initial horror; filmmakers have long dreaded the emergence of do-it-yourself devices that threaten their monopoly on storytelling media. But what surprised me the most was the nearly fetishistic attraction they also held for multimedia, and their burning compulsion to incorporate it into their work by any means necessary.
 

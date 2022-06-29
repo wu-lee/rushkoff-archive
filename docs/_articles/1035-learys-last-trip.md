@@ -10,8 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T07:16:58.000Z'
-updated_at: '2020-08-02T07:16:58.000Z'
 ---
 THAT'S PROBABLY THE WORST PLACE TO leave those," Timothy Leary barks at a beautiful young assistant. She clears a pile of videocassettes from the path of his oncoming electric wheelchair. He stops short. What are they, anyway?" The purple-haired girl reads off the labels.
 

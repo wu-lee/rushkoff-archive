@@ -13,8 +13,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T02:59:01.000Z'
-updated_at: '2020-08-02T02:59:01.000Z'
 ---
 For those unfamiliar with its history, 4chan is a massive online bulletin board, believed to be the second-largest in the world, created in 2003 by a then-15-year-old named Christopher Poole who goes by the screen name “moot.” Its original purpose was to allow users to post graphics easily, instead of just text—much in the fashion of similar sites in Japan dedicated to manga and anime. But the ability for users to post anonymously has also made the site an enormous gathering place for those who wish to exploit this facelessness, turning the Internet into a tool for exacting mob justice on people and institutions they consider enemies. This could mean anything from crashing your Web site to filling your inbox with eternal spam, publishing your identity and phone number to hacking your bank records.
 

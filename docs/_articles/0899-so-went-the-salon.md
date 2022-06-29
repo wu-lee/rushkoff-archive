@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 I used to think that conferencing was the Internet's true purpose. Log on from anywhere in the world, pick a subject, and jack into a conversation. These weren't the real-time chats and pick-up rooms of America Online, but what are known as "asynchronous" conversations that, like chess played through the mail, can carry on for weeks or months. A user would log into a USENET group or bulletin board conference, read the responses already there, and then add his or her own thoughts.
 

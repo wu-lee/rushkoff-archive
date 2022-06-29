@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T18:08:33.000Z'
-updated_at: '2021-09-30T18:08:33.000Z'
 ---
 
 What would Walter Ong have thought about the current evolution of mobile media, or, What Would Jesus Moblog?

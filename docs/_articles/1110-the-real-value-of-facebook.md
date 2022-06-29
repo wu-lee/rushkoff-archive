@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-13T16:46:05.000Z'
-updated_at: '2021-09-13T16:46:05.000Z'
 ---
 It feels like we’ve finally reached “peak Facebook.”
 

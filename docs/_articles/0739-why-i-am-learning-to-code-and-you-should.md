@@ -44,8 +44,6 @@ refs: '[{"text"=>"Codecademy", "original"=>"http://www.codecademy.com/#!/exercis
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:11.000Z'
-updated_at: '2020-08-02T03:13:52.000Z'
 ---
 (CNN) -- This week, New York's Mayor Michael Bloomberg tweeted his intent to learn computer code by the end of the year. He joined about 300,000 other people who have signed up at CodeYear to receive free interactive programming lessons each week from the Codecademy, a web-based tutorial. I am greatly relieved.
 

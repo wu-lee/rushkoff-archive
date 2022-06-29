@@ -68,8 +68,6 @@ refs: '[{"text"=>"Glenn Zucman.", "original"=>"http://www.flickr.com/photos/artb
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:12.000Z'
-updated_at: '2020-08-02T05:28:55.000Z'
 ---
 The moment the “net neutrality” debate began was the moment the net neutrality debate was lost. For once the fate of a network –  its fairness, its rule set, its capacity for social or economic reformation – is in the hands of policymakers and the corporations funding them – that network loses its power to effect change. The mere fact that lawmakers and lobbyists now control the future of the net should be enough to turn us elsewhere.
 

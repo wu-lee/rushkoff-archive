@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: https://miro.medium.com/max/1400/0*Qzf7SUbPlsda-ZUr
-created_at: '2021-09-07T18:40:42.000Z'
-updated_at: '2021-09-07T18:40:42.000Z'
 ---
 One of things I really loved about the early net was how open and free it felt. Before the internet was even the internet, Al Gore was talking about the possibility of an “information superhighway” connecting educators and researchers with one another as well as one another’s work. We never thought in terms of destinations. It was more about the journey, the search, and the connections.
 

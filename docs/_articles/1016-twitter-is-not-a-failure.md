@@ -9,8 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-created_at: 2020-08-02T06:25:10.000Z
-updated_at: 2020-08-02T06:25:10.000Z
 
 ---
 To listen to Wall Street tell the story, Twitter is an abject failure. The stock is down more than 50 percent since co-founder Jack Dorsey took over as CEO last year. User growth and revenue prospects have stagnated, and investors see little chance of a major turnaround.

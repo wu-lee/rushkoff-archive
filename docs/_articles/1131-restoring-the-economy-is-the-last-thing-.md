@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-13T20:01:27.000Z'
-updated_at: '2022-03-29T13:25:03.000Z'
 ---
 Everyone wants to know when we’re going to get the economy started up again, and just how many lives we’re willing to surrender before we do. We’ve all been made to understand the dilemma: The sooner we “open up” American and get back to our jobs, the more likely we spread Covid-19, further overwhelming hospitals and killing more people. Yet the longer we wait, the more people will suffer and die in other ways.
 

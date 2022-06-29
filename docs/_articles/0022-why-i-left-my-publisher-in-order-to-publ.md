@@ -9,8 +9,6 @@ notes:
 refs: 
 sources: 
 img: 
-created_at: 2020-08-02T00:43:52.000Z
-updated_at: 2020-08-02T02:15:15.000Z
 
 ---
 I'm getting more questions about my latest book than about any other I’ve written. And this is before the book is even out—before anyone has even read the galleys.

@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-13T15:40:44.000Z'
-updated_at: '2021-09-13T15:40:44.000Z'
 ---
 I was channel surfing the other night and came upon a shot of Hillary Clinton in some sort of conversation with Madeleine Albright and Colin Powell. They were talking about the dangers of nationalism — how it’s like a virus that destroys the bonds that keep the world safe. Diversity was the key to security. And I remember wondering: What sort of TV program is actually letting this sort of lofty, idealistic conversation take place?
 

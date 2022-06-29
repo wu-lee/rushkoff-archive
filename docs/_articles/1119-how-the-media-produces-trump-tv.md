@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-13T17:02:08.000Z'
-updated_at: '2021-09-13T17:02:08.000Z'
 ---
 It’s easy to interpret Trump’s total domination of mainstream news media as the first true win for digital propaganda. For good reason: the fake news on Facebook, the weaponized memes of Cambridge Analytica, and the President’s own Twitter barrages appear to be eclipsing the fact-based reporting of mainstream journalists. But it’s not those messages themselves — especially not in their context online — that shape the narratives we use to understand our world; it’s the way they are broadcast through traditional media like print, radio and, most importantly, television.
 

@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T17:57:20.000Z'
-updated_at: '2021-09-30T17:57:20.000Z'
 ---
 
 I surrender to the media hype. Here's what I think about Flash Mobs, writing about Flash Mobs, and writing about writing about Flash Mobs.

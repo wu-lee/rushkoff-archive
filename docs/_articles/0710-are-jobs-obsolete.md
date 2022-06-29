@@ -34,8 +34,6 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   simply shut down altogether.", "dateLastCrawled"=>"2020-07-28T03:28:00.0000000Z"}]'
 published: true
 img: http://i.cdn.turner.com/cnn/.element/img/3.0/global/icons/video_icon.gif
-created_at: '2020-08-02T00:44:10.000Z'
-updated_at: '2020-08-02T03:15:05.000Z'
 ---
 The U.S. Postal Service appears to be the latest casualty in digital technology's slow but steady replacement of working humans. Unless an external source of funding comes in, the post office will have to scale back its operations drastically, or simply shut down altogether. That's 600,000 people who would be out of work, and another 480,000 pensioners facing an adjustment in terms.
 

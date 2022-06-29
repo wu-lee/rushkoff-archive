@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:15.000Z'
-updated_at: '2020-08-02T00:44:15.000Z'
 ---
 There are people who would have us believe that our computers could destroy the planet. No, not by taking control of the nuclear arsenals or enslaving humanity, but by sapping our resources and literally polluting us to death. They may be right.
 

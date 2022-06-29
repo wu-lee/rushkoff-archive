@@ -14,8 +14,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T02:59:01.000Z'
-updated_at: '2020-08-02T02:59:01.000Z'
 ---
 Sorry, but that's the emotional current underlying nearly all of the coverage I'm seeing about the Apple founder's just-revealed liver transplant operation in Tennessee for his metastasized neuroendocrine tumor. It's not what I expected from the Apple community, but perhaps it does serve as the most accurate expression of where the once-renegade personal-computer company has ended up.
 

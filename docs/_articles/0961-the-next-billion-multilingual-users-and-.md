@@ -10,8 +10,6 @@ refs:
 sources: 
 published: false
 img: 
-created_at: '2020-08-02T00:44:16.000Z'
-updated_at: '2020-08-02T04:15:12.000Z'
 ---
 Even today's most guarded estimates indicate that half of the world's 6000 languages will likely be extinct by the year 2050. A decidedly more catastrophic prediction from researchers at the University of Manchester now places that number closer to 90%. Because mobile phones aren't yet universal interpreters, we should be concerned -- not simply in the interest of preserving cultural heritage and diversity, but also because minority language communities represent some of the most potentially valuable markets still underserved by the mobile industry. Think Africa, deep Asia, the Pacific and the Middle East.
 

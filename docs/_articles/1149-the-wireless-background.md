@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2021-09-30T17:42:26.000Z'
-updated_at: '2021-09-30T17:42:26.000Z'
 ---
 In the Great Blackout of 2003, it was the landlines that worked, and the cell phones that failed.
 

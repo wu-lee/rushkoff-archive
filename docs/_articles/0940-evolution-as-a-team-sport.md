@@ -10,8 +10,6 @@ refs:
 sources: 
 published: true
 img: 
-created_at: '2020-08-02T00:44:16.000Z'
-updated_at: '2020-08-02T04:15:51.000Z'
 ---
 Nothing is around the corner. There's no threshold to reach, event horizon to cross, or moment of novelty to await. The change has happened. Indeed, you're soaking in it.
 
