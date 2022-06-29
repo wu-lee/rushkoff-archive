@@ -12,7 +12,6 @@ img: https://miro.medium.com/max/700/1*PFRH5UvNLtEOrIeHJGJE7w.jpeg
 slug: evolution-is-not-the-cause-of-selfish-capitalism
 created_at: 2022-06-28 00:00:00 -0400
 updated_at: 2022-06-28 00:00:00 -0400
-published: false
 
 ---
 Nature is a collaborative act. If humans are the most evolved species, it is only because we have developed the most advanced ways of working and playing together.
