@@ -1,5 +1,4 @@
 ---
-id: 981
 title: Apple's Mac Killer Unveiled
 subtitle: 
 date: '2010-01-27T05:00:00.000Z'

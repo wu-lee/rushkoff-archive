@@ -1,5 +1,4 @@
 ---
-id: 983
 title: Google Declares War on Facebook
 subtitle: 
 date: '2009-11-04T05:00:00.000Z'

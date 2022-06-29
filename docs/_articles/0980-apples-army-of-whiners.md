@@ -1,5 +1,4 @@
 ---
-id: 980
 title: Apple's Army of Whiners
 subtitle: 
 date: '2009-06-22T04:00:00.000Z'

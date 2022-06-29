@@ -1,5 +1,4 @@
 ---
-id: 967
 title: Welcoming One Another
 subtitle: 
 date: '2003-04-25T04:00:00.000Z'

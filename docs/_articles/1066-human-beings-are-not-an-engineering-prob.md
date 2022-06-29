@@ -1,5 +1,4 @@
 ---
-id: 1066
 title: Human Beings are Not an Engineering Problem
 subtitle: 
 date: '2021-07-07T16:00:00.000Z'

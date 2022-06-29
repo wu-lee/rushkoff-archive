@@ -1,5 +1,4 @@
 ---
-id: 1109
 title: The Anti-Human Religion of Silicon Valley
 subtitle: 
 date: '2018-12-12T17:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 1024
 title: Slaves of the cyberculture
 subtitle: 
 date: '1999-05-13T04:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 975
 title: Google's Velvet Rope
 subtitle: 
 date: '2009-10-14T00:00:00.000Z'

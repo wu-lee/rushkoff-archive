@@ -1,5 +1,4 @@
 ---
-id: 917
 title: To Have or Have Not
 subtitle: 
 date: '1997-08-01T04:00:00.000Z'

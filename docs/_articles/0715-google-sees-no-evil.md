@@ -1,5 +1,4 @@
 ---
-id: 715
 title: Google Sees No Evil
 subtitle: 
 date: '2013-12-19T00:00:00.000Z'

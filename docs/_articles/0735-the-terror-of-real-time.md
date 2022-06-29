@@ -1,5 +1,4 @@
 ---
-id: 735
 title: The Terror of 'Real Time'
 subtitle: 
 date: '2013-04-22T04:00:00.000Z'

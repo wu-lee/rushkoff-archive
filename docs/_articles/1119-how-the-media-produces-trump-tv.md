@@ -1,5 +1,4 @@
 ---
-id: 1119
 title: How the Media Produces Trump TV
 subtitle: 
 date: '2019-06-17T16:00:00.000Z'

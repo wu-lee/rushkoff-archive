@@ -1,5 +1,4 @@
 ---
-id: 877
 title: I Am Your Father Luke
 subtitle: 
 date: '1997-03-01T05:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 757
 title: Like It or Not, We Jews Can’t Separate From Israel
 subtitle: 
 date: '2010-06-15T04:00:00.000Z'

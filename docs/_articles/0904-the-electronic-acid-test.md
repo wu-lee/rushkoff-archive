@@ -1,5 +1,4 @@
 ---
-id: 904
 title: The Electronic Acid Test
 subtitle: 
 date: '1997-07-01T04:00:00.000Z'

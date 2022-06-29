@@ -1,5 +1,4 @@
 ---
-id: 1035
 title: Leary's Last Trip
 subtitle: 
 date: '1996-08-01T04:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 1179
 title: 'Breaking Up Is Hard to Do: How Market Segmentation Could Erode A Mobile Culture'
 subtitle: 
 date: '2004-11-24T17:00:00.000Z'

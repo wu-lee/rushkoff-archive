@@ -1,5 +1,4 @@
 ---
-id: 1138
 title: The best smartphone is the one you already own
 subtitle: 
 date: '2016-09-24T16:00:00.000Z'

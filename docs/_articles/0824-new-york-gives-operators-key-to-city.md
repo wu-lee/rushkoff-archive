@@ -1,5 +1,4 @@
 ---
-id: 824
 title: New York Gives Operators Key to City
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'

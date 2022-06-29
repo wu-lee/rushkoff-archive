@@ -1,5 +1,4 @@
 ---
-id: 1098
 title: The Internet Is Acid, and America Is Having a Bad Trip
 subtitle: 
 date: '2018-09-04T16:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 972
 title: The People's Net
 subtitle: 
 date: '2001-07-01T04:00:00.000Z'

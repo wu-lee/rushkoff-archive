@@ -1,5 +1,4 @@
 ---
-id: 897
 title: Remember the Sabbath
 subtitle: 
 date: '1999-12-01T05:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 1140
 title: What happens when anyone can code? We’re about to find out
 subtitle: 
 date: '2016-06-10T16:00:00.000Z'

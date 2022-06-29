@@ -1,5 +1,4 @@
 ---
-id: 1165
 title: Nortel Scandal Brings Back the Fear
 subtitle: 
 date: '2004-04-30T16:00:00.000Z'

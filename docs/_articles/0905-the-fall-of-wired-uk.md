@@ -1,5 +1,4 @@
 ---
-id: 905
 title: The Fall of Wired UK
 subtitle: 
 date: '1997-02-01T05:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 907
 title: The Future of Psychology
 subtitle: 
 date: '1997-05-01T04:00:00.000Z'

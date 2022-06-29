@@ -1,5 +1,4 @@
 ---
-id: 918
 title: To Life
 subtitle: 
 date: '2001-09-01T04:00:00.000Z'

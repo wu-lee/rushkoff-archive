@@ -1,5 +1,4 @@
 ---
-id: 1001
 title: The New Good Guys
 subtitle: 
 date: '2009-11-23T00:00:00.000Z'

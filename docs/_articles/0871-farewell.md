@@ -1,5 +1,4 @@
 ---
-id: 871
 title: Farewell
 subtitle: 
 date: '2001-08-01T04:00:00.000Z'

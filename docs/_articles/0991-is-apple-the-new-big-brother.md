@@ -1,5 +1,4 @@
 ---
-id: 991
 title: Is Apple the New Big Brother?
 subtitle: 
 date: '2009-08-11T04:00:00.000Z'

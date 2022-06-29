@@ -1,5 +1,4 @@
 ---
-id: 853
 title: Banner This
 subtitle: 
 date: '2008-05-09T04:00:00.000Z'

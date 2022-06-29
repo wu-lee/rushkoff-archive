@@ -1,5 +1,4 @@
 ---
-id: 928
 title: 21st Century Renaissance
 subtitle: 
 date: '2008-03-31T04:00:00.000Z'

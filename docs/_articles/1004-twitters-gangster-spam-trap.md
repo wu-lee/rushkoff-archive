@@ -1,5 +1,4 @@
 ---
-id: 1004
 title: Twitter's Gangster Spam Trap
 subtitle: 
 date: '2009-09-30T04:00:00.000Z'

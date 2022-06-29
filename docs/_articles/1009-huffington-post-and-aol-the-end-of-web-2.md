@@ -1,5 +1,4 @@
 ---
-id: 1009
 title: 'Huffington Post and AOL: The End of Web 2.0'
 subtitle: 
 date: '2011-02-09T05:00:00.000Z'

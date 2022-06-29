@@ -1,5 +1,4 @@
 ---
-id: 717
 title: iPhone Is Not Your Savior
 subtitle: 
 date: '2012-09-12T04:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 1096
 title: Dear Google Employees
 subtitle: 
 date: '2018-08-17T16:00:00.000Z'

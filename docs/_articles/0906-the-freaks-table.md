@@ -1,5 +1,4 @@
 ---
-id: 906
 title: The Freak's Table
 subtitle: 
 date: '2001-01-01T05:00:00.000Z'

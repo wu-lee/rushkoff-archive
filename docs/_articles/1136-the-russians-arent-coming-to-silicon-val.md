@@ -1,5 +1,4 @@
 ---
-id: 1136
 title: The Russians aren’t coming to Silicon Valley, they’re already here
 subtitle: 
 date: '2017-01-21T17:00:00.000Z'

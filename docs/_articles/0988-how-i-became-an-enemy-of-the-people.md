@@ -1,5 +1,4 @@
 ---
-id: 988
 title: How I Became an Enemy of the People
 subtitle: 
 date: '2009-06-08T04:00:00.000Z'

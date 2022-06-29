@@ -1,5 +1,4 @@
 ---
-id: 
 title: Mediasprawl
 subtitle: Springfield U.S.A.
 date: 2003-09-01T00:00:00.000-04:00

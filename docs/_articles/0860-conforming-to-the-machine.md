@@ -1,5 +1,4 @@
 ---
-id: 860
 title: Conforming to the Machine
 subtitle: 
 date: '2000-12-01T05:00:00.000Z'

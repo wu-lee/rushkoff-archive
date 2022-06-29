@@ -1,5 +1,4 @@
 ---
-id: 716
 title: How Much Is Facebook Really Worth?
 subtitle: 
 date: '2011-03-08T05:00:00.000Z'

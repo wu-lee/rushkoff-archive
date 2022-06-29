@@ -1,5 +1,4 @@
 ---
-id: 854
 title: Blinded by the Bytes
 subtitle: 
 date: '2000-06-01T04:00:00.000Z'

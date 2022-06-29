@@ -1,5 +1,4 @@
 ---
-id: 999
 title: The iPhone Becomes a Bully
 subtitle: 
 date: '2010-03-02T05:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 1023
 title: Tilting at Windows
 subtitle: 
 date: '1998-06-04T04:00:00.000Z'

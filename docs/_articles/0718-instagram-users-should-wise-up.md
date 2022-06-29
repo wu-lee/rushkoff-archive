@@ -1,5 +1,4 @@
 ---
-id: 718
 title: Instagram Users Should Wise Up
 subtitle: 
 date: '2012-12-19T00:00:00.000Z'

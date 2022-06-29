@@ -1,5 +1,4 @@
 ---
-id: "1033"
 title: We Interrupt This Program
 subtitle: 
 date: 2011-02-01T05:00:00.000Z

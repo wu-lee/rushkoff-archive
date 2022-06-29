@@ -1,5 +1,4 @@
 ---
-id: 997
 title: The ESPN Porn Scam
 subtitle: 
 date: '2009-07-22T04:00:00.000Z'

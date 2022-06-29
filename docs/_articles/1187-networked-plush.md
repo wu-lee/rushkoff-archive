@@ -1,5 +1,4 @@
 ---
-id: 1187
 title: Networked Plush
 subtitle: 
 date: '2005-04-27T16:00:00.000Z'

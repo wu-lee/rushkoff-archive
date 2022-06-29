@@ -1,5 +1,4 @@
 ---
-id: 873
 title: Free Inside
 subtitle: 
 date: '1999-09-01T04:00:00.000Z'

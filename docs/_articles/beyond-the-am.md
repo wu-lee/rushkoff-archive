@@ -1,5 +1,4 @@
 ---
-id: 
 title: Beyond the Am
 subtitle: A Different Perspective on Peoplehood
 date: 2008-03-01T00:00:00.000-05:00

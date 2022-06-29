@@ -1,5 +1,4 @@
 ---
-id: 910
 title: The Grass Is Greener
 subtitle: 
 date: '1997-03-01T05:00:00.000Z'

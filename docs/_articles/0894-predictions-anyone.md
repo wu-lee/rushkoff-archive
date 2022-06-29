@@ -1,5 +1,4 @@
 ---
-id: 894
 title: Predictions, Anyone?
 subtitle: 
 date: '1998-12-01T05:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 766
 title: Last Day of Work
 subtitle: 
 date: '2011-03-21T04:00:00.000Z'

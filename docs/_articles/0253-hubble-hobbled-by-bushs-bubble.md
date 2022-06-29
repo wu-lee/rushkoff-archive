@@ -1,5 +1,4 @@
 ---
-id: 253
 title: Hubble Hobbled by Bush's Bubble
 subtitle: 
 date: '2004-01-17T05:00:00.000Z'

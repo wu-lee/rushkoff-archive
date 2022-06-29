@@ -1,5 +1,4 @@
 ---
-id: 960
 title: The Networked Individual
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'

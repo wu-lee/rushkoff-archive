@@ -1,5 +1,4 @@
 ---
-id: 1067
 title: What if All Language is Oppressive?
 subtitle: 
 date: '2021-07-12T16:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 727
 title: Should Twitter Fear Saudi Prince?
 subtitle: 
 date: '2011-12-20T00:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 1135
 title: Donald Trump is a media virus, but we’re the ones spreading him
 subtitle: 
 date: '2016-12-17T17:00:00.000Z'

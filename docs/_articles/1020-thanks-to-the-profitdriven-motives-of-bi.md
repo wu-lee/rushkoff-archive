@@ -1,5 +1,4 @@
 ---
-id: 1020
 title: Thanks to the profit-driven motives of big businesses, the internet is cheaper
   to use. So now it is our turn to exploit them, like they have exploited us
 subtitle: 

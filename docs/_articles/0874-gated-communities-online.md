@@ -1,5 +1,4 @@
 ---
-id: 874
 title: Gated Communities Online
 subtitle: 
 date: '1997-07-01T04:00:00.000Z'

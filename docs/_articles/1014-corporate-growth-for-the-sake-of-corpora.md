@@ -1,5 +1,4 @@
 ---
-id: "1014"
 title: Corporate Growth for the Sake of Corporate Growth
 subtitle: 
 date: 2016-04-20T04:00:00.000Z

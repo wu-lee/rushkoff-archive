@@ -1,5 +1,4 @@
 ---
-id: 996
 title: The Decade Google Made You Stupid
 subtitle: 
 date: '2009-12-13T00:00:00.000Z'

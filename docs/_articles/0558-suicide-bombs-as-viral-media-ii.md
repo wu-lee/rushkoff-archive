@@ -1,5 +1,4 @@
 ---
-id: 558
 title: Suicide Bombs as Viral Media II
 subtitle: 
 date: '2005-07-24T04:00:00.000Z'

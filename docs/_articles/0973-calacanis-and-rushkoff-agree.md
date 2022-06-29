@@ -1,5 +1,4 @@
 ---
-id: 973
 title: Calacanis and Rushkoff Agree
 subtitle: 
 date: '2009-07-29T04:00:00.000Z'

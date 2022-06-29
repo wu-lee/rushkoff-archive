@@ -1,5 +1,4 @@
 ---
-id: 623
 title: The Wireless Obsession
 subtitle: 
 date: '2004-01-12T05:00:00.000Z'

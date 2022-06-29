@@ -1,5 +1,4 @@
 ---
-id: 1174
 title: Are Cell Phone Users the New Smokers?
 subtitle: 
 date: '2004-09-08T16:00:00.000Z'

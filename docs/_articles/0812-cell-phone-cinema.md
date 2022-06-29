@@ -1,5 +1,4 @@
 ---
-id: 812
 title: Cell Phone Cinema
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'

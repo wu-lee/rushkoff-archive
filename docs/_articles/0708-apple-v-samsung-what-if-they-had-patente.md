@@ -1,5 +1,4 @@
 ---
-id: 708
 title: 'Apple v Samsung: What if They Had Patented the Alphabet?'
 subtitle: 
 date: '2012-08-31T04:00:00.000Z'

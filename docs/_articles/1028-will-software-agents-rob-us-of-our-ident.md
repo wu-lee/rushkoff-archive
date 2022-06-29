@@ -1,5 +1,4 @@
 ---
-id: 1028
 title: Will Software Agents Rob Us Of Our Identities
 subtitle: 
 date: '1998-08-08T04:00:00.000Z'

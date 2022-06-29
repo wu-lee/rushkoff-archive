@@ -1,5 +1,4 @@
 ---
-id: 1162
 title: The Developer's Dilemma
 subtitle: 
 date: '2004-03-09T17:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 899
 title: So Went the Salon
 subtitle: 
 date: '1997-05-01T04:00:00.000Z'

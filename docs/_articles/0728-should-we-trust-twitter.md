@@ -1,5 +1,4 @@
 ---
-id: "728"
 title: Should We Trust Twitter?
 subtitle: 
 date: 2013-09-03 00:00:00 -0400

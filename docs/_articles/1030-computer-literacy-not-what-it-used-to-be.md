@@ -1,5 +1,4 @@
 ---
-id: 1030
 title: Computer Literacy Not What It Used To Be
 subtitle: 
 date: '1998-10-24T04:00:00.000Z'

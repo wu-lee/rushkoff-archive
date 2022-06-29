@@ -1,5 +1,4 @@
 ---
-id: 743
 title: Yahoo Wants Tumblr's Teens
 subtitle: 
 date: '2013-05-20T04:00:00.000Z'

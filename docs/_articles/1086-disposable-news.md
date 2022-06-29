@@ -1,5 +1,4 @@
 ---
-id: 1086
 title: Disposable News
 subtitle: 
 date: '2015-10-13T04:00:00.000Z'

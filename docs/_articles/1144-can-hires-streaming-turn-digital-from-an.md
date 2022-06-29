@@ -1,5 +1,4 @@
 ---
-id: 1144
 title: Can hi-res streaming turn digital from an enemy of sound to its new best friend?
 subtitle: 
 date: '2016-01-15T17:00:00.000Z'

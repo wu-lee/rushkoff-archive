@@ -1,5 +1,4 @@
 ---
-id: 8
 title: Conspiracies of Dunces
 subtitle: 
 date: '2007-09-20T04:00:00.000Z'

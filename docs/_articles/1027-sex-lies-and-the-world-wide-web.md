@@ -1,5 +1,4 @@
 ---
-id: 1027
 title: Sex, Lies, and the World Wide Web
 subtitle: 
 date: '1998-09-25T04:00:00.000Z'

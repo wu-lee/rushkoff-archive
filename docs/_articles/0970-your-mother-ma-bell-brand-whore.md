@@ -1,5 +1,4 @@
 ---
-id: 970
 title: 'Your Mother: Ma Bell, Brand Whore?'
 subtitle: 
 date: '2004-05-21T04:00:00.000Z'

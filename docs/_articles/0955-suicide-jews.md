@@ -1,5 +1,4 @@
 ---
-id: 955
 title: Suicide Jews
 subtitle: 
 date: '2003-06-11T04:00:00.000Z'

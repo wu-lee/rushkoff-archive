@@ -1,5 +1,4 @@
 ---
-id: 969
 title: Which One of These Sneakers Is Me?
 subtitle: 
 date: '2009-04-13T04:00:00.000Z'

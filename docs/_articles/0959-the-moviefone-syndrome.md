@@ -1,5 +1,4 @@
 ---
-id: 959
 title: The Moviefone Syndrome
 subtitle: 
 date: '1999-08-01T04:00:00.000Z'

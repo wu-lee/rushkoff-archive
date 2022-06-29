@@ -1,5 +1,4 @@
 ---
-id: 1170
 title: Bush Backs Bells
 subtitle: 
 date: '2004-06-10T16:00:00.000Z'

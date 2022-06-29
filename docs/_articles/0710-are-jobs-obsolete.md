@@ -1,5 +1,4 @@
 ---
-id: 710
 title: Are Jobs Obsolete?
 subtitle: 
 date: '2011-09-07T04:00:00.000Z'

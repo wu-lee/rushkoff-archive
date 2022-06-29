@@ -1,5 +1,4 @@
 ---
-id: 850
 title: Apple Pie
 subtitle: 
 date: '1996-08-01T04:00:00.000Z'

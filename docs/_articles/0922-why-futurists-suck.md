@@ -1,5 +1,4 @@
 ---
-id: 922
 title: Why Futurists Suck
 subtitle: 
 date: '1998-08-01T04:00:00.000Z'

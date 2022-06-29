@@ -1,5 +1,4 @@
 ---
-id: 739
 title: Why I Am Learning to Code and You Should, Too
 subtitle: 
 date: '2012-01-16T05:00:00.000Z'

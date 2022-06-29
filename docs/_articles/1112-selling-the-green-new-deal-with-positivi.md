@@ -1,5 +1,4 @@
 ---
-id: 1112
 title: Selling the Green New Deal With Positivity
 subtitle: 
 date: '2019-02-02T16:56:02.000Z'

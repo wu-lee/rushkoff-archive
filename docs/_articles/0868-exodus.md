@@ -1,5 +1,4 @@
 ---
-id: 868
 title: Exodus
 subtitle: 
 date: '2001-05-01T04:00:00.000Z'

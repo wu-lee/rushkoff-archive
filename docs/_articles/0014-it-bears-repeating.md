@@ -1,5 +1,4 @@
 ---
-id: 14
 title: It Bears Repeating
 subtitle: 
 date: '2008-05-01T04:00:00.000Z'

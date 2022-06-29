@@ -1,5 +1,4 @@
 ---
-id: 1074
 title: It’s Good to Feel Small
 subtitle: 
 date: '2021-09-03T16:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 1132
 title: Good Cops Don’t Need Grenade Launchers
 subtitle: 
 date: '2020-06-05T16:00:00.000Z'

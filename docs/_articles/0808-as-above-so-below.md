@@ -1,5 +1,4 @@
 ---
-id: 808
 title: As Above, So Below
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'

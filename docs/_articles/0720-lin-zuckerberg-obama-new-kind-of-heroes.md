@@ -1,5 +1,4 @@
 ---
-id: 720
 title: 'Lin, Zuckerberg, Obama: New Kind of Heroes?'
 subtitle: 
 date: '2012-02-22T05:00:00.000Z'

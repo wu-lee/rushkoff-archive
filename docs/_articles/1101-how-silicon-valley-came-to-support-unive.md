@@ -1,5 +1,4 @@
 ---
-id: 1101
 title: How Silicon Valley Came to Support Universal Basic Income
 subtitle: 
 date: '2018-10-10T16:56:02.000Z'

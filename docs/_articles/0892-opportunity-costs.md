@@ -1,5 +1,4 @@
 ---
-id: 892
 title: Opportunity Costs
 subtitle: 
 date: '2008-05-09T04:00:00.000Z'

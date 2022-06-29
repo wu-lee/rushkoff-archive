@@ -1,5 +1,4 @@
 ---
-id: 1002
 title: The Web's Dirtiest Site
 subtitle: 
 date: '2009-08-11T04:00:00.000Z'

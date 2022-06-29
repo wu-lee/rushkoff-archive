@@ -1,5 +1,4 @@
 ---
-id: 827
 title: Phones as Hackable Platforms
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'

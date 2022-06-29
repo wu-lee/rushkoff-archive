@@ -1,5 +1,4 @@
 ---
-id: 976
 title: 'Murdoch to Google: Search This'
 subtitle: 
 date: '2009-11-10T00:00:00.000Z'

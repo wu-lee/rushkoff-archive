@@ -1,5 +1,4 @@
 ---
-id: 864
 title: Depress This
 subtitle: 
 date: '1998-09-01T04:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 1185
 title: Honey, I Geotagged the Kids
 subtitle: 
 date: '2005-03-23T17:00:00.000Z'

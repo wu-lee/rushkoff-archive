@@ -1,5 +1,4 @@
 ---
-id: 1193
 title: Tinseltown 2.0
 subtitle: 
 date: '2005-02-23T17:00:00.000Z'

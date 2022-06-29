@@ -1,5 +1,4 @@
 ---
-id: 818
 title: It's Nice to Share
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'

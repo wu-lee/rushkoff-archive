@@ -1,5 +1,4 @@
 ---
-id: 11
 title: Douglas Rushkoff and Genesis P-Orridge Conversation
 subtitle: 
 date: '2003-01-01T05:00:00.000Z'

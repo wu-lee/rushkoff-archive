@@ -1,5 +1,4 @@
 ---
-id: 730
 title: The Cyberwar May Be Headed to Your Computer
 subtitle: 
 date: '2012-06-04T04:00:00.000Z'

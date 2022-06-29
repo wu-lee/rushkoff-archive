@@ -1,5 +1,4 @@
 ---
-id: 732
 title: The Joke May Be on Zuckerberg
 subtitle: 
 date: '2013-04-17T04:00:00.000Z'

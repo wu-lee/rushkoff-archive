@@ -1,5 +1,4 @@
 ---
-id: 1158
 title: Walter's Wireless World
 subtitle: 
 date: '2003-12-21T17:00:00.000Z'

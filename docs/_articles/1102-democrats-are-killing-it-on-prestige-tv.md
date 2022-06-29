@@ -1,5 +1,4 @@
 ---
-id: 1102
 title: Democrats Are Killing It on Prestige TV
 subtitle: 
 date: '2018-10-26T16:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 1116
 title: This Time, It’s Personal
 subtitle: 
 date: '2019-04-03T16:00:00.000Z'

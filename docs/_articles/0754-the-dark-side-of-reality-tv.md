@@ -1,5 +1,4 @@
 ---
-id: 754
 title: The Dark Side of Reality TV
 subtitle: 
 date: '2007-05-23T04:00:00.000Z'

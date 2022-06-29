@@ -1,5 +1,4 @@
 ---
-id: 915
 title: The Shareware Universe
 subtitle: 
 date: '1998-05-01T04:00:00.000Z'

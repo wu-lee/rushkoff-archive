@@ -1,5 +1,4 @@
 ---
-id: 759
 title: Why Marketing Threatens the True Promise of Social Media
 subtitle: 
 date: '2011-01-06T12:12:36.000Z'

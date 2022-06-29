@@ -1,5 +1,4 @@
 ---
-id: 2
 title: The Sabbath Revolt
 subtitle: 
 date: '2009-04-11T04:00:00.000Z'

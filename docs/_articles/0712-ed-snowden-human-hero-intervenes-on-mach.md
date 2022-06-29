@@ -1,5 +1,4 @@
 ---
-id: 712
 title: Ed Snowden - Human Hero Intervenes on Machine Logic
 subtitle: 
 date: '2013-06-10T04:00:00.000Z'

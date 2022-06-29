@@ -1,5 +1,4 @@
 ---
-id: 865
 title: Designer Apocalypse
 subtitle: 
 date: '1997-03-01T05:00:00.000Z'

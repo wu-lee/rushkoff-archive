@@ -1,5 +1,4 @@
 ---
-id: 744
 title: Yahoo Wins the Web
 subtitle: 
 date: '2012-07-19T04:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 926
 title: your.name.here
 subtitle: 
 date: '1996-12-01T05:00:00.000Z'

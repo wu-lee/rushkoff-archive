@@ -1,5 +1,4 @@
 ---
-id: "22"
 title: Why I Left My Publisher in Order to Publish a Book
 subtitle: 
 date: 2010-09-29T23:00:00.000Z

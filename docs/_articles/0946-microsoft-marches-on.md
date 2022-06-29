@@ -1,5 +1,4 @@
 ---
-id: 946
 title: Microsoft Marches On
 subtitle: 
 date: '1998-06-25T04:00:00.000Z'

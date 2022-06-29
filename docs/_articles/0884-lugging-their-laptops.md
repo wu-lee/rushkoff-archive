@@ -1,5 +1,4 @@
 ---
-id: 884
 title: Lugging Their Laptops
 subtitle: 
 date: '1999-05-01T04:00:00.000Z'

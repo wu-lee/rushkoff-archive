@@ -1,5 +1,4 @@
 ---
-id: 1154
 title: Sex, Lies and Videophones
 subtitle: 
 date: '2004-05-12T16:56:02.000Z'

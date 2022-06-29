@@ -1,5 +1,4 @@
 ---
-id: 876
 title: Hollywood Lays an Egg
 subtitle: 
 date: '1998-03-01T05:00:00.000Z'

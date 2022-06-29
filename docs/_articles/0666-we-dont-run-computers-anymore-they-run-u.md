@@ -1,5 +1,4 @@
 ---
-id: 666
 title: We Don't Run Computers Anymore, They Run Us
 subtitle: 
 date: '2013-03-14T04:00:00.000Z'

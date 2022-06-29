@@ -1,5 +1,4 @@
 ---
-id: 740
 title: Why Reining in Google Is Good for Us
 subtitle: 
 date: '2012-05-04T04:00:00.000Z'

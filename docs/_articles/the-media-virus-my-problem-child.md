@@ -1,5 +1,4 @@
 ---
-id: 
 title: The Media Virus, My Problem Child
 subtitle: ''
 date: 2018-09-01T00:00:00.000-04:00

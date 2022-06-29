@@ -1,5 +1,4 @@
 ---
-id: 
 title: Economics is Not a Natural Science
 subtitle: ''
 date: 2009-08-11T00:00:00.000-04:00

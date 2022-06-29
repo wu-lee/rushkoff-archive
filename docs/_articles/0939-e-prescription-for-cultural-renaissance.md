@@ -1,5 +1,4 @@
 ---
-id: 939
 title: 'E: Prescription for Cultural Renaissance'
 subtitle: 
 date: '2001-01-01T05:00:00.000Z'

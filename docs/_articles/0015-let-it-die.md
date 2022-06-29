@@ -1,5 +1,4 @@
 ---
-id: 15
 title: Let It Die
 subtitle: 
 date: '2009-03-15T04:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 711
 title: Cutting Social Media No Answer to Flash Mobs
 subtitle: 
 date: '2011-08-17T04:00:00.000Z'

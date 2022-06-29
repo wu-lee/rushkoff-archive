@@ -1,5 +1,4 @@
 ---
-id: 950
 title: Playing With Fractals
 subtitle: 
 date: '2002-01-01T05:00:00.000Z'

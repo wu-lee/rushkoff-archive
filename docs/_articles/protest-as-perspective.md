@@ -1,5 +1,4 @@
 ---
-id: 
 title: Protest as Perspective
 subtitle: Do We Want a Revolution or a Renaissance?
 date: 2002-01-01T00:00:00.000-05:00

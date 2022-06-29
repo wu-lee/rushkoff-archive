@@ -1,5 +1,4 @@
 ---
-id: 1133
 title: How Centuries of Black Strength Created a Blueprint for Economic Recovery
 subtitle: 
 date: '2020-07-06T16:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 1105
 title: 'Winning Is for Losers: Enspiral and the Politics of Consent'
 subtitle: 
 date: '2018-11-07T17:00:00.000Z'

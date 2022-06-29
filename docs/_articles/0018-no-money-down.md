@@ -1,5 +1,4 @@
 ---
-id: 18
 title: No Money Down
 subtitle: 
 date: '2008-05-01T04:00:00.000Z'

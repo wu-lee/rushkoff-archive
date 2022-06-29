@@ -1,5 +1,4 @@
 ---
-id: 1043
 title: Young Kids and Technology at Home
 subtitle: 
 date: '2013-01-04T05:00:00.000Z'

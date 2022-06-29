@@ -1,5 +1,4 @@
 ---
-id: 1076
 title: See What I Mean?
 subtitle: 
 date: '2015-12-01T17:00:00.000Z'

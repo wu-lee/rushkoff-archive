@@ -1,5 +1,4 @@
 ---
-id: 1017
 title: Smash the Idols We Worship
 subtitle: 
 date: '2011-04-22T04:00:00.000Z'

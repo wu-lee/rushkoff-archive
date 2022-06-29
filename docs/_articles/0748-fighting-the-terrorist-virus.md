@@ -1,5 +1,4 @@
 ---
-id: 748
 title: Fighting the Terrorist Virus
 subtitle: 
 date: '2006-12-04T06:00:00.000Z'

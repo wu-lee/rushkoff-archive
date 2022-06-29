@@ -1,5 +1,4 @@
 ---
-id: 893
 title: People Who Need People
 subtitle: 
 date: '1998-03-01T05:00:00.000Z'

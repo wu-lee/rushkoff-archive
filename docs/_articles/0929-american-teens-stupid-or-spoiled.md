@@ -1,5 +1,4 @@
 ---
-id: 929
 title: 'American Teens: Stupid or Spoiled?'
 subtitle: 
 date: '2003-10-17T00:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 1115
 title: It’s Not About Trump
 subtitle: 
 date: '2019-03-27T16:00:00.000Z'

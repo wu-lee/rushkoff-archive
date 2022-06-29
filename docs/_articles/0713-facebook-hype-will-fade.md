@@ -1,5 +1,4 @@
 ---
-id: 713
 title: Facebook Hype Will Fade
 subtitle: 
 date: '2011-01-07T05:00:00.000Z'

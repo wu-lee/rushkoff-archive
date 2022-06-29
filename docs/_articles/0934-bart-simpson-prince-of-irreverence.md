@@ -1,5 +1,4 @@
 ---
-id: 934
 title: 'Bart Simpson: Prince Of Irreverence'
 subtitle: 
 date: '2004-01-01T05:00:00.000Z'

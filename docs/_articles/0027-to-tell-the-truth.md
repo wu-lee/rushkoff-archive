@@ -1,5 +1,4 @@
 ---
-id: 27
 title: To Tell the Truth
 subtitle: 
 date: '2005-06-01T04:00:00.000Z'

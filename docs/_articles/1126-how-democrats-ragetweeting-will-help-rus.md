@@ -1,5 +1,4 @@
 ---
-id: 1126
 title: How Democrats’ Rage-Tweeting Will Help Russia Weaponize the Election — Again
 subtitle: 
 date: '2020-01-29T17:00:00.000Z'

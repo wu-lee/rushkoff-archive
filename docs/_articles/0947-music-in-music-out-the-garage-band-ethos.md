@@ -1,5 +1,4 @@
 ---
-id: 947
 title: 'Music In, Music Out: The Garage Band Ethos in a Cellular World'
 subtitle: 
 date: '2005-01-26T05:00:00.000Z'

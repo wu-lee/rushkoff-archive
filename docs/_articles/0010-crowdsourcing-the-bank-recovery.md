@@ -1,5 +1,4 @@
 ---
-id: 10
 title: Crowdsourcing the Bank Recovery
 subtitle: 
 date: '2009-03-27T04:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 971
 title: Playing God
 subtitle: 
 date: '2001-12-01T05:00:00.000Z'

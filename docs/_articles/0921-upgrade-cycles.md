@@ -1,5 +1,4 @@
 ---
-id: 921
 title: Upgrade Cycles
 subtitle: 
 date: '1997-12-01T05:00:00.000Z'

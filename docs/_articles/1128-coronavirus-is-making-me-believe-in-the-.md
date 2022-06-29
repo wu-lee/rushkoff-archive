@@ -1,5 +1,4 @@
 ---
-id: 1128
 title: Coronavirus Is Making Me Believe in the Power of the Internet Again
 subtitle: 
 date: '2020-03-16T16:00:00.000Z'

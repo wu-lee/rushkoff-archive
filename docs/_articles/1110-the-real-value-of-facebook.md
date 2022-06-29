@@ -1,5 +1,4 @@
 ---
-id: 1110
 title: The Real Value of Facebook
 subtitle: 
 date: '2019-01-09T17:00:00.000Z'

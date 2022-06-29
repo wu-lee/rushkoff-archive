@@ -1,5 +1,4 @@
 ---
-id: 909
 title: The Godzilla Factor
 subtitle: 
 date: '1998-07-01T04:00:00.000Z'

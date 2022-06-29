@@ -1,5 +1,4 @@
 ---
-id: 987
 title: How Google Trained Your Brain
 subtitle: 
 date: '2009-06-03T04:00:00.000Z'

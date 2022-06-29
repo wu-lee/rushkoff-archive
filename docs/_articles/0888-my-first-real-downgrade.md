@@ -1,5 +1,4 @@
 ---
-id: 888
 title: My First Real Downgrade
 subtitle: 
 date: '1997-08-01T04:00:00.000Z'

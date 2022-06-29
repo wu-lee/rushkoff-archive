@@ -1,5 +1,4 @@
 ---
-id: 992
 title: Microsoft's Fatal Google Obsession
 subtitle: 
 date: '2009-07-14T04:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 887
 title: Monopoly
 subtitle: 
 date: '2000-02-01T05:00:00.000Z'

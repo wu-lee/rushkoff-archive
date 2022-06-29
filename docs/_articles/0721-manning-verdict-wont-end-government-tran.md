@@ -1,5 +1,4 @@
 ---
-id: 721
 title: Manning Verdict Won't End Government Transparency in a Digital Age
 subtitle: 
 date: '2013-07-30T04:00:00.000Z'

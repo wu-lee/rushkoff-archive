@@ -1,5 +1,4 @@
 ---
-id: 109
 title: Child Porn Is a Poor Basis for Net Policy
 subtitle: 
 date: '2012-06-19T04:00:00.000Z'

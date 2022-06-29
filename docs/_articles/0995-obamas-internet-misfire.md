@@ -1,5 +1,4 @@
 ---
-id: 995
 title: Obama's Internet Misfire
 subtitle: 
 date: '2009-05-29T04:00:00.000Z'

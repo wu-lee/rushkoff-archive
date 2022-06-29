@@ -1,5 +1,4 @@
 ---
-id: 1139
 title: 'No secrets, no shame: How technology forces honesty'
 subtitle: 
 date: '2016-07-18T16:00:00.000Z'

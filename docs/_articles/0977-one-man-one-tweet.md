@@ -1,5 +1,4 @@
 ---
-id: 977
 title: One Man, One Tweet
 subtitle: 
 date: '2009-06-16T04:00:00.000Z'

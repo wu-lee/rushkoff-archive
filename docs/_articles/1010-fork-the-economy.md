@@ -1,5 +1,4 @@
 ---
-id: 1010
 title: Fork the Economy
 subtitle: 
 date: '2016-01-04T05:00:00.000Z'

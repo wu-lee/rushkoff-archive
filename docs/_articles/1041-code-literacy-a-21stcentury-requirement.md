@@ -1,5 +1,4 @@
 ---
-id: 1041
 title: 'Code Literacy: A 21st-Century Requirement'
 subtitle: 
 date: '2012-11-13T05:00:00.000Z'

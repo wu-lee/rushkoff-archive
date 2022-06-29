@@ -1,5 +1,4 @@
 ---
-id: 951
 title: Rock the (Wireless) vote.com
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'

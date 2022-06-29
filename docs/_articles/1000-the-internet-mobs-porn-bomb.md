@@ -1,5 +1,4 @@
 ---
-id: 1000
 title: The Internet Mob's Porn Bomb
 subtitle: 
 date: '2010-01-10T05:00:00.000Z'

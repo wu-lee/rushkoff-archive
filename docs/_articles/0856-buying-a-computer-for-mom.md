@@ -1,5 +1,4 @@
 ---
-id: 856
 title: Buying a Computer for Mom
 subtitle: 
 date: '2000-07-01T04:00:00.000Z'

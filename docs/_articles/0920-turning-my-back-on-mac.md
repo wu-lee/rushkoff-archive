@@ -1,5 +1,4 @@
 ---
-id: 920
 title: Turning My Back on Mac
 subtitle: 
 date: '1997-05-01T04:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 729
 title: State Ban on Sex Listings Is a Dangerous Move
 subtitle: 
 date: '2012-06-07T04:00:00.000Z'

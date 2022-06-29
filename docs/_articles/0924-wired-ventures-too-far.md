@@ -1,5 +1,4 @@
 ---
-id: 924
 title: Wired Ventures Too Far
 subtitle: 
 date: '1997-02-01T05:00:00.000Z'

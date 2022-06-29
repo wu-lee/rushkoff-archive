@@ -1,5 +1,4 @@
 ---
-id: 1113
 title: Their Ridicule Means We Are Winning
 subtitle: 
 date: '2019-02-20T17:00:00.000Z'

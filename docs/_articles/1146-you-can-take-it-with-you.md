@@ -1,5 +1,4 @@
 ---
-id: "1146"
 title: You CAN Take It With You!
 subtitle: 
 date: 2003-10-26T17:00:00.000Z

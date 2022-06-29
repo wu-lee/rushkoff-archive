@@ -1,5 +1,4 @@
 ---
-id: 984
 title: Google's Better iPhone
 subtitle: 
 date: '2009-10-06T04:00:00.000Z'

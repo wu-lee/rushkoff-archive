@@ -1,5 +1,4 @@
 ---
-id: 958
 title: 'The Lollapalooza Syndrome: When Meatspace and Cellspace Are Redundant'
 subtitle: 
 date: '2003-08-26T04:00:00.000Z'

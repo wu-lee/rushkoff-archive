@@ -1,5 +1,4 @@
 ---
-id: 752
 title: Person of the Year
 subtitle: 
 date: '2007-03-16T04:00:00.000Z'

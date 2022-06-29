@@ -1,5 +1,4 @@
 ---
-id: 923
 title: Why They'll Kill Wap
 subtitle: 
 date: '2001-04-01T05:00:00.000Z'

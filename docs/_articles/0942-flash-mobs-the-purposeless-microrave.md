@@ -1,5 +1,4 @@
 ---
-id: 942
 title: 'Flash Mobs: The Purposeless Microrave'
 subtitle: 
 date: '2003-09-19T04:00:00.000Z'

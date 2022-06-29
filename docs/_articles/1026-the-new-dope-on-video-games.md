@@ -1,5 +1,4 @@
 ---
-id: 1026
 title: The New Dope On Video Games
 subtitle: 
 date: '1998-09-05T04:00:00.000Z'

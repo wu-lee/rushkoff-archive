@@ -1,5 +1,4 @@
 ---
-id: 1003
 title: Tiger's Digital Sex Trap
 subtitle: 
 date: '2010-12-02T05:00:00.000Z'

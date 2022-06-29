@@ -1,5 +1,4 @@
 ---
-id: 896
 title: Remedy Over Revenge
 subtitle: 
 date: '2001-07-01T04:00:00.000Z'

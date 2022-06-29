@@ -1,5 +1,4 @@
 ---
-id: 1124
 title: Trump Believes the Law Itself Is Corruption
 subtitle: 
 date: '2019-11-25T16:56:02.000Z'

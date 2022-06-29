@@ -1,5 +1,4 @@
 ---
-id: 726
 title: Sending Out an S.O.S. - What the Storm Taught Me About People, Power, and the
   Commons
 subtitle: 

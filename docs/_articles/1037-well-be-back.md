@@ -1,5 +1,4 @@
 ---
-id: 1037
 title: We'll Be Back
 subtitle: 
 date: '2009-08-24T04:00:00.000Z'

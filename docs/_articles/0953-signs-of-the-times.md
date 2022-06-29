@@ -1,5 +1,4 @@
 ---
-id: 953
 title: Signs of the Times
 subtitle: 
 date: '2002-07-25T04:00:00.000Z'

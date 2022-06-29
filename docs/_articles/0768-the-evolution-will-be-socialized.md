@@ -1,5 +1,4 @@
 ---
-id: 768
 title: The Evolution Will Be Socialized
 subtitle: 
 date: '2011-02-07T05:00:00.000Z'

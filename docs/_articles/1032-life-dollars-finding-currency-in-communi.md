@@ -1,5 +1,4 @@
 ---
-id: "1032"
 title: 'Life Dollars: Finding Currency In Community'
 subtitle: 
 date: 2010-09-01T04:00:00.000Z

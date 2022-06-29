@@ -1,5 +1,4 @@
 ---
-id: 990
 title: iPhone's Bad Business
 subtitle: 
 date: '2009-09-18T04:00:00.000Z'

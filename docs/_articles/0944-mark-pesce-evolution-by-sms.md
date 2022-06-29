@@ -1,5 +1,4 @@
 ---
-id: 944
 title: 'Mark Pesce: Evolution by SMS'
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'

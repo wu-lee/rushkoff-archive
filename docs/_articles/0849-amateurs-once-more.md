@@ -1,5 +1,4 @@
 ---
-id: 849
 title: Amateurs Once More
 subtitle: 
 date: '2001-06-01T04:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 1106
 title: The Epidemic of Civic Amnesia Is Spreading to Liberals
 subtitle: 
 date: '2018-11-14T17:00:00.000Z'

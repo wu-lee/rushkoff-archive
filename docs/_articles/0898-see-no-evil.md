@@ -1,5 +1,4 @@
 ---
-id: 898
 title: See No Evil
 subtitle: 
 date: '2001-01-01T05:00:00.000Z'

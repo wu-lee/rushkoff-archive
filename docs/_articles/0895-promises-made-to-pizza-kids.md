@@ -1,5 +1,4 @@
 ---
-id: 895
 title: Promises Made to Pizza Kids
 subtitle: 
 date: '2000-11-01T05:00:00.000Z'

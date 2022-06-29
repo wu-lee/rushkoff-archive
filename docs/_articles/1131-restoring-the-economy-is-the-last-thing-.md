@@ -1,5 +1,4 @@
 ---
-id: 1131
 title: Restoring the Economy Is the Last Thing We Should Want
 subtitle: 
 date: '2020-04-27T16:00:00.000Z'

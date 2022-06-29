@@ -1,5 +1,4 @@
 ---
-id: 889
 title: Napster Love
 subtitle: 
 date: '2000-05-01T04:00:00.000Z'

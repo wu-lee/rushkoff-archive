@@ -1,5 +1,4 @@
 ---
-id: 912
 title: The Mac Attack
 subtitle: 
 date: '1997-05-01T04:00:00.000Z'

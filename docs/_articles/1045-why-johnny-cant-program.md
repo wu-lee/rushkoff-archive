@@ -1,5 +1,4 @@
 ---
-id: 1045
 title: Why Johnny Can't Program
 subtitle: 
 date: '2010-09-30T04:00:00.000Z'

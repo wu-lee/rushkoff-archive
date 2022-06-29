@@ -1,5 +1,4 @@
 ---
-id: 1103
 title: Hiding America From Americans
 subtitle: 
 date: '2018-11-01T16:00:00.000Z'

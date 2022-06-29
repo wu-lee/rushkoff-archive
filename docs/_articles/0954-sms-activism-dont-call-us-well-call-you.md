@@ -1,5 +1,4 @@
 ---
-id: 954
 title: 'Sms Activism: Don''t Call Us, We''ll Call You'
 subtitle: 
 date: '2005-06-08T04:00:00.000Z'

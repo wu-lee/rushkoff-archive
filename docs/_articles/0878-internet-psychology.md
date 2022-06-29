@@ -1,5 +1,4 @@
 ---
-id: 878
 title: Internet Psychology
 subtitle: 
 date: '1997-05-01T04:00:00.000Z'

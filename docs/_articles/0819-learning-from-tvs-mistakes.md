@@ -1,5 +1,4 @@
 ---
-id: 819
 title: Learning From Tv's Mistakes
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'

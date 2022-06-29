@@ -1,5 +1,4 @@
 ---
-id: 913
 title: The Next Big Thing
 subtitle: 
 date: '2008-04-17T04:00:00.000Z'

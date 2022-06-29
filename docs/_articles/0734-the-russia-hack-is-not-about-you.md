@@ -1,5 +1,4 @@
 ---
-id: 734
 title: The Russia Hack Is Not About You
 subtitle: 
 date: '2014-08-06T04:00:00.000Z'

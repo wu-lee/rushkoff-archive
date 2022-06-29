@@ -1,5 +1,4 @@
 ---
-id: 986
 title: Google's War on the PC
 subtitle: 
 date: '2009-07-08T04:00:00.000Z'

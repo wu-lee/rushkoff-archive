@@ -1,5 +1,4 @@
 ---
-id: 1089
 title: Fork The Economy
 subtitle: 
 date: '2022-01-29T17:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 1034
 title: Rave Against The Machine
 subtitle: 
 date: '1999-11-01T05:00:00.000Z'

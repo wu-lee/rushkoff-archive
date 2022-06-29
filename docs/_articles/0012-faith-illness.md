@@ -1,5 +1,4 @@
 ---
-id: 12
 title: Faith = Illness
 subtitle: 
 date: '2006-04-30T04:00:00.000Z'

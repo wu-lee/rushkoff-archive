@@ -1,5 +1,4 @@
 ---
-id: 891
 title: One World, First World
 subtitle: 
 date: '1996-10-01T04:00:00.000Z'

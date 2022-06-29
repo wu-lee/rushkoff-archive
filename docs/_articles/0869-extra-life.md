@@ -1,5 +1,4 @@
 ---
-id: 869
 title: Extra Life
 subtitle: 
 date: '1998-10-01T04:00:00.000Z'

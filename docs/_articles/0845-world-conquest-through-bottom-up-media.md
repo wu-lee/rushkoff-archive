@@ -1,5 +1,4 @@
 ---
-id: 845
 title: World Conquest Through Bottom Up Media
 subtitle: 
 date: '2008-03-31T04:00:00.000Z'

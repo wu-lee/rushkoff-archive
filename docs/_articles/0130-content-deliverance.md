@@ -1,5 +1,4 @@
 ---
-id: 130
 title: Content Deliverance
 subtitle: 
 date: '2004-01-25T05:00:00.000Z'

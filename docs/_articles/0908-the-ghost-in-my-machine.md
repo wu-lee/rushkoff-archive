@@ -1,5 +1,4 @@
 ---
-id: 908
 title: The Ghost in My Machine
 subtitle: 
 date: '1998-09-01T04:00:00.000Z'

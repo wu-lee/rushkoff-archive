@@ -1,5 +1,4 @@
 ---
-id: 1006
 title: In Defense Of The Three-Day Work Week
 subtitle: 
 date: '2015-06-30T04:00:00.000Z'

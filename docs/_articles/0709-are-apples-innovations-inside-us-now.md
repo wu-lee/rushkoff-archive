@@ -1,5 +1,4 @@
 ---
-id: 709
 title: Are Apple's Innovations Inside Us Now?
 subtitle: 
 date: '2011-08-28T04:00:00.000Z'

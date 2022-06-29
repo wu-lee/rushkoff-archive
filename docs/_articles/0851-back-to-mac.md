@@ -1,5 +1,4 @@
 ---
-id: 851
 title: Back to Mac
 subtitle: 
 date: '1997-04-01T05:00:00.000Z'

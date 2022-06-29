@@ -1,5 +1,4 @@
 ---
-id: 1142
 title: Donald Trump works the Internet better than you do (whether he knows it or
   not)
 subtitle: 

@@ -1,5 +1,4 @@
 ---
-id: 940
 title: Evolution as a Team Sport
 subtitle: 
 date: '2005-02-01T05:00:00.000Z'

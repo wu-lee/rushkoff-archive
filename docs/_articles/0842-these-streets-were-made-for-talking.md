@@ -1,5 +1,4 @@
 ---
-id: 842
 title: These Streets Were Made for Talking
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'

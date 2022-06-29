@@ -1,5 +1,4 @@
 ---
-id: "1047"
 title: Why Mark Zuckerberg thinks a President Elizabeth Warren would 'suck'
 subtitle: 
 date: 2019-10-01T13:27:00.000Z

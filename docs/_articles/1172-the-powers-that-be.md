@@ -1,5 +1,4 @@
 ---
-id: 1172
 title: The Powers That Be
 subtitle: 
 date: '2004-07-13T16:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 989
 title: How Iran's Hackers Killed Big Brother
 subtitle: 
 date: '2009-06-16T04:00:00.000Z'

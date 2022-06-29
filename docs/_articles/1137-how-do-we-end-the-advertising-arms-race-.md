@@ -1,5 +1,4 @@
 ---
-id: 1137
 title: How do we end the advertising arms race? Start thinking like humans
 subtitle: 
 date: '2016-11-12T17:00:00.000Z'

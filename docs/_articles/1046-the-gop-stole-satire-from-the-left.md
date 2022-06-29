@@ -1,5 +1,4 @@
 ---
-id: "1046"
 title: The GOP Stole Satire From the Left
 subtitle: 
 date: 2020-09-16T16:00:00.000Z

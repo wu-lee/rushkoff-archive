@@ -1,5 +1,4 @@
 ---
-id: 881
 title: Judge Drudge
 subtitle: 
 date: '1998-03-01T05:00:00.000Z'

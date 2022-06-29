@@ -1,5 +1,4 @@
 ---
-id: 26
 title: Their War
 subtitle: 
 date: '2006-05-21T04:00:00.000Z'

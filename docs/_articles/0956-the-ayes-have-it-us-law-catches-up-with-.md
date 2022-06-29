@@ -1,5 +1,4 @@
 ---
-id: 956
 title: 'The Ayes Have It: Us Law Catches Up With Camera Phones'
 subtitle: 
 date: '2004-05-13T04:00:00.000Z'

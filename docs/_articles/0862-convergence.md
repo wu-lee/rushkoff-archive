@@ -1,5 +1,4 @@
 ---
-id: 862
 title: Convergence
 subtitle: 
 date: '1996-12-01T05:00:00.000Z'

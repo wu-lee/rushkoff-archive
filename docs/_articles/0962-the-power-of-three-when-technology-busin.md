@@ -1,5 +1,4 @@
 ---
-id: "962"
 title: 'The Power of Three: When Technology, Business, and Marketing Converge - Part
   III'
 subtitle: 

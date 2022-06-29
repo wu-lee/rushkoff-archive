@@ -1,5 +1,4 @@
 ---
-id: 900
 title: Teachers vs Machines
 subtitle: 
 date: '1996-12-01T05:00:00.000Z'

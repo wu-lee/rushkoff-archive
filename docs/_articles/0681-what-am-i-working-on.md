@@ -1,5 +1,4 @@
 ---
-id: 681
 title: What Am I Working On?
 subtitle: 
 date: '2003-11-06T05:00:00.000Z'

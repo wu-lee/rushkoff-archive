@@ -1,5 +1,4 @@
 ---
-id: 927
 title: They Called Me Cyberboy
 subtitle: 
 date: '2009-04-12T04:00:00.000Z'

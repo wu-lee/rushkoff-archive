@@ -1,5 +1,4 @@
 ---
-id: 968
 title: What's Next
 subtitle: 
 date: '2006-01-01T05:00:00.000Z'

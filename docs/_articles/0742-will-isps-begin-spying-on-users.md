@@ -1,5 +1,4 @@
 ---
-id: 742
 title: Will ISPs Begin Spying on Users?
 subtitle: 
 date: '2012-07-06T04:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 6
 title: Be Your Own Guru
 subtitle: 
 date: '2005-08-01T04:00:00.000Z'

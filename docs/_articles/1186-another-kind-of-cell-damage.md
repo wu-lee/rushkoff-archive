@@ -1,5 +1,4 @@
 ---
-id: 1186
 title: Another Kind of Cell Damage
 subtitle: 
 date: '2005-04-13T16:00:00.000Z'

@@ -1,5 +1,4 @@
 ---
-id: 982
 title: Facebook's Fatal Error
 subtitle: 
 date: '2009-06-10T04:00:00.000Z'
