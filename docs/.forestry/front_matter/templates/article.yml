@@ -42,12 +42,6 @@ fields:
 - type: text
   name: img
   label: img
-- type: datetime
-  name: created_at
-  label: created_at
-- type: datetime
-  name: updated_at
-  label: updated_at
 pages:
 - docs/_articles/beyond-the-am.md
 - docs/_articles/douglas-rushkoff-on-genesis-breyer-p-orridge-1950-2020.md
