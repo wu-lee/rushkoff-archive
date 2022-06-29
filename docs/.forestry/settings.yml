@@ -12,11 +12,15 @@ sections:
   label: Articles
   create: all
   match: "**/*.md"
+  templates:
+  - article
 - type: directory
   path: docs/_publications
   label: Publications
   create: all
   match: "**/*.md"
+  templates:
+  - publication
 upload_dir: docs/uploads
 public_path: "/uploads"
 front_matter_path: ''
