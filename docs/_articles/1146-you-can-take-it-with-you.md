@@ -1,20 +1,20 @@
 ---
-id: 1146
-title: You CAN Take it With You!
+id: "1146"
+title: You CAN Take It With You!
 subtitle: 
-date: '2003-10-26T17:00:00.000Z'
-publication: nokias_the_feature
+date: 2003-10-26T17:00:00.000Z
+publication: feature
 blurb: 
 notes: 
 refs: 
 sources: 
-published: false
 img: 
 slug: 1146-you-can-take-it-with-you
-created_at: '2021-09-30T17:39:11.000Z'
-updated_at: '2021-09-30T17:39:11.000Z'
----
+created_at: 2021-09-30T17:39:11.000Z
+updated_at: 2021-09-30T17:39:11.000Z
+published: false
 
+---
 Number portability is finally set to arrive in the United States. Providers are bracing themselves for the biggest change in their industry since ‘mobile’ meant car phone.
 
 After years of resistance, America’s wireless providers are finally succumbing to a government mandate that they grant their customers ‘number portability’ – the ability to take their cell phone numbers with them when they change to a different carrier.
@@ -36,4 +36,3 @@ My guess is that the best rates and deals will only surface after portability is
 In any case, there are hundreds of thousands of American customers who are right now signing new, extraordinarily restrictive deals with their existing carriers in return for a few free weekend hours or a new phone. Soon enough, advertising campaigns set to run before Christmas by carriers who hope to publicize and take advantage of number portability will make it painfully clear to these poor folks that they’ve been had.
 
 They may just be just miffed enough to take their, business – and their numbers – to the lowest bidder, for spite.
-
