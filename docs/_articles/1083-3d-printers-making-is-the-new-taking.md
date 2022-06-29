@@ -1,15 +1,15 @@
 ---
 id: 1083
 title: '3D Printers: Making is the New Taking'
-subtitle: 
-date: '2013-12-01T17:00:00.000Z'
+subtitle: ''
+date: 2013-12-01T17:00:00.000Z
 publication: _publications/hemispheres_magazine.md
-blurb: 
-notes: 
-refs: 
-sources: 
-published: true
-img: 
+blurb: ''
+notes: ''
+refs: ''
+sources: ''
+img: ''
+
 ---
 Back in December 1972, my dad surprised the family with a strangely prescient holiday gift: an Odyssey, the first-ever home video game console. At the time it was a nerdy novelty - this was even before Pong, mind you - but it was the harbinger of seismic shift in entertainment. Then, five years later, dad’s were coming home with Radio Shack’s TRS 80, one of the first retail home computers, and another glimpse into the future. 
 
@@ -41,5 +41,4 @@ For the time being, that’s the most likely bottleneck for the 3D printing revo
 
 Indeed, the ultimate irony of digital media’s extension to objects in the physical world is that it might reacquaint us with the fact that the only thing that’s truly scarce is the matter of creation itself. And we humans aren’t the ones who fabricated that. 
 
-Happy holidays. 	
-
+Happy holidays.
