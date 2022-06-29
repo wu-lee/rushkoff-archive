@@ -3,7 +3,7 @@ id: 18
 title: No Money Down
 subtitle: 
 date: '2008-05-01T04:00:00.000Z'
-publication: arthur
+publication: _publications/arthur.md
 blurb: Rushkoff on the rigged credit system*from Arthur Magazine No. 31, Oct 2008*
 notes: 
 refs: 

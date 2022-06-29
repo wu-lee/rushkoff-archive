@@ -3,7 +3,7 @@ id:
 title: Who's the Rat?
 subtitle: ''
 date: 2003-09-01T00:00:00.000-04:00
-publication: eme-explorations-in-media-ecology
+publication: _publications/eme-explorations-in-media-ecology.md
 blurb: ''
 notes: Pasted from https://www.rushkoff.com/wp-content/uploads/2015/12/Whos-the-Rat-2.pdf
   , edited for formatting

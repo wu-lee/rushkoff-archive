@@ -3,7 +3,7 @@ id: 873
 title: Free Inside
 subtitle: 
 date: '1999-09-01T04:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Novelty versus commodity
 notes: 
 refs: 

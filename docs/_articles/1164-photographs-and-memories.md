@@ -3,7 +3,7 @@ id: 1164
 title: Photographs and Memories
 subtitle: 
 date: '2004-04-06T16:00:00.000Z'
-publication: feature
+publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 

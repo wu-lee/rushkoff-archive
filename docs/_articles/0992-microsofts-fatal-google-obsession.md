@@ -3,7 +3,7 @@ id: 992
 title: Microsoft's Fatal Google Obsession
 subtitle: 
 date: '2009-07-14T04:00:00.000Z'
-publication: daily_beast
+publication: _publications/daily_beast.md
 blurb: In announcing this week that it will be releasing a free, online version of
   its popular Office suite in 2010, Microsoft did something good for customers—especially
   those of us who want to work with all those Microsoft files favored by our employers

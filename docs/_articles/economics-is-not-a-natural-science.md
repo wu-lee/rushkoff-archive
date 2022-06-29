@@ -3,7 +3,7 @@ id:
 title: Economics is Not a Natural Science
 subtitle: ''
 date: 2009-08-11T00:00:00.000-04:00
-publication: the-edge
+publication: _publications/the-edge.md
 blurb: We must stop perpetuating the fiction that existence itself is dictated by
   the immutable laws of economics. These so-called laws are, in actuality, the economic
   mechanisms of 13th Century monarchs. Some of us analyzing digital culture and its

@@ -3,7 +3,7 @@ id: "1050"
 title: I ditched Facebook in 2013, and it's been fine
 subtitle: 
 date: 2018-03-21T22:30:00.000Z
-publication: cnn
+publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 

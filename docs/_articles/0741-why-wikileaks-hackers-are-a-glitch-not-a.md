@@ -3,7 +3,7 @@ id: 741
 title: Why Wikileaks Hackers Are a Glitch, Not a Cyberwar
 subtitle: 
 date: '2010-12-10T00:00:00.000Z'
-publication: cnn
+publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 

@@ -3,7 +3,7 @@ id: "728"
 title: Should We Trust Twitter?
 subtitle: 
 date: 2013-09-03 00:00:00 -0400
-publication: cnn
+publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: '[{"text"=>"banned a user for openly criticizing NBC''s coverage", "original"=>"http://www.cnn.com/2012/07/31/tech/social-media/nbc-critic-twitter-reinstated/index.html",

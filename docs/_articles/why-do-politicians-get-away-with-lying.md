@@ -2,7 +2,7 @@
 title: Why do politicians get away with lying?
 subtitle: How the Internet enables outlandish claims
 date: 2015-12-01 00:00:00 -0500
-publication: cnn
+publication: _publications/cnn.md
 blurb: 'Editor’s Note: In this election season, we’ve seen a lot of fibbing by politicians.
   Are presidential candidates who persist in saying untrue things enabled by the Internet
   or the 24/7 media? Or have lies always been a part of politics, even in the early

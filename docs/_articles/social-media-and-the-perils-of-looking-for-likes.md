@@ -2,7 +2,7 @@
 title: Social Media and the Perils of Looking for Likes
 subtitle: ''
 date: 2014-02-19 00:00:00 -0500
-publication: cnn
+publication: _publications/cnn.md
 blurb: ''
 notes: Pasted from https://rushkoff.com/social-media-and-the-perils-of-looking-for-likes/
   . Date from CV.

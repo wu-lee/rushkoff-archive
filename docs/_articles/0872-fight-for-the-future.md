@@ -3,7 +3,7 @@ id: 872
 title: Fight for the Future
 subtitle: 
 date: '1998-08-01T04:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The X-Files movie and Windows 98.
 notes: 
 refs: 

@@ -3,7 +3,7 @@ id: 957
 title: The Facial
 subtitle: 
 date: '2009-04-12T04:00:00.000Z'
-publication: uncategorized
+publication: _publications/uncategorized.md
 blurb: 'I''m not talking about the latest place in Soho to get mud pack treatments,
   but a new preferred climax strategy for young men raised on porn videos. That''s
   right: coitus interuptus, once considered a particularly frustrating form of birth

@@ -3,7 +3,7 @@ id: 11
 title: Douglas Rushkoff and Genesis P-Orridge Conversation
 subtitle: 
 date: '2003-01-01T05:00:00.000Z'
-publication: arthur
+publication: _publications/arthur.md
 blurb: "*As originally published in [Arthur No. 2 (Jan 2003)](http://store.arthurmag.com/product/arthur-issue-2),
   with accompanying photography by Shawn Mortensen…*"
 notes: 

@@ -3,7 +3,7 @@ id: 860
 title: Conforming to the Machine
 subtitle: 
 date: '2000-12-01T05:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: How to bring machines to people, rather than the other way around.
 notes: 
 refs: 

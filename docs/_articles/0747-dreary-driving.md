@@ -3,7 +3,7 @@ id: 747
 title: Dreary Driving
 subtitle: 
 date: '2007-04-03T04:00:00.000Z'
-publication: discover
+publication: _publications/discover.md
 blurb: 
 notes: 
 refs: 

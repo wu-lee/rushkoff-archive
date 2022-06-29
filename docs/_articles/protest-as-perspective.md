@@ -3,7 +3,7 @@ id:
 title: Protest as Perspective
 subtitle: Do We Want a Revolution or a Renaissance?
 date: 2002-01-01T00:00:00.000-05:00
-publication: journal-of-cognitive-liberties
+publication: _publications/journal-of-cognitive-liberties.md
 blurb: ''
 notes: 2002. Pasted from https://www.cognitiveliberty.org/ccle1/9jcl/Rushkoff_protest.html
 refs: ''

@@ -3,7 +3,7 @@ id: 26
 title: Their War
 subtitle: 
 date: '2006-05-21T04:00:00.000Z'
-publication: arthur
+publication: _publications/arthur.md
 blurb: Actions can trickle up much more effectively than rhetoric trickles down, because
   actions have reality on their side.
 notes: 

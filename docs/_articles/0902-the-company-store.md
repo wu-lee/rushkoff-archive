@@ -3,7 +3,7 @@ id: 902
 title: The Company Store
 subtitle: 
 date: '2008-05-09T04:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: January 1998
 notes: 
 refs: 

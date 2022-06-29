@@ -3,7 +3,7 @@ id: 770
 title: The Pursuit of Cool
 subtitle: 
 date: '2008-10-28T00:00:00.000Z'
-publication: sportswear_international
+publication: _publications/sportswear_international.md
 blurb: Introduction to Anti-Hyper-Consumerism
 notes: 
 refs: 

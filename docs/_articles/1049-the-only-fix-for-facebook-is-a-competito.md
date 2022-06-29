@@ -3,7 +3,7 @@ id: "1049"
 title: The only fix for Facebook is a competitor that puts users first
 subtitle: 
 date: 2018-04-11T07:57:00.000Z
-publication: cnn
+publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 

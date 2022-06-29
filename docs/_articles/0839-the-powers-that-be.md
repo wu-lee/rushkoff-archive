@@ -3,7 +3,7 @@ id: 839
 title: The Powers That Be
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: nokias_the_feature
+publication: _publications/nokias_the_feature.md
 blurb: The wireless industry's biggest problem could become the world's biggest solution.
 notes: 
 refs: '[{"text"=>"Moore''s Law", "original"=>"http://www.intel.com/research/silicon/mooreslaw.htm",

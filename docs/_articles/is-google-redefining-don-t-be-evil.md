@@ -2,7 +2,7 @@
 title: Is Google Redefining ‘Don’t Be Evil’?
 subtitle: ''
 date: 2013-12-19 00:00:00 -0500
-publication: cnn
+publication: _publications/cnn.md
 blurb: ''
 notes: Pasted from https://www.cnn.com/2013/12/19/opinion/rushkoff-google-robotics/index.html
   , edited for formatting

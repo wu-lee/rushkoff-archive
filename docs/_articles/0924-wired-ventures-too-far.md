@@ -3,7 +3,7 @@ id: 924
 title: Wired Ventures Too Far
 subtitle: 
 date: '1997-02-01T05:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The humbling of Wired Magazine, and why we should welcome them back into the
   real world
 notes: 

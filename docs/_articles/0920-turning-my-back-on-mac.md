@@ -3,7 +3,7 @@ id: 920
 title: Turning My Back on Mac
 subtitle: 
 date: '1997-05-01T04:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The day I sold my mac...
 notes: 
 refs: 

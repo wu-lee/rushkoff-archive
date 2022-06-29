@@ -3,7 +3,7 @@ id: 1084
 title: Digitally Literate CEOs
 subtitle: 
 date: '2014-01-01T17:00:00.000Z'
-publication: hemispheres_magazine
+publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 

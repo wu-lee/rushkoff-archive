@@ -3,7 +3,7 @@ id: 971
 title: Playing God
 subtitle: 
 date: '2001-12-01T05:00:00.000Z'
-publication: yahoo_internet_life
+publication: _publications/yahoo_internet_life.md
 blurb: The Net and Fundamentalism
 notes: 
 refs: 

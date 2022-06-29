@@ -3,7 +3,7 @@ id: 1108
 title: Why ‘Nation’ Is the Word of the Year
 subtitle: 
 date: '2018-12-11T17:00:00.000Z'
-publication: medium
+publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 

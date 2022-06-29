@@ -3,7 +3,7 @@ id: 1097
 title: The Trump Cult?
 subtitle: 
 date: '2018-08-17T16:00:00.000Z'
-publication: medium
+publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 

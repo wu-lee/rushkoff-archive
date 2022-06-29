@@ -3,7 +3,7 @@ id: 1051
 title: Trump as job creator -- hope or hoax?
 subtitle: 
 date: '2017-01-18T17:00:00.000Z'
-publication: cnn
+publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 

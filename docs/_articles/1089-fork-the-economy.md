@@ -3,7 +3,7 @@ id: 1089
 title: Fork The Economy
 subtitle: 
 date: '2022-01-29T17:00:00.000Z'
-publication: medium
+publication: _publications/medium.md
 blurb: This is the subhead thing
 notes: 
 refs: 

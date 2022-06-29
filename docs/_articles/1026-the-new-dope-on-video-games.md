@@ -3,7 +3,7 @@ id: 1026
 title: The New Dope On Video Games
 subtitle: 
 date: '1998-09-05T04:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: 
 notes: 
 refs: 

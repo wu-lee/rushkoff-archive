@@ -3,7 +3,7 @@ id: 715
 title: Google Sees No Evil
 subtitle: 
 date: '2013-12-19T00:00:00.000Z'
-publication: cnn
+publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: '[{"text"=>"Boston Dynamics", "original"=>"http://money.cnn.com/2013/12/16/technology/google-boston-dynamics-robots/",

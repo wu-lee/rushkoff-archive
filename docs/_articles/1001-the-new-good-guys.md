@@ -3,7 +3,7 @@ id: 1001
 title: The New Good Guys
 subtitle: 
 date: '2009-11-23T00:00:00.000Z'
-publication: daily_beast
+publication: _publications/daily_beast.md
 blurb: 'Discussions between Microsoft and Rupert Murdoch''s News Corp. for a structure
   where the former''s search engine (Bing) would pay for exclusive rights to the latter’s
   content (Wall Street Journal, Fox, etc.) has proven instantly upsetting to the self-appointed

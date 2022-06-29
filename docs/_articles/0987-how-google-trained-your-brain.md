@@ -3,7 +3,7 @@ id: 987
 title: How Google Trained Your Brain
 subtitle: 
 date: '2009-06-03T04:00:00.000Z'
-publication: daily_beast
+publication: _publications/daily_beast.md
 blurb: In a few ways—just a few, but real enough—Bing represents more than Microsoft's
   ability to purchase a memorable but (necessarily) meaningless one-syllable name
   for the latest version of its search-engine competitor to Google. Bing is a genuinely

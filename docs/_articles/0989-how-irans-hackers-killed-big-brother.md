@@ -3,7 +3,7 @@ id: 989
 title: How Iran's Hackers Killed Big Brother
 subtitle: 
 date: '2009-06-16T04:00:00.000Z'
-publication: daily_beast
+publication: _publications/daily_beast.md
 blurb: Perhaps the best indication for Americans that something important is going
   on in Iran right now is the fact that Twitter has delayed a scheduled downtime for
   maintenance in order for Iranians and others involved in the post-election digital

@@ -3,7 +3,7 @@ id: 895
 title: Promises Made to Pizza Kids
 subtitle: 
 date: '2000-11-01T05:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Don't blame idealistic hackers for your own failed business plans.
 notes: 
 refs: 

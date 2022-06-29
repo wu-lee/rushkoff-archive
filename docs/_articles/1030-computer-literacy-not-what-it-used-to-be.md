@@ -3,7 +3,7 @@ id: 1030
 title: Computer Literacy Not What It Used To Be
 subtitle: 
 date: '1998-10-24T04:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: 
 notes: 
 refs: 

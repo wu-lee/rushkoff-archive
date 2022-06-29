@@ -3,7 +3,7 @@ id: 739
 title: Why I Am Learning to Code and You Should, Too
 subtitle: 
 date: '2012-01-16T05:00:00.000Z'
-publication: cnn
+publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: '[{"text"=>"Codecademy", "original"=>"http://www.codecademy.com/#!/exercises/0",

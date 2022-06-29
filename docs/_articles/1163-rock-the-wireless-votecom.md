@@ -3,7 +3,7 @@ id: 1163
 title: Rock the (Wireless) Vote.com
 subtitle: 
 date: '2004-03-22T17:00:00.000Z'
-publication: feature
+publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 

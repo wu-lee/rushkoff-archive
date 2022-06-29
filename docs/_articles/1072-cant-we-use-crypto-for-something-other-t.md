@@ -3,7 +3,7 @@ id: 1072
 title: Can’t We Use Crypto for Something Other Than Capitalism?
 subtitle: 
 date: '2021-08-20T16:00:00.000Z'
-publication: medium
+publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 

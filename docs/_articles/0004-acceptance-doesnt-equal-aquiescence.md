@@ -3,7 +3,7 @@ id: 4
 title: Acceptance (Doesn't Equal) Aquiescence
 subtitle: 
 date: '2006-10-01T04:00:00.000Z'
-publication: arthur
+publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 

@@ -2,7 +2,7 @@
 title: Was Government Hack Our Final Warning?
 subtitle: ''
 date: 2015-06-09 00:00:00 -0400
-publication: cnn
+publication: _publications/cnn.md
 blurb: ''
 notes: Pasted from https://rushkoff.com/cnn-was-government-hack-our-final-warning/
   . Date from CV.

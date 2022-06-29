@@ -3,7 +3,7 @@ id: 917
 title: To Have or Have Not
 subtitle: 
 date: '1997-08-01T04:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: What the Increase in Public Accessibility Means
 notes: 
 refs: 

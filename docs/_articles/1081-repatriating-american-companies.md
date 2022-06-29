@@ -3,7 +3,7 @@ id: 1081
 title: Repatriating American Companies
 subtitle: 
 date: '2014-02-01T17:00:00.000Z'
-publication: hemispheres_magazine
+publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 

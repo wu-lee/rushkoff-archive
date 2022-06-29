@@ -3,7 +3,7 @@ id: 733
 title: The New Whistleblowers
 subtitle: 
 date: '2012-03-24T04:00:00.000Z'
-publication: cnn
+publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 

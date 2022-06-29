@@ -3,7 +3,7 @@ id:
 title: Beyond the Am
 subtitle: A Different Perspective on Peoplehood
 date: 2008-03-01T00:00:00.000-05:00
-publication: contact
+publication: _publications/contact.md
 blurb: We have internalized the faulty, racist arguments of the peoples whose provincial
   gods and beliefs we refused to accept — and, in the process, accepted a similarly
   provincial, racebased and limited view of the Jewish project.

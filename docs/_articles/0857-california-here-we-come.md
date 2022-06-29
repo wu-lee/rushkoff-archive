@@ -3,7 +3,7 @@ id: 857
 title: California Here We Come
 subtitle: 
 date: '2008-04-17T04:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: March 1999
 notes: 
 refs: 

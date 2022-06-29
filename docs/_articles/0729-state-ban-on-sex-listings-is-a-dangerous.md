@@ -3,7 +3,7 @@ id: 729
 title: State Ban on Sex Listings Is a Dangerous Move
 subtitle: 
 date: '2012-06-07T04:00:00.000Z'
-publication: cnn
+publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: '[{"text"=>"and attorneys general,", "original"=>"http://kuow.org/program.php?id=26973",

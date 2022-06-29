@@ -3,7 +3,7 @@ id: 731
 title: The IPO That Swallowed Facebook
 subtitle: 
 date: '2012-05-15T04:00:00.000Z'
-publication: cnn
+publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 

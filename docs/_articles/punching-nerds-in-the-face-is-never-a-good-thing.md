@@ -2,7 +2,7 @@
 title: Punching Nerds in the Face is Never a Good Thing
 subtitle: ''
 date: 2014-05-17 00:00:00 -0400
-publication: cnn
+publication: _publications/cnn.md
 blurb: ''
 notes: Pasted from https://rushkoff.com/punching-nerds-in-the-face-is-never-a-good-thing/
   . Date from CV.

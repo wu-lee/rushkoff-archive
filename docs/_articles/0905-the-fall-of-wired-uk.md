@@ -3,7 +3,7 @@ id: 905
 title: The Fall of Wired UK
 subtitle: 
 date: '1997-02-01T05:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Why Wired UK Never Really Existed
 notes: 
 refs: 

@@ -3,7 +3,7 @@ id: 1134
 title: The Privileged Have Entered Their Escape Pods
 subtitle: 
 date: '2020-09-01T16:00:00.000Z'
-publication: medium
+publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 

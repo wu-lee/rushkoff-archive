@@ -3,7 +3,7 @@ id: 942
 title: 'Flash Mobs: The Purposeless Microrave'
 subtitle: 
 date: '2003-09-19T04:00:00.000Z'
-publication: nokias_the_feature
+publication: _publications/nokias_the_feature.md
 blurb: I surrender to the media hype. Here's what I think about Flash Mobs, writing
   about Flash Mobs, and writing about writing about Flash Mobs.
 notes: 

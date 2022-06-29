@@ -3,7 +3,7 @@ id: 1182
 title: 'Music In, Music Out: The Garage Band Ethos in a Cellular World'
 subtitle: 
 date: '2005-01-26T17:00:00.000Z'
-publication: feature
+publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 

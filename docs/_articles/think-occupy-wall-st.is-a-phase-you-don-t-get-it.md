@@ -2,7 +2,7 @@
 title: Think Occupy Wall St. Is a Phase? You Don’t Get It
 subtitle: ''
 date: 2011-10-05 00:00:00 -0400
-publication: cnn
+publication: _publications/cnn.md
 blurb: ''
 notes: Pasted from https://www.cnn.com/2011/10/05/opinion/rushkoff-occupy-wall-street/index.html
   , edited for formatting

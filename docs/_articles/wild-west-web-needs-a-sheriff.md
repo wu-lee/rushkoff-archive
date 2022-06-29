@@ -2,7 +2,7 @@
 title: Wild West Web Needs a Sheriff
 subtitle: ''
 date: 2014-01-16 00:00:00 -0500
-publication: cnn
+publication: _publications/cnn.md
 blurb: ''
 notes: Pasted from https://rushkoff.com/wild-west-web-needs-a-sheriff/ . Date from
   CV.

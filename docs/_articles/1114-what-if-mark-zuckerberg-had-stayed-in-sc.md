@@ -3,7 +3,7 @@ id: 1114
 title: What If Mark Zuckerberg Had Stayed in School?
 subtitle: 
 date: '2019-03-21T16:00:00.000Z'
-publication: medium
+publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 

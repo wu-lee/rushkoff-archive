@@ -3,7 +3,7 @@ id: 1079
 title: Pivoting Inward
 subtitle: 
 date: '2015-04-01T16:00:00.000Z'
-publication: hemispheres_magazine
+publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 

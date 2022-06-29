@@ -3,7 +3,7 @@ id: 766
 title: Last Day of Work
 subtitle: 
 date: '2011-03-21T04:00:00.000Z'
-publication: shareable
+publication: _publications/shareable.md
 blurb: 
 notes: 
 refs: '[{"text"=>"Douglas Rushkoff", "original"=>"http://rushkoff.com/", "archive"=>"http://web.archive.org/web/20200718072221/https://rushkoff.com/"},

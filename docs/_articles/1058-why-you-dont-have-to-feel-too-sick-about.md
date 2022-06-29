@@ -3,7 +3,7 @@ id: "1058"
 title: Why You Don’t Have to Feel Too Sick About What Happened Last Night
 subtitle: 
 date: 2020-09-30T16:00:00.000Z
-publication: medium
+publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 

@@ -2,7 +2,7 @@
 title: Self-Actualization and the Myth of Personal Growth
 subtitle: How the counterculture surrendered communal well-being to individual enlightenment
 date: 2021-02-11 00:00:00 -0500
-publication: medium
+publication: _publications/medium.md
 blurb: ''
 notes: Pasted from https://medium.com/team-human/self-actualization-and-the-myth-of-personal-growth-67c12e5310f3
 refs: ''

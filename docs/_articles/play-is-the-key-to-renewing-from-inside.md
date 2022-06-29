@@ -3,7 +3,7 @@ id:
 title: Play is the Key to Renewing From Inside
 subtitle: ''
 date: 2008-01-01T00:00:00.000-05:00
-publication: develop
+publication: _publications/develop.md
 blurb: ''
 notes: Pasted from https://www.kessels-smit.com/files/Douglas_Rushkoff_-_Develop_2-2008.pdf
   , edited for formatting

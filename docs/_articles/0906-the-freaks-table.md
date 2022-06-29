@@ -3,7 +3,7 @@ id: 906
 title: The Freak's Table
 subtitle: 
 date: '2001-01-01T05:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Now that the Internet isn't about dot.com, look who's come out of the woodwork!
 notes: 
 refs: 

@@ -3,7 +3,7 @@ id: "1033"
 title: We Interrupt This Program
 subtitle: 
 date: 2011-02-01T05:00:00.000Z
-publication: school_library_journal
+publication: _publications/school_library_journal.md
 blurb: 
 notes: 
 refs: 

@@ -3,7 +3,7 @@ id: 29
 title: Willing Dupes
 subtitle: 
 date: '2008-05-01T04:00:00.000Z'
-publication: arthur
+publication: _publications/arthur.md
 blurb: "*from [Arthur Magazine No. 29/May 2008](http://www.arthurmag.com/store/index.php?ID=36)*\\n"
 notes: 
 refs: 

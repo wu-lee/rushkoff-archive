@@ -3,7 +3,7 @@ id: 714
 title: Facebook's IPO - Zuckerberg Faces Reality
 subtitle: 
 date: '2012-02-02T05:00:00.000Z'
-publication: cnn
+publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 

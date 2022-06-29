@@ -3,7 +3,7 @@ id: 853
 title: Banner This
 subtitle: 
 date: '2008-05-09T04:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: October 1997
 notes: 
 refs: 

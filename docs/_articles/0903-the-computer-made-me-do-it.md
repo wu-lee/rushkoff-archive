@@ -3,7 +3,7 @@ id: 903
 title: The Computer Made Me Do It
 subtitle: 
 date: '1999-06-01T04:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Media-Bashing in America
 notes: 
 refs: 

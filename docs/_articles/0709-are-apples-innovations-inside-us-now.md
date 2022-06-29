@@ -3,7 +3,7 @@ id: 709
 title: Are Apple's Innovations Inside Us Now?
 subtitle: 
 date: '2011-08-28T04:00:00.000Z'
-publication: cnn
+publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: '[{"text"=>"pull eight of its products off the shelf,", "original"=>"http://money.cnn.com/2012/08/27/technology/apple-samsung/index.html"}]'

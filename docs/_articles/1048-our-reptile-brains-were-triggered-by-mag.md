@@ -3,7 +3,7 @@ id: 1048
 title: Our reptile brains were triggered by MAGA hat video
 subtitle: 
 date: '2019-01-22T13:51:00.000Z'
-publication: cnn
+publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 

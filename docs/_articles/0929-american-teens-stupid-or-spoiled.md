@@ -3,7 +3,7 @@ id: 929
 title: 'American Teens: Stupid or Spoiled?'
 subtitle: 
 date: '2003-10-17T00:00:00.000Z'
-publication: nokias_the_feature
+publication: _publications/nokias_the_feature.md
 blurb: America's teen market may prove difficult for snazzy handset manufacturers
   to penetrate. But the real reasons for upgrade reluctance might surprise them.
 notes: 

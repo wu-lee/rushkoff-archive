@@ -3,7 +3,7 @@ id: 721
 title: Manning Verdict Won't End Government Transparency in a Digital Age
 subtitle: 
 date: '2013-07-30T04:00:00.000Z'
-publication: cnn
+publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: '[{"text"=>"235th anniversary", "original"=>"http://dissenter.firedoglake.com/2013/07/29/bradley-manning-to-be-convicted-on-a-day-of-significance-in-whistleblower-history/",

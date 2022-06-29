@@ -3,7 +3,7 @@ id: 984
 title: Google's Better iPhone
 subtitle: 
 date: '2009-10-06T04:00:00.000Z'
-publication: daily_beast
+publication: _publications/daily_beast.md
 blurb: I feel a large dose of schadenfreude whenever iPhone users get dropped in the
   middle of their calls with me. Somehow, the failings of the overtaxed AT&T network
   (through which all iPhones must connect) make me feel better about staying with

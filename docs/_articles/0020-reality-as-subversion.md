@@ -3,7 +3,7 @@ id: 20
 title: Reality as Subversion
 subtitle: 
 date: '2005-06-01T04:00:00.000Z'
-publication: arthur
+publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 

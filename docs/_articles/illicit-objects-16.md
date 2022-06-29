@@ -2,7 +2,7 @@
 title: Illicit Objects (16)
 subtitle: Leary's Stash Box
 date: 2017-08-20 00:00:00 -0400
-publication: hilobrow
+publication: _publications/hilobrow.md
 blurb: ''
 notes: Pasted from https://www.hilobrow.com/2017/08/20/illicit-objects-16/
 refs: ''

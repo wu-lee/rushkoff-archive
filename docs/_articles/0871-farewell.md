@@ -3,7 +3,7 @@ id: 871
 title: Farewell
 subtitle: 
 date: '2001-08-01T04:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Cyberculture is More than a Story
 notes: 
 refs: 

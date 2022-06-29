@@ -3,7 +3,7 @@ id: 1040
 title: Rebooting Work
 subtitle: 
 date: '2016-02-01T05:00:00.000Z'
-publication: geographical
+publication: _publications/geographical.md
 blurb: 
 notes: 
 refs: 

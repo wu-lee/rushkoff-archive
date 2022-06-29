@@ -3,7 +3,7 @@ id:
 title: The Media Virus, My Problem Child
 subtitle: ''
 date: 2018-09-01T00:00:00.000-04:00
-publication: mcsweeneys
+publication: _publications/timothy-mcsweeney-s-quarterly-concern.md
 blurb: ''
 notes: Fall 2018 (per Wikipedia). Text pasted from https://www.eff.org/files/2019/02/22/end_of_trust_interior_pages_lores.pdf
   and edited for formatting.

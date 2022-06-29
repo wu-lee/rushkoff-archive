@@ -2,7 +2,7 @@
 title: The Movie of Your Own Life Does Not Suck
 subtitle: A conversation with Bo Burnham, America’s new favorite comedian
 date: 2018-08-01 00:00:00 -0400
-publication: medium
+publication: _publications/medium.md
 blurb: The performed version of yourself is not necessarily false. I do think who
   you hope to be can be a more vulnerable truth than who you are afraid you may be.
 notes: Pasted from https://rushkoff.medium.com/the-movie-of-your-own-life-does-not-suck-a-conversation-with-bo-burnham-96983736f566

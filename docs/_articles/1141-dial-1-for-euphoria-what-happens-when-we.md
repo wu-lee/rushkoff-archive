@@ -3,7 +3,7 @@ id: 1141
 title: 'Dial 1 for euphoria: What happens when we can zap our brains into any mood?'
 subtitle: 
 date: '2016-04-25T16:00:00.000Z'
-publication: digital_trends
+publication: _publications/digital_trends.md
 blurb: 
 notes: 
 refs: 

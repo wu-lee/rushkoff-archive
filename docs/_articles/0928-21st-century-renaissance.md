@@ -3,7 +3,7 @@ id: 928
 title: 21st Century Renaissance
 subtitle: 
 date: '2008-03-31T04:00:00.000Z'
-publication: nokias_the_feature
+publication: _publications/nokias_the_feature.md
 blurb: 
 notes: 
 refs: '[{"text"=>"Douglas Rushkoff", "original"=>"http://www.rushkoff.com/", "archive"=>"http://web.archive.org/web/20200718072221/https://rushkoff.com/",

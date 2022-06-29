@@ -3,7 +3,7 @@ id: 1155
 title: 'The Lollapalooza Syndrome: When Meatspace and Cellspace are Redundant'
 subtitle: 
 date: '2003-08-26T16:00:00.000Z'
-publication: feature
+publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 

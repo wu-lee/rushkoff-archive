@@ -3,7 +3,7 @@ id: 827
 title: Phones as Hackable Platforms
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: nokias_the_feature
+publication: _publications/nokias_the_feature.md
 blurb: Marko Ahtisaari wants the wireless industry to embrace its users as developers.
 notes: 
 refs: '[{"text"=>"Nokia''s Insight and Foresight", "original"=>"http://www.nokia.com/nokia/0,,54516,00.html",

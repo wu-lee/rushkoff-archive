@@ -3,7 +3,7 @@ id: 954
 title: 'Sms Activism: Don''t Call Us, We''ll Call You'
 subtitle: 
 date: '2005-06-08T04:00:00.000Z'
-publication: nokias_the_feature
+publication: _publications/nokias_the_feature.md
 blurb: 
 notes: 
 refs: '[{"text"=>"Mass Immediate Response", "original"=>"http://www.pfaw.org/pfaw/general/default.aspx?oid=18708",

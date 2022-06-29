@@ -3,7 +3,7 @@ id: 21
 title: Riding Out the Credit Crisis
 subtitle: 
 date: '2008-05-01T04:00:00.000Z'
-publication: arthur
+publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 

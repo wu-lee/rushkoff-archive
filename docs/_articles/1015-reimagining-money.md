@@ -3,7 +3,7 @@ id: 1015
 title: Reimagining Money
 subtitle: 
 date: '2016-03-07T05:00:00.000Z'
-publication: atlantic
+publication: _publications/atlantic.md
 blurb: 
 notes: 
 refs: 

@@ -3,7 +3,7 @@ id: 13
 title: Hack Money, Hack Banking
 subtitle: 
 date: '2009-03-20T04:00:00.000Z'
-publication: arthur
+publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 

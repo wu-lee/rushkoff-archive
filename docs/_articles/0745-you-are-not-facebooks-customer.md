@@ -3,7 +3,7 @@ id: 745
 title: You Are Not Facebook's Customer
 subtitle: 
 date: '2011-09-23T04:00:00.000Z'
-publication: cnn
+publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 

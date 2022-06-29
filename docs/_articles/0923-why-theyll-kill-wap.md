@@ -3,7 +3,7 @@ id: 923
 title: Why They'll Kill Wap
 subtitle: 
 date: '2001-04-01T05:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The Good Old Days of Text-Only Websites
 notes: 
 refs: 

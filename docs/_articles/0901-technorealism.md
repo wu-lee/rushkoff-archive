@@ -3,7 +3,7 @@ id: 901
 title: Technorealism
 subtitle: 
 date: '1998-03-01T05:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Why I Signed on to the Controversial Middle-Ground
 notes: 
 refs: 

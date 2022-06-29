@@ -3,7 +3,7 @@ id: 1031
 title: Sports may be the Internet's 'killer app'
 subtitle: 
 date: '1999-02-13T05:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: 
 notes: 
 refs: 

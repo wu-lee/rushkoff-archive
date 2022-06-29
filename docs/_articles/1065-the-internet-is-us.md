@@ -3,7 +3,7 @@ id: 1065
 title: The Internet is Us
 subtitle: 
 date: '2021-06-22T16:00:00.000Z'
-publication: medium
+publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 

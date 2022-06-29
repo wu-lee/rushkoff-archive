@@ -3,7 +3,7 @@ id: 1122
 title: 'Note to Dems: Your Television Debates Stink'
 subtitle: 
 date: '2019-09-10T16:00:00.000Z'
-publication: medium
+publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 

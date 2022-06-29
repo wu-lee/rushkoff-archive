@@ -3,7 +3,7 @@ id: 1145
 title: Screw growth. It’s time to reprogram the digital economy for people
 subtitle: 
 date: '2016-03-03T17:00:00.000Z'
-publication: digital_trends
+publication: _publications/digital_trends.md
 blurb: 
 notes: 
 refs: 

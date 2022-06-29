@@ -3,7 +3,7 @@ id: 1153
 title: 'American Teens: Stupid or Spoiled?'
 subtitle: 
 date: '2003-10-17T16:00:00.000Z'
-publication: feature
+publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 

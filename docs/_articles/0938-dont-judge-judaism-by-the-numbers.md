@@ -3,7 +3,7 @@ id: 938
 title: Don't Judge Judaism by the Numbers
 subtitle: 
 date: '2002-11-21T01:00:00.000Z'
-publication: new_york_times
+publication: _publications/new_york_times.md
 blurb: 
 notes: 
 refs: 

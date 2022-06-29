@@ -3,7 +3,7 @@ id: 891
 title: One World, First World
 subtitle: 
 date: '1996-10-01T04:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Is the Internet a First-World-Only phenomenon?
 notes: 
 refs: 

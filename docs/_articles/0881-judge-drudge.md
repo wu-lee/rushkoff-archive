@@ -3,7 +3,7 @@ id: 881
 title: Judge Drudge
 subtitle: 
 date: '1998-03-01T05:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The Drudge Reports beats the mainstream in timing, and integrity.
 notes: 
 refs: 

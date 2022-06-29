@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% assign publication = site.publications | where: "slug", page.publication | first %}
+{% assign publication = site.publications | where: "path", page.publication | first %}
 <article class="post">
   <header class="post-header">
     <div class="post-title">{{ page.title | escape }}</div>

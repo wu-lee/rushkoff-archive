@@ -3,7 +3,7 @@ id: 858
 title: Call Waiting
 subtitle: 
 date: '1998-10-01T04:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Technology & Truth
 notes: 
 refs: 

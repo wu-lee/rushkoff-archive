@@ -3,7 +3,7 @@ id: 808
 title: As Above, So Below
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: nokias_the_feature
+publication: _publications/nokias_the_feature.md
 blurb: The satellite dish at the heart of a new age conference dedicated to 'world
   peace' begs whether violent communications strategies only beget more of the same.
 notes: 

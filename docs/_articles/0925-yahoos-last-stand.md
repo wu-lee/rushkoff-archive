@@ -3,7 +3,7 @@ id: 925
 title: Yahoo's Last Stand
 subtitle: 
 date: '2000-02-01T05:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: When Hackers Attack
 notes: 
 refs: 

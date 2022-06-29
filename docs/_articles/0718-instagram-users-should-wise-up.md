@@ -3,7 +3,7 @@ id: 718
 title: Instagram Users Should Wise Up
 subtitle: 
 date: '2012-12-19T00:00:00.000Z'
-publication: cnn
+publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: '[{"text"=>"a blog post backtracking significantly", "original"=>"http://www.cnn.com/2012/12/18/tech/social-media/instagram-terms-users/index.html",

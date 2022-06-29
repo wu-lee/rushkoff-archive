@@ -3,7 +3,7 @@ id: 937
 title: Death in the Center Ring
 subtitle: 
 date: '2008-05-13T04:00:00.000Z'
-publication: uncategorized
+publication: _publications/uncategorized.md
 blurb: Timothy Leary's High Dive
 notes: 
 refs: 

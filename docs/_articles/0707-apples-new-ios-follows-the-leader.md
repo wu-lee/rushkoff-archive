@@ -3,7 +3,7 @@ id: 707
 title: Apple's New iOS Follows the Leader
 subtitle: 
 date: '2013-09-19T04:00:00.000Z'
-publication: cnn
+publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 

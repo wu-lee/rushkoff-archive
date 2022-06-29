@@ -3,7 +3,7 @@ id: 990
 title: iPhone's Bad Business
 subtitle: 
 date: '2009-09-18T04:00:00.000Z'
-publication: daily_beast
+publication: _publications/daily_beast.md
 blurb: 'What a difference a little update makes. Users of Apple''s iPhone models 3G
   and earlier got a rude awakening at work this past week: Their phones no longer
   work with their office''s email systems.'

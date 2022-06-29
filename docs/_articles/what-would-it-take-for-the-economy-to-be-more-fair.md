@@ -3,7 +3,7 @@ title: What Would It Take for the Economy to Be More Fair?
 subtitle: Experts on business, labor, and corporate governance offer their reasons
   for optimism and pessimism going into 2016.
 date: 2015-12-30 00:00:00 -0500
-publication: atlantic
+publication: _publications/atlantic.md
 blurb: ''
 notes: Pasted from https://www.theatlantic.com/business/archive/2015/12/economy-fairness-rules/421809/
 refs: ''

@@ -3,7 +3,7 @@ id: 758
 title: Can the Internet Replace Big Banks?
 subtitle: 
 date: '2013-03-24T22:12:22.000Z'
-publication: mashable
+publication: _publications/mashable.md
 blurb: 
 notes: 
 refs: 

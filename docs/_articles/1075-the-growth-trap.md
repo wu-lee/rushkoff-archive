@@ -3,7 +3,7 @@ id: 1075
 title: " The Growth Trap"
 subtitle: 
 date: '2016-03-01T17:00:00.000Z'
-publication: hemispheres_magazine
+publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 

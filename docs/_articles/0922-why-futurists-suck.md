@@ -3,7 +3,7 @@ id: 922
 title: Why Futurists Suck
 subtitle: 
 date: '1998-08-01T04:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: How the future is used to change the present.
 notes: 
 refs: 

@@ -3,7 +3,7 @@ id: 965
 title: 'Universal Access: Not Just for the Disabled'
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: nokias_the_feature
+publication: _publications/nokias_the_feature.md
 blurb: 
 notes: 
 refs: '[{"text"=>"Mobile Speak accessibility program.", "original"=>"http://www.optelec.com/blind_and_braille/mobile_speak/",

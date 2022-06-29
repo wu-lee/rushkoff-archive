@@ -3,7 +3,7 @@ id: 1000
 title: The Internet Mob's Porn Bomb
 subtitle: 
 date: '2010-01-10T05:00:00.000Z'
-publication: daily_beast
+publication: _publications/daily_beast.md
 blurb: 'Members of 4chan''s notorious \"random\" board, known as /b/, were swarming
   like hornets again last week. And rather than stinging Scientology, Sarah Palin,
   or any of the other targets they''ve focused on in the past, they decided to go

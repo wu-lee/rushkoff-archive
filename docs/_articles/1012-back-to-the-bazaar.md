@@ -3,7 +3,7 @@ id: 1012
 title: Back to the Bazaar
 subtitle: 
 date: '2011-01-03T05:00:00.000Z'
-publication: one_plus
+publication: _publications/one_plus.md
 blurb: 
 notes: 
 refs: 

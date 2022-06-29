@@ -3,7 +3,7 @@ id: 1028
 title: Will Software Agents Rob Us Of Our Identities
 subtitle: 
 date: '1998-08-08T04:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: 
 notes: 
 refs: 

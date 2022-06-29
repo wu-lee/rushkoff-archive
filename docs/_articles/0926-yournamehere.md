@@ -3,7 +3,7 @@ id: 926
 title: your.name.here
 subtitle: 
 date: '1996-12-01T05:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Paul Garrin's alternate network of nameservers ROCKS
 notes: 
 refs: 

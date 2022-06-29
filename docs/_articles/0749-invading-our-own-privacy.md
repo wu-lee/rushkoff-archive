@@ -3,7 +3,7 @@ id: 749
 title: Invading Our Own Privacy
 subtitle: 
 date: '2006-09-02T05:00:00.000Z'
-publication: discover
+publication: _publications/discover.md
 blurb: 
 notes: 
 refs: 

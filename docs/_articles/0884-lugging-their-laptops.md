@@ -3,7 +3,7 @@ id: 884
 title: Lugging Their Laptops
 subtitle: 
 date: '1999-05-01T04:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Some surprising answers from cyber-have children about the joys of computing.
 notes: 
 refs: 

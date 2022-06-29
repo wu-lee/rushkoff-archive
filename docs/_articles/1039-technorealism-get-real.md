@@ -3,7 +3,7 @@ id: 1039
 title: 'Technorealism: Get Real!'
 subtitle: 
 date: '1998-04-06T04:00:00.000Z'
-publication: nation
+publication: _publications/nation.md
 blurb: 
 notes: 
 refs: 

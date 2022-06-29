@@ -3,7 +3,7 @@ id: 805
 title: A Spectrum Carol
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: nokias_the_feature
+publication: _publications/nokias_the_feature.md
 blurb: Yes, it's holiday time, so here's a true legend from the early days of wireless
   data.
 notes: 

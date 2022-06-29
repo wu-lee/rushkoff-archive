@@ -3,7 +3,7 @@ id: 946
 title: Microsoft Marches On
 subtitle: 
 date: '1998-06-25T04:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: 
 notes: 
 refs: 

@@ -3,7 +3,7 @@ id: 910
 title: The Grass Is Greener
 subtitle: 
 date: '1997-03-01T05:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Why filmmakers lust for what they think is interadctivity, and vis versa
 notes: 
 refs: 

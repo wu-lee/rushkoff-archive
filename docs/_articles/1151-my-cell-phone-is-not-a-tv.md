@@ -3,7 +3,7 @@ id: 1151
 title: My Cell Phone is Not a TV
 subtitle: 
 date: '2003-11-15T17:00:00.000Z'
-publication: feature
+publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 

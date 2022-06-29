@@ -3,7 +3,7 @@ id: 977
 title: One Man, One Tweet
 subtitle: 
 date: '2009-06-16T04:00:00.000Z'
-publication: daily_beast
+publication: _publications/daily_beast.md
 blurb: I posted a piece I like late last night to the Daily Beast - where I've just
   become a columnist - about social networking in Iran.
 notes: 

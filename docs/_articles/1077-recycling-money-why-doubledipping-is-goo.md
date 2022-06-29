@@ -3,7 +3,7 @@ id: "1077"
 title: 'Recycling Money: Why Double-Dipping Is Good Business'
 subtitle: 
 date: 2015-08-01T16:56:02.000Z
-publication: hemispheres_magazine
+publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 

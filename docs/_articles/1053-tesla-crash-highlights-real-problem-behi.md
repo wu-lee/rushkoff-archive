@@ -3,7 +3,7 @@ id: "1053"
 title: Tesla crash highlights real problem behind self-driving cars
 subtitle: 
 date: 2016-06-01T16:00:00.000Z
-publication: cnn
+publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 

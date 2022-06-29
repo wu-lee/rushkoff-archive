@@ -3,7 +3,7 @@ id: 756
 title: What You Can Learn From Zombie Movies
 subtitle: 
 date: '2007-08-10T04:00:00.000Z'
-publication: discover
+publication: _publications/discover.md
 blurb: 
 notes: 
 refs: 

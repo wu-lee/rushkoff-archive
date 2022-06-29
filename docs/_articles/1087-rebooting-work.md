@@ -3,7 +3,7 @@ id: 1087
 title: Rebooting Work
 subtitle: 
 date: '2016-02-01T05:00:00.000Z'
-publication: medium
+publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 

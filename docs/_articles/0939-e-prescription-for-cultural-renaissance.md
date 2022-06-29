@@ -3,7 +3,7 @@ id: 939
 title: 'E: Prescription for Cultural Renaissance'
 subtitle: 
 date: '2001-01-01T05:00:00.000Z'
-publication: anthologies
+publication: _publications/anthologies.md
 blurb: 'Published in *Ecstasy: The Complete Guide*, Edited by Julie Holland, M.D.
   (Park Street Press, 2001)'
 notes: 

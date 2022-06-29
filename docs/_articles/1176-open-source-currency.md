@@ -3,7 +3,7 @@ id: 1176
 title: Open Source Currency
 subtitle: 
 date: '2004-10-13T16:00:00.000Z'
-publication: feature
+publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 

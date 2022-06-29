@@ -2,7 +2,7 @@
 title: Why Uber’s Bid for Platform Monopoly is Dangerous
 subtitle: ''
 date: 2015-10-17 00:00:00 -0400
-publication: medium
+publication: _publications/medium.md
 blurb: ''
 notes: Pasted from https://rushkoff.medium.com/my-problem-with-uber-all-along-has-been-that-it-s-optimized-for-some-really-specific-utility-but-4bcbeb863903
 refs: ''

@@ -3,7 +3,7 @@ id: 836
 title: The Golden Age
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: nokias_the_feature
+publication: _publications/nokias_the_feature.md
 blurb: Don't take your handheld for granted. This sorry decade may just be remembered
   as the 'golden age' of wireless devices.
 notes: 

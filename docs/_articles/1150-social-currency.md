@@ -3,7 +3,7 @@ id: 1150
 title: Social Currency
 subtitle: 
 date: '2006-09-12T16:00:00.000Z'
-publication: feature
+publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 

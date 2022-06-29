@@ -3,7 +3,7 @@ id: 981
 title: Apple's Mac Killer Unveiled
 subtitle: 
 date: '2010-01-27T05:00:00.000Z'
-publication: daily_beast
+publication: _publications/daily_beast.md
 blurb: Beyond the hype, style, and speculation, the truth is that the iPad is really
   just another tablet device. A really big PDA, where a touchscreen does what a laptop's
   keyboard used to do.

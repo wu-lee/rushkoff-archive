@@ -3,7 +3,7 @@ id: 1088
 title: How the Digital Media Environment Enforces Boundaries
 subtitle: 
 date: '2016-01-08T17:00:00.000Z'
-publication: medium
+publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 

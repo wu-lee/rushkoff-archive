@@ -3,7 +3,7 @@ id: 913
 title: The Next Big Thing
 subtitle: 
 date: '2008-04-17T04:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: February 1999
 notes: 
 refs: 

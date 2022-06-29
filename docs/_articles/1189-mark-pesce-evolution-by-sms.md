@@ -3,7 +3,7 @@ id: 1189
 title: 'Mark Pesce: Evolution by SMS'
 subtitle: 
 date: '2005-05-11T16:00:00.000Z'
-publication: feature
+publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 

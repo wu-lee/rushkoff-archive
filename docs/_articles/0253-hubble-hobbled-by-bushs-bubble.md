@@ -3,7 +3,7 @@ id: 253
 title: Hubble Hobbled by Bush's Bubble
 subtitle: 
 date: '2004-01-17T05:00:00.000Z'
-publication: nokias_the_feature
+publication: _publications/nokias_the_feature.md
 blurb: I starting writing about this last night on The Feature, but I'm still finding
   myself actively irked, so I'll use my blog to blather on.
 notes: 

@@ -3,7 +3,7 @@ id: 1068
 title: Plunging Into the Abyss
 subtitle: 
 date: '2021-07-21T16:00:00.000Z'
-publication: medium
+publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 

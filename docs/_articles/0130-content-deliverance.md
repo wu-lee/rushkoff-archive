@@ -3,7 +3,7 @@ id: 130
 title: Content Deliverance
 subtitle: 
 date: '2004-01-25T05:00:00.000Z'
-publication: nokias_the_feature
+publication: _publications/nokias_the_feature.md
 blurb: 'Content Management is for losers. Young people may have discovered the dark
   truth about digital media: the person who wins the right to store a piece of data
   has actually won the booby prize.'

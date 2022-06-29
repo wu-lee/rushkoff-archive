@@ -3,7 +3,7 @@ id: 28
 title: Why I'm Not Moving to Canada
 subtitle: 
 date: '2006-07-01T04:00:00.000Z'
-publication: arthur
+publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 

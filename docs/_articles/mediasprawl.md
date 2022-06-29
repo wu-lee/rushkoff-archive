@@ -3,7 +3,7 @@ id:
 title: Mediasprawl
 subtitle: Springfield U.S.A.
 date: 2003-09-01T00:00:00.000-04:00
-publication: iowa-journal-of-cultural-studies
+publication: _publications/iowa-journal-of-cultural-studies.md
 blurb: ''
 notes: Pasted from https://pubs.lib.uiowa.edu/ijcs/article/29902/galley/138245/view/
   . Edited for formatting.

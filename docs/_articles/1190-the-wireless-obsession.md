@@ -3,7 +3,7 @@ id: 1190
 title: The Wireless Obsession
 subtitle: 
 date: '2005-06-22T16:00:00.000Z'
-publication: feature
+publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 

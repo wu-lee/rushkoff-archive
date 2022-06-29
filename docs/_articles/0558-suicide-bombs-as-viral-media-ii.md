@@ -3,7 +3,7 @@ id: 558
 title: Suicide Bombs as Viral Media II
 subtitle: 
 date: '2005-07-24T04:00:00.000Z'
-publication: arthur
+publication: _publications/arthur.md
 blurb: Although I've got very little spare time for blogging right now, I thought
   it important to share a brief reflection on what I perceive to be the underlying
   mechanism propelling the recent spate of suicide attacks, as well as the common

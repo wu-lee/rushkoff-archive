@@ -3,7 +3,7 @@ id: 912
 title: The Mac Attack
 subtitle: 
 date: '1997-05-01T04:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Response to My Decision to Leave Mac
 notes: 
 refs: 

@@ -3,7 +3,7 @@ id: 868
 title: Exodus
 subtitle: 
 date: '2001-05-01T04:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: From Pyramid-Building to a Global Programmers Union
 notes: 
 refs: 

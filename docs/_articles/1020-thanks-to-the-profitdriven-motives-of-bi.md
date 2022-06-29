@@ -4,7 +4,7 @@ title: Thanks to the profit-driven motives of big businesses, the internet is ch
   to use. So now it is our turn to exploit them, like they have exploited us
 subtitle: 
 date: '2000-08-24T04:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: 
 notes: 
 refs: 

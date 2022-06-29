@@ -3,7 +3,7 @@ id: 816
 title: Honey, I Geotagged the Kids
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: nokias_the_feature
+publication: _publications/nokias_the_feature.md
 blurb: How collaborative cartography could enable us to map our shared worlds -- and
   why the wireless industry probably won't go for it.
 notes: 

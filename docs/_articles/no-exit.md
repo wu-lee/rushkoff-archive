@@ -3,7 +3,7 @@ id:
 title: No Exit
 subtitle: When Everything Becomes a Shopping Mall
 date: 2018-06-01T00:00:00.000-04:00
-publication: future-now
+publication: _publications/future-now.md
 blurb: When media is ambient, it's no longer part of the environment-- it is the environment.
 notes: Pasted from https://www.iftf.org/future-now/article-detail/no-exit/
 refs: ''

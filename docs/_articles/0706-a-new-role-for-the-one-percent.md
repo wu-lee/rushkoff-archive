@@ -3,7 +3,7 @@ id: 706
 title: A New Role for the One Percent
 subtitle: 
 date: '2012-03-09T05:00:00.000Z'
-publication: cnn
+publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 

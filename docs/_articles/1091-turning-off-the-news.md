@@ -3,7 +3,7 @@ id: 1091
 title: Turning Off the “News”
 subtitle: 
 date: '2021-09-10T16:00:00.000Z'
-publication: medium
+publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 

@@ -3,7 +3,7 @@ id: 972
 title: The People's Net
 subtitle: 
 date: '2001-07-01T04:00:00.000Z'
-publication: yahoo_internet_life
+publication: _publications/yahoo_internet_life.md
 blurb: The Internet is Back, Alive and Well
 notes: 
 refs: 

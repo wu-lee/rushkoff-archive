@@ -3,7 +3,7 @@ id: 908
 title: The Ghost in My Machine
 subtitle: 
 date: '1998-09-01T04:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The end of my association with Windows PC's.
 notes: 
 refs: 

@@ -2,7 +2,7 @@
 title: When Memes Fail Us
 subtitle: ''
 date: 2016-12-07 00:00:00 -0500
-publication: p2p_foundation
+publication: _publications/p2p_foundation.md
 blurb: ''
 notes: Pasted from https://blog.p2pfoundation.net/when-memes-fail-us/2016/12/07
 refs: ''

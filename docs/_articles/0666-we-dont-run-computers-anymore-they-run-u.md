@@ -3,7 +3,7 @@ id: 666
 title: We Don't Run Computers Anymore, They Run Us
 subtitle: 
 date: '2013-03-14T04:00:00.000Z'
-publication: wall_street_journal
+publication: _publications/wall_street_journal.md
 blurb: 
 notes: 
 refs: 

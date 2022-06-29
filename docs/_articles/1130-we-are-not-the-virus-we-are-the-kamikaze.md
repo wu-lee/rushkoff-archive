@@ -3,7 +3,7 @@ id: 1130
 title: We Are Not the Virus. We Are the Kamikazes.
 subtitle: 
 date: '2020-04-20T16:00:00.000Z'
-publication: medium
+publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 

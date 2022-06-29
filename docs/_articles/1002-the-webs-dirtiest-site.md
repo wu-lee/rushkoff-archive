@@ -3,7 +3,7 @@ id: 1002
 title: The Web's Dirtiest Site
 subtitle: 
 date: '2009-08-11T04:00:00.000Z'
-publication: daily_beast
+publication: _publications/daily_beast.md
 blurb: When AT&T recently blocked access to a hugely popular hackers' Web site, 4chan.org,
   many of us Internet old-timers froze in place. It was like one of those bad Westerns,
   when an arrogant newcomer sits down in the saloon, and then insults the baddest,

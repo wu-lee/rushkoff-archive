@@ -3,7 +3,7 @@ id: 23
 title: Stimulus, Ass-Backwards
 subtitle: 
 date: '2009-04-16T04:00:00.000Z'
-publication: arthur
+publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 

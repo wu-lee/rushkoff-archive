@@ -3,7 +3,7 @@ id: 19
 title: Raising Baby Einstein
 subtitle: 
 date: '2007-12-01T05:00:00.000Z'
-publication: arthur
+publication: _publications/arthur.md
 blurb: Now, instead of repairing the neighborhood sidewalks, we purchase Bugaboos—the
   $800 stroller equivalent of an SUV, complete with shock absorbers, to traverse the
   potholes.

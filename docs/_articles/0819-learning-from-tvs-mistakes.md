@@ -3,7 +3,7 @@ id: 819
 title: Learning From Tv's Mistakes
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: nokias_the_feature
+publication: _publications/nokias_the_feature.md
 blurb: Today's advertising crisis needn't threaten mobile content at all. In fact,
   the mobile industry can exploit the coming shift in media buying patterns to establish
   itself firmly in the emerging landscape.

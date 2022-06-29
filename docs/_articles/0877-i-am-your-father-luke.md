@@ -3,7 +3,7 @@ id: 877
 title: I Am Your Father Luke
 subtitle: 
 date: '1997-03-01T05:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Why Luke should have accepted Darth's first offer
 notes: 
 refs: 

@@ -3,7 +3,7 @@ id: "1016"
 title: Twitter Is Not a Failure
 subtitle: 
 date: 2016-02-18T05:00:00.000Z
-publication: atlantic
+publication: _publications/atlantic.md
 blurb: 
 notes: 
 refs: 

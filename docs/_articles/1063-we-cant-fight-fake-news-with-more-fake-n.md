@@ -3,7 +3,7 @@ id: 1063
 title: We Can’t Fight Fake News with More Fake News
 subtitle: 
 date: '2021-06-01T16:00:00.000Z'
-publication: medium
+publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 

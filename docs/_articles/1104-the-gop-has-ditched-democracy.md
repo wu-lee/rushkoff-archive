@@ -3,7 +3,7 @@ id: 1104
 title: The GOP Has Ditched Democracy
 subtitle: 
 date: '2018-11-05T17:00:00.000Z'
-publication: medium
+publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 

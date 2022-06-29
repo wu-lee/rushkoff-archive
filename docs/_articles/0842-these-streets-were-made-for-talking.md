@@ -3,7 +3,7 @@ id: 842
 title: These Streets Were Made for Talking
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: nokias_the_feature
+publication: _publications/nokias_the_feature.md
 blurb: Using utterly backwards-compatible technologies, a new mobile service lets
   city streets tell their histories to anyone with a cell phone.
 notes: 

@@ -3,7 +3,7 @@ id: "1057"
 title: No, you can't have it all
 subtitle: 
 date: 2015-10-20T16:00:00.000Z
-publication: cnn
+publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 

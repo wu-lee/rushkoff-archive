@@ -2,7 +2,7 @@
 title: Douglas Rushkoff on Genesis Breyer P-Orridge (1950-2020)
 subtitle: ''
 date: 2020-03-14 00:00:00 -0400
-publication: boingboing
+publication: _publications/boingboing.md
 blurb: ''
 notes: Pasted from https://boingboing.net/2020/03/14/douglas-rushkoff-on-genesis-br.html
 refs: ''

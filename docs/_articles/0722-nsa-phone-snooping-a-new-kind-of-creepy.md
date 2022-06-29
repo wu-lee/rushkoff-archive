@@ -3,7 +3,7 @@ id: 722
 title: NSA Phone Snooping, a New Kind of Creepy
 subtitle: 
 date: '2013-06-06T04:00:00.000Z'
-publication: cnn
+publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 

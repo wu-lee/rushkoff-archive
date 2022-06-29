@@ -3,7 +3,7 @@ id: 1143
 title: 'Maybe you can handle the truth: How tech has dulled our taste for tall tales'
 subtitle: 
 date: '2015-10-28T16:00:00.000Z'
-publication: digital_trends
+publication: _publications/digital_trends.md
 blurb: 
 notes: 
 refs: 

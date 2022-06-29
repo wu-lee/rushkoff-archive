@@ -3,7 +3,7 @@ id: 918
 title: To Life
 subtitle: 
 date: '2001-09-01T04:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: 10 Ways to Understand What Just Happened
 notes: 
 refs: 

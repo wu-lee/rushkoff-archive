@@ -3,7 +3,7 @@ id: 945
 title: 'Media Tie-Ins: What the Mobile Industry Can Learn From Ovaltine'
 subtitle: 
 date: '2008-10-16T00:00:00.000Z'
-publication: nokias_the_feature
+publication: _publications/nokias_the_feature.md
 blurb: 
 notes: 
 refs: '[{"text"=>"Radio Orphan Annie Secret Society", "original"=>"http://www.radioarchives.org/annie/",

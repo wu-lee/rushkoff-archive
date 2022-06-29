@@ -3,7 +3,7 @@ id: 1061
 title: It Won’t Be Easy to Break Free From Trump’s Media Chaos
 subtitle: 
 date: '2021-01-20T05:00:00.000Z'
-publication: medium
+publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 

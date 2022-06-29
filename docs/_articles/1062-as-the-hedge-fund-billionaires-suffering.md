@@ -3,7 +3,7 @@ id: "1062"
 title: How Lulz Took Down Wall Street
 subtitle: 
 date: 2021-01-29T17:00:00.000Z
-publication: medium
+publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 

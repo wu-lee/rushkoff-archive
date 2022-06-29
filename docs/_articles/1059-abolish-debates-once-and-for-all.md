@@ -3,7 +3,7 @@ id: 1059
 title: Abolish Debates Once and for All
 subtitle: 
 date: '2020-10-23T16:00:00.000Z'
-publication: medium
+publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 

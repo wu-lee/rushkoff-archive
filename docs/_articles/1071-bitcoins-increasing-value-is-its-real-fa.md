@@ -3,7 +3,7 @@ id: 1071
 title: Bitcoin’s Increasing Value Is Its Real Failure
 subtitle: 
 date: '2021-08-12T16:00:00.000Z'
-publication: medium
+publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 

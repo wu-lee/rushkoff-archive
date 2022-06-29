@@ -3,7 +3,7 @@ id: 1100
 title: 'We Won: Get Used to It'
 subtitle: 
 date: '2018-10-04T16:00:00.000Z'
-publication: medium
+publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 

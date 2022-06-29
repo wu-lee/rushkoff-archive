@@ -3,7 +3,7 @@ id: 1152
 title: 'Flash Mobs: The Purposeless MicroRave'
 subtitle: 
 date: '2003-09-19T16:00:00.000Z'
-publication: feature
+publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 

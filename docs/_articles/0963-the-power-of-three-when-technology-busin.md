@@ -4,7 +4,7 @@ title: 'The Power of Three: When Technology, Business, and Marketing Converge - 
   I & II'
 subtitle: 
 date: 2008-10-16T00:00:00.000Z
-publication: feature
+publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 

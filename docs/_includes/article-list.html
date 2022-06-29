@@ -1,7 +1,7 @@
 {%- comment -%}
 <!--
      This include accepts one parameter:
-   - publication: restrict articles those with this publication slug
+   - publication: restrict articles those with this publication value
 
      It is intended to next inside markdown content, i.e. within a page layout.
 -->
@@ -28,7 +28,7 @@
   <form class="search"><input type="text" class="search-input" placeholder="Search Titles"><button class="search-button" >Clear</button></form>
   <ul class="post-list" id="search-list">
     {%- for article in articles -%}
-    {% assign publication = site.publications | where: "slug", article.publication | first %}
+    {% assign publication = site.publications | where: "path", article.publication | first %}
     <li class="post-list-item">
       <div class="flex-align">
         

@@ -3,7 +3,7 @@ id: 883
 title: Look at Me
 subtitle: 
 date: '2001-03-01T05:00:00.000Z'
-publication: nyt_syndicate_guardian_of_london
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The Other Side of Internet Voyeurism
 notes: 
 refs: 

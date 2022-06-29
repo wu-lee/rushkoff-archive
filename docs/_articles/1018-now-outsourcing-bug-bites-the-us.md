@@ -3,7 +3,7 @@ id: 1018
 title: Now, outsourcing bug bites the US
 subtitle: 
 date: '2006-01-01T05:00:00.000Z'
-publication: economic_times
+publication: _publications/economic_times.md
 blurb: 
 notes: 
 refs: 
