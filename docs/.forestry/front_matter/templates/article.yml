@@ -15,8 +15,17 @@ fields:
   label: date
   config:
     required: true
-- type: text
-  name: publication
+- name: publication
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: publications
+      file: 
+      path: 
   label: publication
 - type: text
   name: blurb
