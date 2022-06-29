@@ -11,7 +11,6 @@ img: https://i0.wp.com/boingboing.net/wp-content/uploads/2020/03/IMG_3341.jpg?w=
 slug: douglas-rushkoff-on-genesis-breyer-p-orridge
 created_at: 2022-06-29 00:00:00 -0400
 updated_at: 2022-06-29 00:00:00 -0400
-published: false
 
 ---
 It was 1993. I was working on my book Media Virus, and about to return home to LA from San Francisco, when Timothy Leary called to ask if I could make room for a "friend in need" who needed a ride. That friend turned out to be Genesis P-Orridge.
