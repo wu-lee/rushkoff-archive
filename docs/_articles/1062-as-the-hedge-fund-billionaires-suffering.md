@@ -8,7 +8,7 @@ blurb:
 notes: 
 refs: 
 sources: 
-img: https://miro.medium.com/max/1400/1*3wyg7DCcXwr6woNC7n6EPg.jpeg
+image: /uploads/1062-as-the-hedge-fund-billionaires-suffering.jpeg
 
 ---
 As the hedge fund billionaires suffering catastrophic losses in the r/WallStreetBets activist campaign now realize, we reap what we sow. Even more so in a digital age.

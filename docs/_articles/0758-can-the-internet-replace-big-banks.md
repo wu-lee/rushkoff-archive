@@ -9,7 +9,7 @@ notes:
 refs: 
 sources: 
 published: false
-img: https://mondrian.mashable.com/2013%252F03%252F24%252F69%252FBigBank.83567.jpg%252F950x534__filters%253Aquality%252880%2529.jpg
+image: /uploads/0758-can-the-internet-replace-big-banks.jpg
 ---
 *Douglas Rushkoff, a media theorist, author, and documentarian. The ideas in this piece are built on the arguments of his new book, [Present Shock: When Everything Happens Now](http://www.amazon.com/Present-Shock-When-Everything-Happens/dp/1591844762).*
 

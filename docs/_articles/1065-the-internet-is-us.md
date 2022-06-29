@@ -9,7 +9,7 @@ notes:
 refs: 
 sources: 
 published: true
-img: https://miro.medium.com/max/1400/0*VVKeuMSxewlb76iwThe Internet is Us
+image: /uploads/1065-the-internet-is-us.jpg
 ---
 Before the Internet (yes, I’m that old) “going online” meant calling my friend Phil’s computer from my own. I’d put a phone handset (there were only what we now call “landlines” back then) into a special cradle with two rubber cups — one for the mouthpiece and another for the earpiece. Then I would manually dial the phone number, wait for his computer to pick up and make a tone, and hit a key on my computer to initiate the handshake.
 

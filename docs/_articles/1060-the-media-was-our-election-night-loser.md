@@ -9,7 +9,7 @@ notes:
 refs: 
 sources: 
 published: true
-img: https://miro.medium.com/max/1400/1*qRk8KItOdlxCxXe6fupNQw.png
+image: /uploads/1060-the-media-was-our-election-night-loser.png
 ---
 For days, if not weeks, our media pundits have been telling us not to expect a winner on election night. The left demanded patience and voiced their concerns that Trump would prematurely declare victory and turn to the courts for support.
 

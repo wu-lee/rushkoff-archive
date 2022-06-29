@@ -8,7 +8,7 @@ blurb:
 notes: 
 refs: 
 sources: 
-img: https://miro.medium.com/max/1400/1*cZzuwnd7AUcklDveBL7kZg.jpeg
+image: /uploads/1058-why-you-dont-have-to-feel-too-sick-about.jpeg
 
 ---
 I admit, it was a hard night. I’ve finally reached the point in my career where I get to live-tweet a debate on behalf of a publication. But now that I’ve gotten here, presidential politics has deteriorated beyond recognition. Tuesday night was a sick, depressing spectacle closer to late-stage Jerry Springer than civic discourse.

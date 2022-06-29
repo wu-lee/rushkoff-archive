@@ -9,7 +9,7 @@ notes:
 refs: 
 sources: 
 published: false
-img: https://mondrian.mashable.com/2012%252F12%252F04%252Fb1%252Fwhymarketin.chr.jpg%252F950x534__filters%253Aquality%252880%2529.jpg
+image: /uploads/0759-why-marketing-threatens-the-true-promise.jpg
 ---
 *[Douglas Rushkoff](http://rushkoff.com) is the author of* [Life Inc: How Corporatism Conquered the World and How We Can Take It Back](http://www.amazon.com/Life-Inc-Corporatism-Conquered-World/dp/0812978501)*, out this week in paperback from RandomHouse, as well as* [Program or Be Programmed](http://www.orbooks.com/our-books/program/) *from ORBooks. Follow him on [Twitter](http://twitter.com/#!/rushkoff) and [Facebook](http://facebook.com/DouglasRushkoff).*
 

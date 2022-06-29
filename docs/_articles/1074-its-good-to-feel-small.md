@@ -9,7 +9,7 @@ notes:
 refs: 
 sources: 
 published: true
-img: https://miro.medium.com/max/1400/1*iTM4zxhbyVmWjiu9UlqsZw.jpeg
+image: /uploads/1074-its-good-to-feel-small.jpeg
 ---
 Like many north easterners, I’m still digging myself out from the destruction of Hurricane Ida — or, as my insurance company reminds me—“tropical depression” Ida, which is not eligible for a claim on my special “hurricane extension.” Although I lost some precious archives (letters from Timothy Leary, the first dozen Teenage Mutant Ninja Turtle comics, newspapers saved from the JFK assassination, moon landing, and Nixon resignation) the real damage was light. My finished basement is now, well, finished in another way.
 

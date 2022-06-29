@@ -9,7 +9,7 @@ notes:
 refs: 
 sources: 
 published: true
-img: https://miro.medium.com/max/1400/0*ExabHU87GDC_qWFk
+image: /uploads/1070-why-the-cdc-should-never-have-gotten-inv.jpg
 ---
 I’ve been reading the critique. Everyone seems to hate the CDC these days. After telling vaccinated people in May that we can go maskless, they reversed course last week, instructing everyone to mask up wherever the virus is spreading rapidly.
 

@@ -8,7 +8,7 @@ notes: Pasted from https://www.cnn.com/2013/12/19/opinion/rushkoff-google-roboti
   , edited for formatting
 refs: ''
 sources: ''
-img: https://media.cnn.com/api/v1/images/stellar/prod/131216070713-newday-romans-google-robots-00013427.jpg?q=x_104,y_55,h_658,w_1170,c_crop/h_720,w_1280
+image: /uploads/is-google-redefining-don-t-be-evil.jpg
 
 ---
 _“Do the right thing; don’t be evil_

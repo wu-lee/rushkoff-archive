@@ -9,7 +9,7 @@ notes:
 refs: 
 sources: 
 published: true
-img: https://miro.medium.com/max/1400/0*QqDllg3XFQGQG_9m
+image: /uploads/1067-what-if-all-language-is-oppressive.jpg
 ---
 I’ve been reading a lot lately about Brandeis’s Prevention, Advocacy & Resource Center, PARC, and its well-meaning effort to make language less oppressive. The “oppressive language list” they’ve come up with mostly includes labels like “slave” to describe an enslaved person, “prisoner” for someone who is incarcerated, or “victim” for someone who has been victimized.
 

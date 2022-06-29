@@ -9,7 +9,7 @@ notes:
 refs: 
 sources: 
 published: true
-img: https://miro.medium.com/max/1400/0*AnI7zP_1GAh8m17D
+image: /uploads/1068-plunging-into-the-abyss.jpg
 ---
 Itcomes in waves. A friend here, a co-worker there, getting curious about one conspiracy theory or another until they follow one too many trailheads, and end up over the edge. It’s a casualty of living in disorienting times, we tell ourselves. It will eventually pass.
 

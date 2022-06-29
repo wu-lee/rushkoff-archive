@@ -9,7 +9,7 @@ notes:
 refs: 
 sources: 
 published: true
-img: https://miro.medium.com/max/1120/0*i2HL0kQXH-ZrxtlA
+image: /uploads/1071-bitcoins-increasing-value-is-its-real-fa.jpg
 ---
 Asthose of us who were around will remember, Bitcoin emerged out of the same spirit as Occupy Wall Street. Those of us holding seminars about economic power in Zuccotti Park were thrilled by the possibility of a decentralized currency that could be authenticated in a peer-to-peer fashion instead of by some big bank. Bitcoin would break the monopoly of the Federal Reserve. And the love affair went both ways. Early Bitcoin enthusiasts made crypto donations to Occupy while many Occupiers lauded Bitcoin as an alternative to bank-issued central currency.
 

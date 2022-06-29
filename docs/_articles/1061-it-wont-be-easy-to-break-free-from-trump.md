@@ -9,7 +9,7 @@ notes:
 refs: 
 sources: 
 published: true
-img: https://miro.medium.com/max/2000/1*_8KkzRbBx-n_H65IBI7qpA.jpeg
+image: /uploads/1061-it-wont-be-easy-to-break-free-from-trump.jpeg
 ---
 Admit it. Twitter isn’t quite as sensational without its leading troll, President Donald Trump. Online disinformation — perhaps the most compelling content available on social networks — is down 73% since he was banned. Not even the response to an armed attack on the Capitol or the fake news about antifa and Black Lives Matter having instigated it as a false flag event have been enough to stir up the social media landscape to previous frenzied levels of activity. And if social media is already suffering in the post-Trump era, imagine how boring cable news is going to be without its leading villain?
 

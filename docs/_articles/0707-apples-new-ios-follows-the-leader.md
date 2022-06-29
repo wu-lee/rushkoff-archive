@@ -9,7 +9,7 @@ notes:
 refs: 
 sources: 
 published: true
-img: http://i2.cdn.turner.com/cnn/dam/assets/130910190743-apple-iphone-event-story-top.jpg?__SQUARESPACE_CACHEVERSION=1379619159017
+image: /uploads/0707-apples-new-ios-follows-the-leader.jpg
 ---
 *Phil Schiller, Apple senior vice president of worldwide marketing, touts the new iPhone 5C last week at Apple headquarters.*
 

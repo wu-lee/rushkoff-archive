@@ -8,7 +8,7 @@ blurb: The most direct benefit of more neurons and connections in our brains is 
 notes: Pasted from https://medium.com/team-human/no-evolution-did-not-make-us-into-selfish-capitalists-95cb9f1402d6
 refs: ''
 sources: ''
-img: https://miro.medium.com/max/700/1*PFRH5UvNLtEOrIeHJGJE7w.jpeg
+image: /uploads/evolution-is-not-the-cause-of-selfish-capitalism.jpeg
 
 ---
 Nature is a collaborative act. If humans are the most evolved species, it is only because we have developed the most advanced ways of working and playing together.

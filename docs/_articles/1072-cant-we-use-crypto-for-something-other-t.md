@@ -9,7 +9,7 @@ notes:
 refs: 
 sources: 
 published: true
-img: https://miro.medium.com/max/1400/0*XdpUTPqzW6ljZCeN
+image: /uploads/1072-cant-we-use-crypto-for-something-other-t.jpg
 ---
 took a bit of heat last week for suggesting that the blockchain movement may have gone largely off course. Some asked: What about NFTs? Or the decentralized autonomous corporations? Aren’t Bitcoin and Ethereum doing all sorts of great things?
 

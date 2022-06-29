@@ -9,7 +9,7 @@ notes:
 refs: 
 sources: 
 published: true
-img: https://miro.medium.com/max/1400/1*LqgR-FLqSWwKFZTNgO0K6A.jpeg
+image: /uploads/1064-its-official-we-odd-on-the-internet.jpeg
 ---
 When I was in high school, I was in a play where I got to smoke cigarettes. I say “got to” because back then I was something of a nerd (before nerds were cool) and loved the idea of jocks and other popular kids spying the foil lining of my artfully positioned Marlboro softpack sticking out of my jeans jacket pocket.
 

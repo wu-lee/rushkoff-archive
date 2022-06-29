@@ -8,7 +8,7 @@ blurb: ''
 notes: Pasted from https://www.theatlantic.com/business/archive/2015/12/economy-fairness-rules/421809/
 refs: ''
 sources: ''
-img: https://cdn.theatlantic.com/thumbor/vFeBH6_ljGEm5WmyI3bAYwC0Mxc=/0x104:2000x1229/976x549/media/img/mt/2015/12/HopeDespair_Infrastructure/original.jpg
+image: /uploads/what-would-it-take-for-the-economy-to-be-more-fair.jpg
 published: false
 
 ---
