@@ -27,10 +27,10 @@ fields:
       file: 
       path: 
   label: publication
-- type: text
+- type: textarea
   name: blurb
   label: blurb
-- type: text
+- type: textarea
   name: notes
   label: notes
 - type: text
