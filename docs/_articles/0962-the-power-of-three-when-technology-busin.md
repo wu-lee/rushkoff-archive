@@ -14,7 +14,6 @@ img:
 slug: '0962-the-power-of-three-when-technology-busin'
 created_at: 2020-08-02T00:44:16.000Z
 updated_at: 2020-08-02T04:08:24.000Z
-published: false
 
 ---
 It's one thing to know your consumers - it's a far greater challenge to develop your technology and balance sheet around them.
