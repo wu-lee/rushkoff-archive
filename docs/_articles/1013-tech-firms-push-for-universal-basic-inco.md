@@ -1,18 +1,18 @@
 ---
-id: 1013
+id: "1013"
 title: Tech Firm's Push For Universal Basic Income Is Self-Serving
 subtitle: 
-date: '2017-07-28T04:00:00.000Z'
+date: 2017-07-28T04:00:00.000Z
 publication: los_angeles_times
 blurb: 
 notes: 
 refs: 
 sources: 
-published: false
 img: 
 slug: 1013-tech-firms-push-for-universal-basic-inco
-created_at: '2020-08-02T06:21:55.000Z'
-updated_at: '2020-08-02T06:21:55.000Z'
+created_at: 2020-08-02T06:21:55.000Z
+updated_at: 2020-08-02T06:21:55.000Z
+
 ---
 Just a year ago, proposing a concept like universal basic income could practically get me laughed off the stage at a tech industry conference. The idea that everyone should be guaranteed a minimum subsidy from the government seemed to go against every fundamental tenet of creative destruction: Don't reward the obsolete! Force people to evolve! If workers lose their jobs to automation, retrain them for new ones!
 
