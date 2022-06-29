@@ -12,7 +12,6 @@ img:
 slug: 1146-you-can-take-it-with-you
 created_at: 2021-09-30T17:39:11.000Z
 updated_at: 2021-09-30T17:39:11.000Z
-published: false
 
 ---
 Number portability is finally set to arrive in the United States. Providers are bracing themselves for the biggest change in their industry since ‘mobile’ meant car phone.
