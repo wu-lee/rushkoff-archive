@@ -17,9 +17,9 @@ fields:
     required: true
 - name: publication
   type: select
-  default: []
+  default: _publications/uncategorized.md
   config:
-    required: false
+    required: true
     options: []
     source:
       type: pages
@@ -30,9 +30,17 @@ fields:
 - type: textarea
   name: blurb
   label: blurb
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: textarea
   name: notes
   label: notes
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: text
   name: refs
   label: refs
