@@ -11,7 +11,6 @@ img: ''
 slug: when-memes-fail-us
 created_at: 2022-06-29 00:00:00 -0400
 updated_at: 2022-06-29 00:00:00 -0400
-published: false
 
 ---
 I know this has been a rough time for a lot of you, and I hope you are doing well. In brief: Yes, there has been a major electoral upheaval, and it seems there are many confused people out there working under some pretty strange assumptions. But no, this isn’t as much of a shift as it may seem.
