@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Today’s CEOs likely consider themselves above—or certainly beyond—learning something as elementary as computer code. But as everyone from pop stars to pro basketball players have been arguing and even demonstrating lately, in thedigital age, knowing how to code is basic literacy—it’s fundamental.
 

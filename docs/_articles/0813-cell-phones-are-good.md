@@ -10,7 +10,6 @@ notes:
 refs: '[{"text"=>"media ecology", "original"=>"http://www.media-ecology.org/", "archive"=>"http://web.archive.org/web/20200725065810/https://www.media-ecology.org/",
   "meta"=>{"title"=>"Media Ecology Association - Home", "favicon"=>"http://www.media-ecology.org/Resources/Pictures/Favicon/favicon-16x16.png"}}]'
 sources: 
-img: 
 
 ---
 Sci-fi writer and media academic Paul Levinson attempts to show in his new book that cell phones are as natural as fingers.

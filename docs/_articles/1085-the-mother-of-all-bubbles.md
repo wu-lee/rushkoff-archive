@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Want to know the best indicator that we've entered the final phase of a startup bubble? It's the massive success ofShark Tank, the ABC reality hit in which entrepreneurs compete for investment from the likes of Mark Cuban, Barbara Corcoran, and Steven Tisch. The money's real but the show's all in fun - or so I thought, until it began rebroadcasting on business channel CNBC. 
 

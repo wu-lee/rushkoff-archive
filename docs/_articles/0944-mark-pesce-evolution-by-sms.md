@@ -26,7 +26,6 @@ refs: '[{"text"=>"The Playful World", "original"=>"http://www.playfulworld.com/p
   {"text"=>"The You Portal (PDF)", "original"=>"http://dlux.org.au/mobilejourneys/documentation/presentations/MJPesce.pdf"}]'
 sources: 
 published: false
-img: 
 ---
 "LiveRecord is a bare-faced attempt to create another, more powerful form of mobile crack."
 

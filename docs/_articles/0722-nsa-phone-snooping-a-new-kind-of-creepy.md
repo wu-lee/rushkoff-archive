@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 I'm finding hard to get too worked up over yesterday's revelation that the National Security Agency has been authorized by the secret Foreign Intelligence Surveillance Court to collect all our call data from Verizon. Hasn't everyone already assumed this? Everything we do in the digital realm - from surfing the web to sending an email to conducting a credit card transaction to, yes, making a phone call - creates a data trail. And if that trail exists, chances are someone is using it - or will be soon enough.
 

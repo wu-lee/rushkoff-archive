@@ -10,7 +10,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 The Simpsons are the closest thing in America to a national media literacy program. By pretending to be a kids' cartoon, the show gets away with murder - that is, the virtual murder of our most coercive media iconography and techniques. For what began as an entertaining interstitial material for an alternative network variety show has revealed itself, in the 21st Century, as nothing short of a media revolution.
 

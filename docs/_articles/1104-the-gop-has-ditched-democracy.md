@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
   have to accept the sad premise that people are just too dumb, too uninformed, and too easily fooled to vote intelligently or even rationally? Most of the political class, from both sides of the aisle, seem to think so.
 

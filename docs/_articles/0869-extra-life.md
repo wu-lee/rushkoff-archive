@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Those of us who can remember writing BASIC programs in makeshift high school "computer labs" no longer need to think of ourselves as nerds. We're simply old.
 

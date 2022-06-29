@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Many of us don’t like who we have become in this pandemic but feel little freedom to choose otherwise. Officially, we may be wearing our masks to protect others, but it sure does feel appropriate to hide our faces when we’re engaging in so many self-interested, survivalist activities in the light of day — leveraging whatever privilege we may enjoy to stock and equip our homes so they can serve as makeshift bunkers, workplaces, private schools, and hermetically sealed entertainment centers.
 

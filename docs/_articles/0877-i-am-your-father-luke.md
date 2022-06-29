@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 The release of the Star Wars "Special Edition" has left me in a funk.
 

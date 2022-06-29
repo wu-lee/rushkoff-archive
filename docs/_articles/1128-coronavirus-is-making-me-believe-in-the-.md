@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Had South by Southwest not been canceled, I would have been giving a talk there this morning about fake news. I think they wanted me to get all worked up about the danger of deepfake videos, but I was having a hard time freaking myself out.
 

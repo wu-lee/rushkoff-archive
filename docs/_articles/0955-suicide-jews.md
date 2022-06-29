@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 I'm a Jew. Or, at least I was last time I checked.
 

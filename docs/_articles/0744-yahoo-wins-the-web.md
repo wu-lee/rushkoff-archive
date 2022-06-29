@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 (CNN) -- This week's announcement that Yahoo is hiring away Google exec Marissa Mayer as its latest CEO has been met by both Wall Street and the tech industry by yawns and worse.
 

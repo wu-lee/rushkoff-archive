@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 New services allow users to fake the background sounds and appearance of their locations -- all because interactive media really wants us to be more honest.
 

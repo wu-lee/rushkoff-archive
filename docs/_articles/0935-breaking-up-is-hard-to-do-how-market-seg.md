@@ -23,7 +23,6 @@ refs: '[{"text"=>"Acxiom", "original"=>"http://www.acxiom.com/", "archive"=>"htt
   {"text"=>"Claritas", "original"=>"http://www.claritas.com/", "archive"=>"http://web.archive.org/web/20200722170833/https://www.claritas.com/"}]'
 sources: 
 published: false
-img: 
 ---
 Most credit the advertising industry's greatest paradox to John Wannamaker, king of American retail in the early 1900s. It was a simpler age of course, yet that statement summarizes today's dilemma of advertising in a landscape of clutter. How do you reach a potential customer, and how do you know he'll be listening to you when you do?
 

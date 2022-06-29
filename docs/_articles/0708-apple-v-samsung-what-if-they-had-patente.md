@@ -15,7 +15,6 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   or “dreadful.” But in this strange world, the person who came up with the word demanded
   that anyone else who used it pay him […]", "dateLastCrawled"=>"2020-07-13T12:14:00.0000000Z"}]'
 published: true
-img: 
 ---
 Imagine we were just developing spoken language for the first time. And someone came up with a new word to describe an action, thought, or feeling - like “magnify” or “dreadful.” But in this strange world, the person who came up with the word demanded anyone else who used it to pay him a dollar every time the word was uttered. That would make it pretty difficult for us to negotiate our way to a society that communicated through speech.
 

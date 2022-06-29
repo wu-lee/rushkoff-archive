@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Yes, it's holiday time, so here's a true legend from the early days of wireless data.
 

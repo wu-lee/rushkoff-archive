@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 I signed on to a cause a few weeks ago: a crusade for rational thinking   about technology and its role in human affairs.
 

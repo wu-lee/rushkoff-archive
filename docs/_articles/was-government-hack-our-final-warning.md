@@ -8,7 +8,6 @@ notes: Pasted from https://rushkoff.com/cnn-was-government-hack-our-final-warnin
   . Date from CV.
 refs: ''
 sources: ''
-img: ''
 
 ---
 Was this the big one?

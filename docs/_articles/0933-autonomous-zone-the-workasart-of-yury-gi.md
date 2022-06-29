@@ -21,7 +21,6 @@ refs: '[{"text"=>"Magicbike", "original"=>"http://www.magicbike.net/about.html",
   "archive"=>"http://web.archive.org/web/20050406204634/http://humlink.humanities.mcmaster.ca:80/~didemusm/play/essay.html"}]'
 sources: 
 published: false
-img: 
 ---
 Yury Gitman might best be described as an activist. Not just in the political sense of that word (though he is certainly an innovator for those who need voice) but for his ability to put so many people and ideas into action.
 

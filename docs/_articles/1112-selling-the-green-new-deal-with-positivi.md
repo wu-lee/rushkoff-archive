@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 We’ve been taking the wrong approach to communicating about climate change. I get that the situation is dire. Really dire. But it goes way beyond the fact that every year is the hottest year on record, sea levels are rising, drought is forcing millions into refugee status, the Great Barrier Reef is almost dead, the oceans are 26 percent more acidic than preindustrial levels, our topsoil will be gone in less than 60 years, and we’re already at least 1.5 degrees Celsius toward the two degrees said to herald a real catastrophe. That’s all bad. The reality is actually worse.
 

@@ -8,7 +8,6 @@ blurb:
 notes: 
 refs: 
 sources: 
-img: 
 
 ---
 We think of automobiles as American as baseball, apple pie, and hotdogs - or at least that's what the car advertisers have gotten us to believe.

@@ -28,7 +28,6 @@ refs: '[{"text"=>"Genevieve Bell", "original"=>"http://www.bbc.co.uk/religion/re
   "meta"=>{"title"=>"404 Not Found", "favicon"=>"http://www.textually.org/favicon.ico"}}]'
 sources: 
 published: false
-img: 
 ---
 The mobile phones in our hands may have a more totemic role in our lives than we suspect.
 

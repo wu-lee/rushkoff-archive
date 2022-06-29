@@ -14,7 +14,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 In a sense, Google is just bringing computing back to the way it was supposed to be.
 

@@ -59,7 +59,6 @@ refs: '[{"text"=>"Program or be Programmed: Ten Commands for the Digital Age", "
   "creator"=>"@orbooks"}, "favicon"=>"https://www.orbooks.com/wp-content/uploads/2019/04/orlogo-300x300.png"}}]'
 sources: 
 published: false
-img: 
 ---
 An excerpt from Douglas Rushkoff's latest book, *[Program or be Programmed: Ten Commands for the Digital Age](http://www.orbooks.com/our-books/program/).*
 

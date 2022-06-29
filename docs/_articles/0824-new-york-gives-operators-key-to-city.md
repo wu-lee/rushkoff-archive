@@ -11,7 +11,6 @@ refs: '[{"text"=>"Local coverage", "original"=>"http://www.nypost.com/news/regio
   "meta"=>{"title"=>"Page not found | New York Post", "favicon"=>"https://nypost.com/wp-content/themes/nypost-2016/static/images/favicon-nypost/favicon.ico"}}]'
 sources: 
 published: false
-img: 
 ---
 The city's lampposts will provide more than just light, thanks to a new deal with a number of wireless companies.
 

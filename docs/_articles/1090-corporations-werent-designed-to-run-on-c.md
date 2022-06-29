@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Plants grow, people grow, even whole forests, jungles, and coral reefs grow — but eventually, they stop. This doesn’t mean they’re dead. They’ve simply reached a level of maturity where health is not about getting bigger, but about sustaining vitality. There may be a turnover of cells, organisms, and even entire species, but the whole system learns to maintain itself over time, without the obligation to grow.
 

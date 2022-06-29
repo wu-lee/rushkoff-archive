@@ -65,7 +65,6 @@ refs: '[{"text"=>"Most recently,", "original"=>"http://www.nytimes.com/2012/11/1
   "meta"=>{"title"=>"Security Violation (403)", "favicon"=>"http://www.forbes.com/favicon.ico"}}]'
 sources: 
 published: true
-img: "../../../../storage/121114050624-rushkoff-occupy-debt-story-top-__SQUARESPACE_CACHEVERSION=1352925412340.jpeg"
 ---
 Much like President Obama, the Occupy movement is alive and well and entering its second term, thank you very much. It's no longer about squatting in public parks, getting on the news, or -- in some cases -- getting arrested. No, instead this decentralized, bottom-up, anti-Wall Street effort is taking aim at your medical, student and other loans: It aims to relieve your debt.
 

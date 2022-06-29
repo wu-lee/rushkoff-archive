@@ -13,7 +13,6 @@ refs: '[{"text"=>"Boston Dynamics", "original"=>"http://money.cnn.com/2013/12/16
   "archive"=>"http://web.archive.org/web/20190829104825/https://www.worldwildlife.org/stories/google-helps-wwf-stop-wildlife-crime"}]'
 sources: 
 published: true
-img: "../../../../storage/131216070713-newday-romans-google-robots-00013427-story-top-__SQUARESPACE_CACHEVERSION=1387484052933.jpg"
 ---
 **(CNN)** -- *"Do the right thing; don't be evil.* *Honesty and integrity in all we do.* *Our business practices are beyond reproach.* *We make money by doing good things"*
 

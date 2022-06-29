@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 In reaction to a recent spate of camera phone voyeurism in places like locker rooms and bleacher seats, a new bill has been put before the US Congress that would make it illegal to videotape, photograph, film, broadcast or record a person who is naked or in underwear in any location a "reasonable person would believe that he or she could disrobe in privacy."
 

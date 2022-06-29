@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 The Bush administration has signalled it won't oppose efforts by the Baby Bells to overturn laws forcing them to lease out their landlines at discounted rates -- thanks to competition from mobile networks and other technologies.
 

@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Business is not the enemy. Not in itself, anyway.
 

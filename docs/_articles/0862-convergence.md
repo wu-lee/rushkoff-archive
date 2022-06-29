@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Anyone who has been following the Internet Wars for the past decade or so knows that the indigenous population of community-builders has long been on the brink of absolute surrender to the invading force of better-armed and tactically superior venture capitalists.
 

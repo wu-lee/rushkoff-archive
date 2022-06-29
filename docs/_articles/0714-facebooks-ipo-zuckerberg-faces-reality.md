@@ -15,7 +15,6 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   to file for an IPO — initial public offering — through which anyone will be able
   to buy shares of the social networking company on an open stock exchange.", "dateLastCrawled"=>"2020-07-07T04:47:00.0000000Z"}]'
 published: true
-img: 
 ---
 (CNN) -- We all knew he'd eventually get around to it: Mark Zuckerberg is expected to finally bring Facebook public. The company is reported to be preparing to file for an IPO -- initial public offering -- through which anyone will be able to buy shares of the social networking company on an open stock exchange.
 

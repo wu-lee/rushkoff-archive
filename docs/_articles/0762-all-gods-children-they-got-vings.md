@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 The web site flashes images of a fetus, the mysterious face on the surface of Mars, and a ball of fire. Beneath the images, promises of the mysteries lying in wait for all comers:
 

@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Is the Internet really a forum capable of exposing our governments' deepest, darkest secrets, or is it just a hotbed for conspiracy theorists and the dissemination of their most paranoid delusions to an uncritical audience?
 

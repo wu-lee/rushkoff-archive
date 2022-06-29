@@ -54,7 +54,6 @@ refs: '[{"text"=>"Interactive Telecommunications Program", "original"=>"http://i
   "title"=>"Find your inspiration. | Flickr", "favicon"=>"https://combo.staticflickr.com/pw/images/favicons/favicon-196.png"}}]'
 sources: 
 published: false
-img: 
 ---
 Last year, it was Dodgeball. What do this year's students have in store for the mobile phone?
 

@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Writing this little piece could get me in a whole lot of trouble. See, most of my books and articles are about combating the very same marketing techniques you hope to learn by subscribing to a magazine like this one. My usual readers are the kids who buy Adbusters magazine, the activists who protest at the WTO, and parents looking for ways to bring meaning into their children's lives that don't involve a new brand of sneaker. If they even suspect me of selling you clues about how teens think and live in order for you to market fashions to them more effectively, I'm done for.
 

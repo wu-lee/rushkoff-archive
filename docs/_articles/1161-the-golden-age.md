@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 
 Don't take your handheld for granted. This sorry decade may just be remembered as the 'golden age' of wireless devices.

@@ -44,7 +44,6 @@ refs: '[{"text"=>"Firefly Mobile", "original"=>"http://www.fireflymobile.com/", 
   "Synopsis", "Trailers", "Credits"], "favicon"=>"https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/android-mobile-196x196._CB479962153_.png"}}]'
 sources: 
 published: false
-img: 
 ---
 Mobile phones marketed to children may cause less injury to tykes than they do to the image of the entire wireless industry.
 

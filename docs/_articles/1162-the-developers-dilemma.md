@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 The inability to create a great cell-phone software course may tell us a lot about the plight of independent developers in a development-hostile environment.
 

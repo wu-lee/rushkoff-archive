@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Marko Ahtisaari wants the wireless industry to embrace its users as developers.
 

@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 How mobile can -- and should -- change the way we think about entertaining ourselves and each other.
 

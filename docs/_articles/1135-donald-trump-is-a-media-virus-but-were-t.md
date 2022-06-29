@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 We’ll likely never touch the man, sit in the same room, or establish rapport with him. But he has nonetheless infected all of us quite intimately — some of us willingly, and some less so. That’s because he is less invasive as a person than he is as a virus. Yes, Donald Trump is a media virus, in the truest sense of the term.
 

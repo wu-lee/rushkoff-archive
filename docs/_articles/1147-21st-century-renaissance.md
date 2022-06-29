@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Today’s renaissance makes us feel that our self-expression matters, too.
 

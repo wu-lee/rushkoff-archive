@@ -10,7 +10,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Every culture and subculture get the drugs that they deserve. In fact, almost every major cultural movement in history can be traced back to the chemicals they did or didn't have.
 

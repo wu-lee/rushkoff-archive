@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Let me tell you a story. Actually, let me spare you the story, especially when it comes to brand marketing. Don’t you feel better? I certainly would. Just the anticipation of having to sit through a company’s story fills me with dread. Not a lot, but enough to make me turn the page, change the channel, or click on a different link.
 

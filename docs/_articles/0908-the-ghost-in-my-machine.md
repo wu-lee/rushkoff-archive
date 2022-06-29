@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 It looks like I'll have to throw out my computer. Or at least donate it to some institution I don't really care for. Maybe if I take it apart and give away the components, the hex on the machine itself will be broken.
 

@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 How mobile gaming energizes the spirit -- and technology -- of the networked society.
 

@@ -9,7 +9,6 @@ notes: Pasted from https://www.kessels-smit.com/files/Douglas_Rushkoff_-_Develop
   , edited for formatting
 refs: ''
 sources: ''
-img: ''
 
 ---
 _What do playing and doing business have in common?_ 

@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Everything really is going to be just fine. Not spectacular, but not disastrous, either. The handholding I've been doing for the past five years can end. It's time to free up this newspaper space for some news.
 

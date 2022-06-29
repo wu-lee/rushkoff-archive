@@ -10,7 +10,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 I first encountered Sarah Sze - whom I hadn't yet heard of - at a cocktail party in New York. She was about to leave for Paris to do an installation "with ladders."
 

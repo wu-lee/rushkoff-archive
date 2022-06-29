@@ -11,7 +11,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 What makes the iPad so new and different, of course, is that instead of you having to find a bootleg copy of Apple's OS X operating system and install it illegally on an existing netbook or tablet PC, now you get to have a real Mac system pre-installed on a super-lightweight device that's fully capable of running it.
 

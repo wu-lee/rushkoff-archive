@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 It feels like we’ve finally reached “peak Facebook.”
 

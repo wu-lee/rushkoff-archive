@@ -8,7 +8,6 @@ blurb: For better or worse, the internet is 'biased to the amateur and to the im
 notes: 
 refs: 
 sources: 
-img: 
 
 ---
 First they came for the musicians, and I did not speak out--because I am not a musician. Then they came for the filmmakers, and I did not speak out--because I am not a filmmaker. Then they came for the journalists, and there was no one left to speak out for us.

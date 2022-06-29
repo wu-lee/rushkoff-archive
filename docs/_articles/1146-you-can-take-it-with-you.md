@@ -8,7 +8,6 @@ blurb:
 notes: 
 refs: 
 sources: 
-img: 
 
 ---
 Number portability is finally set to arrive in the United States. Providers are bracing themselves for the biggest change in their industry since ‘mobile’ meant car phone.

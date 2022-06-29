@@ -33,7 +33,6 @@ refs: '[{"text"=>"Mobile Speak accessibility program.", "original"=>"http://www.
   blind", "sensory substitution", "vestibular treatment", "vision aid"], "favicon"=>"https://static.parastorage.com/client/pfavico.ico"}}]'
 sources: 
 published: false
-img: 
 ---
 Paying attention to one group's disabilities enhances usability for everyone else.
 

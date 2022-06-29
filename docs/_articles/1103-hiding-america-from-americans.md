@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Until quite recently, films like 1954’s Abstract in Concrete were banned for American viewers. Although produced with U.S. tax dollars, this cinematic interpretation of the lights of Times Square was meant for European consumption only. Like the rest of the art and culture exported by the United States Information Agency, Abstract in Concrete was part of a propaganda effort to make our country look more free, open, and tolerant than many of us preceived or even wanted it to be. In the mid-1940’s, when conservative members Congress got wind of the progressive image of America we were projecting abroad, they almost cut the USIA’s funding, potentially reducing America’s global influence.
 

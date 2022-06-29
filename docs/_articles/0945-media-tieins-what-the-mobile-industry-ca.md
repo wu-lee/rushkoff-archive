@@ -31,7 +31,6 @@ refs: '[{"text"=>"Radio Orphan Annie Secret Society", "original"=>"http://www.ra
   "card"=>"summary_large_image", "site"=>"@Wireless_Watch"}, "favicon"=>"http://www.wirelesswatch.jp/bts/ico.png"}}]'
 sources: 
 published: false
-img: 
 ---
 The stories, games, and characters driving youth culture can also drive the uptake of communications technologies.
 

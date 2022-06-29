@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: false
-img: 
 ---
 I HAD an unsettling experience at a basketball game a while ago. My New York Knicks, though playing with injuries, had finally caught up with the Toronto Raptors. It was one of those magic moments in sports where a sudden burst of enthusiasm by the home team had enabled them to overcome a tremendous deficit and take the lead. The visiting opponents called a time out to regroup, and the home crowd went wild.
 

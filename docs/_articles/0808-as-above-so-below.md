@@ -12,7 +12,6 @@ refs: '[{"text"=>"The Alliance for the New Humanity.", "original"=>"http://www.a
   "meta"=>{"description"=>"See related links to what you are looking for.", "favicon"=>"http://www.anhglobal.org/favicon.ico"}}]'
 sources: 
 published: false
-img: 
 ---
 The satellite dish at the heart of a new age conference dedicated to 'world peace' begs whether violent communications strategies only beget more of the same.
 

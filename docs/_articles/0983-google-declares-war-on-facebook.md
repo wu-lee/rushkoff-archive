@@ -11,7 +11,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 But a scorched-earth battle over our social networks may leave casualties in its wake, particularly if we start to look at our friends the way either of these companies do.
 

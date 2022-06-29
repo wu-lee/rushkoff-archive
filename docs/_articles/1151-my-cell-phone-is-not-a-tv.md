@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 
 The wireless industry’s insistence on bringing the wrong media to our cell phones may cost us – and them – the whole game.

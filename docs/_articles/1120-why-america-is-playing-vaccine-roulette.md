@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 I got shingles last week. I went to sleep scratching what I thought was a particularly nasty bug bite, and woke up with what felt like a thousand of them — only they burned right down to the bone. Too much stress, I told myself. Too many appointments and emails and commitments, competing for my nervous system’s attention.
 

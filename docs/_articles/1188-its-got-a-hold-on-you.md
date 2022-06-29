@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 The mobile phones in our hands may have a more totemic role in our lives than we suspect.
 

@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: false
-img: 
 ---
 I was raised back in the day when teachers showed 16mm films in the classroom. It was a special event: the A/V librarian would wheel in an aqua-colored Bell & Howell projector, one of us nerdy types would wind the film through the various rollers, the screen would come down, the lights would go off and the magic would begin. Even the most boring film was still surrounded by this specialness, which set it apart from business-as-usual in the classroom.
 

@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 By day, the officers appear highly empathetic, kneeling and praying alongside members of the community. By night, they drive armored vehicles, don riot gear, shoot rubber bullets, and resort to tear gas as they corral and trample generally peaceful protestors who have opted to exercise their constitutional right to assembly.
 

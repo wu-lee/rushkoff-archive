@@ -10,7 +10,6 @@ notes:
 refs: 
 sources: 
 published: false
-img: 
 ---
 **‘The whole planet is the museum!'  
 Author-theorist Douglas Rushkoff takes tea and talks shop with veteran mindboggler/conceptualist/artist/visionary Genesis P-Orridge, best known for his work as co-founder of seminal industrial outfit Throbbing Gristle and leader of neo-primitive-shamanic ravists Psychic TV**

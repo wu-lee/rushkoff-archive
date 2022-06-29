@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 I hate ads, I hate things that flash at me, and I hate to wait. That's why I've gone into the "preferences" menus in my Web browser and turned off the pictures altogether. I'd rather have no pictures at all than spend my time and money on obnoxious banners.
 

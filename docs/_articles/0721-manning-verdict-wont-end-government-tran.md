@@ -99,7 +99,6 @@ refs: '[{"text"=>"235th anniversary", "original"=>"http://dissenter.firedoglake.
   "site"=>"@guardian", "card"=>"summary_large_image"}, "favicon"=>"https://assets.guim.co.uk/images/favicons/46bd2faa1ab438684a6d4528a655a8bd/32x32.ico"}}]'
 sources: 
 published: true
-img: "../../../../storage/130730131022-rushkoff-manning-story-top-__SQUARESPACE_CACHEVERSION=1375231364318.jpg"
 ---
 **(CNN)** -- Pfc. Bradley Manning, who provided classified government documents to Wikileaks detailing, among other things, America's undisclosed policies on torture, was found guilty of espionage on Tuesday. The verdict comes on the [235th anniversary](http://dissenter.firedoglake.com/2013/07/29/bradley-manning-to-be-convicted-on-a-day-of-significance-in-whistleblower-history/) of the passage of America's first whistle-blower protection law, approved by the Continental Congress after two Navy officers were arrested and harassed for having reported the torture of British prisoners.
 

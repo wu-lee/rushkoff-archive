@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Blame us "early adopters." We're the ones who enjoy using new technologies before they hit the mainstream.. But, in doing so, we end up turning something fun into something mandatory. And then it just isn't any fun anymore. In fact, it's downright debilitating.
 

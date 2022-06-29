@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Just a couple of years ago, Google CEO Eric Schmidt was helping to launch the iPhone—standing onstage with Steve Jobs much in the fashion that Bill Gates video-conferenced himself on to the MacWorld Convention stage back in 1997 to celebrate Microsoft's support of OS X.
 

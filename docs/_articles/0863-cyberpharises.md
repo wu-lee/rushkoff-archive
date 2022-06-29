@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 A graying, middle-aged business man smiles meekly at the bottom of the frame. Shadows surround him. On the facing page, the text revealing his thoughts: "Will a 14-year-old SOCIOPATH bring my company to its knees?"
 

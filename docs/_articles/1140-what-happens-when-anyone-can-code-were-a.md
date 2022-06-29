@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 We may be moving into an era when everyone can make computer programs, even though they don’t know how to code — at least not in the way we think about coding today.
 

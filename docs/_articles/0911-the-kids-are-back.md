@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 So, am I, like, the last kid on the block to get my Hotline server up and running? It sure seems so. Not since I logged onto the Internet for the first time, back in 1988, and encountered the already-populated chat rooms, bulletin boards, and hacker groups, have I been so overwhelmed by the rate at which a community can grow into an entire world -- without anyone in the over-ground, workaday reality ever finding out.
 

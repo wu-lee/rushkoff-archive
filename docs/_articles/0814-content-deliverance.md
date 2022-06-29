@@ -18,7 +18,6 @@ refs: '[{"text"=>"Mark Hurst", "original"=>"http://www.creativegood.com/", "arch
   {"text"=>"The Bass Station", "original"=>"http://stage.itp.nyu.edu/%7Eaw596/BassStation-final.pdf"}]'
 sources: 
 published: false
-img: 
 ---
 Content Management is for losers. Young people may have discovered the dark truth about digital media: the person who wins the right to store a piece of data has actually won the booby prize.
 

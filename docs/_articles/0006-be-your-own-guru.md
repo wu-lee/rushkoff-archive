@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 My good friend Jody Radzik—the guy who first introduced me to raves, actually—started up a blog this year. Jody is about the most loving and optimistic person I've ever known. That’s why I was surprised that instead of touting a new spiritual or cultural phenomenon, Radzik had decided to bash one.
 

@@ -35,7 +35,6 @@ refs: '[{"text"=>"", "original"=>"http://www.amazon.com/exec/obidos/ASIN/1400066
   How to Take It Back: Rushkoff, Douglas: 9781400066896: Amazon.com: Books", "favicon"=>"http://www.amazon.com/favicon.ico"}}]'
 sources: 
 published: true
-img: http://cdn.thedailybeast.com/content/dailybeast/articles/2009/06/08/how-i-became-an-enemy-of-the-people/_jcr_content/body/image_1.img.503.jpg/1337256000000.cached.jpg
 ---
 Yes, I had gotten mugged at gunpoint, and yes, I was now talking trash about my neighborhood. But the real crime—the one that couldn't be forgiven by the likes of New York magazine—was that I might be threatening to help push artificially elevated real-estate prices off a precipice they were nearing all by themselves. As a defamer of the market at the height of its fascist mania, I had rendered myself an enemy of the people.
 

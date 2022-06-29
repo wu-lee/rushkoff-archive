@@ -9,7 +9,6 @@ blurb: Trump has brought pranksterism to the Republican Party. That used to be l
 notes: 
 refs: 
 sources: 
-img: 
 
 ---
 I still remember when it was the Left who had more fun. It wasn’t just that they were younger and had better hair, music, and drugs (though all of that certainly helped); it was that the Left was fabulously irreverent. Whether [nominating a pig](https://en.wikipedia.org/wiki/Pigasus_(politics)) for president, or [raining dollar bills](https://www.thenation.com/article/archive/it-was-50-years-ago-today-abbie-hoffman-threw-money-at-the-new-york-stock-exchange/) on the New York Stock Exchange, these were pranksters and media activists who tweaked their noses at authority and undermined the foundations of consensus society.

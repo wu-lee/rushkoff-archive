@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 What used to make me valuable as a technology theorist was my access to new and weird stuff and my ability to make it seem less strange and foreign. Email? It’s just like writing letters. Hypertext? It’s like “choose your own adventure.” Chaos math? Like a weather system.
 

@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: false
-img: 
 ---
 Last week's Supreme Court ruling was positive in one respect: it made law out of what was already happening. While corporations earned “personhood” back in the 1860s when a (likely bribed) court clerk added this language into the margins of another court decision, they never quite had the rights of citizenship before. They already write our laws (through lobbies) elect our leaders (with money) and create public opinion (with money and PR). (If you’re interested in how and why that happened, please read my book [Life Inc](http://rushkoff.com/books/life-incorporated/).) But they have always tended to do so by working around government’s efforts to limit their influence.
 

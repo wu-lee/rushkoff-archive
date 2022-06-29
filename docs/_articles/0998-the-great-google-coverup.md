@@ -15,7 +15,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 My fear—for Google and for us—is that the reason they know it's the Chinese government behind these attacks is because Google gave them the key.
 

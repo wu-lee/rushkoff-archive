@@ -10,7 +10,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 I'm a bit down on the Internet these days.
 

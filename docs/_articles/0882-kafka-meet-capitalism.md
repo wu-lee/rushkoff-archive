@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 How much of the saga do you need to hear to recognize it as your own?
 

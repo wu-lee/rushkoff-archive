@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Do you have the attention span required to scroll through this entire nine-hundred-word column or, like me and countless others, will you most likely get the gist by scanning the first couple of sentences and then moving on to something else?
 

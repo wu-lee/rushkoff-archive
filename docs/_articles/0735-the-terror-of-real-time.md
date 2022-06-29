@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 So is this the "new normal"? That's the question I keep hearing as people try to comprehend the tragedy at the Boston Marathon and its chaotic aftermath. The answer is yes -- in more ways than you might think.
 

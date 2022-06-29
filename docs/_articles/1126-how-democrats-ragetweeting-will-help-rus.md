@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 TO: His Excellency Vladimir V. Putin
 

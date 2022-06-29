@@ -12,7 +12,6 @@ notes: Excerpted and pasted from https://www.cnn.com/2015/12/01/opinions/opinion
   . Included images.
 refs: ''
 sources: ''
-img: ''
 
 ---
 I used to argue that the Internet acted like truth serum: No matter what someone on television claimed, eventually someone would dig up the truth. Then, because it was the truth, it would eventually float up to the surface. It forced me and other writers to be more rigorous about our assertions, lest some expert eventually reveal that they are myths.

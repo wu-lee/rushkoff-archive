@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Like the many who've installed the program, I, too, became addicted to Napster. At least for a moment.
 

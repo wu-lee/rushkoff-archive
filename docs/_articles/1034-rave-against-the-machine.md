@@ -10,7 +10,6 @@ notes:
 refs: 
 sources: 
 published: false
-img: 
 ---
 IT WAS ALL THUMP AND BLEEP. SIMPLE ANALOG computer sounds that, amplified to discotheque volume, somehow suggested a new future for the human race. A thousand kids, wearing no style in particular, dancing sexily, rhythmically, or even just spasmodically, committed themselves to pushing through until dawn and beyond. Maybe it was the drugs. Or maybe they were on to something.
 

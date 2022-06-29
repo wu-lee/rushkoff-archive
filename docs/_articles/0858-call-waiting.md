@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 "I'm getting a call, hold on," my friend explained before clicking off our phone conversation to check on the possibility of another.
 

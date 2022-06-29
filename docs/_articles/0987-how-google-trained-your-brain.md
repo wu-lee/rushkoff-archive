@@ -13,7 +13,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Google pays us for running its partners' ads on our blogs and podcast sites; Microsoft pays us to buy stuff from its partners.
 

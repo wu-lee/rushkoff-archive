@@ -8,7 +8,6 @@ blurb:
 notes: 
 refs: 
 sources: 
-img: 
 
 ---
 I’m on tour with the Team Human book and have been inspired by the interest I’m getting from real people and places, podcasts and independent journalists — but a bit surprised by the almost deafening silence from institutional media. I know that’s partly because they’re all busy covering Trump and Russiagate, while almost ignoring stories like the coup in Venezuela, the dam disaster in Brazil, or the anti-Kurd offensive in Turkey. Books are not shocking enough for the viral mediascape, unless they’re bombshell tell-alls from former Trump staffers.

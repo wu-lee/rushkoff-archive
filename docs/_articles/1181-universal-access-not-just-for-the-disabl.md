@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Paying attention to one group's disabilities enhances usability for everyone else.
 

@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 It's easy to understand why advertising on the Web doesn't work. People are loathe to click on an ad, and resentful of commercials that cost them time. Unlike TV viewers, who have surrendered their experience to the programmer, users of the Web like to navigate their own experience. We want to remain active. We don't want to look at an ad when we log onto America Online, much less be forced to watch a streaming video "intermercial."
 

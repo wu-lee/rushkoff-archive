@@ -36,7 +36,6 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   that a high-school football coach bestows upon his third-stringers, admonishes nonsmokers
   not merely to accept but to accommodate their smoking peers.", "dateLastCrawled"=>"2020-05-19T21:29:00.0000000Z"}]'
 published: false
-img: 
 ---
 If the newest etiquette surveys are any indication, mobile phones may be going the way of the cigarette.
   

@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: false
-img: 
 ---
 I don't believe Tim Geithner’s toxic asset auction plan will work to change the basic problem of bank insolvency, but that doesn’t stop me from appreciating the sheer brilliance and post-partisan nature of the approach.
 

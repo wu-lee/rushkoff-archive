@@ -25,7 +25,6 @@ refs: '[{"text"=>"Interactive Media Division", "original"=>"http://interactive.u
   {"text"=>"Tracking Agama", "original"=>"http://trackingagama.net/", "archive"=>"http://web.archive.org/web/20181105212528/http://trackingagama.net/"}]'
 sources: 
 published: false
-img: 
 ---
 University of Southern California's Interactive Media Division takes on mobile technology.
 

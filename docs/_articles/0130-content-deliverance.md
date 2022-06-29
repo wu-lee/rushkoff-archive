@@ -16,7 +16,6 @@ refs: '[{"text"=>"The Feature", "original"=>"http://www.thefeature.com/article?a
   "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}}]'
 sources: 
 published: false
-img: http://www.blogger.com:80/img/icon18_email.gif
 ---
 Come over to [The Feature](http://www.thefeature.com/article?articleid=100343) and check out my new 'think piece' on the decreasing value of 'owning' digital data. I'll be participating in the discussion over there, too, which is kind of fun: most of the readers are wireless industry pros who disagree with any point of view that doesn't coordinate well with their existing business plan...
 

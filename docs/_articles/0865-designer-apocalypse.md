@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Did the Internet lead 39 California cult members who made their living designing World Wide Web pages to commit mass suicide? Of course not. But the way that the Internet and the world view it heralds changes the way we think about ourselves and our relationship to the world around us might not be entirely unrelated to this tragedy, either.
 

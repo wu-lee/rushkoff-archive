@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 I wasn't sure whether the mass of cocktail-swilling Internet businesspeople were celebrating their various victories or merely trying to look that way. I had stumbled into Silicon Alley '99, New York City's premier cyber-business conference, which had grown by this year -- just its second -- into a nearly thousand-person extravaganza.
 

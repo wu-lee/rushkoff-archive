@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 It’s easy to underestimate the significance of what’s been happening this year. That’s just the way mainstream media pundits and politicians want it.
 

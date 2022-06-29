@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 "I know I'm wasting half my advertising dollars — I just don't know which half."
 

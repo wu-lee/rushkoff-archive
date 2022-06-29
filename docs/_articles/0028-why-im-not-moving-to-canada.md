@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Looks like things are going to get worse here in the United States before they get better.
 

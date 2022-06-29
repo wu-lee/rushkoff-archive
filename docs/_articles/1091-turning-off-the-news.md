@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Thanks to recent flooding in my part of the country, I’ve been too busy digging myself and my neighbors out the mud to watch the news or scroll through Twitter. Not surprisingly, I am better for it.
 

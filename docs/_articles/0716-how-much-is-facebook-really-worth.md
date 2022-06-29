@@ -20,7 +20,6 @@ refs: '[{"text"=>"getting credit for helping to topple regimes in the Middle Eas
   to be pointing up. ", "favicon"=>"http://www.cnn.com/favicon.ico"}}]'
 sources: 
 published: true
-img: 
 ---
 (CNN) -- Depending on who you talk to, Facebook is valued at more than $50 billion -- maybe even as much as $65 billion.
 

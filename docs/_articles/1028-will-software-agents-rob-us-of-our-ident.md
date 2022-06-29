@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: false
-img: 
 ---
 Of all the cool and creepy pieces of hyped-up software to have emerged since the Web went mainstream, the coolest and creepiest have got to be intelligent agents. And, according to the press releases jamming my E-mail server, they're here: autonomous pieces of programming trained to race around cyberspace doing our bidding while we're out watching football, making love or doing whatever else we've decided not to let our software do for us.
 

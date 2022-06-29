@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 University of Southern California's Interactive Media Division takes on mobile technology
 

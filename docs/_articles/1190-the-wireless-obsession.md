@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Are there times when going wireless is just plain pointless? Rushkoff's extended battle with Wireless Obsessive Dissorder.
 

@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Noindictment? No collusion? In the wake of the Mueller investigation report this week, many of my progressive friends are reliving the trauma of election night. This can’t be true. It can’t have happened.
 

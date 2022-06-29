@@ -12,7 +12,6 @@ refs: '[{"text"=>"CNN.com", "original"=>"http://www.cnn.com/2011/OPINION/01/07/r
   to be pointing up. ", "favicon"=>"http://www.cnn.com/favicon.ico"}}]'
 sources: 
 published: true
-img: 
 ---
 (CNN) -- All signs for Facebook appear to be pointing up.
 

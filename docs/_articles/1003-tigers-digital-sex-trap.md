@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Perhaps the greatest irony in the Tiger Woods scandal is that the most salacious item to emerge so far is a voice recording of the golf pro leaving a voicemail message instructing one of his mistresses to disassociate her name from her cell phone number, so that it would not show up when his wife utilized CallerID in her forensic analysis of Tiger's cell phone SIM card.
 

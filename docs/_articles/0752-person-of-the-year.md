@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 I wonder how many people picked up Time's “Person of the Year” issue, gazed into the little silver mirror on the cover, and felt genuinely proud to be among the 300-million-or-so people the magazine's editors felt deserved this special honor. After all, we had some stiff competition.
 

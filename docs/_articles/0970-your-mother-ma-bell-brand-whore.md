@@ -10,7 +10,6 @@ refs: '[{"text"=>"sell Sprint wireless services under the AT&T brand", "original
   "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}}]'
 sources: 
 published: false
-img: 
 ---
 AT&T has had its share of disgraces since the US Department of Justice forced them to break up into eight "Baby Bells" back in 1984. Long distance competition from young upstarts like Sprint and MCI; a meager cable TV effort ultimately sold off to Comcast; a technologically plagued and then financially troubled cell phone service, spun out and eventually sold off to Cingular; and, most recently - on April Fool's Day of all times - being dropped from the Dow.
 

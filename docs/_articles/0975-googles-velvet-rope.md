@@ -24,7 +24,6 @@ refs: '[{"text"=>"this week''s column on Daily Beast", "original"=>"http://www.t
   "favicon"=>"http://www.thedailybeast.com/static/media/favicon.b30a79ed.ico"}}]'
 sources: 
 published: true
-img: 
 ---
 For Google, the problem with being a free, abundant, and rather infinite set of services is that it's hard to create much of a stir about anything. There are so many major software service options under the "more" menu on the Gmail page that they've had to go and add a final item called "even *more*." Blogger, Calendar, Docs, Earth, Health, YouTube, Chrome—it's all there, all the time, for everyone.
 

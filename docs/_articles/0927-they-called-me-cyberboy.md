@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Not so long ago, I could freak people out by talking about cyberculture. It was fun. They'd laugh nervously when I'd say they'd be using email someday. They'd call me "cyberboy" and mean it as an insult. I felt like a renegade.
 

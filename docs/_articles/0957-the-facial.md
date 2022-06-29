@@ -12,7 +12,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 "I always cum on her stomach or her face," a 24-year-old web designer who works in the Flatiron district explained to me. "I never do it inside. That's a waste. I like to see it happening."
 

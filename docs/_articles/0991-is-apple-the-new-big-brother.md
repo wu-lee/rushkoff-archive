@@ -16,7 +16,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 It was supposed to be Bill Gates who turned out to be Satan.
 

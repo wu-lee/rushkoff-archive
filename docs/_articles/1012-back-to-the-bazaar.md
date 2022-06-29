@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: false
-img: 
 ---
 THE BAZAAR MAY HAVE BEEN THE MOST IDEAL, IMPROMPTU AND PERFECTLY MANDATORY MEETING OF ALL TIME. These late-Middle Ages market days were social and business gatherings where people were as likely to discuss politics, religion and local gossip as they were the price of grain or the quality of meat at the last stall. I expect people remembered and valued the quality of social and intellectual connections as much or more than the actual booty traded—though the trading is what brought everyone to market in the first place.
 

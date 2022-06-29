@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 In one way, at least, I was prepared for this crisis. I’m an author of books about technology and society, and I make my living traveling around the world giving speeches to people who would rather listen than read. Over the past couple of years, however, I’ve been doing an increasing number of my speaking appearances over the internet. It’s better for the environment, there’s less wear and tear on my body, it saves money, and I don’t have to block out as many dates on my Google Calendar.
 

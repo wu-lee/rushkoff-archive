@@ -21,7 +21,6 @@ refs: '[{"text"=>"Cyberia", "original"=>"http://www.rushkoff.com/cyberia.html", 
   "card"=>"summary_large_image"}, "favicon"=>"http://www.madagascarinstitute.com/favicon.ico"}}]'
 sources: 
 published: false
-img: 
 ---
 I've gotten more email than I want to count asking me about Flash Mobs. And phone calls from countless journalists from countless local papers, all charged with writing something about these spontaneous cell-inspired gatherings.
 

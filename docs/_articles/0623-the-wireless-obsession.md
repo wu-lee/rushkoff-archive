@@ -21,6 +21,5 @@ refs: '[{"text"=>"The Feature", "original"=>"http://www.thefeature.com/article?a
   "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}}]'
 sources: 
 published: false
-img: http://www.blogger.com:80/img/icon18_email.gif
 ---
 I'll be writing two little pieces for The Feature website each month. My favorite, so far, is one I did about what [Walter Ong might have thought about wireless communications](http://www.thefeature.com/article?articleid=100290).

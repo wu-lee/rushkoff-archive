@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: false
-img: 
 ---
 I've been trying to figure out exactly why President Obama’s approach to the economic crisis upsets me so much, so regularly, and I think I figured it out.
 

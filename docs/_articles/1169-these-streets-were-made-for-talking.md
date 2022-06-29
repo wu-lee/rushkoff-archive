@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Using utterly backwards-compatible technologies, a new mobile service lets city streets tell their histories to anyone with a cell phone.
 

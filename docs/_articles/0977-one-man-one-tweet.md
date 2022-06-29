@@ -27,7 +27,6 @@ refs: '[{"text"=>"Daily Beast", "original"=>"http://www.thedailybeast.com/blogs-
   "favicon"=>"http://www.thedailybeast.com/static/media/favicon.b30a79ed.ico"}}]'
 sources: 
 published: true
-img: 
 ---
 > Most observers of the Twitter-fueled revolution rightly point out that this activity is at its most effective when it actually mobilizes real humans, puts bodies on the street, and gives dissidents the opportunity to organize successful retreats. Digital dissidence alone is easy, and easy to ignore.  
 >   

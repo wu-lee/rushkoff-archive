@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Lights, camera, compression! The new world of bite-sized video.
 

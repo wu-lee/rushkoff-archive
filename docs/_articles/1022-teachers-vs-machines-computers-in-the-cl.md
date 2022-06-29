@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: false
-img: 
 ---
 When I was in junior high school, teachers would show us 16-mm films about frogs, foreign cultures and the force of friction.
 

@@ -60,7 +60,6 @@ refs: '[{"text"=>"integrating their technology into mobile handsets", "original"
   "meta"=>{"title"=>"404 Not found!", "favicon"=>"http://www.handyarchive.com/favicon.ico"}}]'
 sources: 
 published: false
-img: 
 ---
 To most wireless industry business forecasters, the future in music revenue means MP3s. Some see cell phones with the memory and audio capacity of an iPod. Others look forward to cell phones as preferred FM receivers, and satellite radio companies are already working on [integrating their technology into mobile handsets](http://www.gizmodo.com/gadgets/portable-media/xm-aims-for-cell-phones-eventually-026697.php).
 

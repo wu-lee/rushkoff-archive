@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 "All hail his royal highness, the noble primogen of the Tremere, Lord Julius," announces a herald as the last of the vampire clans arrives at the Elysium. It's 10:00 on a cold, wet, moonless night in San Francisco, yet nearly 75 Goth-clad bloodsuckers have gathered at the Arts Pavilion, a huge, circular, outdoor atrium butressed by ornate gargoyled columns, to conduct their weekly conclave.
 

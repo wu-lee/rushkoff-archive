@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: false
-img: https://i1.wp.com/www.arthurmag.com/magpie/wp-content/uploads/2009/03/wallstreaper.jpg
 ---
 With any luck, the economy will never recover.
 

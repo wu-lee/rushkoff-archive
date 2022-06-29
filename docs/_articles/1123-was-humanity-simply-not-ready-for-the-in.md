@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 As someone who celebrated the potential for digital technology to unleash entirely new dimensions of collective human potential, I can’t help but feel a little culpability for our predicament. After my talks these days, people regularly ask me if I feel “sorry” for having written books like Cyberia and Playing the Future, which attempted to frame emerging digital society as a “renaissance.” Back in 1992, I told everybody to come on in, the water is fine! Do I now accept any of the blame for today’s combined plagues of disinformation, economic inequality, automation, and weaponized memetics?
 

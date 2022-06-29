@@ -59,7 +59,6 @@ refs: '[{"text"=>"the media", "original"=>"http://www.nytimes.com/2004/06/10/bus
   "favicon"=>"http://www.nytimes.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico"}}]'
 sources: 
 published: false
-img: 
 ---
 The Bush administration has signalled it won't oppose efforts by the Baby Bells to overturn laws forcing them to lease out their landlines at discounted rates -- thanks to competition from mobile networks and other technologies.
 

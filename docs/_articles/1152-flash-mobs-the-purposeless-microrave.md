@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 
 I surrender to the media hype. Here's what I think about Flash Mobs, writing about Flash Mobs, and writing about writing about Flash Mobs.

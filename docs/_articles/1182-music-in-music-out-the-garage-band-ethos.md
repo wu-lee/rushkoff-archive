@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 The future of mobile music lies in creating tunes, not just downloading them.
 

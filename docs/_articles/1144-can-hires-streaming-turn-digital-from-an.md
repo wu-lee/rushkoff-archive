@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Rumors that Apple will embrace hi-res streaming audio are stirring up a decades-old debate among audiophiles like me: Does digital reproduction really sacrifice some essential life from music, as vinyl purists claim? Or will it prove — in the fashion of dogmatically atheist scientists — that the ineffable “presence” of analog music has been a nostalgic superstition all along?
 The truth is, decades of digital reproduction may have already shifted our entire culture against really caring.

@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 had an unsettling experience at a basketball game this afternoon. My New York Knicks, though playing with injuries, had finally caught up with their Canadian opponents. It was one of those magic moments in sports where a sudden burst of enthusiasm by the home team had allowed them to overcome a tremendous deficit and take the lead. The visiting opponents called a "time out" to regroup, and the home crowd went wild.
 

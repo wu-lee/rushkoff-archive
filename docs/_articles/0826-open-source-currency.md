@@ -14,7 +14,6 @@ refs: '[{"text"=>"Ithaca Hours", "original"=>"http://www.ithacahours.org/", "arc
   "original"=>"http://groups.yahoo.com/group/ijccr/", "archive"=>"http://web.archive.org/web/20050207153144/http://groups.yahoo.com:80/group/ijccr/"}]'
 sources: 
 published: false
-img: 
 ---
 Or, how mobile phones can break the money monopoly.
 

@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 It's not easy being a marketer these days, especially a teen marketer. Budgets are down, the promises heralded by Internet commerce have all but vanished, and the kids themselves–those very kids who you are hoping to attract–hate you and everything you're trying to do to them. There are more than 32 million teenagers in the United States, spending $100 billion on themselves every year, and directly influencing the spending of another $50 billion by their parents. And, unlike most consumers, teens spend their money almost exclusively on luxury purchases such as music, designer clothes and movie tickets–purchases that have almost nothing to do with product attributes or intrinsic value, and everything to do with branding. This makes teens your holy grail: the ultimate target market. It's also why there are so many of you out there, desperately competing for their attention and their loyalty. You put an average of 3,000 television and print advertisements in front of the American teenager each day. It's a crowded media space. How can you make your brands appear cooler than anyone else's?
 

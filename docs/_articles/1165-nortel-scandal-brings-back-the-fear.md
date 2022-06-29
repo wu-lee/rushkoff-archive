@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Just last week, it looked like a Fed rate hike or the cooling of China's markets were Wall Street's biggest worries. Now, corporate malfeasance has roared back into the headlines.
 

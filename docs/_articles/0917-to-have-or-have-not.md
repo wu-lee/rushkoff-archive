@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 In America, the Internet has always been thought of as something you buy. You purchase a computer, stick it in your home somewhere, choose an online service, and then find a fourteen-year-old to set it up for you. The biggest hurdle in getting online has been the fear associated with typing in your credit card number over non-secured phone lines (as if the carbon copy you signed at that restaurant last night is any safer - it isn't).
 

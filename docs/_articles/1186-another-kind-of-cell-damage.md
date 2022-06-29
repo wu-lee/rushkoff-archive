@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Mobile phones marketed to children may cause less injury to tykes than they do to the image of the entire wireless industry.
 

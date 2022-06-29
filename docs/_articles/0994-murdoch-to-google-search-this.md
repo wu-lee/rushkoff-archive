@@ -26,7 +26,6 @@ refs: '[{"text"=>"In an interview with Sky News Australia", "original"=>"http://
   "favicon"=>"http://www.thedailybeast.com/static/media/favicon.b30a79ed.ico"}}]'
 sources: 
 published: true
-img: 
 ---
 [In an interview with Sky News Australia](http://www.thedailybeast.com/videos/2009/11/09/rupert-murdoch-challenges-google.html) over the weekend, Murdoch challenged the Cardinal Rule of the Internet by suggesting that information wants to be expensive: “They shouldn’t have had it free all the time, and I think we’ve been asleep. It costs us a lot of money to put together a newspaper.”
 

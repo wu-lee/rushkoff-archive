@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: false
-img: 
 ---
 When I was a kid, the main reason my mom limited our television time was x-rays. Back in 1968, when I was seven years old, the same age my daughter is now, a big study on radioactive emissions from cathode ray tubes had just come out, and so our new color Philco had become the enemy. My brother and I had to watch A Charlie Brown Christmas and the NY Jets win the Super Bowl from 15 feet away, in the corner of the room diagonally opposite from the set.
 

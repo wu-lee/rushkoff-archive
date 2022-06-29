@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 The Russian government’s influence over Donald Trump may be the least of our problems. I mean, how has White House diplomacy affected your life compared with, say, the algorithms that Google and Facebook use to steer your activity, the automated processes that are fast usurping your means of employment, or the artificial intelligences that are surpassing your own cognitive abilities?
 Yet these emerging technological trends can also be blamed on the Russians. No, not Putin and the oligarchs, but a little-known line of early 20th-century Russian occult philosophers called the cosmists.

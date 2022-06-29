@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 
 Content Management is for losers. Young people may have discovered the dark truth about digital media: the person who wins the right to store a piece of data has actually won the booby prize.

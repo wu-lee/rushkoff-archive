@@ -10,7 +10,6 @@ notes:
 refs: '[{"text"=>"Umbrella.net", "original"=>"http://www.undertheumbrella.net/", "archive"=>"http://web.archive.org/web/20200115111221/http://undertheumbrella.net:80/"}]'
 sources: 
 published: false
-img: 
 ---
 Software for the next generation of wireless networks may forgo access to the Internet, and give users access to one another.
 

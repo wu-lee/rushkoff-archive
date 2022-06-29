@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 I've been avoiding this moment for a long time. But eventually, I knew I'd have to deal with it.
 

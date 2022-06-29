@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: false
-img: 
 ---
 I KNOW WE'RE NOT SUPPOSED to say such things, but I have lost faith in national politics. Yes, I'll vote in the coming elections and do my part to get the less sold-out, less anti-communitarian candidate in office. But I no longer look to the top tier of centralized government to solve our problems or help us grope toward conclusions together.
 

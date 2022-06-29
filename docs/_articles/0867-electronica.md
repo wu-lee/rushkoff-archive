@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 What do you think of when you hear the word "cyberculture?" The most popular answers I received in my informal poll this week were:
 

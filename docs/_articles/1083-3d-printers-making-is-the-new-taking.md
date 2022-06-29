@@ -8,7 +8,6 @@ blurb: ''
 notes: ''
 refs: ''
 sources: ''
-img: ''
 
 ---
 Back in December 1972, my dad surprised the family with a strangely prescient holiday gift: an Odyssey, the first-ever home video game console. At the time it was a nerdy novelty - this was even before Pong, mind you - but it was the harbinger of seismic shift in entertainment. Then, five years later, dad’s were coming home with Radio Shack’s TRS 80, one of the first retail home computers, and another glimpse into the future. 

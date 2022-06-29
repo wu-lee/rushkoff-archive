@@ -20,6 +20,5 @@ refs: '[{"text"=>"more at the Daily Beast", "original"=>"http://www.thedailybeas
   "favicon"=>"http://www.thedailybeast.com/static/media/favicon.b30a79ed.ico"}}]'
 sources: 
 published: true
-img: 
 ---
 [more at the Daily Beast](http://www.thedailybeast.com/blogs-and-stories/2009-11-09/murdoch-to-google-search-this/full/)

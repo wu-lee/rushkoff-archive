@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: false
-img: 
 ---
 For most of us, the release from slavery described in the story of Pesach is metaphorical. We are not enslaved physically; we are rather imprisoned mentally, emotionally and spiritually. Mitzrayim, the “narrow place,” is a narrow state of mind from which we are released the moment we are willing to smash our idols.
 

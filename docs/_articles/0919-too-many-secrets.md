@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 There are secrets, and there are secrets about secrets. Meta-secrets.
 

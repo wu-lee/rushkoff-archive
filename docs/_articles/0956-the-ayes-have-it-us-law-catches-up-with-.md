@@ -19,7 +19,6 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   not be visible to the public, regardless of whether that person is in a private
   area.”", "dateLastCrawled"=>"2020-06-06T14:05:00.0000000Z"}]'
 published: false
-img: 
 ---
 The bill, authored by Congressman (and former FBI agent) Michael Oxley of Ohio, specifically targets those who take pictures of others when they believe that "their private parts would not be visible to the public, regardless of whether that person is in a private area."
 

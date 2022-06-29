@@ -15,7 +15,6 @@ refs: '[{"text"=>"extraordinary discussion", "original"=>"http://www.thefeature.
   {"text"=>"Electric Minds", "original"=>"http://gnutenberg.net/textz/text.php?text=rheingold_howard_my_experience_with_electric_minds&id=1009948415611"}]'
 sources: 
 published: false
-img: 
 ---
 What would Walter Ong have thought about the current evolution of mobile media, or, What Would Jesus Moblog?
 

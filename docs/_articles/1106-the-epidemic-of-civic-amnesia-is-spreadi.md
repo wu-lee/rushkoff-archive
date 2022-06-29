@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 I was at a dinner party the other night when a well-to-do woman I know, an ardent Hillary supporter in the last election, put down her wine glass and said to no one in particular, “Maybe 150 years is long enough.”
 

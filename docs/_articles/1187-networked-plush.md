@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Inserting a cell phone or an Airport in a fuzzy doll just won't cut it. It's time for toys to network.
 

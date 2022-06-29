@@ -12,7 +12,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 If today's announcement of a Google-Verizon partnership plays out as planned, that's a tradeoff we won't have to make anymore.
 

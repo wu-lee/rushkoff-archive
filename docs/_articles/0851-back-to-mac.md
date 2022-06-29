@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 About two years ago in this space, I made an announcement that led to over 1000 horrified responses from you readers. I'm still receiving a trickle of email about it to this day. And all I had done was explain the reasons why I had traded in my Macintosh computer for a Windows machine.
 

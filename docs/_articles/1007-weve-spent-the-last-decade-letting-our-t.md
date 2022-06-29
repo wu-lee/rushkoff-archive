@@ -10,7 +10,6 @@ notes:
 refs: 
 sources: 
 published: false
-img: 
 ---
 We may come to remember this decade as the one when human beings finally realized we are up against something. We’re just not quite sure what it is.
 

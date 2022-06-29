@@ -10,7 +10,6 @@ notes:
 refs: 
 sources: 
 published: false
-img: 
 ---
 I know it's wrong. I'm not supposed to get my thrills this way. Still, the recent spate of hacker attacks on major American corporate Web sites brings a smile to my face - and to the faces of almost everyone I speak to about it.
 

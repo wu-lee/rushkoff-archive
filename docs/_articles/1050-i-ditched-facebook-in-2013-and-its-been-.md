@@ -8,7 +8,6 @@ blurb:
 notes: 
 refs: 
 sources: 
-img: 
 
 ---
 You can ditch Facebook. It's OK. You will survive. And not only will you get through it, but your life will get better.

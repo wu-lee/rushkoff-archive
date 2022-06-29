@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 We're supposed to be in favor of innovation. It's a form of evolution. Then why is every new version of software or upgrade of processor feeling like such a drag?
 

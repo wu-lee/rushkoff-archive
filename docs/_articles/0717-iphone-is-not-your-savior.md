@@ -33,7 +33,6 @@ refs: '[{"text"=>"boost our nation''s GDP", "original"=>"http://www.reuters.com/
   "meta"=>{"title"=>"Security Violation (403)", "favicon"=>"http://www.forbes.com/favicon.ico"}}]'
 sources: 
 published: true
-img: "../../../../storage/120911094145-rushkoff-iphone-story-top-__SQUARESPACE_CACHEVERSION=1347460275025.jpeg"
 ---
 **(CNN)** -- Last time around, humanity's savior came in the form of a human messiah. This time, if technology analysts, bankers and venture capitalists are to be believed, it will take the form of a handheld computer otherwise known as a smartphone.
 

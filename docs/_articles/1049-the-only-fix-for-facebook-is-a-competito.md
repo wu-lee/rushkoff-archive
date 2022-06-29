@@ -8,7 +8,6 @@ blurb:
 notes: 
 refs: 
 sources: 
-img: 
 
 ---
 Anyone expecting bombshell revelations from Mark Zuckerberg's testimony before Congress may have been disappointed by repetitive questions and circular responses. But that doesn't mean we learned nothing important.

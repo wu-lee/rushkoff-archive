@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 I thought it was just me. About half an hour into the Riddley Scott action picture "Gladiator," I got a strange sort of headache. It began somewhere behind my eyes, and quickly traveled back into my brain. I had a vague memory of the sensation, and as the burly characters hacked at one another inside a computer-rendered Roman Coliseum, I realized when I had experienced this same head-ache before: traveling to Jar-Jar Binks underwater home city in "Star Wars, The Phantom Menace."
 

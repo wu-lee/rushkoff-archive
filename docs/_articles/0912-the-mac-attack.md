@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Am I in the doghouse, or what? So far, I have received over 300 angry emails from angry Mac loyalists, damning me to eternal hell for announcing in my last column that I had deserted Apple and bought a Windows machine.  
 The letters - including a few from Apple employees -- raised some great points, but before I can bring myself to respond to them, I have to respond to the flood itself.

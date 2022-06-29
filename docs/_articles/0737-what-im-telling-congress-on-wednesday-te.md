@@ -36,7 +36,6 @@ refs: '[{"text"=>"Computer Science Education Week", "original"=>"http://www.csed
   as Web Coders | WIRED", "favicon"=>"http://www.wired.com/favicon.ico"}}]'
 sources: 
 published: true
-img: "../../../../storage/121209115840-rushkoff-code-writing-story-top-__SQUARESPACE_CACHEVERSION=1355159791156.jpg"
 ---
 **(CNN)** -- This week is [Computer Science Education Week](http://www.csedweek.org/), which is being observed around the United States with events aimed at highlighting the promise -- and paucity -- of digital education. The climax of the festivities, for me anyway, will be the opportunity to address members of Congress and their staffers on Wednesday in Washington about the value of digital literacy. I've been an advocate of digital culture for the past 20 years, and this feels like the culmination of a lifetime of arguing.
 

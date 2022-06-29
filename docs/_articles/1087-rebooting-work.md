@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Digital and robotic technologies offer us both a bounty of productivity as well as welcome relief from myriad repeatable tasks. Unfortunately, as our economy is currently configured, both of these seeming miracles are also big problems. How do we maintain market prices in a world with surplus productivity? And, even more to the point, how do we employ people when robots are taking all the jobs?
 

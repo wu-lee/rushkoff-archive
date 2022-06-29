@@ -47,7 +47,6 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   that Prince Alwaleed bin Talal of Saudi Arabia has invested $300 million in Twitter.
   The shock and awe seems to center ...", "dateLastCrawled"=>"2020-04-22T05:51:00.0000000Z"}]'
 published: true
-img: 
 ---
 The social media universe has been aghast this week after the revelation that Prince Alwaleed bin Talal of Saudi Arabia has invested $300 million in Twitter. The shock and awe seems to center around the notion that Twitter has been at least partly responsible for the Arab Spring uprisings that directly threaten the Saudi royal family's grip on power. On the surface, anyway, this seems like a contradiction.
 

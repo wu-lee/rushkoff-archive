@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Maybe the news that the Internet makes people depressed shouldn't have taken us by surprise. It's what concerned cyber-reactionaries have been telling us since the beginning: the Internet renders us incapable of forming real relationships, isolates us in an empty electronic simulation, and destroys family bonds. Now, the well-meaning killjoys have some science to back their conjecture.
 

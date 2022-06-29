@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 I receive more than 100 emails a day from people with great ideas for social change, new democratic platforms, eco-villages, and alternative currencies. Some of them have already written eloquent white papers, created gorgeous renderings, or plotted out cyclic revenue streams that seem to challenge the laws of perpetual motion. These are well-meaning people, with great educations and skills, turning their attention to the most pressing “wicked problems” of our age.
 

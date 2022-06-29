@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 
 What would Walter Ong have thought about the current evolution of mobile media, or, What Would Jesus Moblog?

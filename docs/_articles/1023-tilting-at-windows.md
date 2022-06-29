@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: false
-img: 
 ---
 No matter how much we Americans might love to hate Bill Gates, we can't help but have mixed feelings about the US Justice Department and the two dozen or so states suing Microsoft for violating anti-trust laws.
 

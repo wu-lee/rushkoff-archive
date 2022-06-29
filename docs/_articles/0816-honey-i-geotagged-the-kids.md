@@ -60,7 +60,6 @@ refs: '[{"text"=>"Mapping Hacks", "original"=>"http://mappinghacks.com/"}, {"tex
   "projects", "models", "games", "waypoints", "scale", "jeremy wood"], "favicon"=>"http://www.gpsdrawing.com/favicon.ico"}}]'
 sources: 
 published: false
-img: 
 ---
 How collaborative cartography could enable us to map our shared worlds -- and why the wireless industry probably won't go for it.
 

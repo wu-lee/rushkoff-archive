@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Propaganda used to mean getting people to believe stuff. Now it means getting them to question what they believe or whether there’s any truth at all. However disorienting this is, it may not be all bad.
 

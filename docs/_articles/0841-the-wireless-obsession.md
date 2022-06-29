@@ -11,7 +11,6 @@ refs: '[{"text"=>"crazy conference", "original"=>"http://www.thefeature.com/arti
   {"text"=>"secretly available modem driver", "original"=>"http://groups.yahoo.com/group/vzw_t720/files/Mac%20OS%20X%20Verison%20Modem%20Scripts/"}]'
 sources: 
 published: false
-img: 
 ---
 Are there times when going wireless is just plain pointless? Rushkoff's extended battle with Wireless Obsessive Dissorder.
 

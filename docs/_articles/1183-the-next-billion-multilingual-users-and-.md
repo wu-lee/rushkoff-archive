@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Why the mobile industry needs to learn the world's struggling languages.
 

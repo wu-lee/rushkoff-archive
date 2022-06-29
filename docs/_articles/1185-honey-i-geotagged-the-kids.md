@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 How collaborative cartography could enable us to map our shared worlds -- and why the wireless industry probably won't go for it.
 

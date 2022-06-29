@@ -12,7 +12,6 @@ refs: '[{"text"=>"HipNTasty", "original"=>"http://www.hipntasty.com/", "archive"
   "meta"=>{"favicon"=>"data:image/x-icon;,"}}]'
 sources: 
 published: false
-img: 
 ---
 The best thing about having been, at least at one point in my life, cool enough to be invited to parties at Timothy Leary's house, is that I got to meet some pretty spectacular people face to face. On the very same summer afternoon out on his patio of his Beverly Hills home nearly ten years ago, I met Oliver Stone, Yoko Ono, Trent Reznor and, the one person with whom I stayed in touch, Jane's Addiction front man Perry Farrell.
 

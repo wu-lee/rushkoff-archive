@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Thanks to a mayor looking for votes from the moral right, children in Boston are no longer allowed to access Internet sites offering information about feminism or counseling on eating disorders. Odd? Indeed. But when a politician turns over the authority to censor what our children see online to a company looking to maintain a competitive advantage while advancing its own agendas, anything is possible.
 

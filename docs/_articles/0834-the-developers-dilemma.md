@@ -21,7 +21,6 @@ refs: '[{"text"=>"Interactive Telecommunications Program,", "original"=>"http://
   domain has not yet uploaded their website.", "favicon"=>"http://www.shirky.com/favicon.ico"}}]'
 sources: 
 published: false
-img: 
 ---
 The inability to create a great cell-phone software course may tell us a lot about the plight of independent developers in a development-hostile environment.
 

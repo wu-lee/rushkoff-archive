@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: false
-img: 
 ---
 GEOCITIES is rapidly becoming one of the biggest and most popular sites on the Internet's World Wide Web. The secret of its success is that it gives away free home pages and e-mail addresses, and anyone can sign up online. It's a good place to put baby pictures for friends and family, club newslettters, or to experiment with Web design ideas. But free pages also provide a great opportunity for individuals and less-commercial groups to make a wider impact. For example, WIN (Women's International Net), has put the first issue of its monthly e-zine at www. geocities. com/Wellesley/ 3321/ and made it available by e-mail from winmagazine@geocities. com THE International Campaign to Ban Landmines, having won this year's Nobel Peace Prize, has opened a Web site at www. landmine. org to solicit donations. The Campaign was already on the Web on the Vietnam Veterans of America site at www. vvaf. org/landmine/ The UN's CyberSchoolBus is launching a landmine project and Web site on October 24. See www. un. org/ pubs/cyberschoolbus/banmines NASA is tracking the Cassini mission to Saturn at www. jpl. nasa. gov/ cassini/ Paper aeroplane fans can even download and build a scale model of the spacecraft (plutonium not included).
 

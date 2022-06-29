@@ -53,7 +53,6 @@ refs: '[{"text"=>"Federal Register", "original"=>"http://edocket.access.gpo.gov/
   "meta"=>{"title"=>"Archived FCC RF News, page 1", "favicon"=>"http://www.sss-mag.com/favicon.ico"}}]'
 sources: 
 published: false
-img: 
 ---
 Yes, it's holiday time, so here's a true legend from the early days of wireless data.
 

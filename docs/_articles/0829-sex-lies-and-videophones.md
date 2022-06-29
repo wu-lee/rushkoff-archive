@@ -40,7 +40,6 @@ refs: '[{"text"=>"SounderCover", "original"=>"http://www.simeda.com/soundercover
   "meta"=>{"title"=>"Page not found – 160 characters", "favicon"=>"http://www.160characters.org/favicon.ico"}}]'
 sources: 
 published: false
-img: videophones_files/image.jfif
 ---
 New services allow users to fake the background sounds and appearance of their locations -- all because interactive media really wants us to be more honest.
 

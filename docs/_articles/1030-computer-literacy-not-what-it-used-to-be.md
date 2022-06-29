@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: false
-img: 
 ---
 A new book, *Extra Life* by *Wired* magazine writer David Bennahum, gave me the opportunity to reminisce about those good old days when kids had free reign of the networks. Now those kids are the adults responsible for designing everything from Netscape to the Palm Pilot. By giving us the keys to the kingdom, our teachers (perhaps unwittingly and by necessity) gave us the best sink-or-swim computer education we could have asked for.
 

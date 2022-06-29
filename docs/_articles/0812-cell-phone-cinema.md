@@ -56,7 +56,6 @@ refs: '[{"text"=>"CTIA Wireless IT and Entertainment Expo", "original"=>"http://
   {"text"=>"Mobisodes", "original"=>"http://news.com.com/TV+to+the+rescue/2100-1039_3-5423178.html?tag=nefd.top"}]'
 sources: 
 published: false
-img: 
 ---
 Lights, camera, compression! The new world of bite-sized video.
 

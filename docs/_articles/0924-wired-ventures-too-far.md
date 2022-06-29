@@ -10,7 +10,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Wired Magazine and its parent company, Wired Ventures, were once the crown jewel of the Silicon Empire. The editors of this magazine earnestly believed they were the heralds of the coming digital civilization, and hundreds of corporate CEO's took them at their word. As much concerned with hype as content, Wired's publishers positioned themselves as the exclusive purveyors of computer culture to the rest of the world. And everyone seemed to buy it - until now.
 

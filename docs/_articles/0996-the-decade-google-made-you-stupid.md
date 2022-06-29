@@ -11,7 +11,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Here are the four things cognizant people should know about the decade when computers mastered our cognition.
 

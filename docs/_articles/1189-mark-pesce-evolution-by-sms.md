@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 "LiveRecord is a bare-faced attempt to create another, more powerful form of mobile crack."
 

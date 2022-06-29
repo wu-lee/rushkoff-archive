@@ -13,7 +13,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: http://cdn.thedailybeast.com/content/dailybeast/articles/2009/09/30/a-tweet-you-cant-refuse/_jcr_content/body/image_1.img.503.jpg/1337256000000.cached.jpg
 ---
 **mgorbis:** Hey, I just added you to my Mafia family. You should accept my invitation! :)
 

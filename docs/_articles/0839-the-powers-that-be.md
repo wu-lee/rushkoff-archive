@@ -33,7 +33,6 @@ refs: '[{"text"=>"Moore''s Law", "original"=>"http://www.intel.com/research/sili
   "meta"=>{"title"=>"controlmagazine.com", "favicon"=>"http://www.controlmagazine.com/favicon.ico"}}]'
 sources: 
 published: false
-img: 
 ---
 The wireless industry's biggest problem could become the world's biggest solution.
 

@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 I was in one of those sports "superstores" the other day, hoping to find a pair of trainers for myself. As I faced the giant wall of shoes, each model categorized by either sports affiliation, basketball star, economic class, racial heritage or consumer niche, I noticed a young boy standing next to me, maybe 13 years old, in even greater awe of the towering selection of footwear.
 

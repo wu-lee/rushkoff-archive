@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 The city's lampposts will provide more than just light, thanks to a new deal with a number of wireless companies.
 

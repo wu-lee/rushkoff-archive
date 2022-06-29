@@ -19,7 +19,6 @@ refs: '[{"text"=>"Nokia''s Insight and Foresight", "original"=>"http://www.nokia
   "meta"=>{"title"=>"404 Not Found", "favicon"=>"http://www.textually.org/favicon.ico"}}]'
 sources: 
 published: false
-img: 
 ---
 Marko Ahtisaari wants the wireless industry to embrace its users as developers.
 

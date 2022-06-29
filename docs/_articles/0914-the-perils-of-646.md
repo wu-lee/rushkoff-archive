@@ -9,7 +9,6 @@ notes:
 refs: 
 sources: 
 published: true
-img: 
 ---
 Has your telephone company assigned you one of those new area codes? Don't take it. Kick and scream if you have to, make any excuse you can come up with -- or be willing to accept the consequences. They're not pretty.
 

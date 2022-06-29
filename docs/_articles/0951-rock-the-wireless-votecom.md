@@ -14,7 +14,6 @@ refs: '[{"text"=>"Open Source Democracy", "original"=>"http://www.demos.co.uk/ca
   "title"=>"Page not found - Rock the Vote", "site_name"=>"Rock the Vote"}, "favicon"=>"https://www.rockthevote.org/wp-content/uploads/cropped-checkmark-icon-192x192.png"}}]'
 sources: 
 published: false
-img: 
 ---
 Does politics by thumb - via the culture of MTV - enhance democracy, or reduce it to a marketing survey?
 
