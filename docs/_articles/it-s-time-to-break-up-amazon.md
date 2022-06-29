@@ -1,7 +1,7 @@
 ---
 title: It’s Time To Break Up Amazon
 subtitle: ''
-date: 2017-06-19 00:00:00 -0400
+date: 2017-06-19T00:00:00.000-04:00
 publication: _publications/''.md
 blurb: With its mega-acquisition of Whole Foods, the retail behemoth moves to suck
   the value out of yet another market, writes Douglas Rushkoff.
@@ -9,6 +9,7 @@ notes: Pasted from https://www.fastcompany.com/40432885/its-time-to-break-up-ama
 refs: ''
 sources: ''
 img: https://images.fastcompany.net/image/upload/w_937,ar_16:9,c_fill,g_auto,f_auto,q_auto,fl_lossy/wp-cms/uploads/2017/06/p-1-its-time-to-break-up-amazon.webp
+image: "/uploads/it-s-time-to-break-up-amazon.jpg"
 
 ---
 “Amazon just bought Whole Foods,” my friend texted me seconds after the announcement of [the proposed acquisition](https://news.fastcompany.com/report-amazon-is-buying-whole-foods-4040976). “It’s over. The world.”
