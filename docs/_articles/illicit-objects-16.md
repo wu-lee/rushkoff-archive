@@ -11,7 +11,6 @@ img: https://www.hilobrow.com/wp-content/uploads/2017/08/2stashbox.jpg
 slug: illicit-objects-learys-stash-box
 created_at: 2022-06-29 00:00:00 -0400
 updated_at: 2022-06-29 00:00:00 -0400
-published: false
 
 ---
 You might have assumed that Timothy Leary’s Los Angeles home was quite a drug den. But from the 1980s onward, as I discovered for myself, after we became friendly, Tim rarely kept any serious stores of drugs of his own. There were always drugs in the house — because everyone who visited him came bearing gifts. People considered it an honor to offer Tim whatever exotic strain of chemical or pill they could access. If he wanted a joint, whoever was visiting would just roll one from their own supply.
