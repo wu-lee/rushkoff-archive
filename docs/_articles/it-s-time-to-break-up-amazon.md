@@ -12,7 +12,6 @@ img: https://images.fastcompany.net/image/upload/w_937,ar_16:9,c_fill,g_auto,f_a
 slug: its-time-to-break-up-amazon
 created_at: 2022-06-29 00:00:00 -0400
 updated_at: 2022-06-29 00:00:00 -0400
-published: false
 
 ---
 “Amazon just bought Whole Foods,” my friend texted me seconds after the announcement of [the proposed acquisition](https://news.fastcompany.com/report-amazon-is-buying-whole-foods-4040976). “It’s over. The world.”
