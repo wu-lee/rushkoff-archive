@@ -42,12 +42,6 @@ fields:
 - type: text
   name: img
   label: img
-- type: text
-  name: slug
-  label: slug
-  config:
-    required: true
-    min: 5
 - type: datetime
   name: created_at
   label: created_at

@@ -8,12 +8,6 @@ fields:
   config:
     required: true
 - type: text
-  name: stub
-  label: stub
-  config:
-    required: true
-    min: 5
-- type: text
   name: url
   label: url
 pages:
