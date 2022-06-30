@@ -9,7 +9,6 @@ notes: 'Source: [https://time.com/4253743/startups-are-not-as-disruptive-as-they
   "https://time.com/4253743/startups-are-not-as-disruptive-as-they-appear/")'
 refs: ''
 sources: ''
-published: false
 
 ---
 We first got excited about web startups because they didn’t have to follow the script. Two kids in a dorm room could develop a platform that would change the world with little or no capital behind them. More than disrupting a particular industry, these companies had the potential to disrupt business itself, and we–the common people–would all be better and richer for it.
