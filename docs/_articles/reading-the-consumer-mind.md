@@ -9,7 +9,6 @@ notes: 'Source: [http://web.archive.org/web/20040402005441/http://www.nypress.co
   "http://web.archive.org/web/20040402005441/http://www.nypress.com/17/7/news&columns/rotation.cfm")'
 refs: ''
 sources: ''
-published: false
 
 ---
 By now, most of us in the appropriately concerned corners have heard at least something about Emory University’s neuromarketing research center, the BrightHouse Institute for Thought Sciences. The latest innovation in a never-ending quest to decode consumer behaviors, the institute uses Emory University Hospital’s Magnetic Resonance Imaging (MRI) equipment to scan the brains of human subjects on behalf of corporate clients such as Coca-Cola, K-mart and Home Depot.
