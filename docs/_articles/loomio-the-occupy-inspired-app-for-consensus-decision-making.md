@@ -9,7 +9,6 @@ notes: 'Source: [https://www.shareable.net/infographic-the-why-how-of-community-
   "https://www.shareable.net/infographic-the-why-how-of-community-land-trusts/")'
 refs: ''
 sources: ''
-published: false
 
 ---
 The best thing about Occupy Wall Street wasn't what it argued politically or accomplished legislatively, but what it modeled for us: a new way of engaging with issues, resolving conflict, and reaching consensus. It was a style of engagement that seemed like it could only happen in person, between young people willing to sit in a cold park all night until they could come to an agreement over an issue.
