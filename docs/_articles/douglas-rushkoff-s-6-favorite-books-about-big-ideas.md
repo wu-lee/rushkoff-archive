@@ -9,7 +9,6 @@ notes: '[https://theweek.com/articles/614537/douglas-rushkoffs-6-favorite-books-
   "https://theweek.com/articles/614537/douglas-rushkoffs-6-favorite-books-about-big-ideas")'
 refs: ''
 sources: ''
-published: false
 
 ---
 [**_Technics & Civilization_**](https://target.georiot.com/Proxy.ashx?tsid=156573&GR_URL=http%3A%2F%2Famazon.com%2FTechnics-Civilization-Lewis-Mumford%2Fdp%2F0226550273%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtheweekus-us-9484790829128930000-20) by Lewis Mumford (Univ. of Chicago, $25). This 1934 book invented media theory, the notion that our technologies create entire environments that reshape life as we know it. The invention of the clock led to hourly employment. The capital-intensive machinery of the industrial age led to consolidated corporate power. Mumford said it all, first.
