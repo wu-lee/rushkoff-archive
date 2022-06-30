@@ -1,5 +1,5 @@
 ---
-publication: _publications/uncategorized.md
+publication: _publications/changethis.md
 title: The Era of Jack Welch is Over
 subtitle: Create Real Value Now, or Perish
 image: ''
