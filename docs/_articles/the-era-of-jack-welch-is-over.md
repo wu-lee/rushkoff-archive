@@ -11,7 +11,6 @@ notes: |-
   Date from [https://www.porchlightbooks.com/blog/changethis/2010/the-era-of-jack-welch-is-over-create-real-value-now-or-perish-](https://www.porchlightbooks.com/blog/changethis/2010/the-era-of-jack-welch-is-over-create-real-value-now-or-perish- "https://www.porchlightbooks.com/blog/changethis/2010/the-era-of-jack-welch-is-over-create-real-value-now-or-perish-")
 refs: ''
 sources: ''
-published: false
 
 ---
 Yes, the net has changed business as profoundly as anything since central banking. But instead of seizing the opportunity, most businesses are still so addicted to the old way of doing things that they do the very opposite: they use the net to entrench themselves even further into the Industrial Age landscape that is fast disappearing. 
