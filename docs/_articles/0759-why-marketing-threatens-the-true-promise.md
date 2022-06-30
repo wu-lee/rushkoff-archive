@@ -1,14 +1,14 @@
 ---
 title: Why Marketing Threatens the True Promise of Social Media
 subtitle: 
-date: '2011-01-06T12:12:36.000Z'
+date: 2011-01-06T12:12:36.000Z
 publication: _publications/mashable.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: false
-image: /uploads/0759-why-marketing-threatens-the-true-promise.jpg
+image: "/uploads/0759-why-marketing-threatens-the-true-promise.jpg"
+
 ---
 *[Douglas Rushkoff](http://rushkoff.com) is the author of* [Life Inc: How Corporatism Conquered the World and How We Can Take It Back](http://www.amazon.com/Life-Inc-Corporatism-Conquered-World/dp/0812978501)*, out this week in paperback from RandomHouse, as well as* [Program or Be Programmed](http://www.orbooks.com/our-books/program/) *from ORBooks. Follow him on [Twitter](http://twitter.com/#!/rushkoff) and [Facebook](http://facebook.com/DouglasRushkoff).*
 
