@@ -12,7 +12,6 @@ notes: |-
   Image: https://images.fastcompany.net/image/upload/w_937,ar_16:9,c_fill,g_auto,f_auto,q_auto,fl_lossy/fc/3058254-poster-p-1-why-you-might-want-to-rethink-those-401k-contributions-youve-been-making.webp
 refs: ''
 sources: ''
-published: false
 
 ---
 Many of us take for granted that our retirement is our own personal responsibility. Young professionals understand that they’re playing a game, competing against one another not just in a race for jobs but also for retirement strategies. The only trouble is that 401(k)s might be creating many more losers than winners.
