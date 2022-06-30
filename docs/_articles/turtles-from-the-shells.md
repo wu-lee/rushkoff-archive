@@ -9,7 +9,6 @@ notes: 'Source: [https://thenewinquiry.com/turtles-from-the-shells/](https://the
   "https://thenewinquiry.com/turtles-from-the-shells/")'
 refs: ''
 sources: ''
-published: false
 
 ---
 **_The end of the world really did happen, just like the Mayans said; but not in the way we thought_**
