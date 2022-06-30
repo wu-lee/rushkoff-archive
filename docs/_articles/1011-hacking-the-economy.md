@@ -1,13 +1,13 @@
 ---
 title: Hacking The Economy
 subtitle: 
-date: '2009-03-19T04:00:00.000Z'
+date: 2009-03-19T04:00:00.000Z
 publication: _publications/h_plus.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: false
+
 ---
 Hacking the economy is easier than it looks.
 
