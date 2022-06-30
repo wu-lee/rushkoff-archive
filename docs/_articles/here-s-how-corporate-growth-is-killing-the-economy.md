@@ -11,7 +11,6 @@ notes: |-
   Image: https://rushkoff.com/wp-content/uploads/2016/03/505145430-768x443.jpg
 refs: ''
 sources: ''
-published: false
 
 ---
 **Businesses are sacrificed for share price**
