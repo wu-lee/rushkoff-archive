@@ -1,13 +1,13 @@
 ---
 title: Why Johnny Can't Program
 subtitle: 
-date: '2010-09-30T04:00:00.000Z'
+date: 2010-09-30T04:00:00.000Z
 publication: _publications/huffington_post.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: false
+
 ---
 Ask any kid what Facebook is for and he’ll tell you it’s there to help him make friends. What else could he think? It’s how he *does* make friends. He has no idea the real purpose of the software, and the people coding it, is to monetize his relationships. He isn’t even aware of those people, the program, or their purpose.
 
