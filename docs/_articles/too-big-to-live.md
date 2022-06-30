@@ -11,7 +11,6 @@ notes: |-
   Date: [https://www.porchlightbooks.com/blog/changethis/2009/too-big-to-live-why-letting-banks-fail-is-actually-good-for-real-people](https://www.porchlightbooks.com/blog/changethis/2009/too-big-to-live-why-letting-banks-fail-is-actually-good-for-real-people "https://www.porchlightbooks.com/blog/changethis/2009/too-big-to-live-why-letting-banks-fail-is-actually-good-for-real-people")
 refs: ''
 sources: ''
-published: false
 
 ---
 As the financial institutions we have come to rely on appear to topple under their own weight, our natural instinct is to rush to support them. These are the banks, investment groups, and insurance firms to which we have outsourced our savings, financing, and investing. They fund our businesses and lend most of our currency into existence. 
