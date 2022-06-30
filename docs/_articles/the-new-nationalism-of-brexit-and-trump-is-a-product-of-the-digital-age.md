@@ -12,7 +12,6 @@ notes: "Source: [https://www.fastcompany.com/3061574/the-new-nationalism-of-brex
   \"https://images.fastcompany.net/image/upload/w_937,ar_16:9,c_fill,g_auto,f_auto,q_auto,fl_lossy/fc/3061574-poster-p-1-the-nationalism-that-has-brought-us-brexit-and-trump-is-a-symptom-of-the-digital-age.webp\")"
 refs: ''
 sources: ''
-published: false
 
 ---
 Most of us thought digital technology would connect the whole world in new ways. The Internet was supposed to break down those last boundaries between what are essentially synthetic nation states and herald a new, global community of peers.
