@@ -1,8 +1,8 @@
 ---
 title: The Facial
 subtitle: 
-date: '2009-04-12T04:00:00.000Z'
-publication: _publications/uncategorized.md
+date: 2009-04-12T04:00:00.000Z
+publication: _publications/exe-magazine.md
 blurb: 'I''m not talking about the latest place in Soho to get mud pack treatments,
   but a new preferred climax strategy for young men raised on porn videos. That''s
   right: coitus interuptus, once considered a particularly frustrating form of birth
@@ -10,7 +10,7 @@ blurb: 'I''m not talking about the latest place in Soho to get mud pack treatmen
 notes: 
 refs: 
 sources: 
-published: true
+
 ---
 "I always cum on her stomach or her face," a 24-year-old web designer who works in the Flatiron district explained to me. "I never do it inside. That's a waste. I like to see it happening."
 
