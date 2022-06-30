@@ -12,7 +12,6 @@ notes: |-
   Image: [https://images.fastcompany.net/image/upload/w_937,ar_16:9,c_fill,g_auto,f_auto,q_auto,fl_lossy/fc/3058251-poster-p-1-why-learning-to-code-wont-save-your-job.webp](https://images.fastcompany.net/image/upload/w_937,ar_16:9,c_fill,g_auto,f_auto,q_auto,fl_lossy/fc/3058251-poster-p-1-why-learning-to-code-wont-save-your-job.webp "https://images.fastcompany.net/image/upload/w_937,ar_16:9,c_fill,g_auto,f_auto,q_auto,fl_lossy/fc/3058251-poster-p-1-why-learning-to-code-wont-save-your-job.webp")
 refs: ''
 sources: ''
-published: false
 
 ---
 Looking for job security in the knowledge economy? Just learn to code. At least, that’s what we’ve been telling young professionals and mid-career workers alike who want to hack it in the modern workforce—in fact, it’s advice I’ve given myself. And judging by the [proliferation of coding schools and bootcamps](https://www.fastcompany.com/3048320/most-creative-people/financing-options-are-finally-catching-up-with-coding-bootcamps-growth) we’ve seen over the past few years, [not a few](https://www.fastcompany.com/3050171/the-future-of-work/where-are-the-women-in-tech-coding-bootcamps) have eagerly heeded that instruction, thinking they’re shoring up their livelihoods in the process.
