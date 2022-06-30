@@ -9,7 +9,6 @@ notes: 'Source: [https://www.fastcompany.com/3007169/douglas-rushkoff-real-time-
   "https://www.fastcompany.com/3007169/douglas-rushkoff-real-time-ethics-digital-presentism")'
 refs: ''
 sources: ''
-published: false
 
 ---
 When people hear the title of my new book, “Present Shock,” they assume I am trying to warn them about something awful. Yet while there are some pretty disorienting things about living in the present tense–constantly bombarded by real-time pings and simultaneous demands–there’s also something terrific about engaging in a highly digital now: We end up reconnecting to a whole lot of what matters.
