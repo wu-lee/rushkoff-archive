@@ -9,7 +9,6 @@ notes: 'Source: [https://www.edge.org/annual-question/2016/response/26666](https
   "https://www.edge.org/annual-question/2016/response/26666")'
 refs: ''
 sources: ''
-published: false
 
 ---
 Annual Question:
