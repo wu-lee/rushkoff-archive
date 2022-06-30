@@ -10,7 +10,6 @@ notes: 'Source: [https://www.fastcompany.com/54023/back-box](https://www.fastcom
   "https://www.fastcompany.com/54023/back-box")'
 refs: ''
 sources: ''
-published: false
 
 ---
 I can’t count the number of times I’ve been called by companies searching for a miracle cure–a speech or a day’s consulting to help them “get out of the box.” Invariably, what these firms really need–and what I’ll venture most organizations on the lifeless American corporate landscape could stand–is to get back _in_ the box.
