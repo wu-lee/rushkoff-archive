@@ -1,12 +1,13 @@
 ---
 title: When Memes Fail Us
 subtitle: ''
-date: 2016-12-07 00:00:00 -0500
-publication: _publications/p2p_foundation.md
+date: 2016-12-07T00:00:00.000-05:00
+publication: _publications/p2p-foundation.md
 blurb: ''
 notes: Pasted from https://blog.p2pfoundation.net/when-memes-fail-us/2016/12/07
 refs: ''
 sources: ''
+image: ''
 
 ---
 I know this has been a rough time for a lot of you, and I hope you are doing well. In brief: Yes, there has been a major electoral upheaval, and it seems there are many confused people out there working under some pretty strange assumptions. But no, this isn’t as much of a shift as it may seem.
