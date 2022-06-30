@@ -4,10 +4,10 @@ subtitle: When Everything Becomes a Shopping Mall
 date: 2018-06-01T00:00:00.000-04:00
 publication: _publications/future-now.md
 blurb: When media is ambient, it's no longer part of the environment-- it is the environment.
-notes: Pasted from https://www.iftf.org/future-now/article-detail/no-exit/
+notes: 'Source: https://www.iftf.org/future-now/article-detail/no-exit/'
 refs: ''
 sources: ''
-image: /uploads/no-exit.png
+image: "/uploads/no-exit.png"
 
 ---
 In John Carpenter’s B-movie classic, “They Live”, donning a pair of special glasses allowed humans to see the hidden programming in the media all around them. Messages from alien overlords, such as Art is Terrorism or simply Obey were revealed to be hidden in billboards and magazine covers.
