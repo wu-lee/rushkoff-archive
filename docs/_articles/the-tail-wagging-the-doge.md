@@ -1,13 +1,15 @@
 ---
 title: The Tail Wagging the Doge
-subtitle: ''
-date: 2022-06-13 00:00:00 -0400
-publication: _publications/Medium.md
-blurb: How Speculators Prevent Crypto from Working as a Safe Haven
-notes: ''
+subtitle: How Speculators Prevent Crypto from Working as a Safe Haven
+date: 2022-06-13T00:00:00.000-04:00
+publication: _publications/medium.md
+blurb: Crypto’s astonishing, if short-lived success as a speculative investment has
+  only undermined its entirely more revolutionary function as a currency alternative.
+notes: 'Source: [https://rushkoff.medium.com/the-tail-wagging-the-doge-f75cc0db538f](https://rushkoff.medium.com/the-tail-wagging-the-doge-f75cc0db538f
+  "https://rushkoff.medium.com/the-tail-wagging-the-doge-f75cc0db538f")'
 refs: ''
 sources: ''
-image: /uploads/the-tail-wagging-the-doge.jpg
+image: "/uploads/the-tail-wagging-the-doge.jpg"
 
 ---
 One of the most common questions I’ve been getting this week is from young investors (they wouldn’t call themselves investors, but they are) wondering why their crypto holdings are going down as fast or faster than the stock market.
