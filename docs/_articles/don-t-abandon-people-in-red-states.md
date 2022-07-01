@@ -10,7 +10,6 @@ notes: 'Source: [https://rushkoff.medium.com/dont-abandon-people-in-red-states-6
   "https://rushkoff.medium.com/dont-abandon-people-in-red-states-6522b42fbdc7")'
 refs: ''
 sources: ''
-published: false
 
 ---
 I overhead a couple of high school students this morning talking about their college options.
