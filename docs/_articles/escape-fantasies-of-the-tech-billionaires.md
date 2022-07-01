@@ -9,7 +9,6 @@ notes: 'Source: [https://rushkoff.medium.com/escape-fantasies-of-the-tech-billio
   "https://rushkoff.medium.com/escape-fantasies-of-the-tech-billionaires-e99bba601418")'
 refs: ''
 sources: ''
-published: false
 
 ---
 We always knew but now we _know_. The tech elite mean to leave us all behind.
