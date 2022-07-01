@@ -10,7 +10,6 @@ notes: 'Source: [https://rushkoff.medium.com/dont-hide-the-tech-55270ec29f68](ht
   "https://rushkoff.medium.com/dont-hide-the-tech-55270ec29f68")'
 refs: ''
 sources: ''
-published: false
 
 ---
 I don’t like nice interfaces. I never have. I always found technologies easier to use when they don’t try to humanize themselves for me. Worse, when they do try to make themselves softer and squishier and “easier” for humans, I get concerned about losing touch with what they’re really doing for us and to us.
