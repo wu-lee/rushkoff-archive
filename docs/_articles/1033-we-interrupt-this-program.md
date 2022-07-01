@@ -1,10 +1,11 @@
 ---
 title: We Interrupt This Program
 subtitle: 
-date: 2011-02-01T05:00:00.000Z
+date: 2011-02-01T05:00:00.000+00:00
 publication: _publications/school_library_journal.md
 blurb: 
-notes: 
+notes: Date from [https://www.slj.com/story/we-interrupt-this-program-media-theorist-douglas-rushkoff-has-second-thoughts-about-our-digital-practices](https://www.slj.com/story/we-interrupt-this-program-media-theorist-douglas-rushkoff-has-second-thoughts-about-our-digital-practices
+  "https://www.slj.com/story/we-interrupt-this-program-media-theorist-douglas-rushkoff-has-second-thoughts-about-our-digital-practices")
 refs: 
 sources: 
 
