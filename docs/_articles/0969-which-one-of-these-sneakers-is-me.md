@@ -1,13 +1,16 @@
 ---
 title: Which One of These Sneakers Is Me?
 subtitle: 
-date: '2009-04-13T04:00:00.000Z'
+date: 2000-03-30 00:00:00 -0500
 publication: _publications/london_times.md
 blurb: How Marketers Outsmart Our Media-Savvy Children
-notes: 
+notes: "Date from [https://depaul.digication.com/walis_words/Rhetorical_Essay](https://depaul.digication.com/walis_words/Rhetorical_Essay
+  \"https://depaul.digication.com/walis_words/Rhetorical_Essay\")  \n\nDate given
+  as 10/99 on CV and as 4/13/09 on [http://web.archive.org/web/20111105082842/https://rushkoff.com/articles-individual/2009/4/13/which-one-of-these-sneakers-is-me.html](http://web.archive.org/web/20111105082842/https://rushkoff.com/articles-individual/2009/4/13/which-one-of-these-sneakers-is-me.html
+  \"http://web.archive.org/web/20111105082842/https://rushkoff.com/articles-individual/2009/4/13/which-one-of-these-sneakers-is-me.html\")"
 refs: 
 sources: 
-published: true
+
 ---
 I was in one of those sports "superstores" the other day, hoping to find a pair of trainers for myself. As I faced the giant wall of shoes, each model categorized by either sports affiliation, basketball star, economic class, racial heritage or consumer niche, I noticed a young boy standing next to me, maybe 13 years old, in even greater awe of the towering selection of footwear.
 
