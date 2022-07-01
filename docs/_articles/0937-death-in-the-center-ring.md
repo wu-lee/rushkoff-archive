@@ -1,10 +1,10 @@
 ---
 title: Death in the Center Ring
 subtitle: 
-date: '2008-05-13T04:00:00.000Z'
-publication: _publications/uncategorized.md
+date: 2008-05-13T04:00:00.000Z
+publication: _publications/esquire.md
 blurb: Timothy Leary's High Dive
-notes: 
+notes: Date given as August 1996 on CV
 refs: 
 sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v7/#WebPages.0",
   "name"=>"Death in the Center Ring - Rushkoff", "url"=>"https://rushkoff.com/death-in-the-center-ring/",
@@ -13,7 +13,7 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   Rushkoff “That’s probably the worst place in the house to leave those,” Tim barks
   at a beautiful young assistant as she clears a pile of videocassettes from the path
   of his oncoming electric wheelchair.", "dateLastCrawled"=>"2020-07-22T10:43:00.0000000Z"}]'
-published: true
+
 ---
 “That’s probably the worst place in the house to leave those,” Tim barks at a beautiful young assistant as she clears a pile of videocassettes from the path of his oncoming electric wheelchair. Then he stops short. “What are they, anyway?”
 
