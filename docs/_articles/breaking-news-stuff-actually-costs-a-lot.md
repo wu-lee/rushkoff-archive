@@ -11,7 +11,6 @@ notes: 'Source: [https://rushkoff.medium.com/breaking-news-stuff-actually-costs-
   "https://rushkoff.medium.com/breaking-news-stuff-actually-costs-a-lot-762743309e47")'
 refs: ''
 sources: ''
-published: false
 
 ---
 Yes, gas prices are up. I saw a woman fill up her old station wagon with premium the other day, and her pump total went over $90.
