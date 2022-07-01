@@ -1,10 +1,10 @@
 ---
 title: 'Life Dollars: Finding Currency In Community'
 subtitle: 
-date: 2010-09-01T04:00:00.000Z
+date: 2010-09-01T04:00:00.000+00:00
 publication: _publications/futurist.md
 blurb: 
-notes: 
+notes: Sep/Oct 2010 issue
 refs: 
 sources: 
 
