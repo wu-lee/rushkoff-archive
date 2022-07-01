@@ -1,13 +1,14 @@
 ---
 title: The Pursuit of Cool
 subtitle: 
-date: '2008-10-28T00:00:00.000Z'
+date: 2001-07-01 20:00:00 -0400
 publication: _publications/sportswear_international.md
 blurb: Introduction to Anti-Hyper-Consumerism
-notes: 
+notes: Summer 2001 per [https://books.google.com/books?id=697I5Kd-p00C&pg=PA168&lpg=PA168&dq=%22pursuit+of+cool%22+%22sportswear%22+rushkoff&source=bl&ots=gdjDNShJWs&sig=ACfU3U3MaesNjMIlH4oi1HUVBIRDEHCmxg&hl=en&sa=X&ved=2ahUKEwj2xPn7idj4AhW-j4kEHYyLBQkQ6AF6BAgCEAM#v=onepage&q=%22pursuit%20of%20cool%22%20%22sportswear%22%20rushkoff&f=false](https://books.google.com/books?id=697I5Kd-p00C&pg=PA168&lpg=PA168&dq=%22pursuit+of+cool%22+%22sportswear%22+rushkoff&source=bl&ots=gdjDNShJWs&sig=ACfU3U3MaesNjMIlH4oi1HUVBIRDEHCmxg&hl=en&sa=X&ved=2ahUKEwj2xPn7idj4AhW-j4kEHYyLBQkQ6AF6BAgCEAM#v=onepage&q=%22pursuit%20of%20cool%22%20%22sportswear%22%20rushkoff&f=false
+  "https://books.google.com/books?id=697I5Kd-p00C&pg=PA168&lpg=PA168&dq=%22pursuit+of+cool%22+%22sportswear%22+rushkoff&source=bl&ots=gdjDNShJWs&sig=ACfU3U3MaesNjMIlH4oi1HUVBIRDEHCmxg&hl=en&sa=X&ved=2ahUKEwj2xPn7idj4AhW-j4kEHYyLBQkQ6AF6BAgCEAM#v=onepage&q=%22pursuit%20of%20cool%22%20%22sportswear%22%20rushkoff&f=false")
 refs: 
 sources: 
-published: true
+
 ---
 Writing this little piece could get me in a whole lot of trouble. See, most of my books and articles are about combating the very same marketing techniques you hope to learn by subscribing to a magazine like this one. My usual readers are the kids who buy Adbusters magazine, the activists who protest at the WTO, and parents looking for ways to bring meaning into their children's lives that don't involve a new brand of sneaker. If they even suspect me of selling you clues about how teens think and live in order for you to market fashions to them more effectively, I'm done for.
 
