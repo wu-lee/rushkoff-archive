@@ -11,7 +11,6 @@ notes: 'Source: [https://rushkoff.medium.com/avoiding-the-power-trip-9a53ed42e3e
   "https://rushkoff.medium.com/avoiding-the-power-trip-9a53ed42e3e7")'
 refs: ''
 sources: ''
-published: false
 
 ---
 I was a member of the psychedelic counterculture in the 1980s when pretty much every mind-expanding substance was illegal. For us, that illegality was just an obstacle. Taking a psychedelic or growing a marijuana plant was not considered a stand against a draconian legal system and repressive government but simply a way of getting what we wanted in spite of a draconian legal system and repressive government.
