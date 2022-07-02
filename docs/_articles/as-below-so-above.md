@@ -10,7 +10,6 @@ notes: 'Source: [https://gen.medium.com/as-below-so-above-9ab24d5c59c5](https://
   "https://gen.medium.com/as-below-so-above-9ab24d5c59c5")'
 refs: ''
 sources: ''
-published: false
 
 ---
 A few weeks ago, I [wrote](https://rushkoff.medium.com/move-along-the-car-crash-is-fake-cf9e327913c6) about how I’ve decided to turn off the Wrestlemania passing for national news and focus on my local reality. I was hoping that helping neighbors, engaging in mutual aid, and working on local issues might just engender a kind of solidarity. And if we all did this, it would eventually trickle up to the way we handle big issues at scale. Maybe the hands-on way we interact down here on the ground in the real world will stand in such stark contrast to the sensationalist puppet show on Facebook and the cable news, that we’ll all come to realize the debates on TV are not an adequate representation of who we are, nor an appropriate venue in which to work out our collective problems.
