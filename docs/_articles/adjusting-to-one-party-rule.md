@@ -11,7 +11,6 @@ notes: 'Source: [https://rushkoff.medium.com/adjusting-to-one-party-rule-3083d2d
   "https://rushkoff.medium.com/adjusting-to-one-party-rule-3083d2d07f14")'
 refs: ''
 sources: ''
-published: false
 
 ---
 A (failed) thought experiment on one-party rule. (see the follow-up post, [here](https://rushkoff.medium.com/why-one-party-rule-wont-work-84eee45c47c5).)
