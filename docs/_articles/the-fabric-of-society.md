@@ -9,7 +9,6 @@ notes: 'Source: [https://rushkoff.medium.com/the-fabric-of-society-e8e25915096a]
   "https://rushkoff.medium.com/the-fabric-of-society-e8e25915096a")'
 refs: ''
 sources: ''
-published: false
 
 ---
 I was running late for class last week, so I hopped in the car and drove to the closest parking lot I could find to the CUNY Journalism School, which turned out to be up on the roof of the Port Authority bus terminal. As soon as I arrived up there and saw the sky and the parked cars, I realized I’d been there before.
