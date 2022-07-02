@@ -11,7 +11,6 @@ notes: 'Source: [https://forge.medium.com/is-this-compassion-36aa8fda3701](https
   "https://forge.medium.com/is-this-compassion-36aa8fda3701")'
 refs: ''
 sources: ''
-published: false
 
 ---
 My go-to approach to crisis has always been to rely on my most rational sensibilities. Observe the symptoms, identify the problem, come up with a solution, and execute. In some ways, particularly in situations where another human being is involved, this approach has allowed me to insulate myself from the actual pain and suffering, while still being a part of the “solution.”
