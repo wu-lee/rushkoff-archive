@@ -5,7 +5,8 @@ subtitle: The problem with my proposal for a new centrist Democratic Party
 image: "/uploads/0_szzwfesgchj-erng.jpg"
 date: 2022-02-06 00:00:00 -0500
 blurb: ''
-notes: ''
+notes: 'Source: [https://rushkoff.medium.com/why-one-party-rule-wont-work-84eee45c47c5](https://rushkoff.medium.com/why-one-party-rule-wont-work-84eee45c47c5
+  "https://rushkoff.medium.com/why-one-party-rule-wont-work-84eee45c47c5")'
 refs: ''
 sources: ''
 published: false
