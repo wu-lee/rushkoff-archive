@@ -4,10 +4,10 @@ subtitle: ''
 date: 2008-01-01T00:00:00.000-05:00
 publication: _publications/develop.md
 blurb: ''
-notes: Pasted from https://www.kessels-smit.com/files/Douglas_Rushkoff_-_Develop_2-2008.pdf
-  , edited for formatting
+notes: 'Source: https://www.kessels-smit.com/files/Douglas_Rushkoff_-_Develop_2-2008.pdf '
 refs: ''
 sources: ''
+image: ''
 
 ---
 _What do playing and doing business have in common?_ 
