@@ -12,7 +12,6 @@ notes: 'Source: [https://gen.medium.com/open-up-the-refugees-are-coming-d5633bb9
   "https://gen.medium.com/open-up-the-refugees-are-coming-d5633bb9bc57")'
 refs: ''
 sources: ''
-published: false
 
 ---
 The displacement of over four million Ukrainians to other parts of the world has got me thinking about the relationship of people to places. Thanks to war, climate change, and economic pressures (which are all rapidly becoming one and the same) an increasing number of people are finding themselves dispossessed.
