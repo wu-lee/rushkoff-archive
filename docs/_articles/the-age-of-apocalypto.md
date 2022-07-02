@@ -9,7 +9,6 @@ notes: 'Source: [https://rushkoff.medium.com/the-age-of-apocalypto-3e78cfe4a10c]
   "https://rushkoff.medium.com/the-age-of-apocalypto-3e78cfe4a10c")'
 refs: ''
 sources: ''
-published: false
 
 ---
 I tried to warn us about what was coming: the collective psychopathology of a society so addicted to its narratives that we would rather the whole thing just end than continue on in its unresolved way.
