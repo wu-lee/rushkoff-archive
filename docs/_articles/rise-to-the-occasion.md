@@ -9,7 +9,6 @@ notes: 'Source: [https://rushkoff.medium.com/rise-to-the-occasion-cd2b7c147d80](
   "https://rushkoff.medium.com/rise-to-the-occasion-cd2b7c147d80")'
 refs: ''
 sources: ''
-published: false
 
 ---
 Sometimes it’s hard to write into the news cycle. I don’t like to write hot takes on things, no matter how closely related they may be to my areas of expertise. I didn’t even write about Elon Musk’s proposed purchase of Twitter because, well, I don’t really care.
