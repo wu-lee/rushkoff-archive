@@ -54,6 +54,7 @@ fields:
   label: sources
 pages:
 - docs/_articles/1083-3d-printers-making-is-the-new-taking.md
+- docs/_articles/avoiding-the-power-trip.md
 - docs/_articles/back-in-the-box.md
 - docs/_articles/beyond-the-am.md
 - docs/_articles/breaking-news-stuff-actually-costs-a-lot.md
