@@ -10,7 +10,6 @@ notes: 'Source: [https://rushkoff.medium.com/we-still-havent-reached-the-best-pa
   "https://rushkoff.medium.com/we-still-havent-reached-the-best-part-of-the-trip-7eaf1d47fbbd")'
 refs: ''
 sources: ''
-published: false
 
 ---
 I just got done with a talk for a college about how we squandered the possibilities for a networked society by focusing on IP in the cloud rather than the people with whom we were connecting. Afterwards, during the Q&A, a student wanted to know why I was so pessimistic about the digital future. I was a bit surprised. Because while I do think we screwed things up, I wouldn’t still be writing and speaking and podcasting and Zooming if I didn’t believe we can still turn this all around.
