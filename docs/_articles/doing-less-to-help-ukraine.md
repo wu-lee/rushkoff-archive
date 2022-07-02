@@ -11,7 +11,6 @@ notes: 'Source: [https://rushkoff.medium.com/doing-less-to-help-ukraine-581898fd
   "https://rushkoff.medium.com/doing-less-to-help-ukraine-581898fdd583")'
 refs: ''
 sources: ''
-published: false
 
 ---
 I didn’t post anything here last week. I didn’t release my regular podcast episode, either. On the one hand, it was a matter of reading the room: when something truly awful is happening, the best course is usually to pause. Of course, that doesn’t stop clueless marketers from continuing to post their bright and cheery messages about discounts on luxury goods, or startups from congratulating themselves that their subscription targets have been met — but I try to tell myself those are scheduled tweets that no one thought to pull from the automated calendar.
