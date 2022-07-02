@@ -10,7 +10,6 @@ notes: 'Source: [https://rushkoff.medium.com/move-along-the-car-crash-is-fake-cf
   "https://rushkoff.medium.com/move-along-the-car-crash-is-fake-cf9e327913c6")'
 refs: ''
 sources: ''
-published: false
 
 ---
 I have let myself get too worked up for too long about the culture wars on Twitter and its extensions on cable TV. They are not based in reality, but rhetoric. So this year, I’m ignoring them.
