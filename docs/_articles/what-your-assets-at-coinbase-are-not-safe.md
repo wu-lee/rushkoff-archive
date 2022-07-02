@@ -11,7 +11,6 @@ notes: 'Source: [https://rushkoff.medium.com/what-your-assets-at-coinbase-are-no
   "https://rushkoff.medium.com/what-your-assets-at-coinbase-are-not-safe-3ad20708a888")'
 refs: ''
 sources: ''
-published: false
 
 ---
 Retail crypto investors, already reeling from recent losses, were additionally shocked this week to learn that should Coinbase or one of the other exchanges go bankrupt, [the assets in their accounts may not be safe](https://fortune.com/2022/05/11/coinbase-bankruptcy-crypto-assets-safe-private-key-earnings-stock/). In a worst-case scenario, investors who keep their tokens at Coinbase would have to line up with all the other creditors to get whatever portion of their investments is left.
