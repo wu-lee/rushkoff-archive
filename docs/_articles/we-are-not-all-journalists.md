@@ -9,7 +9,6 @@ notes: 'Source: [https://forge.medium.com/we-are-not-all-journalists-5d028d23595
   "https://forge.medium.com/we-are-not-all-journalists-5d028d235959")'
 refs: ''
 sources: ''
-published: false
 
 ---
 I was at a convenience store the other night, and watched some kids come in who had just escaped from a party they didn’t really like. As soon as they were inside, though, they pulled out their phones and started watching social media reports from the kids who had stayed.
