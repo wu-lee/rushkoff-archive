@@ -9,7 +9,6 @@ notes: '[https://rushkoff.medium.com/the-online-economy-is-breaking-businesses-a
   "https://rushkoff.medium.com/the-online-economy-is-breaking-businesses-and-stealing-our-time-and-energy-d62382048a64")'
 refs: ''
 sources: ''
-published: false
 
 ---
 Transcript from an interview on _BigThink_ about _Throwing Rocks at the Google Bus_ (Portfilio, 2016)
