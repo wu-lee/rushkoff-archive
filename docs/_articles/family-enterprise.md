@@ -11,7 +11,6 @@ notes: 'Source: [https://rushkoff.medium.com/family-enterprise-666062d56a99](htt
   "https://rushkoff.medium.com/family-enterprise-666062d56a99")'
 refs: ''
 sources: ''
-published: false
 
 ---
 My accountant [Sheldon Gordon](https://www.lynbrookcpas.com/about-us) died Monday night. It might not be the kind of news one would normally think about for too long, much less write about. Your accountant dies, you find another one. It’s just business. Right?
