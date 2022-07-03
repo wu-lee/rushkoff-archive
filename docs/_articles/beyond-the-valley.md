@@ -11,7 +11,6 @@ notes: '[https://medium.com/team-human/beyond-the-valley-759d1d5756d1](https://m
   "https://medium.com/team-human/beyond-the-valley-759d1d5756d1")'
 refs: ''
 sources: ''
-published: false
 
 ---
 Digital technology is the subject of our time.
