@@ -9,7 +9,6 @@ notes: 'Source: [https://marker.medium.com/the-future-of-work-part-one-d51ebc64e
   "https://marker.medium.com/the-future-of-work-part-one-d51ebc64e1ea")'
 refs: ''
 sources: ''
-published: false
 
 ---
 We are not in a second industrial age. That may be the dream of those who really want to double down on the dehumanizing legacy of the past few hundred years of employment. But the emergence of digital technology, algorithms, and robots offers much more than an opportunity to further automate our businesses, alienating our workers and customers alike; it’s a chance to retrieve the human sensibilities at the heart of our organizations, and embrace the truly collaborative, participatory spirit of this age.

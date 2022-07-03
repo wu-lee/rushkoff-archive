@@ -9,7 +9,6 @@ notes: 'Source: [https://marker.medium.com/the-future-of-work-part-two-f7f532ccc
   "https://marker.medium.com/the-future-of-work-part-two-f7f532ccc6b6")'
 refs: ''
 sources: ''
-published: false
 
 ---
 _This is the second of a two-part series on the future of work. You can read part one_ [_here_](https://rushkoff.medium.com/the-future-of-work-part-one-d51ebc64e1ea)_._
