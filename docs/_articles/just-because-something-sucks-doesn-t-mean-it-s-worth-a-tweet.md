@@ -10,7 +10,6 @@ notes: 'Source: [https://onezero.medium.com/just-because-something-sucks-doesnt-
   "https://onezero.medium.com/just-because-something-sucks-doesnt-mean-it-s-worth-a-tweet-5ee243c15d92")'
 refs: ''
 sources: ''
-published: false
 
 ---
 You’d think the declining infection rates, incremental lifting of mask restrictions, and signs of a more social, physical, and prosperous stretch ahead would do a lot to raise spirits, lighten the mood, and reduce the high level of belligerence that has characterized the public discussion. Yet every time I peek at my social media feeds, it feels as if people are only getting more irate, more triggered, and more entrenched in their positions.
