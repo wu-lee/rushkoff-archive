@@ -9,7 +9,6 @@ notes: 'Source: [https://onezero.medium.com/rules-code-and-whistleblowing-6796a2
   "https://onezero.medium.com/rules-code-and-whistleblowing-6796a2039af5")'
 refs: ''
 sources: ''
-published: false
 
 ---
 As I watched Facebook whistleblower Frances Haugen’s Senate testimony today, I found myself oddly encouraged by the proceedings.
