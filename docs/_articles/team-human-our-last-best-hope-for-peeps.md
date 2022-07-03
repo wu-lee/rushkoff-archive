@@ -9,7 +9,6 @@ notes: 'Source: [https://medium.com/newco/team-human-our-last-best-hope-for-peep
   "https://medium.com/newco/team-human-our-last-best-hope-for-peeps-b8e723ad7fa2")'
 refs: ''
 sources: ''
-published: false
 
 ---
 I thought long and hard about how best to respond to the thousands of emails I’ve received since publishing [Throwing Rocks at the Google Bus](http://rushkoff.com/throwingrocks). People, companies, mayors, cooperatives, towns and big corporations, all looking for ways to distribute prosperity more widely, start local currencies, build platform cooperatives, convert to employee ownership, offer dividends instead of capital gains, or crowdfund a bookstore. I’ve answered more than half — or about 20,000 of them — individually. But I realized that it’s really not me who has the answers; it’s you.
