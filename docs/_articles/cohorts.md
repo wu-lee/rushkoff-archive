@@ -9,7 +9,6 @@ notes: 'Source: [https://rushkoff.medium.com/cohorts-3d22b485402](https://rushko
   "https://rushkoff.medium.com/cohorts-3d22b485402")'
 refs: ''
 sources: ''
-published: false
 
 ---
 I have been meaning to post to Medium since the first invite. I haven’t, in part, because I can’t find or create the right cohort. I have enough places to publish my professional and promotional writing - and, as has been suggested elsewhere - for now I can get better “reach” in those places.
