@@ -1,7 +1,7 @@
 ---
 title: Last Day of Work
 subtitle: 
-date: '2011-03-21T04:00:00.000Z'
+date: 2011-03-21T04:00:00.000Z
 publication: _publications/shareable.md
 blurb: 
 notes: 
@@ -33,7 +33,7 @@ refs: '[{"text"=>"Douglas Rushkoff", "original"=>"http://rushkoff.com/", "archiv
   "archive"=>"http://web.archive.org/web/20150905214246/http://newsroom.intel.com/docs/DOC-1490"},
   {"text"=>"here", "original"=>"http://newsroom.intel.com/docs/DOC-1490", "archive"=>"http://web.archive.org/web/20150905214246/http://newsroom.intel.com/docs/DOC-1490"}]'
 sources: 
-published: false
+
 ---
 *In the latest entry in our Shareable Futures sci-fi series, [Douglas Rushkoff](http://rushkoff.com/) envisions a future in which technology is a partner, and work and money are a thing of the past. Past installments of the Shareable Futures series [can be found here](http://www.shareable.net/blog/shareable-futures).* 
 
