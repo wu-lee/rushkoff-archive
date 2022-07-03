@@ -1,7 +1,7 @@
 ---
 title: The Evolution Will Be Socialized
 subtitle: 
-date: '2011-02-07T05:00:00.000Z'
+date: 2011-02-07T05:00:00.000Z
 publication: _publications/shareable.md
 blurb: 
 notes: 
@@ -33,7 +33,7 @@ refs: '[{"text"=>"same thing in the US", "original"=>"http://www.fastcompany.com
   {"text"=>"http://contactcon.com/contact/", "original"=>"http://contactcon.com/contact/",
   "archive"=>"http://web.archive.org/web/20110213034426/http://contactcon.com:80/contact/"}]'
 sources: 
-published: false
+
 ---
 From the actions of the Egyptian government to the policies of Facebook, the monopolies of central banks to the corporatization of the Internet, we are witnessing the potential of a peer-to-peer networking become overshadowed by the hierarchies of the status quo. It's time for us to gather and see what is still possible on the net, and what, if anything, can be built to replace it.
 
