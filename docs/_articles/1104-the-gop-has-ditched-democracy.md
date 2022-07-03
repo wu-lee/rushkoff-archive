@@ -1,15 +1,15 @@
 ---
 title: The GOP Has Ditched Democracy
 subtitle: 
-date: '2018-11-05T17:00:00.000Z'
+date: 2018-11-05T17:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+
 ---
-  have to accept the sad premise that people are just too dumb, too uninformed, and too easily fooled to vote intelligently or even rationally? Most of the political class, from both sides of the aisle, seem to think so.
+Do we have to accept the sad premise that people are just too dumb, too uninformed, and too easily fooled to vote intelligently or even rationally? Most of the political class, from both sides of the aisle, seem to think so.
 
 Back during George W. Bush’s re-election campaign, I was invited to a fancy lunch with an ancient former secretary of state and some of the associates from his consulting firm. It was at the height of the swift boat “controversy,” when the Democrat candidate John Kerry was being accused of lying about his tour of duty in Vietnam. Some of the veterans who served with him said he wasn’t a hero but a coward. It wasn’t the first dubious, emotionally charged campaign to undermine the integrity of a political candidate, but it was among the first of the internet era, and it spread not just through mainstream media, but virally, and to great effect.
 
@@ -19,7 +19,7 @@ The former secretary was apparently interested in what I’d have to say about a
 
 I was shocked. Stunned into silence. The other people at the table smiled politely but knowingly. I felt like Tom Cruise at the end of Eyes Wide Shut. Were they playing with me or was this their truth?
 
-That’s not to say I don’t understand his line of reasoning. Back in the early 1900s, Walter Lippmann, the father of public relations and one of the progressive intellectuals who founded the New Republic magazine, joined Woodrow Wilson’s administration. He was quickly disillusioned by the way Wilson ran for office on a peace platform, then changed his mind and used every underhanded propaganda tool at his disposal to convince the public to support America’s entrance into World War I. Is this any way to govern a democratic people? Tell them what to believe? 
+That’s not to say I don’t understand his line of reasoning. Back in the early 1900s, Walter Lippmann, the father of public relations and one of the progressive intellectuals who founded the New Republic magazine, joined Woodrow Wilson’s administration. He was quickly disillusioned by the way Wilson ran for office on a peace platform, then changed his mind and used every underhanded propaganda tool at his disposal to convince the public to support America’s entrance into World War I. Is this any way to govern a democratic people? Tell them what to believe?
 
 He sought to figure out some compromise that could uphold his progressive values while acknowledging the need to steer the popular sentiment of the crowd.
 
