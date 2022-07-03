@@ -11,7 +11,6 @@ notes: 'Source: [https://onezero.medium.com/exponential-tech-doesnt-serve-social
   "https://onezero.medium.com/exponential-tech-doesnt-serve-social-good-c6263dc5ab66")'
 refs: ''
 sources: ''
-published: false
 
 ---
 We all want to do good. Well, a great many of us want to do good. We recognize that the climate is in peril, corporations are dangerously extractive, wealth disparity is at all-time highs, our kids are self-destructively addicted to social media, politics has descended into a reality TV show with paranoid features, and that civilization itself has only about another 20 years before some combination of the above threats makes life unrecognizable or even unsustainable.
