@@ -10,7 +10,6 @@ notes: '[https://medium.com/team-human/the-real-value-of-facebook-19d1d6cb3003](
   "https://medium.com/team-human/the-real-value-of-facebook-19d1d6cb3003")'
 refs: ''
 sources: ''
-published: false
 
 ---
 It feels like we’ve finally reached “peak Facebook.”
