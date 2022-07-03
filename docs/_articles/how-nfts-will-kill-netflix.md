@@ -11,7 +11,6 @@ notes: 'Source: [https://onezero.medium.com/how-nfts-will-kill-netflix-62f9a3f03
   "https://onezero.medium.com/how-nfts-will-kill-netflix-62f9a3f03e87")'
 refs: ''
 sources: ''
-published: false
 
 ---
 As we all predicted back in the 1990s, the net has spawned new opportunities for independent creators and consumers of all sorts. Blogs, YouTube, print-on-demand, 3D printing, Etsy, eBay, 99designs, Upwork, SoundCloud, Substack, and many many other platforms give creators the ability to make things and sell (or at least distribute) them pretty directly to wide audiences, without signing a contract or getting a job with a movie studio, magazine, publisher, record company, or advertising agency.
