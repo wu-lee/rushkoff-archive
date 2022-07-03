@@ -10,7 +10,6 @@ notes: 'Source: [https://rushkoff.medium.com/will-star-fleet-ever-launch-the-uss
   "https://rushkoff.medium.com/will-star-fleet-ever-launch-the-uss-george-floyd-b6bbafef43c9")'
 refs: ''
 sources: ''
-published: false
 
 ---
 It’s cool that William Shatner, now 90, [got to go to space for real](https://uk.news.yahoo.com/william-shatner-blasts-space-blue-152639514.html?guce_referrer=ahr0chm6ly93d3cuz29vz2xllmnvbs8&guce_referrer_sig=aqaaamcdqrukbji5sq-relm1kn8r2eeflihkk3g2wphdzdy9ubag0au2ms3af8oipoyk3eol5ui62vnllowdwt3j2lnlwynxggkff7msxjjjb0djtczl58fz2epcd7dzrajmv_t9cmdzma98mbcvtitdfmskol8wk_jwyckndtdorijt). But as James T. Kirk crossed over from Star Trek’s fictional U.S.S. Starship Enterprise to Jeff Bezos’s real-world Blue Origin, I couldn’t help but wonder what would happen if we started crossing things over the other way. What if instead of bringing fictional TV heroes into space, we better represented our real world heroes in television’s science fiction futures?
