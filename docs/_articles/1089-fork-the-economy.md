@@ -1,13 +1,13 @@
 ---
 title: Fork The Economy
 subtitle: 
-date: '2022-01-29T17:00:00.000Z'
+date: 2016-01-29 00:00:00 -0500
 publication: _publications/medium.md
 blurb: This is the subhead thing
 notes: 
 refs: 
 sources: 
-published: true
+
 ---
 We have to stop looking at our economy as a broken system, but one that is working absolutely true to its original design. It’s time to be progressive — and this means initiating systemic changes.
 
