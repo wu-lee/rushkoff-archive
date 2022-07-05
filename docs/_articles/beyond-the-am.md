@@ -6,10 +6,11 @@ publication: _publications/contact.md
 blurb: We have internalized the faulty, racist arguments of the peoples whose provincial
   gods and beliefs we refused to accept — and, in the process, accepted a similarly
   provincial, racebased and limited view of the Jewish project.
-notes: Spring 2008. Pasted from https://steinhardtfoundation.org/contact/spring_2008/spring_2008-rushkoff.html
-  . Full publication available at https://steinhardtfoundation.org/wp-content/uploads/2018/05/contact_spring_2008.pdf
+notes: 'Spring 2008. Source: https://steinhardtfoundation.org/contact/spring_2008/spring_2008-rushkoff.html
+  . Full publication available at https://steinhardtfoundation.org/wp-content/uploads/2018/05/contact_spring_2008.pdf'
 refs: ''
 sources: ''
+image: ''
 
 ---
 Perhaps the most compelling and dangerous misconception held by Jews today is that the longevity of Judaism is dependent on our ability to cling to a rather specious claim of Peoplehood. For while there is great comfort to be found in the mythological origins of a Jewish People chronicled in the Torah, when they become the foundation for a sense of racial or historical entitlement, they undermine the very premise of Judaism.
