@@ -4,10 +4,10 @@ subtitle: Springfield U.S.A.
 date: 2003-09-01T00:00:00.000-04:00
 publication: _publications/iowa-journal-of-cultural-studies.md
 blurb: ''
-notes: Pasted from https://pubs.lib.uiowa.edu/ijcs/article/29902/galley/138245/view/
-  . Edited for formatting.
+notes: 'Source: https://pubs.lib.uiowa.edu/ijcs/article/29902/galley/138245/view/ '
 refs: ''
 sources: ''
+image: ''
 
 ---
 _The Simpsons_ are the closest thing in America to a national media literacy program. By pretending to be a kids’ cartoon, the show gets away with murder: that is, the virtual murder of our most coercive media iconography and techniques. For what began as entertaining interstitial material for an alternative network variety show has revealed itself, in the twenty-first century, as nothing short of a media revolution. 
