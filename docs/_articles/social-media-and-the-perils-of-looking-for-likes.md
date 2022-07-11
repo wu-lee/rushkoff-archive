@@ -1,13 +1,14 @@
 ---
 title: Social Media and the Perils of Looking for Likes
 subtitle: ''
-date: 2014-02-19 00:00:00 -0500
+date: 2014-02-19T00:00:00.000-05:00
 publication: _publications/cnn.md
 blurb: ''
-notes: Pasted from https://rushkoff.com/social-media-and-the-perils-of-looking-for-likes/
-  . Date from CV.
+notes: 'Source: https://rushkoff.com/social-media-and-the-perils-of-looking-for-likes/
+  . Date from CV.'
 refs: ''
 sources: ''
+image: ''
 
 ---
 Ask teens the object of social media, and they’ll all tell you the same thing: to get “likes.” Whether on Facebook, Twitter, Instagram or Tumblr, young users understand the coin of this realm, and are more than happy to do what is necessary to accumulate it. But is the currency value neutral, or does it come with an agenda of its own?
