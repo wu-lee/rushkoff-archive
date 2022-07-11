@@ -1,17 +1,18 @@
 ---
 title: Why do politicians get away with lying?
 subtitle: How the Internet enables outlandish claims
-date: 2015-12-01 00:00:00 -0500
+date: 2015-12-01T00:00:00.000-05:00
 publication: _publications/cnn.md
 blurb: 'Editor’s Note: In this election season, we’ve seen a lot of fibbing by politicians.
   Are presidential candidates who persist in saying untrue things enabled by the Internet
   or the 24/7 media? Or have lies always been a part of politics, even in the early
   days of the Republic? CNN invited historians, political scientists, technologists
   and authors to weigh in.'
-notes: Excerpted and pasted from https://www.cnn.com/2015/12/01/opinions/opinion-roundup-politicians-lies/index.html
+notes: Excerpted from https://www.cnn.com/2015/12/01/opinions/opinion-roundup-politicians-lies/index.html
   . Included images.
 refs: ''
 sources: ''
+image: ''
 
 ---
 I used to argue that the Internet acted like truth serum: No matter what someone on television claimed, eventually someone would dig up the truth. Then, because it was the truth, it would eventually float up to the surface. It forced me and other writers to be more rigorous about our assertions, lest some expert eventually reveal that they are myths.
