@@ -1,5 +1,5 @@
 ---
-publication: _publications/uncategorized.md
+publication: _publications/the-week.md
 title: Douglas Rushkoff’s 6 Favorite Books About Big Ideas
 subtitle: ''
 image: ''
