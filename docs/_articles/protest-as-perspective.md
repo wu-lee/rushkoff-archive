@@ -4,9 +4,10 @@ subtitle: Do We Want a Revolution or a Renaissance?
 date: 2002-01-01T00:00:00.000-05:00
 publication: _publications/journal-of-cognitive-liberties.md
 blurb: ''
-notes: 2002. Pasted from https://www.cognitiveliberty.org/ccle1/9jcl/Rushkoff_protest.html
+notes: 'Source: https://www.cognitiveliberty.org/ccle1/9jcl/Rushkoff_protest.html'
 refs: ''
 sources: ''
+image: ''
 
 ---
 So often we hear people using the word “revolution” to describe the current overwhelming cultural shift fostered by technology and new media. However overwhelming it might be, can we really describe the current transition as a revolution? For me, the word “revolution” evokes images of a violent upheaval and guillotined heads. There’s certainly very little progress implied by revolution; it’s simply someone spinning around in circles.  
