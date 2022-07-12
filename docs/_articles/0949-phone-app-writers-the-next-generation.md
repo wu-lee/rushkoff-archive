@@ -1,11 +1,11 @@
 ---
 title: 'Phone App Writers: The Next Generation'
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
-publication: _publications/nokias_the_feature.md
+date: 2008-10-16T00:00:00.000Z
+publication: _publications/feature.md
 blurb: Last year, it was Dodgeball. What do this year's students have in store for
   the mobile phone?
-notes: 
+notes: Date given on June 22, 2005 on CV
 refs: '[{"text"=>"Interactive Telecommunications Program", "original"=>"http://itp.nyu.edu/"},
   {"text"=>"Dodgeball", "original"=>"http://www.dodgeball.com/"}, {"text"=>"Ubiquitous
   Computing for Mobile Devices", "original"=>"http://ubiquitylabs.com/itp/"}, {"text"=>"SubAlerts",
@@ -53,6 +53,7 @@ refs: '[{"text"=>"Interactive Telecommunications Program", "original"=>"http://i
   "title"=>"Find your inspiration. | Flickr", "favicon"=>"https://combo.staticflickr.com/pw/images/favicons/favicon-196.png"}}]'
 sources: 
 published: false
+
 ---
 Last year, it was Dodgeball. What do this year's students have in store for the mobile phone?
 
