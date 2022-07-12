@@ -1,5 +1,5 @@
 ---
-publication: _publications/uncategorized.md
+publication: _publications/iou-new-writing-on-money.md
 title: Local Money
 subtitle: ''
 image: ''
