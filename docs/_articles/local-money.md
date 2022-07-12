@@ -11,7 +11,6 @@ notes: |-
   2010 per CV
 refs: ''
 sources: ''
-published: false
 
 ---
 In my town, the tiny organic café called Comfort decided to expand to a second, larger location. John, the chef and owner, had been renovating the new space for a year, but - thanks to the credit crisis - was unable to raise the cash required to finish and finally open. With currency unavailable from traditional, centralized money-lending banks, he turned instead to his community, to us, for support. Granted, this is a small town. Pretty much everybody goes to Comfort - the only restaurant of its kind on the small strip - and we all have a stake in its success. Any extension of Comfort would bring more activity, vitality, and commerce to a tiny downtown (commercially devastated in the 1970s by the chain stores and malls on the auto-friendly main strip).
