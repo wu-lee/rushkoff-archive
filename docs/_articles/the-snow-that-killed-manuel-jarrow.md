@@ -1,11 +1,11 @@
 ---
-publication: _publications/uncategorized.md
+publication: _publications/disco-biscuits-new-fiction-from-the-chemical-generation.md
 title: The Snow That Killed Manuel Jarrow
 subtitle: ''
 image: ''
-date: 2022-07-01 00:00:00 -0400
+date: 1998-01-01 00:00:00 -0500
 blurb: ''
-notes: ''
+notes: "1998"
 refs: ''
 sources: ''
 published: false
