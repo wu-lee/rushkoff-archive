@@ -143,4 +143,90 @@ But he shouldn't have taken the E and then called Bess at four in the morning to
 
 The two eventually made up leaving their respective indiscretions unchallenged. The only term of their reconciliation was that she would be more in charge of things than him from now on. She'd pay the rent in New York, and he'd stay out of trouble - not legal or artistic trouble, mind you - only the kind of trouble she didn't approve of.
 
-_He flashed on that big house in Oakland where everyone would go for the whole_
+_He flashed on that big house in Oakland where everyone would go for the whole weekend and do LSD. These parties weren't raves. They were more like what he imagined went on at Timotby Leary's Millbrook estate back in the sixties. Each room of the four-story Victorian was dedicated to a different theme. Some were just "ambients", like a room with corduroy-upholstered walls, floor and pillows with some Brian Eno music playing in the background. You just went into a room and chose your trip._
+
+_Up in the attic, three pretty girls drew pictures with crayons. The whole space was converted into a mock playpen. As he looked about the room his perceptual apparatus transformed its subjects into three year olds at a mursery school. He wished be had his camera. He had always planned to go back and shoot one of those parties._
+
+_He remembered being higher in that house than he had ever been, and standing at the foot of the long staircase, holding on to a banister while everything spun around him. Then a huge dog, some kind of hound, began lumbering down the staircase towards him. The animal stepped on a pile of VHS cassettes that slid out from beneath his paw. Manuel watched as, seemingly in slow motion, the dog bounced down from step to step, flipping over himself several times, his paws flailing for a level surface, step after step, until he landed smack on his chin on to the hardwood floor at Manuel's feet. He and the dog regarded one another for a while. The dog was not embarrassed by his clumsiness. The dog was a Buddha, the boy decided. He was revealing to Manuel his own inner state. The pile of videotapes. It all made sense. If he had only brought his camera. He had been there. The right place and right time. But now he'd never be able to go back._
+
+_And that guy with the funny last name. Sekula, maybe. He had taken a whole page of blotter and then locked himself in the downstairs bathroom. Every once in a while someone would knock and ask if he was all right, but he just told them not to distract him. He was keeping the world in motion and the smallest miscalculation would throw the Earth out of orbit and the time-wave continuum. Irreparably. But by four in the morning one of the guys who lived at the house finally pried the door open with a crowbar, and everyone peered into the bathroom to find Sekula sitting on the toilet, naked, trying to jerk off. His eyes frozen wide with fright._
+
+"Are you feeling any better?" she asked him. "Did you drink some of the water?"
+
+He saw her but could no longer remember her name. She was the one who cared about him. She really did; he could feel it. It wasn't just the E. Beneath the vicarious thrills she got out of living with a squat-loser, she felt for him in real life, too. He had underestimated what they shared. "I don't feel anything at all," he said. "I don't want to feel anymore. I don't want any water."
+
+"You should drink, honey, really."
+
+"I'm going to die, babe. There's no more 'shoulds'."
+
+"You're going to be just fine," she tried to sound like she knew this to be true.
+
+"You're a great girl, whoever you are. Just don't listen to me any more."
+
+As she looked down at him he contemplated her breasts. The videos she let him make of her dancing around the apartment naked. The ones he wanted to get on public access. Then he felt it. A weird cold cloud down by his feet. It was death - competing with the rays of warmth from the E. It was harshing his mellow in a big way.
+
+"Do you know how to use my camera?" he asked.
+
+"No. You never let me touch it."
+
+"I should have."
+
+_There were all those real movies he had wanted to make, too. Feature films with commercial prospects. He could produce them low-budget with his friends, Why hadn't he ever gotten around to it? He finished the whole script for that one film, a borror movie called_ Spike_, named after the weapon that the retarded hardware store box-boy, Mike, used to kill his victims._
+
+_In one scene, the hardware store boss's daughter goes on a date with a popular boy from school. Mike follows secretly and sits behind them at the movie theatre. Just as the audience screams in terror at an image on the screen, Mike plunges his spike through the back of his rival's seat, piercing bim through._
+
+_Then later, when the girl has hidden away at grandma's house, Mike tracks ber down and rings the bell. The tiny old woman uses a stool to climb up to the peephole in her door, when Mike plunges the spike through the glass lens, puncturing her eyeball and boring a hole through the back of her skull. Dying, the woman kicks the chair out from beneath herself, and dangles against the door, suspended by nothing but the spike through ber head._
+
+_Bess called the script "disgusting", and told him it had no social merit whatsoever. He thought it was cool in its grossness. But he saw her point. How would it have helped the vibe at all?_
+
+_But now it was just another movie be would never make._
+
+For a moment Manuel thought that maybe she was right. He was going to be fine after all. This was just some kind of bad E trip. He had fooled himself into a panic. He hadn't felt that cold grip in his abdomen for a long while now. Maybe death had passed him by. Not likely. She wouldn't let go. She was just resting for a minute. Or maybe he had gotten used to her. He could feel his heart speeding up yet diminishing in strength at the same time. A tiny, rapid flutter in his chest.
+
+"Try to drink again," Bess said. "They're on their way."
+
+"Let me just rest a minute."
+
+_Back in high school he and his friend Henry bad bought a sea-monkeys kit from an ad in a comic book. They were both smart enough to know it was a scam, but they wanted to see what sort of monkeys might come in the mail, anyway. When they put the little sugar packets of freeze-dried monkeys into the water, they hadn't expected anything at all to come to life. But sure enough, a few days later there were these tiny translucent creatures swimming around in the clear plastic box that was shipped along with them. The sides of the box had little bumps that served as magnifying glasses, and through them you could see the almost-microscopic brine shrimp a little better._
+
+_That next weekend the boys got proofed and rejected by the doorman at a big rave club South of Market, so they decided to go home and throw their own party with the sea monkeys. Henry put a speaker on either side of the sea monkeys' plastic home and turned up the music. The water vibrated from the bass - all they had back then was techno and maybe a little garage. These were the vintage rave days when everything still felt virtuous and European. Wher it was just kids throwing parties for other kids. By the time Manuel was old enough to go clubbing for real, the whole scene was dying anyway._
+
+_The sea monkeys really got off on the music. Or maybe it was just the waves in their water that made them swim around that way. And what really was the difference? Waves are waves. Were the monkeys merely swaying passively in the currents, or were they flapping their little arms intentionally? Did it matter? Even if they expressed no conscious will, weren't the sea monkeys moving in a way preseribed by the aerodynamics of their little bodies, in a manner dictated by centuries of sea monkey evolution? Didn't that count as active participation?_
+
+_After they took a couple of bong bits, Manuel and Henry felt certain that the monkeys were fully engaged in a total trance dance, and that the tiny ravers were ready for some drugs. The boys took a whole hit of E from their meagre stash and dedicated it to the monky communion. Henry opened the capsule and let the powder fall into the water. They shook the whole tank to help it dissolve, then placed it back between the speakers. The monkeys contorted in renewed frenzy - motions that could have easily been captured with a macro-focus lens, but Manuel didn't own his camera yet, and now it would be too late to capture the image ever again._
+
+_Or the time about a month later when Henry fashioned a bong out of Lego and rubber tubing. They would fill the air chamber with por smoke, then turn a tiny spigot releasing a balloonful of nitrous oxide that would push the smoke and then itself into the user's lungs. The look on Henry's face as be realized why Manuel wanted him to try it first. Because Manuel was chicken to play the guinea pig. Henry would always have to go first. And at that precise moment, as the nitrous filled Henry's lungs and Manuel waited watching with baited breath, they both knew who was the true adventurer among them._
+
+"Manuel?" she asked him. "Can you hear me?"
+
+"Hmm," he mustered. The cold weight was bearing down on his chest now and he could barely speak. He thought he could see the lights from the ambulance near the entrance to the club.
+
+"You fell asleep. I got scared."
+
+He just wanted some air, but he was trapped in a stone cold vacuum. Had they stopped the music? He couldn't hear anything at all. They kept turning the lights lower and lower. And the music. Where was the music? He wanted to tell her to pull the cement off his body, but he couldn't make the words come out. He squinted from the pain. Then the pressure just went away all by itself.
+
+When he opened his eyes he saw the other kids in the club gathering around him. They were smiling, unafraid of his body on the ground. Some boys in fractal T-shirts knelt around him and slowly lifted him above their heads. The room was bathed in soft blue light as they carried him across the club.
+
+"Sorry we didn't see what was happening to you, Manuel," one of them said as they gently guided him to a table they had prepared a table with a pitcher of water and some glasses. The club promoters were all gone. It was just the kids from the scene, and they had all the water they wanted.
+
+They sat him down. He wasn't dizzy anymore. He felt like he could finally take a drink. The snow had been the whole problem, he realized. That's what freaked him out. Why do coke when you've got E? Coke is the total ego drug. It covers everything up in bullshit, personal pride. Coke is so ... New York City.
+
+"You had us worried there a minute," Pete-E said to him, handing him the glass. "But it looks like you're going to be all right now."
+
+He drank the water all down.
+
+"Don't drink it too fast," Pete-E advised, lovingly taking the glass from him and filling it up again.
+
+The DJ put on some gentle ambient music and a few of the kids peeled off to dance a little. They weren't moving away from Manuel as they did before, though. They just let their bodies respond to the smooth sounds coming from the speakers. It was completely natural.
+
+The scene hadn't really disappeared, it had just gone away for a while. He could feel the E taking hold again, letting him become one with the gently throbbing mass of people, yet somehow conscious, unique, and an observer at the same time. He thought of a documentary he had seen once, a long time ago, of Tibetan monks on a snowy mountaintop in China, chanting and swaying to the sounds of gongs and the little clicky-clacky things they swung back and forth in their hands. And then Manuel knew where he was going.
+
+Bess had been looking down at Manuel's prone form for some time. He was just a child, she thought. She had gotten lost in his face - the way he habitually curled his bottom lip up in an angry pucker like a bulldog puppy, just to prove he disapproved, but now it looked like a snarl, frozen.
+
+The ambulance drivers cleared a path through the oblivious club kids to find Manuel lying on the ground with Bess kneeling beside him. They lifted him on to a stretcher. One of the men checked for a pulse and then shook his head. Bess didn't let herself understand.
+
+"Sir," she asked one of the men in white. "Excuse me, sir, is he going to be OK?" Both men just looked down and attended to their business, strapping the lifeless body to the clean linen.
+
+She shouted after his corpse as they wheeled him out. "Manuel! Please."
+
+The DJ had enough presence of mind to turn the music off while they wheeled the fallen raver out of the building. It only made the beating of Bess's own heart sound that much louder.
