@@ -8,7 +8,6 @@ blurb: ''
 notes: "2011"
 refs: ''
 sources: ''
-published: false
 
 ---
 I'm finally doing it. Clocking out for the last time.
