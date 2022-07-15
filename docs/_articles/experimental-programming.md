@@ -8,7 +8,6 @@ blurb: ''
 notes: "2004"
 refs: ''
 sources: ''
-published: false
 
 ---
 _This piece was inspired by an episode of_ Joe Millionaire _in which I watched a young woman--who had, most likely, performed oral sex on a man she believed to be a millionaire--finally learn that he was just a low-paid construction worker, I'll admit, her face at that split second--the moment between the horrific revelation and her effort to mask her sense of shame--displayed more genuine pathos than a full season of_ ER_. But this reality program, like so many that went before and after, derived its entertainment value from the humiliation of its real life subjects._
