@@ -1,5 +1,5 @@
 ---
-title: 'Better Work Together: How The Power Of Community Can Transform Your Business'
+title: 'Better Work Together: How the Power of Community Can Transform Your Business'
 url: ''
 
 ---
