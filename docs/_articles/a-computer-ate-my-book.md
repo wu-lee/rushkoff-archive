@@ -8,7 +8,6 @@ blurb: ''
 notes: "2005"
 refs: ''
 sources: ''
-published: false
 
 ---
 Books have souls. Or so romantics like me tend to think. Neither the Internet nor computers really threaten the book as an art form. But if we're to believe the latest rumblings from publishing industry journals, author's panels, and librarians' conferences around the world, the book business is in terrible danger. And so are magazines, newspapers, and anything else printed on a page.
