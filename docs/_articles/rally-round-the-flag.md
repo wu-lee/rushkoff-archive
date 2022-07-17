@@ -8,7 +8,6 @@ blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-published: false
 
 ---
 When I was a kid attending services at Larchmont Temple, a classical Reform synagogue that boasted Joan Rivers as a regular member, my mind would wander from the monotoned responsive readings to pretty much anything else available. I played simple games in which I mentally listed the many logical inconsistencies in the service—from the professional organ player and chorus to the way the Torah was paraded around like one of those idols toward which we're supposed to be so wary.
