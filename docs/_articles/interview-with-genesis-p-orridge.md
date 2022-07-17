@@ -8,7 +8,6 @@ blurb: ''
 notes: "Title from CV  \nDate from Amazon"
 refs: ''
 sources: ''
-published: false
 
 ---
 "THE BOTTOM LINE IS THAT THE HUMAN SPECIES HAS TO REALIZE THE HUMAN BODY REALLY IS JUST A CHEAP SUITCASE."
