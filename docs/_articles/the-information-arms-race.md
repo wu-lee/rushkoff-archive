@@ -132,3 +132,43 @@ Instead of forging a whole new world, the World Wide Web gives us a new window o
 The current direction of Internet technology promises a further calcification of its interactive abilities. Amped up processing speed and modem baud rates do nothing for communication. They do, however, allow for the development of an increasingly TV-like Internet.
 
 The ultimate objective of today's communication industry is to provide us with broadcast-quality television images on our computers. The only space left for interactivity will be our freedom to watch a particular movie "on demand" or, better, to use the computer mouse to click on an object or article of clothing we might like to buy.
+
+Once we have reduced the living exchanges that these new media promise to one side or other in an information war, we have given up the only advantage we really have: to evolve unpredictably.
+
+The enemy of the coercer is change. Coercion and influence are simply the pushing of a fixed point of view. In this sense, the coercer is promoting death. The messy fertility of a living system is the information coercer's greatest obstacle. But it is also our greatest strength as a developing culture.
+
+Finally, the conflict between "them and us" is fictional. The culture war is just a battle between those who see the need for change, and those would hope to prevent it. Those in power, obviously, seek to preserve the status quo. The only time they feel the need to make an adjustment is when they are hoping to absorb a unique new population, or when the populations already under their control have grown immune to the current styles of influence.
+
+And, to be sure, the preservation of certain status quo values is crucial to the maintenance of organized society. Just as there are certain genes in the body with no function other than to resist mutation, there are institutions in society that work very hard to resist change.
+
+Because the chief agents of change are interaction and communication, these will be the activities that the enemies of evolution will want to keep in check. But when an overwhelming proportion of our world community seeks a referendum on the human project, we must not allow our efforts to be derailed by those who would prevent such a movement by any means necessary.
+
+More importantly, we cannot let ourselves be fooled into thinking that simply having the right to select our data with the click of a computer mouse instead of a TV remote means we have won the Information Arms Race.
+
+**REFERENCES**
+
+Aristotle. (1954). _Rhetoric_ (W. Rhys Roberts, Trans.). New York: The Modern Library.
+
+Carlisle, J. (1993, Spring). Public relationships: Hill & Knowlton, Robert Gray, and the CIA. _Covert Action Quarterly._
+
+ Chomsky, N. (1989). _Necessary illusions: Thought control in democratic societies._ Boston: South End Press.
+
+Chomsky, N. (1991). _Media control: The spectacular achievements of propaganda._ Westfield, NJ: Open Magazine Pamphlet Series.
+
+Cialdini, R. B. (1993). _Influence: The psychology of persuasion._ New York: William Morrow.
+
+Crossen, C. (1994). _Tainted truth: The manipulation of fact in America._ New York: Simon & Schuster.
+
+Kelly, K. (1998). _New rules for the new economy._ New York: Viking.
+
+Lovelock, J.E. (1987). _Gaia: A new look at life on earth._ New York: Oxford University Press.
+
+Schwartz P., & Leydon, P. (1997, July). The long boom. _Wired._
+
+Simpson, C. (1994). _Science of coercion: Communication research and psychological warfare, 1945-1960._ New York: Oxford University Press.
+
+Stauber, J., & Rampton, S. (1995). _Toxic sludge is good for you! Lies, damn lies, and the public relations industry._ Monroe, ME: Common Courage Press.
+
+Toffler, A. (1980). _The third wave._ New York: Morrow.
+
+Watson, P. (1978)_. War on the mind: The military uses and abuses of psychology._ New York: Basic Books.
