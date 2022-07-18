@@ -8,7 +8,6 @@ blurb: ''
 notes: Date listed in different places as 1996, 1997, or April 12 2009
 refs: ''
 sources: ''
-published: false
 
 ---
 Not so long ago, I could freak people out by talking about cyberculture. It was fun. They'd laugh nervously when I'd say they'd be using email someday. They'd call me "cyberboy" and mean it as an insult. I felt like a renegade.
