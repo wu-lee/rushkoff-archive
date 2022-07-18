@@ -8,7 +8,6 @@ blurb: ''
 notes: 2004 from CV
 refs: ''
 sources: ''
-published: false
 
 ---
 TV isn't just for the masses. Sure, there are those huge, national spectacle moments that stay in our individual and cultural memory as if they were implanted surgically: O.J. Simpson pretending that he couldn't fit into his gloves. Tonya Harding whining about her improperly tied figure skates. Rhoda taking the subway to her own wedding. Nixon resigning. Radar O'Reilly saluting through tears on the last episode of _M*A*S*H_. Seinfeld and company in their prison cell. These moments bring us all together because we've all seen them--and we know that so many others watched them at the very same time.
