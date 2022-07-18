@@ -8,7 +8,6 @@ blurb: ''
 notes: 2003 on CV
 refs: ''
 sources: ''
-published: false
 
 ---
 _Some have characterized cyberculture as offering an opportunity for increased freedom and openness, and evidence for this can be found on the Internet. On the other hand, with the rise of the World Wide Web, business interests have increasingly taken control of cyberspace, placing increasingly more emphasis on e-commerce, e-shopping, Web-based advertising, and content to lure in hits from potential consumers. In this chapter, Douglas Rushkoff characterizes this process as a form of information warfare, involving forms of pseudocommunication and propaganda. Placing the current cyberscene in the context of the history of cultural imperialism, he argues that similar forces are at work today as the Internet becomes increasingly more co-opted and commercialized. For more on the economics of cyberspace outside of this section of the book, see James Beniger's essay on control in Chapter 2, Neil Kleinman's arguments about copyright in Chapter 4, and Ron Jacobson's summary of cyberspace issues in Chapter 9; also note the arguments concerning social class presented by Frank Dance in Chapter 10, and Paul Lippert in Chapter 18._
