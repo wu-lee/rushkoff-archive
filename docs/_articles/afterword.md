@@ -11,7 +11,6 @@ notes: |-
   Date: 2011
 refs: ''
 sources: ''
-published: false
 
 ---
 The first edition of The Image was published in 1961, the same year I was born. Kennedy was yet to be assassinated, LSD was yet to reach Harvard University, and the French post-modernists were yet to begin their deconstruction of America’s television-driven culture.
