@@ -8,7 +8,6 @@ blurb: ''
 notes: Date from Amazon (given as 2016 on CV)
 refs: ''
 sources: ''
-published: false
 
 ---
 What would it take to make the digital economy less like industrial capitalism on steroids, and more consonant with the distributive nature of digital networks themselves? People are trying a lot of strategies, from peer-to-peer value exchanges and the restoration of the commons to crowd-funded debt remediation schemes and local favor-banks. Something big is going on here. 
