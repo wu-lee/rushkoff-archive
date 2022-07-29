@@ -11,7 +11,6 @@ notes: |-
   Date from Amazon
 refs: ''
 sources: ''
-published: false
 
 ---
 Never trust a writer to chronicle a movement. 
