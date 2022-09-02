@@ -8,7 +8,6 @@ blurb: ''
 notes: ''
 refs: ''
 sources: ''
-published: false
 
 ---
 There's perhaps nothing more irksome to progressive-mmded Americans than the current administration's contention that it represents a revival of our nation's populist civic tradition--especially when the nght-wing's popularity seems more orchestrated by radio hosts armed with talking points supplied by Republican thmk tanks than energized by any genuine groundswell of public opinion. Yet the Left's exploitation of the Internet and other apparently more citizen-driven media networks may prove no more authentic, and--in the wake of Howard Dean's waning candidacy--entirely less effective than we previously had hoped.
