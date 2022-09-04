@@ -10,7 +10,6 @@ blurb: The monetary system was designed not to help people create and exchange v
 notes: April 2016
 refs: ''
 sources: ''
-published: false
 
 ---
 I've given up on fixing the economy. The economy is not broken. It's simply unjust. There's a difference.
