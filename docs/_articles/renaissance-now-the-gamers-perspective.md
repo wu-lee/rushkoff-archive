@@ -84,3 +84,99 @@ Gaming--as a metaphor but also as a lived experience--invites a renaissance pers
 The great Renaissance was a simple leap in perspective. Instead of seeing everything in one dimension, we came to realize there was more than one dimension on which things were occurring. Even the Elizabethan world picture, with its concentric rings of authority--God, king, man, animals--reflects this newfound way of contending with the simultaneity of action of many dimensions at once. A gamer stepping out onto the Internet to find a cheat code certainly reaches this renaissance's level of awareness and skill.
 
 But what of the game who then learns to program new games for himself? He, I would argue, has stepped out of yet another frame into our current renaissance. He has deconstructed the content of the game, demystified the technology of its interface, and now feels ready to open the codes and turn the game into a do-it-yourself activity. This is precisely the character and quality of the dimensional leap associated with today's renaissance, as well.
+
+The evidence of today's renaissance is at least as profound as that of the one that went before. The 16th Century saw the successful circumnavigation of the globe via the seas. The 20th century saw the successful circumnavigation of the globe from space. The first pictures of earth from space changed our perspective on this sphere, forever. In the same century, our dominance over the planet was confirmed not just through our ability to travel around it, but to destroy it. The atomic bomb (itself the result of a rude dimensional interchange between submolecular particles) gave us the ability to destroy the globe. Now, instead of merely being able to circumnavigate "God's" creation, we could actively destroy it. This is a new perspective.
+
+We also have our equivalent of perspective painting, in the invention of the holograph. The holograph allows us to represent not just three, but four dimensions on a two-dimensional plate. When the viewer walks past a holograph, she can observe the three-dimensional object over a course of time. A bird can flap its wings in a single picture. But, more importantly for our renaissance's purposes, the holographic plate itself embodies a new renaissance principle. When the plate is smashed into hundreds of pieces, we do not find that one piece contains the bird's wing, and another piece the bird's beak. No, each piece of the plate contains a faint image of the entire subject, albeit a faint one. When the pieces are put together, the image achieves greater resolution. But each piece contains a representation of the totality--a leap in dimensional understanding that is now informing disciplines as diverse as brain anatomy and computer programming.
+
+Our analog to calculus is the development_o ys equations on their own terms for the f'
+
+much-celebrated _fractal. Confronting non\~i\~e:\~ coming to new understandings of th\~rst
+
+time, mathematicians armed with comput lex relationships between dimension
+
+way nu_mbers can be used to represent the ::stlines to clouds, exhibit the properti!·
+
+Accepting that the surfaces 1n our world, fro wh t is the surface area of a cloud?) th s
+
+of both two and three dimensional obJects UUSt . a bjects with fractional · ey
+
+came up with ways of working with and representing o w re resent and .
+
+dimensionality. Using fractals and their equations, we \~yns\~so We \~lso becomewobrkl With
+
+objects from the natural world that defied Cartesian ana ·. , a e to
+
+develop mathematical models that reflect many more properties of natures ow_n
+
+systems-such as sett-similarity and remote high leverage points. Again, we find this
+
+renaissance characterized by the ability of an individual to reflect, or even affect, the
+
+grand narrative. To write the game.
+
+Finally, our renaissance's answer to the printing press is the computer and its ability to
+
+network. Just as the printing press gave everyone access to readership, though, the
+
+computer and internet give everyone access to authorship. The first Rena1ssa\~ce took
+
+us from the position of passive recipient to active interpreter. Our current renaissance
+
+brings us from a position of active interpretation to one of authorship. We are the
+
+creators.
+
+As game programmers instead of game players, we begin to become aware of just how
+
+much of our reality is, indeed, open source-up for discussion. So much of what seemed
+
+like impenetrable hardware is actually software, and ripe for reprogramming. The stories
+
+we use to understand the world seem less like explanations, and more like
+
+collaborations. They are rule sets-and only as good as their ability to explain the
+
+patterns of history or predict those of the future.
+
+Consider the experience of a cartographer attempting to hold a conversation with a
+
+\-surfer. They both can claim intimate knowledge of the ocean, but from vastly different
+
+perspectives. While the mapmaker understands the sea as a series of longitude and
+
+latitude lines, the surfer sees only a motion of waves that aren't even depicted on the
+
+cartographe(s map. tt the cartographer were to call out from the beach to the surfer and
+
+ask him whether he his above or below the 43rd parallel, the surfer would be unable to
+
+respond. The mapmaker would have no choice but to conclude that the surfer was
+
+hopelessly lost If any of us were asked to choose which one we would rather rely on to
+
+get us back to shore, most of us would pick the surfer. He experiences the water as a
+
+system of moving waves and stands a much better chance of navigating a safe course
+
+through them. Each surfer at each location and each moment of the day experiences an
+
+entirely different ocean. The cartographer experiences the same map, no matter what.
+
+He has a more permanent model, but his liability is his propensity to mistake his map for
+
+the actual territory.
+
+The difference between the cartographer and the surfe(s experience of the ocean is akin
+
+to pm _and post-renaissance relationships to story. The first relies on the most linear and
+
+static 1nterpretat1ons of the story_ in order to create a static and authoritative template
+
+through_ which to glean its mearnng. The latter relies on the living, moment-to-moment
+
+perceptions of ,ts many active interpreters to develop a way of relating to its many
+
+changing patterns .. Ult1mately, 1n a cognitive process not unlike that employed by a
+
+chaos mathematician, th_e surfer learns to recognize the order underlying what at first
