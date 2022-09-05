@@ -97,16 +97,76 @@ As game programmers instead of game players, we begin to become aware of just ho
 
 Consider the experience of a cartographer attempting to hold a conversation with a surfer. They both can claim intimate knowledge of the ocean, but from vastly different perspectives. While the mapmaker understands the sea as a series of longitude and latitude lines, the surfer sees only a motion of waves that aren't even depicted on the cartographer's map. If the cartographer were to call out from the beach to the surfer and ask him whether he his above or below the 43rd parallel, the surfer would be unable to respond. The mapmaker would have no choice but to conclude that the surfer was hopelessly lost. If any of us were asked to choose which one we would rather rely on to get us back to shore, most of us would pick the surfer. He experiences the water as a system of moving waves and stands a much better chance of navigating a safe course through them. Each surfer at each location and each moment of the day experiences an entirely different ocean. The cartographer experiences the same map, no matter what. He has a more permanent model, but his liability is his propensity to mistake his map for the actual territory.
 
-The difference between the cartographer and the surfe(s experience of the ocean is akin
+The difference between the cartographer and the surfer's experience of the ocean is akin to pre and post-renaissance relationships to story. The first relies on the most linear and static interpretations of the story in order to create a static and authoritative template through which to glean its meaning. The latter relies on the living, moment-to-moment perceptions of its many active interpreters to develop a way of relating to its many changing patterns. Ultimately, in a cognitive process not unlike that employed by a chaos mathematician, the surfer learns to recognize the order underlying what at first appears to be random turbulence. Likewise, the surfer understands each moment and event in his world--like a toss of the I-Ching coins were once understood--as a possible reflection on any other in the entire system.
 
-to pm _and post-renaissance relationships to story. The first relies on the most linear and
+The renaissance experience of moving from game to meta-game allows everything old to look new again. We are liberated from the maps we have been using to navigate our world, and free to create new ones based on our own observations. This invariably leads to a whole new era of competition. Renaissance may be a rebirth of old ideas in a new context, but which ideas get to be reborn?
 
-static 1nterpretat1ons of the story_ in order to create a static and authoritative template
+The first to recognize the new renaissance will compete to have their kSeologies be the
 
-through_ which to glean its mearnng. The latter relies on the living, moment-to-moment
+ones that are •rebirthecr in this new context. This is why, with the emergence of the
 
-perceptions of ,ts many active interpreters to develop a way of relating to its many
+Internet, we saw the attempted rebirth (and occasional stillbirth) of everything from
 
-changing patterns .. Ult1mately, 1n a cognitive process not unlike that employed by a
+paganism to libertarianism, and communism to psychedelia. Predictably. the t\\nancia\\
 
-chaos mathematician, th_e surfer learns to recognize the order underlying what at first
+markets and consumer capitalism-the dominant narratives of our era-were the first to
+
+successfully commandeer the renaissance. But they squandered their story on a
+
+pyramid scheme-indeed, the accelerating force of computers and networks tends to
+
+force any story to its k>gical conclusio\~nd now the interactive renaissance is once
+
+again up for grabs.
+
+were I in the futurism business, I'd predict that gamers will be the next to steer the
+
+direction of our renaissance, and that they may have entirely better results. For, unlike
+
+businessmen or even politicians, gamers know that the reality they are engineering isn't
+
+real. This is why cheating is not really cheating-but merely playing from a new
+
+perspective. It's all play. Where gamers may have fonnerly been competing from within
+
+the game, now they meet and compete on an entirely new level-and, in comparison,
+
+they fight as gods. This is powertul perspective from which to operate, and one that may
+
+grow in popularity as games become an even more central entertainment in mass
+
+culture .
+
+. Without even a convincing business-to-business strategy on which to hang their market ·
+
+hopes, increasing numbers of hi-tech speculators are coming to the irrefutable
+
+conclusion that they just spent billions of their own and other people's money on a
+
+communications infrastructure that amounts, more than anything else, to a network
+
+gaming platfonn.
+
+No, the internet is not a content delivery system. It's not a way to download movies or
+
+even songs. It is a way of connecting gaming consoles. The only questions left are
+
+whether processing will be done on centralized servers or within the consoles, and how
+
+to cope with latency problems in transmission. The rest is a done deal. The gamers
+
+(remember who started this Internet craze, after all) managed to convince the world to
+
+build them the most expensive toy in the history of civilization.
+
+To some, this might seem like a sad tum of events. I don't think it is.
+
+Renaissances afford us the ability to rethink and redesign our world using entirely new
+
+rule sets. The shift in perspective, itsett, however, is probably more valuable than where
+
+it takes us. It is an open window-a moment when the very control panel of our world is
+
+up for grabs. For as surely as it opened up, this window will close again once a sufficient
+
+consensus has been reached. We will then go on, accepting some new, albeit more
