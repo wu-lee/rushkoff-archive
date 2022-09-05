@@ -47,84 +47,40 @@ Just as the remote control allowed a generation to deconstruct the content of te
 
 Finally, the computer mouse and keyboard transformed a receive-only monitor into a portal. Packaged programming was no longer any more valuable--or valid--than the words we could type ourselves. The addition of a modem turned the computer into a broadcast facility. We were no longer dependent on the content of Rupert Murdoch or CBS, but could create and disseminate our own. The Internet revolution was a "do-it-yourself" or DIY revolution. The people were now the content. New forms of community were being formed.
 
-Of course this represented a tremendous threat to business as usual. Studies in the mid-
+Of course this represented a tremendous threat to business as usual. Studies in the mid-1990's showed that families with Internet-capable computers were watching an average of nine hours less television per week. What's worse, Internet enthusiasts were sharing information, ideas, and even whole computer programs, for free! Software known as "freeware" and "shareware" gave rise to a gift economy based on community and mutual self-interest. People were turning to alternative news and entertainment sources for which they didn't have to pay--and, worse, they were watching fewer commercials. Something had to be done. And it was.
 
-1990's showed that families with Internet-capable computers were watching an average
+Through a series of both deliberate and utterly systemic responses to the threat of interactivity, the mainstream media sought to reverse the effects of the remote, the joystick, and the mouse. Borrowing a term from 1970's social science, media business advocates declared that we were now living in an "attention economy." True enough, the mediaspace might be infinite, but there are only so many hours in a day during which potential audience members might be viewing a program. These units of human time became known as "eyeball-hours," and pains were taken to create TV shows and web sites "sticky" enough to engage those eyeballs long enough to show them an advertisement. Perhaps coincidentally, the growth of the attention economy was accompanied by an increase of concern over the "attention spans" of young people. Channel surfing and similar behavior became equated with a very real but differently diagnosed childhood illness called Attention Deficit Disorder. Children who refused to pay attention were much too quickly drugged, before the real reasons for their adaptation to the onslaught of commercial messages were even considered.
 
-of nine hours less television per week. What's worse, Internet enthusiasts were sharing
+The demystification of media enabled by the joystick and other tools was quickly reversed through the development of increasingly opaque computer interfaces. While an early DOS computer user tended to understand a lot about how his computer stored information and launched programs, later operating systems such as Windows 95 put more barriers in place. Although these operating systems make computers easier to use in certain ways, they prevent users from gaining access or command over its more intricate processes. Now, to install a new program, users must consult "the wizard." What better metaphor do we need for the remystttication of the computer? As a result, "computer literacy" no longer means being able to program a computer, but merely knowing how to use Microsoft Office.
 
-information, ideas, and even whole computer programs, for !reel Software known as
+Finally, the DIY ethic of the Internet community was replaced by the new value of commerce. The communications age was rebranded as an "information age," even though the Internet had never really been about downloading files or data, but, instead, about communicating with other people. The difference was that information, or "content," unlike real human interaction, could be bought and sold. It is a commodity. When selling information online didn't work, businesspeople turned to selling real products onhne. Thus, the e-commerce boom was ignited. Soon the internet became the World Wide Web, whose opaque and image-heavy interfaces made it increasingly one-way and read-only--more conducive to commerce than communication.
 
-'freeware' and "shareware" gave rise to a gttt economy based on community and mutual
+Although very few e-commerce companies actually made any money selling goods, the idea that they could was all that mattered. News stories about online communities were soon overshadowed by those about danng young entrepreneurs launching multi-million-dollar IPO's. Internet journalism moved from the culture section to the business pages, as the dot.com pyramid scheme became the dominant new media story.
 
-sett-interest. People were turning to alternative news and entertainment sources for
+And so a medium born out of the ability to break through packaged stories was now being used to promote a new, equally dangerous one: the great pyramid. A smart kid writes a business plan. He finds a few "angel investors" to back him up long enough for him to land some first-level investors. Below them on the pyramid are several more rounds of investors until the investment bank gets involved. Another few levels of investors buy in until the decision is made to "go public." This means that poor suckers like you and I can invest, too, buy purchasing a newly issued stock on the NASDAQ exchange. Of course, by this point, the angels and other early investors are executing what's known as their "exit strategy." It used be known as a carpet bag. In any case, they're gone, and we are left holding the soon-to-be-worthless shares.
 
-which they didn1 have to pay-,md, worse, they were watching fewer commercials.
+Tragically, but perhaps luckily, the dot.com bubble burst, along with the story being used to keep it inflated. The entire cycle--the birth of a new medium, the battle to control It, and the downfall of the first victorious camp--taught us a lot about the relationship of stories to the technologies through which they are disseminated. And the whole ordeal may have given us another opportunity for renaissance.
 
-Something had to be done. And it was.
+Renaissance Now?
 
-Through a series of both deliberate and utterly systemic responses to the threat of
+The birth of the Internet era was considered a revolution, by many. My best friends--particularly those in the counterculture--saw in the Internet an opportunity to topple the storytellers who had dominated our politics, economics, society, and religion, in short, our very reality, and to replace their stories with ones of our own. It was a beautiful and exciting sentiment, but one as based in a particular narrative as any other. Revolutions simply replace one story with another. The capitalist narrative is replaced by the communist; the religious fundamentalist's for the gnostic's. The means may be different, but the rewards are the same, as is the exclusivity of their distribution. That's why they're called revolutions; we're just going in a circle.
 
-interactivity, the mainstream media sought to reverse the effects of the remote, the
+I prefer to think of the proliferation of interactive media as an opportunity for renaissance: a moment when we have the opportunity to step out of the story, altogether. Renaissances are historical instances of widespread recontextualization. People in a variety of different arts, philosophies, and sciences have the ability to reframe their reality. Quite literally, renaissance means "rebirth." It is the rebirth of old ideas in a new context. A renaissance is a dimensional leap, when our perspective shifts so dramatically that our understanding of the oldest, most fundamental elements of existence changes. The stories we have been using no longer work.
 
-joystick, and the mouse. Borrowing a term from 1970's social science, media business
+Take a look back at what we think of as the original Renaissance--the one we were taught in school. What were the main leaps in perspective? Well, most obviously, perspective painting, itself. Artists developed the technique of the "vanishing point" and with it ability to paint three dimensional representations on two dimensional surfaces. The character of this innovation is subtle, but distinct. It is not a technique for working in three dimensions; it is not that artists moved from working on canvas to working with clay. Rather, perspective painting allows an artist to relate between dimensions. It is a way of representing three dimensional objects on a two dimensional plane.
 
-advocates declared that we were now living in an 'attention economy.• True enough, the
+Likewise, calculus--another key renaissance invention--is a mathematical system that allows us to derive one dimension from another. It is a way of describing curves with the language of lines, and spheres with the language of curves. The leap from arithmetic to calculus was not just a leap in our ability to work with higher dimensional objects, but a leap in our ability to relate the objects of one dimension to the objects of another. It was a shift in perspective that allowed us to orient ourselves to mathematical objects from beyond the context of their own dimensionality.
 
-mediaspace might be infinite, but there are only so many hours in a _day during which
+The other main features of the Renaissance permitted similar shifts in perspective. Circumnavigation of the globe changed our relationship to the planet we live on the maps we used to describe it. The maps still worked, of course--only they described a globe instead of a plane. Anyone hoping to navigate a course had to be able to relate a two-dimensional map to the new reality of a three dimensional planet. Similarly, the invention of moveable type and the printing press changed the relationship of author and audience to text. The creation of a manuscript was no longer a one-pointed affair. Well, the creation of the first manuscript still was--but now it could be replicated and distributed to everyone. It was still one story, but now it was subject to a multiplicity of individual perspectives. This lattermost innovation, alone, changed the landscape of religion in the Western World. Individual interpretation of the Bible led to the collapse of Church authority and the unilateral nature of its decrees. Everyone demanded his or her own relationship to the story.
 
-potential audience members might be viewing a program. These units of human time
+In all these cases, people experienced a very particular shift in their relationship to and understanding of dimensions. Understood this way, a renaissance is moment of reframing. We step out of the frame as it is currently defined, and see the whole picture in a new context. We can then play by new rules.
 
-became known as "eyeball-hours," and pains were taken to create TV shows and web
+It is akin to the experience of a gamer. At first, a gamer will play a video or computer game by the rules. He'll read the manual, if necessary, then move through the various levels of the game. Mastery of the game, at this stage, means getting to the end--making it to the last level, surviving, becoming the most powerful character or, in the case of a simulation game, designing and maintaining a thriving family, city, or civilization. And, for many gamers, this is as far as it goes.
 
-sites "sticky" enough to engage those eyeballs long enough to show them an
+Some gamers, though--usually after they've mastered this level of play--will venture out onto the Internet in search of other fans or user groups. There, they will gather the "cheat codes" that can be used to acquire special abilities within the game, such as invisibility or an infinite supply of ammunition. When the gamer returns to the game with his new secret codes, is he still playing the game, or is he cheating? From a renaissance perspective, he is still playing the game--albeit, a different one. His playing field has grown from the CD on which the game shipped, to the entire universe of computers where these secret codes and abilities can be discussed and shared. He is no longer playing the game, but a meta-game; the inner game world is still fun, but it is distanced by the gamer's new perspective--much in the way we are distanced from the play-within-a-play in one of Shakespeare's comedies or dramas. And the meta-theatrical convention gives us new perspective on the greater story, as well. It is as if we are looking at a series of proscenium arches, and being invited, as an audience, to consider whether we are within a proscenium arch, ourselves.
 
-advertisement. Perhaps coincidentally, the growth of the attention economy was
+Gaming--as a metaphor but also as a lived experience--invites a renaissance perspective on the world in which we live. Perhaps gamers and game culture have been as responsible as anyone for the rise in expressly self-similar forms of television, like Beavis and Butt-head, The Simpsons, and Southpark. The joy of such programs is not the relief of reaching the climax of the linear narrative, but rather the momentary thrill of making connections. The satisfaction is recognizing of which bits of media are being satirized at any given moment. It is an entirely new perspective on television--where programs exist more in the form of Talmudic commentary--perspectives on perspectives on perspectives. We watch screens within screens--constantly reminded, almost as in a Brecht play--of the artifice of storytelling.
 
-accompanied by an increase of concern over the "attention spans" of young people.
+The great Renaissance was a simple leap in perspective. Instead of seeing everything in one dimension, we came to realize there was more than one dimension on which things were occurring. Even the Elizabethan world picture, with its concentric rings of authority--God, king, man, animals--reflects this newfound way of contending with the simultaneity of action of many dimensions at once. A gamer stepping out onto the Internet to find a cheat code certainly reaches this renaissance's level of awareness and skill.
 
-Channel surfing and similar behavior became equated with a very real but differently
-
-diagnosed childhood illness called Attention Deficit Disorder. Children who refused to
-
-pay attention were much too quickly drugged, before the real reasons for their
-
-adaptation to the onslaught of commercial messages were even considered.
-
-The demystification of media enabled by the joystick and other tools was quickly
-
-· reversed through the development of increasingly opaque computer interfaces. While an
-
-early DOS computer user tended to understand a lot about how his computer stored
-
-information and launched programs, later operating systems such as Windows 95 put
-
-more barriers in place. Although these operating systems make computers easier to use
-
-in certain ways, they prevent users from gaining access or command over its more
-
-intricate processes. Now, to install a new program, users must consult "the wizard."
-
-What better metaphor do we need for the remystttication of the computer? As a result,
-
-"computer literacy" no longer means being able to program a computer, but merely
-
-knowing how to use Microsoft Office.
-
-Finally, the DIY ethic of the Internet community was replaced by the new value of
-
-commerce. The communications age was re branded as an "information age,• even
-
-though the Internet had never really been about downloading files or data, but, instead,
-
-about communicating with other people. The difference was that information, or
-
-"content," unlike real human interaction, could be bought and sold. It is a commodity.
-
-When selling information online didn't work, businesspeople turned to selling real
-
-products onhne. Thus, the e-commerce boom was ignited. Soon the internet became the
-
-World Wide Web, whose opaque and image-heavy interfaces made it increasingly one-
-
-way
+But what of the game who then learns to program new games for himself? He, I would argue, has stepped out of yet another frame into our current renaissance. He has deconstructed the content of the game, demystified the technology of its interface, and now feels ready to open the codes and turn the game into a do-it-yourself activity. This is precisely the character and quality of the dimensional leap associated with today's renaissance, as well.
