@@ -101,41 +101,9 @@ The difference between the cartographer and the surfer's experience of the ocean
 
 The renaissance experience of moving from game to meta-game allows everything old to look new again. We are liberated from the maps we have been using to navigate our world, and free to create new ones based on our own observations. This invariably leads to a whole new era of competition. Renaissance may be a rebirth of old ideas in a new context, but which ideas get to be reborn?
 
-The first to recognize the new renaissance will compete to have their kSeologies be the
+The first to recognize the new renaissance will compete to have their ideologies be the ones that are "rebirthed" in this new context. This is why, with the emergence of the Internet, we saw the attempted rebirth (and occasional stillbirth) of everything from paganism to libertarianism, and communism to psychedelia. Predictably, the financial markets and consumer capitalism--the dominant narratives of our era--were the first to successfully commandeer the renaissance. But they squandered their story on a pyramid scheme--indeed, the accelerating force of computers and networks tends to force any story to its logical conclusion--and now the interactive renaissance is once again up for grabs.
 
-ones that are •rebirthecr in this new context. This is why, with the emergence of the
-
-Internet, we saw the attempted rebirth (and occasional stillbirth) of everything from
-
-paganism to libertarianism, and communism to psychedelia. Predictably. the t\\nancia\\
-
-markets and consumer capitalism-the dominant narratives of our era-were the first to
-
-successfully commandeer the renaissance. But they squandered their story on a
-
-pyramid scheme-indeed, the accelerating force of computers and networks tends to
-
-force any story to its k>gical conclusio\~nd now the interactive renaissance is once
-
-again up for grabs.
-
-were I in the futurism business, I'd predict that gamers will be the next to steer the
-
-direction of our renaissance, and that they may have entirely better results. For, unlike
-
-businessmen or even politicians, gamers know that the reality they are engineering isn't
-
-real. This is why cheating is not really cheating-but merely playing from a new
-
-perspective. It's all play. Where gamers may have fonnerly been competing from within
-
-the game, now they meet and compete on an entirely new level-and, in comparison,
-
-they fight as gods. This is powertul perspective from which to operate, and one that may
-
-grow in popularity as games become an even more central entertainment in mass
-
-culture .
+Were I in the futurism business, I'd predict that gamers will be the next to steer the direction of our renaissance, and that they may have entirely better results. For, unlike businessmen or even politicians, gamers know that the reality they are engineering isn't real. This is why cheating is not really cheating--but merely playing from a new perspective. It's all play. Where gamers may have formerly been competing from within the game, now they meet and compete on an entirely new level--and, in comparison, they fight as gods. This is powertul perspective from which to operate, and one that may grow in popularity as games become an even more central entertainment in mass culture.
 
 . Without even a convincing business-to-business strategy on which to hang their market ·
 
