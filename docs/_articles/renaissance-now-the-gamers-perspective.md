@@ -105,36 +105,14 @@ The first to recognize the new renaissance will compete to have their ideologies
 
 Were I in the futurism business, I'd predict that gamers will be the next to steer the direction of our renaissance, and that they may have entirely better results. For, unlike businessmen or even politicians, gamers know that the reality they are engineering isn't real. This is why cheating is not really cheating--but merely playing from a new perspective. It's all play. Where gamers may have formerly been competing from within the game, now they meet and compete on an entirely new level--and, in comparison, they fight as gods. This is powertul perspective from which to operate, and one that may grow in popularity as games become an even more central entertainment in mass culture.
 
-. Without even a convincing business-to-business strategy on which to hang their market ·
+Without even a convincing business-to-business strategy on which to hang their market hopes, increasing numbers of hi-tech speculators are coming to the irrefutable conclusion that they just spent billions of their own and other people's money on a communications infrastructure that amounts, more than anything else, to a network gaming platfonn.
 
-hopes, increasing numbers of hi-tech speculators are coming to the irrefutable
+No, the internet is not a content delivery system. It's not a way to download movies or even songs. It is a way of connecting gaming consoles. The only questions left are whether processing will be done on centralized servers or within the consoles, and how to cope with latency problems in transmission. The rest is a done deal. The gamers (remember who started this Internet craze, after all) managed to convince the world to build them the most expensive toy in the history of civilization.
 
-conclusion that they just spent billions of their own and other people's money on a
+To some, this might seem like a sad turn of events. I don't think it is.
 
-communications infrastructure that amounts, more than anything else, to a network
+Renaissances afford us the ability to rethink and redesign our world using entirely new rule sets. The shift in perspective, itself, however, is probably more valuable than where it takes us. It is an open window--a moment when the very control panel of our world is up for grabs. For as surely as it opened up, this window will close again once a sufficient consensus has been reached. We will then go on, accepting some new, albeit more dimensionalized, picture of reality as the truth, and mistake yet another map as the territory.
 
-gaming platfonn.
+Our present, mid-renaissance moment, however, is a window al opportunity. It is like the peak of a mystical experience or psychedelic trip--that moment when the journeyer thinks to himself, "how will I remember this when I am back to reality?" More often than not, the psychic traveler will scribble down some words ("I am one! It is one!") that appear nonsensical in the light of day--even though the insight they mean to communicate is quite penetrating.
 
-No, the internet is not a content delivery system. It's not a way to download movies or
-
-even songs. It is a way of connecting gaming consoles. The only questions left are
-
-whether processing will be done on centralized servers or within the consoles, and how
-
-to cope with latency problems in transmission. The rest is a done deal. The gamers
-
-(remember who started this Internet craze, after all) managed to convince the world to
-
-build them the most expensive toy in the history of civilization.
-
-To some, this might seem like a sad tum of events. I don't think it is.
-
-Renaissances afford us the ability to rethink and redesign our world using entirely new
-
-rule sets. The shift in perspective, itsett, however, is probably more valuable than where
-
-it takes us. It is an open window-a moment when the very control panel of our world is
-
-up for grabs. For as surely as it opened up, this window will close again once a sufficient
-
-consensus has been reached. We will then go on, accepting some new, albeit more
+So, assuming that we can even do it, what is it we want to embed in the civilization cl the future? What would we want to remind ourselves cl, once this little window has closed? I'd think, more than any ideology or narrative, the most important idea to associate with our renaissance is the notion that we are, as individuals and a collective, the writers cl our own stories. And who or what might best accomplish this grand, trans-dimensional communication al autonomous, communitarian values? I'd place my renaissance bet on the gamers' perspective: the very notion that our world is open source, and that reality itsett is up tor grabs. For, more than anyone else, a real garner knows that we are the ones creating the rules.
