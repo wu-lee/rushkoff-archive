@@ -8,7 +8,6 @@ blurb: ''
 notes: Based on scan from Unified Field Summit
 refs: ''
 sources: ''
-published: false
 
 ---
 The frightening news is that we are living in a story. The reassuring part is that it's a story we re writing, ourselves.
