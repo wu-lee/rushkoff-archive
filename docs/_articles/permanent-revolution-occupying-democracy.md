@@ -33,7 +33,19 @@ By amplifying the more gamified, amateur, and impulse-driven qualities of the ne
 
 While the net may have failed democracy as a tool or platform, it may have succeeded on a more subtle yet ultimately deeper level as a media environment. That is, while the keyboards and Web sites and blogs and streaming video and social networks actually comprising the Internet may not be directly impacting the ways in which citizens engage in civics, digital technology as a cultural landscape is beginning to have a profound effect on the way people conceive of themselves in relationship to one another and institutions. Most significantly, as I will attempt to show in the case of the Occupy Wall Street movement, the net suggests new metaphors and demonstrates new principles that inform a novel amalgam of activist practices.
 
-\--HERE
+In short, the social media-enhanced civics now being discussed in many forums is most interesting--and ultimately promising--as a style of inquiry into the ways that the emergence of the net and accompanying changes in the social-scientific paradigm have altered our expectations of agency, participation, and change.
+
+The digital environment, like any other media environment, is embedded with certain values that inform the culture within it. The textual environment encouraged new ways of thinking about accountability (written contracts), human interaction (written law), and even religion (the written Covenant with God--the Torah) (Logan 1987; Ong 2002). The printing press likewise changed the way people related to business (central banking), government (the Enlightenment), and the authority of the Church (personal Bibles and the Protestant reformation) (McLuhan 1962).
+
+To parse the impact of the digital environment is a bit more difficult because we are currently living within its effects. I have identified four of the most pronounced conceptual shifts accompanying digitality in order to demonstrate the ways that the Occupy movement has utilized them as central operating principles for its new approach to activism and democratic participation.
+
+The first is the notion of feedback. Traditionally, what we think of as feedback is simply the latent results of particular causes. Farmers plant in one season and get feedback months later in the yield of crop. Plant seeds too close together, and the crop competes for resources. These data are then incorporated into the next year's planting. Likewise, businesses send a product to market and then wait for sales reports to determine if the design and marketing were appropriate or could be improved upon. Each new iteration of planting or product design was based on the feedback from the one before.
+
+In the dawn of the digital era, Cyberneticist Norbert Weiner (1965) saw in feedback a way of developing robots that could instantaneously “feel” and respond to changing conditions in the real world. Just as a thermostat senses the temperature in order to turn a heater on or off and an elevator "feels" for indicators at each floor instead of attempting to measure the distance between one floor and another, robots could be taught to rely no more on their programming than to the things around them. Each piece of feedback could be iterated into the next action.
+
+With the help of systems theorists aided by computers (Miller and Page 2007), much more complex systems could be analyzed in terms of feedback and iteration. The screech one hears when placing a microphone too close to an amplified speaker--what we call feedback--is really just the cyclical loop of uncontrolled feedback, iterating back to the microphone and again to the speaker. It is analogous to any of the many chaotic systems from the weather to the stock market that evade the analysis of our normal faculties.
+
+Computers give us a way to see such systems in terms of their feedback and iteration. Fractals--the paisley graphics churned out by computers--are really just visualizations of the feedback and iteration of nonlinear equations. Their power is in their ability to render previously incomprehensible systems in graphics that make sense to the human viewer. As a result, we become more ready to understand feedback as an ongoing phenomenon rather than some occasional event.
 
 The Sociological Quarterly 54 (2013) 159-228 © 2013 Midwest Sociological Society
 
@@ -94,22 +106,6 @@ tracts), human interaction
 God-the Torah) (Logan
 
 1t), and the authority of the
-
-\--HERE
-
-In short, the social media-enhanced civics now being discussed in many forums is most interesting--and ultimately promising--as a style of inquiry into the ways that the emergence of the net and accompanying changes in the social-scientific paradigm have altered our expectations of agency, participation, and change.
-
-The digital environment, like any other media environment, is embedded with certain values that inform the culture within it. The textual environment encouraged new ways of thinking about accountability (written contracts), human interaction (written law), and even religion (the written Covenant with God--the Torah) (Logan 1987; Ong 2002). The printing press likewise changed the way people related to business (central banking), government (the Enlightenment), and the authority of the Church (personal Bibles and the Protestant reformation) (McLuhan 1962).
-
-To parse the impact of the digital environment is a bit more difficult because we are currently living within its effects. I have identified four of the most pronounced conceptual shifts accompanying digitality in order to demonstrate the ways that the Occupy movement has utilized them as central operating principles for its new approach to activism and democratic participation.
-
-The first is the notion of feedback. Traditionally, what we think of as feedback is simply the latent results of particular causes. Farmers plant in one season and get feedback months later in the yield of crop. Plant seeds too close together, and the crop competes for resources. These data are then incorporated into the next year's planting. Likewise, businesses send a product to market and then wait for sales reports to determine if the design and marketing were appropriate or could be improved upon. Each new iteration of planting or product design was based on the feedback from the one before.
-
-In the dawn of the digital era, Cyberneticist Norbert Weiner (1965) saw in feedback a way of developing robots that could instantaneously “feel” and respond to changing conditions in the real world. Just as a thermostat senses the temperature in order to turn a heater on or off and an elevator "feels" for indicators at each floor instead of attempting to measure the distance between one floor and another, robots could be taught to rely no more on their programming than to the things around them. Each piece of feedback could be iterated into the next action.
-
-With the help of systems theorists aided by computers (Miller and Page 2007), much _m_ore complex systems could be analyzed in terms of feedback and iteration. The screech one hears when placing a microphone too close to an amplified speaker—what we call feedback-is really just the cyclical loop of uncontrolled feedback, iterating back to the _m_icrophone and again to the speaker. It is analogous to any of the many chaotic systems from the weather to the stock market that evade the analysis of our normal faculties.
-
-Computers give us a way to see such systems in terms of their feedback and itera tion. Fractals—the paisley graphics churned out by computers-are really just visual izations of the feedback and iteration of nonlinear equations. Their power is in their ability to render previously incomprehensible systems in graphics that make sense to the human viewer. As a result, we become more ready to understand feedback as an ongoing phenomenon rather than some occasional event.
 
 **166**
 
