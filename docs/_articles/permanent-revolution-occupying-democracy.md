@@ -122,36 +122,11 @@ Occupy Los Angeles. N.d. _The Dummy's Guide to General Assembly_. OccupyLosAngel
 Ong, W. 2002. _Orality and Literacy_. New York: Routledge.  
 Pariser, E. 2011. _The Filter Bubble: What the Internet Is Hiding from You_. New York: Penguin.  
 Rushkoff, D. 1995. _Playing the Future: How Kids' Culture Can Teach Us to Thrive in an Age of Chaos_. New York: HarperEdge.  
-\- 1998. _Open Source Democracy: Ho_w Online Communication Is Changing Offline Politics.
-
-London: Demos. - 2009_. Life Inc: Ho_w _Corporatism Conquered the World and Ho_w We Can Take It Back. New
-
-York: Random House.
-
-.2012_. Monopoly Moneys: The Media Environment of Corporatism and the Player_'s Way Out.
-
-Utrecht, the Netherlands: Utrecht University Dissertation. Simon, R. 1992. “A Perot Presidency and a La-Z-Boy Lawmaking.” Baltimore Sun. May 13. Sullivan, A. 2008. "We Are the Ones We've Been Waiting For." The Atlantic. February 28, p. 34. Taylor, A. 2012. “Occupy 2.0: Strike Debt." The Nation. September 5, p. 4. Trippi, J. 2004_. The Revolution Will Not Be Televised._ New York: William Morrow. Weiner, N. 1965. Cybernetics, S_econd Edition, or the Control and Communication in the Animal_
-
-and the Machine. Cambridge, MA: MIT Press.
-
-MUNDANE INTERNET TOOLS, THE RISK OF EXCLUSION, AND REFLEXIVE MOVEMENTS-OCCUPY WALL STREET AND POLITICAL USES OF DIGITAL NETWORKED TECHNOLOGIES
-
-Rasmus Kleis Nielsen Roskilde University and University of Oxford
-
-The very fact that some refer to the Occupy movement as "#Occupy” (with reference to the hashtags used on the microblogging platform Twitter) illustrates how closely
-
-\*Direct all correspondence to Rasmus Kleis Nielsen, 13 Norham Gardens, Oxford OX2 6PS, UK; e-mail: rasmuskleisnielsen@gmail.com
-
-The Sociological Quarterly 54 (2013) 159–228 O 2013 Midwest Sociological Society
-
-173
-
-Douglas Rushkoff
-
-Permanent Revolution
-
-1st-century science and
-
-plicating, iterative systems,
-
-ons of their original creators in novel
+\---. 1998. _Open Source Democracy: How Online Communication Is Changing Offline Politics_. London: Demos.  
+\---. 2009. _Life Inc: How Corporatism Conquered the World and How We Can Take It Back_. New York: RandomHouse.  
+\---. 2012. _Monopoly Moneys: The Media Environment of Corporatism and the Player's Way Out_. Utrecht, the Netherlands: Utrecht University Dissertation.  
+Simon, R. 1992. “A Perot Presidency and a La-Z-Boy Lawmaking.” _Baltimore Sun_. May 13.  
+Sullivan, A. 2008. "We Are the Ones We've Been Waiting For." _The Atlantic_. February 28, p. 34.  
+Taylor, A. 2012. “Occupy 2.0: Strike Debt." _The Nation_. September 5, p. 4.  
+Trippi, J. 2004. _The Revolution Will Not Be Televised_. New York: William Morrow.  
+Weiner, N. 1965. _Cybernetics, Second Edition, or the Control and Communication in the Animal and the Machine_. Cambridge, MA: MIT Press.
