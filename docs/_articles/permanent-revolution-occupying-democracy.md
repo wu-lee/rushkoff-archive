@@ -47,53 +47,15 @@ With the help of systems theorists aided by computers (Miller and Page 2007), mu
 
 Computers give us a way to see such systems in terms of their feedback and iteration. Fractals--the paisley graphics churned out by computers--are really just visualizations of the feedback and iteration of nonlinear equations. Their power is in their ability to render previously incomprehensible systems in graphics that make sense to the human viewer. As a result, we become more ready to understand feedback as an ongoing phenomenon rather than some occasional event.
 
-The Sociological Quarterly 54 (2013) 159-228 © 2013 Midwest Sociological Society
+In politics, for example, feedback used to occur primarily in four-year cycles. The populace would vote for a president, that president would go about his job, and then four years later he would get feedback in the form of being granted another term or kicked out of office. Pollsters arose to obtain feedback at tighter intervals so that a politician could adjust policy (or even just his communication about policy) during his term. Digital technology--from live Twitter feeds to real-time peoplemeter results--now allows for instantaneous feedback. In a digital environment, feedback and iteration fold into one another.
 
-165
+Second and similarly, in a digital environment, narratives no longer work quite like they used to. Thanks to the remote control, the digital video recorder, the joystick, and the mouse, traditional stories are deconstructed, channel surfed, and fast forwarded (Rushkoff 1995). Aristotle was likely the first to identify the way that audiences are carried through a story through their identification with a character. This identification allows the audience to go up into tension as the tragic hero makes a series of decisions that put him into jeopardy. If the audience could make any decisions on its own, they might have a way out other than to continue along with the character into peril, where they will ultimately have to accept the playwright's choice of how things end up. Likewise, anthropologist Joseph Campbell spent a career analyzing what he called "the hero's journey," a shape he believed was common to most mythology. This journey into peril for later redemption again required a captive audience, incapable of making its own decisions. These narrative techniques, as well as audience captivity, were eventually exploited by broadcast advertisers who learned to enact them in just 30 seconds, all for the benefit of a product. As audiences attained interactivity, however, the captivity required for this sort of propaganda—as well as the rest of traditional storytelling--became threatened. With escape as close as the push of a button, audiences of all kinds become intolerant of the anxiety associated with the rising tension of a story.
 
-Permanent Revolution
-
-Douglas Rushkoff
-
-Issue One: The Role of New Social Media
-
-PERMANENT REVOLUTION: Occupying Democracy
-
-Douglas Rushkoff*
-
-Utrecht University
-
-stial of interactive and network
-
-Qushkoff 1998) in which I out els of public intervention not just in
-
-\*Direct all correspondence to Douglas Rushkoff, 157 Southside Ave, Hastings on Hudson, NY 10706; e-mail: rushkoff@rushkoff.com
-
-**164**
-
-The Sociological Quarterly 54 (2013) 159-228 © 2013 Midwest Sociological Society
-
-Permanent Revolution
-
-Douglas Rushkoff
-
-In politics, _f_or example, feedback used t_o o_ccur primarily in fou_r-y_ear cycles. The populace would vote for a president, that president w_o_ul_d_ g_o about his job, and then four years later he would get feedback in the fo_rm of being grante_d ano_ther term or kicked out of office_._ Pollsters arose to obtain f_ee_dback at tighter intervals _so_ that a poli tician could adjust policy (or even just his communicati_o_n about p_olic_y_)_ d_uri_ng his term. Digital technology, from live Twitter f_ee_d_s t_o real_-_time peopl_emete_r results now allows for instantaneous feedback. In a digital environment, _fe_edback and itera tion fold into one another.
-
-Second and similarly, in a digital environment, narrati_v_es no l_o_nger work quite like they used to. Thanks to the remote control, the digital vide_o rec_order, the _j_oystick, an_d_ the mouse, traditional stories are de_c_onstructed, channel surfed, and fast forwarded (Rushkoff 1995). Aristotle was likely the first to identify the way that au_di_ences are carried through a story through their identification with a character. _T_his identification allows the audience to go up into tension as the tragic hero makes a series of decision_s_ that put him into jeopardy. If the audience could make any decisions on its own, they might have a way out other than to continue along with the character into peril, where they will ultimately have to accept the playwright's choice of how things end up. Like wise, anthropologist Joseph Campbell spent a career analyzing what he called "the hero's journey," a shape he believed was common to most mythology. This journey into peril for later redemption again required a captive audience, incapable of making its own decisions. These narrative techniques, as well as audience captivity, **were eventu** ally exploited by broadcast advertisers who learned to enact them in just 30 seconds, all for the benefit of a product. As audiences attained interactivity, however, the captivity required for this sort of propaganda—as well as the rest of traditional storytelling became threatened. With escape as close as the push of a button, audiences of all kinds become intolerant of the anxiety associated with the rising tension of a story.
-
-In the deconstructed, cut-and-paste mashup of digital media, the messianic, ends-justify-the-means values of traditional journeys no longer find an environment consonant with their value systems. This is the realm of ongoing fantasy role-playing, not tragically terminal heroes. The digital environment is not a place for extended struggles, charismatic leaders followed by masses, or winner-takes-all campaigns. The structure of digital entertainment and problem solving is less like agonistic play with victors and vanquished than it is like James Carse's (1997) “infinite game”-one played for the sake of play. The object of the game is to keep the game going as long as possible.
+In the deconstructed, cut-and-paste mashup of digital media, the messianic, ends-justify-the-means values of traditional journeys no longer find an environment consonant with their value systems. This is the realm of ongoing fantasy role-playing, not tragically terminal heroes. The digital environment is not a place for extended struggles, charismatic leaders followed by masses, or winner-takes-all campaigns. The structure of digital entertainment and problem solving is less like agonistic play with victors and vanquished than it is like James Carse's (1997) “infinite game”--one played for the sake of play. The object of the game is to keep the game going as long as possible.
 
 This sensibility extends to the third characteristic of the digital media environment, its emphasis on prototyping over product. The shareware culture of the Internet led to what are known as “public betas"—the release of unfinished software to the public for testing and improvement. As Media Lab director Joichi Ito has explained (Ito 2011), there is no point testing a product in-house when there is a willing population of users out there ready to bang on one's programs. Besides, there is no time (see feedback and iteration above) to finish a product before seeing how people are going to react to it. Better to incorporate feedback into one's software in an ongoing fashion.
 
-The Sociological Quarterly 54 (2013) 159-228 O 2013 Midwest Sociological Society
-
-**_16_7**
-
-_Perma_nent Revo_l_ution
-
-Douglas Rushkoft
-
-**Sw_ingl_i_ne_**
+\--HERE
 
 discussed in many forums is
 
@@ -137,15 +99,17 @@ boundary between users is a program is intentionally
 
 ipation is only limited by ay music through iTunes, or
 
-Fourth and finally, the digital environment blurs the boundary m **and programmers. In a comp**uting environment (unless a programi and artificially encrypted and protected) one's level of participation is on his willingness to learn more and dig deeper. One can play music throun **become a disc jockey whose selections are listened t**o by others. He can go de **use Garage Band to make new music, or an**other program to create news **ments for Gar**age Band. Or he can learn to program a new kind of music. altogether.
+\--HERE
 
-Or, as Julian Kücklick (2004) and I (Rushkoff 2012) have explored separately, one level of partici**pation in any system can now be underst**ood through the lens of **gramm**er or player. One can play a computer game out of the box; one can **"cheat” codes to play the game on a new level; one can _l_earn** to "mod” his own la **the game; or one can become a programmer and d**evelop his own game. In a dir_i_t **society pe_o_ple participate on all these levels, and their limitations are eith**er voluntari **or visibly imposed.**
+Fourth and finally, the digital environment blurs the boundary between users and programmers. In a computing environment (unless a program is intentionally and artificially encrypted and protected) one's level of participation is only limited by his willingness to learn more and dig deeper. One can play music through iTunes, or become a disc jockey whose selections are listened to by others. He can go deeper and use Garage Band to make new music, or another program to create new instruments for Garage Band. Or he can learn to program a new kind of music sequencer altogether.
 
-**_T_h**e Occupy movement bears all four of these characteristics of the digital media **environment-and its success may have less to do with any immediate** goals being met **or elections being won than the extent to which these values are internalized by** politics **at large. As an edit**or-at-large _f_or Adbuster**s m**_**agaz_i_ne in t**he 1990s and later author of **the bo_ok** _Life Inc (_Rushkoff 2009), which deco**nstructed the corporation and sought new bottom-up solutions to capitalism, I was at least tangentially in**volved in laying some of the groundwork for this m**ovement's ethos and methodo**logy. When the Occu **pation was first announ**ced, I decided **to remain a distant supporter—so as not to either take credit for what was going on, or to unduly influence a movement of young** people who I believed d_es_erve_d t_o do this for themse_lve_s. In short, I fully believed the Occupiers would be capable of _p_lanning and interac**ting in ways beyond my own ability or _f_oresight.**
+Or, as Julian Kücklick (2004) and I (Rushkoff 2012) have explored separately, one's level of participation in any system can now be understood through the lens of a programmer or player. One can play a computer game out of the box; one can learn the "cheat” codes to play the game on a new level; one can learn to "mod” his own level of the game; or one can become a programmer and develop his own game. In a digital society people participate on all these levels, and their limitations are either voluntary or visibly imposed.
 
-**Th**e first time I visited Zuccotti Park, during the first week o_f t_he Occupation, _I_ **had or**iginally intende_d_ to speak and offer support. But on my arrival, I saw not just **one but several cultural h**eroes of the 1960s through the 19_90_s, all preachi_n_g to the **assem**bled activists, or singing songs with guitars, or giving in_t_erviews to the press_._ **From** my perspective, these folk figures meant well—but we_re ul_timately usur_pi_ng the moment fro_m_ their ideological successors. So instea_d_, I spent that day and several more simply observing the proceedings, asking questions, participat_i_ng in _t_each_-i_ns, and **kee_pi_ng my identity to myself.**
+The Occupy movement bears all four of these characteristics of the digital media environment--and its success may have less to do with any immediate goals being met or elections being won than the extent to which these values are internalized by politics at large. As an editor-at-large for _Adbusters_ magazine in the 1990s and later author of the book _Life Inc_ (Rushkoff 2009), which deconstructed the corporation and sought new bottom-up solutions to capitalism, I was at least tangentially involved in laying some of the groundwork for this movement's ethos and methodology. When the Occupation was first announced, I decided to remain a distant supporter—so as not to either take credit for what was going on, or to unduly influence a movement of young people who I believed deserved to do this for themselves. In short, I fully believed the Occupiers would be capable of planning and interacting in ways beyond my own ability or foresight.
 
-**My participation was ent**irely "real worl_d_." _I d_id not check any of the sociales **works or Facebook page_s f_or news, as I seemed to be learning** enough on t_he gro,_ **In fa_c_t, it _did_ not even occur to me to use Facebook to learn** what I cou_ld i_n _te_ While this may imply a certain elitism, in that only those with the means to get to cotti Pa_rk co_uld experience what I was, the notion that this entire dem_onstr_ation enabled by social media implies that participants came entirely from one side _d_igital divid_e_. Y_e_t the fact that both real world and virtual means of participare _m_ained available throughout at least this phase o_f Oc_cupy suggests that neit
+The first time I visited Zuccotti Park, during the first week o_f t_he Occupation, I had originally intende_d_ to speak and offer support. But on my arrival, I saw not just one but several cultural heroes of the 1960s through the 19_90_s, all preachi_n_g to the assembled activists, or singing songs with guitars, or giving in_t_erviews to the press_._ From my perspective, these folk figures meant well—but we_re ul_timately usur_pi_ng the moment fro_m_ their ideological successors. So instea_d_, I spent that day and several more simply observing the proceedings, asking questions, participat_i_ng in t_each-i_ns, and kee_pi_ng my identity to myself.
+
+My participation was entirely "real worl_d_." I d_id not check any of the sociales works or Facebook page_s f_or news, as I seemed to be learning enough on t_he gro, In fa_c_t, it did not even occur to me to use Facebook to learn what I cou_ld i_n te While this may imply a certain elitism, in that only those with the means to get to cotti Pa_rk co_uld experience what I was, the notion that this entire dem_onstr_ation enabled by social media implies that participants came entirely from one side _d_igital divid_e_. Y_e_t the fact that both real world and virtual means of participare _m_ained available throughout at least this phase o_f Oc_cupy suggests that neit
 
 Occ_upy_ s_uggests that neither is true._
 
