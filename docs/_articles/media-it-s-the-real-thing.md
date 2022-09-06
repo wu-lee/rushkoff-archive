@@ -16,19 +16,11 @@ sources: ''
 published: false
 
 ---
-MARSHALL MCLUHAN ONLY THEORIZED ABOUT THE MEDIA CIVILIZATION THAT AN ENTIRE GENERATION HAS NOW LIVED IN ON A DAILY BASIS SINCE THEY WERE FIRST PLACED IN FRONT OF THE TV TO GIVE MOM AND DAD A BREATHER. DOUGLAS RUSHKOFF,
+MARSHALL McLUHAN ONLY THEORIZED ABOUT THE MEDIA CIVILIZATION THAT AN ENTIRE GENERATION HAS NOW LIVED IN ON A DAILY BASIS SINCE THEY WERE FIRST PLACED IN FRONT OF THE TV TO GIVE MOM AND DAD A BREATHER. DOUGLAS RUSHKOFF, AUTHOR OF THE INSIGHTFUL AND IRREVERENT _Cyberia: Life in the Trenches of Hyperspace_ (BALLANTINE, 1994) AND EDITOR OF THE _GenX Reader_ (1993), HAS EMERGED FROM THAT GENERATION AS THE BRILLIANT HEIR TO McLUHAN. A TV HEAD WHO CAN WRITE, HE IS THE FIRST MAJOR MEDIA THEORIST TO COME FROM THE PRIMORDIAL SOUP OF THE DATASPHERE INSTEAD OF THE HALLOWED STACKS OF THE UNIVERSITY LIBRARY.
 
-cians deaf, and televisions or virtual reality goggles may annoy the PBS
+THE FOLLOWING IS AN ADAPTED EXCERPT FROM RUSHKOFF'S FORTHCOMING BOOK _Media Virus! Hidden Agendas in Popular Culture_ TO BE PUBLISHED IN OCTOBER BY BALLANTINE PRESS.
 
-AUTHOR OF THE INSIGHTFUL AND IRREVERENT may damage our optic nerves and make us blind.
-
-This generation even objects to the word “media” parents, don't the kids Cyberia: Life in the Trenches of Hyperspace
-
-being used as a singular noun. The media, to these that watch it just (BALLANTINE, 1994) AND EDITOR OF THE GenX
-
-people, are merely the channels through which we
-
-communicate: TV, print, bumper stickers, telegraph. Reader (1993), HAS EMERGED FROM THAT GENERA shine it on? Ironically
+NEW YORK — Most social theorists consider the media a dungheap of cultural waste. They believe that the media, having nothing better to do, keeps chewing on the same predigested matter. There's so much time to fill on so many stations, and only a few real stories to tell. This is a simplistic view of media only shared by philosophers who grew up before television. They view media and even technology, for that matter, as somehow outside the realm of the natural. To them media can only display or comment on something real. They cannot acknowledge that the media is something real itself. Even forward thinkers like Marshall McLuhan insisted that every media extension of man is akin to a biological amputation. The advent of rock music made musicians deaf, and televisions or virtual reality goggles may damage our optic nerves and make us blind. This generation even objects to the word “media” being used as a singular noun. The media, to these people, are merely the channels through which we communicate: TV, print, bumper stickers, telegraph.
 
 But those who grew up after the datasphere had TION AS THE BRILLIANT HEIR TO McLUHAN. disposed and immune
 
@@ -67,3 +59,7 @@ dia a dungheap of cultural waste. They believe that town meeting (to use Ross Pe
 the media, having nothing better to do, keeps chew- tional political debate and decisions have been ab tions for NPQ.
 
 ing on the same predigested matter. There's so much sorbed by the ever-expanding forums of call-in radio time to fill on so many stations, and only a few real and late-night variety shows. Today's most media stories to tell. This is a simplistic view of media only savvy politicians announce their candidacies on shared by philosophers who grew up before televi- Larry King, and explain their positions on Rush sion. They view media and even technology, for Limbaugh or, better yet, primetime “infomercials.”
+
+INSTEAD OF THE HALLOWED STACKS OF THE
+
+4
