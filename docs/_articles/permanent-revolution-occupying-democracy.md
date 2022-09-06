@@ -113,19 +113,16 @@ Ito, J. 2011. "In an Open Source Society, Innovating by the Seat of Our Pants." 
 Kücklick, J. 2004. _Play and Playability as Key Concepts in New Media Studies_. Playability.de. Retrieved January 3, 2012. ([http://www.playability.de/Play.pdf](http://www.playability.de/Play.pdf "http://www.playability.de/Play.pdf")).  
 Logan, R. K. 1987. _The Alphabet Effect: The Impact of the Phonetic Alphabet on the Development of Western Civilization_. New York: St. Martins Press.  
 Martinson, J. 2000. "Online Politics Proves a Turn-off." _The Guardian_. August 27.  
-McLuhan, M. 1962. _The Gutenberg Galaxy: The Making of Typographic Man_. Toronto, ON: University of Toronto Press.
-
-. 1992_. Laws of Media: The Ne_w S_cience._ Toronto, ON: University of T_oronto_ Press. Miller, J. H. and S. E. Page. 2007_. Complex Adaptiv_e S_ystems: An Introduction to Computational_
-
-Models of Social Life. Princeton, NJ: Princeton University Press. Mirzoeff, N. 20_12. The People's Bailout. O_ccupy 2012 Blog October 12. Retrieved November 1,
-
-2012\. (http_://www.nicholasmirzoeff.com/_O_2_0_12/2012/10/21/_the-peoples-bailout-and-the
-
-rolling-jubilee_/)._ Morris, D. 2000. Vote.com. Retrieved 12 12, 2012. (http:_//www.vote.com). Occupy Los Angeles. N.d. The Dummy's Guide to General A_ssembly. O_ccupyLosAngeles._org.
-
-Retrieved December 15, 2012. (http_://o_ccupylosangeles.org/assemblyguide). Ong, W. 2002. Orality and Literacy. New York: Routledge. Pariser, E. 2011. The Filter Bubble: What the Internet Is Hiding from You. New York: Penguin. Rushkoff, D. 1_99_5_. Playing the Future: How Kids' Culture Can Teach Us to Thrive in an Age of_
-
-_Chao_s. New York: HarperEdge. - 1998. _Open Source Democracy: Ho_w Online Communication Is Changing Offline Politics.
+McLuhan, M. 1962. _The Gutenberg Galaxy: The Making of Typographic Man_. Toronto, ON: University of Toronto Press.  
+\---. 1992. _Laws of Media: The New Science_. Toronto, ON: University of Toronto Press.  
+Miller, J. H. and S. E. Page. 2007. _Complex Adaptive Systems: An Introduction to Computational Models of Social Life_. Princeton, NJ: Princeton University Press.  
+Mirzoeff, N. 2012. _The People's Bailout_. Occupy 2012 Blog October 12. Retrieved November 1, 2012. (http://www.nicholasmirzoeff.com/O2012/2012/10/21/the-peoples-bailout-and-the-rolling-jubilee/).  
+Morris, D. 2000. Vote.com. Retrieved 12 12, 2012. (http://www.vote.com).  
+Occupy Los Angeles. N.d. _The Dummy's Guide to General Assembly_. OccupyLosAngeles.org. Retrieved December 15, 2012. (http://occupylosangeles.org/assemblyguide).  
+Ong, W. 2002. _Orality and Literacy_. New York: Routledge.  
+Pariser, E. 2011. _The Filter Bubble: What the Internet Is Hiding from You_. New York: Penguin.  
+Rushkoff, D. 1995. _Playing the Future: How Kids' Culture Can Teach Us to Thrive in an Age of Chaos_. New York: HarperEdge.  
+\- 1998. _Open Source Democracy: Ho_w Online Communication Is Changing Offline Politics.
 
 London: Demos. - 2009_. Life Inc: Ho_w _Corporatism Conquered the World and Ho_w We Can Take It Back. New
 
