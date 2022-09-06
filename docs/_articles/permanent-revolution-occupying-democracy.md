@@ -31,19 +31,21 @@ CNN and other news networks now use scientific-looking “people meters” to ga
 
 By amplifying the more gamified, amateur, and impulse-driven qualities of the net, e-democracy has not only missed the mark as an opportunity for a more participatory electorate and civic body, but also exacerbated some of the least productive elements of the spectator democracy so many believed would be obsolesced by the Internet. (McLuhan 1992) 
 
-While the net may have failed democracy as a tool or platform, it may have suc ceeded on a more subtle yet ultimately deeper level as a media environment. That is, while the keyboards and Web sites and blogs and streaming video and social ne**tworks** actually comprising the Internet may not be directly impacting the ways in which citi _z_ens engage in civics, digital technology as a cultural landscape is beginning to have a profound effect on the way people conceive of themselves in relationship to one another and institutions. Most significantly, as I will attempt to show in the case of the Occupy Wall Street movement, the net suggests new metaphors and demonstrates new principles that inform a novel amalgam of activist practices.
+While the net may have failed democracy as a tool or platform, it may have succeeded on a more subtle yet ultimately deeper level as a media environment. That is, while the keyboards and Web sites and blogs and streaming video and social networks actually comprising the Internet may not be directly impacting the ways in which citizens engage in civics, digital technology as a cultural landscape is beginning to have a profound effect on the way people conceive of themselves in relationship to one another and institutions. Most significantly, as I will attempt to show in the case of the Occupy Wall Street movement, the net suggests new metaphors and demonstrates new principles that inform a novel amalgam of activist practices.
+
+\--HERE
 
 The Sociological Quarterly 54 (2013) 159-228 © 2013 Midwest Sociological Society
 
-**165**
+165
 
 Permanent Revolution
 
 Douglas Rushkoff
 
-**Issue One: The Role of New Social Media**
+Issue One: The Role of New Social Media
 
-**PERMANENT REVOLUTION: Occupying Democracy**
+PERMANENT REVOLUTION: Occupying Democracy
 
 Douglas Rushkoff*
 
@@ -93,13 +95,15 @@ God-the Torah) (Logan
 
 1t), and the authority of the
 
-**_In_** _sho_rt, the social media-enhanced civics now being discussed in many most interesting and ultimately promising-asal style of inquiry into the **th**e emergence of the net and accompanying changes in the social-scientific have altered our expectations of agency, participation, and change.
+\--HERE
 
-The digital environment, like any other media environment, is embed certain values that inform the culture within it. The textual environment **new w**ays of thinking about accountability (written contracts), human int **(writte**n law), and even religion (the written Covenant with God-th_e_ Torah 1987; Ong 2002). The printing press likewise changed the way people related to **ness (cent**ral banking), government (the Enlightenment), and the authorit, **Church (p**ersonal Bibles and the Protestant reformation) (McLuhan 1962)
+In short, the social media-enhanced civics now being discussed in many forums is most interesting--and ultimately promising--as a style of inquiry into the ways that the emergence of the net and accompanying changes in the social-scientific paradigm have altered our expectations of agency, participation, and change.
 
-**To par**se the impact of the digital environment is a bit more difficult barn **are current**ly living within its effects. I have identified four of the most pr **conceptual** shifts accompanying digitality in order to demonstrate the wave the the Occupy movement has utilized them as central operating principles for its **approach** to activism and democratic participation.
+The digital environment, like any other media environment, is embed certain values that inform the culture within it. The textual environment new ways of thinking about accountability (written contracts), human int (written law), and even religion (the written Covenant with God-th_e_ Torah 1987; Ong 2002). The printing press likewise changed the way people related to ness (central banking), government (the Enlightenment), and the authorit, Church (personal Bibles and the Protestant reformation) (McLuhan 1962)
 
-_T_he first is the notion of feedback. Traditionally, what we think of as feed is simply the latent results of particular causes. Farmers plant in one season and feedback months later in the yield of crop. Plant seeds too close together, and the cror **compete**s for resources. These data are then incorporated into the next year's plantino **Likewise**, businesses send a product to market and then wait for sales reports to deter mine if the design and marketing were appropriate or could be improved upon. Each new iteration of planting or product design was based on the feedback from the one **before.**
+To parse the impact of the digital environment is a bit more difficult barn are currently living within its effects. I have identified four of the most pr conceptual shifts accompanying digitality in order to demonstrate the wave the the Occupy movement has utilized them as central operating principles for its approach to activism and democratic participation.
+
+_T_he first is the notion of feedback. Traditionally, what we think of as feed is simply the latent results of particular causes. Farmers plant in one season and feedback months later in the yield of crop. Plant seeds too close together, and the cror competes for resources. These data are then incorporated into the next year's plantino Likewise, businesses send a product to market and then wait for sales reports to deter mine if the design and marketing were appropriate or could be improved upon. Each new iteration of planting or product design was based on the feedback from the one **before.**
 
 re difficult because we ud four of the most pronounced
 
