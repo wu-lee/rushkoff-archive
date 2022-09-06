@@ -93,6 +93,36 @@ As Occupiers become conscious of the consonance of their approach with the great
 
 The Occupy movement is indeed revolutionary, but not in the sense of victory, overthrow, and replacement of authority. That cycle seeks simply to entrench a new regime (figure) within the same environment (ground). The Occupiers appear to be groping instead for something more sustainably iterative than the steady state of a single solution. The only sort of permanence in the occupation is the ongoing process of revolution, itself.
 
+This is a politics consonant with the values and insights of 21st-century science and technology. Unlike the innovations of the industrial age, which fostered production, accumulation, central authority, and empire, those of the digital era are biased toward replication and self-modification. Robotics, genomics, nanomachines, and digital programming do not render completed technologies but self-replicating, iterative systems. We program them now, but they continue themselves, learning from experience, iterating new versions, and carrying on the intentions of their original creators in novel ways.
+
+So while the majority of public encampments and protests appear to have died down, new forms and mutations of the Occupiers' presence emerge every day. The self-consciously net-named _Occupy 2.0: Debt Strike_ (Taylor 2012), a student debt resistance movement, only came together in September of 2012. Another Occupy-driven debt, _The People's Bailout_ (Mirzoeff 2012), seeks to raise money to purchase loans from credit agencies at pennies to the dollar and then simply forgive the debts entirely The timing of this activity bears no relationship to the national election occurring around it. It is as if the movement is on an entirely different calendar, operating in a parallel dimension. Given the tremendous differences between the digital media environment and what went before it, this may not be an inaccurate perception.
+
+The original occupation may be "over” as far as it is officially recognized by extant media and political authority. But as an emergent narrative, digital prototype, cultural norm, and style of play, it has only just been born.
+
+**NOTE**
+
+This discussion is based on material forthcoming in my book P_re_s_ent Shock:_ Wh_en Everything Happ_ens Now, New York: Current, 2013. See my book for a more extensive discussion of the non narrative qualities of the Occupy movement, as well as the media's inability to make sense of it.
+
+**REFERENCES** Burnett, E. 2011. “Out Front.” C_NN Out F_ro_n_t October 3 (E. Burnett, Interviewer). Carse, J. 1997. Finite _and Infinit_e _Gam_es. New York: Random House. Christopher, T. 2011. Van S_u_st_eren Expla_ins Why Anti-Fo_x Clip_ w_ith Occu_py _Wall St. Protester Got_
+
+_Cu_t. October 3. Medialte. Retrieved December 15, 2012. (http:_//_www.mediaite.com_/_t_v_/van
+
+susteren-explains-why-anti-fox-interview-with-occupy-wall-st-protester-got-cut/). Goodman, B., D. Rushkoff, and R. Dretzin. (Writers), and B. Goodman (Director). _2_00_5. T_he
+
+Persuaders (Motion Picture). PBS Frontline. Ito, J. 2011. "In an Open Source Society, Innovating by the Seat of Our Pants. _Th_e New 10
+
+_T_imes. December 5. Kücklick, J. 2004. Play and Pl_a_yability as Key Concepts in New Me_dia Stu_dies. Playabm_)_
+
+Retrieved January 3, 2012. ([http://www.playability.de/Play.pdf](http://www.playability.de/Play.pdf "http://www.playability.de/Play.pdf")). Logan, R. K. 1987. The Alphabet Effect: The Imp_act o_f the Ph_onetic Alphabet on the D_eve_r_o_p_a
+
+Western Civilization. New York: St. Martins Press. Martinson, J. 2000. "Online Politics Proves a Turn-off." The _Guardian_. August 2_7._
+
+**_17_2**
+
+ciety
+
+The Sociological Quarterly 54 (2013) 159-228 2013 Midwest Sociological
+
 The Sociological Quarterly 54 (2013) 159-228 O 2013 Midwest Sociological Society
 
 171
@@ -160,35 +190,3 @@ Permanent Revolution
 plicating, iterative systems,
 
 ons of their original creators in novel
-
-This is a politics consonant with the values and insights of 21st century scie technology. Unlike the innovations of the industrial age, which fostered prod. accumulation, central authority, and empire, those of the digital era are bincode replication and self-modification. Robotics, genomics, nanomachines, and digital na gramming do not render completed technologies but self-replicating, iterative We program them now, but they continue themselves, learning from experience, iter,
-
-8 rom experience, iterat ing new versions, and carrying on the intentions of their original create ways.
-
-So while the majority of public encampments and protests appear to have down, new forms and mutations of the Occupiers' presence emerge every day. There consciously net-named O_ccu_py _2._0_: Debt Strik_e (Taylor 2012), a student debt resistance movement, only came together in September of 2012. Another Occupy-driven debe _T_he People's Bailout (Mirzoeff 2012), seeks to raise money to purchase loans from credit agencies at pennies to the dollar and then simply forgive the debts entirely Th. timing of this activity bears no relationship to the national election occurring around it. It is as if the movement is on an entirely different calendar, operating in a parallel dimension. Given the tremendous differences between the digital media environment and what went before it, this may not be an inaccurate perception.
-
-The original occupation may be "over” as far as it is officially recognized by extant media and political authority. But as an emergent narrative, digital prototype, cultural norm, and style of play, it has only just been born.
-
-**NOTE**
-
-This discussion is based on material forthcoming in my book P_re_s_ent Shock:_ Wh_en Everything Happ_ens Now, New York: Current, 2013. See my book for a more extensive discussion of the non narrative qualities of the Occupy movement, as well as the media's inability to make sense of it.
-
-**REFERENCES** Burnett, E. 2011. “Out Front.” C_NN Out F_ro_n_t October 3 (E. Burnett, Interviewer). Carse, J. 1997. Finite _and Infinit_e _Gam_es. New York: Random House. Christopher, T. 2011. Van S_u_st_eren Expla_ins Why Anti-Fo_x Clip_ w_ith Occu_py _Wall St. Protester Got_
-
-_Cu_t. October 3. Medialte. Retrieved December 15, 2012. (http:_//_www.mediaite.com_/_t_v_/van
-
-susteren-explains-why-anti-fox-interview-with-occupy-wall-st-protester-got-cut/). Goodman, B., D. Rushkoff, and R. Dretzin. (Writers), and B. Goodman (Director). _2_00_5. T_he
-
-Persuaders (Motion Picture). PBS Frontline. Ito, J. 2011. "In an Open Source Society, Innovating by the Seat of Our Pants. _Th_e New 10
-
-_T_imes. December 5. Kücklick, J. 2004. Play and Pl_a_yability as Key Concepts in New Me_dia Stu_dies. Playabm_)_
-
-Retrieved January 3, 2012. ([http://www.playability.de/Play.pdf](http://www.playability.de/Play.pdf "http://www.playability.de/Play.pdf")). Logan, R. K. 1987. The Alphabet Effect: The Imp_act o_f the Ph_onetic Alphabet on the D_eve_r_o_p_a
-
-Western Civilization. New York: St. Martins Press. Martinson, J. 2000. "Online Politics Proves a Turn-off." The _Guardian_. August 2_7._
-
-**_17_2**
-
-ciety
-
-The Sociological Quarterly 54 (2013) 159-228 2013 Midwest Sociological
