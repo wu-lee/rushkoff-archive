@@ -8,7 +8,6 @@ blurb: ''
 notes: Spring 2013
 refs: ''
 sources: ''
-published: false
 
 ---
 Back in the late 1990s, I became interested in the potential of interactive and networking technologies to enhance the potential for democratic and civic participation. I wrote a short book entitled _Open Source Democracy_ (Rushkoff 1998) in which I outlined what I saw as the opportunity for deeper levels of public intervention not just in electoral politics, but in ongoing civic affairs.
