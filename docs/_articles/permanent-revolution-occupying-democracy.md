@@ -101,85 +101,53 @@ The original occupation may be "over” as far as it is officially recognized by
 
 **NOTE**
 
-1This discussion is based on material forthcoming in my book P_re_s_ent Shock:_ Wh_en Everything Happ_ens Now, New York: Current, 2013. See my book for a more extensive discussion of the non narrative qualities of the Occupy movement, as well as the media's inability to make sense of it.
+1This discussion is based on material forthcoming in my book Present Shock: _When Everything Happens Now_, New York: Current, 2013. See my book for a more extensive discussion of the non-narrative qualities of the Occupy movement, as well as the media's inability to make sense of it.
 
-**REFERENCES** Burnett, E. 2011. “Out Front.” C_NN Out F_ro_n_t October 3 (E. Burnett, Interviewer). Carse, J. 1997. Finite _and Infinit_e _Gam_es. New York: Random House. Christopher, T. 2011. Van S_u_st_eren Expla_ins Why Anti-Fo_x Clip_ w_ith Occu_py _Wall St. Protester Got_
+**REFERENCES**
 
-_Cu_t. October 3. Medialte. Retrieved December 15, 2012. (http:_//_www.mediaite.com_/_t_v_/van
-
-susteren-explains-why-anti-fox-interview-with-occupy-wall-st-protester-got-cut/). Goodman, B., D. Rushkoff, and R. Dretzin. (Writers), and B. Goodman (Director). _2_00_5. T_he
-
-Persuaders (Motion Picture). PBS Frontline. Ito, J. 2011. "In an Open Source Society, Innovating by the Seat of Our Pants. _Th_e New 10
-
-_T_imes. December 5. Kücklick, J. 2004. Play and Pl_a_yability as Key Concepts in New Me_dia Stu_dies. Playabm_)_
-
-Retrieved January 3, 2012. ([http://www.playability.de/Play.pdf](http://www.playability.de/Play.pdf "http://www.playability.de/Play.pdf")). Logan, R. K. 1987. The Alphabet Effect: The Imp_act o_f the Ph_onetic Alphabet on the D_eve_r_o_p_a
-
-Western Civilization. New York: St. Martins Press. Martinson, J. 2000. "Online Politics Proves a Turn-off." The _Guardian_. August 2_7._
-
-**_17_2**
-
-ciety
-
-The Sociological Quarterly 54 (2013) 159-228 2013 Midwest Sociological
-
-The Sociological Quarterly 54 (2013) 159-228 O 2013 Midwest Sociological Society
-
-171
-
-Permanent Revolution
-
-Douglas Rushkoff
-
-int. The lack of specific goals
-
-World Bank lending practices,
-
-The Sociological Quarterl_y_ 54 _(_2013) 159-228 O 2013 M_id_west Sociological Societ_y_
-
-170
-
-_Munda_ne Internet Tools, E_xclusion, and Reflexiv_it_y_
-
-Rasmus Kleis Nielsen
-
-McLuhan, M. 196_2. The Gutenberg Galaxy: The Making of Typographic Man. Toronto_, ON: Uni
-
-versity of Toronto Press.
+Burnett, E. 2011. “Out Front.” _CNN Out Front_. October 3 (E. Burnett, Interviewer).  
+Carse, J. 1997. _Finite and Infinite Games_. New York: RandomHouse.  
+Christopher, T. 2011. _Van Susteren Explains Why Anti-Fox Clip with Occupy Wall St. Protester Got Cut_. October 3. Medialte. Retrieved December 15, 2012. (http://www.mediaite.com/tv/van-susteren-explains-why-anti-fox-interview-with-occupy-wall-st-protester-got-cut/).  
+Goodman, B., D. Rushkoff, and R. Dretzin. (Writers), and B. Goodman (Director). 2003. _The Persuaders_ \[Motion Picture\]. PBS Frontline.  
+Ito, J. 2011. "In an Open Source Society, Innovating by the Seat of Our Pants." _The New York Times_. December 5.  
+Kücklick, J. 2004. _Play and Playability as Key Concepts in New Media Studies_. Playability.de. Retrieved January 3, 2012. ([http://www.playability.de/Play.pdf](http://www.playability.de/Play.pdf "http://www.playability.de/Play.pdf")).  
+Logan, R. K. 1987. _The Alphabet Effect: The Impact of the Phonetic Alphabet on the Development of Western Civilization_. New York: St. Martins Press.  
+Martinson, J. 2000. "Online Politics Proves a Turn-off." _The Guardian_. August 27.  
+McLuhan, M. 1962. _The Gutenberg Galaxy: The Making of Typographic Man_. Toronto, ON: University of Toronto Press.
 
 . 1992_. Laws of Media: The Ne_w S_cience._ Toronto, ON: University of T_oronto_ Press. Miller, J. H. and S. E. Page. 2007_. Complex Adaptiv_e S_ystems: An Introduction to Computational_
 
-_Models of Social Life._ Princeton, NJ: Princeton University Press. Mirzoeff, N. 20_12. The People's Bailout. O_ccupy 2012 Blog October 12. Retrieved November 1,
+Models of Social Life. Princeton, NJ: Princeton University Press. Mirzoeff, N. 20_12. The People's Bailout. O_ccupy 2012 Blog October 12. Retrieved November 1,
 
-2012\. (http_://_www.nicholasmirzoeff_.com/_O_2_0_12/2012/10/21/_the-peoples-bailout-and-the
+2012\. (http_://www.nicholasmirzoeff.com/_O_2_0_12/2012/10/21/_the-peoples-bailout-and-the
 
-rolling-jubilee_/)._ Morris, D. 2000. Vote.com. Retrieved 12 12, 2012. (http:_//_www.vote.com). Occupy Los Angeles. N.d. The Dummy's Guide to General_ A_ssembly. O_ccupyLosAngeles._org.
+rolling-jubilee_/)._ Morris, D. 2000. Vote.com. Retrieved 12 12, 2012. (http:_//www.vote.com). Occupy Los Angeles. N.d. The Dummy's Guide to General A_ssembly. O_ccupyLosAngeles._org.
 
-Retrieved December 15, 2012. (http_://o_ccupylosangeles.org/assemblyguide). Ong, W. 2002. _Orality and Literacy_. New York: Routledge. Pariser, E. 2011. _The Filter Bubble: What the Internet Is Hiding from You_. Ne**w York: Penguin.** Rushkoff, D. 1_99_5_. Playing the Future: How Kids' Culture Can Teach Us to Thrive in an Age of_
+Retrieved December 15, 2012. (http_://o_ccupylosangeles.org/assemblyguide). Ong, W. 2002. Orality and Literacy. New York: Routledge. Pariser, E. 2011. The Filter Bubble: What the Internet Is Hiding from You. New York: Penguin. Rushkoff, D. 1_99_5_. Playing the Future: How Kids' Culture Can Teach Us to Thrive in an Age of_
 
-_Chao_s. New York: HarperEdge. - 1998. _Open Source Democracy: Ho_w _Online Communication Is Changing Offline Politics._
+_Chao_s. New York: HarperEdge. - 1998. _Open Source Democracy: Ho_w Online Communication Is Changing Offline Politics.
 
-**London: Demos.** - 2009_. Life Inc: Ho_w _Corporatism Conquered the World and Ho_w We _Can Take It Back._ New
+London: Demos. - 2009_. Life Inc: Ho_w _Corporatism Conquered the World and Ho_w We Can Take It Back. New
 
 York: Random House.
 
-.2012_. Monopoly Moneys: The Media Environment of Corporatism and the Player_'s Way _Out._
+.2012_. Monopoly Moneys: The Media Environment of Corporatism and the Player_'s Way Out.
 
-Utrecht, the Netherlands: Utrecht Universit**y Dissertation.** Simon, R. 1992. “A Perot Presidency and a La-Z-Boy Lawmaking.” _Baltimore Sun_. May 13. Sullivan, A. 2008. "We Are the Ones We've Been Waiting For._" The Atlantic._ February 28, p. 34. Taylor, A. 2012. “Occupy 2.0: Strike Debt._" The Nation._ September 5, p. 4. Trippi, J. 2004_. The Revolution Will Not Be Televised._ New York: William Morrow. **Weiner, N. 1965. _Cybernetics,_ S_econd Edition, or the Control and Communication in the Animal_**
+Utrecht, the Netherlands: Utrecht University Dissertation. Simon, R. 1992. “A Perot Presidency and a La-Z-Boy Lawmaking.” Baltimore Sun. May 13. Sullivan, A. 2008. "We Are the Ones We've Been Waiting For." The Atlantic. February 28, p. 34. Taylor, A. 2012. “Occupy 2.0: Strike Debt." The Nation. September 5, p. 4. Trippi, J. 2004_. The Revolution Will Not Be Televised._ New York: William Morrow. Weiner, N. 1965. Cybernetics, S_econd Edition, or the Control and Communication in the Animal_
 
-_and the Machine._ Cambridge, MA: MIT Press.
+and the Machine. Cambridge, MA: MIT Press.
 
-**MUNDANE INTERNET TOOLS, THE RISK OF EXCLUSION, AND REFLEXIVE MOVEMENTS-OCCUPY WALL STREET AND POLITICAL USES OF DIGITAL NETWORKED TECHNOLOGIES**
+MUNDANE INTERNET TOOLS, THE RISK OF EXCLUSION, AND REFLEXIVE MOVEMENTS-OCCUPY WALL STREET AND POLITICAL USES OF DIGITAL NETWORKED TECHNOLOGIES
 
-**Rasmus** Kleis Nielsen Roskilde University and University of Oxford
+Rasmus Kleis Nielsen Roskilde University and University of Oxford
 
-**The very fact that some refer to the Occupy movement as "#O**ccupy” (with re**ference** to the hashtags used on the microblogging **platform Twitter) illustrates how closely**
+The very fact that some refer to the Occupy movement as "#Occupy” (with reference to the hashtags used on the microblogging platform Twitter) illustrates how closely
 
-\*Direct all correspondence to Rasmus Kleis Nielsen, 13 Norham Gardens, Oxford OX2 6PS, UK; e-mail: **rasmuskleisnielsen@gmail.com**
+\*Direct all correspondence to Rasmus Kleis Nielsen, 13 Norham Gardens, Oxford OX2 6PS, UK; e-mail: rasmuskleisnielsen@gmail.com
 
 The Sociological Quarterly 54 (2013) 159–228 O 2013 Midwest Sociological Society
 
-**173**
+173
 
 Douglas Rushkoff
 
