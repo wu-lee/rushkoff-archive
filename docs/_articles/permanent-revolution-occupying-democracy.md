@@ -101,7 +101,7 @@ The original occupation may be "over” as far as it is officially recognized by
 
 **NOTE**
 
-This discussion is based on material forthcoming in my book P_re_s_ent Shock:_ Wh_en Everything Happ_ens Now, New York: Current, 2013. See my book for a more extensive discussion of the non narrative qualities of the Occupy movement, as well as the media's inability to make sense of it.
+1This discussion is based on material forthcoming in my book P_re_s_ent Shock:_ Wh_en Everything Happ_ens Now, New York: Current, 2013. See my book for a more extensive discussion of the non narrative qualities of the Occupy movement, as well as the media's inability to make sense of it.
 
 **REFERENCES** Burnett, E. 2011. “Out Front.” C_NN Out F_ro_n_t October 3 (E. Burnett, Interviewer). Carse, J. 1997. Finite _and Infinit_e _Gam_es. New York: Random House. Christopher, T. 2011. Van S_u_st_eren Expla_ins Why Anti-Fo_x Clip_ w_ith Occu_py _Wall St. Protester Got_
 
