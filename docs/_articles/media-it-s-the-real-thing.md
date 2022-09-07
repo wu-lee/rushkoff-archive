@@ -132,60 +132,14 @@ And far from seeking escape, Americans want more.
 
 Phil Donahue is doing a show today on the computer interface called virtual reality. Or at least that's what the show is supposed to be about. His guests are not computer programmers, interface designers, or even authors and researchers on cyberspace, virtual communities or future technology. No, Phil has invited the inventor of a pornography computer program to be the center of attention this afternoon. In order to spice up a potentially technical or information-based show, the producers of Donahue have fallen back on the easiest method of netting channel surfers: talking about sex. 
 
-awareness about the power of media, and to re VIRTUAL SEX Virtual reality is a tremen- awaken awareness of the ancient mediating dously promising new tool for media. Wearing technologies of spirituality, drugs, sex and magic. apparatus such as goggles, headphones, gloves or These activists are both the most modern in their even whole body suits, the user can experience a thinking and the most ancient in their belief sys programmed or unfolding world in a fully sensory tems. They are modern techno-pagans," who see 
+**VIRTUAL SEX** | Virtual reality is a tremendously promising new tool for media. Wearing apparatus such as goggles, headphones, gloves or even whole body suits, the user can experience a programmed or unfolding world in a fully sensory manner. He can walk through a three-dimensional representation of the Coliseum, swim through the cytoplasm of a red blood cell, or create, with others, an imaginary universe of sight, sound and even touch. It is no wonder that the technology has sparked imaginations and research spending. And, as with any new technology, many creative people are hard at work applying virtual reality to sex.
 
-Just as home video manner. He can walk through a three-dimensional in this rebirth of nature through technology the became a conduit representation of the Coliseum, swim through the best opportunity yet to reclaim their power. The 
+Just as home video became a conduit for porn, so did photographic technology, the telephone, and even the earliest written poems in the English language. Monks who spent their time transcribing Bibles and prayers also used the new technology--print recording--to send dirty riddles and rhymes to each other. Because of the real and imaginary barriers human beings have to sex, we often see new technology as a simple way of "getting off" without any painful, real-life consequences. Mediating technologies make sex anonymous, painless, emotionless, commitmentless and, of course, disease free. Though exacerbated by the AIDS crisis, this tendency to equate new media with sexual techno-promiscuity is by no means a new thing. 
 
-for porn, so did 
+We have already seen how new media serves to promote intimacy. The more linked up we are, the more we know about each other, and the more everyone else knows about us. Media not only creates lines of communication between people, but also fosters the systems devices of feedback, iteration and phase-locking between members of the societal organism. A population that can communicate with itself is difficult to deceive or control. When push comes to shove, the ultimate form of intimacy for most people is sex. As soon as a new mediating technology emerges from the laboratory, somebody, somewhere is figuring out how to apply it to sexual intimacy. But while sex provokes technicians to develop new media and people to purchase the technology, it also provides ammunition for those against the new devices and their ability to empower the masses. By equating the power of new media invited with disgraceful or immoral sexual deviancy, forces against these technologies can succeed in stunting or at least suspending their development.
 
-cytoplasm of a red blood cell, or create, with others, memes they develop are all geared towards present an imaginary universe of sight, sound and even ing technology as a kind of modern magic which 
+Metamedia activists are virologists whose chief concern is to bring people towards a greater self-awareness about the power of media, and to reawaken awareness of the ancient mediating technologies of spirituality, drugs, sex and magic. These activists are both the most modern in their thinking and the most ancient in their belief systems. They are modern "techno-pagans," who see in this rebirth of nature through technology the best opportunity yet to reclaim their power. The memes they develop are all geared towards presenting technology as a kind of modern magic which grants access to sexual power, psychedelic vision and spiritual enlightenment. 
 
-photographic tech touch. It is no wonder that the technology has grants access to sexual power, psychedelic vision nology, the tele sparked imaginations and research spending. And, and spiritual enlightenment. 
+Many metamedia activists argue that sex (and, for that matter, spirituality, drugs and healing arts) was co-opred centuries ago by people in power. Religion and morality were put into place to deprive people of their natural sexual self-expression. People have been made to believe that sex is somehow wrong or dirty, and fear that if left to their own devices, they would become libidinous maniacs. Without social controls and safeguards, we would all be raping each other. This imposed sexual tyranny, according to some activists, gave lawmakers and moral authorities absolute domination over the people. In constant need of sex, the populace could be controlled by associating sexually provocative imagery with the church, state or, today, corporate interests. Deprived of healthy sex, men will buy the beer associated with the prettiest models on television. By controlling sexual expression in the media, one can control--to some extent--the direction of cultural focus and societal desire.
 
-phone, and even 
-
-as with any new technology, many creative people Many metamedia activists argue that sex (and, are hard at work applying virtual reality to sex. for that matter, spirituality, drugs and healing arts) 
-
-the earliest writ Just as home video became a conduit for porn, so was co-opred centuries ago by people in power. ten poems in the did photographic technology, the telephone, and Religion and morality were put into place to de 
-
-English language. 
-
-even the earliest written poems in the English lan- prive people of their natural sexual self-expression. guage. Monks who spent their time transcribing People have been made to believe that sex is some Bibles and prayers also used the new technology - how wrong or dirty, and fear that if left to their own print recording-to send dirty riddles and rhymes devices, they would become libidinous maniacs. to each other. Because of the real and imaginary Without social controls and safeguards, we would barriers human beings have to sex, we often see new all be raping each other. This imposed sexual cyr technology as a simple way of getting off” with- anny, according to some activists, gave lawmakers out any painful, real-life consequences. Mediating and moral authorities absolute domination over technologies make sex anonymous, painless, emo- the people. In constant need of sex, the populace tionless, commitmentless and, of course, disease could be controlled by associating sexually pro free. Though exacerbated by the AIDS crisis, this vocative imagery with the church, state or, today, tendency to equate new media with sexual techno- corporate interests. Deprived of healthy sex, men promiscuity is by no means a new thing. 
-
-will buy the beer associated with the prettiest mod We have already seen how new media serves to els on television. By controlling sexual expression promote intimacy. The more linked up we are, the in the media, one can control — to some extent more we know about each other, and the more the direction of cultural focus and societal desire. everyone else knows about us. Media not only In other words, if teen-age boys were allowed to creates lines of communication between people, but or able to find sex, they would not be watching so
-
-as the public space. And this makes moral escape also fosters the systems devices of feedback, iteration 
-
-and phase-locking between members of the societal 
-
-really hard." And far from seeking escape, Americans want organism. A population that can communicate with 
-
-itself is difficult to deceive or control. When push 
-
-more. 
-
-comes to shove, the ultimate form of intimacy for most people is sex. As soon as a new mediating 
-
-technology emerges from the laboratory, somebody, Phil Donahue is doing a show today on the com- somewhere is figuring out how to apply it to sexual puter interface called virtual reality. Or at least that's intimacy. But while sex provokes technicians to what the show is supposed to be about. His guests develop new media and people to purchase the are not computer programmers, interface designers, technology, it also provides ammunition for those or even authors and researchers on cyberspace, vir- against the new devices and their ability to empower tual communities or future technology. No, Phil has the masses. By cquating the power of new media invited the inventor of a pornography computer with disgraceful or immoral sexual deviancy, forces program to be the center of attention this afternoon. against these technologies can succeed in stunting or In order to spice up a potentially technical or infor- at least suspending their development. mation-based show, the producers of Donahue have Metamedia activists are virologists whose chief fallen back on the easiest method of netting channel concern is to bring people towards a greater self surfers: talking about sex. 
-
-awareness about the power of media, and to re VIRTUAL SEX Virtual reality is a tremen- awaken awareness of the ancient mediating dously promising new tool for media. Wearing technologies of spirituality, drugs, sex and magic. apparatus such as goggles, headphones, gloves or These activists are both the most modern in their even whole body suits, the user can experience a thinking and the most ancient in their belief sys programmed or unfolding world in a fully sensory tems. They are modern techno-pagans," who see 
-
-Just as home video manner. He can walk through a three-dimensional in this rebirth of nature through technology the became a conduit representation of the Coliseum, swim through the best opportunity yet to reclaim their power. The 
-
-for porn, so did 
-
-cytoplasm of a red blood cell, or create, with others, memes they develop are all geared towards present an imaginary universe of sight, sound and even ing technology as a kind of modern magic which 
-
-photographic tech touch. It is no wonder that the technology has grants access to sexual power, psychedelic vision nology, the tele sparked imaginations and research spending. And, and spiritual enlightenment. 
-
-phone, and even 
-
-as with any new technology, many creative people Many metamedia activists argue that sex (and, are hard at work applying virtual reality to sex. for that matter, spirituality, drugs and healing arts) 
-
-the earliest writ Just as home video became a conduit for porn, so was co-opred centuries ago by people in power. ten poems in the did photographic technology, the telephone, and Religion and morality were put into place to de 
-
-English language. 
-
-even the earliest written poems in the English lan- prive people of their natural sexual self-expression. guage. Monks who spent their time transcribing People have been made to believe that sex is some Bibles and prayers also used the new technology - how wrong or dirty, and fear that if left to their own print recording-to send dirty riddles and rhymes devices, they would become libidinous maniacs. to each other. Because of the real and imaginary Without social controls and safeguards, we would barriers human beings have to sex, we often see new all be raping each other. This imposed sexual cyr technology as a simple way of getting off” with- anny, according to some activists, gave lawmakers out any painful, real-life consequences. Mediating and moral authorities absolute domination over technologies make sex anonymous, painless, emo- the people. In constant need of sex, the populace tionless, commitmentless and, of course, disease could be controlled by associating sexually pro free. Though exacerbated by the AIDS crisis, this vocative imagery with the church, state or, today, tendency to equate new media with sexual techno- corporate interests. Deprived of healthy sex, men promiscuity is by no means a new thing. 
-
-will buy the beer associated with the prettiest mod We have already seen how new media serves to els on television. By controlling sexual expression promote intimacy. The more linked up we are, the in the media, one can control — to some extent more we know about each other, and the more the direction of cultural focus and societal desire. everyone else knows about us. Media not only In other words, if teen-age boys were allowed to creates lines of communication between people, but or able to find sex, they would not be watching so
+In other words, if teen-age boys were allowed to or able to find sex, they would not be watching so
