@@ -100,30 +100,10 @@ Media viruses spread rapidly if they provoke our interest, and their success is 
 
 The Woody Allen/Mia Farrow scandal was--most probably--not created as a publicity stunt. The particularly New York story broke, however, during the Democratic Convention for Bill Clinton. The Republicans, who had already been denouncing New York as an example of morally decadent "cultural elitism,” were quick to capitalize on the Allen/Farrow media virus. Introductions for Bush's campaign speeches made reference to Woody Allen, hoping to reinterpret the memes which had already spread--child molestation, movie stars not being as they appear, New York confusion--as condemning evidence of Democratic family values.
 
- into a factory which replicates the virus. It's really a The beast media virus' target is not culture as a battle for command of the cell, fought between the whole, but the organisms which have taken control cell's own genetic programming (DNA) and the of culture, and inhibited the natural chaotic flow of virus' invading code. Wherever the cell's existing energy and information. codes are weak or confused, the virus will have a VIRUSES TO THE RESCUE | The concept better chance of taking over. The protein shell is of media viruses developed naturally from the effec the Trojan Horse. The genetic codes are the soldiers tive use and development of feedback and itera hidden inside, battling our own biological ones tion. They are the promoters of chaos, and uniquely spread through the body. But instead of traveling structured to exploit the "organic" qualities of the along an organic circulatory system, a media virus datasphere. As such they also fight the techniques travels through the networks of the mediaspace. developed by public relations firms to create a pas
+The beast media virus' target is not culture as a whole, but the organisms which have taken control of culture, and inhibited the natural chaotic flow of energy and information.
 
-The protein shell" of a media virus might be an sive, manipulable population. This house of event, invention, technology,
+**VIRUSES TO THE RESCUE** | The concept of media viruses developed naturally from the effective use and development of feedback and iteration. They are the promoters of chaos, and uniquely structured to exploit the "organic" qualities of the datasphere. As such they also fight the techniques developed by public relations firms to create a passive, manipulable population.
 
-event, invention, technology, system of thought, A media virus may be designed to fight a polici mirrors within musical riff, visual image, scientific theory, cloth- cal party, a religion, an institucion, an economy, a
+A media virus may be designed to fight a political party, a religion, an institution, an economy, a business or even a system of thought. Just as scientists use viruses to combat certain diseases within the human body or even to tag dangerous cells for destruction by the person's own antibodies, media activists use viruses to combat what they see as the enemies of our culture.
 
-ing style or even a pop hero — as long as it can business or even a system of thought. Just as scien
-
-catch our attention. Any one of these media virus cists use viruses to combat certain diseases within American media shells will search out the receptive nooks and cran- the human body or even to tag dangerous cells for scape. It is more nies in popular culture and stick on anywhere it is destruction by the person's own antibodies, media than a mirror of
-
-noticed. Once attached, the virus injects its more activists use viruses to combat what they see as the
-
-hidden agendas into the datastream in the form enemies of our culture.
-
-our culture; it is
-
-It is
-
-of_ ideological code_no
-
-of— ideological code—not genes, but a concep- Viruses combat oversimplification and distrac our culture tual equivalent we now call “memes." Like real tion. “Just say no" is a public relations effort to
-
-genetic material, these memes infiltrate the way we simplify and distract us from the real issues involved do business, educate ourselves, interact with each in drug use. The phrase is designed to ignore the other-even the way we perceive reality. complex reality of life in the ghetto, peer pressure,
-
-Media viruses spread rapidly if they provoke the legality of certain drugs and the possible benents our interest, and their success is dependent on the of others. Similarly, the war on drugs appeals to the particular strengths and weaknesses of the host emotions, and couches other issues — racism, fear organism, popular culture. The more provocative and class issues — in a blanket statement against an
-
-ideotaped police beat- enemy we can agree on. The issue here is no ing or a new rap lyric, the farther and faster it will whether or not drug use should be sanctioned, bu travel through the datasphere. The success of the rather the specific tactics used by the manufacturers memes within the virus, on the other hand, depend of consent to dominate public opinion.
+Viruses combat oversimplification and distraction. “Just say no" is a public relations effort to simplify and distract us from the real issues involved in drug use. The phrase is designed to ignore the complex reality of life in the ghetto, peer pressure, the legality of certain drugs and the possible benefits of others. Similarly, the war on drugs appeals to the emotions, and couches other issues — racism, fear and class issues — in a blanket statement against an enemy we can agree on. The issue here is not whether or not drug use should be sanctioned, but rather the specific tactics used by the manufacturers of consent to dominate public opinion.
