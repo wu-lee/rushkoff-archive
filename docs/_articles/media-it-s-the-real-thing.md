@@ -36,53 +36,11 @@ Getting with the program means realizing that no one takes the mainstream media 
 
 The event of do-it-yourself (DIY) technology makes direct feedback even more far-reaching. Homemade camcorder cassettes are as likely to find their way onto CNN as professionally produced segments. Tapes ranging from _America's Funniest Home Videos_ to the world-famous Rodney King beating are more widely distributed through the datasphere than syndicated reruns of _I Love Lucy._ Alternative media channels like the computer networks or even fax "trees” permit the dissemination of information unacceptable to or censored by mainstream channels, and have been heralded as the new tools of revolution in countries as "un-American” as Romania and communist China. Pirate media, like illegal broadcasts and cable or satellite jumping, are even more blatant assertions of the power of individuals to hack the data network.
 
-loves — it soon becomes part of the overall self reflexive pastiche of media.
+Geraldo Rivera's guests today are experts on and participants in the Amy Fisher Story. They've brought a clip from one of the three television movies aired this week about the "Long Island Lolita” scandal--one from Amy's point of view, one from Joey Buttafuocco's and one "neutral." The movie clip is a scene where _Hard Copy_, a tabloid news show, is conducting a press conference and screening a tape from the episode they hope to air that night. The tape of the evening's episode rolls, announcing that _Hard Copy_ has come into exclusive possession of a revealing videotape: Amy Fisher speaking with her boyfriend, a worker at a gym, about having sex with him after she is put in jail. This tape, we learn, was secretly recorded by the boyfriend with his camcorder. The TV movie cuts from the actual videotape of Amy and her boyfriend, to another television monitor, this one in the dramatized home of Amy Fisher, played by Drew Barrymore, who is watching the episode of _Hard Copy_ in her living room, shocked.
 
-Something is going on in media all its own that Geraldo Rivera's guests today are experts on and reflects less on the particular events being reported participants in the Amy Fisher Story. They've than it does on the nature of our cultural preoccu brought a clip from one of the three television pations and the ways in which we process them. movies aired this week about the "Long Island Media is saying something in the way it churns its Lolita” scandal - one from Amy's point of view, stories out, redigests them, and spits them out one from Joey Buttafuocco's and one "neutral." again. This is both a complex picture of the way our The movie clip is a scene where Hard Copy a world works, and, at the same time, the actual tabloid news show, is conducting a press confer- process of cultural catharsis and modification. ence and screening a cape from the episode they hope to air that night. The tape of the evening's episode rolls, announcing that Hard Copy has come into exclusive possession of a revealing videotape: We may not believe everything we read—“Martian Amy Fisher speaking with her boyfriend, a worker Dolphin Steals Two-headed Baby” banner head at a gym, about having sex with him after she is put lines on tabloid newspapers have changed our rela in jail. This tape, we learn, was secretly recorded by tionship to the printed word but what we see on the boyfriend with his camcorder. The TV movie TV in sound and pictures still seems real. Video is cuts from the actual videotape of Amy and her convincing. Even fictional images, like the POW boyfriend, to another television monitor, this one camps in the movie Rambo, can appeal to the in the dramatized home of Amy Fisher, played by emotions and affect public opinion. Drew Barrymore, who is watching the episode of The Amy Fisher media mishmash demonstrates Hard Copy in her living room, shocked
+So on our TV, we watch Geraldo watch a monitor play a TV movie enacting a press conference where a tape is rolled of a TV show which in turn plays a tape— the actual, real-world tapes purchased for the movie—made by a guy cashing in on a media scandal, only to pull out and reveal an actress pretend to react as the real Amy Fisher might have. By this time Geraldo takes a commercial break, during which an evening news special is pitched that promises to air a brand new Amy Fisher tape made by another of her boyfriends. That, and an exclusive interview with Joey and his lawyer, who are upset about the way they were made to appear on the _Donahue_ show earlier that week. Of course all these media events were being discussed concurrently on computer bulletin boards throughout the country, and would eventually turn up in the form of an Amy Fisher comic book.
 
-the hazy line between reality and fiction in today's So on our TV, we watch Geraldo watch a moni- media and how mixing the two can lead to public tor play a TV movie enacting a press conference relations backfires. By borrowing real news footage
-
-where a cape is rolled of a TV show which in turn and inserting it into face-based but fictional mov became our new plays a cape— the actual, real-world tapes pur- ies, the television industry has brought informa natural environ
-
-chased for the movie—made by a guy cashing in tion from the irrefutable world of fact into the
-
-on a media scandal, only to pull out and reveal an ever-relative world of fiction. They even demon
-
-ment. Who we
-
-actress pretend to react as the real Amy Fisher strate how these bits of footage can be manipulated were friends with might have. By this time Geraldo cakes a commer- to tell many different stories. The Rodney King depended on cial break, during which an evening news special is tape, for example, has been analyzed and re-ana
-
-pitched that promises to air a brand new Amy which shows we
-
-lyzed to the point where it both proves the cops'
-
-we
-
-Fisher rape made by a
-
-Fisher tape made by another of her boyfriends. guilt and their innocence. watched. That, and an exclusive interview with Joey and his IRONIC SPACE e traditional methods of
-
-lawyer, who are upset about the way they were public relations have been undermined by their very made to appear on the Donahue show earlier that implementation in the media. Americans have ei week. Of course all these media events were being ther stopped believing what their media tells, or discussed concurrently on computer bulletin boards stopped caring. If nothing else, irony provides dis throughout the country, and would eventually tance. With emotional distance from the material, turn up in the form of an Amy Fisher comic book. the audience gains protection from the techniques
-
-This house of mirrors within mirrors is the of mind control. As Bertolt Breche discovered, alien American mediascape. It is more than a mirror of ating devices give audiences room to think. When our culture; it is our culture. It is where we spend Amy Fisher is seen through six TV monitors-within our time, our money and our thought. But as we monitors, her story has become distanced enough
-
-\--
-
-examine the nature of the datasphere more closely mainstream channels, and have been heralded as the
-
-we find it is a self-referential cut-and-paste of itself
-
-new tools of revolution in countries as "un-Ameri- can” as Romania and communist China. Pirate me- Most of media is media commenting on medis
-
-commenting on media. Even if one real event in
-
-dia, like illegal broadcasts and cable or satellite jumping, are even more blatant assertions of the happens to occur-a black man gets beaten by
-
-white cops, or a girl shoots the wife of a man she
-
-power of individuals to hack the data network.
-
-loves — it soon becomes part of the overall self reflexive pastiche of media.
+This house of mirrors within mirrors is the American mediascape. It is more than a mirror of our culture; it is our culture. It is where we spend our time, our money and our thought. But as we examine the nature of the datasphere more closely, we find it is a self-referential cut-and-paste of itself. Most of media is media commenting on media commenting on media. Even if one real event just happens to occur--a black man gets beaten by white cops, or a girl shoots the wife of a man she loves--it soon becomes part of the overall self reflexive pastiche of media.
 
 Something is going on in media all its own that Geraldo Rivera's guests today are experts on and reflects less on the particular events being reported participants in the Amy Fisher Story. They've than it does on the nature of our cultural preoccu brought a clip from one of the three television pations and the ways in which we process them. movies aired this week about the "Long Island Media is saying something in the way it churns its Lolita” scandal - one from Amy's point of view, stories out, redigests them, and spits them out one from Joey Buttafuocco's and one "neutral." again. This is both a complex picture of the way our The movie clip is a scene where Hard Copy a world works, and, at the same time, the actual tabloid news show, is conducting a press confer- process of cultural catharsis and modification. ence and screening a cape from the episode they hope to air that night. The tape of the evening's episode rolls, announcing that Hard Copy has come into exclusive possession of a revealing videotape: We may not believe everything we read—“Martian Amy Fisher speaking with her boyfriend, a worker Dolphin Steals Two-headed Baby” banner head at a gym, about having sex with him after she is put lines on tabloid newspapers have changed our rela in jail. This tape, we learn, was secretly recorded by tionship to the printed word but what we see on the boyfriend with his camcorder. The TV movie TV in sound and pictures still seems real. Video is cuts from the actual videotape of Amy and her convincing. Even fictional images, like the POW boyfriend, to another television monitor, this one camps in the movie Rambo, can appeal to the in the dramatized home of Amy Fisher, played by emotions and affect public opinion. Drew Barrymore, who is watching the episode of The Amy Fisher media mishmash demonstrates Hard Copy in her living room, shocked
 
