@@ -120,18 +120,72 @@ Countercultural media generally exploits this self similarity, and works in comp
 
 **MEDIA DEMOCRACY** | The last of the public relations ploys that viruses obliterate is the maintenance of a sidelined, spectator democracy. Participatory, feedback media prevents dissident individuals from feeling that they are alone. News shows which attempt to demonstrate that America supports a given war are undermined by alternative news coverage of protests and demonstrations. Any individual who watches network news can voice her discontent with the way a story has been presented by calling a talk radio show or posting an opinion on a computer bulletin board. The dissident opinion iterates onto every radio tuned to the same station or computer screen that accesses the same bulletin board. Fax transmission and pirate radio in cultures as repressive as pre-revolutionary Romania permitted the masses of discontents to realize they were not alone. No. They may not have been allowed to assemble in public legally, but their alternative media allowed them to network, organize, and find other people who felt equally marginalized by their leaders. Meanwhile, here in the United States, these technologies have permitted our citizenry to graduate from passive, ignorant spectators to active, informed participants.
 
-Further, the media shrinks the world, bringing
+Participation can range from simply watching TV to designing global networks. What constitutes activity in the datasphere is only limited by the number of ways a person can be exposed to or iterate viruses. As the datasphere grows, each of us come into contact with more of our viral culture. The media promotes a new kind of intimacy and no one with even a TV set can escape the flood.
 
-the reality of remote regions into the living rooms of everyone else. Thompson agrees that there is no escape. “In our culture, we're constantly being in vaded and seeing horrors, such as those in Bosnia, right away. Between newspa pers and television, there's this
+For the media is like water. It conducts social electricity. Wherever it spreads, its contents are carried, too. Social theorist Irwin Thompson, who is about 50, is most famous for his book _The American Replacement of Nature_, in which he warns that the development of the mediaspace may be an unnatural thing. He even demonizes the people behind the expansion of the computer nets. At his Haight Street office the professor argued about whether or not we should be so optimistic about the growth of media.
 
-whole sense of the planet
+“Electronic communication is totally destroying literate civilization. Your generation doesn't read!” Eventually, however, he admitted that there are some good aspects by which we are forcefully being imploded into one another. “There's no longer a private space. The idea of literate culture is basically a middle class notion—it's the gentleman in his book-lined study with the privacy for reflection. That's a very elitist notion."
 
-and medium through which it is broadcast, all Participation can range from simply w exhibit this same discontinuity.
+Further, the media shrinks the world, bringing the reality of remote regions into the living rooms of everyone else. Thompson agrees that there is no escape. “In our culture, we're constantly being invaded and seeing horrors, such as those in Bosnia, right away. Between newspapers and television, there's this whole sense of the planet as the public space. And this makes moral escape really hard."
 
-TV to designing global networks. What co MEDIA DEMOCRACY | The last of the activity in the datasphere is only limited public relations ploys that viruses obliterate is the number of ways a person can be exposed maintenance of a sidelined, spectator democracy. iterate viruses. As the datasphere grows. Participatory, feedback media prevents dissident come into contact with more of our viral ... individuals from feeling that they are alone. News The media promotes a new kind of intim shows which attempt to demonstrate that America no one with even a TV set can escape the
+And far from seeking escape, Americans want more.
 
-an escape the food. supports a given war are undermined by alternative for the media is like water. It conducte news coverage of protests and demonstrations. Any electricity. Wherever it spreads, its cont individual who watches network news can voice carried, too. Social theorist Irwin Thompson her discontent with the way a story has been pre- is about so, is most famous for his book sented by calling a talk radio show or posting an American Replacement of Nature, in which heu opinion on a computer bulletin board. The dissi- that the development of the mediaspace ma dent opinion iterates onto every radio tuned to the unnatural thing. He even demonizes the same station or computer screen that accesses the behind the expansion of the computer nets Ani same bulletin board. Fax transmission and pirate Haight Street office the professor argued abou. radio in cultures as repressive as pre-revolutionary whether or not we should be so optimistic abou Romania permitted the masses of discontents to the growth of media. realize they were not alone. No. They may not have “Electronic communication is totally destrov. been allowed to assemble in public legally, but their ing literate civilization. Your generation doesn' alternative media allowed them to network, orga- read!” Eventually, however, he admitted that there nize, and find other people who felt equally are some good aspects by which we are forcefully marginalized by their leaders. Meanwhile, here in being imploded into one another. “There's no the United States, these technologies have longer a private space. The idea of literate culture is permitted our citizenry to graduate basically a middle class notion—it's the gentleman from passive, ignorant specta- in his book-lined study with the privacy for reflec tors to active, informed tion. That's a very elitist notion." participants. Further, the media shrinks the world, bringing
+Phil Donahue is doing a show today on the computer interface called virtual reality. Or at least that's what the show is supposed to be about. His guests are not computer programmers, interface designers, or even authors and researchers on cyberspace, virtual communities or future technology. No, Phil has invited the inventor of a pornography computer program to be the center of attention this afternoon. In order to spice up a potentially technical or information-based show, the producers of Donahue have fallen back on the easiest method of netting channel surfers: talking about sex. 
 
-the reality of remote regions into the living rooms of everyone else. Thompson agrees that there is no escape. “In our culture, we're constantly being in vaded and seeing horrors, such as those in Bosnia, right away. Between newspa pers and television, there's this
+awareness about the power of media, and to re VIRTUAL SEX Virtual reality is a tremen- awaken awareness of the ancient mediating dously promising new tool for media. Wearing technologies of spirituality, drugs, sex and magic. apparatus such as goggles, headphones, gloves or These activists are both the most modern in their even whole body suits, the user can experience a thinking and the most ancient in their belief sys programmed or unfolding world in a fully sensory tems. They are modern techno-pagans," who see 
 
-whole sense of the planet
+Just as home video manner. He can walk through a three-dimensional in this rebirth of nature through technology the became a conduit representation of the Coliseum, swim through the best opportunity yet to reclaim their power. The 
+
+for porn, so did 
+
+cytoplasm of a red blood cell, or create, with others, memes they develop are all geared towards present an imaginary universe of sight, sound and even ing technology as a kind of modern magic which 
+
+photographic tech touch. It is no wonder that the technology has grants access to sexual power, psychedelic vision nology, the tele sparked imaginations and research spending. And, and spiritual enlightenment. 
+
+phone, and even 
+
+as with any new technology, many creative people Many metamedia activists argue that sex (and, are hard at work applying virtual reality to sex. for that matter, spirituality, drugs and healing arts) 
+
+the earliest writ Just as home video became a conduit for porn, so was co-opred centuries ago by people in power. ten poems in the did photographic technology, the telephone, and Religion and morality were put into place to de 
+
+English language. 
+
+even the earliest written poems in the English lan- prive people of their natural sexual self-expression. guage. Monks who spent their time transcribing People have been made to believe that sex is some Bibles and prayers also used the new technology - how wrong or dirty, and fear that if left to their own print recording-to send dirty riddles and rhymes devices, they would become libidinous maniacs. to each other. Because of the real and imaginary Without social controls and safeguards, we would barriers human beings have to sex, we often see new all be raping each other. This imposed sexual cyr technology as a simple way of getting off” with- anny, according to some activists, gave lawmakers out any painful, real-life consequences. Mediating and moral authorities absolute domination over technologies make sex anonymous, painless, emo- the people. In constant need of sex, the populace tionless, commitmentless and, of course, disease could be controlled by associating sexually pro free. Though exacerbated by the AIDS crisis, this vocative imagery with the church, state or, today, tendency to equate new media with sexual techno- corporate interests. Deprived of healthy sex, men promiscuity is by no means a new thing. 
+
+will buy the beer associated with the prettiest mod We have already seen how new media serves to els on television. By controlling sexual expression promote intimacy. The more linked up we are, the in the media, one can control — to some extent more we know about each other, and the more the direction of cultural focus and societal desire. everyone else knows about us. Media not only In other words, if teen-age boys were allowed to creates lines of communication between people, but or able to find sex, they would not be watching so
+
+as the public space. And this makes moral escape also fosters the systems devices of feedback, iteration 
+
+and phase-locking between members of the societal 
+
+really hard." And far from seeking escape, Americans want organism. A population that can communicate with 
+
+itself is difficult to deceive or control. When push 
+
+more. 
+
+comes to shove, the ultimate form of intimacy for most people is sex. As soon as a new mediating 
+
+technology emerges from the laboratory, somebody, Phil Donahue is doing a show today on the com- somewhere is figuring out how to apply it to sexual puter interface called virtual reality. Or at least that's intimacy. But while sex provokes technicians to what the show is supposed to be about. His guests develop new media and people to purchase the are not computer programmers, interface designers, technology, it also provides ammunition for those or even authors and researchers on cyberspace, vir- against the new devices and their ability to empower tual communities or future technology. No, Phil has the masses. By cquating the power of new media invited the inventor of a pornography computer with disgraceful or immoral sexual deviancy, forces program to be the center of attention this afternoon. against these technologies can succeed in stunting or In order to spice up a potentially technical or infor- at least suspending their development. mation-based show, the producers of Donahue have Metamedia activists are virologists whose chief fallen back on the easiest method of netting channel concern is to bring people towards a greater self surfers: talking about sex. 
+
+awareness about the power of media, and to re VIRTUAL SEX Virtual reality is a tremen- awaken awareness of the ancient mediating dously promising new tool for media. Wearing technologies of spirituality, drugs, sex and magic. apparatus such as goggles, headphones, gloves or These activists are both the most modern in their even whole body suits, the user can experience a thinking and the most ancient in their belief sys programmed or unfolding world in a fully sensory tems. They are modern techno-pagans," who see 
+
+Just as home video manner. He can walk through a three-dimensional in this rebirth of nature through technology the became a conduit representation of the Coliseum, swim through the best opportunity yet to reclaim their power. The 
+
+for porn, so did 
+
+cytoplasm of a red blood cell, or create, with others, memes they develop are all geared towards present an imaginary universe of sight, sound and even ing technology as a kind of modern magic which 
+
+photographic tech touch. It is no wonder that the technology has grants access to sexual power, psychedelic vision nology, the tele sparked imaginations and research spending. And, and spiritual enlightenment. 
+
+phone, and even 
+
+as with any new technology, many creative people Many metamedia activists argue that sex (and, are hard at work applying virtual reality to sex. for that matter, spirituality, drugs and healing arts) 
+
+the earliest writ Just as home video became a conduit for porn, so was co-opred centuries ago by people in power. ten poems in the did photographic technology, the telephone, and Religion and morality were put into place to de 
+
+English language. 
+
+even the earliest written poems in the English lan- prive people of their natural sexual self-expression. guage. Monks who spent their time transcribing People have been made to believe that sex is some Bibles and prayers also used the new technology - how wrong or dirty, and fear that if left to their own print recording-to send dirty riddles and rhymes devices, they would become libidinous maniacs. to each other. Because of the real and imaginary Without social controls and safeguards, we would barriers human beings have to sex, we often see new all be raping each other. This imposed sexual cyr technology as a simple way of getting off” with- anny, according to some activists, gave lawmakers out any painful, real-life consequences. Mediating and moral authorities absolute domination over technologies make sex anonymous, painless, emo- the people. In constant need of sex, the populace tionless, commitmentless and, of course, disease could be controlled by associating sexually pro free. Though exacerbated by the AIDS crisis, this vocative imagery with the church, state or, today, tendency to equate new media with sexual techno- corporate interests. Deprived of healthy sex, men promiscuity is by no means a new thing. 
+
+will buy the beer associated with the prettiest mod We have already seen how new media serves to els on television. By controlling sexual expression promote intimacy. The more linked up we are, the in the media, one can control — to some extent more we know about each other, and the more the direction of cultural focus and societal desire. everyone else knows about us. Media not only In other words, if teen-age boys were allowed to creates lines of communication between people, but or able to find sex, they would not be watching so
