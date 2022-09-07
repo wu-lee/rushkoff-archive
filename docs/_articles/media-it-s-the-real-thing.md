@@ -42,30 +42,10 @@ So on our TV, we watch Geraldo watch a monitor play a TV movie enacting a press 
 
 This house of mirrors within mirrors is the American mediascape. It is more than a mirror of our culture; it is our culture. It is where we spend our time, our money and our thought. But as we examine the nature of the datasphere more closely, we find it is a self-referential cut-and-paste of itself. Most of media is media commenting on media commenting on media. Even if one real event just happens to occur--a black man gets beaten by white cops, or a girl shoots the wife of a man she loves--it soon becomes part of the overall self reflexive pastiche of media.
 
-Something is going on in media all its own that Geraldo Rivera's guests today are experts on and reflects less on the particular events being reported participants in the Amy Fisher Story. They've than it does on the nature of our cultural preoccu brought a clip from one of the three television pations and the ways in which we process them. movies aired this week about the "Long Island Media is saying something in the way it churns its Lolita” scandal - one from Amy's point of view, stories out, redigests them, and spits them out one from Joey Buttafuocco's and one "neutral." again. This is both a complex picture of the way our The movie clip is a scene where Hard Copy a world works, and, at the same time, the actual tabloid news show, is conducting a press confer- process of cultural catharsis and modification. ence and screening a cape from the episode they hope to air that night. The tape of the evening's episode rolls, announcing that Hard Copy has come into exclusive possession of a revealing videotape: We may not believe everything we read—“Martian Amy Fisher speaking with her boyfriend, a worker Dolphin Steals Two-headed Baby” banner head at a gym, about having sex with him after she is put lines on tabloid newspapers have changed our rela in jail. This tape, we learn, was secretly recorded by tionship to the printed word but what we see on the boyfriend with his camcorder. The TV movie TV in sound and pictures still seems real. Video is cuts from the actual videotape of Amy and her convincing. Even fictional images, like the POW boyfriend, to another television monitor, this one camps in the movie Rambo, can appeal to the in the dramatized home of Amy Fisher, played by emotions and affect public opinion. Drew Barrymore, who is watching the episode of The Amy Fisher media mishmash demonstrates Hard Copy in her living room, shocked
+Something is going on in media all its own that reflects less on the particular events being reported than it does on the nature of our cultural preoccupations and the ways in which we process them. Media is saying something in the way it churns its stories out, redigests them, and spits them out again. This is both a complex picture of the way our world works, and, at the same time, the actual process of cultural catharsis and modification
 
-the hazy line between reality and fiction in today's So on our TV, we watch Geraldo watch a moni- media and how mixing the two can lead to public tor play a TV movie enacting a press conference relations backfires. By borrowing real news footage
+We may not believe everything we read—“Martian Dolphin Steals Two-headed Baby” banner headlines on tabloid newspapers have changed our relationship to the printed word but what we see on TV in sound and pictures still seems real. Video is convincing. Even fictional images, like the POW camps in the movie _Rambo_, can appeal to the emotions and affect public opinion.
 
-where a cape is rolled of a TV show which in turn and inserting it into face-based but fictional mov became our new plays a cape— the actual, real-world tapes pur- ies, the television industry has brought informa natural environ
+The Amy Fisher media mishmash demonstrates the hazy line between reality and fiction in today's media and how mixing the two can lead to public relations backfires. By borrowing real news footage and inserting it into fact-based but fictional movies, the television industry has brought information from the irrefutable world of fact into the ever-relative world of fiction. They even demonstrate how these bits of footage can be manipulated to tell many different stories. The Rodney King tape, for example, has been analyzed and re-analyzed to the point where it both proves the cops' guilt and their innocence.
 
-chased for the movie—made by a guy cashing in tion from the irrefutable world of fact into the
-
-on a media scandal, only to pull out and reveal an ever-relative world of fiction. They even demon
-
-ment. Who we
-
-actress pretend to react as the real Amy Fisher strate how these bits of footage can be manipulated were friends with might have. By this time Geraldo cakes a commer- to tell many different stories. The Rodney King depended on cial break, during which an evening news special is tape, for example, has been analyzed and re-ana
-
-pitched that promises to air a brand new Amy which shows we
-
-lyzed to the point where it both proves the cops'
-
-we
-
-Fisher rape made by a
-
-Fisher tape made by another of her boyfriends. guilt and their innocence. watched. That, and an exclusive interview with Joey and his IRONIC SPACE e traditional methods of
-
-lawyer, who are upset about the way they were public relations have been undermined by their very made to appear on the Donahue show earlier that implementation in the media. Americans have ei week. Of course all these media events were being ther stopped believing what their media tells, or discussed concurrently on computer bulletin boards stopped caring. If nothing else, irony provides dis throughout the country, and would eventually tance. With emotional distance from the material, turn up in the form of an Amy Fisher comic book. the audience gains protection from the techniques
-
-This house of mirrors within mirrors is the of mind control. As Bertolt Breche discovered, alien American mediascape. It is more than a mirror of ating devices give audiences room to think. When our culture; it is our culture. It is where we spend Amy Fisher is seen through six TV monitors-within our time, our money and our thought. But as we monitors, her story has become distanced enough
+**IRONIC SPACE** The traditional methods of public relations have been undermined by their very implementation in the media. Americans have either stopped believing what their media tells, or stopped caring. If nothing else, irony provides distance. With emotional distance from the material, the audience gains protection from the techniques of mind control. As Bertolt Brecht discovered, alienating devices give audiences room to think. When Amy Fisher is seen through six TV monitors-within-monitors, her story has become distanced enough
