@@ -22,44 +22,34 @@ THE FOLLOWING IS AN ADAPTED EXCERPT FROM RUSHKOFF'S FORTHCOMING BOOK _Media Viru
 
 NEW YORK — Most social theorists consider the media a dungheap of cultural waste. They believe that the media, having nothing better to do, keeps chewing on the same predigested matter. There's so much time to fill on so many stations, and only a few real stories to tell. This is a simplistic view of media only shared by philosophers who grew up before television. They view media and even technology, for that matter, as somehow outside the realm of the natural. To them media can only display or comment on something real. They cannot acknowledge that the media is something real itself. Even forward thinkers like Marshall McLuhan insisted that every media extension of man is akin to a biological amputation. The advent of rock music made musicians deaf, and televisions or virtual reality goggles may damage our optic nerves and make us blind. This generation even objects to the word “media” being used as a singular noun. The media, to these people, are merely the channels through which we communicate: TV, print, bumper stickers, telegraph.
 
-But those who grew up after the datasphere had TION AS THE BRILLIANT HEIR TO McLUHAN. disposed and immune
+But those who grew up after the datasphere had been put in place see the media as something real, which must be reckoned with on its own terms. It can even be seen as an extension of the human, or even the planetary spirit.
 
-been put in place see the media as something real, A TV HEAD WHO CAN WRITE, HE IS THE FIRST
+The mediaspace, or “datasphere,” is the new territory for human interaction. It has become our electronic social hall; issues that were formerly reserved for hushed conversations on walks home from church choir practice are now debated openly on afternoon talk shows, in front of live audiences composed of people “just like us.” Good old-fashioned local gossip has been replaced by nationwide coverage of particularly resonant sex scandals. The mediaspace has also developed into our electronic town meeting (to use Ross Perot's expression). Traditional political debate and decisions have been absorbed by the ever-expanding forums of call-in radio and late-night variety shows. Today's most media-savvy politicians announce their candidacies on Larry King, and explain their positions on Rush Limbaugh or, better yet, primetime “infomercials.”
 
-which must be reckoned with on its own terms. It to the medium's
+It has become fashionable to bemoan the fact that Dana Carvey's latest impersonation of a political celebrity means as much to the American voter as the candidate's official platform, or that kids today who may never have watched an evening news broadcast instead get passionate about the styles and attitudes depicted in the latest MTV video. We worry that our media industry has developed a generation of couch potatoes who are incapable of making an intelligent decision, too passive to act on one if they did.
 
-MAJOR MEDIA THEORIST TO COME FROM
+That is not what is going on.
 
-can even be seen as an extension of the human, or
+phones and even their dollars. Television has be Nielsen "peoplemeters" may indicate which come an interactive experience.
 
-message, is a new THE PRIMORDIAL SOUP OF THE DATASPHERE
+else, irony pro channels we're watching, but they tell little about The event of do-it-yourself (DIY) technology vides distance. our relationship to the media as a whole. Just makes direct feedback even more far-reaching. because a family is "tuned in” doesn't mean it hasn't Homemade camcorder cassettes are as likely to find turned on and dropped out, too. No, the media their way onto CNN as professionally produced web has neither captured nor paralyzed the Ameri- segments. Tapes ranging from _America's Funniest_ can individual. It has provided her with the ability _Home Videos_ to the world-famous Rodney King to chart and control the course of her culture. beating are more widely distributed through the We've been empowered, folks.
 
-even the planetary spirit.
+datasphere than syndicated reruns of _I Love Lucy_ Getting with the program means realizing that Alternative media channels like the computer ner no one takes the mainstream media any more works or even fax "trees” permit the dissemination seriously than you do. Having been raised on a diet of information unacceptable to or censored by
 
-The mediaspace, or “datasphere,” is the new generation creating
+\--
 
-territory for human interaction. It has become our UNIVERSITY LIBRARY.
+It has become fashionable to bemoan the fact of media manipulation, we are all perfectly aware that Dana Carvey's latest impersonation of a politi- of the ingredients that go into these machinations. cal celebrity means as much to the American voter Children raised hearing and speaking a language as the candidate's official platform, or chat kids always understand it better than adults who at today who may never have watched an evening tempt to learn its rules. This is why our kids
 
-electronic social hall; issues that were formerly re an authentic space
+Americans have news broadcast instead get passionate about the understand computers and their programming either stopped styles and attitudes depicted in the latest MTV languages better than the men who designed them.
 
-served for hushed conversations on walks home THE FOLLOWING IS AN ADAPTED EXCERPT of its own? The best
+believing what video. We worry that our media industry has devel- Likewise, people weaned on media understand its oped a generation of couch potatoes who are inca- set of symbols better than its creators. And now their media pable of making an intelligent decision, too passive Americans feel free to talk back with their mouths, tells, or stopped to act on one if they did. their remote controls, their joysticks, their tele
 
-from church choir practice are now debated openly FROM RUSHKOFF'S FORTHCOMING BOOK Media
+caring. If nothing
 
-on afternoon talk shows, in front of live audiences GenX media theorist Virus! Hidden Agendas in Popular Culture to composed of people “just like us.” Good old-fash
+That is not what is going on.
 
-and the Librarian of BE PUBLISHED in October by Ballantine Press.
+phones and even their dollars. Television has be Nielsen "peoplemeters" may indicate which come an interactive experience.
 
-ioned local gossip has been replaced by nationwide
+else, irony pro channels we're watching, but they tell little about The event of do-it-yourself (DIY) technology vides distance. our relationship to the media as a whole. Just makes direct feedback even more far-reaching. because a family is "tuned in” doesn't mean it hasn't Homemade camcorder cassettes are as likely to find turned on and dropped out, too. No, the media their way onto CNN as professionally produced web has neither captured nor paralyzed the Ameri- segments. Tapes ranging from _America's Funniest_ can individual. It has provided her with the ability _Home Videos_ to the world-famous Rodney King to chart and control the course of her culture. beating are more widely distributed through the We've been empowered, folks.
 
-coverage of particularly resonant sex scandals. The Congress Emeritus NEW YORK — Most social theorists consider the me- mediaspace has also developed into our electronic
-
-dia a dungheap of cultural waste. They believe that town meeting (to use Ross Perot's expression). Tradi
-
-the media, having nothing better to do, keeps chew- tional political debate and decisions have been ab tions for NPQ.
-
-ing on the same predigested matter. There's so much sorbed by the ever-expanding forums of call-in radio time to fill on so many stations, and only a few real and late-night variety shows. Today's most media stories to tell. This is a simplistic view of media only savvy politicians announce their candidacies on shared by philosophers who grew up before televi- Larry King, and explain their positions on Rush sion. They view media and even technology, for Limbaugh or, better yet, primetime “infomercials.”
-
-INSTEAD OF THE HALLOWED STACKS OF THE
-
-4
+datasphere than syndicated reruns of _I Love Lucy_ Getting with the program means realizing that Alternative media channels like the computer ner no one takes the mainstream media any more works or even fax "trees” permit the dissemination seriously than you do. Having been raised on a diet of information unacceptable to or censored by
