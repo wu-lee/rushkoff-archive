@@ -25,4 +25,16 @@ Shareholders looking for a fast sale may be happy with such short-term solutions
 **Bold and brainy  
 **No, the secret of success in today's global and highly commodified market place is to zig when they're all zagging. While most companies look for "out of the box" solutions that distance them from their core competencies, the smart company strives to get back in the box and become the ultimate geeks of their industry.
 
-Such a strategy initiates a virtuous circle between management,
+Such a strategy initiates a virtuous circle between management, employees and customers that simply can't be accomplished any other way. This is particularly true in the era of the internet, when everything going on inside your company is broadcast more effectively to your consumer base than whatever it is you hired your public relations firm to communicate to them.
+
+Traditionally, companies sought to hide their inner workings from both competitors and consumers. Believing their best innovations were most likely behind them, companies shrouded themselves and their processes behind walls of marketing. New ads or packaging substituted for new ideas. Once a market was saturated, the only place to find increased revenues was to make production more efficient. This meant replacing the smartest people, who were demanding the highest salaries, with fewer, cheaper and dumber people. No wonder businesses felt the need to hide.
+
+I get so many calls from companies like these, asking me how to become more "transparent". For them, however, transparency isn't an option. How can they open the window to their company, when there is nobody really at home?
+
+Collaboration is key
+
+The opportunity before us now,
+
+however, is to change our orientation
+
+to innovation. Instead of seeing our
