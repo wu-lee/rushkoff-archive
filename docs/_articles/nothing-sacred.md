@@ -8,7 +8,6 @@ blurb: ''
 notes: "2007"
 refs: ''
 sources: ''
-published: false
 
 ---
 Can we talk? Why aren't I surprised that none other than Joan Rivers is responsible for one of the most accurate condensations of the core values of a three thousand year old tradition. It was the Jews' struggle for self-preservation, after all, as well as their deeply held humanist beliefs, that made them promoters of open discussion--so much that third century Romans purchased memberships in Jewish synagogues just so they could take part in intellectual conversations.
