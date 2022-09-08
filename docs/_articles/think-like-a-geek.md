@@ -12,67 +12,11 @@ sources: ''
 published: false
 
 ---
-What distinguishes
+What distinguishes you from your competition? Your brand? Your customer database? Your distribution? Your product? I beg to differ. In the long run, the only thing that distinguishes your business from anyone else's is your smarts.
 
-. you from your
+By "smarts" I don't just mean your personal intelligence, or even the intelligence of the people working for you, but the intelligence with which your entire culture operates. What smarts does your company bring to the table? Or to put it another way, how does the very existence of your firm change the rules of the game?
 
-· competition? Your
-
-brand? Your customer
-
-· database? Your distribution? Your
-
-product? I beg to differ. In the long
-
-run, the only thing that distinguishes
-
-your business from anyone else's
-
-. is your smarts.
-
-By •smarts• I don't just mean your
-
-• · personal intelligence, or even the
-
-. intelligence of the people working for
-
-you, but the intelligence with which
-
-your entire culture operates. What
-
-· smarts does your company bring to the
-
-table? Or to put it another way, how
-
-does• the very existence of your firm
-
-change the rules of the game?
-
-I believe we're in the midst o
-
-unique window of opportunity - "''"
-
-fostered by the low standards \~;,,
-
-and bottom line obsessions oftod\~y's
-
-global industries. There's a conspiracy
-
-of incompetence out there in the
-
-greater market place. Companies are
-
-searching desperately for ways to
-
-"outsource" their core competencies
-
-to anyone who will pick up the slack
-
-and maybe deliver goods for a
-
-few cents cheaper than can be
-
-accomplished at home.
+I believe we're in the midst of a unique window of opportunity--fostered by the low standards and bottom line obsessions of today's global industries. There's a conspiracy of incompetence out there in the greater market place. Companies are searching desperately for ways to "outsource" their core competencies to anyone who will pick up the slack and maybe deliver goods for a few cents cheaper than can be accomplished at home.
 
 And, as most firms eventually
 
