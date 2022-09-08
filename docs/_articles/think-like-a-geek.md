@@ -39,20 +39,25 @@ That's the real power of the open source movement, still misunderstood by almost
 **Simply the best**  
 A great business can adopt this attitude as well. It can only do this, though, if it believes it already has the smartest people around as its employees and customers. If a company represents the real centre of intelligence in its field, where else are people going to turn to share their best ideas?
 
-If someone had a great idea for how
+If someone had a great idea for how to share music or create a new kind of MP3 file, where would they go? Why to Apple, of course. We all know they represent "iPod culture". If our idea were accepted by Apple, it would not only mean a good return on our innovation--it would mean you were accepted by the core culture of MP3 music. Likewise, if you thought of a new way to make an office chair, a television set or a hybrid vehicle, I can promise you that you would go straight to the same companies as the person sitting next to you.
 
-to share music or create a new kind of
+Why? Because you have a sense that they have the smartest people working there. That the minute you cross the threshold of their company (or even venture onto their website), you will have crossed into the heart of the culture of that industry. The smartest of smart companies know this and put forth a standing invitation to customers and competitors alike for help.
 
-Mp3 file, where would they go? Why to
+Adobe, the software company, knows its Photoshop program is best of breed, and that its developers are also the best. This is what empowers them to create a website like Adobe Studio Exchange, where customers are invited to upload their own "plug-ins" (which are basically additions) for the program. The best contributions are included in future releases. Do users upload their plug-ins for money? No. They do it because they want to be included in the culture. They want to be known as smart.
 
-Apple, of course. We all know they
+You don't have to be in the computer business to think like a geek. The very best companies in smokestack industries, manufacturing and even soap succeed with the same formula: celebrate the nerd. Proctor & Gamble, one of the most enduringly successful businesses on the planet has made a policy of celebrating its lab-coated researchers over everyone else. This is a company that keeps its chemists at its core and understands that they (and not the marketers) are the key innovators. And because they are so confident in their own abilities, they welcome collaboration with others. An entire division of P&G is dedicated to fostering open source relationships with potential competitors - a division that ended up responsible for both Swiffer and Mr. Clean Magic Eraser. These were collaborative ventures, and the most successful of the past decade.
 
-represent "iPod culture". If our idea
+**Excite and delight**  
+Of course, the best reason to stay smart isn't just to create an opportunity for customer and competitor involvement, but because it's more fun that way. What makes a person feel excited each morning when their feet hit the carpet? Knowing they are going to work on something they love, something they believe in, and with people who feel the same way. This is as true for an employee as it is for the CEO.
 
-were accepted by Apple, it would not
+I met the founding president of the
 
-only mean a good return on our
+Ritz C.arlton Hotels at an innovation
 
-innovation - it would mean you were
+conference earlier this year. It was a
 
-accepted by the core culture of Mp3
+ridiculous affair, with people bandying
+
+about four-syllable words like
+
+"evolution" and "realignment", and
