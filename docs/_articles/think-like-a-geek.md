@@ -50,14 +50,151 @@ You don't have to be in the computer business to think like a geek. The very bes
 **Excite and delight**  
 Of course, the best reason to stay smart isn't just to create an opportunity for customer and competitor involvement, but because it's more fun that way. What makes a person feel excited each morning when their feet hit the carpet? Knowing they are going to work on something they love, something they believe in, and with people who feel the same way. This is as true for an employee as it is for the CEO.
 
-I met the founding president of the
+I met the founding president of the Ritz C.arlton Hotels at an innovation conference earlier this year. It was a ridiculous affair, with people bandying about four-syllable words like "evolution" and "realignment", and trying to sound smart. Off in the corner, though, speaking with genuine enthusiasm, was Horst Schulze, barely able to contain himself as he described the process by which his hotels' maids helped him figure out when to change the light bulbs and when to "deep clean" the carpet. This man wasn't afraid of his inner geek--and both his guests and his shareholders are the beneficiaries of his nerdy approach to hotel management.
 
-Ritz C.arlton Hotels at an innovation
+**The finishing touch**  
+In the end, the only way to create a genuine culture around your brand is to start with a genuine culture inside. This means being the smartest, hiring the smartest and selling to the smartest people. When you place a premium on intelligence, you become your industry's greatest advocate. You naturally attract the best talent, and when this happens hardcore customers--aficionados of your product or service--soon follow. In fact, the line between employee and customervanishes, and it becomes hard to distinguish between your newest employee and your most ardent customer. In many cases, they could even be the same person.
 
-conference earlier this year. It was a
+It may seem strange to think that the way to be the best at what you do is, quite simply, to be the best at what you do. But this is a logic that has been lost to the seemingly more pressing concerns of short-term share price and quarterly earnings statements.
 
-ridiculous affair, with people bandying
+While every business has the same kind of balance sheet--we all use the same numbers--no two businesses have the exact same core competency. By focusing on that competency, getting back inside the box and being the smartest of the smart in your field, you stand a chance of transcending the numbers and distinguishing yourself on a whole new level. You can be the best at what you do.
 
-about four-syllable words like
+The companies to remember
 
-"evolution" and "realignment", and
+Herman Miller - office furniture.
+
+The distributor of the famous
+
+Eames chairs has maintained its
+
+dedication to deep research and
+
+development, with little regard
+
+to exactly how or when it will
+
+pay off. The people I've met
+
+who work at Herman Miller talk
+
+about their jobs as If they have
+
+Just won the lottery. They no
+
+longer distinguish between work
+
+and play. They are the world's
+
+great office furniture geeks.
+
+Patagonia - camping and
+
+hiking clothes. This Ventura,
+
+California-based clothing
+
+manufacturer doesn't just cater
+
+to the hikers and climbers who
+
+buy its clothing. Patagonia has
+
+committed itself to keeping
+
+the planet clean enough for
+
+camping and hiking to continue.
+
+Yes, their clothes make use of
+
+the most advanced research in
+
+insulation, but the company also
+
+implements the most intelligent
+
+recycling and environmentally
+
+sound manufacturing processes
+
+in the industry. They are so
+
+enthusiastic about maintaining
+
+the environment, a significant
+
+portion of their profits is used to
+
+purchase rainforest land that
+
+would otherwise be cleared
+
+for development.
+
+Proctor & Gamble - household
+
+products. Established in 1837,
+
+The Procter & Gamble Company
+
+began as a small, family
+
+operated soap and candle
+
+company in Cincinnati, Ohio,
+
+USA. Today, P&G markets more
+
+than 250 products for more than
+
+five billion consumers in 140
+
+countries. During this whole
+
+time, P&G has put its chemists
+
+first, celebrating research and
+
+development as the real centre
+
+of its intelligence.
+
+Cemex - concr.ete and cement.
+
+I was asked to talk to this
+
+Mexican-based cement
+
+company a couple of years ago,
+
+and haven't stopped talking
+
+about them since. They are the
+
+world's true cement geeks. They
+
+kept me up all night telling me
+
+about why concrete is a superior
+
+road surface to asphalt, how to
+
+make mould-resistant cement
+
+and what measures can be
+
+taken to prevent environmental
+
+damage at a limestone mine.
+
+Thanks to a renewed focus on
+
+the raw smarts of its people,
+
+Cemex has grown from a small
+
+regional player to one of the
+
+world's top cement companies
+
+over the past decade.
