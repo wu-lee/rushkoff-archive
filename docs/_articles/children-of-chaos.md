@@ -46,100 +46,112 @@ The extended evolution of storytelling comes in three main stages. We start with
 
 But our world is too chaotic for us all to stand in a line and respect one authority. We barely even go to rock concerts anymore; we go to rave dances, where there is no sexy singer for everyone to ace. The rave dance--a spiritual event--is a great example of the third cultural phase, what I call "recapitulation". Rather than relating to someone else's spiritual story, we create their own. The rave event recapitulates a spiritual truth. It _is_ spirituality. The monetary equivalent of recapitulation is the currency we now use in the United Stales called "the Federal Reserve Note". It is cash, but it has no value in relation to some real metal. The dollar recapitulates the original function of money. It _is_ money. How does television become recapitulatory? Check out _Beavis and Butthead_. The experience of those two animated boys recapitulates the experience of the person watching MTV. It is a screen within a screen. The viewer watches viewers watching television. _Beavis and Butthead_ allow the screenager to maintain his distance from the programming. In fact, they encourage it. If a beautiful girl in an MTV video passes through the frame, a traditional viewer may be drawn into the trance. But before long Beavis will exclaim "Nice hooter!" The viewers are alienated from the sexy image, and forced to keep their distance.
 
-Mysrery Science Thea/er 3000 teaches an even more
+_Mystery Science Theater 3000_ teaches an even more advanced lesson in media literacy. The object of the game is to make connections between different examples of media. Two robots and man watch a bad movie, and make constant wisecracks. Their jokes always hinge on an obscure media references. The delight of the show is making the connection between the seemingly distant references. It is the same style of comedy that has kept _The Simpsons_ alive so long.
 
-advanced lesson in media literacy. The object of the
+In recapitulated media, the audience's moment of reward is shifted away from the hero's daring escape, and onto the viewer's own ability to orient himself in an increasingly complex mediaspace. Instead of experiencing vicarious relief from tension and absorbing the associated message, the screenager gets the joy of making momentary sense and associations in a chaotic culture. He gets his bearings. Of course the problem for programmers is that this brand of media makes viewers more aware, not less. Just as surely as "video killed the radio star", _Beavis and Butthead_ killed the rock video. Sponsors might not like us screenagers as much as the hypnotised audiences they enjoyed in the past. But they have already lost us.
 
-game is to make connections between different
+They bred our ironic distance from the TV by abusing their privilege as the medium's exclusive purveyors, and programming their audiences into a consumerist frenzy whose devastating cultural effects have not even fully played themselves out. Their only choice now is to provide us with television that addresses our anxiety in confronting a world as dauntingly chaotic as ours is.
 
-examples of media. Two robots and man watch a bad
+Instead of celebrating this newly interactive mediaspace, most mainstream outlets warn against it. _Time Magazine_ puts "Cyberporn" on its cover, and television news warns against electronic abduction.
 
-movie, and make constant wisecracks. Their jokes
+Newspapers are quick to blame _The Simpsons_ and _Beavis and Butthead_ for destroying our children's minds, when these shows are actually responsible for their newfound media literacy. What is upsetting the traditional media is that youngsters are waking up.
 
-always hinge on an obscure media references. The
+Before we install "V chips" in our TV sets and padlocks on our Segas, we had better take a good look at why our children are devoting so much energy to channel surfing, _Power Rangers_, the Internet, and _Doom_, and what positive effects they may be having on them. Their fascination with new media is preparing them for the workplace and society of tomorrow. By learning from their example instead of shunning their activities, we, too, might gain the skills necessary to thrive in a highly technological and chaotic future.
 
-delight of the show is making the connection between
+Alorn:?. with a scrccnae.cr's decreased tolerance for
 
-the seemingly distant references. It is the same style of
+passive ... programming:_ the: so-railed dec reased
 
-comedy that has kept The Simpsons alive so long.
+attention span - comes an increased attc111ion range.
 
-In recapitulated media, the audience's moment of
+A child can watch and comprehend fi ve or more TV
 
-reward is shifted away from the hero's daring escape,
+progr;11nmcs at a time, deftl y alternating between
 
-and onto the viewer's own ability to orient himself in
+channels jus1 in time to catch 1hc important momc111 s
 
-an increasingly complex mediaspace. Instead of
+on each. How belier to prepare himself for a hi-lcchjob
 
-experiencing vicarious relief from tension and absorbing
+where he may have to browse email . phone messages.
 
-the associated message, the screenager gets the joy of
+the Internet. and stock quo1es all at 1he same time?
 
-making momentary sense and associations in a chaotic
+Our children are already more mature media
 
-culture. He gets his bearings. Of course the problem for
+consumers and makers than we are. By playing video
 
-programmers is that this brand of media makes viewers
+games they increase their hand-eye coordination and
 
-more aware, not less. Just as surely as "video killed the
+interface comprehension. Winning a game is really just
 
-radio star", Beavis and B11tthead killed the rock video.
+masterin g a new pi ece of so ft ware. Kids are
 
-Sponsors might not like us screenagers as much as the
+demys1ifying the lelcvision image for themselves.
 
-hypnotised audiences they enjoyed in the past. But they
+Today"s media-li1era1c teen:1gers have access 10 the
 
-have already lost us.
+same 1cchnoloeies found in a st.11e-of-1hc-art newsroom.
 
-They bred our ironic distance from the TV by abusing
+A computer. a\~nodem. and a TV sci give them instant
 
-their privilege as the medium's exclusive purveyors, and
+access to info rmation from around the world. By
 
-programming their audiences into a consumerist frenzy
+navigating the World Wide Web. 1hcy are learning how
 
-whose devastating cultural effects have not even fully
+10 move through a discontinuous realm of data and
 
-played themselves out. Their only choice now is to
+opinions. as we ll as how to distinguish between the two.
 
-provide us with television that addresses our anxiety in
+Not surprisingly. our kids' favourite media content
 
-confronting a world as dauntingly chaotic as ours is.
+is also fill ed with coping strategies for the world we
 
-Instead of celebrating this newly interactive
+will all soon inhabit. While parents can glean linlc more
 
-mediaspace, most mainstream outlets warn against it.
+lhan violence from a show like The Power Ra11gas. it
 
-Ti111e Magazine puts "Cyberporn" on its cover, and
+deals quite eloquently with the core issues facing a
 
-television news warns against electronic abduction.
+civilization co-evolving with its own technology. The
 
-Along with a decreased attention span
+underlying theme of Thl' Power Ra11 gt'l'S is cvolution-
 
-comes an increased attention range.
+as-a-team sport. The young Range rs only rc;1ch full
 
-Newspapers are quick to blame The Simpsons and
+powe r when th ey mutat e together in1 0 a giant.
 
-Beavis and B11tthead for destroying our children 's
+coopera1i vely controlled robot. The monsters they fight
 
-minds, when these shows are actually responsible for
+are relics of our evolutionary past: dinosaurs summoned
 
-their newfound media literacy. What is upsetting the
+by their adult enemy. the evil Lord Zed. who is the victim
 
-traditional media is that youngsters are waking up.
+of his own technological excesses and must remain
 
-Before we install "V chips" in our TV sets and
+connected to a complex life-support apparatus. He
 
-padlocks on our Segas, we had better take a good look
+symboli zes the sad consequence of selfishly-exploited
 
-at why our children are devoting so much energy lo
+1echnology.
 
-channel surfing, Power Rangers, the Internet, and
+The Simpsons goes even f urthcr. The joy of the show.
 
-Doom, and what positive effects they may be hav ing
+unlike traditional telev ision, is not making i1 through to
 
-on them. Their fascination with new media is preparing
+the climatic conclusion. It is understanding 1he many
 
-them for the workplace and soc iety of tomorrow. By
+medi a refe rences. The "aha" moment in 1hc Tiu•
 
-learning from their example instead of shunning their
+Simpson.\\· is not whether Bart will find a gun - it is
+
+understanding thal a scene might be a parody of the X-
+
+Filcs or a famili ar beer adve rtisement. The show helps
+
+its viewers find and recognise 1he underlying pallcrns
+
+in the media. It helps young people make sense of chaos.
+
+Even the most violent of video games like Doom
+
+and Mortal Kombat may be serving a higher purpose
