@@ -58,99 +58,15 @@ Newspapers are quick to blame _The Simpsons_ and _Beavis and Butthead_ for destr
 
 Before we install "V chips" in our TV sets and padlocks on our Segas, we had better take a good look at why our children are devoting so much energy to channel surfing, _Power Rangers_, the Internet, and _Doom_, and what positive effects they may be having on them. Their fascination with new media is preparing them for the workplace and society of tomorrow. By learning from their example instead of shunning their activities, we, too, might gain the skills necessary to thrive in a highly technological and chaotic future.
 
-Alorn:?. with a scrccnae.cr's decreased tolerance for
+Along with a screenager's decreased tolerance for passive programming--the so-called decreased attention span--comes an increased attention range. A child can watch and comprehend five or more TV programmes at a time, deftly alternating between channels just in time to catch the important moments on each. How better to prepare himself for a hi-tech job where he may have to browse email, phone messages, the Internet, and stock quotes all at the same time?
 
-passive ... programming:_ the: so-railed dec reased
+Our children are already more mature media consumers and makers than we are. By playing video games they increase their hand-eye coordination and interface comprehension. Winning a game is really just mastering a new piece of software. Kids are demystifying the television image for themselves.
 
-attention span - comes an increased attc111ion range.
+Today's media-literate teenagers have access to the same technologies found in a state-of-the-art newsroom. A computer, a modem, and a TV set give them instant access to information from around the world. By navigating the World Wide Web, they are learning how to move through a discontinuous realm of data and opinions, as well as how to distinguish between the two.
 
-A child can watch and comprehend fi ve or more TV
+Not surprisingly, our kids' favourite media content is also filled with coping strategies for the world we will all soon inhabit. While parents can glean little more than violence from a show like _The Power Rangers,_ it deals quite eloquently with the core issues facing a civilization co-evolving with its own technology. The underlying theme of _The Power Rangers_ is evolution-as-a-team sport. The young Rangers only reach full power when they mutate together into a giant, cooperatively controlled robot. The monsters they fight are relics of our evolutionary past: dinosaurs summoned by their adult enemy, the evil Lord Zed, who is the victim of his own technological excesses and must remain connected to a complex life-support apparatus. He symbolizes the sad consequence of selfishly-exploited technology.
 
-progr;11nmcs at a time, deftl y alternating between
-
-channels jus1 in time to catch 1hc important momc111 s
-
-on each. How belier to prepare himself for a hi-lcchjob
-
-where he may have to browse email . phone messages.
-
-the Internet. and stock quo1es all at 1he same time?
-
-Our children are already more mature media
-
-consumers and makers than we are. By playing video
-
-games they increase their hand-eye coordination and
-
-interface comprehension. Winning a game is really just
-
-masterin g a new pi ece of so ft ware. Kids are
-
-demys1ifying the lelcvision image for themselves.
-
-Today"s media-li1era1c teen:1gers have access 10 the
-
-same 1cchnoloeies found in a st.11e-of-1hc-art newsroom.
-
-A computer. a\~nodem. and a TV sci give them instant
-
-access to info rmation from around the world. By
-
-navigating the World Wide Web. 1hcy are learning how
-
-10 move through a discontinuous realm of data and
-
-opinions. as we ll as how to distinguish between the two.
-
-Not surprisingly. our kids' favourite media content
-
-is also fill ed with coping strategies for the world we
-
-will all soon inhabit. While parents can glean linlc more
-
-lhan violence from a show like The Power Ra11gas. it
-
-deals quite eloquently with the core issues facing a
-
-civilization co-evolving with its own technology. The
-
-underlying theme of Thl' Power Ra11 gt'l'S is cvolution-
-
-as-a-team sport. The young Range rs only rc;1ch full
-
-powe r when th ey mutat e together in1 0 a giant.
-
-coopera1i vely controlled robot. The monsters they fight
-
-are relics of our evolutionary past: dinosaurs summoned
-
-by their adult enemy. the evil Lord Zed. who is the victim
-
-of his own technological excesses and must remain
-
-connected to a complex life-support apparatus. He
-
-symboli zes the sad consequence of selfishly-exploited
-
-1echnology.
-
-The Simpsons goes even f urthcr. The joy of the show.
-
-unlike traditional telev ision, is not making i1 through to
-
-the climatic conclusion. It is understanding 1he many
-
-medi a refe rences. The "aha" moment in 1hc Tiu•
-
-Simpson.\\· is not whether Bart will find a gun - it is
-
-understanding thal a scene might be a parody of the X-
-
-Filcs or a famili ar beer adve rtisement. The show helps
-
-its viewers find and recognise 1he underlying pallcrns
-
-in the media. It helps young people make sense of chaos.
+_The Simpsons_ goes even further. The joy of the show, unlike traditional television, is not making it through to the climatic conclusion. It is understanding the many media references. The "aha" moment in the _The Simpsons_ is not whether Bart will find a gun--it is understanding that a scene might be a parody of the _X-Files_ or a familiar beer advertisement. The show helps its viewers find and recognise the underlying patterns in the media. It helps young people make sense of chaos.
 
 Even the most violent of video games like Doom
 
