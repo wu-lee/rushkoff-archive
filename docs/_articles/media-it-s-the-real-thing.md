@@ -170,4 +170,4 @@ The series hopes to provoke the audience's own paranoia a bit, and force them to
 
 The cultural immune response to mimetic engineering appears to prove that media activists have tapped, if not yet mastered, the hidden but pervasive language of our viral media. Whether or not their alterations of the codons of cultural history are necessary or good is left to be seen. But rejecting the fact that the efforts of viral activists are having a tangible effect on the architecture of our ever-increasingly mediated culture is to pretend that what goes on in your City Hall is more important to your kids than what Beavis and Butthead said to each other on MTV last night.
 
- ing up and carting off suspected dissidents as by- You can ignore media viruses if you like, but it's standers hardly notice. Though he started from a already too late. If you've gotten this far, you've Bruce Wagner comic strip in Details magazine, already been infected. Stone, who served as executive producer for the show, made sure to capitalize on the series' ability
+You can ignore media viruses if you like, but it's already too late. If you've gotten this far, you've already been infected.
