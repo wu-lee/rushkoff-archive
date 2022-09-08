@@ -31,10 +31,28 @@ Traditionally, companies sought to hide their inner workings from both competito
 
 I get so many calls from companies like these, asking me how to become more "transparent". For them, however, transparency isn't an option. How can they open the window to their company, when there is nobody really at home?
 
-Collaboration is key
+**Collaboration is key**  
+The opportunity before us now, however, is to change our orientation to innovation. Instead of seeing our best innovations as secrets to hide, we must see them as intelligence to be shared. If you're really in this for the long haul, then you know your very best innovations are still ahead of you. Why not let everybody see what you're doing, and how you're doing it?
 
-The opportunity before us now,
+That's the real power of the open source movement, still misunderstood by almost everyone in the business world as some kind of profit-sharing model. What open source software development does is invite everyone to make things better--users, developers, anyone really. If you see a way to make an open source program better, you are cordially invited to pitch in and make it so.
 
-however, is to change our orientation
+**Simply the best**  
+A great business can adopt this attitude as well. It can only do this, though, if it believes it already has the smartest people around as its employees and customers. If a company represents the real centre of intelligence in its field, where else are people going to turn to share their best ideas?
 
-to innovation. Instead of seeing our
+If someone had a great idea for how
+
+to share music or create a new kind of
+
+Mp3 file, where would they go? Why to
+
+Apple, of course. We all know they
+
+represent "iPod culture". If our idea
+
+were accepted by Apple, it would not
+
+only mean a good return on our
+
+innovation - it would mean you were
+
+accepted by the core culture of Mp3
