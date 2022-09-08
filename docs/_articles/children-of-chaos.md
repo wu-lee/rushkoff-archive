@@ -9,7 +9,6 @@ blurb: The younger generation are native in a hyper-mediated, electronic world w
 notes: Vol. 2, No. 3, 1997
 refs: ''
 sources: ''
-published: false
 
 ---
 A guy goes to the doctor, complaining of terrible tapeworm. He's tried every known remedy, but to no avail. The doctor tells him not to worry--just to come back the next day with three bananas and a cookie. The man is perplexed, but he has faith in the doctor's fine reputation and returns the next day as he has been instructed. The doctor asks the man to pull down his pants and bend over. He then proceeds to insert the three bananas, one by one, into the man's rectum. He waits for one minute, then inserts the cookie.
