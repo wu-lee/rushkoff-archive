@@ -38,28 +38,108 @@ Screenagers raised with interactive devices in their media arsenals, are native 
 
 Still, they do like TV, and there are ways for commercial programmers and television artists alike to appeal to their screenage sensibilities and viewing habits. In doing so, such programmers will be addressing a cultural agenda rather than foisting an agenda onto culture.
 
-The shows embraced by the screenage generation
+The shows embraced by the screenage generation accept the inherent discontinuity of the television medium rather than trying to smooth it out. For example, while we were all taught in film school how to bridge the jolt of an edit point, the screenager experiences each of these paved-over breaks as a lie. It is discontinuity pretending to be continuous, and it comes across as false. Where adults are challenged by gaps, kids thrive on them. Just consider the difference between the experience of an adult skier and a child snow boarder descending a slope. The adult, with his long parallel skis, looks for the smoothest, most powdery path possible. The kid seeks out the bumps, rocks and patches of ice.
 
-accept the inherent discontinuity of the television
+Programmers who think they are hip have responded to this hunger for the chaotic by adding in superfluous jump-cuts and bumps of camera. Documentaries look real because they do not convince us that there is no camera. The reality of their production must be incorporated imo the film because there is no way around it when you only have one camera rolling at a time. But to fake the reality of a documentary by banging around the camera _NYPD_-style is a crude filmmaking technique that could only fool adults. The kids see right through it, and laugh out loud at this primitive imitation of low-budget documentarians. They do not want old stories in new packages. They want new kinds of stories.
 
-medium rather than trying to smooth it out. For example,
+The extended evolution of storytelling comes in three main stages. We start with a literal phase. For money, this was gold. It had actual, literal value. For Western religion, this was the Ten Commandments. Do this, do not do that. The second stage is metaphor. The metaphor for gold was the old certificate. Paper money represented a real value of gold. For religion, the metaphorical stage was Jesus and the parable. Jesus's own life and his teaching stories, like the prostitute in the road about to be stoned, work as metaphors for the situations in our lives. If we can all identify with the character in the story, then the parable works. That is why they are called parables: a parabola is a curve that depicts the relationship of a single point to whole line. As long as we are in a simple, linear world, and all stand in a line, the point of story will relate to us all. Stories require heroes we all relate to--superbeings and allegiance.
 
-while we were all taught in film school how to bridge
+But our world is too chaotic for us all to stand in a line and respect one authority. We barely even go to rock concerts anymore; we go to rave dances, where there is no sexy singer for everyone to ace. The rave dance--a spiritual event--is a great example of the third cultural phase, what I call "recapitulation". Rather than relating to someone else's spiritual story, we create their own. The rave event recapitulates a spiritual truth. It _is_ spirituality. The monetary equivalent of recapitulation is the currency we now use in the United Stales called "the Federal Reserve Note". It is cash, but it has no value in relation to some real metal. The dollar recapitulates the original function of money. It _is_ money. How does television become recapitulatory? Check out _Beavis and Butthead_. The experience of those two animated boys recapitulates the experience of the person watching MTV. It is a screen within a screen. The viewer watches viewers watching television. _Beavis and Butthead_ allow the screenager to maintain his distance from the programming. In fact, they encourage it. If a beautiful girl in an MTV video passes through the frame, a traditional viewer may be drawn into the trance. But before long Beavis will exclaim "Nice hooter!" The viewers are alienated from the sexy image, and forced to keep their distance.
 
-the jolt of an edit point, the screenager experiences each
+Mysrery Science Thea/er 3000 teaches an even more
 
-of these paved-over breaks as a lie. It is discontinuity
+advanced lesson in media literacy. The object of the
 
-pretending to be continuous, and it comes across as false.
+game is to make connections between different
 
-Where adults are challenged by gaps, kids thrive on
+examples of media. Two robots and man watch a bad
 
-them . Just consider the difference between the
+movie, and make constant wisecracks. Their jokes
 
-experience of an adult skier and a child snow boarder
+always hinge on an obscure media references. The
 
-descending a slope. The adult, with his long parallel
+delight of the show is making the connection between
 
-skis, looks for the smoothest, most powdery path
+the seemingly distant references. It is the same style of
 
-possible. The kid seeks out the bumps, rocks and patches
+comedy that has kept The Simpsons alive so long.
+
+In recapitulated media, the audience's moment of
+
+reward is shifted away from the hero's daring escape,
+
+and onto the viewer's own ability to orient himself in
+
+an increasingly complex mediaspace. Instead of
+
+experiencing vicarious relief from tension and absorbing
+
+the associated message, the screenager gets the joy of
+
+making momentary sense and associations in a chaotic
+
+culture. He gets his bearings. Of course the problem for
+
+programmers is that this brand of media makes viewers
+
+more aware, not less. Just as surely as "video killed the
+
+radio star", Beavis and B11tthead killed the rock video.
+
+Sponsors might not like us screenagers as much as the
+
+hypnotised audiences they enjoyed in the past. But they
+
+have already lost us.
+
+They bred our ironic distance from the TV by abusing
+
+their privilege as the medium's exclusive purveyors, and
+
+programming their audiences into a consumerist frenzy
+
+whose devastating cultural effects have not even fully
+
+played themselves out. Their only choice now is to
+
+provide us with television that addresses our anxiety in
+
+confronting a world as dauntingly chaotic as ours is.
+
+Instead of celebrating this newly interactive
+
+mediaspace, most mainstream outlets warn against it.
+
+Ti111e Magazine puts "Cyberporn" on its cover, and
+
+television news warns against electronic abduction.
+
+Along with a decreased attention span
+
+comes an increased attention range.
+
+Newspapers are quick to blame The Simpsons and
+
+Beavis and B11tthead for destroying our children 's
+
+minds, when these shows are actually responsible for
+
+their newfound media literacy. What is upsetting the
+
+traditional media is that youngsters are waking up.
+
+Before we install "V chips" in our TV sets and
+
+padlocks on our Segas, we had better take a good look
+
+at why our children are devoting so much energy lo
+
+channel surfing, Power Rangers, the Internet, and
+
+Doom, and what positive effects they may be hav ing
+
+on them. Their fascination with new media is preparing
+
+them for the workplace and soc iety of tomorrow. By
+
+learning from their example instead of shunning their
