@@ -1,13 +1,13 @@
 ---
 title: Suicide Jews
-subtitle: 
-date: '2003-06-11T04:00:00.000Z'
-publication: _publications/ny_press.md
-blurb: The self-imposed death of institutional Judaism.
-notes: 
+subtitle: The self-imposed death of institutional Judaism.
+date: 2003-06-18 00:00:00 -0400
+publication: _publications/new-york-press.md
+blurb: ''
+notes: "June 18-24, 2003  \nVolume 16, Number 25"
 refs: 
 sources: 
-published: true
+
 ---
 I'm a Jew. Or, at least I was last time I checked.
 
