@@ -17,27 +17,15 @@ Douglas Rushkoff is an author (_Program Or Be Programmed_; _Life, Inc._; _Nothin
 
 I can't really tell. I'm not a doctor so it's hard to tell. It's getting brown now.
 
-Did she get to a doctor?
+**Did she get to a doctor?**
 
-present-based digital environment, we are going to
+Yeah, we got to a doctor and they took off the rest of the toenail when we were there, so then it was just all meaty and bloody. And then, uh, it got drier and it was this nice flesh color. But now it's just like brown.
 
-need to understand things less as story and more really tell. I'm not a doctor so it's hard to tell. It's I can't really
+**You probably begin all your interviews this way, don't you?**
 
-through these kind of present-based experiences of connectivity or insight or connection. There's going to be a lot of casualties along the way. You know, the current political response to present shock is the Tea
+Yeah, well, with people who want to know. You can publish that. You can publish that her nail bed is now brown...
 
-Party movement, this kind of child-like, knee-jerk Yeah we got to a doctor and they took off the rest of impatience, and it's much harder to have the deep intoenail when we were there, so then it was just all patience and present-ism of, say, an Occupy nesty and bloody. And then, uh, it got drier and it was movement, which is literally about occupying. We see this nice flesh color. But now it's just like brown.
-
-a little bit of it in Protestantism in America as kids move
-
-from the original fundamentalist protestantism into the You probably begin all your interviews this way, sort of What Would Jesus Do, which is now-ness, you don't you?
-
-know, it's "what would Jesus do now?" not "what did
-
-Jesus do then?" Yeah, well, with people who want to know. You can publish that. You can publish that her nail bed is now So people move out of a historical appreciation of brown ...
-
-religion, which is what I've been working on the Jews
-
-for a while with, you know, to stop looking at this stuff You said something about the next thing you're as history. But it's hard. For Judaism in particular, going to write is going to deal with living in the Judaism kind of invented time, it invented progress. present. Presencing, right?
+**You said something about the next thing you're going to write is going to deal with living in the present. Presencing, right?**
 
 With the invention of text came the ability to look back
 
