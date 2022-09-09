@@ -9,7 +9,6 @@ blurb: In this _Holland Herald_ exclusive, Douglas Rushkoff explains why outsour
 notes: October 2007
 refs: ''
 sources: ''
-published: false
 
 ---
 What distinguishes you from your competition? Your brand? Your customer database? Your distribution? Your product? I beg to differ. In the long run, the only thing that distinguishes your business from anyone else's is your smarts.
