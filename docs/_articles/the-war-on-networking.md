@@ -23,22 +23,82 @@ Our tactics during this period included training and arming people like Bin Lade
 
 And all of this is being fairly well reported by mainstream American media channels like the New York Times and network news. (If Fox news is focusing on patriotism and Olympic-games-like heartwarming narratives, so be it. That's what old-style right-wing media is for.)
 
-A few embassy bombings were not enough to
+A few embassy bombings were not enough to show us what we had created. The World Trade Center was. We have made terrible mistakes in our ongoing war effort. And the very people that the USSR and the USA were once fighting over are now fighting against us.
 
-show us what we had created. The World
+But whatever role we historically played, and however ineffectual our strategy, what we have been aiming to support over the past couple of centuries is creativity and free will. All of the relativistic angst and political critique expressed by "we highly educated internet-literate computer users" has been made possible by the Western system, born in the Renaissance, crafted in the Enlightenment and enacted in the French and US revolutions.
 
-Trade Center was. We have made terrible mis-
+In order to maintain this system, we have done some very questionable things. And these weren't always the best solutions to the real and seeming threats to our security and well-being. But they were better solutions than most societies employed, and we are getting better all the time. What other nation experienced a civil rights movement, or shifted from slavery to affirmative action as quickly as we did? What nation developed an economic system so robust that it is capable of helping almost any other nation out of crisis? And what nation gives such aid?
 
-takes in our ongoing war effort. And the very
+Yes, we are crippled by our own brands of fun-
 
-people that the USSR and the USA were once
+damentalism (to the point where we can't
 
-fighting over are now fighting against us.
+even make our pledge to the United Nations)
 
-But whatever role we historically played, and
+and our own economic extremism (preventing
 
-however ineffectual our strategy, what we
+us from signing Kyoto) to our own misunder-
 
-have been aiming to support over the past
+standing of global relations (keeping us from
 
-couple of centuries is creativity and free will.
+the racism conference). We are addicted to oil,
+
+blind to many of the plights of others, and
+
+spiritually confused.
+
+But we are also the economy and military that
+
+has maintained this soft cushy society- from
+
+no-nuclear zones like New Zealand all the
+
+way across the hated United States and over to
+
+Europe. We have been the military brunt
+
+behind a society dedicated to Judeo-Christian
+
+ethical development and Hellenist idealism.
+
+You want the truth? You can't handle the truth.
+
+Call me Jingoistic, but I'm on "our" side in this
+
+conflict. Yes, there are sides. There is the side of
+
+pluralism, creativity, and free will, and there is
+
+the side of intolerance, dogma, and repression.
+
+American idealism has its problems, but it's
+
+meant to be about freedom, not decrees. The
+
+Internet is one of the best tools, yet, for extend-
+
+ing this sensibility.
+
+So far, the rhetoric against the United States
+
+has come from three main camps:
+
+1\. The extreme fundamentalists who perpe-
+
+trated the attacks, as well as their extremely
+
+under-educated and impoverished support-
+
+ers.
+
+2\. The extreme fundamentalists within our
+
+own borders, such as Pat Robertson and
+
+Jerry Falwell, who blame the sins of females,
+
+homosexuals, and civil libertarians for the
+
+WTC attack, and who - like the terrorists -
+
+suggest that we are being punished by God.
