@@ -43,37 +43,11 @@ So far, the rhetoric against the United States has come from three main camps:
 
 3\. The hyper-intellectual neo-communists of the Internet (particularly, the Nettime list from which I have now unsubscribed) who snicker at our losses, and believe that America deserves such an attack as revenge for its actions in Kosovo (saving a race from genocide), or the corporate policies of the Gap.
 
-All three groups are fundamentalists, who are
+All three groups are fundamentalists, who are clinging to a world view that tolerance, interactive media, and - yes - capitalism tend to erode. We are all in this together. Abortionists and mothers, Arab and Jew, libertarian and communist.
 
-clinging to a world view that tolerance, inter-
+Take a good hard look at who is attempting to create structures within which everyone can live in peace, and who is not. Which looks more like pluralism to you? Old Jerusalem or Jordan? New York or Tehran?
 
-active media, and - yes - capitalism tend to
-
-erode. We are all in this together. Abortionists
-
-and mothers, Arab and Jew, libertarian and
-
-communist.
-
-Take a good hard look at who is attempting to
-
-create structures within which everyone can
-
-live in peace, and who is not. Which looks
-
-more like pluralism to you? Old Jerusalem or
-
-Jordan? New York or Tehran?
-
-Introspection and self-loathing are extremely
-
-positive when they can be used to make real
-
-changes to one's outlooks and behaviors. But
-
-they can be crippling when taken too far, or
-
-when they're indulged at the wrong moment.
+Introspection and self-loathing are extremely positive when they can be used to make real changes to one's outlooks and behaviors. But they can be crippling when taken too far, or when they're indulged at the wrong moment.
 
 Similarly, fist-waving and hyper-patriotic rhet-
 
