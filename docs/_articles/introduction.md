@@ -8,7 +8,6 @@ blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-published: false
 
 ---
 These are challenging times for conscious people. More challenging than I usually allow myself to believe.
