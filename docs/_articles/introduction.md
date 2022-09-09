@@ -29,14 +29,24 @@ _Coercion_ met with a lot of acclaim - especially from people outside the market
 
 Luckily for my own already overbooked life, a brilliant and energetic writer named Martin Howard pinged me about five years ago to ask if I was planning to write a _Coercion_ companion - some kind of workbook that pulled out the most useable ideas from the text and made them even more accessible to and actionable by the modern reader. This way, even a non-reader (and that's most of us, these days) would be able to get the gist of these ideas - and even those who do read would get a more user-friendly presentation of this material, complete with some new case studies and high-impact, easily remembered visuals.
 
-But let me also, dear reader, give you a quick disclaimer. I began
+Of course I was all for it, and the result of Martin's work - the quintessence of _Coercion_ - is in your hands.
 
-the book Coercion with an extended introduction that
+But let me also, dear reader, give you a quick disclaimer. I began the book _Coercion_ with an extended introduction that demonstrated a bunch of different rhetorical techniques. I wanted to show from the outset that books, too, are influential in their own way. We can't help but use influence techniques, to some extent, whenever we communicate with one another. We wouldn't be speaking if we didn't want to make some change in the other person.
 
-demonstrated a bunch of different rhetorical techniques. I wanted
+The format of this book is alive with visuals and packed with persuasive language. And while it's sometimes fun to descend into the conspiratorial mindset for a moment, please realize that there's a bit of a wink-wink-nudge-nudge to all of this. Yes, there are nasty people out there in government and corporations who mean to compromise your ability to think. That's just a fact. But this doesn't mean that these people comprise a great and all-powerful "they" who can make you do anything they want to.
 
-to show from the outset that books, too, are influential in their
+It's fun and useful to identify the enemy, see his techniques, and then disable them. It's not useful, however, to become so obsessed with the "theys" out there that we lose sight of our own participation in the game. There is no they without us, and the more we glamorize and obsess on their techniques, the less able we feel to get beyond them.
 
-own way. We can't help but use influence techniques, to some
+So please enjoy the style and tone of this volume for what it is: a
 
-extent, whenever we communicate with one another. We wouldn't
+way to make some of the scariest things about our propagandistic
+
+landscape have a bit less hold over us. It's a kind of ghost story,
+
+really. Yes, it's scary - so is the idea of a "they" - but the enemies
+
+here are just spirits, and only as real as we allow them to be.
+
+\--Douglas Rushkoff
+
+New York City, 2004
