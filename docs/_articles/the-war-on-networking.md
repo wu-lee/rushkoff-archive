@@ -29,55 +29,11 @@ But whatever role we historically played, and however ineffectual our strategy, 
 
 In order to maintain this system, we have done some very questionable things. And these weren't always the best solutions to the real and seeming threats to our security and well-being. But they were better solutions than most societies employed, and we are getting better all the time. What other nation experienced a civil rights movement, or shifted from slavery to affirmative action as quickly as we did? What nation developed an economic system so robust that it is capable of helping almost any other nation out of crisis? And what nation gives such aid?
 
-Yes, we are crippled by our own brands of fun-
+Yes, we are crippled by our own brands of fundamentalism (to the point where we can't even make our pledge to the United Nations) and our own economic extremism (preventing us from signing Kyoto) to our own misunderstanding of global relations (keeping us from the racism conference). We are addicted to oil, blind to many of the plights of others, and spiritually confused.
 
-damentalism (to the point where we can't
+But we are also the economy and military that has maintained this soft cushy society--from no-nuclear zones like New Zealand all the way across the hated United States and over to Europe. We have been the military brunt behind a society dedicated to Judeo-Christian ethical development and Hellenist idealism. You want the truth? You can't handle the truth.
 
-even make our pledge to the United Nations)
-
-and our own economic extremism (preventing
-
-us from signing Kyoto) to our own misunder-
-
-standing of global relations (keeping us from
-
-the racism conference). We are addicted to oil,
-
-blind to many of the plights of others, and
-
-spiritually confused.
-
-But we are also the economy and military that
-
-has maintained this soft cushy society- from
-
-no-nuclear zones like New Zealand all the
-
-way across the hated United States and over to
-
-Europe. We have been the military brunt
-
-behind a society dedicated to Judeo-Christian
-
-ethical development and Hellenist idealism.
-
-You want the truth? You can't handle the truth.
-
-Call me Jingoistic, but I'm on "our" side in this
-
-conflict. Yes, there are sides. There is the side of
-
-pluralism, creativity, and free will, and there is
-
-the side of intolerance, dogma, and repression.
-
-American idealism has its problems, but it's
-
-meant to be about freedom, not decrees. The
-
-Internet is one of the best tools, yet, for extend-
-
-ing this sensibility.
+Call me Jingoistic, but I'm on "our" side in this conflict. Yes, there are sides. There is the side of pluralism, creativity, and free will, and there is the side of intolerance, dogma, and repression. American idealism has its problems, but it's meant to be about freedom, not decrees. The Internet is one of the best tools, yet, for extending this sensibility.
 
 So far, the rhetoric against the United States
 
