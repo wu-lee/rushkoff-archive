@@ -8,7 +8,6 @@ blurb: ''
 notes: March 2007. No actual title.
 refs: ''
 sources: ''
-published: false
 
 ---
 **Douglas Rushkoff has written on subjects ranging from religion to technology. He's been a best selling author for many years, but it's only recently that he's entered into the comic book world. His Vertigo book. Testament, examines a near future in which a band of renegades have teamed up to combat threats to freedom.**
