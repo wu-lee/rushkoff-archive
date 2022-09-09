@@ -37,15 +37,7 @@ The format of this book is alive with visuals and packed with persuasive languag
 
 It's fun and useful to identify the enemy, see his techniques, and then disable them. It's not useful, however, to become so obsessed with the "theys" out there that we lose sight of our own participation in the game. There is no they without us, and the more we glamorize and obsess on their techniques, the less able we feel to get beyond them.
 
-So please enjoy the style and tone of this volume for what it is: a
-
-way to make some of the scariest things about our propagandistic
-
-landscape have a bit less hold over us. It's a kind of ghost story,
-
-really. Yes, it's scary - so is the idea of a "they" - but the enemies
-
-here are just spirits, and only as real as we allow them to be.
+So please enjoy the style and tone of this volume for what it is: a way to make some of the scariest things about our propagandistic landscape have a bit less hold over us. It's a kind of ghost story, really. Yes, it's scary - so is the idea of a "they" - but the enemies here are just spirits, and only as real as we allow them to be.
 
 \--Douglas Rushkoff
 
