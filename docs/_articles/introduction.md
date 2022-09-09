@@ -23,4 +23,20 @@ That's why I took a few steps back, and wrote _Coercion_. Here was my exploratio
 
 Take a simple technique like inducing "regression and transference." All this means is making a person feel small, like a child, and then stepping in as that person's new parent figure. A salesman might do this to a new car buyer, by using technical terms the buyer doesn't understand; a cop might do it to someone he is interrogating; a commercial might do it by intimidating the viewer before introducing the nice gray-haired announcer; the stock market guru might do it right on CNBC. By recognizing the underlying techniques, we stand a much better chance of resisting or, better, defusing them.
 
-The real point of _Coercion_ was to show people how influence techniques depend - to some extent - on our participation. The final joke, really, is that _we_ are "they," and "they" are powerless without us. We confer respect on our authority figures whether they've earned it or not. We submit to their techniques because we feel ashamed, powerless, at their mercy, or guilty about our own desires. Like any confidence man, the coercer can only
+The real point of _Coercion_ was to show people how influence techniques depend - to some extent - on our participation. The final joke, really, is that _we_ are "they," and "they" are powerless without us. We confer respect on our authority figures whether they've earned it or not. We submit to their techniques because we feel ashamed, powerless, at their mercy, or guilty about our own desires. Like any confidence man, the coercer can only exploit a weakness that we refuse to confront directly, ourselves. And that weakness is that while we complain about the way others coerce us, very often - whether at work or church - it is we who are using those very same techniques to coerce someone else.
+
+_Coercion_ met with a lot of acclaim - especially from people outside the marketing world. Emails came in from teachers senators, artists, and consumer advocates. They all wanted to use the text - or some part of it - in their education programs, anthologies, documentaries or white papers. And pretty much everyone wanted me to create a companion manual to the book - a visual, practical guide to identifying psychological manipulation in our world, and learning to break its hold over us.
+
+Luckily for my own already overbooked life, a brilliant and energetic writer named Martin Howard pinged me about five years ago to ask if I was planning to write a _Coercion_ companion - some kind of workbook that pulled out the most useable ideas from the text and made them even more accessible to and actionable by the modern reader. This way, even a non-reader (and that's most of us, these days) would be able to get the gist of these ideas - and even those who do read would get a more user-friendly presentation of this material, complete with some new case studies and high-impact, easily remembered visuals.
+
+But let me also, dear reader, give you a quick disclaimer. I began
+
+the book Coercion with an extended introduction that
+
+demonstrated a bunch of different rhetorical techniques. I wanted
+
+to show from the outset that books, too, are influential in their
+
+own way. We can't help but use influence techniques, to some
+
+extent, whenever we communicate with one another. We wouldn't
