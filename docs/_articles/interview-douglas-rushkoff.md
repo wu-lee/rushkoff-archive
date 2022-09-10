@@ -75,6 +75,70 @@ Yes and no. I think it's coming back though.
 
 Yeah, I think people do want to belong. You know, Meetup.com is still growing, even if it's not making money like Facebook. I think they do want to gather. I do feel like this in-the-phone kind of time is falling away. I just wrote a piece for CNN--you'd like this one--"iPhone is not your savior." We're looking at it like it's going to save the economy and save our world, and it's like: "Enough! It's a fucking phone. Get over it. It's not the everything."
 
- to believe. Is that a good tendency to promote, or is there some value in really maintaining, “This is what It's interesting because our last savior at least came in the tradition or the Torah says, and you have to human form. stick to that?" 
+It's interesting because our last savior at least came in human form.
 
-But people seem to be able to navigate multiple Well the question then becomes: who's saying what the groups that they want to belong to. On a religious Torah says? Everybody who reads it is going to get level, they may even be different religious something different. As long as you've got 10 people or communities that you feel like you belong to, and more together, that's, in theory, enough to keep any one that's totally fine. of them from going totally insane. When you don't have the group of 10, you know, a minion to engage with in It's also because--especially if you're like me--you your Torah, you end up sitting up in your attic waiting for don't want to belong to any of them because it feels the Isaac Lurian Kaballistic savior to come. Once you like some diminishment of your personal relationship start studying alone, you're studying alone. I believe it's to reality. It's, like, theirs. Although I'm a little weird. the responsibility of every community to engage with the l've started things and then left ... I can't even bring sacred texts themselves and to negotiate their myself to be a member of the thing I started. I don't understanding of halakah or Sharia or whatever it is that know if that's typical. I think it's not. There really is
+**But people seem to be able to navigate multiple groups that they want to belong to. On a religious level, they may even be different religious communities that you feel like you belong to, and that's totally fine.**
+
+It's also because--especially if you're like me--you don't want to belong to any of them because it feels like some diminishment of your personal relationship to reality. It's, like, theirs. Although I'm a little weird. l've started things and then left... I can't even bring myself to be a member of the thing I started. I don't know if that's typical. I think it's not. There really is more of a sense that if people find a group of people who are very much like them, it doesn't make them feel conformist. In some ways, only by finding a group of people who are exactly like you can you find people who recognize what makes you special, what makes you different. So only with a group of fellow lapsed progressive cyber-Jews can find others who understand what really distinguishes me from all the other ones like me. 
+
+**And you can find that group of people, right? There's lots of tools for you to make those connections.** 
+
+mark "none" when it comes to religious affiliation, 
+
+but who still will say they believe in God and have Right. If I wanted to pursue my Judaism as some kind religious beliefs... of organizing matrix. Now I only really want to pursue my Judaism to the extent that I want my daughter to be Better than Dawkins people. The thing is, I object to programmed with some of its ethos. 
+
+Judaism being called a religion. I believe Judaism that 
+
+was created as an anti-religion. It was for the recovering You do want that is what you're saying. 
+
+cult members of the death cults of ancient of ancient 
+
+Egypt. So you bring them out to the desert and say, Although I have mixed feelings about that too. 
+
+“Look, look look: don't have a religion. You're going to write you own laws. You're going to develop your own code of ethics. You're going to do all this. It's going to 
+
+be guided by this sort of unknowable God, but the way So much is wrong. 
+
+you know that God is there is if you gather together for 
+
+this purpose, then God is there. Period. Get over it. You know, I have a four year-old daughter as well, That's non-religious to me, and it is spiritual .. and I'm a pastor in a religious community, and I have this critical stance on some of the stuff as I understand what people are going for, but at the same well. You know, the Abraham sacrificing Isaac time . . . what they miss out on is the special place o story, do we want to get that one when she's four? humans in the scheme. The role of religion, if you will, What's the right age to tell that story? 
+
+or certainly of appropriate spirituality in human anfalls is 
+
+to help people understand that they are not gods but Right. Or was it written for the four year-old? And if it they were created in God's image. And whe is, then what's that for? What's circumcision for? Is it difference between those things? And it's really nici just so the kid knows your dad could have cut it off? He a culture where people are being told, “You'r could have killed you. He could have killed you entirely. You have God in you." And just so you know, what's the place you would have protected most of all? Right, buddy. You know what I People are not theological by nature, intellectually mean? He just left his little mark there. Yeah, it's dark theological by nature. And very few have really gotten it, stuff. 
+
+you know Maimonides or Thomas Aquinas. Look at the few thinkers over history who kind have gotten it. And
+
+more of a sense that if people find a group of people And then because it's so metaphorical it's like, "What who are very much like them, it doesn't make them feel We all came from Adam and Eve?" And it's like. "Well conformist. In some ways, only by finding a group of maybe. I don't know. Well, kind of. Who knows? I don't people who are exactly like you can you find people know." You know? who recognize what makes you special, what makes you different. So only with a group of fellow lapsed Yeah. So people will take those stories and they'll progressive cyber-Jews can find others who 
+
+say ... in these surveys about religious beliefs. understand what really distinguishes me from all the they're "spiritual” but not "religious.” This is a thing other ones like me. 
+
+that a lot of people in churches wring their hands 
+
+over. “I'm spiritual but I'm not religious.” More And you can find that group of people, right? people say that now than ever before. Somebody There's lots of tools for you to make those came up with the term the “nones,” people who connections. 
+
+mark "none" when it comes to religious affiliation, 
+
+but who still will say they believe in God and have Right. If I wanted to pursue my Judaism as some kind religious beliefs... of organizing matrix. Now I only really want to pursue my Judaism to the extent that I want my daughter to be Better than Dawkins people. The thing is, I object to programmed with some of its ethos. 
+
+Judaism being called a religion. I believe Judaism that 
+
+was created as an anti-religion. It was for the recovering You do want that is what you're saying. 
+
+cult members of the death cults of ancient of ancient 
+
+Egypt. So you bring them out to the desert and say, Although I have mixed feelings about that too. 
+
+“Look, look look: don't have a religion. You're going to write you own laws. You're going to develop your own code of ethics. You're going to do all this. It's going to 
+
+be guided by this sort of unknowable God, but the way So much is wrong. 
+
+you know that God is there is if you gather together for 
+
+this purpose, then God is there. Period. Get over it. You know, I have a four year-old daughter as well, That's non-religious to me, and it is spiritual .. and I'm a pastor in a religious community, and I have this critical stance on some of the stuff as I understand what people are going for, but at the same well. You know, the Abraham sacrificing Isaac time . . . what they miss out on is the special place o story, do we want to get that one when she's four? humans in the scheme. The role of religion, if you will, What's the right age to tell that story? 
+
+or certainly of appropriate spirituality in human anfalls is 
+
+to help people understand that they are not gods but Right. Or was it written for the four year-old? And if it they were created in God's image. And whe is, then what's that for? What's circumcision for? Is it difference between those things? And it's really nici just so the kid knows your dad could have cut it off? He a culture where people are being told, “You'r could have killed you. He could have killed you entirely. You have God in you." And just so you know, what's the place you would have protected most of all? Right, buddy. You know what I People are not theological by nature, intellectually mean? He just left his little mark there. Yeah, it's dark theological by nature. And very few have really gotten it, stuff. 
+
+you know Maimonides or Thomas Aquinas. Look at the few thinkers over history who kind have gotten it. And
