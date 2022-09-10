@@ -101,26 +101,28 @@ And then because it's so metaphorical it's like, "What? We all came from Adam an
 
 **Yeah. So people will take those stories and they'll say... in these surveys about religious beliefs, they're "spiritual” but not "religious.” This is a thing that a lot of people in churches wring their hands over. “I'm spiritual but I'm not religious.” More people say that now than ever before. Somebody came up with the term the “nones,” people who mark "none" when it comes to religious affiliation, but who still will say they believe in God and have religious beliefs...**
 
- of organizing matrix. Now I only really want to pursue my Judaism to the extent that I want my daughter to be Better than Dawkins people. The thing is, I object to programmed with some of its ethos. 
+Better than Dawkins people. The thing is, I object to Judaism being called a religion. I believe Judaism that was created as an anti-religion. It was for the recovering cult members of the death cults of ancient of ancient Egypt. So you bring them out to the desert and say, “Look, look look: don't have a religion. You're going to write you own laws. You're going to develop your own code of ethics. You're going to do all this. It's going to be guided by this sort of unknowable God, but the way you know that God is there is if you gather together for this purpose, then God is there. Period. Get over it. That's non-religious to me, and it is spiritual...
 
-Judaism being called a religion. I believe Judaism that 
+I understand what people are going for, but at the same time... what they miss out on is the special place of humans in the scheme. The role of religion, if you will, or certainly of appropriate spirituality in human affairs is to help people understand that they are not gods but they were created in God's image. And what's the difference between those things? And it's really tricky in a culture where people are being told, “You're the one. You have God in you."
 
-was created as an anti-religion. It was for the recovering You do want that is what you're saying. 
+People are not theological by nature, intellectually theological by nature. And very few have really gotten it, you know Maimonides or Thomas Aquinas. Look at the few thinkers over history who kind have gotten it. And then it's like, what do you do with all these people?
 
-cult members of the death cults of ancient of ancient 
+ So it isn't just an anti-technology message. It's just 
 
-Egypt. So you bring them out to the desert and say, Although I have mixed feelings about that too. 
+that the technology is so present in our lives that it's an Can you say one thing that somebody who reads easy metaphor for it .. this interview, who's going to go out tomorrow and do one thing that's going to try to help them be Okay. That's very clear and very simple. more present and live in the now that they're not already doing--what's one thing they can do? 
 
-“Look, look look: don't have a religion. You're going to write you own laws. You're going to develop your own code of ethics. You're going to do all this. It's going to 
+You know, it's manna. You read the story about the 
 
-be guided by this sort of unknowable God, but the way So much is wrong. 
+manna from heaven. Spend one day eating food that It depends on the person. A really simple one is ... has no preservatives in it whatsoever. Just as a when you get home--if you work--when you get home, practice and see where they takes you. Or try to. And use no electronic media until you go to sleep. When you see how hard that day is. And then think about “Why is get home don't answer an email, don't check your that so hard?" And think of bigger systems that are Twitter feed, turn off the cell phone. Once. Once. Just as making that difficult ... these are rewards. Imagine a practice do it once, and just experience that. 
 
-you know that God is there is if you gather together for 
+getting to eat preservative-free food for a month. You know how healthy you'd feel? God. (P)
 
-this purpose, then God is there. Period. Get over it. You know, I have a four year-old daughter as well, That's non-religious to me, and it is spiritual .. and I'm a pastor in a religious community, and I have this critical stance on some of the stuff as I understand what people are going for, but at the same well. You know, the Abraham sacrificing Isaac time . . . what they miss out on is the special place o story, do we want to get that one when she's four? humans in the scheme. The role of religion, if you will, What's the right age to tell that story? 
+then it's like, what do you do with all these people? So it isn't just an anti-technology message. It's just 
 
-or certainly of appropriate spirituality in human anfalls is 
+that the technology is so present in our lives that it's an Can you say one thing that somebody who reads easy metaphor for it .. this interview, who's going to go out tomorrow and do one thing that's going to try to help them be Okay. That's very clear and very simple. more present and live in the now that they're not already doing--what's one thing they can do? 
 
-to help people understand that they are not gods but Right. Or was it written for the four year-old? And if it they were created in God's image. And whe is, then what's that for? What's circumcision for? Is it difference between those things? And it's really nici just so the kid knows your dad could have cut it off? He a culture where people are being told, “You'r could have killed you. He could have killed you entirely. You have God in you." And just so you know, what's the place you would have protected most of all? Right, buddy. You know what I People are not theological by nature, intellectually mean? He just left his little mark there. Yeah, it's dark theological by nature. And very few have really gotten it, stuff. 
+You know, it's manna. You read the story about the 
 
-you know Maimonides or Thomas Aquinas. Look at the few thinkers over history who kind have gotten it. And
+manna from heaven. Spend one day eating food that It depends on the person. A really simple one is ... has no preservatives in it whatsoever. Just as a when you get home--if you work--when you get home, practice and see where they takes you. Or try to. And use no electronic media until you go to sleep. When you see how hard that day is. And then think about “Why is get home don't answer an email, don't check your that so hard?" And think of bigger systems that are Twitter feed, turn off the cell phone. Once. Once. Just as making that difficult ... these are rewards. Imagine a practice do it once, and just experience that. 
+
+getting to eat preservative-free food for a month. You know how healthy you'd feel? God. (P)
