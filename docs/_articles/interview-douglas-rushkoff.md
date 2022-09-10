@@ -59,13 +59,9 @@ The whole problem for anybody in the church business is that we've moved from a 
 
 Well there's only one way to find out. Just see if they take you up on it. I think that the beauty of church over time has been its willingness to go where people are. I mean, they read Torah on market days. I remember there was a whole debate about that, that it's some kind of blasphemy, but, you know, guys like Ezra and Nehemiah were out there going, "Fuck this. People are there on Tuesdays and Thursdays. That's when we're gonna read this thing. And they don't know how to read." You're going to have to go where they are. The church, then, has to be as selfless as we're asking people to be. 
 
-movement, and people belong--"Well, I kind of belong 
+I was talking to a major Jewish philanthropist, I mean one of the top three, and he was talking about what he wants and what he wants to do with his money, and I said, "Look, if everybody in the world did Judaism, everybody - they all kept sabbath, they did the high holidays, they followed all the 613 mitzvas, but nobody knew it was called 'Judaism' - would you be okay with that? Would you feel you had accomplished something?" Well, no! That would be awful. Well, there's nothing we can talk about then. People have to know this is called “Judaism" or he hasn't done his job. 
 
-60 percent to this one and 30 percent to that one and I I was talking to a major Jewish philanthropist, I mean visit that little group'--you end up getting a kind of 
-
-king about what he unification, it's just not centrally dictated. You do get a wants and what he wants to do with his money, and I kind of emergent organization. said, "Look, if everybody in the world did Judaism, everybody - they all kept sabbath, they did the high But the concept of belonging seems to be not as holidays, they followed all the 613 mitzvas, but nobody important anymore. knew it was called 'Judaism' - would you be okay with that? Would you feel you had accomplished Yes and no. I think it's coming back though. something?" Well, no! That would be awful. Well, there's nothing we can talk about then. People have to know You do? this is called “Judaism" or he hasn't done his job. 
-
-Yeah, I think people do want to belong. You know, Credit is really the operative word here; you can't take Meetup.com is still growing, even if it's not making credit for it. It's just going to happen. The problem is if money like Facebook. I think they do want to gather. I you're not getting any credit for it, who's going to keep do feel like this in-the-phone kind of time is falling you alive for doing it. It gets really tricky. 
+Credit is really the operative word here; you can't take credit for it. It's just going to happen. The problem is if you're not getting any credit for it, who's going to keep you alive for doing it. It gets really tricky. 
 
 away. I just wrote a piece for CNN--you'd like this 
 
