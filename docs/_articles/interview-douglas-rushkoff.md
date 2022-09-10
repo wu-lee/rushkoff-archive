@@ -51,19 +51,11 @@ It's a psychological problem. It's also a problem of living in a culture that's 
 
 **I'm wondering if you see particular communities that are better about this "living in the now" than the general population.**
 
-I don't know about communities. I haven't really 
+I don't know about communities. I haven't really thought it about it that way. It's much easier to find communities who aren't, right? Like the apocalypse people, buying MREs and digging holes in the ground. Yeah, the new currency people, the people who are developing alternative currencies because those are always based in transaction and not in savings. They don't have a way to accrue value over time. You try to keep your balance near zero in an alternative trading system. There's a lot of individuals I could point to: any older person who, rather than spending time saving money for their retirement, they spend their time helping take care of their grandkids, it's because they understand that they're going to have a community that takes care of them when their time comes. When you invest your time and energy into other people, rather than into these abstract instruments, whatever they are, you end up being present-focused.
 
-thought it about it that way. It's much easier to find This narrative that you began talking about, about a communities who aren't, right? Like the apocalyr journey and the individual experience, for a long people, buying MREs and digging holes in the ground time people in churches have really criticized that Yeah, the new currency people, the people who are and said, “You can't just do that. You have to be in developing alternative currencies because those are a particular community that meets at particular always based in transaction and not in savings. They times. That's the Religious aspect of the don't have a way to accrue value over time. You try to experience.” Do you think that needs to be keep your balance near zero in an alternative trading recovered in some way? 
+The whole problem for anybody in the church business is that we've moved from a kind of centripetal culture to a centrifugal one, a one where central institutions, guiding lights, used to attract us and now they repel us. In the best of cases, your object is to create a series of prime tones that other people would resonate with in their own little groups or for them to feel about what they're doing with you as a little group in itself.
 
-system. There's a lot of individuals I could point to: any 
-
-older person who, rather than spending time saving It's gonna be hard. I mean, my old high school friend money for their retirement, they spend their time Aaron Sorkin is the last of the great story tellers, but helping take care of their grandkids, it's because they when I look at his latest and greatest newest shows, understand that they're going to have a community that “Newsroom” or something, it's nostalgia. It's nostalgia takes care of them when their time comes. When you for an era when those things make sense, where that invest your time and energy into other people, rather emotional arc makes sense. Life so does not work like than into these abstract instruments, whatever they that. So I would say, "No." If anything, we move into a are, you end up being present-focused. kind of meta-appreciation of these kinds of stories. 
-
-The whole problem for anybody in the church business What are the kinds of experiences that you see is that we've moved from a kind of centripetal culture to people reaching out for and trying to have? 
-
-a centrifugal one, a one where central institutions, 
-
-guiding lights, used to attract us and now they repel us. It depends on the people. People are mostly flailing in the best of cases, your object is to create a series of around now, looking at everything but one another for a prime tones that other people would resonate with in sense of connection. So they're looking to websites and their own little groups or for them to feel about wh tweets and all this crap, all this electronic stuff. They're they're doing with you as a little group in itself. desperately trying to catch up with what they think is the moment, because they don't have any sense that What if we imagined the local religious community they are is where it's at. 
+desperately trying to catch up with what they think is the moment, because they don't have any sense that What if we imagined the local religious community they are is where it's at. 
 
 as a platform on which individuals and groups or 
 
