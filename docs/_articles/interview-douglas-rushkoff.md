@@ -45,21 +45,11 @@ It's gonna be hard. I mean, my old high school friend Aaron Sorkin is the last o
 
 It depends on the people. People are mostly flailing around now, looking at everything but one another for a sense of connection. So they're looking to websites and tweets and all this crap, all this electronic stuff. They're desperately trying to catch up with what they think is the moment, because they don't have any sense that they are is where it's at. 
 
-as a platform on which individuals and groups or 
+**Is that a psychological problem?**
 
-people who want to do good work and who are Is that a psychological problem? 
+It's a psychological problem. It's also a problem of living in a culture that's been based on getting people to feel inadequate so they buy more stuff. What if people actually felt good about themselves? The economy would crash. 
 
-already doing good work could do it better? Does 
-
-that sound like a cop-out? It's a psychological problem. It's also a problem of living in a culture that's been based on getting people to feel Well there's only one way to find out. Just 
-
-nly one way to find out. Just see if they inadequate so they buy more stuff. What if people take you up on it. I think that the beauty of cl actually felt good about themselves? The economy time has been its willingness to go where people would crash. 
-
-mean, they read Torah on market days. I remen 
-
-there was a whole debate about that, that is kind of blasphemy, but, you know, guys like Ez
-
-investments, you know, from investing in a company I'm wondering if you see particular com that's going to do well over time to investing in a that are better about this "living in the non derivative that's going to do well in the moment, you the general population. know, in the second. Some of these are very false hopes and some of them are hopes that might work. 
+**I'm wondering if you see particular communities that are better about this "living in the now" than the general population.**
 
 I don't know about communities. I haven't really 
 
