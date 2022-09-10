@@ -107,19 +107,13 @@ I understand what people are going for, but at the same time... what they miss o
 
 People are not theological by nature, intellectually theological by nature. And very few have really gotten it, you know Maimonides or Thomas Aquinas. Look at the few thinkers over history who kind have gotten it. And then it's like, what do you do with all these people?
 
- So it isn't just an anti-technology message. It's just 
+**Can you say one thing that somebody who reads this interview, who's going to go out tomorrow and do one thing that's going to try to help them be more present and live in the now that they're not already doing--what's one thing they can do?** 
 
-that the technology is so present in our lives that it's an Can you say one thing that somebody who reads easy metaphor for it .. this interview, who's going to go out tomorrow and do one thing that's going to try to help them be Okay. That's very clear and very simple. more present and live in the now that they're not already doing--what's one thing they can do? 
+It depends on the person. A really simple one is... when you get home--if you work--when you get home, use no electronic media until you go to sleep. When you get home don't answer an email, don't check your Twitter feed, turn off the cell phone. Once. Once. Just as a practice do it once, and just experience that. 
 
-You know, it's manna. You read the story about the 
+So it isn't just an anti-technology message. It's just that the technology is so present in our lives that it's an easy metaphor for it...
 
-manna from heaven. Spend one day eating food that It depends on the person. A really simple one is ... has no preservatives in it whatsoever. Just as a when you get home--if you work--when you get home, practice and see where they takes you. Or try to. And use no electronic media until you go to sleep. When you see how hard that day is. And then think about “Why is get home don't answer an email, don't check your that so hard?" And think of bigger systems that are Twitter feed, turn off the cell phone. Once. Once. Just as making that difficult ... these are rewards. Imagine a practice do it once, and just experience that. 
-
-getting to eat preservative-free food for a month. You know how healthy you'd feel? God. (P)
-
-then it's like, what do you do with all these people? So it isn't just an anti-technology message. It's just 
-
-that the technology is so present in our lives that it's an Can you say one thing that somebody who reads easy metaphor for it .. this interview, who's going to go out tomorrow and do one thing that's going to try to help them be Okay. That's very clear and very simple. more present and live in the now that they're not already doing--what's one thing they can do? 
+ .. this interview, who's going to go out tomorrow and do one thing that's going to try to help them be Okay. That's very clear and very simple. more present and live in the now that they're not already doing--what's one thing they can do? 
 
 You know, it's manna. You read the story about the 
 
