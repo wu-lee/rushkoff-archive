@@ -33,129 +33,61 @@ Im Web fanden sich nach wie vor einige Unternehmen, doch der grösste Anteil der
 
 Worin sich all diese Social-Networking-Unternehmen immer noch irren, ist, dass das Netz kein soziales Medium wird. Es ist bereits eines. Das Internet kann wahrscheinlicht am besten als soziales Medium begriffen werden, das wiederholt alle Versuche abgewehrt hat, sich in etwas anderes verwandeln zu lassen. Und das wird es weiterhim tun. Unsere digitalen Netzwerke sind auf soziale Verbindungen und menschliche Kontakte ausgerichtet. Jeder Versuch, diese Verbindungen neu zu definieren oder für Profitwecke zu missbrauchen, gefahrdet die Integrität des Nettwerks und den wahren Nutzen menschlicher Kontakte.
 
-wrnf.. Es; isr °:\~ fu.t:<tt=:\~ -...-;u_\~ \~
+Menschen nehmen sehr wohl wahr, wenn ein soziales Netzwerk in Wirklichkeit einen anderen Zweck verfolgt. Scheinbar beständige Social-Networking-Monopolisten verlieren ihre Anhänger schneller, als sie sie gewonmen baben. Wenn ein Netzwerk untergeht, wechseln die Anwender zum nächsten, bauen ihre Kommunikationsnetze neu auf und knüpfen weiterhin Kontakte. Ja, jeder kommerzielle Social-Networking-Anbieter - egal, wie beständig er auch scheint - wird am Ende den Weg seiner Vorgänger gehen. Die Marktführer scheinen momentan beständig zu sein, doch eines Tages hat man sie genauso schnell vergessen, wie sie einst die Schlagzeilen beherrschten. Erinnern Sie sich noch an Compuserve? Oder America Online? Oder Myspace? Die soziale Ausrichtung wird oft missverstanden, und den Internetbenutzern wird zu Unrecht Angst oder Selbstsucht vorgeworfen.
 
-= fuesr= afs, \~-&:::.. W;
+Die Wut, die Menschen über die sich ständig wechselnden Richtlinien von Social-Networking-Anbietern empfinden, hat weniger zu tun mit dem Eingriff in ihre Privatsphäre als damit, dass es ihnen missfällt, dass ihre Freunde kommerzialisiert werden. Die Informationen, die aus ihren Online-Aktivitäten gewonnen werden, werden für andere, nicht soziale Zwecke verwendet - und das sorgt für ein ungutes Gefühl. Man kauft und verkauft Freunde nicht.
 
-dem®'.t .ille \\-\~ \~-c cm:.. .,.,, ...._ ,_ \~- - . \~\\.U ....... \~-.......,, 4...:.\~
+**TRANSPARENZZWANG** Doch genau das ist es, was die meisten Internetunternehmen versuchen. Jedes Unternehmen jeder Grösse sucht nach einer «sozialen Strategie», um seine Marke bekannter zu machen. Jedes Unternehmen möchte sein eigenes soziales Kundennetzwerk aufbauen - oder Seiten in bestehenden sozialen Netzwerken erstellen und «Freunde», «Fans» oder «Gleichgesinnte» aus den Millionen potenzieller Nutzer gewinnen. Das ist so, als würde eine E-Mail-Liste mit Kontakten Leben in die Marken hauchen, die ohnehin durch die Dekonstruktion und Transparenz des Internets dezimiert sind.
 
-\~.idn m.r. h...\~ l"i::d cfu.s, ""'tro wcit-d::.!::: ___ __ - ... --,:::- = N\~e sic.<li ,tt\~f :,@<zi.tle \\ b:J:.c,-;..._ - '--\~\~
+Was Unternehmen jedoch nicht realisieren, ist, dass es zu
 
-l:l!IId rn=dnlicfte Klm:aftte a.\~\~\~- ,\~1⁄4- \\"s::..\~
+spat ist, sozial zu werden. Jedes Unternehmen ist bereits sozi-
 
-mese \\Terl,\~ tret!! .m d\~ "'-'-\~ R_:r- \~ic.:::w\~-
+al. Transparenz stellt im Internetzeitalter nicht !anger eine
 
-&zro, missfurllu.d:ten..,\~\~\~ i l!.\~ct:ih .fus S \~.:,,,.\~
+Option for Unternehmen dar- sie ist eine Tatsache. Wo Men-
 
-and ien i...-.rh.reai Ntmlm! men..\~\~ K(c)C\~Cl!'-
+schen sind, wird es Gesprache geben. Diese Gesprache linden
 
-Mensdren nebim.emi s.efu ._oh.I "'\~- \~c:i ac: \~6t'.:.\~
+bereits statt, mit oder ohne die lnternetseiten oder Verteiler-
 
-Netn-1!:d m \\\\:\~n .m .... l:"'\~ \~\~1⁄4:,
+listen eines Unternehmens. Die Wahrheit dartiber, was sie tun
 
-Sc.hemha.. bes-tt-<inmge- \~ Kcl'-'Tu-1⁄2i\~ "'-\\k> .. , ,\~,>lt,,..\~\~
+und wie gut sie es tun, ist bereits Gesprachsthema.
 
-ilire \~-dlk ,i.,., \~,-oo_\~ \~-
+AUSTAUSCHFORDERUNG Der wahre Weg, «sozial zu werden»,
 
-hen.. \\
+wenn sie es denn wollten, besttinde nicht darin, noch mehr
 
-1
+Freunde oder Anhanger zu sammeln, sondern darin, deren
 
-{eru!! em Nett\~ un.\~--d.E, \~'<dn, \~ -\\ Q.-.tt_.,__\~
+Freunde und Fans dazu zu bringen, sich anzufreunden und
 
-zmn nachs;ren, li.,an= ilire Kom.mmiika\~"'1\~ ct«: J.:.::
+sich gegenseitig auszutauschen. So wird eine Kultur in einem
 
-wid k:nupren weitahm Konrakte, J<l, \~ er .. mm"'",\~\~
+vernetzten Peer-to-Peer-Medium geschaffen. Anstatt nach
 
-Sooa.1-Nen-.-umng-Anbierer - eg-.il \\Th::' \~ln,J\~ .;:.:.J:
+Wegen der Vermarktung zu suchen oder \~uf andere Art in
 
-Crash. Die meisten Menschen - zumindest die meisten Ge- sdteint - wud am Ende den W,:,g run« \\ \~:h.::r:,
+die bestehenden sozialen Verbindungen emzugre1fen, soli-
 
-scbaftsleute und Journalisten - waren sicb sicher, dass das Die M.uk:truhrer sdtcinen mmn-enran \~t'c!.nJig z,u ,-__-->ic-..,,
+d . w benetzwerke versuchen, die Verbindungen ten 1ese er . h M hen die sich noch nicht kennen, aber po- zw1sc en ensc , . II f d Suche nacheinander sind, zu fordern. Und tenz1e au er . . h d . h n ei·genen Aktivitaten zu uberlassen - und s1e sic ann I re
 
-Netz am Ende war. docb cines Tages hat man sie genau__«o \~.i:meU '"-'\~'-\~"\~ \\\\\~
+ihrem Kontaktaufbau. . G f h besteht natiirlich darin, dass die heutigen Die ea r
 
-GEB0NDELTE SOZIALE ENERGIE Die Netznutzer jedodi began-
+f
 
-nen, nun sich selbst iiberlassen, zu bloggen. Und sich zu Yer-
+.. d · Freunde»-Netzwerke lang genug tiberleben
 
-kniipfen. Und zu kommentieren. Die man.ischen Investitionen
+«Geld ur eme . .
 
-des Dotcom-Booms haben uns ein robustes Netzwerk und
+b · hungsweise immer w1eder em neues entsteht werden - ez1e . "h geblich sozialen Standards von den Anwen- - bis I re vor
 
-schnelle Verbindungen ermoglicht. Damit konnten wir nun
+' k 1
 
-machen, was wir wollten.
+·ert oder sogar verinnerlicht werden. Im Ge- dern a zep 1
 
-Im Web fanden sich nach wie Yor einige Unternehmen,
-
-<loch der grosste Anteil der Verbindungen und Gespriiche
-
-fand zwischen Privatpersonen statt. Es stellte sich heraus,
-
-class nicht der Inhalt - sondern der Kontakt das Wichtigste
-
-war. Und so entstand <las, was wir heute «soziale Medien»
-
-nennen. Clevere Unternehmen nahmen dies zur Kenntnis.
-
-AOL, Geocities, Friendster, Orkut, Myspace und Facebook
-
-haben es geschafft, all diese soziale Energie an einem einzi-
-
-gen, zentralen Ort zu biindeln, wo sie zu Geld gemacht we_r-
-
-den kann. Viele nachfolgende Investoren glaubten, dass in
-
-all diesen digitalen Verbindungen und Mitteilungen Markt-
-
-forschung betrieben, Modelle entwickelt oder andere Wege
-
-gefunden werden konnten, um aus den Kontakten der Men-
-
-schen Geld zu machen.
-
-Worin sich all diese Social-Networking-Unternehr:nen
-
-immer noch irren, ist, dass das Netz kein soziales Medium
-
-34
-
-sie einst die Sdtlagzcilen beher:rschren, .E.rinn,:m S.ie ;.id,
-
-noch an Compuserve?' Oder Amer-irn Onlind OJ\~r \~t,·-
-
-space? Die so,rrd..!e Aus.richtung des Mediums lcl\\m \~ Edi-.,
-
-kommerzielle Nutzung ah, Di\~---e- grundlegend-.' Au;.rid,-
-
-tung " ird oft miss.Yersmnden, und de.n lotern<c'tl't:;1mn,.,m
-
-win:! zu Unredit Angst oder Sel\~tsuc:ht \\"Qt).."eworl\\:'n,
-
-Die Wut, die Menschen uber die sich st<l;dig W\\.'\\:fo.dn-
-
-den Richtlinien ,-on Socia.l-Network.ing-Anbietern empti n-
-
-den, hat weniger zu tun mit d .. Ei' 'ff" . .h n... · , \~u flgrt Ill I fl:.' n l\\,h-
-
-sphiire als damit, dass, es ihne.n missfullt, class ihrt." .F1<.•un,k
-
-Social-Networking-Anbieter, die
-
-aus unseren Oaten Profit schlagen
-
-wollen, werden uns verlieren.
-
-kommerzialisiert we.rd.en. Die Info . . . - .. rmat,onen, die :rns ihn.:.11 Onhne-Aktn'ltaten gewonnen \\\\'e.fd·
-
-en, \\verden fu · d •r , nic.ht soziale Zwec.ke verwendet _ u d d _ r nn < \~-
-
-·· ht k n as sorgt fur ein un- gutes Gefu . !Vian ·auft und verkauft F . reunde me.ht.
-
-TRANSPARENZZWANG Doch genau das · ·t
-
-is es, Wa s d' . \[nternetunternehmen versuchen. Jede U 1e n1e1stc'll s nter h . ne lllen Jeder
+Uns die immer noch an dem Ideal echter spon-
 
 \--
 
