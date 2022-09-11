@@ -69,18 +69,4 @@ Doch es ist genau dieser Kontakt, dieser Wunsch, einen sozialen Organismus gemei
 
 Das ist die wahre Anziehungskraft der vielen interaktiven Gerate, die zu unserem Leben gehören. In gewissem Sinne hatten die Menschen, die das Netz als eine andere Form des CB-Funks verschrien, recht: Wir erfinden einfach immer nur neue Wege, miteinander zu kommunizieren. Angefangen vom lächerlichen Fax, mit dem die Menschen sich schlechte Witze geschickt haben, bis zu den Tweets, die wir heute per Handy übertragen bietet jede neue Kommunikationstechnologie eine neue Ausrede, um neue Kontakte zu knüpfen.
 
-a t, sondern d K k Der Ping selbst. Es ist die synapt· h . er onta t.
-
-isc e Dbe t
-
-\--
-
-ä
-
-Ö
-
-ö
-
-ü
-
-Ü
+Nicht der Inhalt ist die Botschaft, sondern der Kontakt. Der Ping selbst. Es ist die synaptische Übertragung eines Organismus, der versucht, sich selbst aufzuwecken.
