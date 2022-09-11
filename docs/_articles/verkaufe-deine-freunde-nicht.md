@@ -51,71 +51,11 @@ Viele Menschen - und nicht nur junge Leute - sind bereits nicht mehr in der Lage
 
 Social-Networking-Seiten sind vollgestopft mit Funktionen, Spielen und Aktivitäten, die einen unwiderstehlichen Reiz haben und letztlich den Betreibern des Netzwerks mehr Nutzen bringen als seinen Mitgliedern.
 
-Eine bestimmte Handlung in einem Spiel verwandelt
+Eine bestimmte Handlung in einem Spiel verwandelt (in der Regel unbemerkt) das gesamte persönliche Netzwerk in eine Spamverteilerliste - und verkauft so die Freunde und die Freunde der Freunde an die wahren Adressaten des Spiels: Marktforschungs- und Werbeagenturen. Statt Geld bekommt der Spieler Spielerpunkte, neue Fähigkeiten oder im Spiel integrierte Schätze für jede weitere Ausbeutung seines sozialen Netzwerks. Fühlt sich das wie Bestechung an?
 
-·· 1·che Netz- (in der Regel unbemerkt) das gesamte person 1
+Nicht wirklich. Das sind nur die Spielregeln. Sobald die ersten sozialen Hemmschwellen gefallen sind, fühlt sich der Spieleinsatz sowieso echter an als die Gefahr, dass einige «Freunde» auf der Social-Networking-Site beleidigt werden könnten. Das sind sowieso keine echten Freunde. Sie sind einfach nur Futter für das Spiel.
 
-werk in eine Spamverteilerliste - und verkauft so die Freun-
-
-de und die Freunde der Freunde an die wahren Adressaten
-
-des Spiels: Marktforschungs- und Werbeagenturen. Statt
-
-Geld bekommt der Spieler Spielerpunkte, neue Fahigkeiten
-
-Kontakte sind nicht deswegen
-
-wertvoll, weil sie eines Tages
-
-eventuell nutzlich werden konnten.
-
-oder im Spiel integrierte Schatze for jede weitere Ausbeu-
-
-tung seines sozialen Netzwerks. Fiihlt sich das wie Beste-
-
-chung an?
-
-Nicht wirklich. Das sind nur die Spielregeln. Sobald die
-
-ersten sozialen Hemmschwellen gefallen sind, fohlt sich der
-
-Spieleinsatz sowieso echter an als die Gefahr, class einige
-
-«Freunde» auf der Social-Networking-Site beleidigt werden
-
-konnten. Das sind sowieso keine echten Freunde. Sie sind
-
-einfach nur Futter for das Spiel.
-
-FREUNDSCHAFTS-WERTSCH0PFUNG Traurigerweise jedoch wa-
-
-ren dies die echten Freunde. Ob sie nun online oder in der
-
-echten Welt gekniipft wurden, stellen diese virtuellen Verbin-
-
-dungen eine Verlangerung unserer sozialen Wirklichkeit dar.
-
-Dies sind die Menschen, die uns helfen, den richtigen Arzt zu
-
-linden, wenn wir krank sind, die uns unterstiitzen, wenn wir
-
-arbeitslos sind, die uns trosten, wenn wir einen geliebten Men-
-
-schen verloren haben. Sie sind diejenigen, die uns auf Reisen
-
-ein Bett zum Sch la fen vermitteln, die uns eine Party empfeh-
-
-len, wo wir samstagabends hingehen konnen, oder die uns
-
-wertvolle Tipps fiir eine diszipliniibergreifende Forschungs-
-
-arbeit geben. Letztendlich jedoch sind diese Kontakte nicht
-
-deswegen wertvoll, weil sie uns eines Tages eventuell niitzlich
-
-sein konnten, sondern allein dadurch, <lass sie iiberhaupt vor-
-
-handen sind.
+**FREUNDSCHAFTS-WERTSCHÖPFUNG** Traurigerweise jedoch waren dies die echten Freunde. Ob sie nun online oder in der echten Welt geknüpft wurden, stellen diese virtuellen Verbindungen eine Verlängerung unserer sozialen Wirklichkeit dar. Dies sind die Menschen, die uns helfen, den richtigen Arzt zu finden, wenn wir krank sind, die uns unterstützen, wenn wir arbeitslos sind, die uns trösten, wenn wir einen geliebten Menschen verloren haben. Sie sind diejenigen, die uns auf Reisen ein Bett zum Schlafen vermitteln, die uns eine Party empfehlen, wo wir samstagabends hingehen können, oder die uns wertvolle Tipps für eine disziplinübergreifende Forschungsarbeit geben. Letztendlich jedoch sind diese Kontakte nicht deswegen wertvoll, weil sie uns eines Tages eventuell nützlich sein könnten, sondern allein dadurch, dass sie überhaupt vorhanden sind.
 
 Sowohl digitale als auch wahre Freundschaften schaffen
 
