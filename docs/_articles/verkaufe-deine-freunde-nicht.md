@@ -63,55 +63,11 @@ Menschen sind keine Gegenstände, die Stück fur Stück verkauft werden, sondern
 
 Nicht die Inhalte, sondern die Kontakte waren stets das Wichtigste. Und doch haben wir bisher die Möglichkeiten für neue Ebenen der menschlichen Verbundenheit und Zusammenarbeit, die uns Netzwerktechnologien bieten, kaum genutzt.
 
-TECHNISCHE AUSREDEN Wir bemerken zu langsam, <lass Men-
+**TECHNISCHE AUSREDEN** Wir bemerken zu langsam, dass Menschen keine Form von Inhalt sind - eine Ressource, die man kaufen und verkaufen kann; sie bilden mit uns die Zellen eines viel grösseren Organismus, zu dem wir alle gehören, ohne es recht zu wissen. Wir schätzen unsere vielen Kontakte dafür, was sie uns bringen könnten, und übersehen ihren eigentlichen, viel grösseren Wert.
 
-schen keine Form von Inhalt sind - eine Ressource, die man
+Doch es ist genau dieser Kontakt, dieser Wunsch, einen sozialen Organismus gemeinsam zu erschaffen, der von jeher die Antriebskraft der digitalen Technologie war. Der Wunsch nach immer mehr Kontakten ist unser evolutionärer Antrieb, dem wir folgen, um etwas Grösseres als wir selbst zu werden. So wie sich Atome zu Molekülen, Moleküle zu Zellen und Zellen zu Organismen verbinden, verknüpfen wir uns zu immer grösseren Organisationsebenen.
 
-kaufen und verkaufen kann; sie bilden mit uns die Zellen eines
-
-vie! grosseren Organismus, zu dem wir alle gehoren, ohne es
-
-recht zu wissen. Wir schatzen unsere vielen Kontakte dafiir,
-
-was sie uns bringen konnten, und iibersehen ihren eigentli-
-
-chen, vie! grosseren Wert.
-
-Doch es ist genau dieser Kontakt, dieser Wunsch, einen
-
-sozialen Organismus gemeinsam zu erschaffen, der von je-
-
-her die Antriebskraft der digitalen Technologie war. Der
-
-Wunsch nach immer mehr Kontakten ist unser evolutiona-
-
-rer Antrieb, dem wir folgen, um etwas Grosseres als wir
-
-selbst zu werden. So wie sich Atome zu Molekillen, Mole-
-
-kiile zu Zellen und Zellen zu Organismen verbinden, ver-
-
-kniipfen wir uns zu immer grosseren Organisationsebenen.
-
-Das ist die wahre Anziehungskraft der vielen interakti-
-
-ven Gerate, die zu unserem Leben gehoren. In gewissem ·
-
-Sinne hatten die Menschen, die das Netz als eine andere ·
-
-Form des CB-Funks verschrien, recht: Wir erfinden einfach .
-
-immer nur neue Wege, miteinander 2 k . . u ommumz1eren.
-
-Angefangen vom lacherlichen Fax m·t d d" . . ' 1 em 1e Menschen
-
-SICh schlechte W1tze geschickt habe b" . . n, is zu den Tweets die
-
-w1r heute per Handy iibertragen b" . ' . . . . ' ietet Jede neue Kommu-
-
-mkat10nstechnolog1e eme neue Au d sre e, um neue K t kt zu kniipfen. on a e
-
-Nicht der Inhalt ist die Botsch f
+Das ist die wahre Anziehungskraft der vielen interaktiven Gerate, die zu unserem Leben gehören. In gewissem Sinne hatten die Menschen, die das Netz als eine andere Form des CB-Funks verschrien, recht: Wir erfinden einfach immer nur neue Wege, miteinander zu kommunizieren. Angefangen vom lächerlichen Fax, mit dem die Menschen sich schlechte Witze geschickt haben, bis zu den Tweets, die wir heute per Handy übertragen bietet jede neue Kommunikationstechnologie eine neue Ausrede, um neue Kontakte zu knüpfen.
 
 a t, sondern d K k Der Ping selbst. Es ist die synapt· h . er onta t.
 
