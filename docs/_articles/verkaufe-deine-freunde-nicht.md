@@ -45,69 +45,89 @@ Was Unternehmen jedoch nicht realisieren, ist, dass es zu spät ist, sozial zu w
 
 Die Gefahr besteht natürlich darin, dass die heutigen «Geld für deine Freunde»-Netzwerke lang genug überleben werden - beziehungsweise immer wieder ein neues entsteht -, bis ihre vorgeblich sozialen Standards von den Anwendern akzeptiert oder sogar verinnerlicht werden. Im Gegensatz zu uns, die immer noch an dem Ideal echter spontaner Verbindungen zwischen Menschen festhalten, sind unsere Kinder, die als Mitglieder von Netzwerken aufwachsen, bei weitem nicht so schockiert, wenn ihr gesellschaftliches Leben von diesen Netzwerken vermarktet wird. Wenn die Online-Kontaktsuche zwangsläufig mit einer kommerziellen Ausnutzung zusammenhängt, kann sich dies zu einer neuen normativen menschlichen Verhaltensweise entwickeln.
 
-Viele Menschen - und nicht nur junge Leute - sind be-
+Viele Menschen - und nicht nur junge Leute - sind bereits nicht mehr in der Lage, zu erkennen, dass es moralisch verwerflich sein könnte, sich gegenüber seinen Online-Freunden ganz anders darzustellen. «Na und, was ist so schlimm daran, wenn ich dafür bezahlt werde, jedem in meinem Netzwerk zu erzählen, dass ich ein Fan von einer Band bin, die ich niemals in meinem Leben gehört habe?» «Das macht doch jeder.» «Caveat emptor - der Käufer trägt die Verantwortung selbst.» Das Problem besteht darin, dass diese Menschen nicht mit Käufern reden, sondern mit Freunden. Sie erleben ihr soziales Online-Netzwerk gar nicht als etwas, das sich von ihrem Privatleben abgrenzt. Es ist ein und dasselbe. Im Gegensatz zum Geschäftsmann, der im Job rücksichtslos und zu Hause liebenswürdig ist, gehen diese Menschen mit Freunden und Fremden gleichermassen rücksichtslos um. Zwar mag das konsequenter sein, zeugt aber kaum von Reife. Es ist die Ausbeutung der Chancengleichheit.
 
-reits nicht mehr in der Lage, zu erkennen, dass es moralisch
+**SELBSTAUSBEUTUNG** Derjenige, der am Ende am meisten ausgebeutet wurde, ist natürlich die Person, die von ihrem eigenen Verhalten überzeugt war. Und das ist der Grund, warum ein gewisses Bewusstsein dafür, wie spezielle Schnittstellen, Tools und Programme unser Verhalten beeinflussen, so unglaublich wichtig ist.
 
-verwerflich sein konnte, sich gegentiber seinen Online-
+Social-Networking-Seiten sind vollgestopft mit Funktionen, Spielen und Aktivitäten, die einen unwiderstehlichen Reiz haben und letztlich den Betreibern des Netzwerks mehr Nutzen bringen als seinen Mitgliedern.
 
-Freunden ganz anders darzustellen. «Na und, was ist so
+Eine bestimmte Handlung in einem Spiel verwandelt
 
-schlimm daran, wenn ich dafor bezahlt werde, jedem in
+·· 1·che Netz- (in der Regel unbemerkt) das gesamte person 1
 
-meinem Netzwerk zu erzahlen, dass ich ein Fan von einer
+werk in eine Spamverteilerliste - und verkauft so die Freun-
 
-Band bin, die ich niemals in meinem Leben gehort habe?»
+de und die Freunde der Freunde an die wahren Adressaten
 
-«Das macht <loch jeder.» «Caveat emptor - der Kaufer tragt
+des Spiels: Marktforschungs- und Werbeagenturen. Statt
 
-die Verantwortung selbst.» Das Problem besteht darin, dass
+Geld bekommt der Spieler Spielerpunkte, neue Fahigkeiten
 
-diese Menschen nicht mit Kaufern reden, sondern mit
+Kontakte sind nicht deswegen
 
-Freunden. Sie erleben ihr soziales Online-Netzwerk gar
+wertvoll, weil sie eines Tages
 
-nicht als etwas, das sich von ihrem Privatleben abgrenzt. Es
+eventuell nutzlich werden konnten.
 
-ist ein und dasselbe. Im Gegensatz zum Geschaftsmann,
+oder im Spiel integrierte Schatze for jede weitere Ausbeu-
 
-Wir miissen begreifen, wie
+tung seines sozialen Netzwerks. Fiihlt sich das wie Beste-
 
-Schnittstellen, Tools und
+chung an?
 
-Programme uns beeinflussen.
+Nicht wirklich. Das sind nur die Spielregeln. Sobald die
 
-der im Job rticksichtslos und zu Hause liebenswtirdig ist,
+ersten sozialen Hemmschwellen gefallen sind, fohlt sich der
 
-gehen diese Menschen mit Freunden und Fremden glei-
+Spieleinsatz sowieso echter an als die Gefahr, class einige
 
-chermassen rticksichtslos um. Zwar mag das konsequenter
+«Freunde» auf der Social-Networking-Site beleidigt werden
 
-sein, zeugt aber kaum von Reife. Es ist die Ausbeutung der
+konnten. Das sind sowieso keine echten Freunde. Sie sind
 
-Chancengleichheit.
+einfach nur Futter for das Spiel.
 
-SELBSTAUSBEUTUNG Derjenige, der am Ende am meisten aus-
+FREUNDSCHAFTS-WERTSCH0PFUNG Traurigerweise jedoch wa-
 
-gebeutet wurde, ist nattirlich die Person, die von ihrem eige-
+ren dies die echten Freunde. Ob sie nun online oder in der
 
-nen Verhalten tiberzeugt war. Und das ist der Grund, warum
+echten Welt gekniipft wurden, stellen diese virtuellen Verbin-
 
-ein gewisses Bewusstsein dafor, wie spezielle Schnittstellen,
+dungen eine Verlangerung unserer sozialen Wirklichkeit dar.
 
-Tools und Programme unser Verhalten beeinflussen, so un-
+Dies sind die Menschen, die uns helfen, den richtigen Arzt zu
 
-glaublich wichtig ist.
+linden, wenn wir krank sind, die uns unterstiitzen, wenn wir
 
-35
+arbeitslos sind, die uns trosten, wenn wir einen geliebten Men-
 
-Social-Networking-Seiten sind vollgestopft mit Funk-
+schen verloren haben. Sie sind diejenigen, die uns auf Reisen
 
-tionen, Spielen und Aktivitaten, die einen unwidersteh-
+ein Bett zum Sch la fen vermitteln, die uns eine Party empfeh-
 
-lichen Reiz haben und letztlich den Betreibern des Netz-
+len, wo wir samstagabends hingehen konnen, oder die uns
 
-werks mehr Nutzen bringen als seinen Mitgliedern.
+wertvolle Tipps fiir eine diszipliniibergreifende Forschungs-
+
+arbeit geben. Letztendlich jedoch sind diese Kontakte nicht
+
+deswegen wertvoll, weil sie uns eines Tages eventuell niitzlich
+
+sein konnten, sondern allein dadurch, <lass sie iiberhaupt vor-
+
+handen sind.
+
+Sowohl digitale als auch wahre Freundschaften schaffen
+
+einen Wert. Das bedeutet jedoch nicht, <lass die Menschen
+
+in unserem Leben als Bedarfsartikel zu verstehen sind, die
+
+man sammeln und zahlen kann.
+
+Menschen sind keine Gegenstande, die Stiick fur Stiick
+
+verkauft werden, sondern lebende Mitglieder eines Netz-
 
 \--
 
