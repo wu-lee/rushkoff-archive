@@ -113,10 +113,6 @@ It depends on the person. A really simple one is... when you get home--if you wo
 
 So it isn't just an anti-technology message. It's just that the technology is so present in our lives that it's an easy metaphor for it...
 
- .. this interview, who's going to go out tomorrow and do one thing that's going to try to help them be Okay. That's very clear and very simple. more present and live in the now that they're not already doing--what's one thing they can do? 
+**Okay. That's very clear and very simple.**
 
-You know, it's manna. You read the story about the 
-
-manna from heaven. Spend one day eating food that It depends on the person. A really simple one is ... has no preservatives in it whatsoever. Just as a when you get home--if you work--when you get home, practice and see where they takes you. Or try to. And use no electronic media until you go to sleep. When you see how hard that day is. And then think about “Why is get home don't answer an email, don't check your that so hard?" And think of bigger systems that are Twitter feed, turn off the cell phone. Once. Once. Just as making that difficult ... these are rewards. Imagine a practice do it once, and just experience that. 
-
-getting to eat preservative-free food for a month. You know how healthy you'd feel? God. (P)
+You know, it's manna. You read the story about the manna from heaven. Spend one day eating food that has no preservatives in it whatsoever. Just as a practice and see where they takes you. Or try to. And see how hard that day is. And then think about “Why is that so hard?" And think of bigger systems that are making that difficult... these are rewards. Imagine getting to eat preservative-free food for a month. You know how healthy you'd feel? God. (P)
