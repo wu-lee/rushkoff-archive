@@ -39,59 +39,81 @@ Die Wut, die Menschen über die sich ständig wechselnden Richtlinien von Social
 
 **TRANSPARENZZWANG** Doch genau das ist es, was die meisten Internetunternehmen versuchen. Jedes Unternehmen jeder Grösse sucht nach einer «sozialen Strategie», um seine Marke bekannter zu machen. Jedes Unternehmen möchte sein eigenes soziales Kundennetzwerk aufbauen - oder Seiten in bestehenden sozialen Netzwerken erstellen und «Freunde», «Fans» oder «Gleichgesinnte» aus den Millionen potenzieller Nutzer gewinnen. Das ist so, als würde eine E-Mail-Liste mit Kontakten Leben in die Marken hauchen, die ohnehin durch die Dekonstruktion und Transparenz des Internets dezimiert sind.
 
-Was Unternehmen jedoch nicht realisieren, ist, dass es zu
+Was Unternehmen jedoch nicht realisieren, ist, dass es zu spät ist, sozial zu werden. Jedes Unternehmen ist bereits sozial. Transparenz stellt im Internetzeitalter nicht länger eine Option für Unternehmen dar - sie ist eine Tatsache. Wo Menschen sind, wird es Gespräche geben. Diese Gespräche finden bereits statt, mit oder ohne die lnternetseiten oder Verteilerlisten eines Unternehmens. Die Wahrheit darüber, was sie tun und wie gut sie es tun, ist bereits Gesprächsthema.
 
-spat ist, sozial zu werden. Jedes Unternehmen ist bereits sozi-
+**AUSTAUSCHFÖRDERUNG** Der wahre Weg, «sozial zu werden», wenn sie es denn wollten, bestünde nicht darin, noch mehr Freunde oder Anhänger zu sammeln, sondern darin, deren Freunde und Fans dazu zu bringen, sich anzufreunden und sich gegenseitig auszutauschen. So wird eine Kultur in einem vernetzten Peer-to-Peer-Medium geschaffen. Anstatt nach Wegen der Vermarktung zu suchen oder auf andere Art in die bestehenden sozialen Verbindungen einzugreifen, sollten diese Werbenetzwerke versuchen, die Verbindungen zwischen Menschen, die sich noch nicht kennen, aber potenziall auf der Suche nacheinander sind, zu fördern. Und sie sich dann ihren eigenen Aktivitäten zu überlassen - und ihrem Kontaktaufbau.
 
-al. Transparenz stellt im Internetzeitalter nicht !anger eine
+Die Gefahr besteht natürlich darin, dass die heutigen «Geld für deine Freunde»-Netzwerke lang genug überleben werden - beziehungsweise immer wieder ein neues entsteht -, bis ihre vorgeblich sozialen Standards von den Anwendern akzeptiert oder sogar verinnerlicht werden. Im Gegensatz zu uns, die immer noch an dem Ideal echter spontaner Verbindungen zwischen Menschen festhalten, sind unsere Kinder, die als Mitglieder von Netzwerken aufwachsen, bei weitem nicht so schockiert, wenn ihr gesellschaftliches Leben von diesen Netzwerken vermarktet wird. Wenn die Online-Kontaktsuche zwangsläufig mit einer kommerziellen Ausnutzung zusammenhängt, kann sich dies zu einer neuen normativen menschlichen Verhaltensweise entwickeln.
 
-Option for Unternehmen dar- sie ist eine Tatsache. Wo Men-
+Viele Menschen - und nicht nur junge Leute - sind be-
 
-schen sind, wird es Gesprache geben. Diese Gesprache linden
+reits nicht mehr in der Lage, zu erkennen, dass es moralisch
 
-bereits statt, mit oder ohne die lnternetseiten oder Verteiler-
+verwerflich sein konnte, sich gegentiber seinen Online-
 
-listen eines Unternehmens. Die Wahrheit dartiber, was sie tun
+Freunden ganz anders darzustellen. «Na und, was ist so
 
-und wie gut sie es tun, ist bereits Gesprachsthema.
+schlimm daran, wenn ich dafor bezahlt werde, jedem in
 
-AUSTAUSCHFORDERUNG Der wahre Weg, «sozial zu werden»,
+meinem Netzwerk zu erzahlen, dass ich ein Fan von einer
 
-wenn sie es denn wollten, besttinde nicht darin, noch mehr
+Band bin, die ich niemals in meinem Leben gehort habe?»
 
-Freunde oder Anhanger zu sammeln, sondern darin, deren
+«Das macht <loch jeder.» «Caveat emptor - der Kaufer tragt
 
-Freunde und Fans dazu zu bringen, sich anzufreunden und
+die Verantwortung selbst.» Das Problem besteht darin, dass
 
-sich gegenseitig auszutauschen. So wird eine Kultur in einem
+diese Menschen nicht mit Kaufern reden, sondern mit
 
-vernetzten Peer-to-Peer-Medium geschaffen. Anstatt nach
+Freunden. Sie erleben ihr soziales Online-Netzwerk gar
 
-Wegen der Vermarktung zu suchen oder \~uf andere Art in
+nicht als etwas, das sich von ihrem Privatleben abgrenzt. Es
 
-die bestehenden sozialen Verbindungen emzugre1fen, soli-
+ist ein und dasselbe. Im Gegensatz zum Geschaftsmann,
 
-d . w benetzwerke versuchen, die Verbindungen ten 1ese er . h M hen die sich noch nicht kennen, aber po- zw1sc en ensc , . II f d Suche nacheinander sind, zu fordern. Und tenz1e au er . . h d . h n ei·genen Aktivitaten zu uberlassen - und s1e sic ann I re
+Wir miissen begreifen, wie
 
-ihrem Kontaktaufbau. . G f h besteht natiirlich darin, dass die heutigen Die ea r
+Schnittstellen, Tools und
 
-f
+Programme uns beeinflussen.
 
-.. d · Freunde»-Netzwerke lang genug tiberleben
+der im Job rticksichtslos und zu Hause liebenswtirdig ist,
 
-«Geld ur eme . .
+gehen diese Menschen mit Freunden und Fremden glei-
 
-b · hungsweise immer w1eder em neues entsteht werden - ez1e . "h geblich sozialen Standards von den Anwen- - bis I re vor
+chermassen rticksichtslos um. Zwar mag das konsequenter
 
-' k 1
+sein, zeugt aber kaum von Reife. Es ist die Ausbeutung der
 
-·ert oder sogar verinnerlicht werden. Im Ge- dern a zep 1
+Chancengleichheit.
 
-Uns die immer noch an dem Ideal echter spon-
+SELBSTAUSBEUTUNG Derjenige, der am Ende am meisten aus-
+
+gebeutet wurde, ist nattirlich die Person, die von ihrem eige-
+
+nen Verhalten tiberzeugt war. Und das ist der Grund, warum
+
+ein gewisses Bewusstsein dafor, wie spezielle Schnittstellen,
+
+Tools und Programme unser Verhalten beeinflussen, so un-
+
+glaublich wichtig ist.
+
+35
+
+Social-Networking-Seiten sind vollgestopft mit Funk-
+
+tionen, Spielen und Aktivitaten, die einen unwidersteh-
+
+lichen Reiz haben und letztlich den Betreibern des Netz-
+
+werks mehr Nutzen bringen als seinen Mitgliedern.
 
 \--
 
 ä
+
+Ö
 
 ö
 
