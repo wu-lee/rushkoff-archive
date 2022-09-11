@@ -57,17 +57,65 @@ Nicht wirklich. Das sind nur die Spielregeln. Sobald die ersten sozialen Hemmsch
 
 **FREUNDSCHAFTS-WERTSCHÖPFUNG** Traurigerweise jedoch waren dies die echten Freunde. Ob sie nun online oder in der echten Welt geknüpft wurden, stellen diese virtuellen Verbindungen eine Verlängerung unserer sozialen Wirklichkeit dar. Dies sind die Menschen, die uns helfen, den richtigen Arzt zu finden, wenn wir krank sind, die uns unterstützen, wenn wir arbeitslos sind, die uns trösten, wenn wir einen geliebten Menschen verloren haben. Sie sind diejenigen, die uns auf Reisen ein Bett zum Schlafen vermitteln, die uns eine Party empfehlen, wo wir samstagabends hingehen können, oder die uns wertvolle Tipps für eine disziplinübergreifende Forschungsarbeit geben. Letztendlich jedoch sind diese Kontakte nicht deswegen wertvoll, weil sie uns eines Tages eventuell nützlich sein könnten, sondern allein dadurch, dass sie überhaupt vorhanden sind.
 
-Sowohl digitale als auch wahre Freundschaften schaffen
+Sowohl digitale als auch wahre Freundschaften schaffen einen Wert. Das bedeutet jedoch nicht, dass die Menschen in unserem Leben als Bedarfsartikel zu verstehen sind, die man sammeln und zählen kann.
 
-einen Wert. Das bedeutet jedoch nicht, <lass die Menschen
+Menschen sind keine Gegenstände, die Stück fur Stück verkauft werden, sondern lebende Mitglieder eines Netzwerkes, dessen Wert nur in einem frei fliessenden und sozialen Kontext verstanden werden kann. Noch müssen wir herausfinden, worin dieser Wert besteht.
 
-in unserem Leben als Bedarfsartikel zu verstehen sind, die
+Nicht die Inhalte, sondern die Kontakte waren stets das Wichtigste. Und doch haben wir bisher die Möglichkeiten für neue Ebenen der menschlichen Verbundenheit und Zusammenarbeit, die uns Netzwerktechnologien bieten, kaum genutzt.
 
-man sammeln und zahlen kann.
+TECHNISCHE AUSREDEN Wir bemerken zu langsam, <lass Men-
 
-Menschen sind keine Gegenstande, die Stiick fur Stiick
+schen keine Form von Inhalt sind - eine Ressource, die man
 
-verkauft werden, sondern lebende Mitglieder eines Netz-
+kaufen und verkaufen kann; sie bilden mit uns die Zellen eines
+
+vie! grosseren Organismus, zu dem wir alle gehoren, ohne es
+
+recht zu wissen. Wir schatzen unsere vielen Kontakte dafiir,
+
+was sie uns bringen konnten, und iibersehen ihren eigentli-
+
+chen, vie! grosseren Wert.
+
+Doch es ist genau dieser Kontakt, dieser Wunsch, einen
+
+sozialen Organismus gemeinsam zu erschaffen, der von je-
+
+her die Antriebskraft der digitalen Technologie war. Der
+
+Wunsch nach immer mehr Kontakten ist unser evolutiona-
+
+rer Antrieb, dem wir folgen, um etwas Grosseres als wir
+
+selbst zu werden. So wie sich Atome zu Molekillen, Mole-
+
+kiile zu Zellen und Zellen zu Organismen verbinden, ver-
+
+kniipfen wir uns zu immer grosseren Organisationsebenen.
+
+Das ist die wahre Anziehungskraft der vielen interakti-
+
+ven Gerate, die zu unserem Leben gehoren. In gewissem ·
+
+Sinne hatten die Menschen, die das Netz als eine andere ·
+
+Form des CB-Funks verschrien, recht: Wir erfinden einfach .
+
+immer nur neue Wege, miteinander 2 k . . u ommumz1eren.
+
+Angefangen vom lacherlichen Fax m·t d d" . . ' 1 em 1e Menschen
+
+SICh schlechte W1tze geschickt habe b" . . n, is zu den Tweets die
+
+w1r heute per Handy iibertragen b" . ' . . . . ' ietet Jede neue Kommu-
+
+mkat10nstechnolog1e eme neue Au d sre e, um neue K t kt zu kniipfen. on a e
+
+Nicht der Inhalt ist die Botsch f
+
+a t, sondern d K k Der Ping selbst. Es ist die synapt· h . er onta t.
+
+isc e Dbe t
 
 \--
 
