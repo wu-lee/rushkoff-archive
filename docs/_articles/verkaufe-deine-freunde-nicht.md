@@ -8,7 +8,6 @@ blurb: ''
 notes: "Issue 1  \n2001"
 refs: ''
 sources: ''
-published: false
 
 ---
 Digitale Medien handeln nach wie vor von den Beziehungen zwischen Menschen. In der ständigen Koevolution von Mensch und Technologie entstehen immer mehr Instrumente, die uns verbinden - und die lnstrumente, die dies nicht tun, lernen es schnell. Wir müssen uns stets vor Augen führen, dass bei digitalen Medien der Kontakt mit anderen Menschen im Mittelpunkt stehen sollte. Und nicht ihre Informationen - oder schlimmer, ihr Geld.
