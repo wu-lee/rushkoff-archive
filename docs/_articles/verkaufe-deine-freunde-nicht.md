@@ -21,43 +21,105 @@ Während das Internet - damals noch Arpanet - einen technologischen Erfolg darst
 
 Das soziale, nicht kommerzielle Netz wuchs kontinuierlich. Bis zum Jahre 1994 zeigten Studien, dass Familien, die ein Computermodem besassen, durchschnittlich neun Stunden in der Woche weniger fernsahen. Doch was zumindest für die Werbebranche am schlimmsten war: Sie verbrachten diese Zeit mit einem vollständig werbefreien Medium.
 
-Schliesslich wurde nach einer Reihe von Rechtsverlet-
+Schliesslich wurde nach einer Reihe von Rechtsverletzungen durch kleine Unternehmen, die ihre Dienste online vermarkten wollten, das Netz für Werbezwecke geöffnet. Die Politiker führten das Argument an, dass man die Firmen ohnehin nicht davon hätte abhalten können. So konnten Unternehmen letztlich das Netz nutzen, um ihre Waren anzubieten. Jeder hat mitgemacht und ein «.com» hinter jeden nur vorstellbaren Begriff gehängt. Während einige wenige Unternehmen online tatsächlich Erfolg hatten, scheiterten die meisten von ihnen - so sehr, dass auch die Börse einbrach.
 
-zungen <lurch kleine Unternehmen, die ihre Dienste online
+Doch das war nicht allein die Schuld des Netzes. Die Börse hatte seit dem Biotech-Crash der 1980er händeringend nach einem neuen aufregenden Sektor gesucht. Digitale Medien, die plötzlich zum elektronischen Einkaufszentrum des 21. Jahrhunderts wurden, schienen ideal für grosse Investitionen. Das Problem bestand darin, dass die meisten Internetunternehmen nicht wirklich all dieses Investitionskapital benötigten - und noch weniger Stammaktien. Drei Hacker in einer Garage warren in der Lage, die meisten Online-Unternehmen für ein paar tausend in Pizza investierte Dollars aufzubauen. Zudem verbrachten die Internetnutzer mehr Zeit in Chatrooms und Online--Konferenzen als in den viel zu «klebrigen» und umständlichen Online-Stores. Sie waren grundsätzlich und gewohnheitsmässig dagegen, Geld in einem Medium auszugeben, das bisher immer umsonst war.
 
-vermarkten wollten, <las Netz fur Werbezwecke geoffnet.
+Wir wollten ohnehin keine Prod'O!kt:e; wir ,,mHitm ma,
 
-Die Politiker fuhrten das Argument an, <lass man die Fir-
+Dem Dotcom-Bo om folgte ein noch fau.tere:r Dotco-m-
 
-men ohnehin nicht davon hatte abhalten konnen. So konn-
+Den lnvestitionen des Dotcom-
 
-ten Unternehmen letztlich <las Netz nutzen, um ihre Waren
+Booms verdanken wir robuste
 
-anzubieten. Jeder hat mitgemacht und ein «.com» hinter
+Netze und schnelle Verbindungen.
 
-jeden nur vorstellbaren Begriff gehangt. Wahrend einige
+wrnf.. Es; isr °:\~ fu.t:<tt=:\~ -...-;u_\~ \~
 
-wenige Unternehmen online tatsachlich Erfolg hatten,
+= fuesr= afs, \~-&:::.. W;
 
-scheiterten die meisten von ihnen - so sehr, <lass auch die
+dem®'.t .ille \\-\~ \~-c cm:.. .,.,, ...._ ,_ \~- - . \~\\.U ....... \~-.......,, 4...:.\~
 
-33
+\~.idn m.r. h...\~ l"i::d cfu.s, ""'tro wcit-d::.!::: ___ __ - ... --,:::- = N\~e sic.<li ,tt\~f :,@<zi.tle \\ b:J:.c,-;..._ - '--\~\~
 
-Borse einbrach.
+l:l!IId rn=dnlicfte Klm:aftte a.\~\~\~- ,\~1⁄4- \\"s::..\~
 
-Doch <las war nicht allein die Schuld des Netzes. Die
+mese \\Terl,\~ tret!! .m d\~ "'-'-\~ R_:r- \~ic.:::w\~-
 
-Borse hatte seit dem Biotech-Crash der 1980er handerin-
+&zro, missfurllu.d:ten..,\~\~\~ i l!.\~ct:ih .fus S \~.:,,,.\~
 
-gend nach einem neuen aufregenden Sektor gesucht. Digi-
+and ien i...-.rh.reai Ntmlm! men..\~\~ K(c)C\~Cl!'-
 
-tale Medien, die plotzlich zum elektronischen Einkaufszen-
+Mensdren nebim.emi s.efu ._oh.I "'\~- \~c:i ac: \~6t'.:.\~
 
-trum des 21. Jahrhunderts wurden, schienen ideal fur
+Netn-1!:d m \\\\:\~n .m .... l:"'\~ \~\~1⁄4:,
 
-grosse Investitionen. Das Problem bestand darin, <lass die
+Sc.hemha.. bes-tt-<inmge- \~ Kcl'-'Tu-1⁄2i\~ "'-\\k> .. , ,\~,>lt,,..\~\~
 
-meisten Internetunternehmen nicht wirklich all dieses In-
+ilire \~-dlk ,i.,., \~,-oo_\~ \~-
+
+hen.. \\
+
+1
+
+{eru!! em Nett\~ un.\~--d.E, \~'<dn, \~ -\\ Q.-.tt_.,__\~
+
+zmn nachs;ren, li.,an= ilire Kom.mmiika\~"'1\~ ct«: J.:.::
+
+wid k:nupren weitahm Konrakte, J<l, \~ er .. mm"'",\~\~
+
+Sooa.1-Nen-.-umng-Anbierer - eg-.il \\Th::' \~ln,J\~ .;:.:.J:
+
+Crash. Die meisten Menschen - zumindest die meisten Ge- sdteint - wud am Ende den W,:,g run« \\ \~:h.::r:,
+
+scbaftsleute und Journalisten - waren sicb sicher, dass das Die M.uk:truhrer sdtcinen mmn-enran \~t'c!.nJig z,u ,-__-->ic-..,,
+
+Netz am Ende war. docb cines Tages hat man sie genau__«o \~.i:meU '"-'\~'-\~"\~ \\\\\~
+
+GEB0NDELTE SOZIALE ENERGIE Die Netznutzer jedodi began-
+
+nen, nun sich selbst iiberlassen, zu bloggen. Und sich zu Yer-
+
+kniipfen. Und zu kommentieren. Die man.ischen Investitionen
+
+des Dotcom-Booms haben uns ein robustes Netzwerk und
+
+schnelle Verbindungen ermoglicht. Damit konnten wir nun
+
+machen, was wir wollten.
+
+Im Web fanden sich nach wie Yor einige Unternehmen,
+
+<loch der grosste Anteil der Verbindungen und Gespriiche
+
+fand zwischen Privatpersonen statt. Es stellte sich heraus,
+
+class nicht der Inhalt - sondern der Kontakt das Wichtigste
+
+war. Und so entstand <las, was wir heute «soziale Medien»
+
+nennen. Clevere Unternehmen nahmen dies zur Kenntnis.
+
+AOL, Geocities, Friendster, Orkut, Myspace und Facebook
+
+haben es geschafft, all diese soziale Energie an einem einzi-
+
+gen, zentralen Ort zu biindeln, wo sie zu Geld gemacht we_r-
+
+den kann. Viele nachfolgende Investoren glaubten, dass in
+
+all diesen digitalen Verbindungen und Mitteilungen Markt-
+
+forschung betrieben, Modelle entwickelt oder andere Wege
+
+gefunden werden konnten, um aus den Kontakten der Men-
+
+schen Geld zu machen.
+
+Worin sich all diese Social-Networking-Unternehr:nen
+
+immer noch irren, ist, dass das Netz kein soziales Medium
 
 \--
 
