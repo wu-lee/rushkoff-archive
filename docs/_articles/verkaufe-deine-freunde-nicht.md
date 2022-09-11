@@ -25,15 +25,13 @@ Schliesslich wurde nach einer Reihe von Rechtsverletzungen durch kleine Unterneh
 
 Doch das war nicht allein die Schuld des Netzes. Die Börse hatte seit dem Biotech-Crash der 1980er händeringend nach einem neuen aufregenden Sektor gesucht. Digitale Medien, die plötzlich zum elektronischen Einkaufszentrum des 21. Jahrhunderts wurden, schienen ideal für grosse Investitionen. Das Problem bestand darin, dass die meisten Internetunternehmen nicht wirklich all dieses Investitionskapital benötigten - und noch weniger Stammaktien. Drei Hacker in einer Garage warren in der Lage, die meisten Online-Unternehmen für ein paar tausend in Pizza investierte Dollars aufzubauen. Zudem verbrachten die Internetnutzer mehr Zeit in Chatrooms und Online--Konferenzen als in den viel zu «klebrigen» und umständlichen Online-Stores. Sie waren grundsätzlich und gewohnheitsmässig dagegen, Geld in einem Medium auszugeben, das bisher immer umsonst war.
 
-Wir wollten ohnehin keine Prod'O!kt:e; wir ,,mHitm ma,
+Wir wollten ohnehin keine Produkte; wir wollten uns. Dem Dotcom-Boom folgte ein noch lauterer Dotcom-Crash. Die meisten Menschen - zumindest die meisten Geschäftsleute und Journalisten - waren sich sicher, dass das Netz am Ende war.
 
-Dem Dotcom-Bo om folgte ein noch fau.tere:r Dotco-m-
+**GEBÜNDELTE SOZIALE ENERGIE** Die Netznutzer jedoch begannen, nun sich selbst überlassen, zu bloggen. Und sich zu verknüpfen. Und zu kommentieren. Die manischen Investitionen des Dotcom-Booms haben uns ein robustes Netzwerk und schnelle Verbindungen ermöglicht. Damit konnten wir nun machen, was wir wollten.
 
-Den lnvestitionen des Dotcom-
+Im Web fanden sich nach wie vor einige Unternehmen, doch der grösste Anteil der Verbindungen und Gespräche fand zwischen Privatpersonen statt. Es stellte sich heraus, dass nicht der Inhalt - sondern der Kontakt das Wichtigste war. Und so entstand das, was wir heute «soziale Medien» nennen. Clevere Unternehmen nahmen dies zur Kenntnis. AOL, Geocities, Friendster, Orkut, Myspace und Facebook haben es geschafft, all diese soziale Energie an einem einzigen, zentralen Ort zu bündeln, wo sie zu Geld gemacht werden kann. Viele nachfolgende Investoren glaubten, dass in all diesen digitalen Verbindungen und Mitteilungen Marktforschung betrieben, Modelle entwickelt oder andere Wege gefunden werden könnten, um aus den Kontakten der Menschen Geld zu machen.
 
-Booms verdanken wir robuste
-
-Netze und schnelle Verbindungen.
+Worin sich all diese Social-Networking-Unternehmen immer noch irren, ist, dass das Netz kein soziales Medium wird. Es ist bereits eines. Das Internet kann wahrscheinlicht am besten als soziales Medium begriffen werden, das wiederholt alle Versuche abgewehrt hat, sich in etwas anderes verwandeln zu lassen. Und das wird es weiterhim tun. Unsere digitalen Netzwerke sind auf soziale Verbindungen und menschliche Kontakte ausgerichtet. Jeder Versuch, diese Verbindungen neu zu definieren oder für Profitwecke zu missbrauchen, gefahrdet die Integrität des Nettwerks und den wahren Nutzen menschlicher Kontakte.
 
 wrnf.. Es; isr °:\~ fu.t:<tt=:\~ -...-;u_\~ \~
 
@@ -121,6 +119,44 @@ Worin sich all diese Social-Networking-Unternehr:nen
 
 immer noch irren, ist, dass das Netz kein soziales Medium
 
+34
+
+sie einst die Sdtlagzcilen beher:rschren, .E.rinn,:m S.ie ;.id,
+
+noch an Compuserve?' Oder Amer-irn Onlind OJ\~r \~t,·-
+
+space? Die so,rrd..!e Aus.richtung des Mediums lcl\\m \~ Edi-.,
+
+kommerzielle Nutzung ah, Di\~---e- grundlegend-.' Au;.rid,-
+
+tung " ird oft miss.Yersmnden, und de.n lotern<c'tl't:;1mn,.,m
+
+win:! zu Unredit Angst oder Sel\~tsuc:ht \\"Qt).."eworl\\:'n,
+
+Die Wut, die Menschen uber die sich st<l;dig W\\.'\\:fo.dn-
+
+den Richtlinien ,-on Socia.l-Network.ing-Anbietern empti n-
+
+den, hat weniger zu tun mit d .. Ei' 'ff" . .h n... · , \~u flgrt Ill I fl:.' n l\\,h-
+
+sphiire als damit, dass, es ihne.n missfullt, class ihrt." .F1<.•un,k
+
+Social-Networking-Anbieter, die
+
+aus unseren Oaten Profit schlagen
+
+wollen, werden uns verlieren.
+
+kommerzialisiert we.rd.en. Die Info . . . - .. rmat,onen, die :rns ihn.:.11 Onhne-Aktn'ltaten gewonnen \\\\'e.fd·
+
+en, \\verden fu · d •r , nic.ht soziale Zwec.ke verwendet _ u d d _ r nn < \~-
+
+·· ht k n as sorgt fur ein un- gutes Gefu . !Vian ·auft und verkauft F . reunde me.ht.
+
+TRANSPARENZZWANG Doch genau das · ·t
+
+is es, Wa s d' . \[nternetunternehmen versuchen. Jede U 1e n1e1stc'll s nter h . ne lllen Jeder
+
 \--
 
 ä
@@ -128,3 +164,5 @@ immer noch irren, ist, dass das Netz kein soziales Medium
 ö
 
 ü
+
+Ü
