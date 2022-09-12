@@ -43,10 +43,8 @@ BETROKKEN
 
 Al sinds eind jaren '70 ben ik zeer enthousiast over computers. En ik geloof nog steeds dat dit het moment is waarop we hebben gewacht. We krijgen de mogelijkheid bewust invloed uit te oefenen op de evolutie van onze soort. We verbinden ons met netwerken en vormen zo iets dat misschien wel groter zal zijn dan de som onzer delen. Maar we moeten allemaal actief blijven deelnemen aan het project in plaats van de controle over onze toekomst uit handen te geven aan een enkeling die kan programmeren, en aan de bedrijven die bereid zijn hem ervoor te betalen.
 
-\--
+Hoe meer we de wereld en elkaar ervaren via digitale interfaces, des te belangrijker wordt de vaardigheid te kunnen programmeren. En als we zelf niet echt in staat zijn complexe computerprogramma's te schrijven, dan nog is het van groot belang, in ieder geval te kunnen doorzien hoe programma's werken en welke bedoelingen er werkelijk achter zitten. Want wanneer mensen snappen hoe hun technologie in elkaar zit, zullen ze inzien dat de wereld vol vergelijkbare processen is: de economie, het onderwijs, de politiek, de overheid.
 
-ë
+Alle systemen hebben ingebouwde bedoelingen. En hoe minder goed we in staat zijn die te herkennen, des te groter is de kans dat we ze per ongeluk aanzien voor vaststaande feiten. Des te grater de kans dat we de landkaart met het gebied verwarren.
 
-é
-
-ï
+We zullen op z'n minst de afwijkingen en beperkingen van de technologie die we gebruiken, moeten leren herkennen. En onze jongeren aanleren dat ook te doen. Want als we niet zelf deelnemen aan het bouwen van onze digitale toekomst, dan zal iemand anders - of iets anders - het voor ons doen.
