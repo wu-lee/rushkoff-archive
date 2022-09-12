@@ -21,35 +21,45 @@ Viele andere sollten folgen; und werden folgen. Das erste demokratische Echtzeit
 
 Aber mit der Ankunft in der Echtzeit ist das Ende der Fahnenstange noch nicht erreicht. Der theoretische Nachweis, dass Ereignisse sogar gemeldet werden können, bevor sie entstehen, gelang dem Comic-Zeichner xkcd. In einem Strip zeigte er die unterschiedlichen Ausbreitungsgeschwindigkeiten von Erdbebenwellen (bis zu fünf Kilometer pro Sekunde) und Twitter-Meldungen (etwa 200000 Kilometer pro Sekunde). Tweets aus der Nähe des Epizentrums eines Erdbebens bewegen sich also schneller fort als die Erdbebenwellen selbst - sodass ab einer Entfernung von etwa hundert Kilometern das Beben lesbar ist, bevor es spürbar wird.
 
-HIRN-PROGNOSEN Diese Meldung der nachsten Zukunft ent-
+**HIRN-PROGNOSEN** Diese Meldung der nächsten Zukunft entspricht dabei genau der typischen Arbeitsweise des Gehirns. All die Sinneseindrücke, die es jetzt gerade erreichen, gleicht es mit all dem ab, was es aus der Vergangenheit im Gedächtnis gespeichert hat, um auf bekannte Muster zu stossen - und leitet daraus dann Vorhersagen für die allernächste Zukunft ab. Wenn jetzt gerade die Sonne scheint, und um sie herum keine Wolken sind, wird sie auch in der nächsten Sekunde noch scheinen. Diese Prognose wird an die Sinnesorgane zurückgeleitet, quasi als Soll-Wert dafür, welchen Eindruck sie als Nächstes melden sollten. Und solange das Meldeergebnis der Prognose entspricht, verwendet das Gehirn keine weitere Aufmerksamkeit darauf.
 
-spricht dabei genau der typischen Arbeitsweise des Gehirns.
+Erst in dem Moment, in dem ein von der Prognose abweichendes Ergebnis gemeldet wird, schaltet sich der Denkapparat ein - um ein anderes Muster zu finden, das zu diesem Ergebnis passt. Plötzliche Verdunklung bei Sonnenschein: Das kann nur bedeuten, dass etwas oder jemand uns in den Schatten gestellt hat. Was zumindest so Iange eine potenzielle Gefahr darstellt, bis die Ursache für diese Abweichung identifiziert ist.
 
-All die Sinneseindriicke, die es jetzt gerade erreichen, gleicht
+Wie arbeiten nun die Medien mit dem Gehirn zusammen? Sie sind zum einen Lieferanten von Eindrücken - einige von vielen, die unser Sensorium erreichen. Einige von ihnen haben zudem noch eine eigenständige Rolle bei der Verarbeitung von Eindrücken: Sie Iiefern Zubereitungen. Das gilt insbesondere für die sogenannten Qualitätsmedien, die sich auf die Einordnung von Ereignissen spezialisiert haben, also Orientierung anbieten. Damit helfen sie dem Gehirn dabei, den im Nachrichtenstrom enthaltenen Sinn zu entschlüsseln. So wie die Zubereitung von Nahrungsmitteln die Verarbeitungskapazität des Verdauungsapparats erhöht, indem sie die Nährstoffe durch Kochen oder Braten leichter verdaubar macht, erhöhen Leitartikel, Kommentare und Analysen die Verarbeitungskapazität des Denkapparats.
 
-es mit all dem ab, was es aus der Vergangenheit im Gedachtnis
+Noch fast völlig unbespielt ist hingegen der (eigentlich Iogische) nächste Schritt: die Prognosekapazität des Gehirns erhöhen - indem Medien selbst Prognosen darüber abgeben, was als Nächstes passieren wird. Dabei ginge es nicht um die Langzeitprognose für die Welt in 25 Jahren, sondern um Ultrakurzzeitprognosen, wie sie auch für das Gehirn typisch sind: für die nächsten Sekunden, Minuten, Stunden, Tage.
 
-gespeichert hat, um auf bekannte Muster zu stossen - und
+In der Unternehmenswelt greifen solche Kurzzeitprognosen bereits um sich. Viele Big-Data-Anwendungen versuchen beispielsweise, genau solche Prozesse zu simulieren: Aus bekannten Lagerbeständen und historischen sowie aktuellen Verkaufsdaten werden auf diese Weise vermutliche Abverkäufe im weiteren Tagesverlauf prognostiziert. In der Makroökonomie haben im vergangenen Jahrzehnt die sogenannten PMI-Indikatoren rasant Karriere gemacht: Diese Umfragen unter Einkaufsmanagern über die aktuelle und die erwartete wirtschaftliche Lage haben sich als die besten Vorausindikatoren für die wirtschaftliche Gesamtleistung (BIP) erwiesen - die PMI-Veränderung von Juni sieht fast immer fast genauso aus wie die BIP-Veränderung im September.
 
-leitet daraus dann Vorhersagen fur die allernachste Zukunft
+Und in einer kleinen, aber prominenten Branche können inzwischen sogar Prognosen für die 
 
-ab. Wenn jetzt gerade die Sonne scheint, und um sie herum
+nachsten Minuten entscheidend sein: bei der Formel I. Insbesondere, wenn Regen
 
-keine Wolken sind, wird sie auch in der nachsten Sekunde
+in der Luft liegt, geht es da nicht um Regenwahrscheinlichkeitsprozente, sondern schlicht darum, ob und wann und wie
 
-noch scheinen. Diese Prognose wird an die Sinnesorgane zu-
+vie! es wo im Rennverlauf regnen wird-denn wer eine Runde
 
-riickgeleitet, quasi als Soll-Wert dafor, welchen Eindruck sie
+zu fruh oder zu spat zum Reifenwechseln in die Box fahrt,
 
-als Nachstes melden sollten. Und solange das Meldeergebnis
+kann sich so um alle Chancen auf den Sieg bringen.
 
-der Prognose entspricht, verwendet das Gehirn keine weitere
+In einer Branche konnen sogar
 
-Aufmerksamkeit darauf.
+Minuten-Prognosen entscheidend
 
-Erst in dem Moment, in dem ein von der Prognose abwei-
+sein: in der Formel 1.
 
-chendes Ergebnis gemeldet wird, schaltet sich der Denkapparat
+kiiufe im weitercn Tagesverlaufprognostiziert. In der Makroo
+
+konomie haben im
+
+vergangenen Jahrzehnt die sogenannten
+
+PMJ-indikatoren rasant Karriere gemacht: Diese Umfragen
+
+unter Einkaufsmanagern Uber die aktuelle und die erwartete
+
+wirischaftlichc Lage haben sich alsdie besten VorausindikatoSTIMMUNGSVORHERSAGE Fur Privatpersonen sind solcherart Zukunftsprognosen bisher aber noch kaum im Angebot. So genau wie die Formel-1-Rennstiille hiitten wir die Wettervorhersage manchmal auch gern-wenn es urns Grillen oder um
 
 \--
 
