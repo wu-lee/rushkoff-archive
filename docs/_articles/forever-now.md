@@ -15,40 +15,48 @@ Die Gegenwart macht sich breit. Wer keine Echtzeit bieten kann, läuft ausser Ko
 
 Ein kleines, buntes Bilderbüchlein zeigt, was alles in welcher Geschwindigkeit geschehen muss, damit die Nachricht vom Vulkanausbruch am anderen Ende der Welt bis zu uns nach Hause kommt. Da wird der Bericht eines Augenzeugen an einen Journalisten durchtelefoniert, der bringt das ins Lokalradio, das reicht es an die Nachrichtenagentur weiter, die die Meldung prüft und in ihr System einspeist, worauf sie in einer Redaktion bei uns ankommt und dort so publiziert wird, dass sie uns erreicht. Schon in den Frühnachrichten um 6 Uhr konnte der Ausbruch von 4.58 Uhr gezeigt werden. Ja, so erzählte man das damals noch seinen Kindern - im Jahr 1999.
 
-Ein Jahrzehnt spater war es ein gewisser Janis Krums, der
+Ein Jahrzehnt spater war es ein gewisser Janis Krums, der den Beweis erbrachte, dass solche Übertragungszeiten auch ganz ohne Übertragungswagen und mediates Brimborium auf null reduziert werden konnten. «There's a plane in the Hudson», meldete er über Twitter am 15. Januar 2009, zusammen mit einem Foto der soeben im Fluss notgewasserten US-Airways-Maschine. Krums war ein Passagier der Hudson-Fähre, die gerade in der Nähe war und dem Flugzeug zu Hilfe eilte - und Teil einer der ersten Twitter-Live-Übertragungen.
 
-den Beweis erbrachte, dass solche Obertragungszeiten auch
+Viele andere sollten folgen; und werden folgen. Das erste demokratische Echtzeitmedium hat uns mitten in die globale Gegenwart geworfen. Mit alien Stärken und allen Schwächen: «Twitter ist am besten in den ersten fünf Minuten nach einem Grossereignis - und am schlechtesten in den zwölf Stunden damach», seufzte ein User, nachdem er sich durch die Gerüchtewelle zum Anschlag von Boston gewühlt hatte.
 
-ganz ohne Dbertragungswagen und mediates Brimborium auf
+Aber mit der Ankunft in der Echtzeit ist das Ende der Fahnenstange noch nicht erreicht. Der theoretische Nachweis, dass Ereignisse sogar gemeldet werden können, bevor sie entstehen, gelang dem Comic-Zeichner xkcd. In einem Strip zeigte er die unterschiedlichen Ausbreitungsgeschwindigkeiten von Erdbebenwellen (bis zu fünf Kilometer pro Sekunde) und Twitter-Meldungen (etwa 200000 Kilometer pro Sekunde). Tweets aus der Nähe des Epizentrums eines Erdbebens bewegen sich also schneller fort als die Erdbebenwellen selbst - sodass ab einer Entfernung von etwa hundert Kilometern das Beben lesbar ist, bevor es spürbar wird.
 
-null reduziert werden konnten. «There's a plane in the Hud-
+HIRN-PROGNOSEN Diese Meldung der nachsten Zukunft ent-
 
-son», meldete er iiber Twitter am 15. Januar 2009, zusammen
+spricht dabei genau der typischen Arbeitsweise des Gehirns.
 
-mit einem Poto der soeben im Fluss notgewasserten US-Air-
+All die Sinneseindriicke, die es jetzt gerade erreichen, gleicht
 
-w\~ys-Maschine. Krums war ein Passagier der Hudson-Fahre,
+es mit all dem ab, was es aus der Vergangenheit im Gedachtnis
 
-die gerade in der Nahe war und dem Flugzeug zu Hilfe eilte -
+gespeichert hat, um auf bekannte Muster zu stossen - und
 
-und T ·1 · ei emer der ersten Twitter-Live-Obertragungen.
+leitet daraus dann Vorhersagen fur die allernachste Zukunft
 
-Viele andere s_ollten folgen; und werden folgen. Das erste
+ab. Wenn jetzt gerade die Sonne scheint, und um sie herum
 
-demokratisch e E c h · • tze1tmedmm hat uns mitten in die globale
+keine Wolken sind, wird sie auch in der nachsten Sekunde
 
-Gegenwart g , • . ewor,en. Mit alien Starken und alien Schwachen:
+noch scheinen. Diese Prognose wird an die Sinnesorgane zu-
 
-«Twitter ist am b es t en m · d en ersten filnfMinuten nach einem
+riickgeleitet, quasi als Soll-Wert dafor, welchen Eindruck sie
 
-Grossereign · d d is - un am schlechtesten in den zwolf Stunden
+als Nachstes melden sollten. Und solange das Meldeergebnis
 
-anach», seufzte ein User, nachdem er sich durch die Geriichte-
+der Prognose entspricht, verwendet das Gehirn keine weitere
 
-welle zum A hi nsc ag von Boston gewiihlt hatte.
+Aufmerksamkeit darauf.
+
+Erst in dem Moment, in dem ein von der Prognose abwei-
+
+chendes Ergebnis gemeldet wird, schaltet sich der Denkapparat
 
 \--
 
 ä
 
+ö
+
 ü
+
+Ü
