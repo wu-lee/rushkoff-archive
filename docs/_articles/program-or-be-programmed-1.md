@@ -23,8 +23,10 @@ Verrassend genoeg is Amerika, waar het internet nota bene geboren is, het enige 
 
 VOORSPRONG
 
-Toen ik vorig jaar onderzoek deed voor een boek over digibeten in Amerika maakte ik kennis met de generaal die het gezag voert over de United States Cyber Command. Hij vertelde dat hij volop nieuwe rekruten had om de onbemande vliegtuigen en ander modern wapentuig te besturen, maar dat er niemand te vinden is die ze kan programmeren, of die dat wil leren. Er waren geen rekruten te vinden die in staat en bereid zijn basislessen programmeren te volgen. En dat terwijl de universiteiten in Rusland, China en zelfs in Iran grote hoeveelheden programmeurs afleveren, zo vertelde hij. Het is slechts een kwestie van tijd - maximaal een generatie - voordat de VS hun digitale voorsprong volledig kwijt zijn.
+Toen ik vorig jaar onderzoek deed voor een boek over digibeten in Amerika maakte ik kennis met de generaal die het gezag voert over de United States Cyber Command. Hij vertelde dat hij volop nieuwe rekruten had om de onbemande vliegtuigen en ander modern wapentuig te besturen, maar dat er niemand te vinden is die ze kan programmeren, of die dat wil leren. Er waren geen rekruten te vinden die in staat en bereid zijn basislessen programmeren te volgen. En dat terwijl de universiteiten in Rusland, China en zelfs in Iran grote hoeveelheden programmeurs afleveren, zo vertelde hij. Het is slechts een kwestie van tijd - maximaal één generatie - voordat de VS hun digitale voorsprong volledig kwijt zijn.
 
 \--
 
 ë
+
+é
