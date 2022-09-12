@@ -33,76 +33,20 @@ Maar persoonlijk denk ik dat het feit dat we niet in staat zijn - of zelfs weige
 
 Toen mensen taal ontwikkelden, leerden ze niet alleen luisteren, maar oak praten. Met de ontwikkeling van het geschreven woord leerden we niet alleen lezen maar tegelijkertijd ook schrijven. En nu onze maatschappij steeds verder digitaliseert, zouden we niet alleen moeten leren hoe we programma's kunnen gebruiken, maar ook hoe we ze kunnen maken.
 
-GEREEDSCHAP
+**GEREEDSCHAP**
 
-Computers bieden digitale gereedschappen die niet te wrgelijken
+Computers bieden digitale gereedschappen die niet te vergelijken zijn met een hark, of een stoommachine of zelfs een auto: dingen die we prima kunnen gebruiken zonder dat we weten hoe ze eigenlijk werken. Digitale technologie beïnvloedt niet alleen de wereld om ons heen , het beïnvloedt ook de manier waarop we die wereld ervaren. Onze beeldschermen zijn de vensters waardoor we de wereld om ons heen beschouwen, ervaren en interpreteren. Computers en internet zijn niet slechts een indrukwekkend nieuw communicatiesysteem waarmee we ons bereik en onze invloedssfeer vergroten. Wat er feitelijk gebeurt is dat we een deel van onze cognitieve processen uitbesteden aan externe, buitenmenselijke mechanismes. Mechanismes die niet alleen het product zijn van de wensen en bedoelingen van een individu of groep die ze bedenkt, maar die bijna zelfstandige entiteiten zijn geworden die het vermogen hebben andere componenten in het netwerk te beïnvloeden: ons namelijk.
 
-zijn met een hark, of et·n scoommachine of zelts een auto: dingen
+Eens werden machines verwelkomd om zware handarbeid te verlichten maar al gauw dreigden ze mensen in de fabrieken overbodig te maken door handarbeid vrijwel volledig te annexeren. Computers en netwerken namen in eerste instantie ons eenvoudige denkwerk over maar gaan nu zelfs nog verder dan overnemen en annexeren. Ze kopieren niet alleen onze intellectuele processen - onze programma's, maar steeds vaker weerhouden ze ons van ons complexe denkwerk - ons hogere bewustzijn, bezinning en bespiegeling, het bedenken van iets nieuws en het toekennen van betekenis. Terwijl het grate voordeel van het uitbesteden van de simpele rekentaken aan computers, nou juist moest zijn dat wij mensen ons hoofd vrij konden maken om ons bezig te houden met wat echt belangrijk was. Daarom is het essentieel dat zoveel mogelijk mensen meewerken met het ontwerp van computers en programma's. Hoe meer mensen meedoen, des te menselijker zullen deze digitale gereedschappen uiteindelijk zijn.
 
-die we prima kunnen gebruiken
+BETROKKEN
 
-zonder dat we weten hoe ze eigenlijk werken. Digitale technologie
-
-bei"nvloedt niet alleen de wereld
-
-om ons heen , het be"invloedt ook
-
-de manier waarop we die wereld
-
-ervaren. Onze beeldschermen zijn
-
-de vensters waardoor we de wereld
-
-om ons heen beschouwen, ervaren
-
-en interpreteren. Computers en internet zijn niet slechts een indrukwekkend nieuw communicatiesysteem waarmee we ons bereik en
-
-onze invloedssfeer vergroten. Wat
-
-er feitelijk gebeurt is dat we een
-
-dee! van onze cognitieve processen
-
-uitbesteden aan externe, buitenmenselijke mechanismes. Mechanismes die niet alleen het product
-
-zijn van de wensen en bedoelingen
-
-\\·an een individu of groep die ze
-
-bedenkt, maar die bijna zelfstandige
-
-entiteiten zijn geworden die het
-
-,·ermogen hebben andere componemen in het netwerk te bei"nvloeden: ons namelijk.
-
-fens werden machines verwelkomd
-
-om Z\\Ya re handarbeid te verlichten
-
-maa r al gauw dreigden ze mensen
-
-in de fabrieken overbodig te maken
-
-door hanclarbeid vrijwel volledig
-
-te annexeren. Computers en netwerken namen in eerste instantie
-
-ons eenvoudige denkwerk over
-
-maar gaan nu zelfs nog verder dan
-
-overnemen en annexeren. Ze kopieren niet alleen onze intellectuele
-
-processen - onze programma's,
-
-maar steeds vaker weerhouden ze
-
-ons van ons complexe denkwerk -
-
-ons hogere bewustzijn, bezinning
+Al sinds eind jaren '70 ben ik zeer enthousiast over computers. En ik geloof nog steeds dat dit het moment is waarop we hebben gewacht. We krijgen de mogelijkheid bewust invloed uit te oefenen op de evolutie van onze soort. We verbinden ons met netwerken en vormen zo iets dat misschien wel groter zal zijn dan de som onzer delen. Maar we moeten allemaal actief blijven deelnemen aan het project in plaats van de controle over onze toekomst uit handen te geven aan een enkeling die kan programmeren, en aan de bedrijven die bereid zijn hem ervoor te betalen.
 
 \--
 
 ë
 
 é
+
+ï
