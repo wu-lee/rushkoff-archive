@@ -31,42 +31,8 @@ Noch fast völlig unbespielt ist hingegen der (eigentlich Iogische) nächste Sch
 
 In der Unternehmenswelt greifen solche Kurzzeitprognosen bereits um sich. Viele Big-Data-Anwendungen versuchen beispielsweise, genau solche Prozesse zu simulieren: Aus bekannten Lagerbeständen und historischen sowie aktuellen Verkaufsdaten werden auf diese Weise vermutliche Abverkäufe im weiteren Tagesverlauf prognostiziert. In der Makroökonomie haben im vergangenen Jahrzehnt die sogenannten PMI-Indikatoren rasant Karriere gemacht: Diese Umfragen unter Einkaufsmanagern über die aktuelle und die erwartete wirtschaftliche Lage haben sich als die besten Vorausindikatoren für die wirtschaftliche Gesamtleistung (BIP) erwiesen - die PMI-Veränderung von Juni sieht fast immer fast genauso aus wie die BIP-Veränderung im September.
 
-Und in einer kleinen, aber prominenten Branche können inzwischen sogar Prognosen für die 
+Und in einer kleinen, aber prominenten Branche können inzwischen sogar Prognosen für die nächsten Minuten entscheidend sein: bei der Formel 1. Insbesondere, wenn Regen in der Luft liegt, geht es da nicht um Regenwahrscheinlichkeitsprozente, sondern schlicht darum, ob und wann und wie viel es wo im Rennverlauf regnen wird - denn wer eine Runde zu früh oder zu spät zum Reifenwechseln in die Box fährt, kann sich so um alle Chancen auf den Sieg bringen.
 
-nachsten Minuten entscheidend sein: bei der Formel I. Insbesondere, wenn Regen
+**STIMMUNGSVORHERSAGE** Für Privatpersonen sind solcherart Zukunftsprognosen bisher aber noch kaum im Angebot. So genau wie die Formel-1-Rennställe hätten wir die Wettervorhersage manchmal auch gern - wenn es urns Grillen oder um eine Fahrradtour geht, kann von Sonne oder Regen schliesslich der Familienfrieden abhängen. Die persönliche Ultrakurzzeit-Wetterprognose könnte sogar zur Einstiegsdroge werden, um Mediennutzer daran zu gewöhnen, dass ihre Zeitung ihnen jetzt ihre Zukunft vorhersagt. Auch Fahrzeitprognosen für individuelle Wege oder Stimmungsvorhersagen für eine Region könnten zu den Produkten gehören, die beispielsweise ein lokales Medium seinen Kunden anbieten könnte. Technisch aufwendig, auf jeden Fall, aber mit unmittelbar verständlichem Nutzen.
 
-in der Luft liegt, geht es da nicht um Regenwahrscheinlichkeitsprozente, sondern schlicht darum, ob und wann und wie
-
-vie! es wo im Rennverlauf regnen wird-denn wer eine Runde
-
-zu fruh oder zu spat zum Reifenwechseln in die Box fahrt,
-
-kann sich so um alle Chancen auf den Sieg bringen.
-
-In einer Branche konnen sogar
-
-Minuten-Prognosen entscheidend
-
-sein: in der Formel 1.
-
-kiiufe im weitercn Tagesverlaufprognostiziert. In der Makroo
-
-konomie haben im
-
-vergangenen Jahrzehnt die sogenannten
-
-PMJ-indikatoren rasant Karriere gemacht: Diese Umfragen
-
-unter Einkaufsmanagern Uber die aktuelle und die erwartete
-
-wirischaftlichc Lage haben sich alsdie besten VorausindikatoSTIMMUNGSVORHERSAGE Fur Privatpersonen sind solcherart Zukunftsprognosen bisher aber noch kaum im Angebot. So genau wie die Formel-1-Rennstiille hiitten wir die Wettervorhersage manchmal auch gern-wenn es urns Grillen oder um
-
-\--
-
-ä
-
-ö
-
-ü
-
-Ü
+**LEITPROGNOSE** Technisch völlig unproblematisch und inhaltlich besonders spannend wäre aber, wenn sich die Medien an dem messen liessen, was sie selbst als eine ihrer grossen Stärken ansehen: ihre Sachkompetenz und ihre Einordnungsfähigkeit. Wenn die Journalisten eines Qualitätsmediums tatsächlich so qualitativ hochwertige Arbeit leisten, dann müsste es doch machbar sein, aufgrund der eigenen Analyse Prognosen über den weiteren Ablauf zu machen - ob Nahostkonflikt, Eurokrise oder Migrationsdebatte. Und das derart, dass hinterher beurteilt werden kann, ob die Prognose auch tatsächlich eingetroffen ist. Von Börsenjournalisten kennen wir das schon - jetzt wären als Nächstes die Leitartikler dran.
