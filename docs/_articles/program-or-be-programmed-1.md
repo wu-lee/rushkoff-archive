@@ -8,7 +8,6 @@ blurb: ''
 notes: "2010"
 refs: ''
 sources: ''
-published: false
 
 ---
 FACEBOOK
