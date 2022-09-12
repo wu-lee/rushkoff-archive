@@ -8,7 +8,6 @@ blurb: ''
 notes: "2013  \nIssue 2"
 refs: ''
 sources: ''
-published: false
 
 ---
 Die Gegenwart macht sich breit. Wer keine Echtzeit bieten kann, läuft ausser Konkurrenz. Auch wenn Begriffe wie «Timeline» eine lineare Zeitbezogenheit nahelegen, geht es (fast) nur um deren Ende im Jetzt - und um die Verlängerung in die allernächste Zukunft. Am besten ist positioniert, wer der Gegenwart genau diese Nasenlänge voraus ist.
