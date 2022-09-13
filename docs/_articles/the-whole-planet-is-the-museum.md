@@ -13,140 +13,120 @@ sources: ''
 published: false
 
 ---
-I met Genesis in the early '90s in the Bay Area. He needed a lift to Timothy Leary's house in Beverly Hills, and I needed an interview for a book I was writing about viral media. We spent about six hours in the car together, trying to impress one another with our strangest thoughts while Gen's two daughters fought in the back seat. 
+I met Genesis in the early '90s in the Bay Area. He needed a lift to Timothy Leary's house in Beverly Hills, and I needed an interview for a book I was writing about viral media. We spent about six hours in the car together, trying to impress one another with our strangest thoughts while Gen's two daughters fought in the back seat.
 
-sciousness with psychedelics at almost We've been friends ever since. 
+We've been friends ever since.
 
-exactly the same time. Then you had I guess it's about ten years later, now. 
+I guess it's about ten years later, now. I've gotten married, become an author and university professor, while Gen has been kicked out of the UK forever, gotten divorced and married again, replaced his teeth with gold ones, and done some other stuff to his body that I'd be scared to. Still, in spite of our outward differences, we're on the same path, and often use one another for guidance along the way.
 
-people like Brion Gysin and William I've gotten married, become an author 
+themselves: How do we short-circuit See, if you're going to be an artist or writer or magician, you've got to navigate
 
-Burroughs learning to split the cultur and university professor, while Gen has 
+linearity and control? Let's experi through some treacherous zones. If you're
 
-al atom with cut-ups in a much more been kicked out of the UK forever, gotten 
+ment, and let's be methodical, let's
 
-methodical and conscientious way. divorced and married again, replaced his 
+\** not traversing new territory (or at least
 
-Instead of it being a reaction against teeth with gold ones, and done some other 
+CHOP THINGS UP-just like a sci forgotten territory) then why write
 
-the Horror, it was actually a consid stuff to his body that I'd be scared to. 
+entist would! -- and see what the instead of just reading? And many of
 
-WINON 
+building blocks are. And in their case these regions can be culturally, intellectu
 
-ered and very carefully and very Still, in spite of our outward differences, 
+of course, the thing to chop up would ally, physically and psychically challeng
 
-meticulously observed process of.... we're on the same path, and often use one 
+dandy brainiacs douglas rushkoff and genesis p-orridge be language. So they started to chop gorta o ing. Disorientation can't be avoided - it is
 
-Well, in a sense they challenged . another for guidance along the way. 
+up words. the rule. Panic is the thing you have to
 
-themselves: How do we short-circuit See, if you're going to be an artist or writer or magician, you've got to navigate 
+Genesis: Well... The preamble would permutation: "Poets don't own watch out for.
 
-linearity and control? Let's experi through some treacherous zones. If you're 
+I came in around this point, where So, Gen and I have these long talks
 
-ment, and let's be methodical, let's 
+be this: in the early '60s, somewhat words, words poets don't own, own suddenly it's ALL up for grabs. I was 2012 every month or so. Sometimes they're parallel to my becoming aware of the words poets don't" and it was only in born in 1950, so in 1960 I'm ten: my W : data dumps, and sometimes they're beatniks, I started to discover Dada recently that I actually experienced it mind's beginning to really think, progress reports. This one is probably
 
-\** not traversing new territory (or at least 
+a a nd Surrealism. The first time I'd in a visceral way, that that's been the make thought processes as well as
 
-CHOP THINGS UP-just like a sci forgotten territory) then why write 
+25 l little more the latter, coming as it does on heard of cut n paste, I think was big change. This is what you're talk- just observe and absorb, and so I was 26w To the release of Gen's new book, Painful but Brion Gysin giving Raoul Hausman ing about: that we are blessed, or really blessed in that the material Fabulous: The Lives & Art of Genesis P
 
-entist would! -- and see what the instead of just reading? And many of 
+and one or two of the Dadaists the gifted, or pushed, by various events to world, the world of consciousness, Orridge (Soft Skull Shortwave).
 
-building blocks are. And in their case these regions can be culturally, intellectu 
+credit as one of his inspirations. He deal with the information that's com- and the world of accepted forms of
 
-of course, the thing to chop up would ally, physically and psychically challeng 
+10 -Douglas Rushkoff
 
-dandy brainiacs douglas rushkoff and genesis p-orridge be language. So they started to chop gorta o ing. Disorientation can't be avoided - it is 
+said they would cut up words from ing at us, and that society and culture writing and painting and music, all
 
-up words. the rule. Panic is the thing you have to 
+suddenly came up for grabs. They all Douglas: Your new book has
 
-Genesis: Well... The preamble would permutation: "Poets don't own watch out for. 
+became malleable. To many peo served for me as an occasion to
 
-I came in around this point, where So, Gen and I have these long talks 
+ple, the rulebooks were thrown look back on the history of cut
 
-be this: in the early '60s, somewhat words, words poets don't own, own suddenly it's ALL up for grabs. I was 2012 every month or so. Sometimes they're parallel to my becoming aware of the words poets don't" and it was only in born in 1950, so in 1960 I'm ten: my W : data dumps, and sometimes they're beatniks, I started to discover Dada recently that I actually experienced it mind's beginning to really think, progress reports. This one is probably 
+out. I don't think it's just coin and-paste, as well as its
 
-a a nd Surrealism. The first time I'd in a visceral way, that that's been the make thought processes as well as 
+cidental, all of this splitting of tremendous influence on art
 
-25 l little more the latter, coming as it does on heard of cut n paste, I think was big change. This is what you're talk- just observe and absorb, and so I was 26w To the release of Gen's new book, Painful but Brion Gysin giving Raoul Hausman ing about: that we are blessed, or really blessed in that the material Fabulous: The Lives & Art of Genesis P 
+atoms and consciousness and and culture every since. Cut
 
-and one or two of the Dadaists the gifted, or pushed, by various events to world, the world of consciousness, Orridge (Soft Skull Shortwave). 
+cultural forms- I think that it THIS MORNING and-paste can even be under
 
-credit as one of his inspirations. He deal with the information that's com- and the world of accepted forms of 
+was a very important evolution stood as a first, rebellious step
 
-10 -Douglas Rushkoff 
+ary moment, that we still
 
-said they would cut up words from ing at us, and that society and culture writing and painting and music, all 
+9\. p-orridge towards the attainment of genuine
 
-suddenly came up for grabs. They all Douglas: Your new book has 
+haven't fully grasped. As you Co-authorship. From a broad, histori
 
-became malleable. To many peo served for me as an occasion to 
+said, it's TOTALLY affected the cul cal perspective, it seems to me that one of their poems, putting them in a are, if you like, a solidity that's based ture on every possible level on tele we move through three stages. We hat, and then they'd draw words out on the inertia and linearity. This vision all the adverts are just cut begin by passively absorbing the of the hat, and make a new poem. solidity is oppressive, and in order to ups!-to degrees that most people information that's fed to us - the What had happened was that more even begin to be anything one might haven't even considered yet. datastream. Then, maybe with the emotionally based artists, the ones label 'free' or 'liberated, you have to At the time, I was being educated in Protestant Reformation and the print- who were actually involved in feeling short-circuit control, as Burroughs an English public school and the basic ing press, we gained the ability to human as well as just glorifying cre- used to put it. Because control is ulti- bumper sticker for those is, We're interpret this information for our ativity, had become very disconnected mately an oppressor. Control really building the leaders of tomorrow. The
 
-ple, the rulebooks were thrown look back on the history of cut 
+selves, to some extent. Then, with cut from the concept of linearity, the con- DOES contain all the feedback loops 'leaders of tomorrow' were supposed SORRY. My tolerance
 
-out. I don't think it's just coin and-paste, as well as its 
+and paste, we achieve the ability to cept of Reason, all the material con- of consumer culture that you've to be the shepherds and farmers of level is light
 
-cidental, all of this splitting of tremendous influence on art 
+I mean
 
-atoms and consciousness and and culture every since. Cut 
+take what's been presented to us and cepts of the world. They had just talked about so astutely.
 
-cultural forms- I think that it THIS MORNING and-paste can even be under 
+inertia: to maintain the status quo, move it around a little bit. We can experienced the first world war, I'm know I'm going in a weird loop the Establishment. There was a book I just feel so
 
-was a very important evolution stood as a first, rebellious step 
+create new meanings through transpo- which had led to this Armageddon, here, but basically the point is that that came out that was called The frustrated
 
-ary moment, that we still 
+sitions of what's there, but that's lim- this hell on earth, and this was their during the middle of the last century, Shock of the New. (pausing\] Let me ited, in a sense, to a kind of satire or reaction against what they saw as the idea of having to be an Artist who think about what it felt like. I'm just
 
-9\. p-orridge towards the attainment of genuine 
+self-conscious juxtaposition. And now, that war's cause: the misplaced cele- owned each thing fell apart. The trying to track back. This seems te me!
 
-haven't fully grasped. As you Co-authorship. From a broad, histori 
+finally, with computing and the inter- bration of Reason, the control over Dadaists did live events. They did col- weird to say this, but I remember net, with the ability to actually author information and culture in society, laborations. They did 'The Exquisite during the Cuban missile crisis going what for lack of a better word would the harmful repression of irrationali Corpse,' where they would do a draw- to school and being told, You may not be 'original material, now we move ty, which had backfired.
 
-said, it's TOTALLY affected the cul cal perspective, it seems to me that one of their poems, putting them in a are, if you like, a solidity that's based ture on every possible level on tele we move through three stages. We hat, and then they'd draw words out on the inertia and linearity. This vision all the adverts are just cut begin by passively absorbing the of the hat, and make a new poem. solidity is oppressive, and in order to ups!-to degrees that most people information that's fed to us - the What had happened was that more even begin to be anything one might haven't even considered yet. datastream. Then, maybe with the emotionally based artists, the ones label 'free' or 'liberated, you have to At the time, I was being educated in Protestant Reformation and the print- who were actually involved in feeling short-circuit control, as Burroughs an English public school and the basic ing press, we gained the ability to human as well as just glorifying cre- used to put it. Because control is ulti- bumper sticker for those is, We're interpret this information for our ativity, had become very disconnected mately an oppressor. Control really building the leaders of tomorrow. The 
+ing, fold it, next person would draw come home tonight because there into artistry. But a truly interesting That's really where the first step some more, fold it, and then the might be an atomic war. I remember JANUARY 10, 1999
 
-selves, to some extent. Then, with cut from the concept of linearity, the con- DOES contain all the feedback loops 'leaders of tomorrow' were supposed SORRY. My tolerance 
+moment was that first cut-and-paste came, that disconnection from, and result was the art. And of course no being on a bus, with my face on the moment, that first moment of, "Okay obsession with, a finished, perfect one could say with any of these activi- window, and I suddenly imagined the this is being fed to us, BUT we can do result that was 'owned' by the artist ties, 'I did that.' They all did it, but it glass just melting around my face. I this with it, or to it, and get some that made it. One of Brion Gysin's also made itself. That processes imagined there being an explosion, thing else." I'd be interested in hear- greatest poems, which I didn't under- intrigued the more interesting artists and the result of that explosion being ing from you what was it like to be stand until very recently, was 'Poets from then on.
 
-and paste, we achieve the ability to cept of Reason, all the material con- of consumer culture that you've to be the shepherds and farmers of level is light 
+me enfolded in molten glass. part of that moment.
 
-I mean 
+don't own words." He would do a
 
-take what's been presented to us and cepts of the world. They had just talked about so astutely. 
+Preserved in this shell of molten Now, it's always good to look at
 
-inertia: to maintain the status quo, move it around a little bit. We can experienced the first world war, I'm know I'm going in a weird loop the Establishment. There was a book I just feel so 
+January 2003 Arthur
 
-create new meanings through transpo- which had led to this Armageddon, here, but basically the point is that that came out that was called The frustrated 
+EVERYTHING I'D BEEN TOLD ABOUT REALITY
 
-sitions of what's there, but that's lim- this hell on earth, and this was their during the middle of the last century, Shock of the New. (pausing\] Let me ited, in a sense, to a kind of satire or reaction against what they saw as the idea of having to be an Artist who think about what it felt like. I'm just 
+JUST WASN'T TRUE.
 
-self-conscious juxtaposition. And now, that war's cause: the misplaced cele- owned each thing fell apart. The trying to track back. This seems te me! 
+BUT. SOON
 
-finally, with computing and the inter- bration of Reason, the control over Dadaists did live events. They did col- weird to say this, but I remember net, with the ability to actually author information and culture in society, laborations. They did 'The Exquisite during the Cuban missile crisis going what for lack of a better word would the harmful repression of irrationali Corpse,' where they would do a draw- to school and being told, You may not be 'original material, now we move ty, which had backfired. 
+CRab latel
 
-ing, fold it, next person would draw come home tonight because there into artistry. But a truly interesting That's really where the first step some more, fold it, and then the might be an atomic war. I remember JANUARY 10, 1999 
+UP
 
-moment was that first cut-and-paste came, that disconnection from, and result was the art. And of course no being on a bus, with my face on the moment, that first moment of, "Okay obsession with, a finished, perfect one could say with any of these activi- window, and I suddenly imagined the this is being fed to us, BUT we can do result that was 'owned' by the artist ties, 'I did that.' They all did it, but it glass just melting around my face. I this with it, or to it, and get some that made it. One of Brion Gysin's also made itself. That processes imagined there being an explosion, thing else." I'd be interested in hear- greatest poems, which I didn't under- intrigued the more interesting artists and the result of that explosion being ing from you what was it like to be stand until very recently, was 'Poets from then on. 
+lowed
 
-me enfolded in molten glass. part of that moment. 
+do you
 
-don't own words." He would do a 
+No. 1
 
-Preserved in this shell of molten Now, it's always good to look at 
-
-January 2003 Arthur 
-
-EVERYTHING I'D BEEN TOLD ABOUT REALITY 
-
-JUST WASN'T TRUE. 
-
-BUT. SOON 
-
-CRab latel 
-
-UP 
-
-lowed 
-
-do you 
-
-No. 1 
-
-love 
+love
 
 you
