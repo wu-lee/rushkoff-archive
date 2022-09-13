@@ -19,35 +19,7 @@ In _Nothing is Sacred_, Rushkoff dares to question some basic assumptions about 
 
 The reaction to his book has been extraordinary. Rarely has a Jewish author been so excoriated, mostly by people who have only read the reviews and read "bites" that have been taken out of context. Many of them have anthropomorphized God into an old man with a long white beard, micromanaging the Universe and toting up brownie points. Many Jews have forgotten that whatever you think God is, that is what God is NOT. That's why there is a second commandment, and that's why Jews are the original iconoclasts. There shall be no graven images before you--not even in your mind's eye.
 
-R
-
-ushkoff is mostly known for his
-
-1:,ooks on cyberspace and the
-
-media. He, better than most,
-
-knows about interaction and intercon-
-
-nectivity. He writes for the New Yark
-
-Tmies, Tmie and other "hot" publications
-
-on that subject. He is astonished at the
-
-heat and rage his words have engendered.
-
-Obviously, when Douglas Rushkoff
-
-quotes Joan Rivers and asks, "Can We
-
-Talkr' the answer i,, "Absolutely not,"
-
-prompting the qt m ''Whyr' Perhaps
-
-the answers co tl · in the Q&A below,
-
-conducted by K ·plebaum.
+Rushkoff is mostly known for his books on cyberspace and the media. He, better than most, knows about interaction and interconnectivity. He writes for the _New York Times_, _Time_ and other "hot" publications on that subject. He is astonished at the heat and rage his words have engendered. Obviously, when Douglas Rushkoff quotes Joan Rivers and asks, "Can We Talk?" the answer is, "Absolutely not," prompting the question ''Why?" Perhaps the answers to that lie in the Q&A below, conducted by Ken Applebaum.
 
 Q. How did upbringing and child-
 
