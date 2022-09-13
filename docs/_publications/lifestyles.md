@@ -1,0 +1,5 @@
+---
+title: Lifestyles
+url: ''
+
+---
