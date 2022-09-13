@@ -19,27 +19,7 @@ We've been friends ever since.
 
 I guess it's about ten years later, now. I've gotten married, become an author and university professor, while Gen has been kicked out of the UK forever, gotten divorced and married again, replaced his teeth with gold ones, and done some other stuff to his body that I'd be scared to. Still, in spite of our outward differences, we're on the same path, and often use one another for guidance along the way.
 
-themselves: How do we short-circuit See, if you're going to be an artist or writer or magician, you've got to navigate
-
-linearity and control? Let's experi through some treacherous zones. If you're
-
-ment, and let's be methodical, let's
-
-\** not traversing new territory (or at least
-
-CHOP THINGS UP-just like a sci forgotten territory) then why write
-
-entist would! -- and see what the instead of just reading? And many of
-
-building blocks are. And in their case these regions can be culturally, intellectu
-
-of course, the thing to chop up would ally, physically and psychically challeng
-
-dandy brainiacs douglas rushkoff and genesis p-orridge be language. So they started to chop gorta o ing. Disorientation can't be avoided - it is
-
-up words. the rule. Panic is the thing you have to
-
-Genesis: Well... The preamble would permutation: "Poets don't own watch out for.
+See, if you're going to be an artist or writer or magician, you've got to navigate through some treacherous zones. If you're not traversing new territory (or at least forgotten territory) then why write instead of just reading? And many of these regions can be culturally, intellectually, physically and psychically challenging. Disorientation can't be avoided--it is the rule. Panic is the thing you have to watch out for.
 
 I came in around this point, where So, Gen and I have these long talks
 
