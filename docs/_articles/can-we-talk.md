@@ -23,23 +23,7 @@ Rushkoff is mostly known for his books on cyberspace and the media. He, better t
 
 Q. How did your upbringing and childhood influence your adult perspectives on media and faith?
 
-A: l grew up watching television in the
-
-I 960s and '70s. Even as a child, I could see
-
-the reality depicted in the tube differed
-
-greatly from the world outside. What both-
-
-ered me were the endings. ln the news,
-
-Walter Cronkite ended his broadcasts with
-
-the assertion ''That's the way it is." What an
-
-outrageous statement! And most Americans
-
-believed it. He probably did himself.
+A: l grew up watching television in the 1960s and '70s. Even as a child, I could see the reality depicted in the tube differed greatly from the world outside. What bothered me were the endings. ln the news, Walter Cronkite ended his broadcasts with the assertion ''That's the way it is." What an outrageous statement! And most Americans believed it. He probably did himself.
 
 Meanwhile, sitcoms and one-hour
 
