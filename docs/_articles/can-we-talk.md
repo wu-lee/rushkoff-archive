@@ -21,11 +21,7 @@ The reaction to his book has been extraordinary. Rarely has a Jewish author been
 
 Rushkoff is mostly known for his books on cyberspace and the media. He, better than most, knows about interaction and interconnectivity. He writes for the _New York Times_, _Time_ and other "hot" publications on that subject. He is astonished at the heat and rage his words have engendered. Obviously, when Douglas Rushkoff quotes Joan Rivers and asks, "Can We Talk?" the answer is, "Absolutely not," prompting the question ''Why?" Perhaps the answers to that lie in the Q&A below, conducted by Ken Applebaum.
 
-Q. How did upbringing and child-
-
-hood influence 1our adult perspectives
-
-on media and faith?
+Q. How did your upbringing and childhood influence your adult perspectives on media and faith?
 
 A: l grew up watching television in the
 
