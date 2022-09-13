@@ -17,35 +17,7 @@ Why? Because he asks good, hard questions and understands that we might not like
 
 In _Nothing is Sacred_, Rushkoff dares to question some basic assumptions about contemporary Judaism. His questions are based primarily on the Rambam (Maimonides), whose books were burned when they were first published and from whence a rabbinical decree forbidding the study of Greek philosophy was issued. The questions Rushkoff raises have nothing to do with apostasy, atheism or anti-Zionism. He just examines the roots of Judaism, the Torah, the Talmud, the rabbinical writings of the past and does nothing out of the ordinary. He asks some real, hard questions--questions the Rambam and other great sages have raised in the past before there were European pogroms and a Holocaust that somehow turned Judaism upside down.
 
-fhe r . Rarely has a JewtSh au or
-
-\-rr30rdtn3r"l· _ ed mostly by people who
-
-.:-' xconat , d d ..,,,o sO e, d the reviews an rea
-
-,v ly rea f , 1
-
-,e on ha been taken out o con-
-
-'" " \[hat ve thr -t,jre5 f them have an opomor- ManY O . re\~r- God into an old man w1_th a long
-
-rh1:ed d micromanaging the . e bear , . . ,,h11 d roting up brownie pomts.
-
-LJ \\•erse an ha h
-
-01 j . have forgotten t t w at- ' ews
-
-\~lalll•ou think God is, that is what God
-
-e,erO\\ T That's why there is a second . N . '
-
-5 dment, and that's why Jews are
-
-cot11rnan Th h II be . •nal iconoclasts. ere s a the ong1
-
-,en images before you-not even no gra\\
-
-lll your mind's eye.
+The reaction to his book has been extraordinary. Rarely has a Jewish author been so excoriated, mostly by people who have only read the reviews and read "bites" that have been taken out of context. Many of them have anthropomorphized God into an old man with a long white beard, micromanaging the Universe and toting up brownie points. Many Jews have forgotten that whatever you think God is, that is what God is NOT. That's why there is a second commandment, and that's why Jews are the original iconoclasts. There shall be no graven images before you--not even in your mind's eye.
 
 R
 
