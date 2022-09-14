@@ -33,51 +33,7 @@ As a youth, I never took Judaism very seriously as a faith-based religion. I sup
 
 _Rushkoff attended Princeton and majored in English and pre-med, then earned his Master's in Fine Arts in Theater and Film . He gave up theater as a method of getting people to act, because he felt it was too didactic. He tutored kids for their SATs, wrote some screenplays and turned to books. It wasn 't a career move; it was simply that he sought venues where he could express his ideas and explain the technology that changed all our lives. He was a pioneer writing about the lnternet for the mainstream press in the '80s, explaining what we thought was the nerds' revenge to the rest of us. His first book was_ Cyberia_. He told Applebaum:_
 
-S
-
-ilicon Valley was filled with
-
-Deadheads, ravers and other radi-
-
-cally psychedelic people. I
-
-thought computer people were nerds,
-
-not freaks. What was there about the
-
-technology that excited chem so? They
-
-designed the new interfaces-the new
-
-realities-and were the only people
-
-with significant experience navigating
-
-hallucinatory realms. There was a single
-
-cultural shift taking place across a dis-
-
-parate range of fields and disciplines. No
-
-one had quite put their finger on it, but
-
-people accepted the fact that our reali-
-
-ties are designed and can be redesigned.
-
-Kids working in mach, physics, music,
-
-electronics, networking, holography, rave,
-
-fantasy role-playing, even eco-terrorism,
-
-were all coming up with the same basic
-
-insight, but thought ic was exclusively
-
-theirs. I wrote Cyberia to lee everyone
-
-know about chat shift.
+Silicon Valley was filled with Deadheads, ravers and other radically psychedelic people. I thought computer people were nerds, not freaks. What was there about the technology that excited chem so? They designed the new interfaces--the new realities--and were the only people with significant experience navigating hallucinatory realms. There was a single cultural shift taking place across a disparate range of fields and disciplines. No one had quite put their finger on it, but people accepted the fact that our realities are designed and can be redesigned. Kids working in math, physics, music, electronics, networking, holography, rave, fantasy role-playing, even eco-terrorism, were all coming up with the same basic insight, but thought it was exclusively theirs. I wrote _Cyberia_ to let everyone know about that shift.
 
 Q: What enduring lesson or perspective
 
