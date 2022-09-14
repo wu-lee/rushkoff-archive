@@ -63,59 +63,11 @@ Judaism was invented as a way for human beings to take an active role in their o
 
 But people today feel that they're either not entitled to rework and improve their religion, or that they are incapable of doing so. People seem to need permission to have their own conversation with Judaism. People should know they can gain access to the core narrative and customs. This religion belongs to them, as much as to anyone. But they need to study the code of the Torah, Talmud and Judaism before they can "revise" it.
 
-Some people think this kind of"revi-
+Some people think this kind of "revisionism" threatens Jewish continuity. But Jewish continuity is a process of revision and reconsideration. Revision is simply part of our tradition of radical appraisal and evolution. Our "sacred" truths get in the way of our living relationship with religion. In Judaism, nothing is so sacred that it carmot be discussed. It's all open, right down to the source, and those who want it have access to it.
 
-sionism" threatens Jewish continuity. But
+Our tradition experienced three main shocks to the system. The first was in mythical Egypt, when we rejected the concretized gods of that first-born civilization in order to invent a more abstract model of God. This was hard to do, and is symbolized in the Torah by the Ten Plagues. Each plague represents the desecration of another Egyptian god: blood desecrates the Nile, locusts desecrate the corn, darkness desecrates the sun, and so on. The Nile, corn, and the sun were gods. Finally, the sacrifice of the lamb, the highest Egyptian god--creator of the universe--is what saves the Hebrews' sons.
 
-Jewish continuity is a process of revision
-
-and reconsideration. Revision is simply
-
-part of our tradition of radical appraisal
-
-and evolution. Our "sacred" truths get in
-
-the way of our living relationship with
-
-religion. In Judaism, nothing is so sacred
-
-that it carmot be discussed. It's all open,
-
-right down to the source, and those who
-
-want it have access to it.
-
-Our tradition experienced three
-
-main shocks to the system. The first was in
-
-mythical Egypt, when we rejected the
-
-concretized gods of that first-born civiliza-
-
-tion in order to invent a more abstract
-
-model of God. This was hard to do, and is
-
-symbolized in the Torah by the Ten
-
-Plagues. Each plague represents the dese-
-
-cration of another Egyptian god: blood
-
-desecrates the Nile, locusts desecrate the
-
-com, darkness desecrates the sun, and so
-
-on. The Nile, com, and the sun were gods.
-
-Finally, the sacrifice of the lamb, t\~e
-
-highest Egyptian god--<:reator of ,
-
-the um-
-
-verse---is what saves the Hebrews so\~-
+\~-
 
 l..osing the Temple in 70 CE requ\~
 
