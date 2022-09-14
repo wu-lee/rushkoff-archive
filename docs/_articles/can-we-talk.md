@@ -27,8 +27,40 @@ A: l grew up watching television in the 1960s and '70s. Even as a child, I could
 
 Meanwhile, sitcoms and one-hour dramas strain to resolve their conflicts before time is up. lt didn't seem to matter that Lucy deceived Ricky for 20 television minutes, or that Fred Flintstone lied to his wife, only that the situation found some technical, plot-driven resolution. TV presented a closed American-driven universe, with very particular rules. It encouraged us to look forward to endings, and to accept the endings we were given--it seemed to make them believe the stories of their lives were already written.
 
-Because of the dis.satisfaction I expe-
+Because of the dissatisfaction I experienced with media and because I love to dissect how it is all put together, I welcomed the age of interactive media with great excitement. I saw it as the process through which people would tell their own stories and develop their own narratives, rather than absorbing srories presented by sponsors. I hoped our society would be less addicted to the certainty of conclusions.
 
-rienced with media and because I love to
+As a youth, I never took Judaism very
 
-dissect how it is all put together, I wel-
+seriously as a faith-based religion. I suppose
+
+I believed that Abraham and those mythic
+
+Biblical characters did exist-in the same
+
+way that I believed that pro-wrestling was
+
+real. That probably went on until I was
+
+about 11 years old. We belonged to a
+
+boring Refonn congregation that had more
+
+to do with Zionism and the preservation of
+
+upper middle class suburban values than ic
+
+did with Judaism. I remember one of our
+
+rabbis (subsequently fired) rold us that,
+
+"God is your conscience." I liked that. I
+
+tended not to have any faith, because I was
+
+coming inro consciousness as Nixon
+
+resigned and no one had faith anymore.
+
+Rushkoff attended Princeton and majored in
+
+English and JJre-med, then earned his Master's
