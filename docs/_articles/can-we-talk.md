@@ -69,14 +69,42 @@ Our tradition experienced three main shocks to the system. The first was in myth
 
 \~-
 
-l..osing the Temple in 70 CE requ\~
+Losing the Temple in 70 CE required Jews to reinvent the religion. So we packed it up in the form of the Torah and Talmud and hit the road. We had to learn to do Judaism without our Holy Temple. Many of the prophets saw this as a good thing, because people had begun to worship the Temple itself--it had turned into an icon, an idol.
 
-th 1
+Today some people have reduced Torah to an icon, largely because they've adopted a more distant, literal interpretation. They've done that to make a theistic or religious justification for our claim to the State of Israel. The Jews have a valid claim to territory in the Middle East, but we must find better justifications for it than the argument that "God gave it to us" or "the Torah says it's ours." Perhaps we need to exercise a bit of iconoclasm again, so that we can free the essence of Judaism from the institutions built to protect it. The institutions and structures should not be mistaken for Judaism.
 
-. • So we packed tt Jews to reinvent e re igr.on. d d
+I am not reducing Judaism to social
 
-up in the form of the Torah and d
+justice, as many pundits have suggested.
 
-hit the road. We had to learn to O u /::
+Social justice is the obvious result of
 
-without our Holy Temple. Many o
+behaving in a holy fashion and Judaism is
+
+the path to it. Instead of worshiping idols,
+
+we learn to experience God as an abstract,
+
+an all-encompassing entity. This challenges
+
+the more literal-minded Jews, because it
+
+means that there is nothing to fight about.
+
+After all, none of us knows God. Through
+
+the course of the Bible, God gets increas-
+
+ingly abstract and receded (nistar-hidden),
+
+as if by our growing up God pulls back and
+
+leaves us to our own devices, to spend more
+
+time and energy to take care of each other.
+
+This is how we get to social justice. We
+
+begin to realize that the most sacred thing
+
+is what happens between people.
