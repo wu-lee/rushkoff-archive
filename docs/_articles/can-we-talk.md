@@ -35,35 +35,9 @@ _Rushkoff attended Princeton and majored in English and pre-med, then earned his
 
 Silicon Valley was filled with Deadheads, ravers and other radically psychedelic people. I thought computer people were nerds, not freaks. What was there about the technology that excited chem so? They designed the new interfaces--the new realities--and were the only people with significant experience navigating hallucinatory realms. There was a single cultural shift taking place across a disparate range of fields and disciplines. No one had quite put their finger on it, but people accepted the fact that our realities are designed and can be redesigned. Kids working in math, physics, music, electronics, networking, holography, rave, fantasy role-playing, even eco-terrorism, were all coming up with the same basic insight, but thought it was exclusively theirs. I wrote _Cyberia_ to let everyone know about that shift.
 
-Q: What enduring lesson or perspective
+Q: What enduring lesson or perspective did you take from Cyberia?
 
-did you take from Cyberia?
-
-A: I learned chat no matter how
-
-autonomous a new technology or technique
-
-might make us, some people still long for
-
-power and others long for charismatic
-
-leaders. Look at the Jewish Renewal move-
-
-ment as a case study ... But the problem with
-
-the rave/Internet culture was that it had no
-
-coherent sec of values, just the notion that
-
-we can redesign reality. It was like the '60s,
-
-but without the policies. Ravers--the ones
-
-coherent enough co express big ideas--
-
-spoke of having no agenda. And this made
-
-them ripe for the picking.
+A: I learned that no matter how autonomous a new technology or technique might make us, some people still long for power and others long for charismatic leaders. Look at the Jewish Renewal movement as a case study... But the problem with the rave/Internet culture was that it had no coherent set of values, just the notion that we can redesign reality. It was like the '60s, but without the policies. Ravers--the ones coherent enough to express big ideas--spoke of having no agenda. And this made them ripe for the picking.
 
 This resulted in a fictionalization of
 
