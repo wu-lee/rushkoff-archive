@@ -51,20 +51,68 @@ I'm concerned that we are being fed messages. People should know that most media
 
 Q: Last year, Exit Strategy was published. It seems couched in media, the Internet, marketing and society's burgeoning potential. However, it is also the Biblical tale of Joseph and deals with "born-again" Jews, "lapsed" Jews, the growing disparity between the observant and the secular segments of Jewish culture and subtle forms of anti-semitism or, more properly, systems designed to favor an incumbent, more gentile power structure. Is this novel a bridge between two phases in your writing career or sign of a departure?
 
-A: My books aren't bridges because I don't
+A: My books aren't bridges because I don't plan out my writing career. Using the story of Joseph as an apt allegory, _Exit Strategy_ looks at how the application of the underlying ethics of the Jewish system could prevent the kind of insanity that we went through at the end of the 1990s. Those years were about market fascism and that has occurred many times before--always with the same result. It is a parable for how we release ourselves from mental bondage, from the slavery of worshiping an idolatrous system like the stock market.
 
-plan out my writing career. Using the story
+_Nothing is Sacred_ isn't a departure from media theory at all. Judaism is a medium. The mistake of Internet business people--the same ones I satirized in _Exit Strategy_--was to think that "content is king." It never was. _Contact_ is king in an interactive environment. Judaism was invented at the height of idolatrous civilization to make the point: get rid of the gods so that people can come into contact with one another.
 
-of Joseph as an apt allegory, Exit Strategy
+Q: In Nothing is Sacred: The Truth
 
-looks at how the application of the under-
+About Judaism, the original subtitle
 
-lying ethics of the Jewish system could pre-
+was to be "The Case For Open Source
 
-vent the kind of insanity that we went
+Judaism ." Your website is www.open-
 
-through at the end of the 1990s. Those
+sourcejudai sm.com. What does
 
-years were about market fascism and that
+"open source" mean, and how are 1\~e
 
-has occurred many times before-always
+to apply that concept to what man)
+
+see as undeniable truths?
+
+A: Open source is a term borrowed
+
+from computer software de\\'elopment.
+
+People using software should ha\\·e the
+
+ability to change and improve it. The code
+
+is not locked down or kept secret; it is open
+
+to everyone to rework and evolve. I belie\\·e
+
+religions should be thought of in this way,
+
+too. At least Judaism should, because
+
+Judaism was invented as an altemative to
+
+the pagan religions of its day. People rrayed
+
+to gods for stuff-fertility, rain, sun ... We
+
+were children, depending on the whims of
+
+the gods. We measured time with a circular
+
+calendar, because there was no concept of
+
+progress. We couldn't make thing:;
+
+better-things stayed the same, and gt't
+
+momentarily better or worse because 0f the
+
+gods' moods. .
+
+Judaism was invented as a way for
+
+human beings to take an active role in their
+
+own existence. We believe in the one G,-1. -·ble but we understand that we are resroru1
+
+for what happens on this planer, in this uni·
+
+verse, in our lives. Instead of understanding
