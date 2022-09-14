@@ -25,16 +25,10 @@ Q. How did your upbringing and childhood influence your adult perspectives on me
 
 A: l grew up watching television in the 1960s and '70s. Even as a child, I could see the reality depicted in the tube differed greatly from the world outside. What bothered me were the endings. ln the news, Walter Cronkite ended his broadcasts with the assertion ''That's the way it is." What an outrageous statement! And most Americans believed it. He probably did himself.
 
-Meanwhile, sitcoms and one-hour
+Meanwhile, sitcoms and one-hour dramas strain to resolve their conflicts before time is up. lt didn't seem to matter that Lucy deceived Ricky for 20 television minutes, or that Fred Flintstone lied to his wife, only that the situation found some technical, plot-driven resolution. TV presented a closed American-driven universe, with very particular rules. It encouraged us to look forward to endings, and to accept the endings we were given--it seemed to make them believe the stories of their lives were already written.
 
-l their conflicts dramas strain to reso ve
+Because of the dis.satisfaction I expe-
 
-before rime is up. lt didn't seem to m\~tter
+rienced with media and because I love to
 
-d R. k f. 20 telev1s1on that Lucy deceive ic Y or . d h"
-
-F d Flintstone he to 15
-
-minutes or that re d ' th ·ruation foun some
-
-wife, only that e si l . n TV pre-
+dissect how it is all put together, I wel-
