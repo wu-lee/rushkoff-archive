@@ -29,37 +29,7 @@ Meanwhile, sitcoms and one-hour dramas strain to resolve their conflicts before 
 
 Because of the dissatisfaction I experienced with media and because I love to dissect how it is all put together, I welcomed the age of interactive media with great excitement. I saw it as the process through which people would tell their own stories and develop their own narratives, rather than absorbing srories presented by sponsors. I hoped our society would be less addicted to the certainty of conclusions.
 
-As a youth, I never took Judaism very
-
-seriously as a faith-based religion. I suppose
-
-I believed that Abraham and those mythic
-
-Biblical characters did exist-in the same
-
-way that I believed that pro-wrestling was
-
-real. That probably went on until I was
-
-about 11 years old. We belonged to a
-
-boring Refonn congregation that had more
-
-to do with Zionism and the preservation of
-
-upper middle class suburban values than ic
-
-did with Judaism. I remember one of our
-
-rabbis (subsequently fired) rold us that,
-
-"God is your conscience." I liked that. I
-
-tended not to have any faith, because I was
-
-coming inro consciousness as Nixon
-
-resigned and no one had faith anymore.
+As a youth, I never took Judaism very seriously as a faith-based religion. I suppose I believed that Abraham and those mythic Biblical characters did exist--in the same way that I believed that pro-wrestling was real. That probably went on until I was about 11 years old. We belonged to a boring Refonn congregation that had more to do with Zionism and the preservation of upper middle class suburban values than it did with Judaism. I remember one of our rabbis (subsequently fired) told us that, "God is your conscience." I liked that. I tended not to have any faith, because I was coming into consciousness as Nixon resigned and no one had faith anymore.
 
 Rushkoff attended Princeton and majored in
 
