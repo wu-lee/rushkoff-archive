@@ -73,38 +73,28 @@ Losing the Temple in 70 CE required Jews to reinvent the religion. So we packed 
 
 Today some people have reduced Torah to an icon, largely because they've adopted a more distant, literal interpretation. They've done that to make a theistic or religious justification for our claim to the State of Israel. The Jews have a valid claim to territory in the Middle East, but we must find better justifications for it than the argument that "God gave it to us" or "the Torah says it's ours." Perhaps we need to exercise a bit of iconoclasm again, so that we can free the essence of Judaism from the institutions built to protect it. The institutions and structures should not be mistaken for Judaism.
 
-I am not reducing Judaism to social
+I am not reducing Judaism to social justice, as many pundits have suggested. Social justice is the obvious result of behaving in a holy fashion and Judaism is the path to it. Instead of worshiping idols, we learn to experience God as an abstract, an all-encompassing entity. This challenges the more literal-minded Jews, because it means that there is nothing to fight about. After all, none of us knows God. Through the course of the Bible, God gets increasingly abstract and receded (_nistar_-hidden), as if by our growing up God pulls back and leaves us to our own devices, to spend more time and energy to take care of each other. This is how we get to social justice. We begin to realize that the most sacred thing is what happens between people.
 
-justice, as many pundits have suggested.
+Q: How does this translate into today's Judaism?
 
-Social justice is the obvious result of
+A: I think Judaism today has been crippled by our obsession with race, assimilation and Israel. Right now in America, Jews are stuck in a siege mentality caused by the Shoah, and the institutions built to protect Jewish ideas and methods hang on to that mentality for fundraising reasons, while others try to make their insights into Torah _the_ exclusive insights into Torah.
 
-behaving in a holy fashion and Judaism is
+For starters, J ew s are not a race. " Fust, I "
 
-the path to it. Instead of worshiping idols,
+h lied the Israelites a peop e. Pharao ca_ In uisitors invented a
 
-we learn to experience God as an abstract,
+The Spanish q they needed to per-
 
-an all-encompassing entity. This challenges
+up in the fonn of
 
-the more literal-minded Jews, because it
+th
 
-means that there is nothing to fight about.
+e Tot an\~\~ d\~-J\~daism
 
-After all, none of us knows God. Through
+lut the road. We had to 7,'." Many o/ <he
 
-the course of the Bible, God gets increas-
+11ithout our Holy Temp ·
 
-ingly abstract and receded (nistar-hidden),
+. h " because . "Jew1s race, d to Christianity. J ho convene f
 
-as if by our growing up God pulls back and
-
-leaves us to our own devices, to spend more
-
-time and energy to take care of each other.
-
-This is how we get to social justice. We
-
-begin to realize that the most sacred thing
-
-is what happens between people.
+secute ews w . I ead the notion o Then Jung and Hit er spr
