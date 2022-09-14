@@ -39,8 +39,32 @@ Q: What enduring lesson or perspective did you take from Cyberia?
 
 A: I learned that no matter how autonomous a new technology or technique might make us, some people still long for power and others long for charismatic leaders. Look at the Jewish Renewal movement as a case study... But the problem with the rave/Internet culture was that it had no coherent set of values, just the notion that we can redesign reality. It was like the '60s, but without the policies. Ravers--the ones coherent enough to express big ideas--spoke of having no agenda. And this made them ripe for the picking.
 
-This resulted in a fictionalization of
+This resulted in a fictionalization of _Cyberia_, called _The Ecstacy Club_.
 
-Cyberia, called The Ecstacy Club.
+_Ecstasy Club_ is about a social experiment gone awry, about a rave club turning slowly into a cult. Countercultural movements remain countercultural by continually defining themselves against the status quo, but this is a losing proposition because it causes extremism. In _The Ecstasy Club_, the group of kids keeps repositioning itself in order to remain counter-cultural and different, and so it goes nuts. They don't realize that the tools for change are right in front of them. It doesn't take a strange attractor (from chaos math) or an alien visitation to make change.
 
-Ecstasy Club is about a social experi-
+Q: Media Virus! \[another Rushkoff book\] explores many of the memes contained in mass media. What are memes and why do we, as consumers of media, need to be more aware of them?
+
+A: Memes are a way of talking about ideas that are less efficient than they are worth. All people need to know is that different ideas are streaming at them through media all the time. The ideas that nest themselves best in our brains and replicate like viruses are the ones that exploit our weaknesses. Ideas spread through the media safely, sometimes because they are hidden in seemingly innocuous media, like kids' shows. This a good thing because it allows for some very progressive notions to spread for a good long time--like in _The Simpsons_, which is filled with great ideas, encased in comic shells, but it can also be deadly.
+
+I'm concerned that we are being fed
+
+messages. People should know that most
+
+media is designed to make you feel bad, so
+
+that you regress to a childlike state and
+
+transfer parental authority onto the sponsor.
+
+You are more vulnerable to messages when
+
+you feel really bad or when you feel artifi-
+
+cially high (like at a Promisekeepers or
+
+Amway rally). The main message of the
+
+ma instream media is: The world is dan-
+
+gerous and mean; you are not worthy. You
