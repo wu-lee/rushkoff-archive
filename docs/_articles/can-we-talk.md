@@ -8,7 +8,6 @@ blurb: ''
 notes: "Fall 2003  \nVol. 32, No. 187"
 refs: ''
 sources: ''
-published: false
 
 ---
 _The Jerusalem Report_ called him an atheist because he is an iconoclast, but then, the writer who was so supremely critical of this young, 42-year old deep thinker, Douglas Rushkoff, obviously doesn't understand the second of the Ten Commandments. Jews are the original iconoclasts. That's why everyone else hates them--for that and providing the world with the rest of the Ten Commandments. But people don't get it. Douglas Rushkoff, author of _Nothing is Sacred_, does get Judaism, very, very well. And because he does, more and more institutional Jews and Jewish institutions see him as a threat to their well-being.
@@ -102,3 +101,11 @@ A: Better that then the slow, numb death Judaism seems committed to at present. 
 The reactions that trouble me more are from Jews who don't relate to their religion, but are afraid to accept that if they don't believe in any particular form of Judaism it may not be Judaism. They think that some _Haredi_ in Jerusalem is practicing the "real" religion. And they get upset to learn that they, themselves, are responsible for their own religion.
 
 But the angriest people are the ones who hear in my message that I hate Judaism, and that I want everyone to burn their Torahs and abandon the whole thing. They call me an antisemite. I presented the head of a million-dollar philanthropy with a scenario: What if everyone in the world practiced Judaism, did all of the _mitzvot_, read Torah, and performed social justice? Would you be happy if everyone in the world did all this, but no one knew it was called "Judaism?" And he thought for a minute, and then shook his head and said, "No!" This word "Judaism" has become more important than Judaism. God never tells the Israelites to be Jews--he tells them to be holy. That's all I'm saying. Let's not mistake the bathwater for the baby.
+
+Q: Has writing Nothing is Sacred changed your life?
+
+A: I can be found at Jewish events more often, but that's because I'm invited, not because I'm finding spiritual fuel there. As a writer, it's taught me (and hopefully my audience) that I'm not limited to writing about technology or media or weird stuff. I can approach a real subject in a scholarly way, and say something quite new about it. It's given me the confidence to think about new areas of inquiry. I hope I'll be spending the year speaking at synagogues, where people and their rabbis are desperately hoping someone will give them permission to take back their religion. I'd take it as a tremendous victory for God if people took to heart their responsibility for working things out with one another, rather than waiting for the big guy to come down and punish the "other" team.
+
+Q: Do you think any of this is likely to come to pass?
+
+A: To some extent, sure. I'm a Jew, so I believe in the possibility of progress.
