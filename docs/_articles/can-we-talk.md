@@ -83,46 +83,6 @@ For starters, Jews are not a race. First, Pharaoh called the Israelites a "peopl
 
 The Reform movement, for all its great insights, also distanced Jews from their own religion. By placing rabbis on a stage and dressing them in robes like Christian clerics, the reformers made a religion that looked like Christianity in order to defuse antisemitism. They succeeded, inadvertently, in distancing Jews from their own religion. As a result, Jews tended to transfer parental authority onto their rabbis, and with it, the responsibility for knowing Torah and the law. The arguments around the table disappeared and were replaced with responsive reading. The religion became a ''holy thing," to be ministered by our "priests," instead of a "negotiation" that was noisily discussed and debated around the table. We could no longer talk.
 
-The establishment of the State of
+The establishment of the State of Israel, though important for many reasons, gave Jews a holy place to care about. We used Torah to defend Israel's right to exist, reducing a transcendental body of literature to a simple land claim. ("God gave this part to Abraham, and Jacob got this piece from that king.") So now Torah can't be discussed or questioned. To relate to Torah as allegory throws our land claim into question. But what if the story is an allegory, too? The goal is to apply a bit of Judaism to Judaism. Let's smash our own false idols, think of God as an abstract, and then see if loving ourselves, each other and other peoples, makes the world a little better. Because we are refusing to allow it to change, Judaism may become a cult. I believe evolution will not compromise our continuity; evolution _is_ our continuity.
 
-Israel, though important for many reasons,
-
-gave Jews a holy place to care about. We
-
-used Torah to defend Israel's right to exist,
-
-reducing a transcendental body of litera-
-
-ture to a simple land claim. ("God gave
-
-this part to A braham, and Jacob got this
-
-piece from that king.") So now Torah
-
-c;m 't be discussed or questioned. To relate
-
-Tc:·ah as allegory throws our land claim
-
-\- - .
-
-1,estion. But what if the story is an
-
-. .. cgory, too? The goal is to apply a bit of
-
-Judaism to Judaism. Let's smash our own
-
-false idols, mint of God as an abstract, and
-
-men see if ' . ,:1g ourselves, each other
-
-and otr .\~ ·-'\~, makes the world a little
-
-1' : ,\~ we are refusing to allo .
-
-J d . W lt
-
-. ' ·:,,.-", u a1sm may become l ,: , • ..: v e evolution will a cut. I
-
-not comprom · continuity· evoluti . 1se our
-
-' on IS our continuity.
+Q: To you, God is something that is enacted through the conscious practice of Judaism as a force for good. Some may find this a seemingly cold and lonely perspective or, as you put it so succinctly, "It is a traumatic day in the life of a child when she discovers her parents are not gods; it is a traumatic day in the life of a people when they discover their God is not a parent."
