@@ -55,57 +55,9 @@ A: My books aren't bridges because I don't plan out my writing career. Using the
 
 _Nothing is Sacred_ isn't a departure from media theory at all. Judaism is a medium. The mistake of Internet business people--the same ones I satirized in _Exit Strategy_--was to think that "content is king." It never was. _Contact_ is king in an interactive environment. Judaism was invented at the height of idolatrous civilization to make the point: get rid of the gods so that people can come into contact with one another.
 
-Q: In Nothing is Sacred: The Truth
+Q: In Nothing is Sacred: The Truth About Judaism, the original subtitle was to be "The Case For Open Source Judaism." Your website is www.opensourcejudaism.com. What does "open source" mean, and how are we to apply that concept to what many see as undeniable truths?
 
-About Judaism, the original subtitle
-
-was to be "The Case For Open Source
-
-Judaism ." Your website is www.open-
-
-sourcejudai sm.com. What does
-
-"open source" mean, and how are 1\~e
-
-to apply that concept to what man)
-
-see as undeniable truths?
-
-A: Open source is a term borrowed
-
-from computer software de\\'elopment.
-
-People using software should ha\\·e the
-
-ability to change and improve it. The code
-
-is not locked down or kept secret; it is open
-
-to everyone to rework and evolve. I belie\\·e
-
-religions should be thought of in this way,
-
-too. At least Judaism should, because
-
-Judaism was invented as an altemative to
-
-the pagan religions of its day. People rrayed
-
-to gods for stuff-fertility, rain, sun ... We
-
-were children, depending on the whims of
-
-the gods. We measured time with a circular
-
-calendar, because there was no concept of
-
-progress. We couldn't make thing:;
-
-better-things stayed the same, and gt't
-
-momentarily better or worse because 0f the
-
-gods' moods. .
+A: Open source is a term borrowed from computer software development. People using software should have the ability to change and improve it. The code is not locked down or kept secret; it is open to everyone to rework and evolve. I believe religions should be thought of in this way, too. At least Judaism should, because Judaism was invented as an altemative to the pagan religions of its day. People prayed to gods for stuff--fertility, rain, sun... We were children, depending on the whims of the gods. We measured time with a circular calendar, because there was no concept of progress. We couldn't make things better--things stayed the same, and got momentarily better or worse because of the gods' moods.
 
 Judaism was invented as a way for
 
