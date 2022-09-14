@@ -79,22 +79,50 @@ Q: How does this translate into today's Judaism?
 
 A: I think Judaism today has been crippled by our obsession with race, assimilation and Israel. Right now in America, Jews are stuck in a siege mentality caused by the Shoah, and the institutions built to protect Jewish ideas and methods hang on to that mentality for fundraising reasons, while others try to make their insights into Torah _the_ exclusive insights into Torah.
 
-For starters, J ew s are not a race. " Fust, I "
+For starters, Jews are not a race. First, Pharaoh called the Israelites a "people." The Spanish Inquisitors invented a "Jewish race," because they needed to persecute Jews who converted to Christianity. Then Jung and Hitler spread the notion of Jewish "genetic memory." Our leaders, as a "people" accepted these very skewed and false definitions. Judaism was invented to defy imposed boundaries. But we are still dominated by the early 20th century agenda, which is that we'll assimilate and disappear. Institutions harp on the threat of intermarriage and people violating their "Jewish fidelity." This makes institutional Judaism less attractive to those who seek a spiritual path or community, so they turn elsewhere, giving credence to the fear that Jewish numbers are dwindling. Then the philanthropies fund more studies and programs to stem assimilation and this perpetuates into a devolutionary spiral.
 
-h lied the Israelites a peop e. Pharao ca_ In uisitors invented a
+The Reform movement, for all its great insights, also distanced Jews from their own religion. By placing rabbis on a stage and dressing them in robes like Christian clerics, the reformers made a religion that looked like Christianity in order to defuse antisemitism. They succeeded, inadvertently, in distancing Jews from their own religion. As a result, Jews tended to transfer parental authority onto their rabbis, and with it, the responsibility for knowing Torah and the law. The arguments around the table disappeared and were replaced with responsive reading. The religion became a ''holy thing," to be ministered by our "priests," instead of a "negotiation" that was noisily discussed and debated around the table. We could no longer talk.
 
-The Spanish q they needed to per-
+The establishment of the State of
 
-up in the fonn of
+Israel, though important for many reasons,
 
-th
+gave Jews a holy place to care about. We
 
-e Tot an\~\~ d\~-J\~daism
+used Torah to defend Israel's right to exist,
 
-lut the road. We had to 7,'." Many o/ <he
+reducing a transcendental body of litera-
 
-11ithout our Holy Temp ·
+ture to a simple land claim. ("God gave
 
-. h " because . "Jew1s race, d to Christianity. J ho convene f
+this part to A braham, and Jacob got this
 
-secute ews w . I ead the notion o Then Jung and Hit er spr
+piece from that king.") So now Torah
+
+c;m 't be discussed or questioned. To relate
+
+Tc:·ah as allegory throws our land claim
+
+\- - .
+
+1,estion. But what if the story is an
+
+. .. cgory, too? The goal is to apply a bit of
+
+Judaism to Judaism. Let's smash our own
+
+false idols, mint of God as an abstract, and
+
+men see if ' . ,:1g ourselves, each other
+
+and otr .\~ ·-'\~, makes the world a little
+
+1' : ,\~ we are refusing to allo .
+
+J d . W lt
+
+. ' ·:,,.-", u a1sm may become l ,: , • ..: v e evolution will a cut. I
+
+not comprom · continuity· evoluti . 1se our
+
+' on IS our continuity.
