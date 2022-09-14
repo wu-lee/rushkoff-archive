@@ -59,12 +59,72 @@ Q: In Nothing is Sacred: The Truth About Judaism, the original subtitle was to b
 
 A: Open source is a term borrowed from computer software development. People using software should have the ability to change and improve it. The code is not locked down or kept secret; it is open to everyone to rework and evolve. I believe religions should be thought of in this way, too. At least Judaism should, because Judaism was invented as an altemative to the pagan religions of its day. People prayed to gods for stuff--fertility, rain, sun... We were children, depending on the whims of the gods. We measured time with a circular calendar, because there was no concept of progress. We couldn't make things better--things stayed the same, and got momentarily better or worse because of the gods' moods.
 
-Judaism was invented as a way for
+Judaism was invented as a way for human beings to take an active role in their own existence. We believe in the one God, but we understand that we are responsible for what happens on this planet, in this universe, in our lives. Instead of understanding our religion as a set of doctrines to believe in--as faith--we have a religion of practices and values. Judaism teaches that people can make this world a better place through their actions. This was a radical revision of the accepted world order. That's why we needed a linear calendar to go along with it, so we could measure our progress over time. Everything was developed on the fly, then improved over the centuries. The Talmudic process is also very much an open source process.
 
-human beings to take an active role in their
+But people today feel that they're either not entitled to rework and improve their religion, or that they are incapable of doing so. People seem to need permission to have their own conversation with Judaism. People should know they can gain access to the core narrative and customs. This religion belongs to them, as much as to anyone. But they need to study the code of the Torah, Talmud and Judaism before they can "revise" it.
 
-own existence. We believe in the one G,-1. -·ble but we understand that we are resroru1
+Some people think this kind of"revi-
 
-for what happens on this planer, in this uni·
+sionism" threatens Jewish continuity. But
 
-verse, in our lives. Instead of understanding
+Jewish continuity is a process of revision
+
+and reconsideration. Revision is simply
+
+part of our tradition of radical appraisal
+
+and evolution. Our "sacred" truths get in
+
+the way of our living relationship with
+
+religion. In Judaism, nothing is so sacred
+
+that it carmot be discussed. It's all open,
+
+right down to the source, and those who
+
+want it have access to it.
+
+Our tradition experienced three
+
+main shocks to the system. The first was in
+
+mythical Egypt, when we rejected the
+
+concretized gods of that first-born civiliza-
+
+tion in order to invent a more abstract
+
+model of God. This was hard to do, and is
+
+symbolized in the Torah by the Ten
+
+Plagues. Each plague represents the dese-
+
+cration of another Egyptian god: blood
+
+desecrates the Nile, locusts desecrate the
+
+com, darkness desecrates the sun, and so
+
+on. The Nile, com, and the sun were gods.
+
+Finally, the sacrifice of the lamb, t\~e
+
+highest Egyptian god--<:reator of ,
+
+the um-
+
+verse---is what saves the Hebrews so\~-
+
+l..osing the Temple in 70 CE requ\~
+
+th 1
+
+. • So we packed tt Jews to reinvent e re igr.on. d d
+
+up in the form of the Torah and d
+
+hit the road. We had to learn to O u /::
+
+without our Holy Temple. Many o
