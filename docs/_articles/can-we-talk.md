@@ -47,24 +47,24 @@ Q: Media Virus! \[another Rushkoff book\] explores many of the memes contained i
 
 A: Memes are a way of talking about ideas that are less efficient than they are worth. All people need to know is that different ideas are streaming at them through media all the time. The ideas that nest themselves best in our brains and replicate like viruses are the ones that exploit our weaknesses. Ideas spread through the media safely, sometimes because they are hidden in seemingly innocuous media, like kids' shows. This a good thing because it allows for some very progressive notions to spread for a good long time--like in _The Simpsons_, which is filled with great ideas, encased in comic shells, but it can also be deadly.
 
-I'm concerned that we are being fed
+I'm concerned that we are being fed messages. People should know that most media is designed to make you feel bad, so that you regress to a childlike state and transfer parental authority onto the sponsor. You are more vulnerable to messages when you feel really bad or when you feel artificially high (like at a Promisekeepers or Amway rally). The main message of the mainstream media is: The world is dangerous and mean; you are not worthy. You are alone. Nobody loves you and nobody will, unless you do what we tell you.
 
-messages. People should know that most
+Q: Last year, Exit Strategy was published. It seems couched in media, the Internet, marketing and society's burgeoning potential. However, it is also the Biblical tale of Joseph and deals with "born-again" Jews, "lapsed" Jews, the growing disparity between the observant and the secular segments of Jewish culture and subtle forms of anti-semitism or, more properly, systems designed to favor an incumbent, more gentile power structure. Is this novel a bridge between two phases in your writing career or sign of a departure?
 
-media is designed to make you feel bad, so
+A: My books aren't bridges because I don't
 
-that you regress to a childlike state and
+plan out my writing career. Using the story
 
-transfer parental authority onto the sponsor.
+of Joseph as an apt allegory, Exit Strategy
 
-You are more vulnerable to messages when
+looks at how the application of the under-
 
-you feel really bad or when you feel artifi-
+lying ethics of the Jewish system could pre-
 
-cially high (like at a Promisekeepers or
+vent the kind of insanity that we went
 
-Amway rally). The main message of the
+through at the end of the 1990s. Those
 
-ma instream media is: The world is dan-
+years were about market fascism and that
 
-gerous and mean; you are not worthy. You
+has occurred many times before-always
