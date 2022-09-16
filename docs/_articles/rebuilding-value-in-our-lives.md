@@ -21,106 +21,22 @@ Douglas Rushkoff is a visionary thinker and elegant communicator, able to distil
 
 **DR**: Before the mugging I had a more abstract relationship to the material. As a media theorist, I understood that people were mistaking the medium of money for something real and that they didn't realize that this was just one kind of money created at a particular moment in history. To most people, money was just money, so I intended to write a book that explored the medium of our money - its biases and original intentions - through the lens of a media theorist.
 
-{
+I had already embarked on that process, writing a book proposal and sending it out to various editors to obtain an advance. The economy hadn't crashed yet, but my views had already become increasingly anti-corporate or anti-market, in a real but abstract sense. And then I got mugged in front of my apartment.
 
-I had already embarked on that process,
+The angry emails from people in the neighborhood were bizarre to me, because I realized instead of people wanting to actually make their neighborhood better, they wanted to protect the "brand" of Park Slope, at the expense of real people. Other neighbors were getting mugged too and I found that this was really common and that the cops saw it as a big problem. And even though a lot of it has to do with gentrification and really awful race relations, the minute you bring up the reality that there's awful race relations, you get accused of being some kind of a racist: "What are you saying? That it's black people that mug and white people don't?"
 
-writing a book proposal and sending it out
+What was really going on was that a huge population of residents was way over their heads in debt. They needed the real estate prices in their neighborhood to go up, not because they want to sell, but because they need to refinance their debt at a better rate, and the only way to do that is if the total property is worth more. People were behaving like corporations!
 
-to various editors to obtain an advance.
+SC: What kind of impact does that
 
-The economy hadn't crashed yet, but my
+thinking have on a neighborhood?
 
-views had already become increasingly
+DR: People's homes become valued
 
-anti-corporate or anti-market, in a real
+as a real estate asset rather than as
 
-but abstract sense. And then I got mugged
+part of a community and the neighbors
 
-in front of my apartment.
+are no longer human beings. If they're
 
-The angry emails from people in
-
-the neighborhood were bizarre to
-
-me, because I realized instead of
-
-people wanting to actually make their
-
-neighborhood better, they wanted to
-
-protect the "brand " of Park Slope, at the
-
-expense of real people. Other neighbors
-
-were getting mugged too and I found
-
-f
-
-t
-
-\- Cl.. ctl O
-
-\- Cl) ..c c.. Cl)
-
-"C
-
-Cl)
-
-Cl)
-
-::J
-
-C'O
-
-C,.)
-
-Cl)
-
-..c
-
-0
-
-E
-
-\-\~
-
-\-C'O
-
-£
-
-0
-
-"C
-
-that this was really common and that
-
-the cops saw it as a big problem .
-
-And even though a lot of it has to do
-
-with gentrification and really awful
-
-race relations , the minute you bring
-
-up the reality that there·s awful race
-
-relations, you get accused of being
-
-some kind of a racist : ··what are you
-
-saying? That it's black people that
-
-mug and white people don"t?"'
-
-What was really going on was that
-
-a huge population of residents was
-
-way over their heads in debt. They
-
-needed the real estate prices in their
-
-neighborhood to go up, not because
-
-they want to sell, but because they
+neighbors and you are going to call
