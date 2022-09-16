@@ -17,37 +17,9 @@ Instead of sympathy and thanks, what he received were angry emails chastising hi
 
 Douglas Rushkoff is a visionary thinker and elegant communicator, able to distill and successfully articulate concepts without polarization or alienation. SuperConsciousness Magazine was pleased to speak with Mr. Rushkoff about the pervasiveness of corporatism, how the corporate mindset interferes with our natural tendencies towards altruistic behavior, and what we can do to rebuild our neighborhoods.
 
-SC: How did your co ncer/ualization of
+**SC**: How did your conceptualization of your book, Life, Inc., change after the Park Slope mugging?
 
-your book, Life, Inc., change after the
-
-Park Slope mugging?
-
-DR: Before the mugging I had a more
-
-abstract relationship to the material.
-
-As a media theorist, I understood that
-
-people were mistaking the medium
-
-of money for something real and
-
-that they didn"t realize that this was
-
-just one kind of money created at a
-
-particular moment in history. To most
-
-people, money was just money, so I
-
-intended to write a book that explored
-
-the medium of our money - its biases
-
-and original intentions - through the
-
-lens of a media theorist.
+**DR**: Before the mugging I had a more abstract relationship to the material. As a media theorist, I understood that people were mistaking the medium of money for something real and that they didn't realize that this was just one kind of money created at a particular moment in history. To most people, money was just money, so I intended to write a book that explored the medium of our money - its biases and original intentions - through the lens of a media theorist.
 
 {
 
