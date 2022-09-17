@@ -33,10 +33,30 @@ What was really going on was that a huge population of residents was way over th
 
 I would argue that starts with debt. When you're indebted, you are enslaved to a certain kind of mentality. That's what the whole \[Old Testament\] Bible is about. For instance, in the story of Exodus, Joseph taught the Pharaoh how to indebt people, which turned them into slaves. They eventually got away and the first thing they did was to write a series of laws: Every seven days, you get to rest. Every seven years all debts are forgiven. That was created to prevent this kind of situation from occurring again.
 
-SC: How does the mentality of
+**SC**: How does the mentality of indebtedness interfere with our natural tendencies towards altruism?
 
-indebtedness interfere with our natural
+**DR**: In my grandparents' generation, when you made it good, you would get the wing of a hospital named after you. When I was growing up, that was the height of having "made it." It's very real and very local - like Macy's throwing the parade for the town that keeps them in business. So, you build a hospital wing and you want your name on it, you want credit, because you·re a human being, and who cares? I mean, serve the ego if the ego is going to serve humanity. l've got no problem with that.
 
-tendencies towards altruism?
+But today, we relate to one another
 
-DR: In my grandparents· generation,
+through products and brands and
+
+consumer choices and people
+
+exercise their altruism through these
+
+abstract entities. You join Greenpeace
+
+or Sierra Club, or this thing or that
+
+thing, but ifs very hard for people
+
+to re-engage with an on-the-ground
+
+reality by joining these organizations
+
+that have had to adapt a style of
+
+traditional corporate branding in
+
+order to compete for your attention.
