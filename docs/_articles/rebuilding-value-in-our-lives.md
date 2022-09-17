@@ -43,66 +43,50 @@ Once these organizations enter that abstract realm, it's really almost impossibl
 
 Altruism is not about what web site petitions you sign and the You Tube videos you make, but about engaging with the real world around you in a more real way.
 
-SC: You suggest that altruism begins
+**SC**: You suggest that altruism begins by getting involved locally?
 
-by getting involved locally?
+**DR**: What l'm talking about is kind of a fractal activism. If the core problem is that we are disconnected from the real world because we have started thinking and acting the same as multi-national corporations, then the activism in which we engage must be activism that reacquaints us with the real world. It's simple stuff. We not only kill two birds with one stone in that way, but we can be way more assured that what we are doing is real, that it's true.
 
-between the big, top-down communication DR: What l"m talking about is kind of
+Instead of donating money to "goodagriculture.org," then shopping for your own food at the A&P, join a CSA, a community-supported agriculture program. What happens is you find out who the person is that's growing your food and you'll know if the farmer is really using organic practices and doing proper land management instead of buying Del Monte "Naturo," or whatever Certified Organic "big agra" brand that has declared itself as such. We can get food cheaper that is also healthier and more nourishing. It's good for the environment, good for my neighborhood, good for my local commerce, and it helps me meet other people in a way that's actually meaningful and educates me and my kids about our food.
 
-behavior of a nonprofit and the big, a fractal activism. If the core problem
+SC: How would this bottom up
 
-top-down communication of any other
+approach to building and enriching
 
-for-profit corporation or even a nonprofit
+neighborhoods apply to other unive rsal
 
-thafs working against their very causes.
+problems like health care?
 
-Ifs so hard to judge, and people feel
+DR: What would be the local CSA
 
-overwhelmed by the information and the
+equivalent of healthcare? What if we
 
-communication: Who·s real, who"s not
+provided for 90% of our healthcare
 
-real? People end up becoming cynical and
+needs from the bottom up rather
 
-just withdrawing. Ifs very hard to parse
+than through the AMA? It's scary
 
-information from the disinformation.
+to people to even think about it,
 
-Altruism is not about what web site
+but if we regularly visited our
 
-petitions you sign and the You Tube
+local neighborhood chiropractors,
 
-videos you make, but about engaging
+homeopaths, nutritio nists for primary
 
-with the real world around you in a more
+care. we might not actually need the
 
-real way.
+catastrophic care of "Big AMA ...
 
-is that we are disconnected from the
+SC: What you're talking about is
 
-real world because we have started
+peo ple reclaiming their own power
 
-thinking and acting the same as
+and rig ht to live a healthy life in the
 
-multi-national corporations, then the
+first place instead of paying $300 a
 
-activism in which we engage must
+month to ensure that yo u're not going
 
-be activism that reacquaints us with
-
-the real world. Ifs simple stuff. We
-
-not only kill two birds with one stone
-
-in that way, but we can be way more
-
-assured that what we are doing is real,
-
-that ifs true.
-
-Instead of donating money to
-
-··goodagriculture.org,"· then shopping
-
-for your own food at the A&P, join
+to die from cance r.
