@@ -39,11 +39,9 @@ I would argue that starts with debt. When you're indebted, you are enslaved to a
 
 But today, we relate to one another through products and brands and consumer choices and people exercise their altruism through these abstract entities. You join Greenpeace or Sierra Club, or this thing or that thing, but it's very hard for people to re-engage with an on-the-ground reality by joining these organizations that have had to adapt a style of traditional corporate branding in order to compete for your attention.
 
-Once these organizations enter that
+Once these organizations enter that abstract realm, it's really almost impossible for people to distinguish between the big, top-down communication behavior of a nonprofit and the big, top-down communication of any other for-profit corporation or even a nonprofit that's working against their very causes. It's so hard to judge, and people feel overwhelmed by the information and the communication: Who's real, who's not real? People end up becoming cynical and just withdrawing. It's very hard to parse information from the disinformation.
 
-abstract realm, ifs really almost
-
-impossible for people to distinguish
+Altruism is not about what web site petitions you sign and the You Tube videos you make, but about engaging with the real world around you in a more real way.
 
 SC: You suggest that altruism begins
 
@@ -70,3 +68,41 @@ real? People end up becoming cynical and
 just withdrawing. Ifs very hard to parse
 
 information from the disinformation.
+
+Altruism is not about what web site
+
+petitions you sign and the You Tube
+
+videos you make, but about engaging
+
+with the real world around you in a more
+
+real way.
+
+is that we are disconnected from the
+
+real world because we have started
+
+thinking and acting the same as
+
+multi-national corporations, then the
+
+activism in which we engage must
+
+be activism that reacquaints us with
+
+the real world. Ifs simple stuff. We
+
+not only kill two birds with one stone
+
+in that way, but we can be way more
+
+assured that what we are doing is real,
+
+that ifs true.
+
+Instead of donating money to
+
+··goodagriculture.org,"· then shopping
+
+for your own food at the A&P, join
