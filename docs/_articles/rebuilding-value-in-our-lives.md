@@ -37,26 +37,36 @@ I would argue that starts with debt. When you're indebted, you are enslaved to a
 
 **DR**: In my grandparents' generation, when you made it good, you would get the wing of a hospital named after you. When I was growing up, that was the height of having "made it." It's very real and very local - like Macy's throwing the parade for the town that keeps them in business. So, you build a hospital wing and you want your name on it, you want credit, because you·re a human being, and who cares? I mean, serve the ego if the ego is going to serve humanity. l've got no problem with that.
 
-But today, we relate to one another
+But today, we relate to one another through products and brands and consumer choices and people exercise their altruism through these abstract entities. You join Greenpeace or Sierra Club, or this thing or that thing, but it's very hard for people to re-engage with an on-the-ground reality by joining these organizations that have had to adapt a style of traditional corporate branding in order to compete for your attention.
 
-through products and brands and
+Once these organizations enter that
 
-consumer choices and people
+abstract realm, ifs really almost
 
-exercise their altruism through these
+impossible for people to distinguish
 
-abstract entities. You join Greenpeace
+SC: You suggest that altruism begins
 
-or Sierra Club, or this thing or that
+by getting involved locally?
 
-thing, but ifs very hard for people
+between the big, top-down communication DR: What l"m talking about is kind of
 
-to re-engage with an on-the-ground
+behavior of a nonprofit and the big, a fractal activism. If the core problem
 
-reality by joining these organizations
+top-down communication of any other
 
-that have had to adapt a style of
+for-profit corporation or even a nonprofit
 
-traditional corporate branding in
+thafs working against their very causes.
 
-order to compete for your attention.
+Ifs so hard to judge, and people feel
+
+overwhelmed by the information and the
+
+communication: Who·s real, who"s not
+
+real? People end up becoming cynical and
+
+just withdrawing. Ifs very hard to parse
+
+information from the disinformation.
