@@ -49,35 +49,9 @@ Altruism is not about what web site petitions you sign and the You Tube videos y
 
 Instead of donating money to "goodagriculture.org," then shopping for your own food at the A&P, join a CSA, a community-supported agriculture program. What happens is you find out who the person is that's growing your food and you'll know if the farmer is really using organic practices and doing proper land management instead of buying Del Monte "Naturo," or whatever Certified Organic "big agra" brand that has declared itself as such. We can get food cheaper that is also healthier and more nourishing. It's good for the environment, good for my neighborhood, good for my local commerce, and it helps me meet other people in a way that's actually meaningful and educates me and my kids about our food.
 
-SC: How would this bottom up
+**SC**: How would this bottom up approach to building and enriching neighborhoods apply to other universal problems like health care?
 
-approach to building and enriching
-
-neighborhoods apply to other unive rsal
-
-problems like health care?
-
-DR: What would be the local CSA
-
-equivalent of healthcare? What if we
-
-provided for 90% of our healthcare
-
-needs from the bottom up rather
-
-than through the AMA? It's scary
-
-to people to even think about it,
-
-but if we regularly visited our
-
-local neighborhood chiropractors,
-
-homeopaths, nutritio nists for primary
-
-care. we might not actually need the
-
-catastrophic care of "Big AMA ...
+**DR**: What would be the local CSA equivalent of healthcare? What if we provided for 90% of our healthcare needs from the bottom up rather than through the AMA? It's scary to people to even think about it, but if we regularly visited our local neighborhood chiropractors, homeopaths, nutritionists for primary care, we might not actually need the catastrophic care of "Big AMA."
 
 SC: What you're talking about is
 
