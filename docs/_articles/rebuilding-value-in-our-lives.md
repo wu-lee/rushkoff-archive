@@ -53,14 +53,50 @@ Instead of donating money to "goodagriculture.org," then shopping for your own f
 
 **DR**: What would be the local CSA equivalent of healthcare? What if we provided for 90% of our healthcare needs from the bottom up rather than through the AMA? It's scary to people to even think about it, but if we regularly visited our local neighborhood chiropractors, homeopaths, nutritionists for primary care, we might not actually need the catastrophic care of "Big AMA."
 
-SC: What you're talking about is
+**SC**: What you're talking about is people reclaiming their own power and right to live a healthy life in the first place instead of paying $300 a month to ensure that you're not going to die from cancer.
 
-peo ple reclaiming their own power
+**DR**: The current view of western medicine came up at the same time as centralized currency, at the same time as the charter monopolies, at the same time that what we would call "women's crafts" were made illegal and rendered superstition and folklore. They were wiped off the map because they had a tendency towards people actually creating value for one another.
 
-and rig ht to live a healthy life in the
+That's why we have to look at the history.
 
-first place instead of paying $300 a
+We've got to understand this stuff. because
 
-month to ensure that yo u're not going
+during the Renaissance. it was a few rich
 
-to die from cance r.
+people who were really afraid of losing
+
+their control over the world as the middle
+
+class developed the ability to create and
+
+exchange value between each other. It's the
+
+fact that you and I can create and exchange
+
+value in a way that doesn't help them get
+
+richer. We need to understand and see that
+
+all of these simple mechanisms for health
+
+have been systematically removed in order
+
+to force our dependence on top-down
+
+mechanisms for survival. And the more we
+
+move into survival mode, the less likely we
+
+are to see the efficacy of any alternative.
+
+SC: Then. building new social systems
+
+based on value exchange becomes the
+
+strong foundation in which we give to and
+
+help others, correct?
+
+DR: The main thing is that it really needs
+
+to be done on a human scale, and I don't
