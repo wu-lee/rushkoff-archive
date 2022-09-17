@@ -27,16 +27,16 @@ The angry emails from people in the neighborhood were bizarre to me, because I r
 
 What was really going on was that a huge population of residents was way over their heads in debt. They needed the real estate prices in their neighborhood to go up, not because they want to sell, but because they need to refinance their debt at a better rate, and the only way to do that is if the total property is worth more. People were behaving like corporations!
 
-SC: What kind of impact does that
+**SC**: What kind of impact does that thinking have on a neighborhood?
 
-thinking have on a neighborhood?
+**DR**: People's homes become valued as a real estate asset rather than as part of a community and the neighbors are no longer human beings. If they're neighbors and you are going to call them friends, it's because you want them to be wealthy so that your neighborhood is wealthy. You want your neighbor to keep his job so that he keeps his house up, so that your house is valuable, and this is seen as some kind of enlightened self-interest, when it is a completely dehumanized way of looking at the world.
 
-DR: People's homes become valued
+I would argue that starts with debt. When you're indebted, you are enslaved to a certain kind of mentality. That's what the whole \[Old Testament\] Bible is about. For instance, in the story of Exodus, Joseph taught the Pharaoh how to indebt people, which turned them into slaves. They eventually got away and the first thing they did was to write a series of laws: Every seven days, you get to rest. Every seven years all debts are forgiven. That was created to prevent this kind of situation from occurring again.
 
-as a real estate asset rather than as
+SC: How does the mentality of
 
-part of a community and the neighbors
+indebtedness interfere with our natural
 
-are no longer human beings. If they're
+tendencies towards altruism?
 
-neighbors and you are going to call
+DR: In my grandparents· generation,
