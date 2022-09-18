@@ -57,45 +57,9 @@ Instead of donating money to "goodagriculture.org," then shopping for your own f
 
 **DR**: The current view of western medicine came up at the same time as centralized currency, at the same time as the charter monopolies, at the same time that what we would call "women's crafts" were made illegal and rendered superstition and folklore. They were wiped off the map because they had a tendency towards people actually creating value for one another.
 
-That's why we have to look at the history.
+That's why we have to look at the history. We've got to understand this stuff, because during the Renaissance, it was a few rich people who were really afraid of losing their control over the world as the middle class developed the ability to create and exchange value between each other. It's the fact that you and I can create and exchange value in a way that doesn't help them get richer. We need to understand and see that all of these simple mechanisms for health have been systematically removed in order to force our dependence on top-down mechanisms for survival. And the more we move into survival mode, the less likely we are to see the efficacy of any alternative.
 
-We've got to understand this stuff. because
-
-during the Renaissance. it was a few rich
-
-people who were really afraid of losing
-
-their control over the world as the middle
-
-class developed the ability to create and
-
-exchange value between each other. It's the
-
-fact that you and I can create and exchange
-
-value in a way that doesn't help them get
-
-richer. We need to understand and see that
-
-all of these simple mechanisms for health
-
-have been systematically removed in order
-
-to force our dependence on top-down
-
-mechanisms for survival. And the more we
-
-move into survival mode, the less likely we
-
-are to see the efficacy of any alternative.
-
-SC: Then. building new social systems
-
-based on value exchange becomes the
-
-strong foundation in which we give to and
-
-help others, correct?
+**SC**: Then. building new social systems based on value exchange becomes the strong foundation in which we give to and help others, correct?
 
 DR: The main thing is that it really needs
 
