@@ -61,6 +61,10 @@ That's why we have to look at the history. We've got to understand this stuff, b
 
 **SC**: Then. building new social systems based on value exchange becomes the strong foundation in which we give to and help others, correct?
 
-DR: The main thing is that it really needs
+**DR**: The main thing is that it really needs to be done on a human scale, and I don't mean personal scale, necessarily, but a human scale - something that is scaled to the actual human body, the human form, to our voices. even if you don't create the web site that saves humanity. The idea of becoming the _American Idol_ of activism or altruism is shortsighted and ultimately self-destructive.
 
-to be done on a human scale, and I don't
+When we act at the organizational level, we fall into the "Adam Werbach" trap. He was the head of the Sierra Club and was their bright and shining star. Wal-Mart ends up hiring him to be kind of "Chief Environmental Officer." It is his belief that because of Wal-Mart's scale, the corporation can be used to change all sorts of things, but the only kinds of things they're changing is making their workers drive differently, basically asking their work force to behave differently in their own lives, in the way they get to work or park their cars. That becomes a distraction from the fact that it's the way and scale in which Wal-Mart operates that is itself the problem.
+
+Getting a million people to do something different is cool and all, but just the fact that you can extend an order to make a million people do things differently is intrinsically corrupt. I would respect any activist that helps one town replace the commerce that has been extracted by Wal-Mart in order to restore its own economy. Doing that for one town of 3,000 people becomes more valuable than helping Wal-Mart do something for ten million.
+
+For more information, go to **www.rushkoff.com**
