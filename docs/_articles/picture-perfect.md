@@ -79,7 +79,13 @@ IT WAS MY RESEARCH into the practices of today's WWF-watching “mooks” and Br
 
 As an adult, my real audience for these psychodramas was not the boys in the dorm or the kids in the locker room, but my own internalized spectators. The Greek chorus. They had become the arbiters of my sexual identity. And they were a tough crowd, whose sophistication had grown along with my own. 
 
-It was no longer about proving my gender or sexual preference. Hell, homosexuality would have been better than any more years wasted chasing after women who were unavailable in one way or another. But, like so many other young men, my attraction to women, and my whole sexual orientation, was developed more as a way of proving my worth and my identity than experiencing any kind of joy or intimacy. Even the goal of marriage and children loomed as more of an abstract 
+It was no longer about proving my gender or sexual preference. Hell, homosexuality would have been better than any more years wasted chasing after women who were unavailable in one way or another. But, like so many other young men, my attraction to women, and my whole sexual orientation, was developed more as a way of proving my worth and my identity than experiencing any kind of joy or intimacy. Even the goal of marriage and children loomed as more of an abstract idea than a felt goal. It was a plot point in the screenplay of life to which my audience was demanding I conform. And I was failing to meet their expectations.
+
+I began to see women more as static images than as living, changing, dynamic beings. The blonde, green-eyed psychologist from Dallas. The nice but overweight Jewish teacher from Brooklyn. The hot Croatian architect. Each one was processed by my internal Central Casting division, and inserted into my mental script-writing program. The psychologist would be a sympathetic ear. The overweight teacher would never cheat on me. The Croatian architect would challenge me intellectually and sexually for years to come. Two from column A, one from column B. My own, genuine experience of these people was dwarfed hy my involuntary tendency to turn them into statistical profiles. The needs of the script, my internal audience and, presumably, the general public, were all that mattered. 
+
+Sure, the profiles grew in complexity and sophistication so much so that they sounded, to my friends, like real considerations for choos ing a girlfriend. They were certainly more heartfelt than the kinds of considerations voiced by the neurotic singles of Seinfeld or the sexually infantilized women of Sex and the City. But I was fooling myself, all the
+
+xxx
 
 picture perfectos 
 
