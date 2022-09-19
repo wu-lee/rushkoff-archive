@@ -59,6 +59,80 @@ In my scheme, the pursuit became everything. This is where that awful book _The 
 
 Sure, I managed to have and keep a few girlfriends over those years. But I usually broke up with them whenever I was able to detect the objectification game going on beneath the surface. For instance, I ended my first truly promising college relationship when I realized how much I wanted the other guys in the dorm to know my girlfriend was staying overnight. She would have actually tolerated this immaturity, but I could not. I knew that, at least in part, she was serving a need that had no right to be met. 
 
+The other choice, of course, was to be like “normal” guys, and revel in the attainment of a sexual partner capable of arousing the loins and jealousies of one's friends. If getting other guys hard was really the object of the game, though, then why not just be gay? I was too self-aware to take this route, yet too self-absorbed to experience a woman as much more than a reflection on myself. Nevertheless, my key relationships with women were still played for the guys in the bleacher seats—to earn social currency with other men. I was so committed to the sexual schema forged in childhood that I sacrificed any real intimacy that may have been available to me. I was forgoing love for the simulacra. 
+
+Luckily, or so I thought, my entrance into the adult sexual arena coincided with the greater culture's acceptance of real men who eat quiche. Phil Donahue and Alan Alda were raking in millions as the sex symbols of the kinder, gentler, and post-macho American landscape. Sure, Reagan was President, but his John Wayne-ish cowboy charm was understood as a kind of martyrdom. Stoic gender traditionalism for the sake of the nation.
+
+2 of the 
+
+n. Simi 
+
+e, What 
+
+ne con 
+
+of men. 
+
+Turns out we New 
+
+(young women, anyw pretended they did. Ironi to prove their own femi cially as women became shoulder pads replaced skir real stress, and a significa Richards was replaced by 
+
+aggressive woman 
+
+we New Age sensitive guys were the martyrs. Women nen, anyway) didn't really want us, however much ey did. Ironically, they now needed macho guys in order 
+
+own femininity. And this was getting harder to do, espe nen became more ostensibly masculine. Business suits and 
+
+s replaced skirts and bikinis. Women had earned real jobs. 
+
+and a significant uptick in heart attacks as a result. Mary is was replaced by Murphy Brown, and now it was the bawdy, ve woman in the corner office, intimidating her simpering 
+
+male producer. 
+
+wards 
+
+n. Her 
+
+ational 
+
+The sad legacy of early feminism was not to bring men's conscious ness up 
+
+unward and beyond our polarized objectification of women. No, it was to bring women down to our level. Now women had earned the 
+
+isht to treat men as selfishly as we had always treated them. Men as merchandise. The same talk-show audiences that berated men for their insensitivity applauded women for theirs. She left her man for one with a bigger prick? Well, go, girl! 
+
+As an adult cultural theorist, I began to write and speak out against what I saw as the commodification of human relationships. It's always easier to see one's own faults as they are played out on the grand socie tal level than it is to make the kinds of hard, personal changes that might actually solve the problem. 
+
+I watched with chagrin as the marketplace capitalized on the sexual objectification trend, and strove to exacerbate our worst impulses for economic gain. With women back at work, teens had replaced women as America's target demographic by the late seventies. 
+
+Those first Bruce Weber photos of Marky Mark and other muscu lar teens in their Calvin Klein underwear may not have been any worse 
+
+many 
+
+minist 
+
+ist ten 
+
+omen's 
+
+s, who 
+
+S and 
+
+alis 
+
+Lup 
+
+o su coutscc mp3pochct: гишүсга. 
+
+douglas rushkoff 
+
+They'd have no fear of abuse—or of any contact, whatsoever, unless wasn't for charity's sake. they up and asked outright. Even then, they'd have to convince me it 
+
+In my scheme, the pursuit became everything. This is where that awful book The Rules makes sense at least so far as it instructs women how to maintain an absurdly pathological relationship with a psycho logically immature man. Staying actively apart from women, according to the logic of machismo, confirms male status more than melting into one. For a woman to remain desirous but distant sustains that objecti fied dynamic between boy and airbrushed photo. This is what gener ates the boner. We've trained ourselves to respond this way. 
+
+Sure, I managed to have and keep a few girlfriends over those years But I usually broke up with them whenever I was able to detect the objectification game going on beneath the surface. For instance, I ended my first truly promising college relationship when I realized how much I wanted the other guys in the dorm to know my girlfriend was staying overnight. She would have actually tolerated this immaturity, but I could not. I knew that, at least in part, she was serving a need that had no right to be met. 
+
 The other choice, of course, was to be like “normal” guys, and revel in the attainment of a sexual partner capable of arousing the loins and jealousies of one's friends. If getting other guys hard was really the object of the game, though, then why not just be gay? I was too self aware to take this route, yet too self-absorbed to experience a woman as much more than a reflection on myself. Nevertheless, my key relation ships with women were still played for the guys in the bleacher seats to earn social currency with other men. I was so committed to the sexual schema forged in childhood that I sacrificed any real intimacy 
 
 that may have been available to me. I was forgoing love for the simulacra. 
@@ -380,8 +454,6 @@ At least that's the way we developing young boys of the early 19 understood the 
 That's why it was so very disconcerting for me to stand me front of Drew Gershon in the locker room one winter aften the seventh grade, while he explained that—from his wants anyway—I was a girl. Of course Drew had just endured an barrage of gender-based verbal assaults himself. An awkwardl... festing voice change had rendered his cords incapable of me... anything below mezzo soprano range for weeks, which had wwe. countless mocking impersonations by boys and girls alike. 
 
 “I see you've got a penis, Rushkoff,” he said. “A little one. But in every other way you're a girl. The way you talk, the way you walk the way you do everything. Even looking at your face right now, all I can see is a girl. You know that, Rushkoff? You're such a fem. I mean it.” His contempt for what he saw as my femininity was almost mixed with sorrow. Still, the laughter from the other boys continued long after I got my shorts on. 
-
-Make no mistake: 
 
 one 
 
