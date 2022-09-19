@@ -75,9 +75,9 @@ Those first Bruce Weber photos of Marky Mark and other muscular teens in their C
 
 Combine this pressure from the mass media with the availability of stark video porn to replace the glossy photos of Daddy's favorite skin mags, and you've got a recipe for objectification on an order of magnitude unimaginable by those of us raised on _Playboy_ and wedgies. Instead of just objectifying females, today's boys objectify the entire sex act, and insist on pulling out before orgasm so that they can watch the “money shot" for themselves. 
 
-IT WAS MY RESEARCH into the practices of today's WWF-watching “mooks” and Britney-adoring “midriffs," combined with a few thou sand bucks of psychotherapy, that I gained a bit of perspective on my own extended run performing in the Gender Follies. 
+IT WAS MY RESEARCH into the practices of today's WWF-watching “mooks” and Britney-adoring “midriffs," combined with a few thousand bucks of psychotherapy, that I gained a bit of perspective on my own extended run performing in the Gender Follies. 
 
-As an adult, my real audience for these psychodramas was not the boys in the dorm or the kids in the locker room, but my own internal ized spectators. The Greek chorus. They had become the arbiters of my sexual identity. And they were a tough crowd, whose sophistication had grown along with my own. 
+As an adult, my real audience for these psychodramas was not the boys in the dorm or the kids in the locker room, but my own internalized spectators. The Greek chorus. They had become the arbiters of my sexual identity. And they were a tough crowd, whose sophistication had grown along with my own. 
 
 It was no longer about proving my gender or sexual preference. Hell, homosexuality would have been better than any more years wasted chasing after women who were unavailable in one way or another. But, like so many other young men, my attraction to women, and my whole sexual orientation, was developed more as a way of proving my worth and my identity than experiencing any kind of joy or intimacy. Even the goal of marriage and children loomed as more of an abstract 
 
