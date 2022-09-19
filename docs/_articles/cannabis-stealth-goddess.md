@@ -39,37 +39,7 @@ And even if you make it through those moments of self-questioning and engagement
 
 Just as Marley's music forces listeners to decide whose side they're on, marijuana forces a kind of duality on its users: live straight, or live stoned. You're either with me or against me. Oppressor or oppressed. Even if the place the stoner goes is delightfully nondual, this nondual place is decidely different from the duality in which he or she is living the rest of the time. Stoned vs. nonstoned is about as dual as it gets. Even the folks who take a bong hit first thing in the morning know what it's like to wake up straight. That's why they're taking the hit. They've agreed to stay with her—and chances are they're no longer capable of oppressing anybody.
 
-In short, pot raises consciousness, creates a relationship
-
-if the
-
-o take a
-
-a relationship, and
-
-Cannabis: Stealth Goddess
-
-orces a self-evaluation. That's the step that
-
-369
-
-immediately after
-
-really can't be avoided. Loo tory from things intended the inevitable look wit examination will be dem
-
-None of this has to be pai virtuous
-
-inter or n hour,
-
-therapist, or a folk musician, you're already operating
-
-diately after its peak-forces a self-evaluation. Thary
-
-e avoided. Looking outward merely changes the critical inven
-
-ings intended to persons impacted. Only another hit can delay
-
-able look within, and the higher you go, the more intense a self mination will be demanded once you crest.
+In short, pot raises consciousness, creates a relationship, and—immediately after a peak—forces a self-evaluation. That's the step that really can't be avoided. Looking outward merely changes the critical inventory from things _intended_ to persons _impacted_. Only another hit can delay the inevitable look within, and the higher you go, the more intense a self-examination will be demanded once you crest.
 
 e of this has to be painful or paranoid, of course. If you're living a ruous life, if you don't have slaughterhouse meat sitting o Mexicans in the backyard blowing leaves into piles for three bucl vou may not have to confront anything awful at all. If you're
 
