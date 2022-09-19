@@ -63,45 +63,11 @@ The other choice, of course, was to be like “normal” guys, and revel in the 
 
 Luckily, or so I thought, my entrance into the adult sexual arena coincided with the greater culture's acceptance of real men who eat quiche. Phil Donahue and Alan Alda were raking in millions as the sex symbols of the kinder, gentler, and post-macho American landscape. Sure, Reagan was President, but his John Wayne-ish cowboy charm was understood as a kind of martyrdom. Stoic gender traditionalism for the sake of the nation.
 
-2 of the 
+Turns out we New Age sensitive guys were the martyrs. Women (young women, anyway) didn't really want us, however much they pretended they did. Ironically, they now needed macho guys in order to prove their own femininity. And this was getting harder to do, especially as women became more ostensibly masculine. Business suits and shoulder pads replaced skirts and bikinis. Women had earned real jobs, real stress, and a significant uptick in heart attacks as a result. Mary Richards was replaced by Murphy Brown, and now it was the bawdy, aggressive woman in the corner office, intimidating her simpering male producer. 
 
-n. Simi 
+The sad legacy of early feminism was not to bring men's consciousness upward and beyond our polarized objectification of women. No, it was to bring women down to our level. Now women had earned the right to treat men as selfishly as we had always treated them. Men as merchandise. The same talk-show audiences that berated men for their insensitivity applauded women for theirs. She left her man for one with a bigger prick? Well, go, girl! 
 
-e, What 
-
-ne con 
-
-of men. 
-
-Turns out we New 
-
-(young women, anyw pretended they did. Ironi to prove their own femi cially as women became shoulder pads replaced skir real stress, and a significa Richards was replaced by 
-
-aggressive woman 
-
-we New Age sensitive guys were the martyrs. Women nen, anyway) didn't really want us, however much ey did. Ironically, they now needed macho guys in order 
-
-own femininity. And this was getting harder to do, espe nen became more ostensibly masculine. Business suits and 
-
-s replaced skirts and bikinis. Women had earned real jobs. 
-
-and a significant uptick in heart attacks as a result. Mary is was replaced by Murphy Brown, and now it was the bawdy, ve woman in the corner office, intimidating her simpering 
-
-male producer. 
-
-wards 
-
-n. Her 
-
-ational 
-
-The sad legacy of early feminism was not to bring men's conscious ness up 
-
-unward and beyond our polarized objectification of women. No, it was to bring women down to our level. Now women had earned the 
-
-isht to treat men as selfishly as we had always treated them. Men as merchandise. The same talk-show audiences that berated men for their insensitivity applauded women for theirs. She left her man for one with a bigger prick? Well, go, girl! 
-
-As an adult cultural theorist, I began to write and speak out against what I saw as the commodification of human relationships. It's always easier to see one's own faults as they are played out on the grand socie tal level than it is to make the kinds of hard, personal changes that might actually solve the problem. 
+As an adult cultural theorist, I began to write and speak out against what I saw as the commodification of human relationships. It's always easier to see one's own faults as they are played out on the grand societal level than it is to make the kinds of hard, personal changes that might actually solve the problem. 
 
 I watched with chagrin as the marketplace capitalized on the sexual objectification trend, and strove to exacerbate our worst impulses for economic gain. With women back at work, teens had replaced women as America's target demographic by the late seventies. 
 
