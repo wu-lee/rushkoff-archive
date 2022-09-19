@@ -47,6 +47,460 @@ That's why it was so very disconcerting for me to stand, naked, in front of Drew
 
 “I see you've got a penis, Rushkoff,” he said. “A little one. But in every other way you're a girl. The way you talk, the way you walk, the way you do everything. Even looking at your face right now, all I can see is a girl. You know that, Rushkoff? You're such a fem. I mean it.” His contempt for what he saw as my femininity was almost mixed with sorrow. Still, the laughter from the other boys continued long after I got my shorts on. 
 
+Make no mistake: his ritualistic defamation had nothing to do with whether I was girlish or not. He had moved to the next level of sexual self-definition—proving your masculinity not by contrasting yourself with females, but against the measure of other males. Beginning with Drew's verbal barrage, I was subjected to two years of what could only be called sustained sexual abuse by my peers. It went from wedgies, to whale-hooks, to worse. Strange, I remember thinking, I'm the fag, but they're the ones chasing after me to get their hands on my underwear, or even between my buttocks. 
+
+It seemed that the more officially masculine they got, the more obsessed these boys were with one another. To be a real boy meant sexually humiliating another boy. But who was I to talk? Everyone was sure that _I_ was the fag. The more insight I gained, the less I participated (voluntarily, anyway) in these pecking order rituals, and the more my femininity was confirmed.
+
+wards 
+
+n. Her 
+
+itional 
+
+many 
+
+minist 
+
+st ten 
+
+men's 
+
+BY LATE HIGH SCHOOL and college, things got a bit better. There was no active teasing or abuse, anyway. I had come into my own, and found a few social alternatives unavailable before. More importantly, I realized I had found my "type": short, dark-haired pixies. This felt good. They weren't so hard to find, because they tended to show up a lot in the theater, which is where "fags” like me ended up acting out the same dramas that “normal” boys enacted in locker rooms, the backs of cars, or playing fields. I'd meet one of the beautiful wood nymphs— absolutely unaware, at the time, of their possible connection to that first effective porn image—and fall madly in love. Or what I thought was love. 
+
+For me, and anyone trapped in the same vicious cycle, love meant Unrequited love. It was the nerd's version of female objectification. I munt abuse women the way a jock might, as inferior objects; no, 1 Worshipped them as superior objects. Untouchable and una 
+
+, who 
+
+i and 
+
+alis 
+
+didn' 
+
+what makes a man 
+
+Sy oto palpel momg 4p9t LU UG ICON 
+
+douglas rushkoff 
+
+unisexual? "unisex” hair salon, instead of the barber. Would that turn me into a 
+
+At its core, for kids like me, homophobia was the fear of not being a man or, more precisely, the fear of being a woman. And who could blame us? Women have gotten a bum deal for the past couple of thou sand years. In this light, who would want to be one of them, if given the choice? 
+
+At least that's the way we developing young boys of the early 1970s understood the failure of the ERA (an aborted equal rights amend ment), the pathos of Mary Richards cringing before her boss Lou Grant, as well as the professional frustrations and social passivity of our own mothers, who may have been Ivy League graduates but were still relegated to jobs that appeared to involve mostly the purchase and preparation of meat, and dressing up to play hostess for their husbands' business parties. They got face-lifts, took Valium, got abandoned for younger “trade-ins” and were left to fight for child support. Plus, they were girls. 
+
+That's why it was so very disconcerting for me to stand, naked, in front of Drew Gershon in the locker room one winter afternoon in the seventh grade, while he explained that—from his vantage point, anyway—I was a girl. Of course Drew had just endured an extended barrage of gender-based verbal assaults himself. An awkwardly mani festing voice change had rendered his cords incapable of producing anything below mezzo soprano range for weeks, which had led to countless mocking impersonations by boys and girls alike. 
+
+“I see you've got a penis, Rushkoff,” he said. “A little one. But in every other way you're a girl. The way you talk, the way you walk, the way you do everything. Even looking at your face right now, all I can see is a girl. You know that, Rushkoff? You're such a fem. I mean it?” His contempt for what he saw as my femininity was almost mixed with sorrow. Still, the laughter from the other boys continued long after 1 got my shorts on. 
+
+picture perfect 
+
+symbols of the kinde 
+
+Sure, Reagan was Presiden was understood as a kini 
+
+e kinder, gentler, and post-macho American lan 
+
+President, but his John Wayne-ish cowboy charm as a kind of martyrdom. Stoic gender traditionalism 
+
+douglas rushkoff 
+
+the sake of the nation. 
+
+2 of the 
+
+n. Simi 
+
+e, What 
+
+ne con 
+
+of men. 
+
+Turns out we New 
+
+(young women, anyw pretended they did. Ironi to prove their own femi cially as women became shoulder pads replaced skir real stress, and a significa Richards was replaced by 
+
+aggressive woman 
+
+we New Age sensitive guys were the martyrs. Women nen, anyway) didn't really want us, however much ey did. Ironically, they now needed macho guys in order 
+
+own femininity. And this was getting harder to do, espe nen became more ostensibly masculine. Business suits and 
+
+s replaced skirts and bikinis. Women had earned real jobs. 
+
+and a significant uptick in heart attacks as a result. Mary is was replaced by Murphy Brown, and now it was the bawdy, ve woman in the corner office, intimidating her simpering 
+
+male producer. 
+
+wards 
+
+n. Her 
+
+ational 
+
+The sad legacy of early feminism was not to bring men's conscious ness up 
+
+unward and beyond our polarized objectification of women. No, it was to bring women down to our level. Now women had earned the 
+
+isht to treat men as selfishly as we had always treated them. Men as merchandise. The same talk-show audiences that berated men for their insensitivity applauded women for theirs. She left her man for one with a bigger prick? Well, go, girl! 
+
+As an adult cultural theorist, I began to write and speak out against what I saw as the commodification of human relationships. It's always easier to see one's own faults as they are played out on the grand socie tal level than it is to make the kinds of hard, personal changes that might actually solve the problem. 
+
+I watched with chagrin as the marketplace capitalized on the sexual objectification trend, and strove to exacerbate our worst impulses for economic gain. With women back at work, teens had replaced women as America's target demographic by the late seventies. 
+
+Those first Bruce Weber photos of Marky Mark and other muscu lar teens in their Calvin Klein underwear may not have been any worse 
+
+many 
+
+minist 
+
+ist ten 
+
+omen's 
+
+s, who 
+
+S and 
+
+alis 
+
+Lup 
+
+o su coutscc mp3pochct: гишүсга. 
+
+douglas rushkoff 
+
+They'd have no fear of abuse—or of any contact, whatsoever, unless wasn't for charity's sake. they up and asked outright. Even then, they'd have to convince me it 
+
+In my scheme, the pursuit became everything. This is where that awful book The Rules makes sense at least so far as it instructs women how to maintain an absurdly pathological relationship with a psycho logically immature man. Staying actively apart from women, according to the logic of machismo, confirms male status more than melting into one. For a woman to remain desirous but distant sustains that objecti fied dynamic between boy and airbrushed photo. This is what gener ates the boner. We've trained ourselves to respond this way. 
+
+Sure, I managed to have and keep a few girlfriends over those years But I usually broke up with them whenever I was able to detect the objectification game going on beneath the surface. For instance, I ended my first truly promising college relationship when I realized how much I wanted the other guys in the dorm to know my girlfriend was staying overnight. She would have actually tolerated this immaturity, but I could not. I knew that, at least in part, she was serving a need that had no right to be met. 
+
+The other choice, of course, was to be like “normal” guys, and revel in the attainment of a sexual partner capable of arousing the loins and jealousies of one's friends. If getting other guys hard was really the object of the game, though, then why not just be gay? I was too self aware to take this route, yet too self-absorbed to experience a woman as much more than a reflection on myself. Nevertheless, my key relation ships with women were still played for the guys in the bleacher seats to earn social currency with other men. I was so committed to the sexual schema forged in childhood that I sacrificed any real intimacy 
+
+that may have been available to me. I was forgoing love for the simulacra. 
+
+Luckily, or so I thought, my entrance into the adult sexual arena coincided with the greater culture's acceptance of real men who eat quiche. Phil Donahue and Alan Alda were raking in millions as the sex 
+
+idea than a felt 
+
+picture perfect 
+
+of life to 
+
+a felt goal. It was a plot point in the screenplay 
+
+was demanding I conform. And I was failing to 
+
+douglas rushkoff 
+
+see women more as static images than as living, chang beings. The blonde, green-eyed psychologist from Dallas. ut overweight Jewish teacher from Brooklyn. The hot Cro 
+
+processed by my internal Central Casting 
+
+of the 
+
+n. Simi 
+
+2\. What 
+
+ne con 
+
+of men. 
+
+which my audience was demand meet their expectations. 
+
+I began to see women mo ing, dynamic beings. Then The nice but overweight Jewish 
+
+division, and inserted into m arian architect. Each one was processed by my internal Cer n. and inserted into my mental script-writing program. The psy 
+
+uld be a sympathetic ear. The overweight teacher would never cheat on me. The Croatian architect would challenge me intel lectually and sexually for years to come. Two from column A, one from column B. My own, genuine experience of these people was dwarfed hy my involuntary tendency to turn them into statistical profiles. The needs of the script, my internal audience and, presumably, the general public, were all that mattered. 
+
+Sure, the profiles grew in complexity and sophistication so much so that they sounded, to my friends, like real considerations for choos ing a girlfriend. They were certainly more heartfelt than the kinds of considerations voiced by the neurotic singles of Seinfeld or the sexually infantilized women of Sex and the City. But I was fooling myself, all the 
+
+Iwards 
+
+n. Her 
+
+itional 
+
+many 
+
+minist 
+
+st ten 
+
+men's 
+
+; who 
+
+5 and 
+
+same. Maybe that's why these TV programs became so intolerable to me. I was no better than these characters were at looking past the laun dry list of desirable features to the human being with whom I was interacting. 
+
+My original motivations for turning my romantic life into a series of test drives—the taunts of my classmates and the fear of never turning into a man-had long passed. But I was still looking for a woman who could define me the way that first brunette pixie in Oui had confirme my sexual identity as a child. Who would be Douglas's mate? 
+
+Loo doomed to failure. In short, my attraction to 
+
+olis 
+
+Looking at potential romantic partners through a lens like this was 
+
+short, my attraction to a woman had almost 
+
+douglas rushkoff 
+
+than what advertisers have done with emaciated female models since the 1960s. But it gave marketers the permission to objectify boys with the same intensity they had used to drive millions of teenage girls to stick fingers down their throats. Instead of looking at pictures of naked girls, they are now poring through magazines filled with the ripped torsos of young men. 
+
+Combine this pressure from the mass media with the availability of stark video porn to replace the glossy photos of Daddy's favorite skin mags, and you've got a recipe for objectification on an order of mag. nitude unimaginable by those of us raised on Playboy and wedgies, In. stead of just objectifying females, today's boys objectify the entire sex act, and insist on pulling out before orgasm so that they can watch the “money shot" for themselves. 
+
+IT WAS MY RESEARCH into the practices of today's WWF-watching “mooks” and Britney-adoring “midriffs," combined with a few thou sand bucks of psychotherapy, that I gained a bit of perspective on my own extended run performing in the Gender Follies. 
+
+As an adult, my real audience for these psychodramas was not the boys in the dorm or the kids in the locker room, but my own internal ized spectators. The Greek chorus. They had become the arbiters of my sexual identity. And they were a tough crowd, whose sophistication had grown along with my own. 
+
+It was no longer about proving my gender or sexual preference. Hell, homosexuality would have been better than any more years wasted chasing after women who were unavailable in one way or another. But, like so many other young men, my attraction to women, and my whole sexual orientation, was developed more as a way of proving my worth and my identity than experiencing any kind of joy or intimacy. Even the goal of marriage and children loomed as more of an abstract 
+
+picture perfectos 
+
+liked to play with back like girls that way, anymore. 
+
+What complicated matte 
+
+her, vo, 
+
+Barbara's a suburban everything that passes for lue 
+
+with back when I was ten, before we weren't allowed to 
+
+anymore. Not without getting called "fem. anyway. licated matters, though, was that I really wanted to kim 
+
+oglas rushkort 
+
+ne of the 
+
+m. Simi 
+
+pe, What 
+
+the con 
+
+of men 
+
+sraight into my eyes, and takes no 
+
+like me 
+
+a suburban Jew like me, with a shared distaste for almost hat passes for Judaism these days. She speaks directly, looks 
+
+my eyes, and takes no shit. She even looks and acts a lot which is kind of freaky all by itself. But, worse for the incur canwriter in the back of my head, I had an immediate sense of 
+
+ection with her that made objectification imposible. How do you urn someone you're experiencing as so real into a mere image? It's like when you're watching a movie with an actor so recognizable that you can't believe the role they're supposed to be playing, 
+
+No, she was too real, and too present to fade into the background while I plastered a stereotype over her. I wasn't going to be able to use her in the same way I had used almost every woman I'd encountered before the way I used that picture of the pixie in Oui thirty years agoas some vague confirmation of my hetero status. 
+
+But I wasn't willing to let her go, either. And that's what forced me to find a way out of the trap in which I'd been stuck for most of my adult life. 
+
+To get to be with this woman I had to finally put down the gun and accept that I couldn't shoot my way out of the hostage crisis in which I had imprisoned myself for thirty years. Negotiations had failed, the 
+
+of victims was longer than my conscience would perinit, and I was 
+
+of terrorizing myself for an agenda forged during puberty by prychosexual fundamentalists. Besides-I'd found someone I could ac tually be myself with, and I liked how being me was beginning to think I've found "the one." precisely because she's the one 
+
+ouldn't orced me to realize there's no such thing. Honestly, I wou want to give her up to find out what "the one" might 
+
+100 good the way it is. Most of the time, anyway. Sometim 
+
+awards 
+
+im. Her 
+
+lational 
+
+many 
+
+eminist 
+
+ost ten 
+
+omen's 
+
+!, who 
+
+25 and 
+
+tired of tert 
+
+feel. 
+
+Yes, I think I've found "the one, p 
+
+Salls 
+
+who's 
+
+find out what "the one" might be, anyway. It's 
+
+the time, anyway. Sometimes it's 
+
+TRU 
+
+1187120 cp of creu 
+
+A MONTU 
+
+othing to do with her. I wasn't yet capable of experienciny, a woman As anything, other than a potential leading lady in the ultimate forciyn film vreenplay I was writing in lieu of living a real life, 
+
+I had enough yoing, for me to win the affections of quite a few women with enough, intelligence, outward beauty and career success to keep everyone happy. And oh, the audience was pleased. In fact, as long As I imagine what our intertwined bodies looked like from the empty Chair in the corner of the room, I could be a more masculine, sexual. And mucomplished wer than I ever expected I'd be back in grade school, 
+
+But, eventually, each relationship started to feel flat. It's no wonder I wasn't relating to these women as real people, anyway. And I doubt they were using their time with the for anything, more profound than 1 was using, try tune with them, I came w believe that successful rela tronships were simply once in which people fooled themselves better than I was capable of doing 
+
+My growing, self knowledge made me feel disingenuous, I didn't want to be one of those guys who sought a trophy wife, even though 1 had manayed to upgrade my obsession to the more palatable goal of an “ideal marriage." The image I had constructed of living with a beau tiful, intelligent woman in the hills of Marin County, cooking healthy whole wheat breakfasts and writing in our separate studios until late in the night before retiring for an evening of earth-shattering, tantric sexwas still just another image. 
+
+I suppose I would have continued in this endless cycle of cinemati cally predetermined but utterly doomed serial monogamy bad I not happened to accept an invitation to attend an awful conference about 
+
+Judaism a year or so ayo. For it was there that I met a woman who just didn't fit the script. 
+
+Barbara immediately struck me as a person I wanted to know better if for no other reason than that she hated the stupid confer ence as much as I did, and wasn't afraid to say so. She turned out to be a person a lot like me. A kid, in some ways, Like one of those girls 
+
+what makes a man 
+
+douglas rushkoff 
+
+try it. 
+
+not, and I'm plagued by the same old nagging objections from remaining script development people in my head. But that's then we must pay to live in the real world. Everyone should at least tr You, too. 
+
+What I've come to realize is that being a man means giving up the false security of defining my masculinity against an obsolete and crudely drawn notion of the feminine. Being a man has nothing to do with not being a woman, and everything to do with being a person who makes his own choices in real life. When you lose the screenplay you may also lose the approval of the crowd, but you'll be more than compensated with the joy of autonomy. 
+
+It may be a little tougher to live life this way, but hell—someone's 
+
+got to be a real man. 
+
+56 
+
+what makes a man 
+
+a to another mail-order efore, a cheesy book on 
+
+douglas rushkoff 
+
+to contain that month's Playboy. So I resorted to an item my father had purchased a few years before, a. how to use witchcraft for power and happiness. 
+
+I retrieved the volume from a box in the attic. I found in there for “wish fulfillment,” which involved cafesi of plants with your hands or preferably, your genitals while ve centrate on the object of desire. I considered focusin woman—but a woman is not what I wanted. I wanted the Playboy to be delivered within the hour. Thanks to the spell. I lieve, the magazine came before my parents and brother got back f the photographer 
+
+ic. I found a bizarre spell ved caressing the leaves 
+
+enitals while you con dered focusing on a real I wanted the next issue of to the spell, I still be 
+
+k from 
+
+AC 
+
+grat 
+
+Reb like 
+
+elev 
+
+an 
+
+gan 
+
+to f 
+
+year 
+
+avai lete ther mak 
+
+one 
+
+of v 
+
+But I didn't—or hadn't yet-associated pictures of female bodo parts with erotic excitement, and the magazine's many depictions of prin mary and secondary sexual anatomy weren't really helping. Sure, see ing breasts was interesting, but it wasn't really titillating, which is where I assumed that word came from. I felt a certain hot naughtiness—more of a flushness, really—whenever I'd pull the magazine from its secret hiding place and attempt masturbation. But I didn't fully understand how the pictures and my excitement were to be connected. 
+
+Somewhere between breasts and lens, photos and eyes, frontal lobe and hand, the erotic circuit between Miss July and my penis was not completed. It was far easier to masturbate alone in the bed, thinking about masturbation itself. 
+
+It was about a year later that I managed to find an image, or state of mind, that did the trick. I can still see it if I close my eyes: a short cropped brunette, splayed against a bed of deep green leaves. She looked like a pixie or wood nymph from one of those medieval poems about knights and misty ponds in sudden clearings. Foreign. Other. But sweet. It was from Oui—Playboy's Euro-styled sister magazine. And it had etched itself onto the printed circuit board directing my sexual response for decades to come. She was the ultimate woman because she 
+
+kno Rep 
+
+nov 
+
+Dat 
+
+Rut gro cor 
+
+JOY! 
+
+Oui 
+
+040 
+
+picture perfect 
+
+57 
+
+A me as a man. She gave me my first culturally sanc 
+
+douglas rushkoff 
+
+had distinguished me as tioned hard-on. 
+
+What I didn't realize train myself to reach an ere It's called classic condition long enough, and you'll se contend to this day that ing a penis have done ting aroused by lookin 
+
+learned skill, achieved or 
+
+mit realize was that all I had truly accomplished was to 
+
+reach an erection by looking at pornographic imagery. vir conditioning. Jerk off looking at pictures of horses for 
+
+and you'll get a hard-on looking at them, too. And I this day that most of us who find porn capable of engorg is have done the very same thing, in one way or another. Get 
+
+sed by looking at body parts owned exclusively by women is a Iskill, achieved primarily for the purpose of differentiating our 
+
+from the feminine. That's why lesbian scenes are so popular in wicht porn: no penises to confuse the issue at hand. 
+
+It's the same reason why, in the fifth grade, I decided that whichever cirl with whom I would attempt to “go steady” couldn't be someone I already knew well. The point was not to feel familiar or friendly with the girl, but starkly contrasted. It had nothing to do with her, really. Her purpose was merely to assert and define my masculinity. It was more about my relationships with the other guys, and my place in the prepubescent social schema, than my relationship with the female in question. She had only to prove I was not a fag. 
+
+Don't get me wrong: Fear of being a faggot has nothing to do with being afraid of homosexuality. It's got a whole lot more to do with the much simpler fear of being a woman. To the pubescents of my era, homosexuality meant something closer to no pubic hairs than men kissing men. At eleven and twelve, we were at the very crossroads of sexual differentiation. Girls would be going one way, and boys an other. We wanted this mysterious division of realms to happen as quickly and painlessly as possible. Yet, at the very same time, society seemed to be collapsing these definitions in our path. My older broth er's class was the first one in our junior high school where boys took Home Economics and girls took Shop. Even my dad was taking us to a 
+
+douglas rushkoff 
+
+AC 
+
+of them, if given 
+
+gra Ret 
+
+like 
+
+elev 
+
+hend 
+
+а и 
+
+gan to f 
+
+year avai lete ther mak 
+
+ore her boss Lou social passivity of our raduates but were still 
+
+stly the purchase and hostess for their husbands' Valium, got abandoned for for child support. Plus, they 
+
+"unisex" hair salon, instead of the barber. Would that turn me into a unisexual? 
+
+At its core, for kids like me, homophobia was the fear of not being man or, more precisely, the fear of being a woman. And who coul. blame us? Women have gotten a bum deal for the past couple of the sand years. In this light, who would want to be one of them, if on the choice? 
+
+At least that's the way we developing young boys of the early 19 understood the failure of the ERA (an aborted equal rights on ment), the pathos of Mary Richards cringing before her home Grant, as well as the professional frustrations and social passivity own mothers, who may have been Ivy League graduates but relegated to jobs that appeared to involve mostly the purcha preparation of meat, and dressing up to play hostess for their h. business parties. They got face-lifts, took Valium, got aband younger “trade-ins” and were left to fight for child support were girls. 
+
+That's why it was so very disconcerting for me to stand me front of Drew Gershon in the locker room one winter aften the seventh grade, while he explained that—from his wants anyway—I was a girl. Of course Drew had just endured an barrage of gender-based verbal assaults himself. An awkwardl... festing voice change had rendered his cords incapable of me... anything below mezzo soprano range for weeks, which had wwe. countless mocking impersonations by boys and girls alike. 
+
+“I see you've got a penis, Rushkoff,” he said. “A little one. But in every other way you're a girl. The way you talk, the way you walk the way you do everything. Even looking at your face right now, all I can see is a girl. You know that, Rushkoff? You're such a fem. I mean it.” His contempt for what he saw as my femininity was almost mixed with sorrow. Still, the laughter from the other boys continued long after I got my shorts on. 
+
+Make no mistake: 
+
 one 
 
 om one winter afternoon in 
