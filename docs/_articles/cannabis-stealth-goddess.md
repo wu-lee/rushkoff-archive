@@ -27,37 +27,7 @@ Sure, smoking crack can be as permanently devastating as getting whacked in the 
 
 This is the truest sense in which marijuana serves as a gateway drug. It's not (just) the entry point to a world of more potent plants and chemicals; it is the gateway to a mind-set liberated from arbitrarily repressive constructs. For the poor, destitute, or exploited, pot offers the temporary experience of grace, as well as a vision of another, more just society. The quest for immediate relief or revenge gives way to the knowledge that repression itself is a dance that the repressor must ultimately lose. The world goes around, the sun will come up another day.
 
-For members of the repressive society-and this means most of the peo For members of with access to or interest in an essay like this-pot serves as a gateway to
-
-Anowledge. The job, money, security, or success to which one has c ing is, itself, delusional and based on the exploitation of someone
-
-9 life is dualism: the zero-sum game of scarce resources, win Octs, college admissions, test scores, job applications, and making
-
-of oneself. Stoned life is the knowledge that none of this really
-
-this same knowledge:
-
-been as
-
-else. Straight life is a ners and losers, college adm "something of oneself
-
-368
-
-Cannabis Culture
-
-t of these false goals usu o oneself, or even resort
-
-ld as the Native
-
-ou pave over for cars to » And the guy who mops up after
-
-same
-
-be
-
-mes
-
-matters, and that any effort expended in the pursuit of these falan ally involves some amount of bearing down, forcing oneself, or ing to treachery.
+For members of the repressive society—and this means most of the people with access to or interest in an essay like this—pot serves as a gateway to this same knowledge. The job, money, security, or success to which one has been aspiring is, itself, delusional and based on the exploitation of someone else. Straight life is dualism: the zero-sum game of scarce resources, winners and losers, college admissions, test scores, job applications, and making "something" of oneself. Stoned life is the knowledge that none of this really matters, and that any effort expended in the pursuit of these false goals usually involves some amount of bearing down, forcing oneself, or even resorting to treachery.
 
 For a white kid, getting stoned means seeing the world as the Americans did. The Earth isn't just something you pave over for move faster. Animals aren't made of “meat.” And the guy who mon you at the high school cafeteria wasn't born a janitor. You live in a world he does. The longer you're unable to see it, the uglier it's going for you when you do. Dig?
 
