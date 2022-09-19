@@ -41,105 +41,33 @@ Just as Marley's music forces listeners to decide whose side they're on, marijua
 
 In short, pot raises consciousness, creates a relationship, and—immediately after a peak—forces a self-evaluation. That's the step that really can't be avoided. Looking outward merely changes the critical inventory from things _intended_ to persons _impacted_. Only another hit can delay the inevitable look within, and the higher you go, the more intense a self-examination will be demanded once you crest.
 
-e of this has to be painful or paranoid, of course. If you're living a ruous life, if you don't have slaughterhouse meat sitting o Mexicans in the backyard blowing leaves into piles for three bucl vou may not have to confront anything awful at all. If you're
+None of this has to be painful or paranoid, of course. If you're living a virtuous life, if you don't have slaughterhouse meat sitting on the counter or Mexicans in the backyard blowing leaves into piles for three bucks an hour, you may not have to confront anything awful at all. If you're a permaculture farmer, a massage therapist, or a folk musician, you're already operating in a pretty hemp-compatible way. Most kids and students are so hardwired by media and adolescence to think of themselves as the repressed that they don't even have room to consider their own complicity in maintaining class structure or injustice. For them, peaking simply means the discussion will turn from how good the pot is to how they're going to go about finding some more.
 
-macul rure farmer, a massage therapist, or a folk musician, you're already
+Paranoia is reserved for the elder, more experienced users—and at that, only the ones who both hear pot's messages and repeatedly refuse to comply. Who in their right minds would _change their lives_ to conform to what they were thinking when they were _stoned_? The only time it really seems to matter is when one is stoned, and, well—it's probably just because pot is so much stronger these days, or because I'm older now and really shouldn't be taking drugs anyway.
 
-chemp-compatible way. Most kids and students are so hardwired in a
+After a few hundred conversations on precisely this subject with pot users and ex-users alike, I've come to a conclusion about the mechanism behind pot's ability to raise and question conscience—particularly in older, more experienced users. To put it most simply, _pot stops time_. Or at least it creates the illusion that time has ceased to move forward. When you are stoned, you are no longer in motion. Even if you are moving, you are no longer moving _toward_ something—but simply _moving_.
 
-v media and adolescence to think of themselves as the repressed that they This even have room to consider their own complicity in maintaining class structure or injustice. For them, peaking simply means the discussion will turn from how good the pot is to how they're going to go about finding some more.
+The lean-forward of your directed, intentional life ceases. You are still doing what you are doing, but the goal no longer exists. The simplest effect of this time-stoppage is to bring focus to the task at hand. There is no goal; there is only process. The stoned farmer isn't growing pumpkins; he is planting a seed—or, better, clearing dirt with his finger, placing the seed in the impression left behind, and covering it with fresh soil. Then doing it again, with Zenlike attention to detail, texture, and grace. The act in this moment is all there is.
 
-Paranoia is reserved for the elder, more experienced users—and at that, only the ones who both hear pot's messages and repeatedly refuse to comply. Who in their right minds would change their lives to conform to what they were thinking when they were stoned? The only time it really seems to mat ter is when one is stoned, and, well—it's probably just because pot is so much stronger these days, or because I'm older now and really shouldn't be taking drugs anyway.
+Likewise, however, once time is removed from the equation, goals can no longer be used to rationalize your tactics. Without ends, no "means" can be justified. They must be judged on their own merit. So what are you doing?
 
-After a few hundred conversations on precisely this subject with pot users and ex-users alike, I've come to a conclusion about the mechanism behind pot's ability to raise and question conscience-particularly in older, more experienced users. To put it most simply, pot stops time. Or at least it creates the illusion that time has ceased to move forward. When you are stoned, you are no longer in motion. Even if you are moving, you are no longer moving toward something—but simply moving.
+For those accustomed to avoiding life's more existential dilemmas by busying themselves with activity, this slipping out of sequential time can be enough to induce some serious psychic trauma. For them, to just _be_ is hard enough. Especially if they've been avoiding who they are for a long while. (Interestingly, I don't see this happening often in first-time users, however old or even tragically unethical in their daily pursuits. It's as if pot will induce this set of reactions only in a person with whom she has had a long-term relationship or extended series of flings. Only the people she really cares about.)
 
-clean-forward of your directed, intentional life ceases. You are still what you are doing, but the goal no longer exists. The simplest effect
+Kids are immune to this effect. Like baby turtles on the beach hatching from their eggs and running instinctually toward the water, kids have a forward momentum intrinsic to their very being. A sixteen-year-old is leaning forward just for the very fact that he's not full-grown. Adults, however, make their own momentum. If adults are moving toward anything other than death (or maybe childbirth), it's by their own design and a product of their active will. Stoned, however, time stops. The self-generated momentum ceases, and whatever that motion was helping hide comes to the surface.
 
-ne-stoppage is to bring focus to the task at hand. There is no goal; only process. The stoned farmer isn't growing pumpkins; he is plant .. , better, clearing dirt with his finger, placing the seed in the
+Most users experience this on a simple, literal level. They think of it as if marijuana is a little angry that they've been working so hard and taking so little time to enjoy her offerings. They feel that marijuana is letting them know that they need to balance the work/play ratio a bit better; they've become too serious. Some who get this message decide pot is a “bad influence," urging them to be more decadent, earn less money, or make some other irresponsible decision. It's enough to make many adults quit.
 
-eft behind, and covering it with fresh soil. Then doing it again, 20 attention to detail, texture, and grace. The act in this moment
+People who think of themselves as committed artists, activists, or intellectuals often have a more layered experience of this same phenomenon. The marijuana session becomes an invitation to stop and evaluate the integrity of their work or its consistency with purported intentions. It's the moment that the upcoming gallery show means less than the paint on the canvas or the sensory quality of the image. And it's a dangerous moment for any artists already struggling with their motives or even just plain motivation. In fact, in my own informal polling, the impact of marijuana on motivation was second only to “paranoid effects” as a reason for quitting the drug altogether.
 
-doing what you are doing of this time-stoppage is. there is only process. ing a seed-or, better, impression left behind, and com with Zenlike attention to is all there is.
+Given all this, what I had most trouble understanding were the kinds of people—old friends from my college days, for instance—who could work as stockbrokers or corporate lawyers all day for months on end, and then charter a jet out to a rock concert or the Burning Man festival and smoke pot for a week. Not only did they seem capable of surviving pot’s introspective zone with nary a guilty flush, they could go back to work Monday morning and continue to push “interest free” mortgages or other shamelessly predatory financial instruments.
 
-the equation, goals can no ithout ends, no means can be
-
-erit. So what are you doing? more existential dilemmas by
-
-of sequential time can be a. For them, to just be is hard
-
-they are for a long while. in first-time users, however ursuits. It's as if pot will
-
-om she has had a long Only the people she really
-
-370 Cannabis Culture
-
-Likewise, however, once time is removed from the ec longer be used to rationalize your tactics. Without en justified. They must be judged on their own merit. So
-
-For those accustomed to avoiding life's more existe busying themselves with activity, this slipping out of sequer enough to induce some serious psychic trauma. For the enough. Especially if they've been avoiding who they are for (Interestingly, I don't see this happening often in first-time, old or even tragically unethical in their daily pursuits. It's a induce this set of reactions only in a person with whom she has b term relationship or extended series of flings. Only the people cares about.)
-
-immune to this effect. Like baby turtles on the beach hatch ing from their eggs and running instinctually toward the water, kidah forward momentum intrinsic to their very being. A sixteen-year-old is het ing forward just for the very fact that he's not full-grown. Adults, however make their own momentum. If adults are moving toward anything other than death (or maybe childbirth), it's by their own design and a product of their active will. Stoned, however, time stops. The self-generated momentum ceases, and whatever that motion was helping hide comes to the surface.
-
-Most users experience this on a simple, literal level. They think of it as if marijuana is a little angry that they've been working so hard and tak ing so little time to enjoy her offerings. They feel that marijuana is letting them know that they need to balance the work/play ratio a bit better; they've become too serious. Some who get this message decide pot is a “bad influ ence," urging them to be more decadent, earn less money, or make some other irresponsible decision. It's enough to make many adults quit.
-
-People who think of themselves as committed artists, activists, or intel lectuals often have a more layered experience of this same phenomenon. marijuana session becomes an invitation to stop and evaluate the merge of their work or its consistency with purported intentions. It's the moment that the upcoming gallery show means less than the paint on the canva. the sensory quality of the image. And it's a dangerous moment for any a already struggling with their motives or even just plain motivas, in my own informal polling, the impact of marijuana on motivation ond only to “paranoid effects” as a reason for quitting the drug altog
-
-Given all this, what I had most trouble understanding was people-old friends from my college days, for instance—who cour
-
-of the
-
-y artists
-
-canding were the kinds of ince—who could work as
-
-Cannabis: Stealth Goddess
-
-371
-
-stockbrokers or corpora ter a jet out to a rock cor a week. Not only did with nary a guilty flush, the continue to push “interest
-
-or corporate lawyers all day for months on end, and then char
-
-rock concert or the Burning Man festival and smoke pot for jy did they seem capable of surviving pot’s introspective zone
-
-irv flush, they could go back to work Monday morning and ush “interest free” mortgages or other shamelessly predatory
-
-financial instruments.
-
-mula for maintainings that so many others exp to be a second drug, cocaine
-
-Tu decided to spend a weekend with them to figure out their for Cintaining such a decidedly arm's-length relationship with a drug In others experience as all-or-nothing. And the answer turned out
-
-cond drug, cocaine (actually coke mixed with methamphetamine »), that they were using along with the pot. No big wonder, then, how
-
-Cided the timelessness and purposelessness of pot: just create some they a fake ti Crime with speed and synthetic purpose with cocaine. They wrestled pot
-
-ground and turned her into an unwilling party drug. I can only hope to the she gets a few of these people alone some day.
+I finally decided to spend a weekend with them to figure out their formula for maintaining such a decidedly arm's-length relationship with a drug that so many others experience as all-or-nothing. And the answer turned out to be a second drug, cocaine (actually coke mixed with methamphetamine—"speed"), that they were using along with the pot. No big wonder, then, how they avoided the timelessness and purposelessness of pot: just create some fake time with speed and synthetic purpose with cocaine. They wrestled pot to the ground and turned her into an unwilling party drug. I can only hope she gets a few of these people alone some day.
 
 But for me and countless others who've taken the time to think about it, pot is a drug that requires a level of respect, trepidation, and devotion that most people aren't prepared or expecting to give her. And while regular use can dampen the immediately felt impact of pot's invitation to exchange promise for process, this doesn't mean the drug isn't making its very presence known.
 
-Take the work of two of Hollywood's most famous daily pot smokers, the late Robert Altman and Oliver Stone. Altman's movies imitate the stoned mind wandering from synchronicity to synchronicity, contenting themselves with pattern recognition and requiring their narrative-bound audiences to do the same. Stone's, on the other hand, bring us with him into the para noid scenarios of the stoned mind daring itself into increasingly nightmarish territory—as if the ability to play in these regions somehow purges them of their power. Given his almost obsessive return to this dark side, the paranoid
+Take the work of two of Hollywood's most famous daily pot smokers, the late Robert Altman and Oliver Stone. Altman's movies imitate the stoned mind wandering from synchronicity to synchronicity, contenting themselves with pattern recognition and requiring their narrative-bound audiences to do the same. Stone's, on the other hand, bring us with him into the paranoid scenarios of the stoned mind daring itself into increasingly nightmarish territory—as if the ability to play in these regions somehow purges them of their power. Given his almost obsessive return to this dark side, the paranoid vision seems only to be gaining more hold over his awareness. Then again, it's hard to spend tens of millions of dollars on a piece of violent entertainment without the spirit of weed objecting on some level.
 
-on seems only to be gaining more hold over his awareness. Then again, as hard to spend tens of millions of dollars on a piece of violent entertain ment without the spirit of weed objecting on some level.
-
-nich all goes back to my initial sense that marijuana is the stealth queen o
-
-of all drugs. Any user knows how big a wallop LSD or DMT is soo deliver and typically prepares accordingly. A difficult trip may not Fred, but it's not completely unexpected, either. Marijuana, on the
-
-\- presents a peculiarly deep set of contradictions for its users "y for adults, and particularly for those who have the privilege
-
-other hand, presents a peculiai particularly for adults, and pas
-
-372
-
-Cannabis Culture
-
-'s riches. By stopping
-
-of death-and you d the eye of a needle. ly holds answers to our
-
-ire could likely solve han astoundingly good
-
-of living with a disproportionate share of the world's riches time, pot offers, just like an orgasm, a little preview of death know what they say about a rich man, a camel, and the eye of a
+Which all goes back to my initial sense that marijuana is the stealth queen of all drugs. Any user knows how big a wallop LSD or DMT is going to deliver and typically prepares accordingly. A difficult trip may not be expected, but it's not completely unexpected, either. Marijuana, on the other hand, presents a peculiarly deep set of contradictions for its users—particularly for adults, and particularly for those who have the privilege of living with a disproportionate share of the world's riches. By stopping time, pot offers, just like an orgasm, a little preview of death—and you know what they say about a rich man, a camel, and the eye of a needle.
 
 Is it coincidence that this same genus very likely holds answ energy and environmental challenges? Hemp agriculture could lil both the energy and CO2 crises at the same time, with an astoundin biomass-to-fuel ratio, excellent carbon absorption, and the opposite depletion.
 
