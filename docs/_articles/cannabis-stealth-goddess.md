@@ -8,7 +8,6 @@ blurb: ''
 notes: "2010"
 refs: ''
 sources: ''
-published: false
 
 ---
 Back around the time he was dying, Timothy Leary kept returning to an odd little game where he'd ask people to rank their drugs. Most of us assumed it was the illness (or the morphine) getting the best of him, because he just kept doing it with everyone.
