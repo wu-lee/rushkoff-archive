@@ -107,25 +107,9 @@ No, she was too real, and too present to fade into the background while I plaste
 
 But I wasn't willing to let her go, either. And that's what forced me to find a way out of the trap in which I'd been stuck for most of my adult life. 
 
-To get to be with this woman I had to finally put down the gun and accept that I couldn't shoot my way out of the hostage crisis in which I had imprisoned myself for thirty years. Negotiations had failed, the 
+To get to be with this woman I had to finally put down the gun and accept that I couldn't shoot my way out of the hostage crisis in which I had imprisoned myself for thirty years. Negotiations had failed, the trail of victims was longer than my conscience would permit, and I was tired of terrorizing myself for an agenda forged during puberty by psychosexual fundamentalists. Besides—I'd found someone I could actually be myself with, and I liked how being me was beginning to feel.
 
-of victims was longer than my conscience would perinit, and I was 
-
-of terrorizing myself for an agenda forged during puberty by prychosexual fundamentalists. Besides-I'd found someone I could ac tually be myself with, and I liked how being me was beginning to think I've found "the one." precisely because she's the one 
-
-ouldn't orced me to realize there's no such thing. Honestly, I wou want to give her up to find out what "the one" might 
-
-100 good the way it is. Most of the time, anyway. Sometim
-
-xxx
-
-what makes a man 
-
-douglas rushkoff 
-
-try it. 
-
-not, and I'm plagued by the same old nagging objections from remaining script development people in my head. But that's then we must pay to live in the real world. Everyone should at least tr You, too. 
+Yes, I think I've found "the one," precisely because she's the one who's forced me to realize there's no such thing. Honestly, I wouldn't want to give her up to find out what "the one" might be, anyway. It's just too good the way it is. Most of the time, anyway. Sometimes it's not, and I'm plagued by the same old nagging objections from the remaining script development people in my head. But that's the price we must pay to live in the real world. Everyone should at least try it. You, too.
 
 What I've come to realize is that being a man means giving up the false security of defining my masculinity against an obsolete and crudely drawn notion of the feminine. Being a man has nothing to do with not being a woman, and everything to do with being a person who makes his own choices in real life. When you lose the screenplay you may also lose the approval of the crowd, but you'll be more than compensated with the joy of autonomy. 
 
