@@ -99,31 +99,11 @@ I suppose I would have continued in this endless cycle of cinematically predeter
 
 Barbara immediately struck me as a person I wanted to know better—if for no other reason than that she hated the stupid conference as much as I did, and wasn't afraid to say so. She turned out to be a person a lot like me. A kid, in some ways, Like one of those girls I liked to play with back when I was ten, before we weren't allowed to like girls that way, anymore. Not without getting called "fem," anyway.
 
- licated matters, though, was that I really wanted to kim 
+What complicated matters, though, was that I really wanted to kiss her, too. 
 
-oglas rushkort 
+Barbara's a suburban Jew like me, with a shared distaste for almost everything that passes for Judaism these days. She speaks directly, looks straight into my eyes, and takes no shit. She even looks and acts a lot like me, which is kind of freaky all by itself. But, worse for the incurable screenwriter in the back of my head, I had an immediate sense of connection with her that made objectification impossible. How do you turn someone you're experiencing as so real into a mere image? It's like when you're watching a movie with an actor so recognizable that you can't believe the role they're supposed to be playing.
 
-ne of the 
-
-m. Simi 
-
-pe, What 
-
-the con 
-
-of men 
-
-sraight into my eyes, and takes no 
-
-like me 
-
-a suburban Jew like me, with a shared distaste for almost hat passes for Judaism these days. She speaks directly, looks 
-
-my eyes, and takes no shit. She even looks and acts a lot which is kind of freaky all by itself. But, worse for the incur canwriter in the back of my head, I had an immediate sense of 
-
-ection with her that made objectification imposible. How do you urn someone you're experiencing as so real into a mere image? It's like when you're watching a movie with an actor so recognizable that you can't believe the role they're supposed to be playing, 
-
-No, she was too real, and too present to fade into the background while I plastered a stereotype over her. I wasn't going to be able to use her in the same way I had used almost every woman I'd encountered before the way I used that picture of the pixie in Oui thirty years agoas some vague confirmation of my hetero status. 
+No, she was too real, and too present to fade into the background while I plastered a stereotype over her. I wasn't going to be able to use her in the same way I had used almost every woman I'd encountered before—the way I used that picture of the pixie in _Oui_ thirty years ago—as some vague confirmation of my hetero status.
 
 But I wasn't willing to let her go, either. And that's what forced me to find a way out of the trap in which I'd been stuck for most of my adult life. 
 
