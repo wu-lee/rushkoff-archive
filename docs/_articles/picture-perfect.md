@@ -83,7 +83,23 @@ It was no longer about proving my gender or sexual preference. Hell, homosexuali
 
 I began to see women more as static images than as living, changing, dynamic beings. The blonde, green-eyed psychologist from Dallas. The nice but overweight Jewish teacher from Brooklyn. The hot Croatian architect. Each one was processed by my internal Central Casting division, and inserted into my mental script-writing program. The psychologist would be a sympathetic ear. The overweight teacher would never cheat on me. The Croatian architect would challenge me intellectually and sexually for years to come. Two from column A, one from column B. My own, genuine experience of these people was dwarfed hy my involuntary tendency to turn them into statistical profiles. The needs of the script, my internal audience and, presumably, the general public, were all that mattered. 
 
-Sure, the profiles grew in complexity and sophistication so much so that they sounded, to my friends, like real considerations for choos ing a girlfriend. They were certainly more heartfelt than the kinds of considerations voiced by the neurotic singles of Seinfeld or the sexually infantilized women of Sex and the City. But I was fooling myself, all the
+Sure, the profiles grew in complexity and sophistication—so much so that they sounded, to my friends, like real considerations for choosing a girlfriend. They were certainly more heartfelt than the kinds of considerations voiced by the neurotic singles of _Seinfeld_ or the sexually infantilized women of _Sex and the City_. But I was fooling myself, all the same. Maybe that's why these TV programs became so intolerable to me. I was no better than these characters were at looking past the laundry list of desirable features to the human being with whom I was interacting. 
+
+My original motivations for turning my romantic life into a series of test drives—the taunts of my classmates and the fear of never turning into a man—had long passed. But I was still looking for a woman who could define me the way that first brunette pixie in _Oui_ had confirmed my sexual identity as a child. Who would be Douglas's mate? 
+
+Loo doomed to failure. In short, my attraction to 
+
+olis 
+
+Looking at potential romantic partners through a lens like this was 
+
+short, my attraction to a woman had almost 
+
+douglas rushkoff 
+
+than what advertisers have done with emaciated female models since the 1960s. But it gave marketers the permission to objectify boys with the same intensity they had used to drive millions of teenage girls to stick fingers down their throats. Instead of looking at pictures of naked girls, they are now poring through magazines filled with the ripped torsos of young men. 
+
+Combine this pressure from the mass media with the availability of stark video porn to replace the glossy photos of Daddy's favorite skin mags, and you've got a recipe for objectification on an order of mag. nitude unimaginable by those of us raised on Playboy and wedgies, In. stead of just objectifying females, today's boys objectify the entire sex act, and insist on pulling out before orgasm so that they can watch the “money shot" for themselves.
 
 xxx
 
