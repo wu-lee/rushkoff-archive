@@ -95,11 +95,49 @@ But, eventually, each relationship started to feel flat. It's no wonder—I wasn
 
 My growing self-knowledge made me feel disingenuous. I didn't want to be one of those guys who sought a trophy wife, even though I had managed to upgrade my obsession to the more palatable goal of an “ideal marriage." The image I had constructed—of living with a beautiful, intelligent woman in the hills of Marin County, cooking healthy whole wheat breakfasts and writing in our separate studios until late in the night before retiring for an evening of earth-shattering tantric sex—was still just another image. 
 
-I suppose I would have continued in this endless cycle of cinemati cally predetermined but utterly doomed serial monogamy bad I not happened to accept an invitation to attend an awful conference about 
+I suppose I would have continued in this endless cycle of cinematically predetermined but utterly doomed serial monogamy bad I not happened to accept an invitation to attend an awful conference about Judaism a year or so ago. For it was there that I met a woman who just didn't fit the script. 
 
-Judaism a year or so ayo. For it was there that I met a woman who just didn't fit the script. 
+Barbara immediately struck me as a person I wanted to know better—if for no other reason than that she hated the stupid conference as much as I did, and wasn't afraid to say so. She turned out to be a person a lot like me. A kid, in some ways, Like one of those girls I liked to play with back when I was ten, before we weren't allowed to like girls that way, anymore. Not without getting called "fem," anyway.
 
-Barbara immediately struck me as a person I wanted to know better if for no other reason than that she hated the stupid confer ence as much as I did, and wasn't afraid to say so. She turned out to be a person a lot like me. A kid, in some ways, Like one of those girls 
+ licated matters, though, was that I really wanted to kim 
+
+oglas rushkort 
+
+ne of the 
+
+m. Simi 
+
+pe, What 
+
+the con 
+
+of men 
+
+sraight into my eyes, and takes no 
+
+like me 
+
+a suburban Jew like me, with a shared distaste for almost hat passes for Judaism these days. She speaks directly, looks 
+
+my eyes, and takes no shit. She even looks and acts a lot which is kind of freaky all by itself. But, worse for the incur canwriter in the back of my head, I had an immediate sense of 
+
+ection with her that made objectification imposible. How do you urn someone you're experiencing as so real into a mere image? It's like when you're watching a movie with an actor so recognizable that you can't believe the role they're supposed to be playing, 
+
+No, she was too real, and too present to fade into the background while I plastered a stereotype over her. I wasn't going to be able to use her in the same way I had used almost every woman I'd encountered before the way I used that picture of the pixie in Oui thirty years agoas some vague confirmation of my hetero status. 
+
+But I wasn't willing to let her go, either. And that's what forced me to find a way out of the trap in which I'd been stuck for most of my adult life. 
+
+To get to be with this woman I had to finally put down the gun and accept that I couldn't shoot my way out of the hostage crisis in which I had imprisoned myself for thirty years. Negotiations had failed, the 
+
+of victims was longer than my conscience would perinit, and I was 
+
+of terrorizing myself for an agenda forged during puberty by prychosexual fundamentalists. Besides-I'd found someone I could ac tually be myself with, and I liked how being me was beginning to think I've found "the one." precisely because she's the one 
+
+ouldn't orced me to realize there's no such thing. Honestly, I wou want to give her up to find out what "the one" might 
+
+100 good the way it is. Most of the time, anyway. Sometim
+
+xxx
 
 what makes a man 
 
