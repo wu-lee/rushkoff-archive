@@ -30,10 +30,6 @@ The beauty of this era – this networked, hi-tech, and decentralised world – 
 
 In my own town, for example, there's a tiny organic cafe called Comfort that is seeking to expand. John, the owner, secured a second location for a sit-down restaurant, but doesn't have enough money to renovate the space. Although he has great credit, he cannot get a loan from any of the banks in town. Even though the bankers know him, they don't have lending authority from the conglomerates that own them. So what exactly is John supposed to do? 
 
-38 Holland Herald FUTURE 
-
-FUTURE BUSINESS 
-
 John has turned to the community for help. He invented "Comfort Dollars” that people can buy at a discount of 20%. If you spend $1,000, you receive $1,200 in Comfort Dollars that can be spent at the restaurant. John gets the cash infusion he needs to complete his expansion - and for less than the bank would charge him. The local community gets a 20% discount on food they would be buying anyway, as well as the chance to invest in making their town better. This is a 20% return on investment, payable as fast as the investor and his family can eat. 
 
 The Comfort Dollars scenario reveals just how much of the current mess has resulted from the way we "outsourced” our finances to begin with. The real problem underlying the global financial meltdown has much less to do with low efficiency, bad labour, or poor innovation than it does with the decreased utility of the financial industry itself. Money has stopped working properly - at least in its capacity to lubricate transactions. The sad part is that money is working exactly as it was designed to. 
