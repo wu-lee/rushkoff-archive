@@ -8,7 +8,6 @@ blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-published: false
 
 ---
 It was back around the fourth grade. Before any of us even knew what a homosexual was. Well, some of my classmates probably knew, but I didn't—which is part of what made me so vulnerable to the damning accusation.
