@@ -11,7 +11,6 @@ blurb: Douglas Rushkoff is a renowned author, teacher and documentarian. He inve
 notes: January 2009
 refs: ''
 sources: ''
-published: false
 
 ---
 The credit crunch may actually be good for business. No, not in the short term. When money becomes more expensive, it is harder for most businesses to get the capital they need to conduct their most basic operations. Even successful companies borrow money to buy materials, pay employees, and cash in on invoices that have yet to be paid. Without the cash flow provided by banks, it is a lot harder for many companies to function - much less expand.
