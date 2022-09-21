@@ -9,7 +9,6 @@ notes: "Date from Dropbox.  \nText from [http://web.archive.org/web/201011280320
   \"http://web.archive.org/web/20101128032028/http://rushkoff.com/articles/articles-and-essays/we-are-the-programmers/\")"
 refs: ''
 sources: ''
-published: false
 
 ---
 It all began with the remote control.
