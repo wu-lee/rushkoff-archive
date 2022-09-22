@@ -9,7 +9,6 @@ blurb: '[https://www.theguardian.com/technology/2000/jan/20/onlinesupplement10](
 notes: ''
 refs: ''
 sources: ''
-published: false
 
 ---
 No matter how spirited the press conference, or how high the combined worth of the resulting entity - upwards of $300bn - the proposed merger of America Online and [Time Warner](https://www.theguardian.com/media/time-warner) is as desperate a measure for both partners as it is intelligent.
