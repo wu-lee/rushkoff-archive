@@ -9,7 +9,6 @@ notes: '[https://www.theguardian.com/commentisfree/2019/dec/29/decade-technology
   "https://www.theguardian.com/commentisfree/2019/dec/29/decade-technology-privacy-tech-backlash")'
 refs: 
 sources: 
-published: false
 
 ---
 We may come to remember this decade as the one when human beings finally realized we are up against something. We’re just not quite sure what it is.
