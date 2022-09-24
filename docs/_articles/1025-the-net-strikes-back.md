@@ -1,14 +1,16 @@
 ---
 title: The net strikes back
 subtitle: 
-date: '2000-02-14T05:00:00.000Z'
+date: 2000-02-14T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Hackers Remind Us That The Internet Isn't A Safe, Suburban Mall Constructed
   Just For Corporate America
-notes: 
+notes: '[https://www.theguardian.com/technology/2000/feb/14/hacking.security](https://www.theguardian.com/technology/2000/feb/14/hacking.security
+  "https://www.theguardian.com/technology/2000/feb/14/hacking.security")'
 refs: 
 sources: 
 published: false
+
 ---
 I know it's wrong. I'm not supposed to get my thrills this way. Still, the recent spate of hacker attacks on major American corporate Web sites brings a smile to my face - and to the faces of almost everyone I speak to about it.
 
@@ -40,4 +42,4 @@ The look and feel of the Internet changed as users were converted into consumers
 
 This week's attacks prove that the Internet is not as impenetrable as the opaque interface of the World Wide Web might suggest. It reminds us that the online universe was developed with public funds and that corporate America has been getting a free ride on a civic highway. They are guests, not landlords.
 
-Instead of looking for ways to shore up their defenses, perhaps these companies should consider why they are under attack. "
+Instead of looking for ways to shore up their defenses, perhaps these companies should consider why they are under attack.
