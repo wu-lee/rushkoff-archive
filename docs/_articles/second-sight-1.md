@@ -1,7 +1,7 @@
 ---
 publication: _publications/guardian.md
-title: Second Sight
-subtitle: Ten Reasons To Be Happy at the End of the Net’s Worst Year
+title: Ten Reasons To Be Happy at the End of the Net’s Worst Year
+subtitle: ''
 image: ''
 date: 2000-12-20 00:00:00 -0500
 blurb: ''
