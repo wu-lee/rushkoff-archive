@@ -1,6 +1,6 @@
 ---
 publication: _publications/guardian.md
-title: Second Sight
+title: The Internet Is Not Killing off Conversation but Actively Encouraging It
 subtitle: ''
 image: ''
 date: 2000-06-28 00:00:00 -0400
