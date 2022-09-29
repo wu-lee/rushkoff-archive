@@ -1,13 +1,13 @@
 ---
 title: To Life
 subtitle: 
-date: '2001-09-01T04:00:00.000Z'
+date: 2001-09-19 00:00:00 -0400
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: 10 Ways to Understand What Just Happened
-notes: 
+notes: Date is based on when this column was emailed (per Dropbox file)
 refs: 
 sources: 
-published: true
+
 ---
 I've received a lot of email from people supporting my attempts to reach some clarity (mostly on the media-squatters discussion list) while avoiding any particular pole of fundamentalism or extremism. And I've received many critical emails from all 'sides' of this catastrophe.
 
