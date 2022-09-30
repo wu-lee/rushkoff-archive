@@ -9,7 +9,6 @@ notes: '[https://www.theguardian.com/technology/2001/mar/22/onlinesupplement4](h
   "https://www.theguardian.com/technology/2001/mar/22/onlinesupplement4")'
 refs: ''
 sources: ''
-published: false
 
 ---
 In the beginning, it seemed that the decision to grant the public open access to the internet would herald a new era of teledemocracy, political activism and a reinstatement of the collective will in public affairs.
