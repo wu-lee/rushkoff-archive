@@ -47,23 +47,7 @@ Knowing the biases of a technology _before_ you use it can save a lot of headach
 
 When we use technologies in a passive, unthinking way, we risk changing our world and behaving in ways driven by our technologies' built-in biases. For example, think of the difference between the websites Amazon and Facebook. What does Amazon want you to do? Buy stuff. So every button, every paragraph, every pop-up window you see when you visit Amazon is designed to get you to buy stuff. Facebook, on the other hand, wants you to share information about yourself—because that information is valuable to the marketing companies and research firms who pay Facebook for access to it. That's why Facebook encourages you to list the bands and brands you like, and to "friend" and "like" everything in your universe. You aren't Facebook's customer; those businesses are. Your information is Facebook's product.
 
-simple set of tools that lets a more advanced user people who program websites and TV
-
-"mod” (change) the way the game looks and feels. and other technology and media-I mean
-
-Instead of running around in a dungeon fighting ple who decide what these media should
-
-monsters, a kid might make a version of the game for whom-do so on behalf of their real
-
-where players run around in a high school fighting mers. For example, who is the customer of
-
-their teachers—much to the chagrin of parents and rican Idol? Not you, the viewer, but Ford, Coca
-
-educators everywhere. He might upload his version and AT&T, who advertise through the show of the game to the Internet, watching with pride as nd want viewers to buy their stuff. That's why the
-
-other kids download his game and comment about Idol contestants call home with AT&T phones and
-
-it in gamers' forums. Some day that gamer might drive Ford cars, and it's why the judges drink from even start building original videogames making big plastic Coke cups.
+The people who program websites and TV shows and other technology and media—I mean the people who decide what these media should do, and for whom—do so on behalf of their real customers. For example, who is the customer of _American Idol_? Not you, the viewer, but Ford, Coca-Cola, and AT&T, who advertise through the show and want viewers to buy their stuff. That's why the Idol contestants call home with AT&T phones and drive Ford cars, and it's why the judges drink from big plastic Coke cups.
 
 the progression all the way from player to cheater Apple's App Store encourages you to think of to modder to programmer. all your online purchasing as something that has to When humans first acquired language, we be orchestrated by Apple. The online stock trading didn't just learn to listen, we learned to speak. platforms your grownups use are configured to When we got written language, we didn't just learn make them want to trade more frequently, earning how to read, we learned how to write. And now that the companies behind them more commissions. we have computers and the Internet, we can't just
 
