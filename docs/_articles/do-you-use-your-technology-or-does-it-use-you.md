@@ -21,15 +21,9 @@ Maybe that's why it's so appropriate they called the stuff on television "progra
 
 The first computers most of us touched turned this whole situation on its head. They were basically like TV sets, except they also had keyboards. So now, instead of just watching what was on the TV, we could put stuff _onto_ the monitor. Television changed from a thing we watched to a thing we made.
 
-Imagine having a telephone for many years, when they did, they offered us a whole 
+Imagine having a telephone for many years, but only using it as a radio. You'd pick up the receiver, and listen to the news or the weather or a song. And then imagine suddenly realizing that you could talk through the thing, as well! That's how big a shift it was to see TV evolve into a computer.
 
-but only using it as a radio. You'd pick up the new world of possibilities. 
-
-receiver, and listen to the news or the weather or a 
-
-song. And then imagine suddenly realizing that you Television, you see, was a completely closed me. could talk through the thing, as well! That's how big 
-
-We watched it all afternoon when we came a shift it was to see TV evolve into a computer. home from school, but couldn't change anything 
+ home from school, but couldn't change anything 
 
 But wait, there's more. Not only could we make about it. The only way we could affect what ap 
 
