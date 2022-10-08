@@ -25,33 +25,7 @@ Imagine having a telephone for many years, but only using it as a radio. You'd p
 
 But wait, there's more. Not only could we make our own content, the computer was an anything machine. You could make it be a typewriter, a paintbrush, a calculator... anything. All you needed to do was to give it a new set of instructions--a _program_. To use a computer was to create a program and then use it.
 
- Maybe that's why it's so appropriate they 
-
-Sure, many of us simply got our programs from called the stuff on television programming." They 
-
-friends and schools instead of writing them our werent programming the TV sets, they were pro 
-
-selves, but we were aware that there were different garming us viewers.
-
-a to kn how co
-
-Loe ou
-
-or, most kids today seem
-
-ss than grownups do about a the Internet, not to mention
-
-and videogames really
-
-Oddly enough, however, mo to know-or care-less than how computers and the Inter websites, smartphones, and video work. Kids write with compu through Facebook and other on ing services and find informat Having grown up with digital tech them, as a part of their “natural" envi kids tend to accept them exactly as
-
-ith computers, make friends
-
-i programs for different jobs, and that we could have
-
-created any of these things ourselves, if we were 7 willing to put the time in. (Just like we sometimes | buy a sandwich at the deli, even though we know
-
-how to put salami on a roll.) Using one kind of program encouraged us to work or play in a certain way, while using another encouraged something else; each program had tendencies, or biases, to ward certain behaviors, mind-sets, and approach es. We understood that, because we could read the commands in our programs, and alter them if necessary. That's why we enjoyed a sense of choice about what computers could do, and a feeling of command over them.
+Sure, many of us simply got our programs from friends and schools instead of writing them ourselves, but we were aware that there were different programs for different jobs, and that we could have created any of these things ourselves, if we were willing to put the time in. (Just like we sometimes buy a sandwich at the deli, even though we know how to put salami on a roll.) Using one kind of program encouraged us to work or play in a certain way, while using another encouraged something else; each program had tendencies, or biases, toward certain behaviors, mind-sets, and approaches. We understood that, because we could read the commands in our programs, and alter them if necessary. That's why we enjoyed a sense of choice about what computers could do, and a feeling of command over them.
 
 er online social network
 
