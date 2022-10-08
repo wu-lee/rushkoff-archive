@@ -23,21 +23,9 @@ The first computers most of us touched turned this whole situation on its head. 
 
 Imagine having a telephone for many years, but only using it as a radio. You'd pick up the receiver, and listen to the news or the weather or a song. And then imagine suddenly realizing that you could talk through the thing, as well! That's how big a shift it was to see TV evolve into a computer.
 
- home from school, but couldn't change anything 
+But wait, there's more. Not only could we make our own content, the computer was an anything machine. You could make it be a typewriter, a paintbrush, a calculator... anything. All you needed to do was to give it a new set of instructions--a _program_. To use a computer was to create a program and then use it.
 
-But wait, there's more. Not only could we make about it. The only way we could affect what ap 
-
-Our own content, the computer was an anything peared on the TV was to change the channel. We 
-
-machine. You could make it be a typewriter, a could pick which program we wanted to watch, but 
-
-paintbrush, a calculator... anything. All you needed then we just watched it. Someone else, far away, 
-
-to do was to give it a new set of instructions-a pro 
-
-gam. To use a computer was to create a program made the programs. We simply received them. 
-
-and then use it. Maybe that's why it's so appropriate they 
+ Maybe that's why it's so appropriate they 
 
 Sure, many of us simply got our programs from called the stuff on television programming." They 
 
