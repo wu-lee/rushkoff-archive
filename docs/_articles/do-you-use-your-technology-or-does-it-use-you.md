@@ -17,15 +17,9 @@ Television, you see, was a completely closed medium. We watched it all afternoon
 
 Maybe that's why it's so appropriate they called the stuff on television "programming." They weren't programming the TV sets; they were programming us viewers.
 
-The Digital Revolution outers in their homes and schools 
+**The Digital Revolution**
 
-The first computers most of us touched turned this cold understand them really well. Bet 
-
-whole situation on its head. They were basically like ser tizan we grownups do, anyway. Most TV sets, except they also had keyboards. So now, in of us only had television sets when we stead of just watching what was on the TV, we could were kids, and maybe a simple videogame 
-
-put stuff onto the monitor. Television changed from console. Computers came much later, and 
-
-a thing we watched to a thing we made. 
+The first computers most of us touched turned this whole situation on its head. They were basically like TV sets, except they also had keyboards. So now, instead of just watching what was on the TV, we could put stuff _onto_ the monitor. Television changed from a thing we watched to a thing we made.
 
 Imagine having a telephone for many years, when they did, they offered us a whole 
 
