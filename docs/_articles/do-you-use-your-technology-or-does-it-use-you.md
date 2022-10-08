@@ -23,23 +23,13 @@ The first computers most of us touched turned this whole situation on its head. 
 
 Imagine having a telephone for many years, but only using it as a radio. You'd pick up the receiver, and listen to the news or the weather or a song. And then imagine suddenly realizing that you could talk through the thing, as well! That's how big a shift it was to see TV evolve into a computer.
 
-But wait, there's more. Not only could we make our own content, the computer was an anything machine. You could make it be a typewriter, a paintbrush, a calculator... anything. All you needed to do was to give it a new set of instructions--a _program_. To use a computer was to create a program and then use it.
+But wait, there's more. Not only could we make our own content, the computer was an anything machine. You could make it be a typewriter, a paintbrush, a calculator... anything. All you needed to do was to give it a new set of instructions—a _program_. To use a computer was to create a program and then use it.
 
 Sure, many of us simply got our programs from friends and schools instead of writing them ourselves, but we were aware that there were different programs for different jobs, and that we could have created any of these things ourselves, if we were willing to put the time in. (Just like we sometimes buy a sandwich at the deli, even though we know how to put salami on a roll.) Using one kind of program encouraged us to work or play in a certain way, while using another encouraged something else; each program had tendencies, or biases, toward certain behaviors, mind-sets, and approaches. We understood that, because we could read the commands in our programs, and alter them if necessary. That's why we enjoyed a sense of choice about what computers could do, and a feeling of command over them.
 
-er online social network
+**How programming got mysterious**
 
-information through Google
-
-gital technology all around
-
-atural" environment, em exactly as they are, with
-
-out question.
-
-at kids and young adults are
-
-How programming got mysterious Software companies didn't want computer users to make programs; they wanted to sell them software. So computers started getting more and more easy to use, thanks to pre-installed programs featuring attractive buttons and windows that made it pos sible for us to get things done without typing in any commands. But in the process, computers became more difficult to program for ourselves; we could no longer see how these programs were made. (It was like buying a pre-made sandwich, instead of choosing its ingredients at the deli counter.) Today, computers are so easy to use that we don't even need instruction manuals—but at what cost?
+Software companies didn't want computer users to make programs; they wanted to sell them software. So computers started getting more and more easy to use, thanks to pre-installed programs featuring attractive buttons and windows that made it possible for us to get things done without typing in any commands. But in the process, computers became more difficult to program for ourselves; we could no longer see how these programs were made. (It was like buying a pre-made sandwich, instead of choosing its ingredients at the deli counter.) Today, computers are so easy to use that we don't even need instruction manuals—but at what cost?
 
 Today, people think of an "app" as something that is downloaded from an App Store rather than something you build yourself. To those of us who know what a program really is, that's almost like saying a sand castle is something you buy. Or that swimming is something you go to the pool to watch. Or that telephones are for listening to mu sic, instead of talking to friends.
 
