@@ -41,7 +41,7 @@ Oddly enough, however, most kids today seem to know—or care—less than grownu
 
 Studies have shown that kids and young adults are less likely than are grownups to be able to tell the difference between a news story and an advertisement. Kids also are less able than are grownups to figure what their digital technology wants from them—which is to say, to recognize the biases with which the technology was programmed.
 
-All technologies have biases. It's true that “guns don't kill people; people kill people.” But guns are much more likely to be used to kill people than, say, pillows are. Yes, a pillow can still be used to commit a murder, but it is much more biased to ward sleeping. Guns are more biased toward killing.
+All technologies have biases. It's true that “guns don't kill people; people kill people.” But guns are much more likely to be used to kill people than, say, pillows are. Yes, a pillow can still be used to commit a murder, but it is much more biased toward sleeping. Guns are more biased toward killing.
 
 Knowing the biases of a technology before you use it can save a lot of headaches later on. If we had really considered all the biases of the automobile before we made them an American way of life, things might have turned out differently. People used to walk to work. In Europe, people still walk home for lunch. Automobiles are biased toward distance, for instance. So as we built neighbor hoods around the needs of the automobile, we ended up having to travel long distances to get to work. Now we just take that for granted as a fact of life. We need cars, and American adults actually work on average one day each week just to pay for the car that gets them there.
 
