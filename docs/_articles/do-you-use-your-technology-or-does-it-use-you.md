@@ -37,9 +37,9 @@ As I watched computers get easier to use but more difficult for non-programmers 
 
 Oddly enough, however, most kids today seem to know—or care—less than grownups do about how computers and the Internet, not to mention websites, smartphones, and videogames really work. Kids write with computers, make friends through Facebook and other online social networking services and find information through Google. Having grown up with digital technology all around them, as a part of their "natural" environment, kids tend to accept them exactly as they are, without question.
 
-xxx
+**Don't take your tech for granted**
 
-Don't take your tech for granted Studies have shown that kids and your less likely than are grownups to be able to tell the difference between a news story and an adverti ment. Kids also are less able than are grow to figure what their digital technology wants fro them—which is to say, to recognize the biases with which the technology was programmed.
+Studies have shown that kids and young adults are less likely than are grownups to be able to tell the difference between a news story and an advertisement. Kids also are less able than are grownups to figure what their digital technology wants from them—which is to say, to recognize the biases with which the technology was programmed.
 
 All technologies have biases. It's true that “guns don't kill people; people kill people.” But guns are much more likely to be used to kill people than, say, pillows are. Yes, a pillow can still be used to commit a murder, but it is much more biased to ward sleeping. Guns are more biased toward killing.
 
