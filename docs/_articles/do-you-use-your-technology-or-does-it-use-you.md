@@ -35,6 +35,10 @@ Today, people think of an "app" as something that is downloaded from an App Stor
 
 As I watched computers get easier to use but more difficult for non-programmers to understand, I wrote books for grownups explaining that, as with any family immigrating to a new culture, it's the kids who learn the language and customs the best. I described grownups as slightly disoriented “digital immigrants," and young people raised with computers and the Internet as “digital natives," who would instinctively know how digital technology works. Kids would be so good at programming, I predicted, that they would one day program humanity itself out of the terrible hole into which we have dug ourselves.
 
+Oddly enough, however, most kids today seem to know—or care—less than grownups do about how computers and the Internet, not to mention websites, smartphones, and videogames really work. Kids write with computers, make friends through Facebook and other online social networking services and find information through Google. Having grown up with digital technology all around them, as a part of their "natural" environment, kids tend to accept them exactly as they are, without question.
+
+xxx
+
 Don't take your tech for granted Studies have shown that kids and your less likely than are grownups to be able to tell the difference between a news story and an adverti ment. Kids also are less able than are grow to figure what their digital technology wants fro them—which is to say, to recognize the biases with which the technology was programmed.
 
 All technologies have biases. It's true that “guns don't kill people; people kill people.” But guns are much more likely to be used to kill people than, say, pillows are. Yes, a pillow can still be used to commit a murder, but it is much more biased to ward sleeping. Guns are more biased toward killing.
@@ -51,8 +55,6 @@ r most kids today seem
 
 183
 
-oddly enough, nowever, most kids toda
-
 \-
 
 ver OEWNOD-\]
@@ -63,8 +65,6 @@ Boxes
 
 \-W
 
-_less than grownups do about he Internet, not to mention
-
 and videogames really computers, make friends
 
 er online social network IT d information through Google.
@@ -74,8 +74,6 @@ ital technology all around bir “natural” environment, ccept them exactly as 
 DIW! OOBOK IOS! 4JI OXI9MVTOTUL 050171 OROONIT TXO I W nd that we could have urselves, if we were to know-or care-less than Et like we sometimes
 
 how computers and the Internet. en though we know
-
-websites, smartphones, and videos sing one kind of
 
 work. Kids write with computers, m k or play in a certain
 
