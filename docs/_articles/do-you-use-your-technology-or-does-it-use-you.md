@@ -15,21 +15,47 @@ I used to think that kids who grew up with computers in their homes and schools 
 
 Television, you see, was a completely closed medium. We watched it all afternoon when we came home from school, but couldn't change anything about it. The only way we could affect what appeared on the TV was to change the channel. We could pick which program we wanted to watch, but then we just watched it. Someone else, far away, made the programs. We simply received them.
 
-and then use it. Maybe that's why it's so appropriate they
+Maybe that's why it's so appropriate they called the stuff on television "programming." They weren't programming the TV sets; they were programming us viewers.
 
-Sure, many of us simply got our programs from called the stuff on television programming." They
+The Digital Revolution outers in their homes and schools 
 
-friends and schools instead of writing them our werent programming the TV sets, they were pro
+The first computers most of us touched turned this cold understand them really well. Bet 
+
+whole situation on its head. They were basically like ser tizan we grownups do, anyway. Most TV sets, except they also had keyboards. So now, in of us only had television sets when we stead of just watching what was on the TV, we could were kids, and maybe a simple videogame 
+
+put stuff onto the monitor. Television changed from console. Computers came much later, and 
+
+a thing we watched to a thing we made. 
+
+Imagine having a telephone for many years, when they did, they offered us a whole 
+
+but only using it as a radio. You'd pick up the new world of possibilities. 
+
+receiver, and listen to the news or the weather or a 
+
+song. And then imagine suddenly realizing that you Television, you see, was a completely closed me. could talk through the thing, as well! That's how big 
+
+We watched it all afternoon when we came a shift it was to see TV evolve into a computer. home from school, but couldn't change anything 
+
+But wait, there's more. Not only could we make about it. The only way we could affect what ap 
+
+Our own content, the computer was an anything peared on the TV was to change the channel. We 
+
+machine. You could make it be a typewriter, a could pick which program we wanted to watch, but 
+
+paintbrush, a calculator... anything. All you needed then we just watched it. Someone else, far away, 
+
+to do was to give it a new set of instructions-a pro 
+
+gam. To use a computer was to create a program made the programs. We simply received them. 
+
+and then use it. Maybe that's why it's so appropriate they 
+
+Sure, many of us simply got our programs from called the stuff on television programming." They 
+
+friends and schools instead of writing them our werent programming the TV sets, they were pro 
 
 selves, but we were aware that there were different garming us viewers.
-
-OU
-
-011400 170CODIULIU MBIO ACOLI AOIZ TOOBOK 105AO IŻ MT4 TOICOIOTT HJI OX! 9MVloiū 3201 Rio DIOTOWOM1005C 171 OROON -
-
-V TOIV OE 10060 1161 PLOT OON IT 1X0TWO TOLS. Bola
-
-\--00
 
 a to kn how co
 
