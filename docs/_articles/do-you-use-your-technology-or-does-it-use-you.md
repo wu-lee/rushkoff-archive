@@ -59,31 +59,9 @@ I hope some of you choose to go a step beyond figuring out what your media and t
 
 Think about the way a great gamer approaches a new videogame. Sure, he may play the game as it's supposed to be played for a few dozen or hundred hours. But when he gets stuck, what does he do? He goes online to find the “cheat codes” for the game. Now, with infinite ammunition or extra-strength armor, he can get through the entire game. He's still playing the game, but from outside the confines of the original rules.
 
-"everything in your universe. You aren't 
+After that, if he really likes the game, the gamer goes back online to find its modification kit—a simple set of tools that lets a more advanced user "mod” (change) the way the game looks and feels. Instead of running around in a dungeon fighting monsters, a kid might make a version of the game where players run around in a high school fighting their teachers—much to the chagrin of parents and educators everywhere. He might upload his version of the game to the Internet, watching with pride as other kids download his game and comment about it in gamers' forums. Some day that gamer might even start building original videogames—making the progression all the way from player to cheater to modder to programmer.
 
-After that, if he really likes the game, the gamer k's customer; those businesses are. Your 
-
-goes back online to find its modification kita nation is Facebook's product. 
-
-simple set of tools that lets a more advanced user people who program websites and TV 
-
-"mod” (change) the way the game looks and feels. and other technology and media-I mean 
-
-Instead of running around in a dungeon fighting ple who decide what these media should 
-
-monsters, a kid might make a version of the game for whom-do so on behalf of their real 
-
-where players run around in a high school fighting mers. For example, who is the customer of 
-
-their teachers—much to the chagrin of parents and rican Idol? Not you, the viewer, but Ford, Coca 
-
-educators everywhere. He might upload his version and AT&T, who advertise through the show of the game to the Internet, watching with pride as nd want viewers to buy their stuff. That's why the 
-
-other kids download his game and comment about Idol contestants call home with AT&T phones and 
-
-it in gamers' forums. Some day that gamer might drive Ford cars, and it's why the judges drink from even start building original videogames making big plastic Coke cups. 
-
-the progression all the way from player to cheater Apple's App Store encourages you to think of to modder to programmer. all your online purchasing as something that has to When humans first acquired language, we be orchestrated by Apple. The online stock trading didn't just learn to listen, we learned to speak. platforms your grownups use are configured to When we got written language, we didn't just learn make them want to trade more frequently, earning how to read, we learned how to write. And now that the companies behind them more commissions. we have computers and the Internet, we can't just 
+ all your online purchasing as something that has to When humans first acquired language, we be orchestrated by Apple. The online stock trading didn't just learn to listen, we learned to speak. platforms your grownups use are configured to When we got written language, we didn't just learn make them want to trade more frequently, earning how to read, we learned how to write. And now that the companies behind them more commissions. we have computers and the Internet, we can't just 
 
 By figuring out the way your digital world is settle for being users—especially when we can't really put together, you gain the ability to see what trust the people programming these media and your media and technology want from you. Only technologies to do so on our behalf. then will you be able to consciously choose which 
 
