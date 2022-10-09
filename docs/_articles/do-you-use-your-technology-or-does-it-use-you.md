@@ -53,19 +53,9 @@ Apple's App Store encourages you to think of all your online purchasing as somet
 
 By figuring out the way your digital world is really put together, you gain the ability to see what your media and technology want from you. Only then will you be able to consciously choose which of these websites, entertainments, and gadgets are worth your time and energy.
 
-beyond to the strings and wires through which the
+**Program or be programmed**
 
-illusion is perpetuated. It's like going behind the Program or be programmed
-
-scenes at Disneyland or Six Flags, where the real I hope some of you choose to go a step beyond
-
-mechanics actually takes place. figuring out what your media and technology
-
-What's more, learning to program makes wants from you. If you learn what programming is,
-
-everything look different. You begin to see the other and how it works you'll be learning to speak what
-
-kinds of programs running our world, from the amounts to a basic language of the 21st century.
+I hope some of you choose to go a step beyond figuring out what your media and technology wants from you. If you learn what programming is, and how it works you'll be learning to speak what amounts to a basic language of the 21st century.
 
 grading system used to maintain the values of your Think about the way a great gamer approaches
 
