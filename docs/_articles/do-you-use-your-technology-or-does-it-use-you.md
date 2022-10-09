@@ -63,17 +63,9 @@ After that, if he really likes the game, the gamer goes back online to find its 
 
 When humans first acquired language, we didn't just learn to listen, we learned to speak. When we got written language, we didn't just learn how to read, we learned how to write. And now that we have computers and the Internet, we can't just settle for being users—especially when we can't trust the people programming these media and technologies to do so on our behalf.
 
- then will you be able to consciously choose which 
+Learning to program lets you see through the veil of reality as it is currently constructed, and beyond to the strings and wires through which the illusion is perpetuated. It's like going behind the scenes at Disneyland or Six Flags, where the real mechanics actually takes place.
 
-Learning to program lets you see through the of these websites, entertainments, and gadgets are veil of reality as it is currently constructed, and worth your time and energy. 
-
-beyond to the strings and wires through which the 
-
-illusion is perpetuated. It's like going behind the Program or be programmed 
-
-scenes at Disneyland or Six Flags, where the real I hope some of you choose to go a step beyond 
-
-mechanics actually takes place. figuring out what your media and technology 
+ figuring out what your media and technology 
 
 What's more, learning to program makes wants from you. If you learn what programming is, 
 
