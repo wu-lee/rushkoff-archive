@@ -57,18 +57,64 @@ By figuring out the way your digital world is really put together, you gain the 
 
 I hope some of you choose to go a step beyond figuring out what your media and technology wants from you. If you learn what programming is, and how it works you'll be learning to speak what amounts to a basic language of the 21st century.
 
-grading system used to maintain the values of your Think about the way a great gamer approaches
+Think about the way a great gamer approaches a new videogame. Sure, he may play the game as it's supposed to be played for a few dozen or hundred hours. But when he gets stuck, what does he do? He goes online to find the “cheat codes” for the game. Now, with infinite ammunition or extra-strength armor, he can get through the entire game. He's still playing the game, but from outside the confines of the original rules.
 
-school system, to the economic operating system a new videogame. Sure, he may play the game as it's
+"everything in your universe. You aren't 
 
-keeping the wealthy rich.
+After that, if he really likes the game, the gamer k's customer; those businesses are. Your 
 
-keep supposed to be played for a few dozen or hundred
+goes back online to find its modification kita nation is Facebook's product. 
 
-They're all just programs, and they're all abso S. But when he gets stuck, what does he do? He lutely accessible to anyone who cares to learn the goes online to find the “cheat codes” for the game.
+simple set of tools that lets a more advanced user people who program websites and TV 
 
-code. It's a program-or-be-programmed world.
+"mod” (change) the way the game looks and feels. and other technology and media-I mean 
 
-SOCIETY 201
+Instead of running around in a dungeon fighting ple who decide what these media should 
+
+monsters, a kid might make a version of the game for whom-do so on behalf of their real 
+
+where players run around in a high school fighting mers. For example, who is the customer of 
+
+their teachers—much to the chagrin of parents and rican Idol? Not you, the viewer, but Ford, Coca 
+
+educators everywhere. He might upload his version and AT&T, who advertise through the show of the game to the Internet, watching with pride as nd want viewers to buy their stuff. That's why the 
+
+other kids download his game and comment about Idol contestants call home with AT&T phones and 
+
+it in gamers' forums. Some day that gamer might drive Ford cars, and it's why the judges drink from even start building original videogames making big plastic Coke cups. 
+
+the progression all the way from player to cheater Apple's App Store encourages you to think of to modder to programmer. all your online purchasing as something that has to When humans first acquired language, we be orchestrated by Apple. The online stock trading didn't just learn to listen, we learned to speak. platforms your grownups use are configured to When we got written language, we didn't just learn make them want to trade more frequently, earning how to read, we learned how to write. And now that the companies behind them more commissions. we have computers and the Internet, we can't just 
+
+By figuring out the way your digital world is settle for being users—especially when we can't really put together, you gain the ability to see what trust the people programming these media and your media and technology want from you. Only technologies to do so on our behalf. then will you be able to consciously choose which 
+
+Learning to program lets you see through the of these websites, entertainments, and gadgets are veil of reality as it is currently constructed, and worth your time and energy. 
+
+beyond to the strings and wires through which the 
+
+illusion is perpetuated. It's like going behind the Program or be programmed 
+
+scenes at Disneyland or Six Flags, where the real I hope some of you choose to go a step beyond 
+
+mechanics actually takes place. figuring out what your media and technology 
+
+What's more, learning to program makes wants from you. If you learn what programming is, 
+
+everything look different. You begin to see the other and how it works you'll be learning to speak what 
+
+kinds of programs running our world, from the amounts to a basic language of the 21st century. 
+
+grading system used to maintain the values of your Think about the way a great gamer approaches 
+
+school system, to the economic operating system a new videogame. Sure, he may play the game as it's 
+
+keeping the wealthy rich. 
+
+keep supposed to be played for a few dozen or hundred 
+
+They're all just programs, and they're all abso S. But when he gets stuck, what does he do? He lutely accessible to anyone who cares to learn the goes online to find the “cheat codes” for the game. 
+
+code. It's a program-or-be-programmed world. 
+
+SOCIETY 201 
 
 Your School
