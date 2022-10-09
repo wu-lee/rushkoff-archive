@@ -61,9 +61,9 @@ Think about the way a great gamer approaches a new videogame. Sure, he may play 
 
 After that, if he really likes the game, the gamer goes back online to find its modification kit—a simple set of tools that lets a more advanced user "mod” (change) the way the game looks and feels. Instead of running around in a dungeon fighting monsters, a kid might make a version of the game where players run around in a high school fighting their teachers—much to the chagrin of parents and educators everywhere. He might upload his version of the game to the Internet, watching with pride as other kids download his game and comment about it in gamers' forums. Some day that gamer might even start building original videogames—making the progression all the way from player to cheater to modder to programmer.
 
- all your online purchasing as something that has to When humans first acquired language, we be orchestrated by Apple. The online stock trading didn't just learn to listen, we learned to speak. platforms your grownups use are configured to When we got written language, we didn't just learn make them want to trade more frequently, earning how to read, we learned how to write. And now that the companies behind them more commissions. we have computers and the Internet, we can't just 
+When humans first acquired language, we didn't just learn to listen, we learned to speak. When we got written language, we didn't just learn how to read, we learned how to write. And now that we have computers and the Internet, we can't just settle for being users—especially when we can't trust the people programming these media and technologies to do so on our behalf.
 
-By figuring out the way your digital world is settle for being users—especially when we can't really put together, you gain the ability to see what trust the people programming these media and your media and technology want from you. Only technologies to do so on our behalf. then will you be able to consciously choose which 
+ then will you be able to consciously choose which 
 
 Learning to program lets you see through the of these websites, entertainments, and gadgets are veil of reality as it is currently constructed, and worth your time and energy. 
 
