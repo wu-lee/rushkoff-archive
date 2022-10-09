@@ -51,9 +51,7 @@ The people who program websites and TV shows and other technology and media—I 
 
 Apple's App Store encourages you to think of all your online purchasing as something that has to be orchestrated by Apple. The online stock trading platforms your grownups use are configured to make them want to trade more frequently, earning the companies behind them more commissions.
 
-By figuring out the way your digital world is settle for being users—especially when we can't really put together, you gain the ability to see what trust the people programming these media and your media and technology want from you. Only technologies to do so on our behalf. then will you be able to consciously choose which
-
-Learning to program lets you see through the of these websites, entertainments, and gadgets are veil of reality as it is currently constructed, and worth your time and energy.
+By figuring out the way your digital world is really put together, you gain the ability to see what your media and technology want from you. Only then will you be able to consciously choose which of these websites, entertainments, and gadgets are worth your time and energy.
 
 beyond to the strings and wires through which the
 
