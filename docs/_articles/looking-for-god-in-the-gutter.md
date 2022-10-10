@@ -23,19 +23,7 @@ In one panel, Clark Kent heads into the phone booth; in the next, he's Superman 
 
 This is core premise of comics, the art of sequential narrative. Our stories and their characters do not move in a line, as in theater or even literature, but through a series of windows. Frozen instants. These are the ticks of the clock, but not the spaces between each one where life actually happens or the story actually occurs.
 
-1
-
-. 1 k but not lfe the ticks of the c oc ' ctually occurs.
-
-the story a · d actually happens or . 1 p of faith from its rea ers every t· . equires a ea •rn.e
-
-As such, a comic r th next. We move to the next pane}
-
-Panel to e . . and they move from one derstand its connection to the p . b f; ·e we even un . ane1
-
-must absorb rt e
-
-01 bl t relate it to the narrative of which . . th e we a e O It ts before. Only en ar_ rd then connection.
+As such, a comic requires a leap of faith from its readers every time they move from one panel to the next. We move to the next panel and must absorb it before we even understand its connection to the panel before. Only then are we able to relate it to the narrative of which it is a component part. Picture, word, then connection.
 
 art Picture, wo ' . . . a component P · mazing opportunity: to 1nstill word a d . • the author an a n
 
