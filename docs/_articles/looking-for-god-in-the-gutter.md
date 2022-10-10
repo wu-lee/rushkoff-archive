@@ -21,15 +21,7 @@ That's right--the space between the panels. The parts of the page no one even pa
 
 In one panel, Clark Kent heads into the phone booth; in the next, he's Superman flying above Gotham City. Between those two incarnations, a simple gutter in which nothing is drawn, yet the entire transmogrification of man to superhero has taken place. It's the closest thing in comics to transubstantiation, and it happens in the unseen crack between two discreet moments. It is everything, yet nothing.
 
-This is core premise of comics, the art of sequential narrative. Our
-
-stories and their characters do not move in a line, as in theater or even
-
-ix
-
-X Foreword .
-
-. £windows. Frozen mstants. Thes h a senes O h e are literature, but throug the spaces between eac one where
+This is core premise of comics, the art of sequential narrative. Our stories and their characters do not move in a line, as in theater or even literature, but through a series of windows. Frozen instants. These are the ticks of the clock, but not the spaces between each one where life actually happens or the story actually occurs.
 
 1
 
