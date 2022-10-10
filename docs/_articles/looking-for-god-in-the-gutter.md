@@ -29,17 +29,7 @@ This gives the author an amazing opportunity: to instill word and image into a r
 
 Sure, the mere juxtaposition of word and image within panels holds a power of its own. Visual representations of characters were deemed such a coercive threat that rabbis forbade "graven images" altogether, lest the masses be drawn into the mire of polytheism or paganism.
 
-lest e masses e . . . . But when the illuminated manuscript 1s divided into separate but
-
-related panels of text and image, \~o\~ethin? even \~ore inspirational
-
-happens: the reader is asked to partic1pate, willfully, 1n the assembly of a
-
-whole from the parts. It is the reader who makes sense of the narrative,
-
-connecting the panels and turning them from separated moments into
-
-a living story.
+But when the illuminated manuscript is divided into separate but related panels of text and image, something even more inspirational happens: the reader is asked to participate, willfully, in the assembly of a whole from the parts. It is the reader who makes sense of the narrative, connecting the panels and turning them from separated moments into a living story.
 
 It's this act of reader participation - this transformation of sequence
 
