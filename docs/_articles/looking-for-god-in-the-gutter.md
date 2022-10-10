@@ -17,13 +17,7 @@ There are plenty of answers--as many as there are comics, I imagine. But really,
 
 The gutter.
 
-That's right - the space between the panels. The parts of the page
-
-no one even pays attention to. Those white, empty lines separating one
-
-panel from another, one moment in comic narrative from the next. It's
-
-there in that gap that the magic of comics occurs.
+That's right--the space between the panels. The parts of the page no one even pays attention to. Those white, empty lines separating one panel from another, one moment in comic narrative from the next. It's there in that gap that the magic of comics occurs.
 
 In one panel, Clark Kent heads into the phone booth; in the next, he's
 
