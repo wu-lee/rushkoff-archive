@@ -19,17 +19,7 @@ The gutter.
 
 That's right--the space between the panels. The parts of the page no one even pays attention to. Those white, empty lines separating one panel from another, one moment in comic narrative from the next. It's there in that gap that the magic of comics occurs.
 
-In one panel, Clark Kent heads into the phone booth; in the next, he's
-
-Superman flying above Gotham City. Between those two incarnations, a
-
-simple gutter in which nothing is drawn, yet the entire transmogrifica-
-
-tion of mari to superhero has taken place. It's the closest thing in comics
-
-to transubstantiation, and it happens in the unseen crack between two
-
-discreet moments. It is everything, yet nothing.
+In one panel, Clark Kent heads into the phone booth; in the next, he's Superman flying above Gotham City. Between those two incarnations, a simple gutter in which nothing is drawn, yet the entire transmogrification of man to superhero has taken place. It's the closest thing in comics to transubstantiation, and it happens in the unseen crack between two discreet moments. It is everything, yet nothing.
 
 This is core premise of comics, the art of sequential narrative. Our
 
