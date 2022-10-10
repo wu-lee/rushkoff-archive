@@ -31,19 +31,7 @@ Sure, the mere juxtaposition of word and image within panels holds a power of it
 
 But when the illuminated manuscript is divided into separate but related panels of text and image, something even more inspirational happens: the reader is asked to participate, willfully, in the assembly of a whole from the parts. It is the reader who makes sense of the narrative, connecting the panels and turning them from separated moments into a living story.
 
-It's this act of reader participation - this transformation of sequence
-
-into story- that implicates readers so much more fully in the very
-
-telling of the story they think they're reading. The readers aren't just
-
-going along for the ride, but providing the propulsion forward. They
-
-are rewarded with a sense of completion and sense-making every time
-
-they move their eyes from one panel to the next, implicitly agreeing
-
-with the sense they have made.
+It's this act of reader participation-- this transformation of sequence into story--that implicates readers so much more fully in the very telling of the story they think they're reading. The readers aren't just going along for the ride, but providing the propulsion forward. They are rewarded with a sense of completion and sense-making every time they move their eyes from one panel to the next, implicitly agreeing with the sense they have made.
 
 For me, the gutter has always been such a powerful yet unrecognized
 
