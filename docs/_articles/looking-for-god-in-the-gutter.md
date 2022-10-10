@@ -27,15 +27,9 @@ As such, a comic requires a leap of faith from its readers every time they move 
 
 This gives the author an amazing opportunity: to instill word and image into a reader's mind before the reader has a context for this information. This is the tremendous power behind comics' ability to generate cultural iconography--to create modern mythology.
 
-mformatron. . hy _ to create modern mythology. erate cultural IConograp . . h"
+Sure, the mere juxtaposition of word and image within panels holds a power of its own. Visual representations of characters were deemed such a coercive threat that rabbis forbade "graven images" altogether, lest the masses be drawn into the mire of polytheism or paganism.
 
-gen . taposition of word and image wit 1n panels holds Sure the mere JUX
-
-' . v· al representations of characters were deernect a power of its own. isu " . "
-
-• th eat that rabbis forbade graven images altogether such a coercive r . ,
-
-th b drawn into the mire of polytheism or paganism. lest e masses e . . . . But when the illuminated manuscript 1s divided into separate but
+lest e masses e . . . . But when the illuminated manuscript 1s divided into separate but
 
 related panels of text and image, \~o\~ethin? even \~ore inspirational
 
