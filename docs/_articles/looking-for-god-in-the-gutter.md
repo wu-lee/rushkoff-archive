@@ -25,11 +25,7 @@ This is core premise of comics, the art of sequential narrative. Our stories and
 
 As such, a comic requires a leap of faith from its readers every time they move from one panel to the next. We move to the next panel and must absorb it before we even understand its connection to the panel before. Only then are we able to relate it to the narrative of which it is a component part. Picture, word, then connection.
 
-art Picture, wo ' . . . a component P · mazing opportunity: to 1nstill word a d . • the author an a n
-
-This gives · , . d before the reader has a context for th· . · reader s mm . . ts
-
-image mto a . . h t emendous power behind comics' ability t . · This 1s t e r o
+This gives the author an amazing opportunity: to instill word and image into a reader's mind before the reader has a context for this information. This is the tremendous power behind comics' ability to generate cultural iconography--to create modern mythology.
 
 mformatron. . hy _ to create modern mythology. erate cultural IConograp . . h"
 
