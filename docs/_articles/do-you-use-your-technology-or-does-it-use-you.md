@@ -67,12 +67,4 @@ Learning to program lets you see through the veil of reality as it is currently 
 
 What's more, learning to program makes _everything_ look different. You begin to see the other kinds of programs running our world, from the grading system used to maintain the values of your school system, to the economic operating system keeping the wealthy rich. 
 
-keep supposed to be played for a few dozen or hundred 
-
-They're all just programs, and they're all abso S. But when he gets stuck, what does he do? He lutely accessible to anyone who cares to learn the goes online to find the “cheat codes” for the game. 
-
-code. It's a program-or-be-programmed world. 
-
-SOCIETY 201 
-
-Your School
+They're all just programs, and they're all absolutely accessible to anyone who cares to learn the code. It's a program-or-be-programmed world.
