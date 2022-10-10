@@ -8,7 +8,6 @@ blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-published: false
 
 ---
 I used to think that kids who grew up with computers in their homes and schools would understand them really well. Better than we grownups do, anyway. Most of us only had television sets when we were kids, and maybe a simple videogame console. Computers came much later, and when they did, they offered us a whole new world of possibilities.
