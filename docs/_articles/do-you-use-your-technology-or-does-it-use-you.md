@@ -65,19 +65,7 @@ When humans first acquired language, we didn't just learn to listen, we learned 
 
 Learning to program lets you see through the veil of reality as it is currently constructed, and beyond to the strings and wires through which the illusion is perpetuated. It's like going behind the scenes at Disneyland or Six Flags, where the real mechanics actually takes place.
 
- figuring out what your media and technology 
-
-What's more, learning to program makes wants from you. If you learn what programming is, 
-
-everything look different. You begin to see the other and how it works you'll be learning to speak what 
-
-kinds of programs running our world, from the amounts to a basic language of the 21st century. 
-
-grading system used to maintain the values of your Think about the way a great gamer approaches 
-
-school system, to the economic operating system a new videogame. Sure, he may play the game as it's 
-
-keeping the wealthy rich. 
+What's more, learning to program makes _everything_ look different. You begin to see the other kinds of programs running our world, from the grading system used to maintain the values of your school system, to the economic operating system keeping the wealthy rich. 
 
 keep supposed to be played for a few dozen or hundred 
 
