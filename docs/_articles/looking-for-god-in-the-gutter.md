@@ -8,7 +8,6 @@ blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-published: false
 
 ---
 COMICS HAVE ALWAYS BEEN ABOUT mythic narratives and beings: Superman is nothing if not Godlike, the Marvel Universe is virtually a pantheon, and even Charlie Brown was everyman's Job. But recently, writers have been taking this mythic potential more literally by making comics explicitly religious: Virgin's _India Authentic_, Osamu Tezuka's _Buddha_, R. Crumb's _Book of Genesis Illustrated_, and my own _Testament_, to name just a few. Why do so many writers choose to explore their relationship to the gods through comics?
