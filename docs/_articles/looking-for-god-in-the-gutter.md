@@ -35,33 +35,9 @@ It's this act of reader participation-- this transformation of sequence into sto
 
 For me, the gutter has always been such a powerful yet unrecognized element in the form that I decided to make its function explicit in my own work. For my own Bible-based comic series _Testament_, I chose to use the space between the panels as a zone for action. While my mam, human characters lived in the discreet moments of the comic's panels, I placed the gods in the gutters between the panels (see Figure 1). Instead of leaving those spaces blank, I turned them into a second universe where gods fought among themselves in a war to dominate the sequential action.
 
-Like the comic's auth
+Like the comic's author and readers, the gods live outside sequential time, a dimension above and beyond the story--capable of commenting on it, seeing where it is going, even pushing the panels around. But they cannot actually enter the world of the story, at least not as themselves. If a god reaches his hand from the gutter, where he lives, into the panel itself, the hand becomes an element, like water or fire. The god can set a bush on fire, for instance, and communicate to a character through the flame--but he can never enter into the world, completely, himself.
 
-or a
-
-nd readers, the gods live outside sequential
-
-xii foreword capable of comment-
-
-cl the story- . . above and beyon bing the panels around.
-
-time a d1mens1on . even pus . ' . • where it is going, f the story, at least not as
-
-mg on it, seeing he world o h 1·
-
-th
-
-ot actually enter t h gutter where e 1ves, But ey cann . h nd from t e '
-
-th I s If a god reaches his a 1 ment like water or fire.
-
-emse ve . d b omes an e e ' . . t the panel itself, the han ec . and commumcate to a
-
-m o fi for mstance, The god can set a bush on re, er enter into the world, but he can nev
-
-character through the flame -
-
-completely, himself. h' h I could create characters
+I could create characters
 
 Yes, it was a gimmick of sorts, through w ick • what went on. But it
 
