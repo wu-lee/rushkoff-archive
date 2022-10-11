@@ -19,9 +19,7 @@ Let me explain.
 
 Historically, the Israelite religion was a reaction to land-based religions where different localities worshiped different gods for good fortune. The ancient world was one where people depended on the grace of their gods for rain, sun, children, and pretty much everything. The calendar was circular, since nothing ever really changed. Each season was differentiated only by how much or how little the gods favored the people.
 
-sorts of things to appease build monuments, and nce-sacrificed their d to be a better way.
-
-In such an environment, people did all sorts of things their deities. They enslaved their fellows to build monumen even-according to some archeological evidence-sacrificed firstborn male sons to the god Moloch. There had to be a better
+In such an environment, people did all sorts of things to appease their deities. They enslaved their fellows to build monuments, and even—according to some archeological evidence—sacrificed their firstborn male sons to the god Moloch. There had to be a better way.
 
 The Torah (let's look at the narrative allegorically, for the being) shows a people desecrating the gods of their civilization order to build a new one. The "first" civilization, represented by all those firstborn sons who are damned, exiled, or otherwise rejected in Genesis, is replaced with a new civilization—that of Jacob, the man who wrestled with God to become Israel.
 
