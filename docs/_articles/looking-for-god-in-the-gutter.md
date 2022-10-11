@@ -37,15 +37,9 @@ For me, the gutter has always been such a powerful yet unrecognized element in t
 
 Like the comic's author and readers, the gods live outside sequential time, a dimension above and beyond the story--capable of commenting on it, seeing where it is going, even pushing the panels around. But they cannot actually enter the world of the story, at least not as themselves. If a god reaches his hand from the gutter, where he lives, into the panel itself, the hand becomes an element, like water or fire. The god can set a bush on fire, for instance, and communicate to a character through the flame--but he can never enter into the world, completely, himself.
 
-I could create characters
+Yes, it was a gimmick of sorts, through which I could create characters who lived beyond the story yet still had a stake in what went on. But it was also meant to reveal the power of the medium and its particular relationship to religious narrative.
 
-Yes, it was a gimmick of sorts, through w ick • what went on. But it
-
-t till had a sta e m who lived beyond the story ye s d' m and its particular
-
-was also meant to reveal the power of the me JU
-
-relationship to religious narrative. . f h:"t in aware-
+ . f h:"t in aware-
 
 h b · gs consists o as 11 ' Religious experience, for uman em ' d . 1 from the mun ane to
 
