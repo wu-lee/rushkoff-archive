@@ -33,23 +33,7 @@ But when the illuminated manuscript is divided into separate but related panels 
 
 It's this act of reader participation-- this transformation of sequence into story--that implicates readers so much more fully in the very telling of the story they think they're reading. The readers aren't just going along for the ride, but providing the propulsion forward. They are rewarded with a sense of completion and sense-making every time they move their eyes from one panel to the next, implicitly agreeing with the sense they have made.
 
-For me, the gutter has always been such a powerful yet unrecognized
-
-element in the form that I decided to make its function explicit in my
-
-own work. For my own Bible-based comic series Testament I chose to
-
-use the space between th I . . ' . e pane s as a zone for action. While my mam, human characters liv d · h d"
-
-I 1 e m t e iscreet moments of the comic's panels, Paced the gods in th b
-
-Instead f 1 . e gutters etween the panels ( see Figure 1). 0
-
-eavmg those sp bl k d universe h aces an , I turned them in to a secon
-
-w ere gods fought
-
-the sequential action. among themselves in a war to dominate
+For me, the gutter has always been such a powerful yet unrecognized element in the form that I decided to make its function explicit in my own work. For my own Bible-based comic series _Testament_, I chose to use the space between the panels as a zone for action. While my mam, human characters lived in the discreet moments of the comic's panels, I placed the gods in the gutters between the panels (see Figure 1). Instead of leaving those spaces blank, I turned them into a second universe where gods fought among themselves in a war to dominate the sequential action.
 
 Like the comic's auth
 
