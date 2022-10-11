@@ -39,38 +39,8 @@ Like the comic's author and readers, the gods live outside sequential time, a di
 
 Yes, it was a gimmick of sorts, through which I could create characters who lived beyond the story yet still had a stake in what went on. But it was also meant to reveal the power of the medium and its particular relationship to religious narrative.
 
- . f h:"t in aware-
+Religious experience, for human beings, consists of a shift in awareness from the particular to the universal--from the mundane to the mythic or, even more precisely, from the moment to the infinite. Religion attempts to codify and transmit the eternal to creatures who are (at least for the time being) trapped in the present. It means to make human beings who are trapped within panels aware of the gutter beyond--even for just a fleeting moment, in the obscure shadows of inference.
 
-h b · gs consists o as 11 ' Religious experience, for uman em ' d . 1 from the mun ane to
+And this is what attracts so many writers to comics as the ideal medium through which to express their own immortal intimations. The panels are winks: building blocks that, in themselves, may not amount to more than any other storytelling device, but collectively create a multidimensional rendering. Once they lock into place in the mind of the reader, they assemble, like a Kabbalistic Tree or I Ching sequence, into an informational matrix of a higher order than can be put into words.
 
-ness from the particular to the umversa - . . . f h moment to the mfimte. the mythic or, even more precisely, rom t e
-
-Religion attempts to codify and transmit the eternal to creatures who
-
-are (at least for the time being) trapped in the present. It means to
-
-make human beings who are trapped within panels aware of the gutter
-
-beyond - even for just a fleeting moment, in the obscure shadows of
-
-inference.
-
-And this is what attracts so many writers to comics as the ideal medium
-
-through which to express their own immortal intimations. The panels
-
-are winks: building blocks that, in themselves, may not amount to more
-
-than any other storytelling device, but collectively create a multidimen-
-
-sional rendering. Once they lock into place in the mind of the reader ' they assemble, like a Kabbalistic Tree or I Ching sequence, into an
-
-informational matrix of a higher order than can be put into wo d r s.
-
-The scholars represented in this book recognize this unique ab')' f . . . l d I 1ty o comICs to commumcate, s1mu ate, an perhaps even actual' 1ze transcen-
-
-dence. All you have to do to understand them is get over th f
-
-God is less likely to be found in a sacred text than in th e act that
-
-e gutter.
+The scholars represented in this book recognize this unique ability of comics to communicate, simulate, and perhaps even actualize transcendence. All you have to do to understand them is get over the fact that God is less likely to be found in a sacred text than in the gutter.
