@@ -45,7 +45,7 @@ Finally, the establishment of Israel—though perhaps a necessary way of saving 
 
 We end up with our own nation to protect and our own flag to wave, just like everybody else. In a sense, it is the ultimate form of assimilation.
 
-The way out is Judaism, itself. Judaism is a conversation, not a doc trine. Our rules—our laws are highly procedural in nature. They are the requirements for respectful interaction between people. Even the requirement for a minyan—ten people to open the Torah—conveys a lot about the priorities of this religion. In a sense, the Torah is just the starting place for a living interaction between real people.
+The way out is Judaism, itself. Judaism is a conversation, not a doctrine. Our rules—our laws—are highly procedural in nature. They are the requirements for respectful interaction between people. Even the requirement for a minyan—ten people to open the Torah—conveys a lot about the priorities of this religion. In a sense, the Torah is just the starting place for a living interaction between real people.
 
 Our shared narrative is an excuse for us to interact. A conversation starter. Judaism serves not just as a message, but as a medium through which people can have more profound and intimate relationships with one another. It is a process through which people can get over their racial, religious, and national misperceptions, and relate to one another on a higher level.
 
