@@ -39,11 +39,7 @@ It's not surprising that Jews think of themselves as a race. Everybody else does
 
 So the Jews, who were originally persecuted for their refusal to submit to the artificial racial and theistic boundaries of their contemporaries, now thought of themselves as a race, too.
 
-In an effort to appear more like their contemporaries, Jews in the Reform movement made the synagogue into something like a church: le rabbis donned robes and stood on a stage, ministering the religion
-
-their congregations. But this distanced Jews from their texts. Jews blessed to a childlike state, and transferred parental authority onto
-
-Labbis. Judaism became more of a religion to be ministered than gotiation with which to be engaged. The shul—literally 0-became a “temple.” Active study was replaced by mono
+In an effort to appear more like their contemporaries, Jews in the Reform movement made the synagogue into something like a church: the rabbis donned robes and stood on a stage, ministering the religion to their congregations. But this distanced Jews from their texts. Jews regressed to a childlike state, and transferred parental authority onto their rabbis. Judaism became more of a religion to be ministered than a negotiation with which to be engaged. The shul—literally "school"—became a “temple.” Active study was replaced by monotone responsive reading.
 
 ich
 
