@@ -37,7 +37,7 @@ Our current disconnection with the lifeblood of this tradition stems, I fear, fr
 
 It's not surprising that Jews think of themselves as a race. Everybody else does—especially our oppressors. The first person in Torah to mention an “Israeli people” is the pharaoh. He thinks that “Am Yisrael” won't recognize themselves as Egyptians if there's a war. The first people, historically, to talk of a Jewish race were the Inquisitors of Spain. Jews had converted to Catholicism, so a new reason needed to be invented to hate them: their blood. Finally, it was Hitler, bastardizing a bit of Carl Jung, who justified the extermination of fully assimilated German Jews by claiming Jews had a “genetic memory” for their inquisitive nature.
 
-So the Jews, who were originally persecuted for their refusal to submit to the artificial racial and theistic boundaries of their contem poraries, now thought of themselves as a race, too.
+So the Jews, who were originally persecuted for their refusal to submit to the artificial racial and theistic boundaries of their contemporaries, now thought of themselves as a race, too.
 
 In an effort to appear more like their contemporaries, Jews in the Reform movement made the synagogue into something like a church: le rabbis donned robes and stood on a stage, ministering the religion
 
