@@ -27,7 +27,7 @@ Instead of accepting the preexisting conditions of gods who either bestow or wit
 
 And what does this slaying and sacrifice accomplish in the story? It spares the Israelites from losing their firstborn sons. If we are to understand Torah as allegory, we see how the abandonment of these false local gods—iconoclasm—frees us from the obligation to sacrifice our firstborn male children. We are liberated from this passive and self-destructive relationship to deity.
 
-Once iconoclasm is achieved, the Israelites learn to relate to a more abstract notion of God. No one knows who or what God is, and that's about all that can be said. The boundaries that used to exist between people—their individual races and nations beneath particu lar gods—no longer count. There's only one. This abstract monome, ism gets God out of the way, so that people can get on with work of making the world a better place: social justice.
+Once iconoclasm is achieved, the Israelites learn to relate to a more abstract notion of God. No one knows who or what God is, and that's about all that can be said. The boundaries that used to exist between people—their individual races and nations beneath particular gods—no longer count. There's only one. This abstract monotheism gets God out of the way, so that people can get on with the real work of making the world a better place: social justice.
 
 As I experience it, Judaism is the fuel for modernism. The bi our civilization—or at least a significant strand of it.
 
