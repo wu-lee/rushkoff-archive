@@ -29,53 +29,9 @@ And what does this slaying and sacrifice accomplish in the story? It spares the 
 
 Once iconoclasm is achieved, the Israelites learn to relate to a more abstract notion of God. No one knows who or what God is, and that's about all that can be said. The boundaries that used to exist between people—their individual races and nations beneath particular gods—no longer count. There's only one. This abstract monotheism gets God out of the way, so that people can get on with the real work of making the world a better place: social justice.
 
-As I experience it, Judaism is the fuel for modernism. The bi our civilization—or at least a significant strand of it.
+As I experience it, Judaism is the fuel for modernism. The birth of our civilization—or at least a significant strand of it.
 
-fuel for modernism. The birth of
-
-DOUGLAS RUSHKOFF 319
-
-L
-
-so-called lapsed or with intermarriage an a race, rather than
-
-the
-
-vas
-
-ish" attrac
-
-his
-
-tat,
-
-them.
-
-ant
-
-coul
-
-to
-
-stra
-
-ical
-
-om
-
-ver ies oth
-
-i to
-
-it as I approached institutional Judaism for a confirmation of ensibility, I got something very different. It seemed to ved lapsed or unaffiliated Jew, that Judaism had become obsessed stermarriage and assimilation. We were mistaking ourselves for
-
-esther than a set of ideas that intentionally transcend race. Jew wadelity” became the reason to be Jewish, instead of the ever more
-
-tive call to make the world a better place. Jews were to ask of imcelves what they could do for Judaism, rather than what Judaism
-
-ld do for the world. Our philanthropies began the counting game, Casting Jews like an endangered species, and then wondering why this
-
-tegy further disenfranchised people looking for a spiritual path.
+But as I approached institutional Judaism for a confirmation of this sensibility, I got something very different. It seemed to me, as a so-called lapsed or unaffiliated Jew, that Judaism had become obsessed with intermarriage and assimilation. We were mistaking ourselves for a race, rather than a set of ideas that intentionally transcend race. Jewish "fidelity" became the reason to be Jewish, instead of the ever more attractive call to make the world a better place. Jews were to ask of themselves what they could do for Judaism, rather than what Judaism could do for the world. Our philanthropies began the counting game, treating Jews like an endangered species, and then wondering why this strategy further disenfranchised people looking for a spiritual path.
 
 Our current disconnection with the lifeblood of this tradition stems, I fear, from three major sources: misperceptions about race, a lack of knowledge about Jewish texts, and an inability to discuss Israel.
 
