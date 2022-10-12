@@ -41,33 +41,7 @@ So the Jews, who were originally persecuted for their refusal to submit to the a
 
 In an effort to appear more like their contemporaries, Jews in the Reform movement made the synagogue into something like a church: the rabbis donned robes and stood on a stage, ministering the religion to their congregations. But this distanced Jews from their texts. Jews regressed to a childlike state, and transferred parental authority onto their rabbis. Judaism became more of a religion to be ministered than a negotiation with which to be engaged. The shul—literally "school"—became a “temple.” Active study was replaced by monotone responsive reading.
 
-ich
-
-? is hat
-
-who
-
-rter
-
-on for
-
-ers
-
-the
-
-the cael
-
-the also
-
-their rabbis. Judais a negot "schoo
-
-'hat Ige,
-
-tone responsive reading.
-
-320 WHAT ISRAEL MEANS TO ME
-
-Finally, the establishment of Israel—though perhaps a necessar way of saving Jewish bodies from continued persecution in Europe has also affected Jews' relationship to their religion. By equatino Judaism with Israel or, worse, seeing Israel as a prerequisite for the coming of the Messiah, we concretize an otherwise abstract religion in the realities of State. We turn Torah into proof of a land claim, and sacrifice its more allegorical function. We start to think of ourselves as a people "chosen” by “God” to own a particular stretch of land rather than as the carriers of a universal truth that transcends nation, race, and even religion.
+Finally, the establishment of Israel—though perhaps a necessary way of saving Jewish bodies from continued persecution in Europe—has also affected Jews' relationship to their religion. By equating Judaism with Israel or, worse, seeing Israel as a prerequisite for the coming of the Messiah, we concretize an otherwise abstract religion in the realities of State. We turn Torah into proof of a land claim, and sacrifice its more allegorical function. We start to think of ourselves as a people "chosen” by “God” to own a particular stretch of land—rather than as the carriers of a universal truth that transcends nation, race, and even religion.
 
 We end up with our own nation to protect and our own flag to wave, just like everybody else. In a sense, it is the ultimate form of assimilation.
 
