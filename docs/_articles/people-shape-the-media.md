@@ -25,9 +25,7 @@ That is not what is going on.
 
 Nielsen “peoplemeters”³ may indicate which channels we're watching, but they tell little about our relationship to the media as a whole. Just because a family is “tuned in" doesn't mean it hasn't turned on and dropped out, too. No, the media web has neither captured nor paralyzed the American individual. It has provided her with the ability to chart and control the course of her culture. We've been empowered, folks.
 
-Getting with the program means realizing that no one takes the main stream media any more seriously than you do. Having been raised on a diet of media manipulation, we are all perfectly aware of the ingredients that go into these machinations. Children raised hearing and speaking a language always understand it better than adults who attempt to learn its rules. This is why our kids understand computers and their programming languages better than the men who designed them. Likewise, people weantu media understand its set of symbols better than its creators. And nown icans feel free to talk back with their mouths, their remote contion, joysticks, their telephones
-
-telephones and even their dollars. Television has be interactive experience.
+Getting with the program means realizing that no one takes the mainstream media any more seriously than you do. Having been raised on a diet of media manipulation, we are all perfectly aware of the ingredients that go into these machinations. Children raised hearing and speaking a language always understand it better than adults who attempt to learn its rules. This is why our kids understand computers and their programming languages better than the men who designed them. Likewise, people weaned on media understand its set of symbols better than its creators. And now Americans feel free to talk back with their mouths, their remote controls, their joysticks, their telephones and even their dollars. Television has become an interactive experience.
 
 mote controls, their Television has become an
 
