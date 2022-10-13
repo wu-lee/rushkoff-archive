@@ -41,29 +41,7 @@ Something is going on in media all its own that reflects less on the particular 
 
 The traditional methods of public relations have been undermined by their very implementation in the media. Americans have either stopped believing what their media tells, or stopped caring. If nothing else, irony provides distance. With emotional distance from the material, the audience gains protection from the techniques of mind control.... The distancing effects—intentional and unintentional—of the media have infused the viewing public with aesthetic and emotional distance. Similarly, the fictionalization of world events into caricatured conflicts adds a sense of irony, further removing potential propaganda victims from the realm of passion.
 
-of the now-defunct techniques for media domination is con
-
-ů Now that citizens have access to and a basic under trol of technology. ... Now that citizens have access to
-
-formerly exclusive technology—they cannot be fooled. ... The home video coupled with media's fixation on itself have funda ered our relationship with the images coming to us through
-
-7 that an aggressive news show might plant explosives
-
-k to make sure it explodes on impact, and that witty editing on a GM truck to make sure it expl
-
-70
-
-CHAPTER 8
-
-The Media: Vast Wasteland or
-
-land or New Frontier?
-
-seus can make events vedia satire, like the expose the "secret"
-
-rent advertising
-
-like the kind done on HBO's Not Necessarily the News-can which never happened appear as real as history.... Media sati mock commercial satires done on Saturday Night Live, em techniques of marketing, disabling some of the most current ad techniques, sometimes just days after they have been implemente
+Another of the now-defunct techniques for media domination is control of technology.... Now that citizens have access to and a basic understanding of formerly exclusive technology—they cannot be fooled.... The advances in home video coupled with media's fixation on itself have fundamentally altered our relationship with the images coming to us through television. We know that an aggressive news show might plant explosives on a GM truck to make sure it explodes on impact, and that witty editing—like the kind done on HBO's _Not Necessarily the News_—can make events which never happened appear as real as history.... Media satire, like the mock commercial satires done on _Saturday Night Live_, expose the "secret" techniques of marketing, disabling some of the most current advertising techniques, sometimes just days after they have been implemented.
 
 Perhaps the real downfall of propaganda can be attributed to option of public relations techniques by big business. Originally bro by government opinion engineers to pay for media campaigns tha keters were convinced would serve their own interests as well-like busting-businesses soon saw the tremendous value in using public tions to market their own products. Techniques that were previous served for creating the spectator democracy became the province of his business interests, and were used instead for development of a consumo democracy. Television advertisements, programs and even movies came to promote a world view where happiness can be purchased.
 
