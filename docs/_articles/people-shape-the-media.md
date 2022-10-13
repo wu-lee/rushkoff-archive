@@ -27,9 +27,7 @@ Nielsen “peoplemeters”³ may indicate which channels we're watching, but the
 
 Getting with the program means realizing that no one takes the mainstream media any more seriously than you do. Having been raised on a diet of media manipulation, we are all perfectly aware of the ingredients that go into these machinations. Children raised hearing and speaking a language always understand it better than adults who attempt to learn its rules. This is why our kids understand computers and their programming languages better than the men who designed them. Likewise, people weaned on media understand its set of symbols better than its creators. And now Americans feel free to talk back with their mouths, their remote controls, their joysticks, their telephones and even their dollars. Television has become an interactive experience.
 
-mote controls, their Television has become an
-
-2\. Paid advertisements that allow politicians and others to bypass the press o directly with the people. Infomercials are usually much longer than one m Perot pioneered their use during his presidential bid.
+2\. Paid advertisements that allow politicians and others to bypass the press and communicate directly with the people. Infomercials are usually much longer than one minute; in 1992, Ross Perot pioneered their use during his presidential bid.
 
 means by which audience responses to television programs are gauge panies like Nielsen, Inc.
 
