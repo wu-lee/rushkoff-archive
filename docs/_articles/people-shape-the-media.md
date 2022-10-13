@@ -81,25 +81,7 @@ Within every media sensation are ideas, issues and agendas which influence us le
 
 6\. In 1991, Rodney King, an African American, was brutally beaten by Los Angeles policemen after being stopped for a traffic violation. His beating was recorded by a bystander with a home video camera and later broadcast many times on television and during the trials of the policemen accused.
 
-by Los Angeles policemen u by a bystander with a n and during the trials of the
-
-ISHKOFF People Shape the Media
-
-173
-
-RUSHKOFF
-
-If we are to underst ecosystem or even ju then we must come to
-
-to understand the datasphere as an extension of a planetary
-
-ven just the breeding ground for new ideas in our culture,
-
-come to terms with the fact that the media events provoking change are more than simple Trojan Horses. They are media
-
-real social a
-
-viruses. ...
+If we are to understand the datasphere as an extension of a planetary ecosystem or even just the breeding ground for new ideas in our culture, then we must come to terms with the fact that the media events provoking real social change are more than simple Trojan Horses. They are media viruses....
 
 The "protein shell" nology, system of th clothing style or even a one of these media nies in popular culture a the vir of-id
 
