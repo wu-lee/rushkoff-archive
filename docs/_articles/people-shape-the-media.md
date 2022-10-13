@@ -53,6 +53,8 @@ The datasphere itself began to behave like a living organism. Like any biologica
 
 In an otherwise disconnected culture, the television became a surrogate parent for the latchkey child and the radio a bedtime companion for the divorcé. Porn video and 976 phone numbers became the preferred form of sexual activity for the socially disinclined or disease-fearing. Marketers recognized how engaged people were becoming with the media, and began marketing the media itself as their biggest product. The newest and best products were TVs and media tools. This is what led to the moment where the balance of power in media shifted forever.
 
+4\. The eldest daughter on the 1970s TV sitcom "The Brady Bunch."
+
 **The Nintendo Presence**
 
 The marketers themselves became pawns of the media's own purpose. Like any living organism, the media sought to communicate with the rest of the natural world—all those people who were treating it like a companion, parent or lover....
@@ -63,9 +65,9 @@ This group of kids born since 1960 have taken their name from a.... novel about 
 
 The... chief critique of Generation X is that they are not creative. Their conversations—in real life and on the computer networks—as well as their own TV shows usually focus on media itself. Rather than coming up with original scenarios or new material, they may instead consider and reconsider the ethical choices made in an episode of _The Jetsons_ or _Pee Wee's Playhouse_, as if it is advanced cultural theory. What characterizes the GenX aesthetic and its conceptual preoccupation is a regeneration of imagery already in the media.... GenXers examine and re-examine the images from the media which formed their own world views, and do so with humor....
 
-The news, comedy and drama produced by GenXer's, ranging from sub versive underground documentaries to mainstream shows like The Simp
+The news, comedy and drama produced by GenXer's, ranging from subversive underground documentaries to mainstream shows like _The Simpsons_, all share a delight in deconstructing and re-examining media. The documentaries expose the thin logic and obsequious pandering of network newspeople, while cartoons like _The Simpsons_ recreate famous moments in media history—like the “We Are the World” video—enacted by the personification of media irony himself, Bart Simpson. GenX poster art uses recognizable imagery from the mainstream press and comments on it with witty slogans that expose the inner meanings or faulty logic in the original images....
 
-s, all share a delight in deconstructing and re-examining media. The umentaries expose the thin logic and obsequious pandering of network
+5\. Refers to Americans born between 1961 and 1972 who came of age in the late 1970s and 1980s. This generation is characterized by some as cynical and apathetic.
 
 5\. Refers to Americans 1980s. This generatio
 
@@ -82,8 +84,6 @@ The Media: Vast Wasteland or
 mous moments in cted by the personi. oster art uses recog.
 
 on it with witty gic in the original
-
-newspeople, while cartoons like The Simpsons recreate famous media history-like the “We Are the World” videomena fication of media irony himself, Bart Simpson. GenX poster art nizable imagery from the mainstream press and comments on it slogans that expose the inner meanings or faulty logic in thi images. ...
 
 GenX has developed a new language and self-references for the choose to identify media as a real thing, and media history as an cial history....
 
