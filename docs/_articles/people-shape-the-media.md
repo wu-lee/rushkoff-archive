@@ -35,7 +35,7 @@ The event of do-it-yourself technology make direct feedback even more far-reachi
 
 The American mediascape. It is more than a mirror of our culture; it is our culture. It is where we spend our time, our money and our thought. But as we examine the nature of the datasphere more closely, we find it is a self referential cut-and-paste of itself. Most of media is media commenting on media commenting on media. Even if one real event just happens to occur—a black man gets beaten by white cops, or a girl shoots the wife of a man she loves—it soon becomes part of the overall self-reflexive pastiche of media.
 
-Something is going on in media all its own that reflects less on the par ticular events being reported than it does on the nature of our cultural pre occupations and the ways in which we process them, Media is saving some thing in the way it churns its stories out, redigests them, and spits them out again. This is both a complex picture of the way our world works, and, at the same time, the actual process of cultural catharsis and modification....
+Something is going on in media all its own that reflects less on the particular events being reported than it does on the nature of our cultural preoccupations and the ways in which we process them, Media is saying something in the way it churns its stories out, redigests them, and spits them out again. This is both a complex picture of the way our world works, and, at the same time, the actual process of cultural catharsis and modification....
 
 Ironic Space
 
