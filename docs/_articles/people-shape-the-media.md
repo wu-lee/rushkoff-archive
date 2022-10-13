@@ -53,11 +53,9 @@ The datasphere itself began to behave like a living organism. Like any biologica
 
 In an otherwise disconnected culture, the television became a surrogate parent for the latchkey child and the radio a bedtime companion for the divorcé. Porn video and 976 phone numbers became the preferred form of sexual activity for the socially disinclined or disease-fearing. Marketers recognized how engaged people were becoming with the media, and began marketing the media itself as their biggest product. The newest and best products were TVs and media tools. This is what led to the moment where the balance of power in media shifted forever.
 
-vorcé. Porn video sexual activity fo ognized how eng marketing the media its products were TVs a
+**The Nintendo Presence**
 
-The Nintendo Presence The marketers themselves became pawns of the media's own purpose. Like
-
-living organism, the media sought to communicate with the rest of the natural world—all those people who were treating it like a companion, par ent or lover....
+The marketers themselves became pawns of the media's own purpose. Like any living organism, the media sought to communicate with the rest of the natural world—all those people who were treating it like a companion, parent or lover....
 
 It was in catering to the kids' market that the engineers of consumer culture inadvertently empowered the masses they were attempting to ma nipulate. The marketers sought only to sell products, and adopted the phi losophy of “I give the kids what they want.” By creating a kids' market, they created a kids' culture, with its own needs and demands. They created what we now call “Generation X."S
 
