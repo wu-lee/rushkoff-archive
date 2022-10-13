@@ -71,11 +71,9 @@ The news, comedy and drama produced by GenXer's, ranging from subversive undergr
 
 GenX has developed a new language and self-references for those who choose to identify media as a real thing, and media history as an actual social history....
 
-This freedom has been secured by Xerox and fax machines.co bulletin boards, electronic mail lists, tape duplication and even s self-promotion. Feeding a thought or feeling back into the media netwo easy. If the idea excites others, it will probably duplicate itself and spre through the datasphere without any further effort on the part of the indi vidual.
+This freedom has been secured by Xerox and fax machines, computer bulletin boards, electronic mail lists, tape duplication and even successful self-promotion. Feeding a thought or feeling back into the media network is easy. If the idea excites others, it will probably duplicate itself and spread through the datasphere without any further effort on the part of the individual.
 
-ences for those who lia history as an actual so
-
-Media Virus
+**Media Virus**
 
 A black man is beaten by white cops in Los Angeles. The event is captured on a home camcorder and within hours the beating is replayed on the tele visions of millions. Within days it's the topic of an afternoon talk show; within weeks it's a court case on the fictional LA Law; within months it's a TV movie; before the end of the year it's the basis of a new video game, a comic book and set of trading cards. Finally, what began as a thirty-second video clip emerges as the battle cry for full-scale urban rioting. This riot, in turn, is amplified on more talk shows, radio call-ins and new episodes of LA Law! A provocative image or idea—like Rodney King getting beaten or even Pee Wee Herman beating off in a porno theater-spreads like wildfire. The event attracts our attention and generates media for several seconds, min utes, or even months—but its influence on us doesn't stop there.
 
