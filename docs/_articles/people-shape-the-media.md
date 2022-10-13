@@ -83,11 +83,7 @@ Within every media sensation are ideas, issues and agendas which influence us le
 
 If we are to understand the datasphere as an extension of a planetary ecosystem or even just the breeding ground for new ideas in our culture, then we must come to terms with the fact that the media events provoking real social change are more than simple Trojan Horses. They are media viruses....
 
-The "protein shell" nology, system of th clothing style or even a one of these media nies in popular culture a the vir of-id
-
-rotein shell" of a media virus might be an event, invention, tech stem of thought, musical riff, visual image, scientific theory, vle or even a pop hero—as long as it can catch our attention. Any ose media virus shells will search out the receptive nooks and cran
-
-opular culture and stick on anywhere it is noticed. Once attached, vois injects its more hidden agendas into the datastream in the form ideological code—not genes, but a conceptual equivalent we now call mes." Like real genetic material, these memes infiltrate the way we do Ciness, educate ourselves, interact with each other—even the way we per ceive reality.
+The "protein shell" of a media virus might be an event, invention, technology, system of thought, musical riff, visual image, scientific theory, clothing style or even a pop hero—as long as it can catch our attention. Any one of these media virus shells will search out the receptive nooks and crannies in popular culture and stick on anywhere it is noticed. Once attached, the virus injects its more hidden agendas into the datastream in the form of—ideological code—not genes, but a conceptual equivalent we now call "memes." Like real genetic material, these memes infiltrate the way we do business, educate ourselves, interact with each other—even the way we perceive reality.
 
 Media viruses spread rapidly if they provoke our interest, and their suc cess is dependent on the particular strengths and weaknesses of the host or ganism, popular culture. The more provocative an image or icon, like the videotaped police beating or a new rap lyric, the farther and faster it will travel through the datasphere. ...
 
