@@ -37,11 +37,9 @@ The American mediascape. It is more than a mirror of our culture; it is our cult
 
 Something is going on in media all its own that reflects less on the particular events being reported than it does on the nature of our cultural preoccupations and the ways in which we process them, Media is saying something in the way it churns its stories out, redigests them, and spits them out again. This is both a complex picture of the way our world works, and, at the same time, the actual process of cultural catharsis and modification....
 
-Ironic Space
+**Ironic Space**
 
-The traditional methods of public relations have been undermined by their very implementation in the media. Americans have either stopped believ ing what their media tells, or stopped caring. If nothing else, irony provides distance. With emotional distance from the material, the audience gains protection from the techniques of mind control. ... The distancing ef fects-intentional and unintentional of the media have infused the view ing public with aesthetic and emotional distance. Similarly, the fictionaliza
-
-nts into caricatured conflicts adds a sense of irony, further removing potential propaganda victims from the realm of passion.
+The traditional methods of public relations have been undermined by their very implementation in the media. Americans have either stopped believing what their media tells, or stopped caring. If nothing else, irony provides distance. With emotional distance from the material, the audience gains protection from the techniques of mind control.... The distancing effects—intentional and unintentional—of the media have infused the viewing public with aesthetic and emotional distance. Similarly, the fictionalization of world events into caricatured conflicts adds a sense of irony, further removing potential propaganda victims from the realm of passion.
 
 of the now-defunct techniques for media domination is con
 
