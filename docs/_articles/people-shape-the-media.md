@@ -29,33 +29,9 @@ Getting with the program means realizing that no one takes the mainstream media 
 
 2\. Paid advertisements that allow politicians and others to bypass the press and communicate directly with the people. Infomercials are usually much longer than one minute; in 1992, Ross Perot pioneered their use during his presidential bid.
 
-means by which audience responses to television programs are gauge panies like Nielsen, Inc.
+3\. The means by which audience responses to television programs are gauged by rating companies like Nielsen, Inc.
 
-he press and communicate
-
-minute; in 1992, Ross
-
-gauged by rating com
-
-169
-
-SHKOFF People Shape the Media
-
-The event of do-it-10
-
-LO ANDRO
-
-core widely distrid
-
-sored by mainstream cha
-
-\- do-it-yourself technology make direa feedback even more Homemade camcorder cassetta are as likely to find their way
-
-rofessionally produced segments. Tapes ranging from Amar x Home Vizos to the world-famous Rodney King beating are Jets distributed through the datasphere than syndicated reruns of I
-
-Alternative media channels like the computer networks or even cert neimit the dissemination of information unacceptable to or can
-
-e mainstream channels, and have been heralded as the new tools solution in countries as "un-American" as Romania and communist Crina Pirate media, like illegal broadcasts and cable or satellite jumping are even more blatant assertions of the power of individuals to hack the data network...
+The event of do-it-yourself technology make direct feedback even more far-reaching. Homemade camcorder cassettes are as likely to find their way onto CNN as professionally produced segments. Tapes ranging from _America's Funniest Home Videos_ to the world-famous Rodney King beating are more widely distributed through the datasphere than syndicated reruns of _I Love Lucy_. Alternative media channels like the computer networks or even or even fax "trees" permit the dissemination of information unacceptable to or censored by mainstream channels, and have been heralded as the new tools of revolution in countries as "un-American" as Romania and communist China. Pirate media, like illegal broadcasts and cable or satellite jumping, are even more blatant assertions of the power of individuals to hack the data network...
 
 The American mediascape. It is more than a mirror of our culture; it is our culture. It is where we spend our time, our money and our thought. But as we examine the nature of the datasphere more closely, we find it is a self referential cut-and-paste of itself. Most of media is media commenting on media commenting on media. Even if one real event just happens to occur—a black man gets beaten by white cops, or a girl shoots the wife of a man she loves—it soon becomes part of the overall self-reflexive pastiche of media.
 
