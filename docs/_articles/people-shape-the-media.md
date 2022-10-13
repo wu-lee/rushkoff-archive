@@ -77,15 +77,9 @@ This freedom has been secured by Xerox and fax machines, computer bulletin board
 
 A black man is beaten by white cops in Los Angeles⁶. The event is captured on a home camcorder and within hours the beating is replayed on the televisions of millions. Within days it's the topic of an afternoon talk show; within weeks it's a court case on the fictional _LA Law_; within months it's a TV movie; before the end of the year it's the basis of a new video game, a comic book and set of trading cards. Finally, what began as a thirty-second video clip emerges as the battle cry for full-scale urban rioting. This riot, in turn, is amplified on more talk shows, radio call-ins and new episodes of _LA Law_! A provocative image or idea—like Rodney King getting beaten or even Pee Wee Herman beating off in a porno theater—spreads like wildfire. The event attracts our attention and generates media for several seconds, minutes, or even months—but its influence on us doesn't stop there.
 
-Within every media sensation are ideas, issues and agendas which ence us less directly. A home video of police beating a black man, for ex ple, initiates a series of responses in the viewer. Questions of racism, poika brutality, the First Amendment, Los Angeles politics, drug abuse, ever power of consumergrade electronics—to name a few—are all releases single media image in its media context. Similarly, a media ico. Wee Herman attracts attention because he is bizarre and funny, but in the image and forcing us to respond are questions about consumerism run amok, the supposed innocence of childhood farce of “adulthood."
+Within every media sensation are ideas, issues and agendas which influence us less directly. A home video of police beating a black man, for example, initiates a series of responses in the viewer. Questions of racism, police brutality, the First Amendment, Los Angeles politics, drug abuse, even the power of consumergrade electronics—to name a few—are all released by the single media image in its media context. Similarly, a media icon like Pee Wee Herman attracts attention because he is bizarre and funny, but hidden in the image and forcing us to respond are questions about homosexuality, consumerism run amok, the supposed innocence of childhood and the farce of “adulthood."
 
-ly, a media icon like Pee
-
-and funny, but hidden about homosexuality,
-
-nildhood and the
-
-6\. In 1991, Rodney King, an African American, was brutally beaten by LOS AS after being stopped for a traffic violation. His beating was recorded by any home video camera and later broadcast many times on television and our policemen accused.
+6\. In 1991, Rodney King, an African American, was brutally beaten by Los Angeles policemen after being stopped for a traffic violation. His beating was recorded by a bystander with a home video camera and later broadcast many times on television and during the trials of the policemen accused.
 
 by Los Angeles policemen u by a bystander with a n and during the trials of the
 
