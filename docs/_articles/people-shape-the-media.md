@@ -69,23 +69,7 @@ The news, comedy and drama produced by GenXer's, ranging from subversive undergr
 
 5\. Refers to Americans born between 1961 and 1972 who came of age in the late 1970s and 1980s. This generation is characterized by some as cynical and apathetic.
 
-5\. Refers to Americans 1980s. This generatio
-
-lo Americans born between 1961 and 1972 who came of age in the late 1970s and This generation is characterized by some as cynical and apathetic.
-
-ind or New Frontier?
-
-172
-
-CHAPTER 8
-
-The Media: Vast Wasteland or
-
-mous moments in cted by the personi. oster art uses recog.
-
-on it with witty gic in the original
-
-GenX has developed a new language and self-references for the choose to identify media as a real thing, and media history as an cial history....
+GenX has developed a new language and self-references for those who choose to identify media as a real thing, and media history as an actual social history....
 
 This freedom has been secured by Xerox and fax machines.co bulletin boards, electronic mail lists, tape duplication and even s self-promotion. Feeding a thought or feeling back into the media netwo easy. If the idea excites others, it will probably duplicate itself and spre through the datasphere without any further effort on the part of the indi vidual.
 
