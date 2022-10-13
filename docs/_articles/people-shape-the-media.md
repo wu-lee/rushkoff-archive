@@ -51,27 +51,7 @@ But big business created something even bigger than itself: the datasphere. The 
 
 The datasphere itself began to behave like a living organism. Like any biological being, it sought to grow. With the help of dollars from those who still thought they were hardwiring consumer culture, the media expanded into the tremendous worldwide web we enjoy today. Networks and independents spawned satellite link-ups, cable television, telephone marketing, computer networks, video players and home shopping clubs. More extensive than our endless ribbon of rails, roadways or skyways, our media networks could reach out and touch anyone.
 
-In an otherwise disconnected culture, the television became a sus parent for the latchkey child and the radio a bedtime companion 10
-
-y today. Networks and inde
-
-ne a surrogate mpanion for the di
-
-4\. The eldest daughter on the 1970s TV sitcom "The Brady Bunch."
-
-IKOFF People Shape the Media
-
-171
-
-RUSHKOFF F
-
-on video and 976 phone numbers became the preferred form of
-
-tivity for the socially disinclined or disease-fearing. Marketers rec cd how engaged people were becoming with the media, and began
-
-the media itself as their biggest product. The newest and best
-
-were TVs and media tools. This is what led to the moment where the balance of power in media shifted forever.
+In an otherwise disconnected culture, the television became a surrogate parent for the latchkey child and the radio a bedtime companion for the divorcé. Porn video and 976 phone numbers became the preferred form of sexual activity for the socially disinclined or disease-fearing. Marketers recognized how engaged people were becoming with the media, and began marketing the media itself as their biggest product. The newest and best products were TVs and media tools. This is what led to the moment where the balance of power in media shifted forever.
 
 vorcé. Porn video sexual activity fo ognized how eng marketing the media its products were TVs a
 
