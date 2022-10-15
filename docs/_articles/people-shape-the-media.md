@@ -101,21 +101,7 @@ Usually what allows a virus to multiply... is its ability to comment on the medi
 
 Viruses prevent the manufacturers of consent from exploiting “representation as reality." Viruses couch themselves in irony, and appeal to the ironic sensibilities of their viewers....
 
-Countercultural media generally ... works in complementary ways on many levels at once. The MTV video for Jesus Jones' Right Here Right Now is about how our culture is experiencing a moment where it may have an op portunity to break from its historical cycles. "Right here right now." the lyrics say “there is no place I'd rather be. Right here right now, Watching the world wake up from history." Behind the band as they perform is a movie screen of rapidly cut news imagery: scenes like the destruction of the Berlin Wall or the fall of communism. The video is a rapidly edited series of discontinuous cuts, disrespectful of the linear, orderly rules of traditional. narrative filmmaking. It appears on MTV, which plays video after video. linked together only by disorienting, discontinuous graphics. Finally, the MTV network is only one of the many channels available now through cable television, which the viewer flips through with his remote watching CNN images on one channel, music images on another and both pasted to gether here. As if to recognize their own place in this giant self-similar lat ticework, the performers in the band allow the news footage to be directly onto their bodies. Jesus Jones sings about the discontinuous nature of modern social history, at the same time as its video, the station it is
-
-175
-
-KOFF People Shape the Media
-
-RUSHKOFF Pe
-
-w Frontier?
-
-and medium through which it is broadcast, all exhibit this
-
-ndered ob
-
-broadcast on, and medium same discontinuity.
+Countercultural media generally ... works in complementary ways on many levels at once. The MTV video for Jesus Jones' _Right Here Right Now_ is about how our culture is experiencing a moment where it may have an opportunity to break from its historical cycles. "Right here right now," the lyrics say “there is no place I'd rather be. Right here right now, Watching the world wake up from history." Behind the band as they perform is a movie screen of rapidly cut news imagery: scenes like the destruction of the Berlin Wall or the fall of communism. The video is a rapidly edited series of discontinuous cuts, disrespectful of the linear, orderly rules of traditional, narrative filmmaking. It appears on MTV, which plays video after video, linked together only by disorienting, discontinuous graphics. Finally, the MTV network is only one of the many channels available now through cable television, which the viewer flips through with his remote, watching CNN images on one channel, music images on another and both pasted together here. As if to recognize their own place in this giant self-similar latticework, the performers in the band allow the news footage to be projected directly onto their bodies. Jesus Jones sings about the discontinuous nature of modern social history, at the same time as its video, the station it is broadcast on, and medium through which it is broadcast, all exhibit this same discontinuity.
 
 he first re alize it. If e promot 5 and pro s to have ublic rela e they un allow the e, became us defied n.... iment on edia iden a because wsmedia. econdary dia's ten d cut off
 
