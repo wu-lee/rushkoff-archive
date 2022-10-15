@@ -91,29 +91,7 @@ A media virus may be designed to fight a political party, a religion, an institu
 
 Viruses combat oversimplification and distraction. “Just say no" is a public relations effort to simplify and distract us from the real issues involved in drug use. The phrase is designed to ignore the complex reality of life in the ghetto, peer pressure, the legality of certain drugs and the possible benefits of others. Similarly, the war on drugs appeals to the emotions, and couches other issues—racism, fear and class issues—in a blanket statement against an enemy we can agree on. The issue here is not whether or not drug use should be sanctioned, but rather the specific tactics used by the manufacturers of consent to dominate public opinion.
 
-The countercultural groups involved in the drug issue create viruses which explode these simple slogans. The viruses provoke more questions, Hot pat answers. The smart drugs virus, for one, is a seemingly oxymoronic phrase which makes us go "huh?" We do not raise our fists in anger against anamned enemy, but instead are forced to make sense, or at least try. Viruses open up iss
-
-up issues for discussion rather than giving us an excuse to ignore our
-
-ence. They make our conceptual world a more confusing, chaotic .:: Anything is possible. The easy way to tell the difference between a
-
-us and a public relations ploy is to determine whether it makes an Sumpler and emotional, or dauntingly complex. A virus will always me system it is attacking appear as confusing and unresolvable as it
-
-ambivalence. They make
-
-media virus and a pub
-
-make the system
-
-174
-
-CHAPTER 8
-
-The Media: Vast Wasteland or New
-
-land or New Frontier?
-
-really is. The technique of oversimplification and distraction is rendered solete by the media virus.
+The countercultural groups involved in the drug issue create viruses which explode these simple slogans. The viruses provoke more questions, not pat answers. The smart drugs virus, for one, is a seemingly oxymoronic phrase which makes us go "huh?" We do not raise our fists in anger against a named enemy, but instead are forced to make sense, or at least try. Viruses open up issues for discussion rather than giving us an excuse to ignore our ambivalence. They make our conceptual world a more confusing, chaotic media virus and a public relations ploy is to determine whether it makes an issue simpler and emotional, or dauntingly complex. A virus will always make the system it is attacking appear as confusing and unresolvable as it really is. The technique of oversimplification and distraction is rendered obsolete by the media virus.
 
 Media viruses also disable the technique of marginalization. The first sponse of public relations to a countercultural idea is to marginalize it is you are against the war, then you are against our troops. If you are promot. ing gay rights, then you are against family values or even pro-AIDS and pro pederasty.... What allows media viruses to spread often appears to have little to do with the dangerous ideas within them. Even better, public rela tions forces often attempt to marginalize the shell of a virus before they un derstand its inner nature. Their attempts at marginalization only allow the virus to spread further. Ice T's fiery “Cop Killer" lyrics, for example, became famous only because of efforts to extinguish them. The media virus defied sidelining because the "censorship of rock” issue had legs of its own. ...
 
