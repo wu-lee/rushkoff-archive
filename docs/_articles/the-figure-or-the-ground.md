@@ -13,19 +13,7 @@ published: false
 ---
 Thinking about machines that think may constitute a classic reversal of figure and ground, medium and message. It sets us up to think about the next stage of intelligence as something happening in a computer somewhere--an awareness that will be born and then housed on the tremendous servers being built by Information Age corporations for this purpose. "There it is," we'll declare, and point: "The intelligent machine."
 
-Our mistake, as creatures of the Electronic Age and mere
-
-immigrants to an unfolding Digital Era, is to see digital tech-
-
-nology as a subject rather than a landscape. It's the same as con-
-
-fusing the television set with the media environment created by
-
-the television set, or the little smartphone in your pocket with
-
-the greater impact of handheld communications and comput-
-
-ing technology on our society.
+Our mistake, as creatures of the Electronic Age and mere immigrants to an unfolding Digital Era, is to see digital technology as a subject rather than a landscape. It's the same as confusing the television set with the media environment created by the television set, or the little smartphone in your pocket with the greater impact of handheld communications and computing technology on our society.
 
 This happens whenever we undergo a media transition. So
 
