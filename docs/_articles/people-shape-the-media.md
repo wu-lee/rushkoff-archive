@@ -109,7 +109,9 @@ The last of the public relations ploys that viruses obliterate is the maintenanc
 
 Participation can range from simply watching TV to designing global networks. What constitutes activity in the datasphere is only limited by the number of ways a person can be exposed to or iterate viruses. As the datasphere grows, each of us come into contact with more of our viral culture. The media promotes a new kind of intimacy and no one with even a TV set can escape the flood.
 
-For the media is like water. It conducts social electricity. Wherever it spreads its contents are carried, too. Social theorist Irwin Thompson, who is about 50, is most famous for his book The American Replacement of Nature, in which he warns that the development of the mediaspace may be an un natural thing. He even demonizes the people behind the expansion of the computer nets. At his Haight Street office the professor argued about whether or not we should be so optimistic about the growth of media. "Electronic communication is totally destroying literate civilization.
+For the media is like water. It conducts social electricity. Wherever it spreads, its contents are carried, too. Social theorist Irwin Thompson, who is about 50, is most famous for his book _The American Replacement of Nature_, in which he warns that the development of the mediaspace may be an unnatural thing. He even demonizes the people behind the expansion of the computer nets. At his Haight Street office the professor argued about whether or not we should be so optimistic about the growth of media.
+
+"Electronic communication is totally destroying literate civilization.
 
 doesn't read!" Eventually, however, he admitted that there
 
