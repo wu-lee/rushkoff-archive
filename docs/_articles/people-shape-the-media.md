@@ -113,25 +113,7 @@ For the media is like water. It conducts social electricity. Wherever it spreads
 
 "Electronic communication is totally destroying literate civilization. Your generation doesn't read!" Eventually, however, he admitted that there are some good aspects by which we are forcefully being imploded into one another. "There's no longer a private space. The idea of literate culture is basically a middle class notion—it's the gentleman in his book-lined study with the privacy for reflection. That's a very elitist notion."
 
-media shrinks the world, bringing the reality of remote re Further, the media shrinks the world, br to the living rooms of everyone else. Thompson agrees that th
-
-our culture, we're constantly being invaded and seeing hor those in Bosnia, right away. Between newspapers and television,
-
-presenta ne ironic
-
-ways on t Now is 2 an op -w," the Catching rm is a n of the series of litional, - video, lly, the hrough atching sted to
-
-Silar lat ojected
-
-nature on it is
-
-no escape. "In our culture, we're cor rors, such as those in Bosnia, right away
-
-176
-
-CHAPTER 8 The Media: Vast Wasteland or New Frontier?
-
-there's this whole sense of the planet as the public space. And this makes moral escape really hard."
+Further, the media shrinks the world, bringing the reality of remote regions into the living rooms of everyone else. Thompson agrees that there is no escape. "In our culture, we're constantly being invaded and seeing horrors, such as those in Bosnia, right away. Between newspapers and television, there's this whole sense of the planet as the public space. And this makes moral escape really hard."
 
 And far from seeking escape, Americans want more.
 
