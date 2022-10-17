@@ -119,13 +119,11 @@ And far from seeking escape, Americans want more.
 
 You can ignore media viruses if you like, but it's already too late. If you've gotten this far, you've already been infected.
 
-DISCUSSION QUESTIONS
+**DISCUSSION QUESTIONS**
 
-1\. Rushkoff contends that "no one takes the mainstream media any more seri
+1\. Rushkoff contends that "no one takes the mainstream media any more seriously than you do." How would Manheim respond to this quote, and what evidence would he bring to bear to dispute it?
 
-ously than you do." How would Manheim respond to this quote, and what
-
-evidence would he bring to bear to dispute it? 2. Manheim says that "we need an intermediary ... We need the news
+2\. Manheim says that "we need an intermediary ... We need the news
 
 media." At the same time, he is very critical of how they act. Would "popu lar democratic" news media be possible, given Manheim's analysis2 How do his assumptions about citizens affect how he would change the structure of the media? Rushkoff seems to believe that new, interactive technology makes i possible for ordinary people to "be" the media themselves i him, how will people define and use their new equality and from
 
