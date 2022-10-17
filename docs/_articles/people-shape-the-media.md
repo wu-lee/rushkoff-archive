@@ -111,15 +111,7 @@ Participation can range from simply watching TV to designing global networks. Wh
 
 For the media is like water. It conducts social electricity. Wherever it spreads, its contents are carried, too. Social theorist Irwin Thompson, who is about 50, is most famous for his book _The American Replacement of Nature_, in which he warns that the development of the mediaspace may be an unnatural thing. He even demonizes the people behind the expansion of the computer nets. At his Haight Street office the professor argued about whether or not we should be so optimistic about the growth of media.
 
-"Electronic communication is totally destroying literate civilization.
-
-doesn't read!" Eventually, however, he admitted that there
-
-pects by which we are forcefully being imploded into one ere's no longer a private space. The idea of literate culture is ba
-
-class notion—it's the gentleman in his book-lined study sically a middle class notion-it's the gentlema
-
-cy for reflection. That's a very elitist notion."
+"Electronic communication is totally destroying literate civilization. Your generation doesn't read!" Eventually, however, he admitted that there are some good aspects by which we are forcefully being imploded into one another. "There's no longer a private space. The idea of literate culture is basically a middle class notion—it's the gentleman in his book-lined study with the privacy for reflection. That's a very elitist notion."
 
 media shrinks the world, bringing the reality of remote re Further, the media shrinks the world, br to the living rooms of everyone else. Thompson agrees that th
 
