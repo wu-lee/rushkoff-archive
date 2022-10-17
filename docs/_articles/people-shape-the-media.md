@@ -118,17 +118,3 @@ Further, the media shrinks the world, bringing the reality of remote regions int
 And far from seeking escape, Americans want more.
 
 You can ignore media viruses if you like, but it's already too late. If you've gotten this far, you've already been infected.
-
-**DISCUSSION QUESTIONS**
-
-1\. Rushkoff contends that "no one takes the mainstream media any more seriously than you do." How would Manheim respond to this quote, and what evidence would he bring to bear to dispute it?
-
-2\. Manheim says that "we need an intermediary... We need the news media." At the same time, he is very critical of how they act. Would "popular democratic" news media be possible, given Manheim's analysis? How do his assumptions about citizens affect how he would change the structure of the media?
-
-3\. Rushkoff seems to believe that new, interactive technology makes it possible for ordinary people to "be" the media themselves. According to him, how will people define and use their new equality and freedom?
-
-Manheim seems to ignore the qualities of "interactive" news Rushkoff singles out for special attention. Could Man extended to take into account the role of the new ir a superhighway? How might he debate Rushkoff?
-
-ment be
-
-on
