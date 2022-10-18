@@ -13,7 +13,7 @@ published: false
 ---
 I don't believe in writer's block.
 
-Yes, there may have been days or even weeks at a time when I have not written--even when I may have wanted to--but the doesn't mean I was blocked. It simply means I was in the wrong place at the wrong time. Or, as I'd like to argue, exactly the right place at the right time.
+Yes, there may have been days or even weeks at a time when I have not written—even when I may have wanted to—but the doesn't mean I was blocked. It simply means I was in the wrong place at the wrong time. Or, as I'd like to argue, exactly the right place at the right time.
 
 The creative process has more than one kind of expression. There's the part you could show in a movie montage—the furious typing or painting or equation solving where the writer, artist, or mathematician accomplishes the output of the creative task. But then there's also the part that happens invisibly, under the surface. That's when the senses are perceiving the world, the mind and heart are thrown into some sort of dissonance, and the soul chooses to respond.
 
