@@ -15,15 +15,7 @@ We should be worried about the decline of the human nervous system. We should be
 
 Consider the rising proportion of our youth who are classified as “special needs.” By current count, one in eighty-eight children has an autism spectrum disorder—and one in fifty-four boys. Eight percent of children between three and seventeen years old have a learning disability. Seven percent have ADHD. And these figures are rising steadily. The vast majority of children with spectrum disorders also suffer from “co-morbidities," such as anxiety disorder, sensory-processing disorder, intellectual disabilities, and social disorders. These special-needs children will likely need special education and then special care and special caretakers for the rest of their lives. Someone has to pay for this.
 
-|_ Moreover, as the numbers of children affected by these in! ments increase, the amount of resources remaining to rai educate the “neurotypical” members of our communities go do The more children requiring $100,000 and up of per education each year, the less money remains and the
-
-Ining to raise and
-
-up of special-needs ins and the larger the
-
-376
-
-a Classes must become. There are of course many social rem a these problems, from increased community support and involvement to radical rethinking of education itself. But the less well educated we are, the less prepared we are tackle these issues.
+Moreover, as the numbers of children affected by these impairments increase, the amount of resources remaining to raise and educate the “neurotypical” members of our communities go down. The more children requiring $100,000 and up of special-needs education each year, the less money remains and the larger the regular classes must become. There are of course many social remedies for these problems, from increased community support and involvement to radical rethinking of education itself. But the less well educated we are, the less prepared we are tackle these issues.
 
 And spectrum disorders are just the most visible evidence of neural breakdown. We must also consider the extensive use of and other mood-enhancement drugs. Unlike psychedelics and other psychosocial learning substances, SSRIs were designed for continuous use. By treating stress, anxiety, and even transient de pression as chronic conditions, the doctors prescribing these medi cations (influenced by the companies peddling them) are changing people's neurochemistry in order to dampen their responses to real life. The fact that 23 percent of American women between the ages of forty and fifty-nine take SSRIs may have less to say about this group's propensity for depression than it does about the way our society currently responds to women between forty and fifty nine. To drug the victim may be merciful on some level but only paralyzes our collective self-regulation as a culture and a species.
 
