@@ -19,10 +19,4 @@ No, the only way to change everything is for something to be done _to_ us instea
 
 To meet a neighbor, whether outer, inner, cyber-, or hyperspatial, finally turns us into an "us." To encounter an other--whether god, ghost, biological sibling, independently evolved life-form, or emergent intelligence of our own creation--changes what it means to be human.
 
-Our computers may never inform us that they are self-aware;
-
-extraterrestrials may never broadcast a signal to our SETI dishes;
-
-interdimensional creatures may never appear to those who aren't
-
-taking psychedelics at the time-but if any of these things happened, that would change everything.
+Our computers may never inform us that they are self-aware; extraterrestrials may never broadcast a signal to our SETI dishes; interdimensional creatures may never appear to those who aren't taking psychedelics at the time--but if any of these things happened, that would change everything.
