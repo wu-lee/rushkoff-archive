@@ -15,23 +15,7 @@ People like to think of technologies and media as neutral and that only their us
 
 Our widespread inability to recognize or even acknowledge the biases of the technologies we use renders us incapable of gaining any real agency through them. We accept our iPads, Facebook accounts, and automobiles at face value--as preexisting conditions--rather than as tools with embedded biases.
 
-Marshall McLuhan exhorted us to recognize that our media
-
-affect us beyond whatever content is being transmitted through
-
-them. And while his message was itself garbled by the media
-
-through which he expressed it (the medium is the what?), it is
-
-true enough to be generalized to all technology. We are free to
-
-use any car we like to get to work-gasoline-, diesel-, electric-,
-
-or!t:.n-powered-and this sense of choice blinds us to the
-
-fu 1 bias of the automobile toward distance, commuting,
-
-subu and energy consumption.
+Marshall McLuhan exhorted us to recognize that our media affect us beyond whatever content is being transmitted through them. And while his message was itself garbled by the media through which he expressed it (the medium is the what?), it is true enough to be generalized to all technology. We are free to use any car we like to get to work--gasoline-, diesel-, electric-, or hydrogen-powered---and this sense of choice blinds us to the fundamental bias of the automobile toward distance, commuting, suburbs, and energy consumption.
 
 Lill \~ise, soft technologies, from central currency to psy-
 
