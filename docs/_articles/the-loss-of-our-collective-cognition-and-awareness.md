@@ -25,4 +25,4 @@ Not to mention that all these drugs end up in the water supply and beyond, likel
 
 But there's an even greater concern. We should worry less about our species losing its biosphere than losing its soul. Our collective perceptions and cognition are our greatest evolutionary achievement. This is the activity that gives biology its meaning. Our human neural network is in the process of deteriorating and our perceptions are becoming skewed, both involuntarily and by our own hand. And all that most of us in the greater scientific community can do is hope that somehow technology picks up the slack, providing more accurate sensors, faster networks, and a new virtual home for complexity.
 
-We should worry that such networks won't be able to func tion without us; we should also worry that they will.
+We should worry that such networks won't be able to function without us; we should also worry that they will.
