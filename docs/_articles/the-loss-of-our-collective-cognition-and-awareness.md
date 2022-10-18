@@ -19,17 +19,7 @@ Moreover, as the numbers of children affected by these impairments increase, the
 
 And spectrum disorders are just the most visible evidence of neural breakdown. We must also consider the extensive use of SSRIs and other mood-enhancement drugs. Unlike psychedelics and other psychosocial learning substances, SSRIs were designed for continuous use. By treating stress, anxiety, and even transient depression as chronic conditions, the doctors prescribing these medications (influenced by the companies peddling them) are changing people's neurochemistry in order to dampen their responses to real life. The fact that 23 percent of American women between the ages of forty and fifty-nine take SSRIs may have less to say about this group's propensity for depression than it does about the way our society currently responds to women between forty and fifty-nine. To drug the victim may be merciful on some level but only paralyzes our collective self-regulation as a culture and a species.
 
-So on the one hand, we should be worried about a future in which there are only a few of us left to keep the lights on, caring for a huge population of neurally-challenged adults. We are seeing the beginnings of this in a media-influenced society of imbecilic beliefs, road rage, and inappropriate reactions to stim uli. The reasonable people, on whom we depend for restaurants, hospitals, and democracy itself to function, seem to be dwin dling in numbers, replaced by those with short tempers, inferi ority complexes, and an inability to read basic social cues. On the other hand, if all this bothers us, we're supposed to take medica
-
-on to alter our perceptions of and responses to social phenom Cha that should rightly make any healthy person depressed. And
-
-number of people who have chosen to pharmaceutically limit
-
-377
-
-ncern–because they are no
-
-their emotional range should be a concern–because longer bearing witness to our collective reality. There ar of us left alarmed enough to take the action necessary.
+So on the one hand, we should be worried about a future in which there are only a few of us left to keep the lights on, caring for a huge population of neurally-challenged adults. We are seeing the beginnings of this in a media-influenced society of imbecilic beliefs, road rage, and inappropriate reactions to stimuli. The reasonable people, on whom we depend for restaurants, hospitals, and democracy itself to function, seem to be dwindling in numbers, replaced by those with short tempers, inferiority complexes, and an inability to read basic social cues. On the other hand, if all this bothers us, we're supposed to take medication to alter our perceptions of and responses to social phenomena that should rightly make any healthy person depressed. And the number of people who have chosen to pharmaceutically limit their emotional range should be a concern—because they are no longer bearing witness to our collective reality. There are fewer of us left alarmed enough to take the action necessary.
 
 Not to mention that all these drugs end up in the water supply and beyond, likely leading to increases in spectrum dis orders among children. (Taking SSRIs during pregnancy, for in stance, leads to double the probability of delivering a child on the autism spectrum.) So we come full circle, increasingly incapable of doing anything about this feedback loop, or even caring about it. We're soaking in it.
 
