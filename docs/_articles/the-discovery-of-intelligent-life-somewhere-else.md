@@ -15,21 +15,7 @@ We're talking about changing _everything_--not just our abilities, relationships
 
 The development of any of our current capabilities--genetics, computing, language, even compassion--all feel like incremental advances in existing abilities. As we've seen before, the culmination of one branch of inquiry always just opens the door to a new branch and never yields the wholesale change of state we anticipated. Nothing we've done in the past couple of hundred thousand years has truly changed everything, so I don't see us doing anything in the future that would change everything, either.
 
-No, the only way to change everything is for something to
-
-be done to us instead. The encounter between humanity and an
-
-"other" entails a shift beyond the solipsism that has characterized our civilization since our civilization was born. It augurs
-
-a reversal as big as the encounter between an individual and its
-
-64 ... DOUGLAS RUSHKOFF
-
-offspring or a creature and its creator. Even if this were to be the
-
-result of something we'd done, it would now be independent of
-
-us and our efforts.
+No, the only way to change everything is for something to be done _to_ us instead. The encounter between humanity and an "other" entails a shift beyond the solipsism that has characterized our civilization since our civilization was born. It augurs a reversal as big as the encounter between an individual and its offspring or a creature and its creator. Even if this were to be the result of something we'd done, it would now be independent of us and our efforts.
 
 To meet a neighbor, whether outer, inner, cyber-, or hyperspatial, finally turns us into an "us." To encounter an otherwhether god, ghost, biological sibling, independently evolved
 
