@@ -17,11 +17,7 @@ Yes, there may have been days or even weeks at a time when I have not written—
 
 The creative process has more than one kind of expression. There's the part you could show in a movie montage—the furious typing or painting or equation solving where the writer, artist, or mathematician accomplishes the output of the creative task. But then there's also the part that happens invisibly, under the surface. That's when the senses are perceiving the world, the mind and heart are thrown into some sort of dissonance, and the soul chooses to respond.
 
-That response doesn't just come out like vomit after a bad meal. There's no such thing as pure expression. Rather, because we live in a social world with other people whose perceptual
-
-apparatus needs to be penetrated with our ideas, we must formulate, strategize, order, and then articulate. It is that last part that
-
-visible as output or progress, but it only represents, at best, 25 percent of the process.
+That response doesn't just come out like vomit after a bad meal. There's no such thing as pure expression. Rather, because we live in a social world with other people whose perceptual apparatus needs to be penetrated with our ideas, we must formulate, strategize, order, and then articulate. It is that last part that is visible as output or progress, but it only represents, at best, 25 percent of the process.
 
 Real creativity transcends time. If you are not producing then chances are you have fallen into the infinite space o the ticks of the clock where reality is created. taskmaster tell you otherwise-even if he
 
