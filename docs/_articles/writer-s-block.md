@@ -8,7 +8,6 @@ blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-published: false
 
 ---
 I don't believe in writer's block.
