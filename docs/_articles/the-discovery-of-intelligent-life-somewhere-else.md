@@ -8,7 +8,6 @@ blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-published: false
 
 ---
 We're talking about changing _everything_--not just our abilities, relationships, politics, economy, religion, biology, language, mathematics, history, or future but all of these things at once. The only single event I can see shifting pretty much everything at once is our first encounter with intelligent extraterrestrial life.
