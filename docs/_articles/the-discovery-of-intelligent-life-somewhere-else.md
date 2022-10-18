@@ -11,25 +11,7 @@ sources: ''
 published: false
 
 ---
-•---- ._._UL
-
-\------(g\~
-
-DOUGLAS RUSHKOFF
-
-DOUGLAS RUSHKOFF is a media analyst, documentary
-
-writer, and the author of Life Inc.: How the World Became a
-
-Corporation and How to Take It Back. ·
-
-W.\~'.re tal\~in\~ about changing everything-not just our
-
-ab1hhes, relahonsh1ps, politics, economy, religion, biology, language, mathematics, history, or future but all of these things
-
-at once. The only single event I can see shifting pretty much
-
-everything at once is our first encounter with intelligent extraterrestrial life .
+We're talking about changing _everything_--not just our abilities, relationships, politics, economy, religion, biology, language, mathematics, history, or future but all of these things at once. The only single event I can see shifting pretty much everything at once is our first encounter with intelligent extraterrestrial life.
 
 The development of any of our current capabilities-genetics,
 
