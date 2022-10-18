@@ -8,7 +8,6 @@ blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-published: false
 
 ---
 Thinking about machines that think may constitute a classic reversal of figure and ground, medium and message. It sets us up to think about the next stage of intelligence as something happening in a computer somewhere--an awareness that will be born and then housed on the tremendous servers being built by Information Age corporations for this purpose. "There it is," we'll declare, and point: "The intelligent machine."
