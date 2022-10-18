@@ -13,15 +13,7 @@ published: false
 ---
 We're talking about changing _everything_--not just our abilities, relationships, politics, economy, religion, biology, language, mathematics, history, or future but all of these things at once. The only single event I can see shifting pretty much everything at once is our first encounter with intelligent extraterrestrial life.
 
-The development of any of our current capabilities-genetics,
-
-computing, language, even compassion-all feel like incremental
-
-advances in existing abilities. As we've seen before, the culmination of one branch of inquiry always just opens the door to a new
-
-branch and never yields the wholesale change of state we anticipated. Nothing we've done in the past couple of hundred thousand years has truly changed everything, so ·1 don't see us doing
-
-anything in the future that would ·change everything, either.
+The development of any of our current capabilities--genetics, computing, language, even compassion--all feel like incremental advances in existing abilities. As we've seen before, the culmination of one branch of inquiry always just opens the door to a new branch and never yields the wholesale change of state we anticipated. Nothing we've done in the past couple of hundred thousand years has truly changed everything, so I don't see us doing anything in the future that would change everything, either.
 
 No, the only way to change everything is for something to
 
