@@ -19,12 +19,4 @@ Marshall McLuhan exhorted us to recognize that our media affect us beyond whatev
 
 Likewise, soft technologies, from central currency to psychotherapy, are biased in their construction as much as in their ir:nplementation. No matter how we spend U.S. dollars, we are nonetheless fortifying banking and the centralization of capital. Put a psychotherapist on his own couch and a patient in the chair and the therapist will begin to exhibit treatable pathologies. It's set up that way, just as Facebook is set up to make us think of ourselves in terms of our "likes" and an iPad is set up to make us start paying for media and stop producing them ourselves.
 
-If the concept that technologies have biases were to becom\~
-
-common knowledge, we could implement them consciously and
-
-purposefully. If we don't bring this concept into general aware-
-
-ness, our technologies and their effects will continue to threaten
-
-and confound us.
+If the concept that technologies have biases were to become common knowledge, we could implement them consciously and purposefully. If we don't bring this concept into general awareness, our technologies and their effects will continue to threaten and confound us.
