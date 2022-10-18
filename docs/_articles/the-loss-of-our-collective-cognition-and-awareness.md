@@ -8,7 +8,6 @@ blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-published: false
 
 ---
 We should be worried about the decline of the human nervous system. We should be worried that something—likely environmental but possibly more subtle than that—is hampering our ability to parent new human beings with coherently functioning perceptual apparatuses. We should worry about what this means not just for our society's economic future but for the future of our collective cognition and awareness as a species.
