@@ -19,4 +19,4 @@ The creative process has more than one kind of expression. There's the part you 
 
 That response doesn't just come out like vomit after a bad meal. There's no such thing as pure expression. Rather, because we live in a social world with other people whose perceptual apparatus needs to be penetrated with our ideas, we must formulate, strategize, order, and then articulate. It is that last part that is visible as output or progress, but it only represents, at best, 25 percent of the process.
 
-Real creativity transcends time. If you are not producing work, then chances are you have fallen into the infinite space between the ticks of the clock where reality is created. Don't let some capitalist taskmaster tell you otherwise—even if he happens to be in you own head.
+Real creativity transcends time. If you are not producing work, then chances are you have fallen into the infinite space between the ticks of the clock where reality is created. Don't let some capitalist taskmaster tell you otherwise—even if he happens to be in your own head.
