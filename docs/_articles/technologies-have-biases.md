@@ -11,17 +11,7 @@ sources: ''
 published: false
 
 ---
-People like to think of technologies and media as neutral and
-
-that only their use or content determines their effect. Guns don't
-
-kill people, after all; people kill people. But guns are much more
-
-biased toward killing people than, say, pillows-even though
-
-many a pillow has been utilized to smother an aging relative or
-
-adulterous spouse.
+People like to think of technologies and media as neutral and that only their use or content determines their effect. Guns don't kill people, after all; people kill people. But guns are much more biased toward killing people than, say, pillows--even though many a pillow has been utilized to smother an aging relative or adulterous spouse.
 
 Our widespread inability to recognize or even acknowledge
 
