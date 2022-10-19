@@ -17,17 +17,7 @@ published: false
 
 The emergence of the interactive mediaspace may offer a new model for cooperation. Although it may have disappointed many in the technology industry, the rise of interactive media, the birth of a new medium, the battle to control it and the downfall of the first victorious camp, taught us a lot about the relationship of ideas to the media through which they are disseminated. Those who witnessed or, better, have participated in the development of the interactive mediaspace have a very new understanding of the way that cultural narratives are developed, monopolised and challenged. And this knowledge extends, by allegory and experience, to areas far beyond digital culture, to the broader challenges of our time.
 
-As the world confronts the impact of globalism, newly revitalised
-
-threats of fundamentalism, and the emergence of seemingly
-
-irreconcilable value systems, generate a new reason to believe that
-
-living interdependently is not only possible, but preferable to the
-
-competitive individualism, ethnocentrism, nationalism and particularism that have characterised so much of late twentieth-century
-
-thinking and culture.
+As the world confronts the impact of globalism, newly revitalised threats of fundamentalism, and the emergence of seemingly irreconcilable value systems, generate a new reason to believe that living interdependently is not only possible, but preferable to the competitive individualism, ethnocentrism, nationalism and particularism that have characterised so much of late twentieth-century thinking and culture.
 
 The values engendered by our fledgling networked culture may, in
 
