@@ -19,31 +19,7 @@ The emergence of the interactive mediaspace may offer a new model for cooperatio
 
 As the world confronts the impact of globalism, newly revitalised threats of fundamentalism, and the emergence of seemingly irreconcilable value systems, generate a new reason to believe that living interdependently is not only possible, but preferable to the competitive individualism, ethnocentrism, nationalism and particularism that have characterised so much of late twentieth-century thinking and culture.
 
-The values engendered by our fledgling networked culture may, in
-
-fact, help a world struggling with the impact of globalism, the lure of
-
-De m o s 15
-
-fundamentalism and the clash of conflicting value systems. Thanks to
-
-the actual and allegorical role of interactive technologies in our work
-
-and lives, we may now have the ability to understand many social and
-
-political constructs in very new contexts. We may now be able to
-
-launch the kinds of conversations that change the relationship of
-
-individuals, parties, creeds and nations to one another and to the
-
-world at large. These interactive communication technologies could
-
-even help us to understand autonomy as a collective phenomenon, a
-
-shared state that emerges spontaneously and quite naturally when
-
-people are allowed to participate actively in their mutual self-interest.
+The values engendered by our fledgling networked culture may, in fact, help a world struggling with the impact of globalism, the lure of fundamentalism and the clash of conflicting value systems. Thanks to the actual and allegorical role of interactive technologies in our work and lives, we may now have the ability to understand many social and political constructs in very new contexts. We may now be able to launch the kinds of conversations that change the relationship of individuals, parties, creeds and nations to one another and to the world at large. These interactive communication technologies could even help us to understand autonomy as a collective phenomenon, a shared state that emerges spontaneously and quite naturally when people are allowed to participate actively in their mutual self-interest.
 
 The emergence of the internet as a self-organising community, its
 
