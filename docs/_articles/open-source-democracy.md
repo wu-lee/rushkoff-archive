@@ -21,39 +21,9 @@ As the world confronts the impact of globalism, newly revitalised threats of fun
 
 The values engendered by our fledgling networked culture may, in fact, help a world struggling with the impact of globalism, the lure of fundamentalism and the clash of conflicting value systems. Thanks to the actual and allegorical role of interactive technologies in our work and lives, we may now have the ability to understand many social and political constructs in very new contexts. We may now be able to launch the kinds of conversations that change the relationship of individuals, parties, creeds and nations to one another and to the world at large. These interactive communication technologies could even help us to understand autonomy as a collective phenomenon, a shared state that emerges spontaneously and quite naturally when people are allowed to participate actively in their mutual self-interest.
 
-The emergence of the internet as a self-organising community, its
+The emergence of the internet as a self-organising community, its subsequent co-option by business interests, the resulting collapse of the dot.com pyramid and the more recent self-conscious revival of interactive media’s most participatory forums, serve as a case study in the politics of renaissance. The battle for control over new and little understood communication technologies has rendered transparent many of the agendas implicit in our political and cultural narratives. Meanwhile, the technologies themselves empower individuals to take part in the creation of new narratives. Thus, in an era when crass perversions of populism, and exaggerated calls for national security, threaten the very premises of representational democracy and free discourse, interactive technologies offer us a ray of hope for a renewed spirit of genuine civic engagement.
 
-subsequent co-option by business interests, the resulting collapse of
-
-the dot.com pyramid and the more recent self-conscious revival of
-
-interactive media’s most participatory forums, serve as a case study in
-
-the politics of renaissance. The battle for control over new and little
-
-understood communication technologies has rendered transparent
-
-many of the agendas implicit in our political and cultural narratives.
-
-Meanwhile, the technologies themselves empower individuals to take
-
-part in the creation of new narratives. Thus, in an era when crass
-
-perversions of populism, and exaggerated calls for national security,
-
-threaten the very premises of representational democracy and free
-
-discourse, interactive technologies offer us a ray of hope for a
-
-renewed spirit of genuine civic engagement.
-
-The very survival of democracy as a functional reality may be
-
-dependent upon our acceptance, as individuals, of adult roles in
-
-conceiving and stewarding the shape and direction of society. And we
-
-may get our best rehearsal for these roles online.
+The very survival of democracy as a functional reality may be dependent upon our acceptance, as individuals, of adult roles in conceiving and stewarding the shape and direction of society. And we may get our best rehearsal for these roles online.
 
 In short, the interactive mediaspace offers a new way of
 
