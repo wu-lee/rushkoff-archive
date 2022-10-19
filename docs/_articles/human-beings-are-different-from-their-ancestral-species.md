@@ -17,6 +17,4 @@ Our most natural inclination should be to kill each other, one way or another. F
 
 I'm optimistic that human beings can be different from our ancestral species and that the endless comparisons between human behavior and that of other species are, ultimately, misleading. I hope that although sponge colonies fight endlessly with those of a different color, this need not mean that humans are destined to do the same.
 
-I'm optimistic that, having been liberated from the myth of intrinsic meaning, human beings will gain the ability to make meaning instead, and that this unique ability will give us the opportunity to disobey biology's commands.
-
-36 WHAT ARE YOU OPTIMISTIC ABOUT?
+I'm optimistic that, having been liberated from the myth of intrinsic meaning, human beings will gain the ability to _make_ meaning instead, and that this unique ability will give us the opportunity to disobey biology's commands.
