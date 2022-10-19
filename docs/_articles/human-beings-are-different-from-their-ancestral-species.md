@@ -8,7 +8,6 @@ blurb: ''
 notes: Date from Goodreads
 refs: ''
 sources: ''
-published: false
 
 ---
 Now that we've gotten false notions of 'God' out of the way, we come up against the question from which he insulated us: If human beings are not the 'chosen species,' then are we at least capable of transcending nature, from which we emerged?
