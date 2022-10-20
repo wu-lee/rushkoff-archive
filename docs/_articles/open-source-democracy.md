@@ -67,37 +67,9 @@ TV commercials have honed this storytelling technique into the perfect 30-second
 
 In this passive and mysterious medium, when we are brought into a state of vicarious tension, we are more likely to swallow whichever pill and accept whatever solution the storyteller offers.
 
-Open source democ ra cy
+**Interactivity: the birth of resistance**
 
-22 De m o s
-
-Interactivity: the birth of resistance
-
-Interactive media changed this equation. Imagine if your father were
-
-watching that aspirin commercial back in 1955 on his old console
-
-television. Even if he suspected that he was watching a commercial
-
-designed to put him in a state of anxiety, in order to change the
-
-channel and remove himself from the externally imposed tension, he
-
-would have to move the popcorn off his lap, pull up the lever on his
-
-recliner, walk up to the television set and manually turn the dial. All
-
-that amounts to a somewhat rebellious action for a bleary-eyed
-
-television viewer. To sit through the rest of the commercial, however
-
-harrowing, might cost him only a tiny quantity of human energy
-
-until the pills come out of the drawer. The brain, being lazy, chooses
-
-the path of least resistance and Dad sits through the whole
-
-commercial.
+Interactive media changed this equation. Imagine if your father were watching that aspirin commercial back in 1955 on his old console television. Even if he suspected that he was watching a commercial designed to put him in a state of anxiety, in order to change the channel and remove himself from the externally imposed tension, he would have to move the popcorn off his lap, pull up the lever on his recliner, walk up to the television set and manually turn the dial. All that amounts to a somewhat rebellious action for a bleary-eyed television viewer. To sit through the rest of the commercial, however harrowing, might cost him only a tiny quantity of human energy until the pills come out of the drawer. The brain, being lazy, chooses the path of least resistance and Dad sits through the whole commercial.
 
 Flash forward to 1990. A kid with a remote control in his hand
 
