@@ -111,25 +111,7 @@ The real attacks on the emerging new media culture were not orchestrated by old 
 
 Borrowing a term from 1970s' social science, media business advocates declared that we were now living in an 'attention economy'. True enough, the mediaspace might be infinite but there are only so many hours in a day during which potential audience members might be viewing a programme. These units of human time became known as eyeball-hours, and pains were taken to create TV shows and web sites ‘sticky’ enough to engage those eyeballs long enough to show them an advertisement.
 
-Perhaps coincidentally, the growth of the attention economy was
-
-accompanied by an increase of concern over the attention spans of
-
-Open source democ ra cy
-
-28 De m o s
-
-young people. Channel surfing and similar behaviour became
-
-equated with a very real but variously diagnosed childhood illness
-
-called Attention Deficit Disorder. Children who refused to pay
-
-attention were (much too quickly) drugged with addictive
-
-amphetamines before the real reasons for their adaptation to the
-
-onslaught of commercial messages were even considered.
+Perhaps coincidentally, the growth of the attention economy was accompanied by an increase of concern over the attention spans of young people. Channel surfing and similar behaviour became equated with a very real but variously diagnosed childhood illness called Attention Deficit Disorder. Children who refused to pay attention were (much too quickly) drugged with addictive amphetamines before the real reasons for their adaptation to the onslaught of commercial messages were even considered.
 
 The demystification of media, enabled by the joystick and other
 
