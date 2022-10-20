@@ -113,31 +113,7 @@ Borrowing a term from 1970s' social science, media business advocates declared t
 
 Perhaps coincidentally, the growth of the attention economy was accompanied by an increase of concern over the attention spans of young people. Channel surfing and similar behaviour became equated with a very real but variously diagnosed childhood illness called Attention Deficit Disorder. Children who refused to pay attention were (much too quickly) drugged with addictive amphetamines before the real reasons for their adaptation to the onslaught of commercial messages were even considered.
 
-The demystification of media, enabled by the joystick and other
-
-early interactive technologies, was quickly reversed through the
-
-development of increasingly opaque computer interfaces. While early
-
-DOS computer users tended to understand a lot about how their
-
-computers stored information and launched programs, later
-
-operating systems such as Windows 95 put more barriers in place.
-
-Although these operating systems make computers easier to use in
-
-some ways, they prevent users from gaining access or command over
-
-its more intricate processes. Now, to install a new program, users
-
-must consult the ‘wizard’. What better metaphor do we need for the
-
-remystification of the computer? Computer literacy no longer means
-
-being able to programme a computer, but merely knowing how to use
-
-software such as Microsoft Office.
+The demystification of media, enabled by the joystick and other early interactive technologies, was quickly reversed through the development of increasingly opaque computer interfaces. While early DOS computer users tended to understand a lot about how their computers stored information and launched programs, later operating systems such as Windows 95 put more barriers in place. Although these operating systems make computers easier to use in some ways, they prevent users from gaining access or command over its more intricate processes. Now, to install a new program, users must consult the ‘wizard’. What better metaphor do we need for the remystification of the computer? Computer literacy no longer means being able to programme a computer, but merely knowing how to use software such as Microsoft Office.
 
 Finally, the do-it-yourself ethic of the internet community was
 
