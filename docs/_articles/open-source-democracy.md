@@ -43,21 +43,7 @@ We are living in a world of stories. We can’t help but use narratives to under
 
 As different people and groups competed for authority, narratives began to be used to gain advantage. Stories were no longer being used simply to predict the patterns of nature, but to describe and influence the courses of politics, economics and power. In such a world, stories compete solely on the basis of their ability to win believers; to be understood as real. When the Pharaoh or King was treated as if he were a god, his subjects were actively participating in the conceit. But he still needed to prove his potency in real ways, and at regular intervals, in order to ensure their continued participation. However, if the ruler could somehow get his followers to accept the story of his divine authority as historical fact, then he needed prove nothing. The story justified itself and was accepted as a reality.
 
-In a sense, early civilisation was really just the process through
-
-which older, weaker people used stories to keep younger, stronger
-
-people from vying for their power. By the time the young were old
-
-enough to know what was going on, they were too invested in the
-
-system, or too physically weak themselves, to risk exposing the stories
-
-as myths. More positively, these stories provided enough societal
-
-continuity for some developments that spanned generations to take
-
-root.
+In a sense, early civilisation was really just the process through which older, weaker people used stories to keep younger, stronger people from vying for their power. By the time the young were old enough to know what was going on, they were too invested in the system, or too physically weak themselves, to risk exposing the stories as myths. More positively, these stories provided enough societal continuity for some developments that spanned generations to take root.
 
 The Old Testament, for example, is basically the repeated story of
 
