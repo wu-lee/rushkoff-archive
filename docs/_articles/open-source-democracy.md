@@ -41,29 +41,7 @@ The communications revolution may not have brought with it either salvation for 
 
 We are living in a world of stories. We can’t help but use narratives to understand the events that occur around us. The unpredictability of nature, emotions, social interactions and power relationships led human beings from prehistoric times to develop narratives that described the patterns underlying the movements of these forces. Although we like to believe that primitive people actually believed the myths they created about everything, from the weather to the afterlife, a growing camp of religious historians are concluding that early religions were understood much more metaphorically than we understand religion today. As Karen Armstrong explains in _A History of God_,¹ and countless other religious historians and philosophers from Maimonides to Freud have begged us to understand, the ancients didn’t believe that the wind or rain were gods. They invented characters whose personalities reflected the properties of these elements. The characters and their stories served more as ways of remembering that it would be cold for four months before spring returned than as genuinely accepted explanations for nature's changes. The people were actively, and quite self-consciously, anthropomorphising the forces of nature.
 
-As different people and groups competed for authority, narratives
-
-began to be used to gain advantage. Stories were no longer being used
-
-simply to predict the patterns of nature, but to describe and influence
-
-the courses of politics, economics and power. In such a world, stories
-
-compete solely on the basis of their ability to win believers; to be
-
-understood as real. When the Pharaoh or King was treated as if he
-
-were a god, his subjects were actively participating in the conceit. But
-
-he still needed to prove his potency in real ways, and at regular
-
-intervals,in order to ensure their continued participation. However, if
-
-the ruler could somehow get his followers to accept the story of his
-
-divine authority as historical fact, then he needed prove nothing. The
-
-story justified itself and was accepted as a reality.
+As different people and groups competed for authority, narratives began to be used to gain advantage. Stories were no longer being used simply to predict the patterns of nature, but to describe and influence the courses of politics, economics and power. In such a world, stories compete solely on the basis of their ability to win believers; to be understood as real. When the Pharaoh or King was treated as if he were a god, his subjects were actively participating in the conceit. But he still needed to prove his potency in real ways, and at regular intervals, in order to ensure their continued participation. However, if the ruler could somehow get his followers to accept the story of his divine authority as historical fact, then he needed prove nothing. The story justified itself and was accepted as a reality.
 
 In a sense, early civilisation was really just the process through
 
