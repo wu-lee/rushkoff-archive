@@ -29,19 +29,7 @@ In short, the interactive mediaspace offers a new way of understanding civilisat
 
 As the mainstream mediaspace, particularly in the United States, becomes increasingly centralised and profit-driven, its ability to offer a multiplicity of perspectives on affairs of global importance is diminished. In America, broadcasting the Iraq war meant selling the Iraq war. Each of the media conglomerates broadcast the American regime’s carefully concocted narrative, so much so that by the time the war actually began a Knight Ridder poll found that half of Americans believed that Iraqis had participated directly as hijackers on 11 September 2001. The further embedded among coalition troops that mainstream reporters were, the further embedded in the language and priorities of the Pentagon they became. Dispatches regularly referred to the deaths of Iraqi soldiers as the ‘softening of enemy positions’, bombing strikes as ‘targets of opportunity’, and civilian deaths as the now laughable ‘collateral damage’. This was the propagandist motive for embedding reporters in the first place: when journalists’ lives are dependent on the success of the troops with whom they are travelling, their coverage becomes skewed.
 
-But this did not stop many of the journalists from creating their
-
-own weblogs, or blogs: internet diaries through which they could
-
-share their more candid responses to the bigger questions of the war.
-
-Journalists’ personal entries provided a much broader range of
-
-opinions on both the strategies and motivations of all sides in the
-
-conflict than were available, particularly to Americans, on broadcast
-
-and cable television.
+But this did not stop many of the journalists from creating their own weblogs, or blogs: internet diaries through which they could share their more candid responses to the bigger questions of the war. Journalists’ personal entries provided a much broader range of opinions on both the strategies and motivations of all sides in the conflict than were available, particularly to Americans, on broadcast and cable television.
 
 For an even wider assortment of perspectives, internet users were
 
