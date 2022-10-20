@@ -99,31 +99,9 @@ Whatever the applications envisioned for the communication technology being deve
 
 Online communities sprung up seemingly from nowhere. On the West Coast in the late 1980s one of Ken Kesey’s Merry Pranksters, Stewart Brand (now co-founder of the prestigious Global Business Network), conceived and implemented an online bulletin board called The Well (Whole Earth ’Lectronic Link). Within two years thousands of users had joined the dial-in computer conferencing system and were sharing their deepest hopes and fears with one another. Famous scientists, authors, philosophers and scores of journalists flocked to the site in order to develop their ideas collaboratively rather than alone. Meanwhile, as the internet continued to develop, online discussions in a distributed system called USENET began to proliferate. These were absolutely self-organising discussions about thousands of different topics. They themselves spawned communities of scientists, activists, doctors, and patients, among so many others, dedicated to tackling problems in collaboration across formerly prohibitive geographical and cultural divides.
 
-The backlash
+**The backlash**
 
-These new communities are perhaps the reason why the effects of the
-
-remote, joystick and mouse represented such a tremendous threat to
-
-business as usual. Studies in the mid-1990s showed that families with
-
-internet-capable computers were watching an average of nine hours
-
-less television per week. Even more frightening to those who
-
-depended on the mindless passivity of consumer culture, internet
-
-enthusiasts were sharing information, ideas and whole computer
-
-programs for free! Software known as ‘freeware’ and ‘shareware’ gave
-
-rise to a gift economy based on community and mutual self-interest.
-
-People were turning to alternative news and entertainment sources,
-
-which they didn’t have to pay for. Worse, they were watching fewer
-
-commercials. Something had to be done. And it was.
+These new communities are perhaps the reason why the effects of the remote, joystick and mouse represented such a tremendous threat to business as usual. Studies in the mid-1990s showed that families with internet-capable computers were watching an average of nine hours less television per week. Even more frightening to those who depended on the mindless passivity of consumer culture, internet enthusiasts were sharing information, ideas and whole computer programs for free! Software known as ‘freeware’ and ‘shareware’ gave rise to a gift economy based on community and mutual self-interest. People were turning to alternative news and entertainment sources, which they didn’t have to pay for. Worse, they were watching fewer commercials. Something had to be done. And it was.
 
 It is difficult to determine exactly how intentional each of the
 
