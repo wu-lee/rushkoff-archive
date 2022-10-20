@@ -25,35 +25,7 @@ The emergence of the internet as a self-organising community, its subsequent co-
 
 The very survival of democracy as a functional reality may be dependent upon our acceptance, as individuals, of adult roles in conceiving and stewarding the shape and direction of society. And we may get our best rehearsal for these roles online.
 
-In short, the interactive mediaspace offers a new way of
-
-understanding civilisation itself, and a new set of good reasons for
-
-engaging with civic reality more fully in the face of what are often
-
-perceived (or taught) to be the many risks and compromises
-
-associated with cooperative behaviour. Sadly, thanks to the
-
-proliferation of traditional top-down media and propaganda, both
-
-marketers and politicians have succeeded in their efforts to turn
-
-neighbour against neighbour, city against city, and nation against
-
-Open source democ ra cy
-
-16 De m o s
-
-nation. While such strategies sell more products, earn more votes and
-
-inspire a sense of exclusive salvation (we can’t share, participate or,
-
-heaven forbid, collaborate with people whom we’ve been taught not
-
-to trust), they imperil what is left of civil society. They threaten the
-
-last small hope for averting millions of deaths in the next set of faithjustified oil wars.
+In short, the interactive mediaspace offers a new way of understanding civilisation itself, and a new set of good reasons for engaging with civic reality more fully in the face of what are often perceived (or taught) to be the many risks and compromises associated with cooperative behaviour. Sadly, thanks to the proliferation of traditional top-down media and propaganda, both marketers and politicians have succeeded in their efforts to turn neighbour against neighbour, city against city, and nation against nation. While such strategies sell more products, earn more votes and inspire a sense of exclusive salvation (we can’t share, participate or, heaven forbid, collaborate with people whom we’ve been taught not to trust), they imperil what is left of civil society. They threaten the last small hope for averting millions of deaths in the next set of faith-justified oil wars.
 
 As the mainstream mediaspace, particularly in the United States,
 
