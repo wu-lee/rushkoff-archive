@@ -31,23 +31,7 @@ As the mainstream mediaspace, particularly in the United States, becomes increas
 
 But this did not stop many of the journalists from creating their own weblogs, or blogs: internet diaries through which they could share their more candid responses to the bigger questions of the war. Journalists’ personal entries provided a much broader range of opinions on both the strategies and motivations of all sides in the conflict than were available, particularly to Americans, on broadcast and cable television.
 
-For an even wider assortment of perspectives, internet users were
-
-free to engage directly with the so-called enemy, as in the case of a
-
-blog called Dear Raed, written by what most internet experts came to
-
-regard as a real person living in Baghdad, voicing his opposition to
-
-the war. This daily journal of high aspirations for peace and a better
-
-Int rod u ct i o n
-
-De m o s 17
-
-life in Baghdad became one of the most read sources of information
-
-and opinion about the war on the web.
+For an even wider assortment of perspectives, internet users were free to engage directly with the so-called enemy, as in the case of a blog called Dear Raed, written by what most internet experts came to regard as a real person living in Baghdad, voicing his opposition to the war. This daily journal of high aspirations for peace and a better life in Baghdad became one of the most read sources of information and opinion about the war on the web.
 
 Clearly, the success of sites like Dear Raed stems from our
 
