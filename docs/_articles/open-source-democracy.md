@@ -55,19 +55,7 @@ Exclusive access to the how of storytelling lets a storyteller monopolise the wh
 
 We don’t call the stuff on television ‘programming’ for nothing. The people making television are not programming our TV sets or their evening schedules; they are programming us. We use the dial to select which programme we are going to receive and then we submit to it. This is not so dangerous in itself; but the less understanding and control we have over exactly what is fed to us through the tube, the more vulnerable we are to the whims of our programmers.
 
-For most of us, what goes on in the television set is magic. Before
-
-the age of VCRs and camcorders it was even more so. The creation
-
-and broadcast of a television programme was a magic act. Whoever
-
-has his image in that box must be special. Back in the 1960s, Walter
-
-Cronkite used to end his newscast with the assertion: ‘and that’s the
-
-way it is.’ It was his ability to appear in the magic box that gave him
-
-the tremendous authority necessary to lay claim to the absolute truth.
+For most of us, what goes on in the television set is magic. Before the age of VCRs and camcorders it was even more so. The creation and broadcast of a television programme was a magic act. Whoever has his image in that box must be special. Back in the 1960s, Walter Cronkite used to end his newscast with the assertion: ‘and that’s the way it is.’ It was his ability to appear in the magic box that gave him the tremendous authority necessary to lay claim to the absolute truth.
 
 I have always recoiled when this rhetorical advantage is exploited
 
