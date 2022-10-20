@@ -79,21 +79,7 @@ Just as the remote control allowed a generation to deconstruct the content of te
 
 Thanks to the joystick, as well as the subsequent introduction of the VCR and camcorder, we were empowered to move the pixels ourselves. The TV was no longer magical. Its functioning had become transparent. Just as the remote control allowed viewers to deconstruct the content of storytelling, the joystick allowed the audience to demystify the technology through which these stories were being told.
 
-Finally, the computer mouse and keyboard transformed a receiveonly monitor into a portal. Packaged programming was no longer any
-
-more valuable, or valid, than the words we could type ourselves. The
-
-addition of a modem turned the computer into a broadcast facility.
-
-We were no longer dependent on the content of Rupert Murdoch or
-
-corporate TV stations, but could create and disseminate our own
-
-content. The internet revolution was a do-it-yourself revolution. We
-
-had deconstructed the content of media’s stories, demystified its
-
-modes of transmission and learned to do it all for ourselves.
+Finally, the computer mouse and keyboard transformed a receive-only monitor into a portal. Packaged programming was no longer any more valuable, or valid, than the words we could type ourselves. The addition of a modem turned the computer into a broadcast facility. We were no longer dependent on the content of Rupert Murdoch or corporate TV stations, but could create and disseminate our own content. The internet revolution was a do-it-yourself revolution. We had deconstructed the content of media’s stories, demystified its modes of transmission and learned to do it all for ourselves.
 
 These three stages of development: deconstruction of content,
 
