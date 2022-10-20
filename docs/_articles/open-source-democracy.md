@@ -71,23 +71,7 @@ In this passive and mysterious medium, when we are brought into a state of vicar
 
 Interactive media changed this equation. Imagine if your father were watching that aspirin commercial back in 1955 on his old console television. Even if he suspected that he was watching a commercial designed to put him in a state of anxiety, in order to change the channel and remove himself from the externally imposed tension, he would have to move the popcorn off his lap, pull up the lever on his recliner, walk up to the television set and manually turn the dial. All that amounts to a somewhat rebellious action for a bleary-eyed television viewer. To sit through the rest of the commercial, however harrowing, might cost him only a tiny quantity of human energy until the pills come out of the drawer. The brain, being lazy, chooses the path of least resistance and Dad sits through the whole commercial.
 
-Flash forward to 1990. A kid with a remote control in his hand
-
-makes the same mental calculation: an ounce of stress, or an
-
-infinitesimally small quantity of human effort to move his finger an
-
-eighth of an inch and he’s free! The remote control gives viewers the
-
-power to remove themse lves from the storyteller’s spell with almost
-
-no effort. Watch a kid (or observe yourself) next time he channel
-
-surfs from programme to programme. He’s not changing the channel
-
-because he’s bored, but he surfs away when he senses that he’s being
-
-put into an imposed state of tension.
+Flash forward to 1990. A kid with a remote control in his hand makes the same mental calculation: an ounce of stress, or an infinitesimally small quantity of human effort to move his finger an eighth of an inch and he’s free! The remote control gives viewers the power to remove themselves from the storyteller’s spell with almost no effort. Watch a kid (or observe yourself) next time he channel surfs from programme to programme. He’s not changing the channel because he’s bored, but he surfs away when he senses that he’s being put into an imposed state of tension.
 
 The remote control breaks down the what. It allows a viewer to
 
