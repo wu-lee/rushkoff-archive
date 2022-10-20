@@ -47,31 +47,9 @@ In a sense, early civilisation was really just the process through which older, 
 
 The Old Testament, for example, is basically the repeated story of how younger sons attempt to outwit their fathers for an inherited birthright. Of course, this is simply an allegory for the Israelites’ supplanting of the first-born civilisation, Egypt. But even those who understood the story as metaphor rather than historical fact continued to pass it on for the ethical tradition it contained: one of a people attempting to enact social justice rather than simply receive it.
 
-Storytelling: communication and media
+**Storytelling: communication and media**
 
-Since biblical times we have been living in a world where the stories
-
-we use to describe and predict our reality have been presented as
-
-truth and mistaken for fact. These narratives, and their tellers,
-
-compete for believers in two ways: through the content of the stories
-
-and through the medium or tools through which the stories are told.
-
-The content of a story might be considered the what, where the
-
-Open source democ ra cy
-
-20 De m o s
-
-technology through which the story is transmitted can be considered
-
-the how. In moments when new technologies of storytelling develop,
-
-the competitive value of the medium can be more influential than the
-
-value of the message.
+Since biblical times we have been living in a world where the stories we use to describe and predict our reality have been presented as truth and mistaken for fact. These narratives, and their tellers, compete for believers in two ways: through the content of the stories and through the medium or tools through which the stories are told. The content of a story might be considered the what, where the technology through which the story is transmitted can be considered the how. In moments when new technologies of storytelling develop, the competitive value of the medium can be more influential than the value of the message.
 
 Exclusive access to the how of storytelling lets a storyteller
 
