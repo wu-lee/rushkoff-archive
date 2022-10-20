@@ -77,17 +77,7 @@ The remote control breaks down the what. It allows a viewer to deconstruct the c
 
 Just as the remote control allowed a generation to deconstruct the content of television, the video game joystick demystified its technology. Think back to the first time you ever saw a video game. It was probably Pong, that primitive black and white depiction of a ping-pong table, with a square on either side of the screen representing the bat and a tiny white dot representing the ball. Now, remember the exhilaration you felt at playing that game for the very first time. Was it because you had always wanted an effective simulation of ping-pong? Did you celebrate because you could practise without purchasing an entire table and installing it in the basement? Of course not. You were celebrating the simple ability to move the pixels on the screen for the first time. It was a moment of revolution! The screen was no longer the exclusive turf of the television broadcasters.
 
-Thanks to the joystick, as well as the subsequent introduction of
-
-the VCR and camcorder, we were empowered to move the pixels
-
-ourselves. The TV was no longer magical. Its functioning had become
-
-transparent. Just as the remote control allowed viewers to deconstruct
-
-the content of storytelling, the joystick allowed the audience to
-
-demystify the technology through which these stories were being told.
+Thanks to the joystick, as well as the subsequent introduction of the VCR and camcorder, we were empowered to move the pixels ourselves. The TV was no longer magical. Its functioning had become transparent. Just as the remote control allowed viewers to deconstruct the content of storytelling, the joystick allowed the audience to demystify the technology through which these stories were being told.
 
 Finally, the computer mouse and keyboard transformed a receiveonly monitor into a portal. Packaged programming was no longer any
 
