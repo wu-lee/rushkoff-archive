@@ -105,19 +105,7 @@ These new communities are perhaps the reason why the effects of the remote, joys
 
 It is difficult to determine exactly how intentional each of the mainstream media's attacks were on the development of the internet and the culture it spawned. Certainly, the many executives of media conglomerates who contacted my colleagues and me for advice throughout the 1990s were both threatened by the unchecked growth of interactive culture and anxious to cash in on these new developments. They were chagrined by the flow of viewers away from television programming, but they hoped this shift could be managed and ultimately exploited. While many existing content industries, such as the music recording industry, sought to put both individual companies and entire new categories out of business (such as Napster and other peer-to-peer networks), the great majority of executives did not want to see the internet entirely shut down. It was, in fact,the US government, concerned about the spread of pornography to minors and encryption technology to rogue nations, that took more direct actions against the early internet’s new model of open collaboration.
 
-Although many of the leaders and top shareholders of global
-
-media conglomerates felt quite threatened by the rise of new media,
-
-their conscious efforts to quell the unchecked spread of interactive
-
-technology were not the primary obstacles to the internet’s natural
-
-development. A review of articles quoting the chiefs at TimeWarner,
-
-Newscorp and Bertelsman reveals an industry either underestimating
-
-or simply misunderstanding the true promise of interactive media.
+Although many of the leaders and top shareholders of global media conglomerates felt quite threatened by the rise of new media, their conscious efforts to quell the unchecked spread of interactive technology were not the primary obstacles to the internet’s natural development. A review of articles quoting the chiefs at TimeWarner, Newscorp and Bertelsman reveals an industry either underestimating or simply misunderstanding the true promise of interactive media.
 
 The real attacks on the emerging new media culture were not
 
