@@ -97,41 +97,7 @@ But their organisation model was much more complex and potentially far-reaching 
 
 Whatever the applications envisioned for the communication technology being developed, the operating principles of the finished networking solutions, as well as the style of collaboration required to create them, offered up a new cultural narrative based in collective self-determination.
 
-Online communities sprung up seemingly from nowhere. On the
-
-West Coast in the late 1980s one of Ken Kesey’s Merry Pranksters,
-
-Open source democ ra cy
-
-26 De m o s
-
-Stewart Brand (now co-founder of the prestigious Global Business
-
-Network), conceived and implemented an online bulletin board
-
-called The Well (Whole Earth ’Lectronic Link). Within two years
-
-thousands of users had joined the dial-in computer conferencing
-
-system and were sharing their deepest hopes and fears with one
-
-another. Famous scientists, authors, philosophers and scores of
-
-journalists flocked to the site in order to develop their ideas
-
-collaboratively rather than alone. Meanwhile, as the internet
-
-continued to develop, online discussions in a distributed system
-
-called USENET began to proliferate. These were absolutely selforganising discussions about thousands of different topics. They
-
-themselves spawned communities of scientists, activists, doctors, and
-
-patients, among so many others, dedicated to tackling problems in
-
-collaboration across formerly prohibitive geographical and cultural
-
-divides.
+Online communities sprung up seemingly from nowhere. On the West Coast in the late 1980s one of Ken Kesey’s Merry Pranksters, Stewart Brand (now co-founder of the prestigious Global Business Network), conceived and implemented an online bulletin board called The Well (Whole Earth ’Lectronic Link). Within two years thousands of users had joined the dial-in computer conferencing system and were sharing their deepest hopes and fears with one another. Famous scientists, authors, philosophers and scores of journalists flocked to the site in order to develop their ideas collaboratively rather than alone. Meanwhile, as the internet continued to develop, online discussions in a distributed system called USENET began to proliferate. These were absolutely self-organising discussions about thousands of different topics. They themselves spawned communities of scientists, activists, doctors, and patients, among so many others, dedicated to tackling problems in collaboration across formerly prohibitive geographical and cultural divides.
 
 The backlash
 
