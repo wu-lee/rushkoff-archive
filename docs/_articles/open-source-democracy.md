@@ -83,21 +83,9 @@ Finally, the computer mouse and keyboard transformed a receive-only monitor into
 
 These three stages of development: deconstruction of content, demystification of technology and finally do-it-yourself or participatory authorship are the three steps through which a programmed populace returns to autonomous thinking, action and collective self-determination.
 
-Open source democ ra cy
+**3. Electronic community: From birth to backlash**
 
-24 De m o s
-
-3\. Electronic community:
-
-From birth to backlash
-
-New forms of community were emerging that stressed the actual
-
-contributions of the participants, rather than whatever prepackaged
-
-content they had in common. In many cases,these contributions took
-
-the form not of ideas or text but technology itself.
+New forms of community were emerging that stressed the actual contributions of the participants, rather than whatever prepackaged content they had in common. In many cases, these contributions took the form not of ideas or text but technology itself.
 
 The early interactive mediaspace was a gift economy (see
 
