@@ -61,23 +61,7 @@ I have always recoiled when this rhetorical advantage is exploited by those who 
 
 Television programming communicates through stories and it influences us through its seemingly magical capabilities. The programmer creates a character we like and with whom we can identify. As a series of plot developments bring that character into some kind of danger, we follow him and within us a sense of tension arises.
 
-This is what Aristotle called the rising arc of dramatic action. The
-
-storyteller brings the character, and his audience,into as much danger
-
-as we can tolerate before inventing a solution, the rescue, allowing us
-
-all to breathe a big sigh of relief. Back in Aristotle’s day, this solution
-
-was called deus ex machina (God from the machine). One of the
-
-Greek gods would literally descend on a mechanism from the rafters
-
-and save the day. In an Arnold Schwarzenegger movie,the miraculous
-
-solution might take the form of a new, super-powered laser gun. In a
-
-commercial, the solution is, of course, the product being advertised.
+This is what Aristotle called the rising arc of dramatic action. The storyteller brings the character, and his audience,into as much danger as we can tolerate before inventing a solution, the rescue, allowing us all to breathe a big sigh of relief. Back in Aristotle’s day, this solution was called deus ex machina (God from the machine). One of the Greek gods would literally descend on a mechanism from the rafters and save the day. In an Arnold Schwarzenegger movie,the miraculous solution might take the form of a new, super-powered laser gun. In a commercial, the solution is, of course, the product being advertised.
 
 TV commercials have honed this storytelling technique into the
 
