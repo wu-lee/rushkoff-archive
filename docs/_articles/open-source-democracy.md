@@ -27,39 +27,7 @@ The very survival of democracy as a functional reality may be dependent upon our
 
 In short, the interactive mediaspace offers a new way of understanding civilisation itself, and a new set of good reasons for engaging with civic reality more fully in the face of what are often perceived (or taught) to be the many risks and compromises associated with cooperative behaviour. Sadly, thanks to the proliferation of traditional top-down media and propaganda, both marketers and politicians have succeeded in their efforts to turn neighbour against neighbour, city against city, and nation against nation. While such strategies sell more products, earn more votes and inspire a sense of exclusive salvation (we can’t share, participate or, heaven forbid, collaborate with people whom we’ve been taught not to trust), they imperil what is left of civil society. They threaten the last small hope for averting millions of deaths in the next set of faith-justified oil wars.
 
-As the mainstream mediaspace, particularly in the United States,
-
-becomes increasingly centralised and profit-driven, its ability to offer
-
-a multiplicity of perspectives on affairs of global importance is
-
-diminished. In America, broadcasting the Iraq war meant selling the
-
-Iraq war. Each of the media conglomerates broadcast the American
-
-regime’s carefully concocted narrative, so much so that by the time
-
-the war actually began a Knight Ridder poll found that half of
-
-Americans believed that Iraqis had participated directly as hijackers
-
-on 11 September 2001. The further embedded among coalition
-
-troops that mainstream reporters were, the further embedded in the
-
-language and priorities of the Pentagon they became. Dispatches
-
-regularly referred to the deaths of Iraqi soldiers as the ‘softening of
-
-enemy positions’, bombing strikes as ‘targets of opportunity’, and
-
-civilian deaths as the now laughable ‘collateral damage’. This was the
-
-propagandist motive for embedding reporters in the first place: when
-
-journalists’ lives are dependent on the success of the troops with
-
-whom they are travelling, their coverage becomes skewed.
+As the mainstream mediaspace, particularly in the United States, becomes increasingly centralised and profit-driven, its ability to offer a multiplicity of perspectives on affairs of global importance is diminished. In America, broadcasting the Iraq war meant selling the Iraq war. Each of the media conglomerates broadcast the American regime’s carefully concocted narrative, so much so that by the time the war actually began a Knight Ridder poll found that half of Americans believed that Iraqis had participated directly as hijackers on 11 September 2001. The further embedded among coalition troops that mainstream reporters were, the further embedded in the language and priorities of the Pentagon they became. Dispatches regularly referred to the deaths of Iraqi soldiers as the ‘softening of enemy positions’, bombing strikes as ‘targets of opportunity’, and civilian deaths as the now laughable ‘collateral damage’. This was the propagandist motive for embedding reporters in the first place: when journalists’ lives are dependent on the success of the troops with whom they are travelling, their coverage becomes skewed.
 
 But this did not stop many of the journalists from creating their
 
