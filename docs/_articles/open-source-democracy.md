@@ -93,33 +93,7 @@ Invariably, the software applications developed by this community stressed commu
 
 People became the content, a shift that had implications not just for the online community but for society as a whole. The notion of a group of people working together for a shared goal rather than financial self-interest was quite startling to Westerners whose lives had been organised around the single purpose of making money and achieving personal security. The internet was considered sexy simply because young people took an interest in it. People who developed internet applications in this way were called cyberpunks or hackers, and their antics were often equated with those of Wild West outlaws, hippies, Situationists and even communists.
 
-But their organisation model was much more complex and
-
-potentially far-reaching than those of their countercultural
-
-predecessors. Many of these early technology and media pioneers
-
-would not have considered themselves to be part of a counterculture
-
-at all. Indeed, many new models for networked behaviour and
-
-collaborative engagement were developed at research facilities
-
-dedicated to the advancement of military technology. A US
-
-government policy requiring all firms working under Defense
-
-Department contracts to test their employees’ blood and urine for
-
-illegal drug use led to a certain disconnection between most Silicon
-
-Valley firms and the majority of the fledgling computer
-
-counterculture. (In fact, of all the Silicon Valley firms, only Sun
-
-computing quite conspicuously refused to do drug testing on its
-
-employees.)
+But their organisation model was much more complex and potentially far-reaching than those of their countercultural predecessors. Many of these early technology and media pioneers would not have considered themselves to be part of a counterculture at all. Indeed, many new models for networked behaviour and collaborative engagement were developed at research facilities dedicated to the advancement of military technology. A US government policy requiring all firms working under Defense Department contracts to test their employees’ blood and urine for illegal drug use led to a certain disconnection between most Silicon Valley firms and the majority of the fledgling computer counterculture. (In fact, of all the Silicon Valley firms, only Sun computing quite conspicuously refused to do drug testing on its employees.)
 
 Whatever the applications envisioned for the communication
 
