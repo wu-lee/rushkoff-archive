@@ -73,19 +73,7 @@ Interactive media changed this equation. Imagine if your father were watching th
 
 Flash forward to 1990. A kid with a remote control in his hand makes the same mental calculation: an ounce of stress, or an infinitesimally small quantity of human effort to move his finger an eighth of an inch and he’s free! The remote control gives viewers the power to remove themselves from the storyteller’s spell with almost no effort. Watch a kid (or observe yourself) next time he channel surfs from programme to programme. He’s not changing the channel because he’s bored, but he surfs away when he senses that he’s being put into an imposed state of tension.
 
-The remote control breaks down the what. It allows a viewer to
-
-deconstruct the content of television media, and avoid falling under
-
-the programmer’s spell. If a viewer does get back around the dial to
-
-watch the end of a programme, he no longer has the same captivated
-
-orientation. Kids with remotes aren’t watching television, they are
-
-watching the television (the physical machine) playing ‘television’,
-
-putting it through its paces.
+The remote control breaks down the what. It allows a viewer to deconstruct the content of television media, and avoid falling under the programmer’s spell. If a viewer does get back around the dial to watch the end of a programme, he no longer has the same captivated orientation. Kids with remotes aren’t watching television, they are watching the television (the physical machine) playing ‘television’, putting it through its paces.
 
 Just as the remote control allowed a generation to deconstruct the
 
