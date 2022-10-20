@@ -89,23 +89,7 @@ New forms of community were emerging that stressed the actual contributions of t
 
 The early interactive mediaspace was a gift economy (see Barbrook²). People developed and shared new technologies with no expectation of financial return. It was gratifying enough to see one's own email program or bulletin board software spread to thousands of other users. The technologies in use on the internet today, from browsers and POP email programs to streaming video, were all developed by this shareware community of software engineers. The University of Illinois at Urbana-Champaign, where Mosaic, the precursor to Netscape, was first developed was a hotbed of new software development. So were Cornell and MIT, as well as hundreds of more loosely organised hacker groups around the world.
 
-Invariably, the software applications developed by this community
-
-stressed communication over mere data retrieval. They were
-
-egalitarian in design. IRC chats and USENET groups, for example,
-
-present every contributor’s postings in the same universal ASCII text.
-
-De m o s 25
-
-The internet was a text-only medium and its user was as likely to be
-
-typing into the keyboard as reading what was on screen. It is as if the
-
-internet’s early developers released that this was not a medium for
-
-broadcasting by a few but for the expression of the many.
+Invariably, the software applications developed by this community stressed communication over mere data retrieval. They were egalitarian in design. IRC chats and USENET groups, for example, present every contributor’s postings in the same universal ASCII text. The internet was a text-only medium and its user was as likely to be typing into the keyboard as reading what was on screen. It is as if the internet’s early developers released that this was not a medium for broadcasting by a few but for the expression of the many.
 
 People became the content, a shift that had implications not just
 
