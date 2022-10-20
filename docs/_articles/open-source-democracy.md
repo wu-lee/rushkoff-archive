@@ -103,41 +103,7 @@ Online communities sprung up seemingly from nowhere. On the West Coast in the la
 
 These new communities are perhaps the reason why the effects of the remote, joystick and mouse represented such a tremendous threat to business as usual. Studies in the mid-1990s showed that families with internet-capable computers were watching an average of nine hours less television per week. Even more frightening to those who depended on the mindless passivity of consumer culture, internet enthusiasts were sharing information, ideas and whole computer programs for free! Software known as ‘freeware’ and ‘shareware’ gave rise to a gift economy based on community and mutual self-interest. People were turning to alternative news and entertainment sources, which they didn’t have to pay for. Worse, they were watching fewer commercials. Something had to be done. And it was.
 
-It is difficult to determine exactly how intentional each of the
-
-mainstream media’s attacks were on the development of the internet
-
-and the culture it spawned. Certainly, the many executives of media
-
-conglomerates who contacted my colleagues and me for advice
-
-throughout the 1990s were both threatened by the unchecked growth
-
-of interactive culture and anxious to cash in on these new
-
-El e ct ronic co m m u n i ty
-
-De m o s 27
-
-developments. They were chagrined by the flow of viewers away from
-
-television programming, but they hoped this shift could be managed
-
-and ultimately exploited. While many existing content industries,
-
-such as the music recording industry, sought to put both individual
-
-companies and entire new categories out of business (such as Napster
-
-and other peer-to-peer networks), the great majority of executives did
-
-not want to see the internet entirely shut down. It was, in fact,the US
-
-government, concerned about the spread of pornography to minors
-
-and encryption technology to rogue nations, that took more direct
-
-actions against the early internet’s new model of open collaboration.
+It is difficult to determine exactly how intentional each of the mainstream media's attacks were on the development of the internet and the culture it spawned. Certainly, the many executives of media conglomerates who contacted my colleagues and me for advice throughout the 1990s were both threatened by the unchecked growth of interactive culture and anxious to cash in on these new developments. They were chagrined by the flow of viewers away from television programming, but they hoped this shift could be managed and ultimately exploited. While many existing content industries, such as the music recording industry, sought to put both individual companies and entire new categories out of business (such as Napster and other peer-to-peer networks), the great majority of executives did not want to see the internet entirely shut down. It was, in fact,the US government, concerned about the spread of pornography to minors and encryption technology to rogue nations, that took more direct actions against the early internet’s new model of open collaboration.
 
 Although many of the leaders and top shareholders of global
 
