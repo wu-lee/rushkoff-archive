@@ -37,53 +37,9 @@ Clearly, the success of sites like Dear Raed stems from our increasingly complex
 
 The communications revolution may not have brought with it either salvation for the world’s stock exchanges or the technological infrastructure for a new global resource distribution system. Though one possible direction for the implementation of new media technology may be exhausted, its other myriad potentials beckon us once again. While it may not provide us with a template for sure-fire business and marketing solutions, the rise of interactive media does provide us with the beginnings of new metaphors for cooperation, new faith in the power of networked activity and new evidence of our ability to participate actively in the authorship of our collective destiny.
 
-2\. From Moses to modems:
+**2. From Moses to modems: Demystifying the storytelling and taking control**
 
-Demystifying the
-
-storytelling and taking
-
-control
-
-We are living in a world of stories. We can’t help but use narratives to
-
-understand the events that occur around us. The unpredictability of
-
-nature, emotions, social interactions and power relationships led
-
-human beings from prehistoric times to develop narratives that
-
-described the patterns underlying the movements of these forces.
-
-Although we like to believe that primitive people actually believed the
-
-myths they created about everything, from the weather to the
-
-afterlife, a growing camp of religious historians are concluding that
-
-early religions were understood much more metaphorically than we
-
-understand religion today. As Karen Armstrong explains in A History
-
-of God,
-
-1 and countless other religious historians and philosophers
-
-from Maimonides to Freud have begged us to understand, the
-
-ancients didn’t believe that the wind or rain were gods. They invented
-
-characters whose personalities reflected the properties of these
-
-elements. The characters and their stories served more as ways of
-
-remembering that it would be cold for four months before spring
-
-returned than as genuinely accepted explanations for nature’s
-
-changes. The people were actively, and quite self-consciously, anthropomorphising the forces of nature.
-
-De m o s 19
+We are living in a world of stories. We can’t help but use narratives to understand the events that occur around us. The unpredictability of nature, emotions, social interactions and power relationships led human beings from prehistoric times to develop narratives that described the patterns underlying the movements of these forces. Although we like to believe that primitive people actually believed the myths they created about everything, from the weather to the afterlife, a growing camp of religious historians are concluding that early religions were understood much more metaphorically than we understand religion today. As Karen Armstrong explains in _A History of God_,¹ and countless other religious historians and philosophers from Maimonides to Freud have begged us to understand, the ancients didn’t believe that the wind or rain were gods. They invented characters whose personalities reflected the properties of these elements. The characters and their stories served more as ways of remembering that it would be cold for four months before spring returned than as genuinely accepted explanations for nature's changes. The people were actively, and quite self-consciously, anthropomorphising the forces of nature.
 
 As different people and groups competed for authority, narratives
 
