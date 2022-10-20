@@ -51,21 +51,7 @@ The Old Testament, for example, is basically the repeated story of how younger s
 
 Since biblical times we have been living in a world where the stories we use to describe and predict our reality have been presented as truth and mistaken for fact. These narratives, and their tellers, compete for believers in two ways: through the content of the stories and through the medium or tools through which the stories are told. The content of a story might be considered the what, where the technology through which the story is transmitted can be considered the how. In moments when new technologies of storytelling develop, the competitive value of the medium can be more influential than the value of the message.
 
-Exclusive access to the how of storytelling lets a storyteller
-
-monopolise the what. In ancient times, people were captivated by the
-
-epic storyteller as much for his ability to remember thousands of lines
-
-of text as for the actual content of the Iliad or Odyssey. Likewise, a
-
-television programme or commercial holds us in its spell as much
-
-through the magic of broadcasting technology as its script. Whoever
-
-has the power to get inside that magic box has the power to write the
-
-story we end up believing.
+Exclusive access to the how of storytelling lets a storyteller monopolise the what. In ancient times, people were captivated by the epic storyteller as much for his ability to remember thousands of lines of text as for the actual content of the _Iliad_ or _Odyssey_. Likewise, a television programme or commercial holds us in its spell as much through the magic of broadcasting technology as its script. Whoever has the power to get inside that magic box has the power to write the story we end up believing.
 
 We don’t call the stuff on television ‘programming’ for nothing.
 
