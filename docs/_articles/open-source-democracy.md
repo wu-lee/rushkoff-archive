@@ -95,15 +95,7 @@ People became the content, a shift that had implications not just for the online
 
 But their organisation model was much more complex and potentially far-reaching than those of their countercultural predecessors. Many of these early technology and media pioneers would not have considered themselves to be part of a counterculture at all. Indeed, many new models for networked behaviour and collaborative engagement were developed at research facilities dedicated to the advancement of military technology. A US government policy requiring all firms working under Defense Department contracts to test their employees’ blood and urine for illegal drug use led to a certain disconnection between most Silicon Valley firms and the majority of the fledgling computer counterculture. (In fact, of all the Silicon Valley firms, only Sun computing quite conspicuously refused to do drug testing on its employees.)
 
-Whatever the applications envisioned for the communication
-
-technology being developed, the operating principles of the finished
-
-networking solutions, as well as the style of collaboration required to
-
-create them, offered up a new cultural narrative based in collective
-
-self-determination.
+Whatever the applications envisioned for the communication technology being developed, the operating principles of the finished networking solutions, as well as the style of collaboration required to create them, offered up a new cultural narrative based in collective self-determination.
 
 Online communities sprung up seemingly from nowhere. On the
 
