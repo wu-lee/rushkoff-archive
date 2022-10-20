@@ -75,37 +75,7 @@ Flash forward to 1990. A kid with a remote control in his hand makes the same me
 
 The remote control breaks down the what. It allows a viewer to deconstruct the content of television media, and avoid falling under the programmer’s spell. If a viewer does get back around the dial to watch the end of a programme, he no longer has the same captivated orientation. Kids with remotes aren’t watching television, they are watching the television (the physical machine) playing ‘television’, putting it through its paces.
 
-Just as the remote control allowed a generation to deconstruct the
-
-content of television, the video game joystick demystified its
-
-technology. Think back to the first time you ever saw a video game. It
-
-was probably Pong, that primitive black and white depiction of a
-
-From Moses to mod e m s
-
-De m o s 23
-
-ping-pong table, with a square on either side of the screen
-
-representing the bat and a tiny white dot representing the ball. Now,
-
-remember the exhilaration you felt at playing that game for the very
-
-first time. Was it because you had always wanted an effective
-
-simulation of ping-pong? Did you celebrate because you could
-
-practise without purchasing an entire table and installing it in the
-
-basement? Of course not. You were celebrating the simple ability to
-
-move the pixels on the screen for the first time. It was a moment of
-
-revolution! The screen was no longer the exclusive turf of the
-
-television broadcasters.
+Just as the remote control allowed a generation to deconstruct the content of television, the video game joystick demystified its technology. Think back to the first time you ever saw a video game. It was probably Pong, that primitive black and white depiction of a ping-pong table, with a square on either side of the screen representing the bat and a tiny white dot representing the ball. Now, remember the exhilaration you felt at playing that game for the very first time. Was it because you had always wanted an effective simulation of ping-pong? Did you celebrate because you could practise without purchasing an entire table and installing it in the basement? Of course not. You were celebrating the simple ability to move the pixels on the screen for the first time. It was a moment of revolution! The screen was no longer the exclusive turf of the television broadcasters.
 
 Thanks to the joystick, as well as the subsequent introduction of
 
