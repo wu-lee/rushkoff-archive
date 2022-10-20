@@ -87,27 +87,7 @@ These three stages of development: deconstruction of content, demystification of
 
 New forms of community were emerging that stressed the actual contributions of the participants, rather than whatever prepackaged content they had in common. In many cases, these contributions took the form not of ideas or text but technology itself.
 
-The early interactive mediaspace was a gift economy (see
-
-Barbrook2). People developed and shared new technologies with no
-
-expectation of financial return. It was gratifying enough to see one’s
-
-own email program or bulletin board software spread to thousands of
-
-other users. The technologies in use on the internet today, from
-
-browsers and POP email programs to streaming video, were all
-
-developed by this shareware community of software engineers. The
-
-University of Illinois at Urbana-Champaign, where Mosaic, the
-
-precursor to Netscape, was first developed was a hotbed of new
-
-software development. So were Cornell and MIT, as well as hundreds
-
-of more loosely organised hacker groups around the world.
+The early interactive mediaspace was a gift economy (see Barbrook²). People developed and shared new technologies with no expectation of financial return. It was gratifying enough to see one's own email program or bulletin board software spread to thousands of other users. The technologies in use on the internet today, from browsers and POP email programs to streaming video, were all developed by this shareware community of software engineers. The University of Illinois at Urbana-Champaign, where Mosaic, the precursor to Netscape, was first developed was a hotbed of new software development. So were Cornell and MIT, as well as hundreds of more loosely organised hacker groups around the world.
 
 Invariably, the software applications developed by this community
 
