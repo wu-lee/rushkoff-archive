@@ -53,19 +53,7 @@ Since biblical times we have been living in a world where the stories we use to 
 
 Exclusive access to the how of storytelling lets a storyteller monopolise the what. In ancient times, people were captivated by the epic storyteller as much for his ability to remember thousands of lines of text as for the actual content of the _Iliad_ or _Odyssey_. Likewise, a television programme or commercial holds us in its spell as much through the magic of broadcasting technology as its script. Whoever has the power to get inside that magic box has the power to write the story we end up believing.
 
-We don’t call the stuff on television ‘programming’ for nothing.
-
-The people making television are not programming our TV sets or
-
-their evening schedules; they are programming us. We use the dial to
-
-select which programme we are going to receive and then we submit
-
-to it. This is not so dangerous in itself; but the less understanding and
-
-control we have over exactly what is fed to us through the tube, the
-
-more vulnerable we are to the whims of our programmers.
+We don’t call the stuff on television ‘programming’ for nothing. The people making television are not programming our TV sets or their evening schedules; they are programming us. We use the dial to select which programme we are going to receive and then we submit to it. This is not so dangerous in itself; but the less understanding and control we have over exactly what is fed to us through the tube, the more vulnerable we are to the whims of our programmers.
 
 For most of us, what goes on in the television set is magic. Before
 
