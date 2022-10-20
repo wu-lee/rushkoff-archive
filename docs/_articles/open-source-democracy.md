@@ -59,17 +59,7 @@ For most of us, what goes on in the television set is magic. Before the age of V
 
 I have always recoiled when this rhetorical advantage is exploited by those who have the power to monopolise a medium. Consider, for example, a scene in the third Star Wars movie, _Return of the Jedi_. Luke and Hans Solo have landed on an alien moon and are taken prisoner by a tribe of little furry creatures called Ewoks. In an effort to win their liberation, Luke’s two robots tell the Ewoks the story of their heroes’ struggle against the dark forces of the Empire. C3PO, the golden android, relates the tale while little R2D2 projects holographic images of battling spaceships. The Ewoks are dazzled by R2’s special effects and engrossed in C3PO’s tale: the how and the what. They are so moved by the story that they not only release their prisoners but fight a violent war on their behalf! What if the Empire’s villainous protector, Darth Vader, had arrived on the alien moon first and told his side of the story, complete with his own special effects?
 
-Television programming communicates through stories and it
-
-influences us through its seemingly magical capabilities. The
-
-programmer creates a character we like and with whom we can
-
-identify. As a series of plot developments bring that character into
-
-some kind of danger, we follow him and within us a sense of tension
-
-arises.
+Television programming communicates through stories and it influences us through its seemingly magical capabilities. The programmer creates a character we like and with whom we can identify. As a series of plot developments bring that character into some kind of danger, we follow him and within us a sense of tension arises.
 
 This is what Aristotle called the rising arc of dramatic action. The
 
