@@ -35,31 +35,7 @@ For an even wider assortment of perspectives, internet users were free to engage
 
 Clearly, the success of sites like Dear Raed stems from our increasingly complex society’s need for a multiplicity of points of view on our most pressing issues, particularly when confronted by a mainstream mediaspace that appears to be converging on single, corporate and government-approved agenda. These alternative information sources are being given more attention and credence than they might actually deserve, but this is only because they are the only ready source of oppositional, or even independent thinking available. Those who choose to compose and disseminate alternative value systems may be working against the current and increasingly concretised mythologies of market, church and state, but they ultimately hold the keys to the rebirth of all three institutions in an entirely new context.
 
-The communications revolution may not have brought with it
-
-either salvation for the world’s stock exchanges or the technological
-
-infrastructure for a new global resource distribution system. Though
-
-one possible direction for the implementation of new media
-
-technology may be exhausted, its other myriad potentials beckon us
-
-once again. While it may not provide us with a template for sure-fire
-
-business and marketing solutions, the rise of interactive media does
-
-provide us with the beginnings of new metaphors for cooperation,
-
-new faith in the power of networked activity and new evidence of our
-
-ability to participate actively in the authorship of our collective
-
-destiny.
-
-Open source democ ra cy
-
-18 De m o s
+The communications revolution may not have brought with it either salvation for the world’s stock exchanges or the technological infrastructure for a new global resource distribution system. Though one possible direction for the implementation of new media technology may be exhausted, its other myriad potentials beckon us once again. While it may not provide us with a template for sure-fire business and marketing solutions, the rise of interactive media does provide us with the beginnings of new metaphors for cooperation, new faith in the power of networked activity and new evidence of our ability to participate actively in the authorship of our collective destiny.
 
 2\. From Moses to modems:
 
