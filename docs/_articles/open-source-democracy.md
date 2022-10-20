@@ -57,39 +57,7 @@ We don’t call the stuff on television ‘programming’ for nothing. The peopl
 
 For most of us, what goes on in the television set is magic. Before the age of VCRs and camcorders it was even more so. The creation and broadcast of a television programme was a magic act. Whoever has his image in that box must be special. Back in the 1960s, Walter Cronkite used to end his newscast with the assertion: ‘and that’s the way it is.’ It was his ability to appear in the magic box that gave him the tremendous authority necessary to lay claim to the absolute truth.
 
-I have always recoiled when this rhetorical advantage is exploited
-
-by those who have the power to monopolise a medium. Consider,
-
-for example, a scene in the third Star Wars movie, Return of the
-
-Jedi. Luke and Hans Solo have landed on an alien moon and are taken
-
-prisoner by a tribe of little furry creatures called Ewoks. In an effort
-
-to win their liberation, Luke’s two robots tell the Ewoks the story
-
-of their heroes’ struggle against the dark forces of the Empire. C3PO,
-
-the golden android, relates the tale while little R2D2 projects
-
-holographic images of battling spaceships. The Ewoks are dazzled
-
-From Moses to mod e m s
-
-De m o s 21
-
-by R2’s special effects and engrossed in C3PO’s tale: the how and
-
-the what. They are so moved by the story that they not only release
-
-their prisoners but fight a violent war on their behalf! What if the
-
-Empire’s villainous protector, Darth Vader, had arrived on the alien
-
-moon first and told his side of the story, complete with his own
-
-special effects?
+I have always recoiled when this rhetorical advantage is exploited by those who have the power to monopolise a medium. Consider, for example, a scene in the third Star Wars movie, _Return of the Jedi_. Luke and Hans Solo have landed on an alien moon and are taken prisoner by a tribe of little furry creatures called Ewoks. In an effort to win their liberation, Luke’s two robots tell the Ewoks the story of their heroes’ struggle against the dark forces of the Empire. C3PO, the golden android, relates the tale while little R2D2 projects holographic images of battling spaceships. The Ewoks are dazzled by R2’s special effects and engrossed in C3PO’s tale: the how and the what. They are so moved by the story that they not only release their prisoners but fight a violent war on their behalf! What if the Empire’s villainous protector, Darth Vader, had arrived on the alien moon first and told his side of the story, complete with his own special effects?
 
 Television programming communicates through stories and it
 
