@@ -45,19 +45,7 @@ As different people and groups competed for authority, narratives began to be us
 
 In a sense, early civilisation was really just the process through which older, weaker people used stories to keep younger, stronger people from vying for their power. By the time the young were old enough to know what was going on, they were too invested in the system, or too physically weak themselves, to risk exposing the stories as myths. More positively, these stories provided enough societal continuity for some developments that spanned generations to take root.
 
-The Old Testament, for example, is basically the repeated story of
-
-how younger sons attempt to outwit their fathers for an inherited
-
-birthright. Of course, this is simply an allegory for the Israelites’
-
-supplanting of the first-born civilisation, Egypt. But even those who
-
-understood the story as metaphor rather than historical fact
-
-continued to pass it on for the ethical tradition it contained: one of a
-
-people attempting to enact social justice rather than simply receive it.
+The Old Testament, for example, is basically the repeated story of how younger sons attempt to outwit their fathers for an inherited birthright. Of course, this is simply an allegory for the Israelites’ supplanting of the first-born civilisation, Egypt. But even those who understood the story as metaphor rather than historical fact continued to pass it on for the ethical tradition it contained: one of a people attempting to enact social justice rather than simply receive it.
 
 Storytelling: communication and media
 
