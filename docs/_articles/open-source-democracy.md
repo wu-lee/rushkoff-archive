@@ -109,21 +109,7 @@ Although many of the leaders and top shareholders of global media conglomerates 
 
 The real attacks on the emerging new media culture were not orchestrated by old men from high up in glass office towers but arose almost as systemic responses from an old media culture responding to the birth of its successor. It was both through the specific, if misguided, actions of some media executives, as well as the much more unilateral response of an entire media culture responding to a threat to the status quo, that mainstream media began to reverse the effects of the remote, the joystick and the mouse.
 
-Borrowing a term from 1970s’ social science, media business
-
-advocates declared that we were now living in an ‘attention economy’.
-
-True enough, the mediaspace might be infinite but there are only so
-
-many hours in a day during which potential audience members might
-
-be viewing a programme. These units of human time became known
-
-as eyeball-hours, and pains were taken to create TV shows and web
-
-sites ‘sticky’ enough to engage those eyeballs long enough to show
-
-them an advertisement.
+Borrowing a term from 1970s' social science, media business advocates declared that we were now living in an 'attention economy'. True enough, the mediaspace might be infinite but there are only so many hours in a day during which potential audience members might be viewing a programme. These units of human time became known as eyeball-hours, and pains were taken to create TV shows and web sites ‘sticky’ enough to engage those eyeballs long enough to show them an advertisement.
 
 Perhaps coincidentally, the growth of the attention economy was
 
