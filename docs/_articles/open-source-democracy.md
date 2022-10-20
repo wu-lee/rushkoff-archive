@@ -65,11 +65,7 @@ This is what Aristotle called the rising arc of dramatic action. The storyteller
 
 TV commercials have honed this storytelling technique into the perfect 30-second package. A man is at work when his wife calls to tell him she’s crashed the car. The boss comes in to tell him he just lost a big account,his bank statement shows he’s in the red and his secretary quits. Now his head hurts. We’ve followed the poor guy all the way up Aristotle’s arc of rising tension. We can feel the character’s pain. What can he do? He opens the top desk drawer and finds his bottle of Brand A Pain Reliever and swallows the pills while an awe-inspiring hi-tech animation demonstrates the way the pill passes through his body. He, and we, are released from our torture.
 
-In this passive and mysterious medium, when we are brought into
-
-a state of vicarious tension, we are more likely to swallow whichever
-
-pill and accept whatever solution the storyteller offers.
+In this passive and mysterious medium, when we are brought into a state of vicarious tension, we are more likely to swallow whichever pill and accept whatever solution the storyteller offers.
 
 Open source democ ra cy
 
