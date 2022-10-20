@@ -33,31 +33,7 @@ But this did not stop many of the journalists from creating their own weblogs, o
 
 For an even wider assortment of perspectives, internet users were free to engage directly with the so-called enemy, as in the case of a blog called Dear Raed, written by what most internet experts came to regard as a real person living in Baghdad, voicing his opposition to the war. This daily journal of high aspirations for peace and a better life in Baghdad became one of the most read sources of information and opinion about the war on the web.
 
-Clearly, the success of sites like Dear Raed stems from our
-
-increasingly complex society’s need for a multiplicity of points of
-
-view on our most pressing issues, particularly when confronted by a
-
-mainstream mediaspace that appears to be converging on single,
-
-corporate and government-approved agenda. These alternative
-
-information sources are being given more attention and credence
-
-than they might actually deserve, but this is only because they are the
-
-only ready source of oppositional, or even independent thinking
-
-available. Those who choose to compose and disseminate alternative
-
-value systems may be working against the current and increasingly
-
-concretised mythologies of market, church and state, but they
-
-ultimately hold the keys to the rebirth of all three institutions in an
-
-entirely new context.
+Clearly, the success of sites like Dear Raed stems from our increasingly complex society’s need for a multiplicity of points of view on our most pressing issues, particularly when confronted by a mainstream mediaspace that appears to be converging on single, corporate and government-approved agenda. These alternative information sources are being given more attention and credence than they might actually deserve, but this is only because they are the only ready source of oppositional, or even independent thinking available. Those who choose to compose and disseminate alternative value systems may be working against the current and increasingly concretised mythologies of market, church and state, but they ultimately hold the keys to the rebirth of all three institutions in an entirely new context.
 
 The communications revolution may not have brought with it
 
