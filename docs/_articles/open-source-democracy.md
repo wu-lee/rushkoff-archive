@@ -91,25 +91,7 @@ The early interactive mediaspace was a gift economy (see Barbrook²). People dev
 
 Invariably, the software applications developed by this community stressed communication over mere data retrieval. They were egalitarian in design. IRC chats and USENET groups, for example, present every contributor’s postings in the same universal ASCII text. The internet was a text-only medium and its user was as likely to be typing into the keyboard as reading what was on screen. It is as if the internet’s early developers released that this was not a medium for broadcasting by a few but for the expression of the many.
 
-People became the content, a shift that had implications not just
-
-for the online community but for society as a whole. The notion of a
-
-group of people working together for a shared goal rather than
-
-financial self-interest was quite startling to Westerners whose lives
-
-had been organised around the single purpose of making money and
-
-achieving personal security. The internet was considered sexy simply
-
-because young people took an interest in it. People who developed
-
-internet applications in this way were called cyberpunks or hackers,
-
-and their antics were often equated with those of Wild West outlaws,
-
-hippies, Situationists and even communists.
+People became the content, a shift that had implications not just for the online community but for society as a whole. The notion of a group of people working together for a shared goal rather than financial self-interest was quite startling to Westerners whose lives had been organised around the single purpose of making money and achieving personal security. The internet was considered sexy simply because young people took an interest in it. People who developed internet applications in this way were called cyberpunks or hackers, and their antics were often equated with those of Wild West outlaws, hippies, Situationists and even communists.
 
 But their organisation model was much more complex and
 
