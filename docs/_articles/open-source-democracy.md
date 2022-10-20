@@ -81,15 +81,7 @@ Thanks to the joystick, as well as the subsequent introduction of the VCR and ca
 
 Finally, the computer mouse and keyboard transformed a receive-only monitor into a portal. Packaged programming was no longer any more valuable, or valid, than the words we could type ourselves. The addition of a modem turned the computer into a broadcast facility. We were no longer dependent on the content of Rupert Murdoch or corporate TV stations, but could create and disseminate our own content. The internet revolution was a do-it-yourself revolution. We had deconstructed the content of media’s stories, demystified its modes of transmission and learned to do it all for ourselves.
 
-These three stages of development: deconstruction of content,
-
-demystification of technology and finally do-it-yourself or
-
-participatory authorship are the three steps through which a
-
-programmed populace returns to autonomous thinking, action and
-
-collective self-determination.
+These three stages of development: deconstruction of content, demystification of technology and finally do-it-yourself or participatory authorship are the three steps through which a programmed populace returns to autonomous thinking, action and collective self-determination.
 
 Open source democ ra cy
 
