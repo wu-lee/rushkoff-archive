@@ -171,39 +171,7 @@ As game programmers instead of game players, the creators of testimony rather th
 
 Consider the experience of a cartographer attempting to hold a conversation with a surfer. They both can claim intimate knowledge of the ocean, but from vastly different perspectives. While the mapmaker understands the sea as a series of longitude and latitude lines, the surfer sees only a motion of waves that are not even depicted on the cartographer’s map. If the cartographer were to call out from the beach to the surfer and ask him whether he is above or below the 43rd parallel, the surfer would be unable to respond. The mapmaker would have no choice but to conclude that the surfer was hopelessly lost. But if any of us were asked to choose who we would rather rely on to get us back to shore, most of us would pick the surfer. He experiences the water as a system of moving waves and stands a much better chance of navigating a safe course through them. Each surfer at each location and each moment of the day experiences an entirely different ocean. The cartographer experiences the same map no matter what. He has a more permanent model, but his liability is his propensity to mistake his map for the actual territory.
 
-The difference between the cartographer’s and the surfer’s
-
-experience of the ocean is akin to pre- and post-renaissance relationships to story. The first relies on the most linear and static
-
-interpretations of the story in order to create a static and
-
-authoritative template through which to glean its meaning. The latter
-
-relies on the living, moment-to-moment perceptions of its many
-
-active interpreters to develop a way of relating to its many changing
-
-patterns. Ultimately, in a cognitive process not unlike that employed
-
-by a chaos mathematician, the surfer learns to recognise the order
-
-underlying what at first appears to be random turbulence. Events,
-
-images and arrangements that might otherwise have appeared to be
-
-unrelated are now, thanks to a world view that acknowledges
-
-discontinuity, revealed to be connected. To those unfamiliar with this
-
-style of pattern recognition, the connections they draw may appear to
-
-be as unrelated as a fortune-teller’s tea leaves or Tarot cards are from
-
-the future events she predicts. Nonetheless, the surfer understands
-
-each moment and event in his world as a possible reflection on any
-
-other aspect or moment in the entire system.
+The difference between the cartographer’s and the surfer’s experience of the ocean is akin to pre- and post-renaissance relationships to story. The first relies on the most linear and static interpretations of the story in order to create a static and authoritative template through which to glean its meaning. The latter relies on the living, moment-to-moment perceptions of its many active interpreters to develop a way of relating to its many changing patterns. Ultimately, in a cognitive process not unlike that employed by a chaos mathematician, the surfer learns to recognise the order underlying what at first appears to be random turbulence. Events, images and arrangements that might otherwise have appeared to be unrelated are now, thanks to a world view that acknowledges discontinuity, revealed to be connected. To those unfamiliar with this style of pattern recognition, the connections they draw may appear to be as unrelated as a fortune-teller’s tea leaves or Tarot cards are from the future events she predicts. Nonetheless, the surfer understands each moment and event in his world as a possible reflection on any other aspect or moment in the entire system.
 
 What gets reborn
 
