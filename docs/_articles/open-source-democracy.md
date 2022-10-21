@@ -187,17 +187,9 @@ Of course, most of these mystical scribblings end up being over-simplified plati
 
 This is why the scientists, mathematicians, engineers, businesspeople, religious and social organisers of the late twentieth century, who have adopted a renaissance perspective on their fields, have also proclaimed their insights to be so categorically set apart from the work of their predecessors. Chaos mathematicians (and the economists who depend on them) regard systems theory as an entirely new understanding of the inner workings of our reality. They are then celebrated on the pages of the _New York Times_ for declaring that our universe is actually made up of a few simple equations called cellular-automata. Scientists find themselves abandoning a theory of anthill organisation that depends on commands from the queen, and replacing it with a bottom-up model of emergent organisation that depends on the free flow of information between every member of the colony.
 
-More importantly, however, these flashes of insight and radical
+More importantly, however, these flashes of insight and radical reappraisal of formerly sacrosanct ideas are followed not by a retrenchment but by a new openness to reflection, collaboration and change. The greatest benefit of a shift in operating model appears to be the recollection that we are working with a mere model.
 
-reappraisal of formerly sacrosanct ideas are followed not by a
-
-retrenchment but by a new openness to reflection, collaboration and
-
-change. The greatest benefit of a shift in operating model appears to
-
-be the recollection that we are working with a mere model.
-
-11 September 2001: coping by retreat into a world view
+**11 September 2001: coping by retreat into a world view**
 
 More than any particular map or narrative we might develop, we
 
