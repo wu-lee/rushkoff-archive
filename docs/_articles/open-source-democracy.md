@@ -203,31 +203,7 @@ In a less strident but equally fundamentalist impulse, many American patriots in
 
 Meanwhile, free-market capitalism’s stalwarts, who had already suffered the collapse of the dot.com bubble and the faith-challenging reality of an economic recession, were also reeling from the attack on their most visible symbol of global trade. With its dependence on perpetual expansion, the story of global capitalism was not helped by this sure sign of resistance. Might the world not really be ready to embrace the World Trade Organisation’s gifts? With a utopian future of global economic prosperity as central to its basic premise as any fundamentalist vision of a perfect past era in harmony with God, believers in the capitalist narrative responded the only way they could. They sought a war to defend their story.
 
-The most injurious rupture, of course, was to the narrative we use
-
-to feel safe and protected in an increasingly global society. The attacks
-
-on the Pentagon and World Trade Center, pinpointed, devastating,
-
-and worst of all perfectly executed, challenged the notion that we
-
-were the world’s singularly invincible nation. The people we
-
-appointed to protect us had proved their inability to do so. President
-
-Bush’s quick rise to an over 90 per cent popularity rating shows just
-
-how much we needed to believe in his ability to provide us with the
-
-omnipotent fatherly protection that his rhetoric commanded. But like
-
-a child realising that his parents can’t save him from the bully at
-
-school, Americans were forced to consider that our leaders, our
-
-weapons and our wealth offer only so much insulation from a big bad
-
-world.
+The most injurious rupture, of course, was to the narrative we use to feel safe and protected in an increasingly global society. The attacks on the Pentagon and World Trade Center, pinpointed, devastating, and worst of all perfectly executed, challenged the notion that we were the world’s singularly invincible nation. The people we appointed to protect us had proved their inability to do so. President Bush’s quick rise to an over 90 per cent popularity rating shows just how much we needed to believe in his ability to provide us with the omnipotent fatherly protection that his rhetoric commanded. But like a child realising that his parents can’t save him from the bully at school, Americans were forced to consider that our leaders, our weapons and our wealth offer only so much insulation from a big bad world.
 
 Our nurtured complacency and our sense of absolute security had
 
