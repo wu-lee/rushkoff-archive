@@ -145,17 +145,9 @@ The other main features of the Renaissance permitted similar shifts in perspecti
 
 Similarly, the invention of moveable type and the printing press changed the relationship of author and audience to text. The creation of a manuscript was no longer a one-pointed affair. The creation of the first manuscript still was, but now it could be replicated and distributed to everyone. It was still one story, but now was subject to a multiplicity of individual perspectives. This innovation alone changed the landscape of religion in the Western world. Individual interpretation of the Bible led to the collapse of church authority and the unilateral nature of its decrees. Everyone demanded his or her own relationship to the story.
 
-Our electronic renaissance
+**Our electronic renaissance**
 
-In all these cases, people experienced a very particular shift in their
-
-relationship to, and understanding of, dimensions. Understood this
-
-way, a renaissance is a moment of reframing. We step out of the frame
-
-as it is currently defined and see the whole picture in a new context.
-
-We can then play by new rules.
+In all these cases, people experienced a very particular shift in their relationship to, and understanding of, dimensions. Understood this way, a renaissance is a moment of reframing. We step out of the frame as it is currently defined and see the whole picture in a new context. We can then play by new rules.
 
 It is akin to the experience of a computer game player. At first, a
 
