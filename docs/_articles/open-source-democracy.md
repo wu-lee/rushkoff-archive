@@ -153,21 +153,7 @@ It is akin to the experience of a computer game player. At first, a gamer will p
 
 Some gamers, though – usually after they’ve mastered this level of play – will venture out onto the internet in search of other fans or user groups. There, they will gather the cheat codes that can be used to acquire special abilities within the game, such as invisibility or an infinite supply of ammunition. When the gamer returns to the game with his secret codes, is he still playing the game or is he cheating? From a renaissance perspective he is still playing the game, albeit a different one. His playing field has grown from the CD on which the game was shipped to the entire universe of computers where these secret codes and abilities can be discussed and shared. He is no longer playing the game, but a meta-game. The inner game world is still fun, but it is distanced by the gamer’s new perspective, much in the way we are distanced from the play-within-a-play in one of Shakespeare’s comedies or dramas. And the meta-theatrical convention gives us new perspective on the greater story as well. Gaming, as a metaphor but also as a lived experience, invites a renaissance perspective on the world in which we live. Perhaps gamers and their game culture have been as responsible as anyone for the rise in expressly self-similar forms of television like Beavis and Butt-head, The Simpsons and Southpark. The joy of such programmes is not the relief of reaching the climax of the linear narrative, but rather the momentary thrill of making connections. The satisfaction is in recognising which bits of media are being satirised at any given moment. It is an entirely new perspective on television, where programmes exist more in the form of Talmudic commentary: perspectives on perspectives on perspectives. We watch screens within screens, constantly reminded, almost as in a Brecht play, of the artifice of storytelling. It is as if we are looking at a series of proscenium arches, and are being invited as an audience to consider whether we are within a proscenium arch ourselves.
 
-The great Renaissance was a simple leap in perspective. Instead of
-
-seeing everything in one dimension, we came to realise there was
-
-more than one dimension on which things were occurring. Even the
-
-Elizabethan world picture, with its concentric rings of authority –
-
-God, king, man, animals – reflects this newfound way of contending
-
-with the simultaneity of action of many dimensions at once. A gamer
-
-stepping out onto the internet to find a cheat code certainly reaches
-
-this first renaissance’s level of awareness and skill.
+The great Renaissance was a simple leap in perspective. Instead of seeing everything in one dimension, we came to realise there was more than one dimension on which things were occurring. Even the Elizabethan world picture, with its concentric rings of authority – God, king, man, animals – reflects this newfound way of contending with the simultaneity of action of many dimensions at once. A gamer stepping out onto the internet to find a cheat code certainly reaches this first renaissance’s level of awareness and skill.
 
 But what of the gamer who then learns to programme new games
 
