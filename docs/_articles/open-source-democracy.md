@@ -139,23 +139,7 @@ This is why it might be more useful to understand the proliferation of interacti
 
 Take a look back at what we think of as the original Renaissance, the one we were taught in school. What were the main leaps in perspective? One example is the use of perspective in painting. Artists developed the technique of the vanishing point and with it the ability to paint three-dimensional representations on two-dimensional surfaces. The character of this innovation is subtle but distinct. It is not a technique for working in three dimensions; it is not that artists moved from working on canvas to working with clay. Rather, perspective painting allows an artist to relate between dimensions: representing three-dimensional objects on a two-dimensional plane.
 
-Another example is calculus, another key Renaissance invention.
-
-Calculus is a mathematical system that allows us to derive one
-
-dimension from another. It is a way of describing curves with the
-
-language of lines, and spheres with the language of curves. The leap
-
-from arithmetic to calculus was not just a leap in our ability to work
-
-with higher dimensional objects, but a leap in our ability to relate the
-
-objects of one dimension to the objects of another. It was a shift in
-
-perspective that allowed us to orient ourselves to mathematical
-
-objects from beyond the context of their own dimensionality.
+Another example is calculus, another key Renaissance invention. Calculus is a mathematical system that allows us to derive one dimension from another. It is a way of describing curves with the language of lines, and spheres with the language of curves. The leap from arithmetic to calculus was not just a leap in our ability to work with higher dimensional objects, but a leap in our ability to relate the objects of one dimension to the objects of another. It was a shift in perspective that allowed us to orient ourselves to mathematical objects from beyond the context of their own dimensionality.
 
 The other main features of the Renaissance permitted similar shifts
 
