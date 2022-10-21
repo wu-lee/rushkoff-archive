@@ -181,25 +181,7 @@ The first to recognise the new renaissance will compete to have their ideologies
 
 Perhaps the most valuable idea to plant now, into the post-renaissance society of tomorrow, is the very notion of renaissance itself. Interactivity, both as an allegory for a healthier relationship to cultural programming, and as an actual implementation of a widely accessible authoring technology, reduces our dependence on fixed narratives while giving us the tools and courage to develop narratives together. The birth of interactive technology has allowed for a sudden change of state. We have witnessed together the wizard behind the curtain. We can all see, for this moment anyway, how so very much of what we have perceived of as reality is, in fact, merely social construction. More importantly, we have gained the ability to enact such wizardry ourselves.
 
-The most ready examples of such suddenly received knowledge
-
-come to us from the mystics. Indeed, many early cyber-pioneers
-
-expressed their insights (see my Cyberia for examples3) in mystical
-
-language coining terms such as ‘technoshamanism’ and ‘cyberdelia’.
-
-Indeed, in some ways it does feel as though our society were at the
-
-boundaries of a mystical experience, when we have a glimpse of the
-
-profoundly arbitrary nature of the stories we use to organise and
-
-explain the human experience. It is at precisely these moments that
-
-the voyager wonders: ‘what can I tell myself – what I can write down
-
-that will make me remember this experience beyond words?’
+The most ready examples of such suddenly received knowledge come to us from the mystics. Indeed, many early cyber-pioneers expressed their insights (see my _Cyberia_ for examples³) in mystical language coining terms such as ‘technoshamanism’ and ‘cyberdelia’. Indeed, in some ways it does feel as though our society were at the boundaries of a mystical experience, when we have a glimpse of the profoundly arbitrary nature of the stories we use to organise and explain the human experience. It is at precisely these moments that the voyager wonders: ‘what can I tell myself – what I can write down that will make me remember this experience beyond words?’
 
 Of course, most of these mystical scribblings end up being oversimplified platitudes such as ‘all is one’ or ‘I am God’. Those that rise
 
