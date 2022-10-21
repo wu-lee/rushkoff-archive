@@ -219,37 +219,7 @@ Instead, we must forge ahead into the challenging but necessary task of inventin
 
 The values engendered by our fledgling networked culture may, in fact, prove quite applicable to the broader challenges of our time and help a world struggling with the impact of globalism, the lure of fundamentalism and the clash of conflicting value systems. The very survival of democracy as a functional reality is dependent upon our acceptance, as individuals, of adult roles in conceiving and stewarding the shape and direction of society.
 
-Religions and ideologies are terrific things, so long as no one
-
-actually believes in them. While absolute truths may exist, it is
-
-presumptuous for anyone to conclude he has found and comprehended one. True, the adoption of an absolutist frame of reference
-
-serves many useful purposes. An accepted story can unify an
-
-otherwise diverse population, provide widespread support for a single
-
-regime and reassure people in times of stress. Except for the resulting
-
-ethnocentrism, repression of autonomy and stifling of new ideas,
-
-such static templates can function well for quite a while. Dictators
-
-from Adolf Hitler to Idi Amin owed a good part of their success to
-
-their ability to develop ethnically based mythologies that united their
-
-people under a single sense of identity. The biblical myth of Jacob and
-
-De m o s 45
-
-his sons served to unify formerly non-allied desert tribes (with the
-
-same names as Jacob’s sons) in ancient Sinai. They not only
-
-conquered much of the region, but created a fairly stable regime for
-
-centuries.
+Religions and ideologies are terrific things, so long as no one actually believes in them. While absolute truths may exist, it is presumptuous for anyone to conclude he has found and comprehended one. True, the adoption of an absolutist frame of reference serves many useful purposes. An accepted story can unify an otherwise diverse population, provide widespread support for a single regime and reassure people in times of stress. Except for the resulting ethnocentrism, repression of autonomy and stifling of new ideas, such static templates can function well for quite a while. Dictators from Adolf Hitler to Idi Amin owed a good part of their success to their ability to develop ethnically based mythologies that united their people under a single sense of identity. The biblical myth of Jacob and his sons served to unify formerly non-allied desert tribes (with the same names as Jacob’s sons) in ancient Sinai. They not only conquered much of the region, but created a fairly stable regime for centuries.
 
 So these stories enable a certain kind of functionality. Their relative
 
