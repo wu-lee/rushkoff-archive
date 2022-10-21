@@ -125,21 +125,7 @@ News stories about online communities such as The Well, or even discussion group
 
 A medium born out of the ability to break through packaged stories was now being used to promote a new, equally dangerous one: the great pyramid. A smart kid writes a business plan. He finds a few 'angel' investors to back him up long enough to land some first-level investors. Below them on the pyramid are several more rounds of investors, until the investment bank gets involved. Another few levels of investors buy in until the decision is made to go public. Of course, by this point, the angels and other early investors are executing their exit strategy. It used be known as a carpet bag. In any case they’re gone and the investing public is left holding the soon-to-be-worthless shares.
 
-Tragically, but perhaps luckily, the dot.com bubble burst along
-
-with the story being used to keep it inflated. The entire cycle, the birth
-
-of a new medium, the battle to control it and the downfall of the first
-
-victorious camp, taught us a lot about the relationship of stories to
-
-the technologies through which they are disseminated. And the whole
-
-Open source democ ra cy
-
-30 De m o s
-
-ordeal may have given us an opportunity for renaissance.
+Tragically, but perhaps luckily, the dot.com bubble burst along with the story being used to keep it inflated. The entire cycle, the birth of a new medium, the battle to control it and the downfall of the first victorious camp, taught us a lot about the relationship of stories to the technologies through which they are disseminated. And the whole ordeal may have given us an opportunity for renaissance.
 
 Back here in the real world, the internet is doing just fine. Better
 
