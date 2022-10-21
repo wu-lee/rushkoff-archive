@@ -177,31 +177,7 @@ The difference between the cartographer’s and the surfer’s experience of the
 
 The renaissance experience of moving beyond the frame allows everything old to look new again. We are liberated from the maps we have been using to navigate our world and free to create new ones based on our own observations. This invariably leads to a whole new era of competition. Renaissance may be a rebirth of old ideas in a new context, but which ideas get to be reborn?
 
-The first to recognise the new renaissance will compete to have
-
-their ideologies be the ones that are rebirthed in this new context.
-
-This is why, with the emergence of the internet, we saw the attempted
-
-rebirth (and occasional stillbirth) of everything from paganism to
-
-Open source democ ra cy
-
-38 De m o s
-
-libertarianism, and communism to psychedelia. Predictably, the
-
-financial markets and consumer capitalism, the dominant narratives
-
-of our era, were the first to commandeer successfully the renaissance.
-
-But they squandered their story on a pyramid scheme (indeed, the
-
-accelerating force of computers and networks tends to force any story
-
-to its logical conclusion) and now the interactive renaissance is once
-
-again up for grabs.
+The first to recognise the new renaissance will compete to have their ideologies be the ones that are rebirthed in this new context. This is why, with the emergence of the internet, we saw the attempted rebirth (and occasional stillbirth) of everything from paganism to libertarianism, and communism to psychedelia. Predictably, the financial markets and consumer capitalism, the dominant narratives of our era, were the first to commandeer successfully the renaissance. But they squandered their story on a pyramid scheme (indeed, the accelerating force of computers and networks tends to force any story to its logical conclusion) and now the interactive renaissance is once again up for grabs.
 
 Perhaps the most valuable idea to plant now, into the postrenaissance society of tomorrow, is the very notion of renaissance
 
