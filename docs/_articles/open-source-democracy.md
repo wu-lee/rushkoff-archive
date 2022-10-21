@@ -167,21 +167,7 @@ Using fractals and their equations, we can now represent and work with objects f
 
 Finally, our renaissance’s answer to the printing press is the computer and its ability to network. Just as the printing press gave everyone access to readership, the computer and internet give everyone access to authorship. The first Renaissance took us from the position of passive recipient to active interpreter. Our current renaissance brings us from the role of interpreter to the role of author. We are the creators.
 
-As game programmers instead of game players, the creators of
-
-testimony rather than the believers in testament, we begin to become
-
-aware of just how much of our reality is open source and up for
-
-discussion. So much of what seemed like impenetrable hardware is
-
-actually software and ripe for reprogramming. The stories we use to
-
-understand the world seem less like explanations and more like
-
-collaborations. They are rule sets, only as good as their ability to
-
-explain the patterns of history or predict those of the future.
+As game programmers instead of game players, the creators of testimony rather than the believers in testament, we begin to become aware of just how much of our reality is open source and up for discussion. So much of what seemed like impenetrable hardware is actually software and ripe for reprogramming. The stories we use to understand the world seem less like explanations and more like collaborations. They are rule sets, only as good as their ability to explain the patterns of history or predict those of the future.
 
 Consider the experience of a cartographer attempting to hold a
 
