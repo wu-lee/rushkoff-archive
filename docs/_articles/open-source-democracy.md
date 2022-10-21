@@ -165,19 +165,7 @@ Our analogy to calculus is the development of systems theory, chaos maths and th
 
 Using fractals and their equations, we can now represent and work with objects from the natural world that defy Cartesian analysis. We also become able to develop mathematical models that reflect many more properties of nature’s own systems, such as self-similarity and remote high leverage points. Again, we find that this renaissance is characterised by the ability of an individual to reflect, or even affect, the grand narrative. To write the game.
 
-Finally, our renaissance’s answer to the printing press is the
-
-computer and its ability to network. Just as the printing press gave
-
-everyone access to readership, the computer and internet give
-
-everyone access to authorship. The first Renaissance took us from the
-
-position of passive recipient to active interpreter. Our current
-
-renaissance brings us from the role of interpreter to the role of
-
-author. We are the creators.
+Finally, our renaissance’s answer to the printing press is the computer and its ability to network. Just as the printing press gave everyone access to readership, the computer and internet give everyone access to authorship. The first Renaissance took us from the position of passive recipient to active interpreter. Our current renaissance brings us from the role of interpreter to the role of author. We are the creators.
 
 As game programmers instead of game players, the creators of
 
