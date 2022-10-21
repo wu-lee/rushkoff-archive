@@ -195,17 +195,7 @@ More than any particular map or narrative we might develop, we need to retain th
 
 The oil industry and its representatives (some now elected in government) are, for example, incapable of understanding a profit model that does not involve the exploitation of fixed and limited resources. They continue to push the rest of the industrialised world towards the unnecessary bolstering of cooperative, if oppressive dictatorships, as well as the wars these policies invariably produce. The chemical and agriculture industries, incapable of envisioning a particular crop as anything but a drug-addicted, genetically altered species, cannot conceive of the impact of their innovations on the planet’s topsoil or ecosystems. In more readily appreciated examples, the Church of England is still consumed with its defence of the literal interpretation of biblical events, and many fundamentalists sects in the United States still fight, quite successfully, to prevent the theory of evolution from being taught in state schools.
 
-Although the terrorist attacks on the United States can find their
-
-roots, at least partially, in a legacy of misguided American foreign and
-
-energy policy decisions, they have also increased our awareness of a
-
-great chasm between peoples with seemingly irreconcilable stories
-
-about the world and humankind’s role within it. And the lines
-
-between these world views are anything but clear.
+Although the terrorist attacks on the United States can find their roots, at least partially, in a legacy of misguided American foreign and energy policy decisions, they have also increased our awareness of a great chasm between peoples with seemingly irreconcilable stories about the world and humankind’s role within it. And the lines between these world views are anything but clear.
 
 Hours after the attacks, two of America’s own fundamentalist
 
