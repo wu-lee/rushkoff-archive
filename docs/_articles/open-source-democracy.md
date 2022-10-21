@@ -159,33 +159,7 @@ But what of the gamer who then learns to programme new games for himself? He, we
 
 The evidence of today’s renaissance is at least as profound as that of the one that went before. The sixteenth century saw the successful circumnavigation of the globe via the seas. The twentieth century saw the successful circumnavigation of the globe from space. The first pictures of earth from space changed our perspective on this sphere for ever. In the same century, our dominance over the planet was confirmed not just through our ability to travel around it, but to destroy it. The atomic bomb (itself the result of a rude dimensional interchange between submolecular particles) gave us the ability to author the globe’s very destiny. Now, instead of merely being able to comprehend ‘God’s creation’, we could actively control it. This is a new perspective.
 
-We also have our equivalent of perspective painting, in the
-
-invention of the holograph. The holograph allows us to represent not
-
-just three, but four dimensions on a two-dimensional plate.When the
-
-viewer walks past a holograph she can observe the three-dimensional
-
-object over a course of time. A bird can flap its wings in a single
-
-picture. But, more importantly for our renaissance’s purposes, the
-
-holographic plate itself embodies a new renaissance principle. When
-
-the plate is smashed into hundreds of pieces, we do not find that one
-
-piece contains the bird’s wing, and another piece the bird’s beak. Each
-
-piece of the plate contains a faint image of the entire subject. When
-
-the pieces are put together, the image achieves greater resolution. But
-
-each piece contains a representation of the totality. This leap in
-
-dimensional understanding is now informing disciplines as diverse as
-
-brain anatomy and computer programming.
+We also have our equivalent of perspective painting, in the invention of the holograph. The holograph allows us to represent not just three, but four dimensions on a two-dimensional plate. When the viewer walks past a holograph she can observe the three-dimensional object over a course of time. A bird can flap its wings in a single picture. But, more importantly for our renaissance’s purposes, the holographic plate itself embodies a new renaissance principle. When the plate is smashed into hundreds of pieces, we do not find that one piece contains the bird’s wing, and another piece the bird’s beak. Each piece of the plate contains a faint image of the entire subject. When the pieces are put together, the image achieves greater resolution. But each piece contains a representation of the totality. This leap in dimensional understanding is now informing disciplines as diverse as brain anatomy and computer programming.
 
 Our analogy to calculus is the development of systems theory,
 
