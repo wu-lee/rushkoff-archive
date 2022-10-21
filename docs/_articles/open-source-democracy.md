@@ -201,31 +201,7 @@ Hours after the attacks, two of America’s own fundamentalist ministers, Jerry 
 
 In a less strident but equally fundamentalist impulse, many American patriots interpreted the attacks as the beginning of a war against our nation’s sacred values. This was to be seen as a war against capitalism and a free society. As American flags were raised in defiance of our Middle Eastern antagonists, just as many American freedoms were sacrificed to the new war on terrorism. Our nationalism overshadowed our national values, but our collective story was saved from deconstruction.
 
-Meanwhile, free-market capitalism’s stalwarts, who had already
-
-suffered the collapse of the dot.com bubble and the faith-challenging
-
-reality of an economic recession, were also reeling from the attack on
-
-their most visible symbol of global trade. With its dependence on
-
-The oppo rt u n i ty for re n a i s s a n ce
-
-De m o s 41
-
-perpetual expansion, the story of global capitalism was not helped by
-
-this sure sign of resistance. Might the world not really be ready to
-
-embrace the World Trade Organisation’s gifts? With a utopian future
-
-of global economic prosperity as central to its basic premise as any
-
-fundamentalist vision of a perfect past era in harmony with God,
-
-believers in the capitalist narrative responded the only way they
-
-could. They sought a war to defend their story.
+Meanwhile, free-market capitalism’s stalwarts, who had already suffered the collapse of the dot.com bubble and the faith-challenging reality of an economic recession, were also reeling from the attack on their most visible symbol of global trade. With its dependence on perpetual expansion, the story of global capitalism was not helped by this sure sign of resistance. Might the world not really be ready to embrace the World Trade Organisation’s gifts? With a utopian future of global economic prosperity as central to its basic premise as any fundamentalist vision of a perfect past era in harmony with God, believers in the capitalist narrative responded the only way they could. They sought a war to defend their story.
 
 The most injurious rupture, of course, was to the narrative we use
 
