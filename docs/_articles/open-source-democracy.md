@@ -173,19 +173,9 @@ Consider the experience of a cartographer attempting to hold a conversation with
 
 The difference between the cartographer’s and the surfer’s experience of the ocean is akin to pre- and post-renaissance relationships to story. The first relies on the most linear and static interpretations of the story in order to create a static and authoritative template through which to glean its meaning. The latter relies on the living, moment-to-moment perceptions of its many active interpreters to develop a way of relating to its many changing patterns. Ultimately, in a cognitive process not unlike that employed by a chaos mathematician, the surfer learns to recognise the order underlying what at first appears to be random turbulence. Events, images and arrangements that might otherwise have appeared to be unrelated are now, thanks to a world view that acknowledges discontinuity, revealed to be connected. To those unfamiliar with this style of pattern recognition, the connections they draw may appear to be as unrelated as a fortune-teller’s tea leaves or Tarot cards are from the future events she predicts. Nonetheless, the surfer understands each moment and event in his world as a possible reflection on any other aspect or moment in the entire system.
 
-What gets reborn
+**What gets reborn**
 
-The renaissance experience of moving beyond the frame allows
-
-everything old to look new again. We are liberated from the maps we
-
-have been using to navigate our world and free to create new ones
-
-based on our own observations. This invariably leads to a whole new
-
-era of competition. Renaissance may be a rebirth of old ideas in a new
-
-context, but which ideas get to be reborn?
+The renaissance experience of moving beyond the frame allows everything old to look new again. We are liberated from the maps we have been using to navigate our world and free to create new ones based on our own observations. This invariably leads to a whole new era of competition. Renaissance may be a rebirth of old ideas in a new context, but which ideas get to be reborn?
 
 The first to recognise the new renaissance will compete to have
 
