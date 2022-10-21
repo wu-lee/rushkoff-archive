@@ -169,45 +169,7 @@ Finally, our renaissance’s answer to the printing press is the computer and it
 
 As game programmers instead of game players, the creators of testimony rather than the believers in testament, we begin to become aware of just how much of our reality is open source and up for discussion. So much of what seemed like impenetrable hardware is actually software and ripe for reprogramming. The stories we use to understand the world seem less like explanations and more like collaborations. They are rule sets, only as good as their ability to explain the patterns of history or predict those of the future.
 
-Consider the experience of a cartographer attempting to hold a
-
-conversation with a surfer. They both can claim intimate knowledge
-
-of the ocean, but from vastly different perspectives. While the
-
-mapmaker understands the sea as a series of longitude and latitude
-
-lines, the surfer sees only a motion of waves that are not even
-
-depicted on the cartographer’s map. If the cartographer were to call
-
-out from the beach to the surfer and ask him whether he is above or
-
-below the 43rd parallel, the surfer would be unable to respond. The
-
-mapmaker would have no choice but to conclude that the surfer was
-
-hopelessly lost. But if any of us were asked to choose who we would
-
-rather rely on to get us back to shore, most of us would pick the
-
-surfer. He experiences the water as a system of moving waves and
-
-stands a much better chance of navigating a safe course through
-
-The oppo rt u n i ty for re n a i s s a n ce
-
-De m o s 37
-
-them. Each surfer at each location and each moment of the day
-
-experiences an entirely different ocean. The cartographer experiences
-
-the same map no matter what. He has a more permanent model, but
-
-his liability is his propensity to mistake his map for the actual
-
-territory.
+Consider the experience of a cartographer attempting to hold a conversation with a surfer. They both can claim intimate knowledge of the ocean, but from vastly different perspectives. While the mapmaker understands the sea as a series of longitude and latitude lines, the surfer sees only a motion of waves that are not even depicted on the cartographer’s map. If the cartographer were to call out from the beach to the surfer and ask him whether he is above or below the 43rd parallel, the surfer would be unable to respond. The mapmaker would have no choice but to conclude that the surfer was hopelessly lost. But if any of us were asked to choose who we would rather rely on to get us back to shore, most of us would pick the surfer. He experiences the water as a system of moving waves and stands a much better chance of navigating a safe course through them. Each surfer at each location and each moment of the day experiences an entirely different ocean. The cartographer experiences the same map no matter what. He has a more permanent model, but his liability is his propensity to mistake his map for the actual territory.
 
 The difference between the cartographer’s and the surfer’s
 
