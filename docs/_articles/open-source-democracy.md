@@ -117,27 +117,9 @@ The demystification of media, enabled by the joystick and other early interactiv
 
 Finally, the do-it-yourself ethic of the internet community was replaced by the new value of commerce. The communications age was rebranded as the information age, even though the internet had never really been about downloading files or data, but about communicating with other people. The difference was that information, or content, unlike real human interaction, could be bought and sold. It was a commodity. People would pay, it was thought, for horoscopes, stock prices and magazine articles. When selling information online didn’t work, businesspeople instead turned to selling real products online. Horoscope.com and online literary journals gave way to Pets.com and online bookstores. The e-commerce boom was ignited. Soon the internet became the World Wide Web. Its opaque and image-heavy interfaces made it increasingly one-way and read-only, more conducive to commerce than communication. The internet was reduced to a direct marketing platform.
 
-El e ct ronic co m m u n i ty
+**The burst of the bubble and the re-emergence of community**
 
-De m o s 29
-
-The burst of the bubble and the re-emergence of
-
-community
-
-Few e-commerce companies made any money selling goods, but the
-
-idea that they could was all that mattered. When actual e-commerce
-
-didn’t work, the internet was rebranded yet again as an investment
-
-platform. The Web was to be the new portal through which the
-
-middle class could invest in the stock market. And which stocks were
-
-they to invest in? Internet stocks, of course! Like any good pyramid
-
-scheme, everyone was in on it. Or at least they thought they were.
+Few e-commerce companies made any money selling goods, but the idea that they could was all that mattered. When actual e-commerce didn’t work, the internet was rebranded yet again as an investment platform. The Web was to be the new portal through which the middle class could invest in the stock market. And which stocks were they to invest in? Internet stocks, of course! Like any good pyramid scheme, everyone was in on it. Or at least they thought they were.
 
 News stories about online communities such as The Well, or even
 
