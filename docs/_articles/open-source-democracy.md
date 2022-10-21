@@ -131,33 +131,9 @@ Back here in the real world, the internet is doing just fine. Better than ever. 
 
 Rising from the graveyard of failed business plans, these collaborative communities of authors and creators are the true harbingers of cultural and perhaps political renaissance.
 
-4\. The opportunity for
+4\. The opportunity for renaissance
 
-renaissance
-
-The birth of the internet was interpreted by many as a revolution.
-
-Those of us in the counterculture saw in the internet an opportunity
-
-to topple the storytellers who had dominated our politics, economics,
-
-society and religion – in short our very reality – and to replace their
-
-stories with those of our own. It was a beautiful and exciting
-
-sentiment, but one as based in a particular narrative as any other.
-
-Revolutions simply replace one story with another. The capitalist
-
-narrative is replaced by that of the communist; the religious
-
-fundamentalist’s replaced by the agnostic’s. The means may be
-
-different, but the rewards are the same. So is the exclusivity of their
-
-distribution. That’s why they’re called revolutions – we’re just going
-
-in a circle.
+The birth of the internet was interpreted by many as a revolution. Those of us in the counterculture saw in the internet an opportunity to topple the storytellers who had dominated our politics, economics, society and religion – in short our very reality – and to replace their stories with those of our own. It was a beautiful and exciting sentiment, but one as based in a particular narrative as any other. Revolutions simply replace one story with another. The capitalist narrative is replaced by that of the communist; the religious fundamentalist’s replaced by the agnostic’s. The means may be different, but the rewards are the same. So is the exclusivity of their distribution. That’s why they’re called revolutions – we’re just going in a circle.
 
 This is why it might be more useful to understand the proliferation
 
