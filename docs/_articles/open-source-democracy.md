@@ -217,19 +217,7 @@ Instead, we must forge ahead into the challenging but necessary task of inventin
 
 **5. Networked democracy**
 
-The values engendered by our fledgling networked culture may, in
-
-fact, prove quite applicable to the broader challenges of our time and
-
-help a world struggling with the impact of globalism, the lure of
-
-fundamentalism and the clash of conflicting value systems. The very
-
-survival of democracy as a functional reality is dependent upon our
-
-acceptance, as individuals, of adult roles in conceiving and stewarding
-
-the shape and direction of society.
+The values engendered by our fledgling networked culture may, in fact, prove quite applicable to the broader challenges of our time and help a world struggling with the impact of globalism, the lure of fundamentalism and the clash of conflicting value systems. The very survival of democracy as a functional reality is dependent upon our acceptance, as individuals, of adult roles in conceiving and stewarding the shape and direction of society.
 
 Religions and ideologies are terrific things, so long as no one
 
