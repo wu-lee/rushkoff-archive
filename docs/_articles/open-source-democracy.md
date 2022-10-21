@@ -121,23 +121,7 @@ Finally, the do-it-yourself ethic of the internet community was replaced by the 
 
 Few e-commerce companies made any money selling goods, but the idea that they could was all that mattered. When actual e-commerce didn’t work, the internet was rebranded yet again as an investment platform. The Web was to be the new portal through which the middle class could invest in the stock market. And which stocks were they to invest in? Internet stocks, of course! Like any good pyramid scheme, everyone was in on it. Or at least they thought they were.
 
-News stories about online communities such as The Well, or even
-
-discussion groups for breast cancer survivors were soon
-
-overshadowed by those about daring young entrepreneurs launching
-
-multi-million-dollar IPOs (Initial Price Offerings of formerly private
-
-stock on public exchanges such as the NYSE or NASDAQ.) Internet
-
-journalism, written by option-holding employees of media
-
-conglomerates, moved from the culture section to the business pages
-
-and the dot.com pyramid scheme became the dominant new media
-
-story.
+News stories about online communities such as The Well, or even discussion groups for breast cancer survivors were soon overshadowed by those about daring young entrepreneurs launching multi-million-dollar IPOs (Initial Price Offerings of formerly private stock on public exchanges such as the NYSE or NASDAQ.) Internet journalism, written by option-holding employees of media conglomerates, moved from the culture section to the business pages and the dot.com pyramid scheme became the dominant new media story.
 
 A medium born out of the ability to break through packaged
 
