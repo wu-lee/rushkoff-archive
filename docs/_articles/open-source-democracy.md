@@ -127,31 +127,7 @@ A medium born out of the ability to break through packaged stories was now being
 
 Tragically, but perhaps luckily, the dot.com bubble burst along with the story being used to keep it inflated. The entire cycle, the birth of a new medium, the battle to control it and the downfall of the first victorious camp, taught us a lot about the relationship of stories to the technologies through which they are disseminated. And the whole ordeal may have given us an opportunity for renaissance.
 
-Back here in the real world, the internet is doing just fine. Better
-
-than ever. The World Wide Web, whose rather opaque platform
-
-ascended primarily for its ability to serve as an online catalogue, has
-
-been adapted to serve many of the internet’s original, more
-
-technologically primitive functions. USENET discussions have been
-
-reborn as web-based bulletin boards such as Slashdot, and Metafilter.
-
-Personal daily diaries known as weblogs have multiplied by the
-
-thousands. Blogger.com provides a set of publishing tools that allows
-
-even a novice to create a weblog, automatically add content to a web
-
-site or organise links, commentary and open discussions. In the short
-
-time Blogger has been available, it has fostered an interconnected
-
-community of tens of thousands of users. These people don’t simply
-
-surf the Web. They are now empowered to create it.
+Back here in the real world, the internet is doing just fine. Better than ever. The World Wide Web, whose rather opaque platform ascended primarily for its ability to serve as an online catalogue, has been adapted to serve many of the internet’s original, more technologically primitive functions. USENET discussions have been reborn as web-based bulletin boards such as Slashdot, and Metafilter. Personal daily diaries known as weblogs have multiplied by the thousands. Blogger.com provides a set of publishing tools that allows even a novice to create a weblog, automatically add content to a web site or organise links, commentary and open discussions. In the short time Blogger has been available, it has fostered an interconnected community of tens of thousands of users. These people don’t simply surf the Web. They are now empowered to create it.
 
 Rising from the graveyard of failed business plans, these
 
