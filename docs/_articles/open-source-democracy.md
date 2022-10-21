@@ -151,69 +151,7 @@ In all these cases, people experienced a very particular shift in their relation
 
 It is akin to the experience of a computer game player. At first, a gamer will play a video or computer game by the rules. He’ll read the manual, if necessary, then move through the various levels of the game. Mastery of the game, at this stage, means getting to the end: making it to the last level, surviving, becoming the most powerful character or, in the case of a simulation game, designing and maintaining a thriving family, city or civilisation. For many gamers, this is as far as it goes.
 
-Some gamers, though – usually after they’ve mastered this level of
-
-play – will venture out onto the internet in search of other fans or
-
-user groups. There, they will gather the cheat codes that can be used
-
-to acquire special abilities within the game, such as invisibility or an
-
-infinite supply of ammunition. When the gamer returns to the game
-
-with his secret codes, is he still playing the game or is he cheating?
-
-From a renaissance perspective he is still playing the game, albeit a
-
-different one. His playing field has grown from the CD on which the
-
-game was shipped to the entire universe of computers where these
-
-secret codes and abilities can be discussed and shared. He is no longer
-
-playing the game, but a meta-game. The inner game world is still fun,
-
-but it is distanced by the gamer’s new perspective, much in the way
-
-we are distanced from the play-within-a-play in one of Shakespeare’s
-
-Open source democ ra cy
-
-34 De m o s
-
-comedies or dramas. And the meta-theatrical convention gives us new
-
-perspective on the greater story as well. Gaming, as a metaphor but
-
-also as a lived experience, invites a renaissance perspective on the
-
-world in which we live. Perhaps gamers and their game culture have
-
-been as responsible as anyone for the rise in expressly self-similar
-
-forms of television like Beavis and Butt-head, The Simpsons and
-
-Southpark. The joy of such programmes is not the relief of reaching
-
-the climax of the linear narrative, but rather the momentary thrill
-
-of making connections. The satisfaction is in recognising which bits
-
-of media are being satirised at any given moment. It is an entirely
-
-new perspective on television, where programmes exist more in the
-
-form of Talmudic commentary: perspectives on perspectives on
-
-perspectives. We watch screens within screens, constantly reminded,
-
-almost as in a Brecht play, of the artifice of storytelling. It is as if we
-
-are looking at a series of proscenium arches, and are being invited as
-
-an audience to consider whether we are within a proscenium arch
-
-ourselves.
+Some gamers, though – usually after they’ve mastered this level of play – will venture out onto the internet in search of other fans or user groups. There, they will gather the cheat codes that can be used to acquire special abilities within the game, such as invisibility or an infinite supply of ammunition. When the gamer returns to the game with his secret codes, is he still playing the game or is he cheating? From a renaissance perspective he is still playing the game, albeit a different one. His playing field has grown from the CD on which the game was shipped to the entire universe of computers where these secret codes and abilities can be discussed and shared. He is no longer playing the game, but a meta-game. The inner game world is still fun, but it is distanced by the gamer’s new perspective, much in the way we are distanced from the play-within-a-play in one of Shakespeare’s comedies or dramas. And the meta-theatrical convention gives us new perspective on the greater story as well. Gaming, as a metaphor but also as a lived experience, invites a renaissance perspective on the world in which we live. Perhaps gamers and their game culture have been as responsible as anyone for the rise in expressly self-similar forms of television like Beavis and Butt-head, The Simpsons and Southpark. The joy of such programmes is not the relief of reaching the climax of the linear narrative, but rather the momentary thrill of making connections. The satisfaction is in recognising which bits of media are being satirised at any given moment. It is an entirely new perspective on television, where programmes exist more in the form of Talmudic commentary: perspectives on perspectives on perspectives. We watch screens within screens, constantly reminded, almost as in a Brecht play, of the artifice of storytelling. It is as if we are looking at a series of proscenium arches, and are being invited as an audience to consider whether we are within a proscenium arch ourselves.
 
 The great Renaissance was a simple leap in perspective. Instead of
 
