@@ -149,21 +149,7 @@ Similarly, the invention of moveable type and the printing press changed the rel
 
 In all these cases, people experienced a very particular shift in their relationship to, and understanding of, dimensions. Understood this way, a renaissance is a moment of reframing. We step out of the frame as it is currently defined and see the whole picture in a new context. We can then play by new rules.
 
-It is akin to the experience of a computer game player. At first, a
-
-gamer will play a video or computer game by the rules. He’ll read the
-
-manual, if necessary, then move through the various levels of the
-
-game. Mastery of the game, at this stage, means getting to the end:
-
-making it to the last level, surviving, becoming the most powerful
-
-character or, in the case of a simulation game, designing and
-
-maintaining a thriving family, city or civilisation. For many gamers,
-
-this is as far as it goes.
+It is akin to the experience of a computer game player. At first, a gamer will play a video or computer game by the rules. He’ll read the manual, if necessary, then move through the various levels of the game. Mastery of the game, at this stage, means getting to the end: making it to the last level, surviving, becoming the most powerful character or, in the case of a simulation game, designing and maintaining a thriving family, city or civilisation. For many gamers, this is as far as it goes.
 
 Some gamers, though – usually after they’ve mastered this level of
 
