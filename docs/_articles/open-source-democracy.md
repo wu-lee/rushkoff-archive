@@ -199,21 +199,7 @@ Although the terrorist attacks on the United States can find their roots, at lea
 
 Hours after the attacks, two of America’s own fundamentalist ministers, Jerry Falwell and Pat Robertson, were quick to fit the tragic events into their own concrete narrative for God’s relationship to humankind. Unable, or unwilling, to understand the apocalyptic moment as anything but the wrath of God, they blamed the feminists, homosexuals and civil libertarians of New York City for having brought this terrible but heavenly decree on themselves.
 
-In a less strident but equally fundamentalist impulse, many
-
-American patriots interpreted the attacks as the beginning of a war
-
-against our nation’s sacred values. This was to be seen as a war against
-
-capitalism and a free society. As American flags were raised in
-
-defiance of our Middle Eastern antagonists, just as many American
-
-freedoms were sacrificed to the new war on terrorism. Our
-
-nationalism overshadowed our national values, but our collective
-
-story was saved from deconstruction.
+In a less strident but equally fundamentalist impulse, many American patriots interpreted the attacks as the beginning of a war against our nation’s sacred values. This was to be seen as a war against capitalism and a free society. As American flags were raised in defiance of our Middle Eastern antagonists, just as many American freedoms were sacrificed to the new war on terrorism. Our nationalism overshadowed our national values, but our collective story was saved from deconstruction.
 
 Meanwhile, free-market capitalism’s stalwarts, who had already
 
