@@ -213,19 +213,9 @@ Meanwhile, many Jews and Christians who hadn’t even thought about their religi
 
 But surely our world views, political outlooks and religions aren’t functioning at their best when they provide pat answers to life’s biggest questions. The challenge to all thinking people is to resist the temptation to fall into yet another polarised, nationalist or, God forbid, holy posture. Rather than retreating into the simplistic and childlike, if temporarily reassuring, belief that the answers have already been written along with the entire human story, we must resolve ourselves to participate actively in writing the story ourselves. It is not enough to go back to our old models, particularly when they have been revealed to be inadequate at explaining the complexity of the human condition. It is too late for the Western world to retreat into Christian fundamentalism, accelerating global conflict in an effort to bring on the messianic age. It is too late to push blindly towards a purely capitalist model of human culture. There is simply too much evidence that the short-term bottom line does not serve the needs of people or the environment. There are too many alternative values and cultural threads surrendered to profit efficiency that may yet prove vital to our cultural ecosystem.
 
-Instead, we must forge ahead into the challenging but necessary
+Instead, we must forge ahead into the challenging but necessary task of inventing new models ourselves, using the collaborative techniques learned over the past decade, and based in the real evidence around us.
 
-task of inventing new models ourselves, using the collaborative
-
-techniques learned over the past decade, and based in the real
-
-evidence around us.
-
-Open source democ ra cy
-
-44 De m o s
-
-5\. Networked democracy
+**5. Networked democracy**
 
 The values engendered by our fledgling networked culture may, in
 
