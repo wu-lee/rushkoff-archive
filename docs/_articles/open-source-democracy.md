@@ -141,19 +141,7 @@ Take a look back at what we think of as the original Renaissance, the one we wer
 
 Another example is calculus, another key Renaissance invention. Calculus is a mathematical system that allows us to derive one dimension from another. It is a way of describing curves with the language of lines, and spheres with the language of curves. The leap from arithmetic to calculus was not just a leap in our ability to work with higher dimensional objects, but a leap in our ability to relate the objects of one dimension to the objects of another. It was a shift in perspective that allowed us to orient ourselves to mathematical objects from beyond the context of their own dimensionality.
 
-The other main features of the Renaissance permitted similar shifts
-
-in perspective. Circumnavigation of the globe changed our
-
-relationship between the planet we live on and the maps we used to
-
-describe it. The maps still worked, they just described a globe instead
-
-of a plane. Anyone hoping to navigate a course had to be able to relate
-
-a two-dimensional map to the new reality of a three-dimensional
-
-planet.
+The other main features of the Renaissance permitted similar shifts in perspective. Circumnavigation of the globe changed our relationship between the planet we live on and the maps we used to describe it. The maps still worked, they just described a globe instead of a plane. Anyone hoping to navigate a course had to be able to relate a two-dimensional map to the new reality of a three-dimensional planet.
 
 Similarly, the invention of moveable type and the printing press
 
