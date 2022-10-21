@@ -197,19 +197,7 @@ The oil industry and its representatives (some now elected in government) are, f
 
 Although the terrorist attacks on the United States can find their roots, at least partially, in a legacy of misguided American foreign and energy policy decisions, they have also increased our awareness of a great chasm between peoples with seemingly irreconcilable stories about the world and humankind’s role within it. And the lines between these world views are anything but clear.
 
-Hours after the attacks, two of America’s own fundamentalist
-
-ministers, Jerry Falwell and Pat Robertson, were quick to fit the tragic
-
-events into their own concrete narrative for God’s relationship to
-
-humankind. Unable, or unwilling, to understand the apocalyptic
-
-moment as anything but the wrath of God, they blamed the feminists,
-
-homosexuals and civil libertarians of New York City for having
-
-brought this terrible but heavenly decree on themselves.
+Hours after the attacks, two of America’s own fundamentalist ministers, Jerry Falwell and Pat Robertson, were quick to fit the tragic events into their own concrete narrative for God’s relationship to humankind. Unable, or unwilling, to understand the apocalyptic moment as anything but the wrath of God, they blamed the feminists, homosexuals and civil libertarians of New York City for having brought this terrible but heavenly decree on themselves.
 
 In a less strident but equally fundamentalist impulse, many
 
