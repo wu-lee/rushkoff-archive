@@ -157,33 +157,7 @@ The great Renaissance was a simple leap in perspective. Instead of seeing everyt
 
 But what of the gamer who then learns to programme new games for himself? He, we might argue, has stepped out of yet another frame into our current renaissance. He has deconstructed the content of the game, demystified the technology of its interface and now feels ready to open the codes and turn the game into a do-it-yourself activity. He has moved from a position of a receiving player to that of a deconstructing user. He has assumed the position of author, himself. This leap to authorship is precisely the character and quality of the dimensional leap associated with today’s renaissance.
 
-The evidence of today’s renaissance is at least as profound as that
-
-The oppo rt u n i ty for re n a i s s a n ce
-
-De m o s 35
-
-of the one that went before. The sixteenth century saw the successful
-
-circumnavigation of the globe via the seas. The twentieth century saw
-
-the successful circumnavigation of the globe from space. The first
-
-pictures of earth from space changed our perspective on this sphere
-
-for ever. In the same century, our dominance over the planet was
-
-confirmed not just through our ability to travel around it, but to
-
-destroy it. The atomic bomb (itself the result of a rude dimensional
-
-interchange between submolecular particles) gave us the ability to
-
-author the globe’s very destiny. Now, instead of merely being able to
-
-comprehend ‘God’s creation’, we could actively control it. This is a
-
-new perspective.
+The evidence of today’s renaissance is at least as profound as that of the one that went before. The sixteenth century saw the successful circumnavigation of the globe via the seas. The twentieth century saw the successful circumnavigation of the globe from space. The first pictures of earth from space changed our perspective on this sphere for ever. In the same century, our dominance over the planet was confirmed not just through our ability to travel around it, but to destroy it. The atomic bomb (itself the result of a rude dimensional interchange between submolecular particles) gave us the ability to author the globe’s very destiny. Now, instead of merely being able to comprehend ‘God’s creation’, we could actively control it. This is a new perspective.
 
 We also have our equivalent of perspective painting, in the
 
