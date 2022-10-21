@@ -115,35 +115,7 @@ Perhaps coincidentally, the growth of the attention economy was accompanied by a
 
 The demystification of media, enabled by the joystick and other early interactive technologies, was quickly reversed through the development of increasingly opaque computer interfaces. While early DOS computer users tended to understand a lot about how their computers stored information and launched programs, later operating systems such as Windows 95 put more barriers in place. Although these operating systems make computers easier to use in some ways, they prevent users from gaining access or command over its more intricate processes. Now, to install a new program, users must consult the ‘wizard’. What better metaphor do we need for the remystification of the computer? Computer literacy no longer means being able to programme a computer, but merely knowing how to use software such as Microsoft Office.
 
-Finally, the do-it-yourself ethic of the internet community was
-
-replaced by the new value of commerce. The communications age
-
-was rebranded as the information age, even though the internet had
-
-never really been about downloading files or data, but about
-
-communicating with other people. The difference was that
-
-information, or content, unlike real human interaction, could be
-
-bought and sold. It was a commodity. People would pay, it was
-
-thought, for horoscopes, stock prices and magazine articles. When
-
-selling information online didn’t work, businesspeople instead turned
-
-to selling real products online. Horoscope.com and online literary
-
-journals gave way to Pets.com and online bookstores. The ecommerce boom was ignited. Soon the internet became the World
-
-Wide Web. Its opaque and image-heavy interfaces made it
-
-increasingly one-way and read-only, more conducive to commerce
-
-than communication. The internet was reduced to a direct marketing
-
-platform.
+Finally, the do-it-yourself ethic of the internet community was replaced by the new value of commerce. The communications age was rebranded as the information age, even though the internet had never really been about downloading files or data, but about communicating with other people. The difference was that information, or content, unlike real human interaction, could be bought and sold. It was a commodity. People would pay, it was thought, for horoscopes, stock prices and magazine articles. When selling information online didn’t work, businesspeople instead turned to selling real products online. Horoscope.com and online literary journals gave way to Pets.com and online bookstores. The e-commerce boom was ignited. Soon the internet became the World Wide Web. Its opaque and image-heavy interfaces made it increasingly one-way and read-only, more conducive to commerce than communication. The internet was reduced to a direct marketing platform.
 
 El e ct ronic co m m u n i ty
 
