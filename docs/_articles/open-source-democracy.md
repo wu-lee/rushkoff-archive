@@ -209,21 +209,7 @@ Our nurtured complacency and our sense of absolute security had always been unfo
 
 Efforts to package America’s New War on news channels like CNN further alienated the more cynical viewers from the mainstream account of what had happened. Conspiracy theorists, Web activists and open-minded leftists, already suspicious of the narratives presented through television, found themselves falling prey to a falsified email letter from a Brazilian schoolteacher claiming that video footage of Palestinians celebrating the attacks had actually been shot years earlier during the Gulf War. Like any other narrative, the extreme counterculture’s saga of a ‘new world order’, directed by the Bush family, had to be wrapped around the new data.
 
-Meanwhile, many Jews and Christians who hadn’t even thought
-
-about their religion or their ethnicity for years found themselves
-
-instinctively asking: ‘how will this impact Israel?’ or ‘is the
-
-Armageddon upon us?’ They bought memberships in religious
-
-institutions for the first time in decades, and packed into their
-
-churches and synagogues looking for reassurance, for a way to fit
-
-these catastrophes into a bigger story. Like everyone else, they hoped
-
-to reconstruct the narrative that had been shattered.
+Meanwhile, many Jews and Christians who hadn’t even thought about their religion or their ethnicity for years found themselves instinctively asking: ‘how will this impact Israel?’ or ‘is the Armageddon upon us?’ They bought memberships in religious institutions for the first time in decades, and packed into their churches and synagogues looking for reassurance, for a way to fit these catastrophes into a bigger story. Like everyone else, they hoped to reconstruct the narrative that had been shattered.
 
 But surely our world views, political outlooks and religions aren’t
 
