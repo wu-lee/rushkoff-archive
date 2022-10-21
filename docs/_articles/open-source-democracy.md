@@ -179,27 +179,7 @@ The renaissance experience of moving beyond the frame allows everything old to l
 
 The first to recognise the new renaissance will compete to have their ideologies be the ones that are rebirthed in this new context. This is why, with the emergence of the internet, we saw the attempted rebirth (and occasional stillbirth) of everything from paganism to libertarianism, and communism to psychedelia. Predictably, the financial markets and consumer capitalism, the dominant narratives of our era, were the first to commandeer successfully the renaissance. But they squandered their story on a pyramid scheme (indeed, the accelerating force of computers and networks tends to force any story to its logical conclusion) and now the interactive renaissance is once again up for grabs.
 
-Perhaps the most valuable idea to plant now, into the postrenaissance society of tomorrow, is the very notion of renaissance
-
-itself. Interactivity, both as an allegory for a healthier relationship to
-
-cultural programming, and as an actual implementation of a widely
-
-accessible authoring technology, reduces our dependence on fixed
-
-narratives while giving us the tools and courage to develop narratives
-
-together. The birth of interactive technology has allowed for a sudden
-
-change of state. We have witnessed together the wizard behind the
-
-curtain. We can all see, for this moment anyway, how so very much of
-
-what we have perceived of as reality is, in fact, merely social
-
-construction. More importantly, we have gained the ability to enact
-
-such wizardry ourselves.
+Perhaps the most valuable idea to plant now, into the post-renaissance society of tomorrow, is the very notion of renaissance itself. Interactivity, both as an allegory for a healthier relationship to cultural programming, and as an actual implementation of a widely accessible authoring technology, reduces our dependence on fixed narratives while giving us the tools and courage to develop narratives together. The birth of interactive technology has allowed for a sudden change of state. We have witnessed together the wizard behind the curtain. We can all see, for this moment anyway, how so very much of what we have perceived of as reality is, in fact, merely social construction. More importantly, we have gained the ability to enact such wizardry ourselves.
 
 The most ready examples of such suddenly received knowledge
 
