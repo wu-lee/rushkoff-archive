@@ -143,29 +143,7 @@ Another example is calculus, another key Renaissance invention. Calculus is a ma
 
 The other main features of the Renaissance permitted similar shifts in perspective. Circumnavigation of the globe changed our relationship between the planet we live on and the maps we used to describe it. The maps still worked, they just described a globe instead of a plane. Anyone hoping to navigate a course had to be able to relate a two-dimensional map to the new reality of a three-dimensional planet.
 
-Similarly, the invention of moveable type and the printing press
-
-changed the relationship of author and audience to text. The creation
-
-of a manuscript was no longer a one-pointed affair. The creation of
-
-The oppo rt u n i ty for re n a i s s a n ce
-
-De m o s 33
-
-the first manuscript still was, but now it could be replicated and
-
-distributed to everyone. It was still one story, but now was subject to a
-
-multiplicity of individual perspectives. This innovation alone
-
-changed the landscape of religion in the Western world. Individual
-
-interpretation of the Bible led to the collapse of church authority and
-
-the unilateral nature of its decrees. Everyone demanded his or her
-
-own relationship to the story.
+Similarly, the invention of moveable type and the printing press changed the relationship of author and audience to text. The creation of a manuscript was no longer a one-pointed affair. The creation of the first manuscript still was, but now it could be replicated and distributed to everyone. It was still one story, but now was subject to a multiplicity of individual perspectives. This innovation alone changed the landscape of religion in the Western world. Individual interpretation of the Bible led to the collapse of church authority and the unilateral nature of its decrees. Everyone demanded his or her own relationship to the story.
 
 Our electronic renaissance
 
