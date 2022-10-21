@@ -185,31 +185,7 @@ The most ready examples of such suddenly received knowledge come to us from the 
 
 Of course, most of these mystical scribblings end up being over-simplified platitudes such as ‘all is one’ or ‘I am God’. Those that rise above such clichés, such as the more mystical tractates of Ezekiel or Julian of Norwich, defy rational analysis or any effort at comprehension. Our only choice, in such a situation, might be to attempt to preserve just the initial insight that our maps are mere models, and that we have the ability to draw new ones whenever we wish.
 
-This is why the scientists, mathematicians, engineers, businesspeople, religious and social organisers of the late twentieth century,
-
-who have adopted a renaissance perspective on their fields, have also
-
-proclaimed their insights to be so categorically set apart from the
-
-work of their predecessors. Chaos mathematicians (and the
-
-economists who depend on them) regard systems theory as an
-
-entirely new understanding of the inner workings of our reality. They
-
-are then celebrated on the pages of the New York Timesfor declaring
-
-that our universe is actually made up of a few simple equations called
-
-cellular-automata. Scientists find themselves abandoning a theory of
-
-anthill organisation that depends on commands from the queen, and
-
-replacing it with a bottom-up model of emergent organisation that
-
-depends on the free flow of information between every member of
-
-the colony.
+This is why the scientists, mathematicians, engineers, businesspeople, religious and social organisers of the late twentieth century, who have adopted a renaissance perspective on their fields, have also proclaimed their insights to be so categorically set apart from the work of their predecessors. Chaos mathematicians (and the economists who depend on them) regard systems theory as an entirely new understanding of the inner workings of our reality. They are then celebrated on the pages of the _New York Times_ for declaring that our universe is actually made up of a few simple equations called cellular-automata. Scientists find themselves abandoning a theory of anthill organisation that depends on commands from the queen, and replacing it with a bottom-up model of emergent organisation that depends on the free flow of information between every member of the colony.
 
 More importantly, however, these flashes of insight and radical
 
