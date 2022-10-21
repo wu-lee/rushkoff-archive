@@ -137,25 +137,7 @@ The birth of the internet was interpreted by many as a revolution. Those of us i
 
 This is why it might be more useful to understand the proliferation of interactive media as an opportunity for renaissance: a moment when we have the ability to step out of the story altogether. Renaissances are historical instances of widespread recontextualisation. People in a variety of different arts, philosophies and sciences have the ability to reframe their reality. Renaissance literally means ‘rebirth’. It is the rebirth of old ideas in a new context. A renaissance is a dimensional leap, when our perspective shifts so dramatically that our understanding of the oldest, most fundamental elements of existence changes. The stories we have been using no longer work.
 
-Take a look back at what we think of as the original Renaissance,
-
-the one we were taught in school. What were the main leaps in
-
-perspective? One example is the use of perspective in painting. Artists
-
-developed the technique of the vanishing point and with it the ability
-
-to paint three-dimensional representations on two-dimensional
-
-surfaces. The character of this innovation is subtle but distinct.
-
-It is not a technique for working in three dimensions; it is not that
-
-artists moved from working on canvas to working with clay.
-
-Rather, perspective painting allows an artist to relate between
-
-dimensions: representing three-dimensional objects on a twodimensional plane.
+Take a look back at what we think of as the original Renaissance, the one we were taught in school. What were the main leaps in perspective? One example is the use of perspective in painting. Artists developed the technique of the vanishing point and with it the ability to paint three-dimensional representations on two-dimensional surfaces. The character of this innovation is subtle but distinct. It is not a technique for working in three dimensions; it is not that artists moved from working on canvas to working with clay. Rather, perspective painting allows an artist to relate between dimensions: representing three-dimensional objects on a two-dimensional plane.
 
 Another example is calculus, another key Renaissance invention.
 
