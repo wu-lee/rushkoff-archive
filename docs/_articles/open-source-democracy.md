@@ -123,27 +123,7 @@ Few e-commerce companies made any money selling goods, but the idea that they co
 
 News stories about online communities such as The Well, or even discussion groups for breast cancer survivors were soon overshadowed by those about daring young entrepreneurs launching multi-million-dollar IPOs (Initial Price Offerings of formerly private stock on public exchanges such as the NYSE or NASDAQ.) Internet journalism, written by option-holding employees of media conglomerates, moved from the culture section to the business pages and the dot.com pyramid scheme became the dominant new media story.
 
-A medium born out of the ability to break through packaged
-
-stories was now being used to promote a new, equally dangerous one:
-
-the great pyramid. A smart kid writes a business plan. He finds a few
-
-‘angel’ investors to back him up long enough to land some first-level
-
-investors. Below them on the pyramid are several more rounds of
-
-investors, until the investment bank gets involved. Another few levels
-
-of investors buy in until the decision is made to go public. Of course,
-
-by this point, the angels and other early investors are executing their
-
-exit strategy. It used be known as a carpet bag. In any case they’re
-
-gone and the investing public is left holding the soon-to-be-worthless
-
-shares.
+A medium born out of the ability to break through packaged stories was now being used to promote a new, equally dangerous one: the great pyramid. A smart kid writes a business plan. He finds a few 'angel' investors to back him up long enough to land some first-level investors. Below them on the pyramid are several more rounds of investors, until the investment bank gets involved. Another few levels of investors buy in until the decision is made to go public. Of course, by this point, the angels and other early investors are executing their exit strategy. It used be known as a carpet bag. In any case they’re gone and the investing public is left holding the soon-to-be-worthless shares.
 
 Tragically, but perhaps luckily, the dot.com bubble burst along
 
