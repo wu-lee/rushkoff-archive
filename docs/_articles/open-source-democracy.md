@@ -193,37 +193,7 @@ More importantly, however, these flashes of insight and radical reappraisal of f
 
 More than any particular map or narrative we might develop, we need to retain the crucial awareness that any and all of these narratives are mere models for behavioural, social, economic or political success. Though provisionally functional, none of them are absolutely true. To mistake any of them for reality would be to mistake the map for the territory. This, more than anything, is the terrible lesson of the twentieth century. Many people, institutions and nations have yet to adopt strategies that take this lesson into account.
 
-The oil industry and its representatives (some now elected in
-
-government) are, for example, incapable of understanding a profit
-
-model that does not involve the exploitation of fixed and limited
-
-resources. They continue to push the rest of the industrialised world
-
-Open source democ ra cy
-
-40 De m o s
-
-towards the unnecessary bolstering of cooperative, if oppressive
-
-dictatorships, as well as the wars these policies invariably produce.
-
-The chemical and agriculture industries, incapable of envisioning a
-
-particular crop as anything but a drug-addicted, genetically altered
-
-species, cannot conceive of the impact of their innovations on the
-
-planet’s topsoil or e cosystems. In more readily appreciated examples,
-
-the Church of England is still consumed with its defence of the literal
-
-interpretation of biblical events, and many fundamentalists sects in
-
-the United States still fight, quite successfully, to prevent the theory of
-
-evolution from being taught in state schools.
+The oil industry and its representatives (some now elected in government) are, for example, incapable of understanding a profit model that does not involve the exploitation of fixed and limited resources. They continue to push the rest of the industrialised world towards the unnecessary bolstering of cooperative, if oppressive dictatorships, as well as the wars these policies invariably produce. The chemical and agriculture industries, incapable of envisioning a particular crop as anything but a drug-addicted, genetically altered species, cannot conceive of the impact of their innovations on the planet’s topsoil or ecosystems. In more readily appreciated examples, the Church of England is still consumed with its defence of the literal interpretation of biblical events, and many fundamentalists sects in the United States still fight, quite successfully, to prevent the theory of evolution from being taught in state schools.
 
 Although the terrorist attacks on the United States can find their
 
