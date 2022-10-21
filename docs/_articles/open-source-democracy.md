@@ -129,15 +129,7 @@ Tragically, but perhaps luckily, the dot.com bubble burst along with the story b
 
 Back here in the real world, the internet is doing just fine. Better than ever. The World Wide Web, whose rather opaque platform ascended primarily for its ability to serve as an online catalogue, has been adapted to serve many of the internet’s original, more technologically primitive functions. USENET discussions have been reborn as web-based bulletin boards such as Slashdot, and Metafilter. Personal daily diaries known as weblogs have multiplied by the thousands. Blogger.com provides a set of publishing tools that allows even a novice to create a weblog, automatically add content to a web site or organise links, commentary and open discussions. In the short time Blogger has been available, it has fostered an interconnected community of tens of thousands of users. These people don’t simply surf the Web. They are now empowered to create it.
 
-Rising from the graveyard of failed business plans, these
-
-collaborative communities of authors and creators are the true
-
-harbingers of cultural and perhaps political renaissance.
-
-El e ct ronic co m m u n i ty
-
-De m o s 31
+Rising from the graveyard of failed business plans, these collaborative communities of authors and creators are the true harbingers of cultural and perhaps political renaissance.
 
 4\. The opportunity for
 
