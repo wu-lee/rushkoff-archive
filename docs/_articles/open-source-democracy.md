@@ -191,21 +191,7 @@ More importantly, however, these flashes of insight and radical reappraisal of f
 
 **11 September 2001: coping by retreat into a world view**
 
-More than any particular map or narrative we might develop, we
-
-need to retain the crucial awareness that any and all of these
-
-narratives are mere models for behavioural, social, economic or
-
-political success. Though provisionally functional, none of them are
-
-absolutely true. To mistake any of them for reality would be to
-
-mistake the map for the territory. This, more than anything, is the
-
-terrible lesson of the twentieth century. Many people, institutions and
-
-nations have yet to adopt strategies that take this lesson into account.
+More than any particular map or narrative we might develop, we need to retain the crucial awareness that any and all of these narratives are mere models for behavioural, social, economic or political success. Though provisionally functional, none of them are absolutely true. To mistake any of them for reality would be to mistake the map for the territory. This, more than anything, is the terrible lesson of the twentieth century. Many people, institutions and nations have yet to adopt strategies that take this lesson into account.
 
 The oil industry and its representatives (some now elected in
 
