@@ -207,25 +207,7 @@ The most injurious rupture, of course, was to the narrative we use to feel safe 
 
 Our nurtured complacency and our sense of absolute security had always been unfounded, of course. But waking up to the great existential dilemma as suddenly as we did was a traumatic experience. It led us to revert to old habits. Anti-Semites (and latent anti-Semites) around the world used the catastrophe as new evidence of the 'Jewish problem'. Tsarist and Nazi propaganda books, such as _Protocols of the Elders of Zion_, hit the bestseller lists in countries like Saudi Arabia where they are still being published by official government presses. Newspaper stories revived blood libel (that Jews drink the blood of murdered non-Jewish teens) and spread the disinformation that Jews were warned about the attacks by their rabbis through special radios they keep in their homes. Indeed, such informational treachery is nothing new. But in the destabilised atmosphere of disrupted narrative, it spread faster, wider and with greater effect than it otherwise would have.
 
-Efforts to package America’s New War on news channels like CNN
-
-further alienated the more cynical viewers from the mainstream
-
-account of what had happened. Conspiracy theorists, Web activists
-
-and open-minded leftists, already suspicious of the narratives
-
-presented through television, found themselves falling prey to a
-
-falsified email letter from a Brazilian schoolteacher claiming that
-
-video footage of Palestinians celebrating the attacks had actually been
-
-shot years earlier during the Gulf War. Like any other narrative, the
-
-extreme counterculture’s saga of a ‘new world order’, directed by the
-
-Bush family, had to be wrapped around the new data.
+Efforts to package America’s New War on news channels like CNN further alienated the more cynical viewers from the mainstream account of what had happened. Conspiracy theorists, Web activists and open-minded leftists, already suspicious of the narratives presented through television, found themselves falling prey to a falsified email letter from a Brazilian schoolteacher claiming that video footage of Palestinians celebrating the attacks had actually been shot years earlier during the Gulf War. Like any other narrative, the extreme counterculture’s saga of a ‘new world order’, directed by the Bush family, had to be wrapped around the new data.
 
 Meanwhile, many Jews and Christians who hadn’t even thought
 
