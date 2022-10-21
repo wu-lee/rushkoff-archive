@@ -205,39 +205,7 @@ Meanwhile, free-market capitalism’s stalwarts, who had already suffered the co
 
 The most injurious rupture, of course, was to the narrative we use to feel safe and protected in an increasingly global society. The attacks on the Pentagon and World Trade Center, pinpointed, devastating, and worst of all perfectly executed, challenged the notion that we were the world’s singularly invincible nation. The people we appointed to protect us had proved their inability to do so. President Bush’s quick rise to an over 90 per cent popularity rating shows just how much we needed to believe in his ability to provide us with the omnipotent fatherly protection that his rhetoric commanded. But like a child realising that his parents can’t save him from the bully at school, Americans were forced to consider that our leaders, our weapons and our wealth offer only so much insulation from a big bad world.
 
-Our nurtured complacency and our sense of absolute security had
-
-always been unfounded, of course. But waking up to the great
-
-existential dilemma as suddenly as we did was a traumatic experience.
-
-It led us to revert to old habits.Anti-Semites (and latent anti-Semites)
-
-around the world used the catastrophe as new evidence of the ‘Jewish
-
-problem’. Tsarist and Nazi propaganda books, such as Protocols of the
-
-Elders of Zion, hit the bestseller lists in countries like Saudi Arabia
-
-where they are still being published by official government presses.
-
-Newspaper stories revived blood libel (that Jews drink the blood of
-
-murdered non-Jewish teens) and spread the disinformation that Jews
-
-were warned about the attacks by their rabbis through special radios
-
-they keep in their homes. Indeed, such informational treachery is
-
-nothing new. But in the destabilised atmosphere of disrupted
-
-narrative, it spread faster, wider and with greater effect than it
-
-otherwise would have.
-
-Open source democ ra cy
-
-42 De m o s
+Our nurtured complacency and our sense of absolute security had always been unfounded, of course. But waking up to the great existential dilemma as suddenly as we did was a traumatic experience. It led us to revert to old habits. Anti-Semites (and latent anti-Semites) around the world used the catastrophe as new evidence of the 'Jewish problem'. Tsarist and Nazi propaganda books, such as _Protocols of the Elders of Zion_, hit the bestseller lists in countries like Saudi Arabia where they are still being published by official government presses. Newspaper stories revived blood libel (that Jews drink the blood of murdered non-Jewish teens) and spread the disinformation that Jews were warned about the attacks by their rabbis through special radios they keep in their homes. Indeed, such informational treachery is nothing new. But in the destabilised atmosphere of disrupted narrative, it spread faster, wider and with greater effect than it otherwise would have.
 
 Efforts to package America’s New War on news channels like CNN
 
