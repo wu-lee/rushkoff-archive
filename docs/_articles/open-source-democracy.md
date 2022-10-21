@@ -183,23 +183,7 @@ Perhaps the most valuable idea to plant now, into the post-renaissance society o
 
 The most ready examples of such suddenly received knowledge come to us from the mystics. Indeed, many early cyber-pioneers expressed their insights (see my _Cyberia_ for examples³) in mystical language coining terms such as ‘technoshamanism’ and ‘cyberdelia’. Indeed, in some ways it does feel as though our society were at the boundaries of a mystical experience, when we have a glimpse of the profoundly arbitrary nature of the stories we use to organise and explain the human experience. It is at precisely these moments that the voyager wonders: ‘what can I tell myself – what I can write down that will make me remember this experience beyond words?’
 
-Of course, most of these mystical scribblings end up being oversimplified platitudes such as ‘all is one’ or ‘I am God’. Those that rise
-
-above such clichés, such as the more mystical tractates of Ezekiel or
-
-Julian of Norwich, defy rational analysis or any effort at
-
-comprehension. Our only choice, in such a situation, might be to
-
-attempt to preserve just the initial insight that our maps are mere
-
-The oppo rt u n i ty for re n a i s s a n ce
-
-De m o s 39
-
-models, and that we have the ability to draw new ones whenever we
-
-wish.
+Of course, most of these mystical scribblings end up being over-simplified platitudes such as ‘all is one’ or ‘I am God’. Those that rise above such clichés, such as the more mystical tractates of Ezekiel or Julian of Norwich, defy rational analysis or any effort at comprehension. Our only choice, in such a situation, might be to attempt to preserve just the initial insight that our maps are mere models, and that we have the ability to draw new ones whenever we wish.
 
 This is why the scientists, mathematicians, engineers, businesspeople, religious and social organisers of the late twentieth century,
 
