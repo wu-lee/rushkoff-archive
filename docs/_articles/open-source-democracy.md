@@ -155,23 +155,7 @@ Some gamers, though – usually after they’ve mastered this level of play – 
 
 The great Renaissance was a simple leap in perspective. Instead of seeing everything in one dimension, we came to realise there was more than one dimension on which things were occurring. Even the Elizabethan world picture, with its concentric rings of authority – God, king, man, animals – reflects this newfound way of contending with the simultaneity of action of many dimensions at once. A gamer stepping out onto the internet to find a cheat code certainly reaches this first renaissance’s level of awareness and skill.
 
-But what of the gamer who then learns to programme new games
-
-for himself? He, we might argue,has stepped out of yet another frame
-
-into our current renaissance. He has deconstructed the content of the
-
-game, demystified the technology of its interface and now feels ready
-
-to open the codes and turn the game into a do-it-yourself activity. He
-
-has moved from a position of a receiving player to that of a
-
-deconstructing user. He has assumed the position of author, himself.
-
-This leap to authorship is precisely the character and quality of the
-
-dimensional leap associated with today’s renaissance.
+But what of the gamer who then learns to programme new games for himself? He, we might argue, has stepped out of yet another frame into our current renaissance. He has deconstructed the content of the game, demystified the technology of its interface and now feels ready to open the codes and turn the game into a do-it-yourself activity. He has moved from a position of a receiving player to that of a deconstructing user. He has assumed the position of author, himself. This leap to authorship is precisely the character and quality of the dimensional leap associated with today’s renaissance.
 
 The evidence of today’s renaissance is at least as profound as that
 
