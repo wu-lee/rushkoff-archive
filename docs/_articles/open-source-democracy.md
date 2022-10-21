@@ -163,19 +163,7 @@ We also have our equivalent of perspective painting, in the invention of the hol
 
 Our analogy to calculus is the development of systems theory, chaos maths and the much celebrated fractal. Confronting non-linear equations on their own terms for the first time, mathematicians armed with computers are coming to new understandings of the way numbers can be used to represent the complex relationships between dimensions. Accepting that the surfaces in our world, from coastlines to clouds, exhibit the properties of both two- and three-dimensional objects (just what is the surface area of a cloud?) they came up with ways of working with and representing objects with fractional dimensionality.
 
-Using fractals and their equations, we can now represent and work
-
-with objects from the natural world that defy Cartesian analysis. We
-
-also become able to develop mathematical models that reflect many
-
-more properties of nature’s own systems, such as self-similarity and
-
-remote high leverage points. Again, we find that this renaissance is
-
-characterised by the ability of an individual to reflect, or even affect,
-
-the grand narrative. To write the game.
+Using fractals and their equations, we can now represent and work with objects from the natural world that defy Cartesian analysis. We also become able to develop mathematical models that reflect many more properties of nature’s own systems, such as self-similarity and remote high leverage points. Again, we find that this renaissance is characterised by the ability of an individual to reflect, or even affect, the grand narrative. To write the game.
 
 Finally, our renaissance’s answer to the printing press is the
 
