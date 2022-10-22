@@ -245,21 +245,7 @@ Another more immediately observable example is the way women living together wil
 
 These models of phase-locking and self-similarity, first studied by the chaos mathematicians but eventually adopted by the culture of the internet, also seemed to be reflected in the ever-expanding mediaspace. The notion of remote high leverage points (a butterfly flapping its wings in Brazil leading to a hurricane in New York) was now proven every day by a datasphere capable of transmitting a single image globally in a matter of minutes. A black man being beaten by white cops in Los Angeles is captured on a home video camera and appears on television sets around the globe overnight. Eventually, this 30-second segment of police brutality leads to full-scale urban rioting in a dozen American cities.
 
-These models for interactivity and coordinated behaviour may
-
-have been launched in the laboratory, but they were first embraced by
-
-countercultures. Psychedelics enthusiasts (people who either ingested
-
-substances such as LSD or found themselves inspired by the art,
-
-writing and expression of the culture associated with these drugs)
-
-found themselves drawn to technologies that were capable of
-
-reproducing both the visual effects of their hallucinations as well as
-
-the sense of newfound connection with others.
+These models for interactivity and coordinated behaviour may have been launched in the laboratory, but they were first embraced by countercultures. Psychedelics enthusiasts (people who either ingested substances such as LSD or found themselves inspired by the art, writing and expression of the culture associated with these drugs) found themselves drawn to technologies that were capable of reproducing both the visual effects of their hallucinations as well as the sense of newfound connection with others.
 
 Similarly, the computer and internet galvanised certain strains of
 
