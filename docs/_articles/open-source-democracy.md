@@ -247,17 +247,7 @@ These models of phase-locking and self-similarity, first studied by the chaos ma
 
 These models for interactivity and coordinated behaviour may have been launched in the laboratory, but they were first embraced by countercultures. Psychedelics enthusiasts (people who either ingested substances such as LSD or found themselves inspired by the art, writing and expression of the culture associated with these drugs) found themselves drawn to technologies that were capable of reproducing both the visual effects of their hallucinations as well as the sense of newfound connection with others.
 
-Similarly, the computer and internet galvanised certain strains of
-
-both the pagan and the grassroots ‘do-it-yourself’ countercultures as
-
-the ‘cyberpunk’ movement, which was dedicated to altering reality
-
-through technology, together. Only now are the social effects of these
-
-technologies being considered by political scientists for what they
-
-may teach us about public opinion and civic engagement.
+Similarly, the computer and internet galvanised certain strains of both the pagan and the grassroots ‘do-it-yourself’ countercultures as the ‘cyberpunk’ movement, which was dedicated to altering reality through technology, together. Only now are the social effects of these technologies being considered by political scientists for what they may teach us about public opinion and civic engagement.
 
 The underlying order of apparently chaotic systems in
 
