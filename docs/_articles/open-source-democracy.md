@@ -273,21 +273,7 @@ This in itself may not have been so terrible. E-commerce certainly has its stren
 
 That’s why the software and interfaces developed for the commercial webspace tended to take users’ hands off the keyboard and onto the mouse. The most successful programs, for them, lead people to the ‘buy’ button and let them use the keyboard only to enter their credit card numbers and nothing else. The internet that grew from these development priorities, dominated by the World Wide Web instead of discussion groups, treats individuals more as consumers than as citizens. True, consumers can vote with their dollars, and that in a way feels something like direct communication with the entity in charge – the corporation. But this is not a good model for government.
 
-Sadly, though, it’s the model being used to implement these first
-
-efforts at teledemocracy. And it’s why these efforts suffer from the
-
-worst symptoms of consumer culture: they focus on short-term
-
-ideals, they encourage impulsive, image-driven decision-making and
-
-they aim to convince people that their mouse-clicking is some kind of
-
-direct action. Anyone arguing against such schemes must be an
-
-enemy of the public will, an elitist. Teledemocracy is a populist
-
-revival, after all, isn’t it?
+Sadly, though, it’s the model being used to implement these first efforts at teledemocracy. And it’s why these efforts suffer from the worst symptoms of consumer culture: they focus on short-term ideals, they encourage impulsive, image-driven decision-making and they aim to convince people that their mouse-clicking is some kind of direct action. Anyone arguing against such schemes must be an enemy of the public will, an elitist. Teledemocracy is a populist revival, after all, isn’t it?
 
 Perhaps. But the system of representation on which most
 
