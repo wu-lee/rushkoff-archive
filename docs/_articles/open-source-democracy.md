@@ -295,19 +295,7 @@ Of course this depends on a lot of preconditions. Participants in an open source
 
 Those who are invited to re-evaluate our social and political structures in such a way will stand the best chance of gaining the perspective necessary to see the emergent properties of such systems, as well as avenues for active participation in them. If no one is invited then the first harbingers of emergent paradigms will be those who have been motivated to train themselves in spite of the obstacles set in front of them by those who hope to maintain exclusive control over the code. The new models they come up with may, as a result, end up looking much more like old-style revolutions than true renaissances.
 
-The implementation of an open source democracy will require us
-
-to dig deep into the very code of our legislative processes, and then
-
-rebirth it in the new context of our networked reality. It will require
-
-us to assume, at least temporarily, that nothing at all is too sacred to
-
-be questioned,reinterpreted and modified. But in doing so, we will be
-
-enabled to bring democracy through its current crisis and into its
-
-next stage of development.
+The implementation of an open source democracy will require us to dig deep into the very code of our legislative processes, and then rebirth it in the new context of our networked reality. It will require us to assume, at least temporarily, that nothing at all is too sacred to be questioned, reinterpreted and modified. But in doing so, we will be enabled to bring democracy through its current crisis and into its next stage of development.
 
 But, like literacy, the open source ethos and process are hard if not
 
