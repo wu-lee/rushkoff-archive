@@ -255,35 +255,7 @@ As we have seen, until rather recently, most observers thought of a colony of be
 
 Likewise, the slime mould growing in damp fields and forests all around us can exhibit remarkably coordinated behaviour. Most of the time, the sludge-like collection of micro-organisms go about their business quite independently of one another, each one foraging for food and moving about on its own. But when conditions worsen, food becomes scarce or the forest floor becomes dry, the formerly distinct creatures coalesce into a single being. The large mass of slime moves about, amassing the moisture of the collective, until it finds a more hospitable region of forest, and then breaks up again into individual creatures. The collective behaviour is an emergent trait, learned through millennia of evolution. But it is only activated when the group is under threat. The processes allowing for these alternative strategies are still being scrutinised by scientists, who are only beginning to come to grips with the implications of these findings in understanding other emergent systems from cities to civilisations.
 
-At first glance, the proposition that human civilisation imitates the
-
-behaviour of slime mould is preposterous, an evolutionary leap
-
-backwards. An individual human consciousness is infinitely more
-
-advanced than that of a single slime mould micro-organism. But a
-
-coordinated human meta-organism is not to be confused with the
-
-highly structured visions of a ‘super organism’ imagined in the
-
-philosophical precursors to fascism in the nineteenth and twentieth
-
-Open source democ ra cy
-
-50 De m o s
-
-centuries. Rather, thanks to the feedback and iteration offered by our
-
-new interactive networks, we aspire towards a highly articulated and
-
-dynamic body politic: a genuinely networked democracy, capable of
-
-accepting and maintaining a multiplicity of points of view, instead of
-
-seeking premature resolution and the oversimplification that comes
-
-with it.
+At first glance, the proposition that human civilisation imitates the behaviour of slime mould is preposterous, an evolutionary leap backwards. An individual human consciousness is infinitely more advanced than that of a single slime mould micro-organism. But a coordinated human meta-organism is not to be confused with the highly structured visions of a ‘super organism’ imagined in the philosophical precursors to fascism in the nineteenth and twentieth centuries. Rather, thanks to the feedback and iteration offered by our new interactive networks, we aspire towards a highly articulated and dynamic body politic: a genuinely networked democracy, capable of accepting and maintaining a multiplicity of points of view, instead of seeking premature resolution and the oversimplification that comes with it.
 
 This is why it appeared that the decision to grant the public open
 
