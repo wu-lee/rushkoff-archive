@@ -291,33 +291,7 @@ One model for the open-ended and participatory process through which legislation
 
 By publishing software along with its source code, open source developers encourage one another to correct each other’s mistakes, and improve upon each other’s work. Rather than competing they collaborate, and don’t hide the way their programs work. As a result, everyone is invited to change the underlying code and the software can evolve with the benefit of a multiplicity of points of view.
 
-Of course this depends on a lot of preconditions. Participants in an
-
-open source collaboration must be educated in the field they are
-
-developing. People cannot expect to be able to understand and edit
-
-the code underlying any system until they have taken the time and
-
-spent the necessary energy to penetrate it. Very often, as in the case of
-
-computer software, this also depends on open standards so that the
-
-code is accessible to all. But it is also true of many other systems. If
-
-those who hope to engage in the revision of our societal models are
-
-not educated by those who developed what is already in place, they
-
-will spend most of their time inefficiently reverse-engineering
-
-existing structures in an effort to understand them. Progress can only
-
-be made if new minds are educated in the current languages, exposed
-
-to the rationale for all decisions that have been made and invited to
-
-test new methods and structures.
+Of course this depends on a lot of preconditions. Participants in an open source collaboration must be educated in the field they are developing. People cannot expect to be able to understand and edit the code underlying any system until they have taken the time and spent the necessary energy to penetrate it. Very often, as in the case of computer software, this also depends on open standards so that the code is accessible to all. But it is also true of many other systems. If those who hope to engage in the revision of our societal models are not educated by those who developed what is already in place, they will spend most of their time inefficiently reverse-engineering existing structures in an effort to understand them. Progress can only be made if new minds are educated in the current languages, exposed to the rationale for all decisions that have been made and invited to test new methods and structures.
 
 Those who are invited to re-evaluate our social and political
 
