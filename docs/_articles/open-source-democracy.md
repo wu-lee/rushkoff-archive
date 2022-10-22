@@ -235,25 +235,7 @@ The current renaissance offers new understandings of what it might mean to forge
 
 Again, our renaissance insights and inventions aid us in our quest for a more dimensionalised perspective on our relationship to one another. Rather famously the first Renaissance elevated the Catholic mass into a congregation of Protestant readers. Thanks to the printing press and the literacy movement that followed, each person could enjoy his or her own personal relationship to texts and the mythologies they described. Our own renaissance offers us the opportunity to enhance the dimensionality of these relationships even further, as we transform from readers into writers.
 
-It’s no coincidence that early internet users became obsessed with
-
-the fractal images they were capable of producing. The reassuring
-
-self-similarity of these seemingly random graphs of non-linear
-
-Ne two rked democ ra cy
-
-De m o s 47
-
-equations evoked the shapes of nature. One simple set of fractal
-
-equations, iterated through a computer, could produce a threedimensional image of a fern, a coastline or a cloud. Zooming in on
-
-one small section revealed details and textures reflective of those on
-
-other levels of magnification. Indeed, each tiny part appeared to
-
-reflect the whole.
+It’s no coincidence that early internet users became obsessed with the fractal images they were capable of producing. The reassuring self-similarity of these seemingly random graphs of non-linear equations evoked the shapes of nature. One simple set of fractal equations, iterated through a computer, could produce a three-dimensional image of a fern, a coastline or a cloud. Zooming in on one small section revealed details and textures reflective of those on other levels of magnification. Indeed, each tiny part appeared to reflect the whole.
 
 For early internet users, sitting alone in their homes or offices,
 
