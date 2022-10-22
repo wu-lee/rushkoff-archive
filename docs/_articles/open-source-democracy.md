@@ -275,19 +275,7 @@ That’s why the software and interfaces developed for the commercial webspace t
 
 Sadly, though, it’s the model being used to implement these first efforts at teledemocracy. And it’s why these efforts suffer from the worst symptoms of consumer culture: they focus on short-term ideals, they encourage impulsive, image-driven decision-making and they aim to convince people that their mouse-clicking is some kind of direct action. Anyone arguing against such schemes must be an enemy of the public will, an elitist. Teledemocracy is a populist revival, after all, isn’t it?
 
-Perhaps. But the system of representation on which most
-
-democracies were built was intended to buffer the effects of such
-
-populist revivals. Although they may not always (or even frequently)
-
-live up to it, our representatives’ role is to think beyond short-term
-
-interests of the majority. They are elected to protect the rights of
-
-minority interests, the sorts of people and groups who are now
-
-increasingly cast as ‘special interest groups’.
+Perhaps. But the system of representation on which most democracies were built was intended to buffer the effects of such populist revivals. Although they may not always (or even frequently) live up to it, our representatives’ role is to think beyond short-term interests of the majority. They are elected to protect the rights of minority interests, the sorts of people and groups who are now increasingly cast as ‘special interest groups’.
 
 Achieving the promise of network democracy
 
