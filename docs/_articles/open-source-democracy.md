@@ -259,29 +259,7 @@ At first glance, the proposition that human civilisation imitates the behaviour 
 
 This is why it appeared that the decision to grant the public open access to the internet in the early 1990s would herald a new era of teledemocracy, political activism and a reinstatement of the collective will into public affairs. The emergence of a networked culture, accompanied by an ethic of media literacy, open discussion and direct action, held the promise of a more responsive political system wherever it spread.
 
-But most efforts at such teledemocracy so far, such as former
-
-Clinton pollster Dick Morris’s website www.vote.com, or even the
-
-somewhat effective political action site www.moveon.org, are simply
-
-new versions of the public opinion poll. Billing themselves as the next
-
-phase in a truly populist and articulated body politic, the sites
-
-amount to little more than an opportunity for politicians to glean the
-
-gist of a few more uninformed, knee-jerk reactions to the issue of
-
-the day. Vote.com, as the name suggests, reduces representative
-
-democracy to just another marketing survey. Even if it is just the
-
-framework for a much more substantial future version, it is based on
-
-a fundamentally flawed vision of push-button politics. That’s the
-
-vision shared by most teledemocracy champions today.
+But most efforts at such teledemocracy so far, such as former Clinton pollster Dick Morris’s website www.vote.com, or even the somewhat effective political action site www.moveon.org, are simply new versions of the public opinion poll. Billing themselves as the next phase in a truly populist and articulated body politic, the sites amount to little more than an opportunity for politicians to glean the gist of a few more uninformed, knee-jerk reactions to the issue of the day. Vote.com, as the name suggests, reduces representative democracy to just another marketing survey. Even if it is just the framework for a much more substantial future version, it is based on a fundamentally flawed vision of push-button politics. That’s the vision shared by most teledemocracy champions today.
 
 So what went wrong? Why didn’t networked politics lead to a
 
