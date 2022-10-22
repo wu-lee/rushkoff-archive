@@ -241,19 +241,7 @@ For early internet users, sitting alone in their homes or offices, connected to 
 
 As functioning models for cooperative activity, these notions are not totally unsupported by nature. Biologists studying complex systems have observed coordinated behaviours between creatures that have no hierarchical communication scheme, or even any apparent communication scheme whatsoever. The coral reef, for example, exhibits remarkable levels of coordination even though it is made up of millions of tiny individual creatures. Surprisingly, perhaps, the strikingly harmonious behaviour of the collective does not repress the behaviour of the individual. In fact the vast series of interconnections between the creatures allows any single one of them to serve as a ‘remote high leverage point’ influencing the whole. When one tiny organism decides it is time for the reproductive cycle to begin, it triggers a mechanism through which hundreds of miles of coral reef can change colour within hours.
 
-Another more immediately observable example is the way women
-
-living together will very often synchronise in their menstrual cycles.
-
-This is not a fascistic scheme of nature, supplanting the individual
-
-rhythms of each member, but a way for each member of the social
-
-grouping to become more attuned and responsive to the subtle shifts
-
-in one another’s physical and emotional states. Each member has
-
-more, not less, influence over the whole.
+Another more immediately observable example is the way women living together will very often synchronise in their menstrual cycles. This is not a fascistic scheme of nature, supplanting the individual rhythms of each member, but a way for each member of the social grouping to become more attuned and responsive to the subtle shifts in one another’s physical and emotional states. Each member has more, not less, influence over the whole.
 
 These models of phase-locking and self-similarity, first studied by
 
