@@ -223,19 +223,7 @@ Religions and ideologies are terrific things, so long as no one actually believe
 
 So these stories enable a certain kind of functionality. Their relative stasis, if protected against the effects of time by fundamentalists, can allow for the adoption and implementation of long-term projects that span generations, even centuries. But when one group’s absolute truth bumps up against another group’s absolute truth, only conflict can result.
 
-New technologies, global media, and the spread of international
-
-corporate conglomerates have forced just such a clash of world views.
-
-While cultures have been reckoning with the impact of
-
-cosmopolitanism since even before the first ships crossed the
-
-Mediterranean, today’s proliferation of media, products and their
-
-associated sensibilities, as well as their migration across formerly
-
-discreet boundaries, are unprecedented in magnitude.
+New technologies, global media, and the spread of international corporate conglomerates have forced just such a clash of world views. While cultures have been reckoning with the impact of cosmopolitanism since even before the first ships crossed the Mediterranean, today’s proliferation of media, products and their associated sensibilities, as well as their migration across formerly discreet boundaries, are unprecedented in magnitude.
 
 Globalism, at least as it is envisioned by the more expansionist
 
