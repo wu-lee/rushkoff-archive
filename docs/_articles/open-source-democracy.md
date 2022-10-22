@@ -229,21 +229,9 @@ Globalism, at least as it is envisioned by the more expansionist advocates of fr
 
 As a result, globalism, to almost anyone but a free market advocate, has come to mean the spread of the Western corporate value system to every other place in the world. Further, the bursting of the dot.com bubble, followed by the revelation of corporate malfeasance and insider trading, exposed corporate capitalism’s dependence on myths; stories used to captivate and distract the public while the storytellers ran off with the funds. The spokespeople for globalism began to be perceived as if they were the fifteenth-century Catholic missionaries that preceded the Conquistadors, preparing indigenous populations for eventual colonisation. The free market came to be understood as just another kind of marketing. Globalism was reduced, in the minds of most laypeople, to one more opaque mythology used to exploit the uninitiated majority.
 
-Networked democracy: learning from natural
+**Networked democracy: learning from natural interconnectivity**
 
-interconnectivity
-
-The current renaissance offers new understandings of what it might
-
-mean to forge a global society that transcends the possibilities
-
-described by the language of financial markets. It might not be too
-
-late to promote a globalism modelled on cooperation instead of
-
-competition, and on organic interchange instead of financial
-
-transaction.
+The current renaissance offers new understandings of what it might mean to forge a global society that transcends the possibilities described by the language of financial markets. It might not be too late to promote a globalism modelled on cooperation instead of competition, and on organic interchange instead of financial transaction.
 
 Again, our renaissance insights and inventions aid us in our quest
 
