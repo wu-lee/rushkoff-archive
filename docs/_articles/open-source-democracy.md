@@ -269,23 +269,7 @@ First, by casting itself in the role of cultural and institutional watchdog, gov
 
 So, the US government became known as the antagonist of cyberculture. Every effort was made to diminish state control over the global telecommunications infrastructure. The internet itself, a government project, soon fell into private hands (Internic, and eventually industry consortiums). For just as a bacterium tends to grow unabated without the presence of fungus, so too does corporate power grow without the restrictive influence of government.
 
-This in itself may not have been so terrible. E-commerce certainly
-
-has its strengths and the economic development associated with a
-
-profit-driven internet creates new reasons for new countries to get
-
-their populations online. But an interactive marketplace is not fertile
-
-soil for networked democracy or public participation. As we have
-
-seen, the objective of marketers online is to reduce interactivity,
-
-shorten consideration and induce impulsive purchases.
-
-Open source democ ra cy
-
-52 De m o s
+This in itself may not have been so terrible. E-commerce certainly has its strengths and the economic development associated with a profit-driven internet creates new reasons for new countries to get their populations online. But an interactive marketplace is not fertile soil for networked democracy or public participation. As we have seen, the objective of marketers online is to reduce interactivity, shorten consideration and induce impulsive purchases.
 
 That’s why the software and interfaces developed for the
 
