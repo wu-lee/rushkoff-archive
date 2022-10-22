@@ -281,43 +281,7 @@ Perhaps. But the system of representation on which most democracies were built w
 
 The true promise of a network-enhanced democracy lies not in some form of web-driven political marketing survey, but in restoring and encouraging broader participation in some of the internet’s more interactive forums. Activists of all stripes now have the freedom and facility to network and organise across vast geographical, national, racial and even ideological differences. And they’ve begun to do so. The best evidence we have that something truly new is going on is our mainstream media’s inability to understand it. Major American news outlets are still incapable of acknowledging the tremendous breadth of the World Trade Organisation (WTO) protest movement because of the multiplicity of cooperating factions within it. Unable to draw out a single, simplified rationale that encompasses the logic of each and every protestor, traditional media storytellers conclude that there is no logic at all. (Just as I am writing this section, a newscaster on CNBC, reporting from a WTO demonstration, is condescendingly laughing at the word ‘neo-liberal’ on a placard, believing that the teen protestor holding it has invented the term!) In actuality, the multi-faceted rationale underlying the WTO protests confirms both their broad-based support as well as the quite evolved capacity of its members to coalesce across previously unimaginable ideological chasms. Indeed, these obsolete ideologies are themselves falling awayas a new dynamic emerges from nascent political organism.
 
-For politicians who mean to lead more effectively in such an
-
-environment, the interactive solution may well be a new emphasis on
-
-education, where elected leaders use the internet to engage with
-
-constituents and justify the decisions they have made on our behalf,
-
-rather than simply soliciting our moment-to-moment opinions.
-
-Politicians cannot hope to reduce the collective will of their entire
-
-constituencies into a series of yes or no votes on the issues put before
-
-them. They can, however, engage the public in an ongoing
-
-exploration and dialogue on issues and their impacts, and attempt to
-
-provide a rationale for their roles in the chamber in which they
-
-participate. They must accept that their constituents are capable of
-
-comprehending legislative bodies as functioning organisms. In doing
-
-so, politicians will relieve themselves of the responsibility for hyping
-
-or spinning their decisions and instead use their time with the public
-
-to engage them in the evolution of the legislative process. Like
-
-teachers and religious leaders, whose roles as authority figures have
-
-been diminished by their students’ and congregants’ direct access to
-
-formerly secret data, politicians too must learn to function more like
-
-partn ers than paren t s .
+For politicians who mean to lead more effectively in such an environment, the interactive solution may well be a new emphasis on education, where elected leaders use the internet to engage with constituents and justify the decisions they have made on our behalf, rather than simply soliciting our moment-to-moment opinions. Politicians cannot hope to reduce the collective will of their entire constituencies into a series of yes or no votes on the issues put before them. They can, however, engage the public in an ongoing exploration and dialogue on issues and their impacts, and attempt to provide a rationale for their roles in the chamber in which they participate. They must accept that their constituents are capable of comprehending legislative bodies as functioning organisms. In doing so, politicians will relieve themselves of the responsibility for hyping or spinning their decisions and instead use their time with the public to engage them in the evolution of the legislative process. Like teachers and religious leaders, whose roles as authority figures have been diminished by their students’ and congregants’ direct access to formerly secret data, politicians too must learn to function more like partners than parents.
 
 In doing so, t h ey wi ll leave the cert a i n ty of t wen ti et h - cen tu ry
 
