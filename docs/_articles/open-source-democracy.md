@@ -285,43 +285,9 @@ For politicians who mean to lead more effectively in such an environment, the in
 
 In doing so, they will leave the certainty of twentieth-century political ideologies behind , and admit to the open-ended and uncertain process of societal co-authorship. Whatever model they choose must shun static ideologies, and instead acknowledge the evolutionary process through which anything resembling progress is made.
 
-Ne two rked democ ra cy
+**6. Open source: Imagining network democracy**
 
-De m o s 55
-
-6\. Open source:
-
-Imagining network
-
-democracy
-
-One model for the open-ended and participatory process through
-
-which legislation might occur in a networked democracy can be
-
-found in the ‘open source’ software movement. Faced with the
-
-restrictive practices of the highly competitive software developers,
-
-and the pitifully complex and inefficient operating systems such as
-
-Microsoft Windows that this process produces, a global community
-
-of programmers decided to find a better development philosophy for
-
-themselves. They founded one based in the original values of the
-
-shareware software development community, concluding that
-
-proprietary software is crippled by the many efforts to keep its
-
-underlying code a secret and locked down. Many users don’t even
-
-know that a series of arbitrary decisions have been made about the
-
-software they use. They don’t know it can be changed. They simply
-
-adjust.
+One model for the open-ended and participatory process through which legislation might occur in a networked democracy can be found in the ‘open source’ software movement. Faced with the restrictive practices of the highly competitive software developers, and the pitifully complex and inefficient operating systems such as Microsoft Windows that this process produces, a global community of programmers decided to find a better development philosophy for themselves. They founded one based in the original values of the shareware software development community, concluding that proprietary software is crippled by the many efforts to keep its underlying code a secret and locked down. Many users don’t even know that a series of arbitrary decisions have been made about the software they use. They don’t know it can be changed. They simply adjust.
 
 By publishing software along with its source code, open source
 
