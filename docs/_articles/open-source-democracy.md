@@ -267,19 +267,7 @@ So what went wrong? Why didn’t networked politics lead to a genuinely networke
 
 First, by casting itself in the role of cultural and institutional watchdog, governments, particularly in the United States, became internet society’s enemy. Though built with mostly US government dollars, the internet’s growth into a public medium seemed to be impeded by the government’s own systemic aversion to the kinds of information, images and ideas that the network spread. The government’s fear of hackers was compounded by a fear of pornography and the fear of terrorism. The result was a tirade of ill-conceived legislation that made internet enthusiasts’ blood boil. New decency laws aimed at curbing pornography (which were ultimately struck down) elicited cries of curtailment on free speech. Unsubstantiated and bungled raids on young hackers and their families turned law enforcement into the Keystone Cops of cyberspace and the US Justice Department into a sworn enemy of the shareware community’s most valuable members. Misguided (and unsuccessful) efforts at preventing the dissemination of cryptography protocols across national boundaries turned corporate developers into government-haters as well. (This tradition of government interference in the rise of a community-driven internet is contrasted by the early participation of the UK’s Labour government in the funding of internet opportunities there, such as community centres and public timeshare terminals, which were initially exploited mainly by arts collectives, union organisers, and activists. Of course all this didn’t play very well with the nascent UK internet industry, which saw its slow start compared with the US and other developed nations as a direct result of government over-management and anti-competitive funding policies.)
 
-So, the US government became known as the antagonist of
-
-cyberculture. Every effort was made to diminish state control over the
-
-global telecommunications infrastructure. The internet itself, a
-
-government project, soon fell into private hands (Internic, and
-
-eventually industry consortiums). For just as a bacterium tends to
-
-grow unabated without the presence of fungus, so too does corporate
-
-power grow without the restrictive influence of government.
+So, the US government became known as the antagonist of cyberculture. Every effort was made to diminish state control over the global telecommunications infrastructure. The internet itself, a government project, soon fell into private hands (Internic, and eventually industry consortiums). For just as a bacterium tends to grow unabated without the presence of fungus, so too does corporate power grow without the restrictive influence of government.
 
 This in itself may not have been so terrible. E-commerce certainly
 
