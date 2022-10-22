@@ -221,17 +221,7 @@ The values engendered by our fledgling networked culture may, in fact, prove qui
 
 Religions and ideologies are terrific things, so long as no one actually believes in them. While absolute truths may exist, it is presumptuous for anyone to conclude he has found and comprehended one. True, the adoption of an absolutist frame of reference serves many useful purposes. An accepted story can unify an otherwise diverse population, provide widespread support for a single regime and reassure people in times of stress. Except for the resulting ethnocentrism, repression of autonomy and stifling of new ideas, such static templates can function well for quite a while. Dictators from Adolf Hitler to Idi Amin owed a good part of their success to their ability to develop ethnically based mythologies that united their people under a single sense of identity. The biblical myth of Jacob and his sons served to unify formerly non-allied desert tribes (with the same names as Jacob’s sons) in ancient Sinai. They not only conquered much of the region, but created a fairly stable regime for centuries.
 
-So these stories enable a certain kind of functionality. Their relative
-
-stasis, if protected against the effects of time by fundamentalists, can
-
-allow for the adoption and implementation of long-term projects that
-
-span generations, even centuries. But when one group’s absolute truth
-
-bumps up against another group’s absolute truth, only conflict can
-
-result.
+So these stories enable a certain kind of functionality. Their relative stasis, if protected against the effects of time by fundamentalists, can allow for the adoption and implementation of long-term projects that span generations, even centuries. But when one group’s absolute truth bumps up against another group’s absolute truth, only conflict can result.
 
 New technologies, global media, and the spread of international
 
