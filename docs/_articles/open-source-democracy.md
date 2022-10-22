@@ -225,47 +225,7 @@ So these stories enable a certain kind of functionality. Their relative stasis, 
 
 New technologies, global media, and the spread of international corporate conglomerates have forced just such a clash of world views. While cultures have been reckoning with the impact of cosmopolitanism since even before the first ships crossed the Mediterranean, today’s proliferation of media, products and their associated sensibilities, as well as their migration across formerly discreet boundaries, are unprecedented in magnitude.
 
-Globalism, at least as it is envisioned by the more expansionist
-
-advocates of free market capitalism, only exacerbates the most
-
-dangerously retrograde strains of xenophobia. The market’s global
-
-aspirations (as expressed by Global Business Network co-founder
-
-Peter Schwartz’s slogan ‘Open markets good. Closed markets bad.
-
-Tattoo it on your forehead’4) amount to a whitewash of regional
-
-cultural values. They are as reductionist as the tenets of any
-
-fundamentalist religion. In spite of the strident individualism of this
-
-brand of globalist rhetoric, it leaves no room for independent
-
-thinking or personal choice, except insofar as they are permitted by
-
-one’s consumption decisions or the way one chooses to participate in
-
-the profit-making game. Mistaking the arbitrary and man-made rules
-
-of the marketplace for a precondition of the natural universe,
-
-corporate capitalism’s globalist advocates believe they are liberating
-
-the masses from the artificially imposed restrictions of their own
-
-forms of religion and government. Perceiving the free market model
-
-as the way things really are, they ignore their own fabrications, while
-
-seeing everyone else’s models as impediments to the natural and
-
-Open source democ ra cy
-
-46 De m o s
-
-rightful force of evolution.
+Globalism, at least as it is envisioned by the more expansionist advocates of free market capitalism, only exacerbates the most dangerously retrograde strains of xenophobia. The market’s global aspirations (as expressed by Global Business Network co-founder Peter Schwartz’s slogan ‘Open markets good. Closed markets bad. Tattoo it on your forehead’⁴) amount to a whitewash of regional cultural values. They are as reductionist as the tenets of any fundamentalist religion. In spite of the strident individualism of this brand of globalist rhetoric, it leaves no room for independent thinking or personal choice, except insofar as they are permitted by one’s consumption decisions or the way one chooses to participate in the profit-making game. Mistaking the arbitrary and man-made rules of the marketplace for a precondition of the natural universe, corporate capitalism’s globalist advocates believe they are liberating the masses from the artificially imposed restrictions of their own forms of religion and government. Perceiving the free market model as the way things really are, they ignore their own fabrications, while seeing everyone else’s models as impediments to the natural and rightful force of evolution.
 
 As a result, globalism, to almost anyone but a free market advocate,
 
