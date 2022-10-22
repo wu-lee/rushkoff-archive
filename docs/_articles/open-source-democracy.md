@@ -293,23 +293,7 @@ By publishing software along with its source code, open source developers encour
 
 Of course this depends on a lot of preconditions. Participants in an open source collaboration must be educated in the field they are developing. People cannot expect to be able to understand and edit the code underlying any system until they have taken the time and spent the necessary energy to penetrate it. Very often, as in the case of computer software, this also depends on open standards so that the code is accessible to all. But it is also true of many other systems. If those who hope to engage in the revision of our societal models are not educated by those who developed what is already in place, they will spend most of their time inefficiently reverse-engineering existing structures in an effort to understand them. Progress can only be made if new minds are educated in the current languages, exposed to the rationale for all decisions that have been made and invited to test new methods and structures.
 
-Those who are invited to re-evaluate our social and political
-
-structures in such a way will stand the best chance of gaining the
-
-perspective necessary to see the emergent properties of such systems,
-
-as well as avenues for active participation in them. If no one is invited
-
-then the first harbingers of emergent paradigms will be those who
-
-have been motivated to train themselves in spite of the obstacles set in
-
-front of them by those who hope to maintain exclusive control over
-
-the code. The new models they come up with may, as a result, end up
-
-looking much more like old-style revolutions than true renaissances.
+Those who are invited to re-evaluate our social and political structures in such a way will stand the best chance of gaining the perspective necessary to see the emergent properties of such systems, as well as avenues for active participation in them. If no one is invited then the first harbingers of emergent paradigms will be those who have been motivated to train themselves in spite of the obstacles set in front of them by those who hope to maintain exclusive control over the code. The new models they come up with may, as a result, end up looking much more like old-style revolutions than true renaissances.
 
 The implementation of an open source democracy will require us
 
