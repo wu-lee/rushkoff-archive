@@ -243,27 +243,7 @@ As functioning models for cooperative activity, these notions are not totally un
 
 Another more immediately observable example is the way women living together will very often synchronise in their menstrual cycles. This is not a fascistic scheme of nature, supplanting the individual rhythms of each member, but a way for each member of the social grouping to become more attuned and responsive to the subtle shifts in one another’s physical and emotional states. Each member has more, not less, influence over the whole.
 
-These models of phase-locking and self-similarity, first studied by
-
-the chaos mathematicians but eventually adopted by the culture of
-
-the internet, also seemed to be reflected in the ever-expanding
-
-mediaspace. The notion of remote high leverage points (a butterfly
-
-flapping its wings in Brazil leading to a hurricane in New York) was
-
-now proven every day by a datasphere capable of transmitting a single
-
-image globally in a matter of minutes. A black man being beaten by
-
-white cops in Los Angeles is captured on a home video camera and
-
-appears on television sets around the globe overnight. Eventually, this
-
-30-second segment of police brutality leads to full-scale urban rioting
-
-in a dozen American cities.
+These models of phase-locking and self-similarity, first studied by the chaos mathematicians but eventually adopted by the culture of the internet, also seemed to be reflected in the ever-expanding mediaspace. The notion of remote high leverage points (a butterfly flapping its wings in Brazil leading to a hurricane in New York) was now proven every day by a datasphere capable of transmitting a single image globally in a matter of minutes. A black man being beaten by white cops in Los Angeles is captured on a home video camera and appears on television sets around the globe overnight. Eventually, this 30-second segment of police brutality leads to full-scale urban rioting in a dozen American cities.
 
 These models for interactivity and coordinated behaviour may
 
