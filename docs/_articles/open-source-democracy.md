@@ -253,37 +253,7 @@ The underlying order of apparently chaotic systems in mathematics and in nature 
 
 As we have seen, until rather recently, most observers thought of a colony of beings, say ants, as receiving their commands from the top: the queen. It turns out that this is not the way individuals in the complex insect society know what to do. It is not a hierarchical system, they don’t receive orders the way soldiers do in an army. The amazing organisation of an anthill ‘emerges’ from the bottom up, in a collective demonstration of each ant’s evolved instincts. In a sense, it is not organised at all since there is no central bureaucracy. The collective behaviour of the colony is an emergent phenomenon.
 
-Likewise, the slime mould growing in damp fields and forests all
-
-around us can exhibit remarkably coordinated behaviour. Most of the
-
-time, the sludge-like collection of micro-organisms go about their
-
-business quite independently of one another, each one foraging for
-
-food and moving about on its own. But when conditions worsen,
-
-food becomes scarce or the forest floor becomes dry, the formerly
-
-distinct creatures coalesce into a single being. The large mass of
-
-slime moves about, amassing the moisture of the collective, until it
-
-finds a more hospitable region of forest, and then breaks up again
-
-into individual creatures. The collective behaviour is an emergent
-
-trait, learned through millennia of evolution. But it is only activated
-
-when the group is under threat. The processes allowing for these
-
-alternative strategies are still being scrutinised by scientists, who are
-
-only beginning to come to grips with the implications of these
-
-findings in understanding other emergent systems from cities to
-
-civilisations.
+Likewise, the slime mould growing in damp fields and forests all around us can exhibit remarkably coordinated behaviour. Most of the time, the sludge-like collection of micro-organisms go about their business quite independently of one another, each one foraging for food and moving about on its own. But when conditions worsen, food becomes scarce or the forest floor becomes dry, the formerly distinct creatures coalesce into a single being. The large mass of slime moves about, amassing the moisture of the collective, until it finds a more hospitable region of forest, and then breaks up again into individual creatures. The collective behaviour is an emergent trait, learned through millennia of evolution. But it is only activated when the group is under threat. The processes allowing for these alternative strategies are still being scrutinised by scientists, who are only beginning to come to grips with the implications of these findings in understanding other emergent systems from cities to civilisations.
 
 At first glance, the proposition that human civilisation imitates the
 
