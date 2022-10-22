@@ -271,27 +271,7 @@ So, the US government became known as the antagonist of cyberculture. Every effo
 
 This in itself may not have been so terrible. E-commerce certainly has its strengths and the economic development associated with a profit-driven internet creates new reasons for new countries to get their populations online. But an interactive marketplace is not fertile soil for networked democracy or public participation. As we have seen, the objective of marketers online is to reduce interactivity, shorten consideration and induce impulsive purchases.
 
-That’s why the software and interfaces developed for the
-
-commercial webspace tended to take users’ hands off the keyboard
-
-and onto the mouse. The most successful programs, for them, lead
-
-people to the ‘buy’ button and let them use the keyboard only to enter
-
-their credit card numbers and nothing else. The internet that grew
-
-from these development priorities, dominated by the World Wide
-
-Web instead of discussion groups, treats individuals more as
-
-consumers than as citizens. True, consumers can vote with their
-
-dollars, and that in a way feels something like direct communication
-
-with the entity in charge – the corporation. But this is not a good
-
-model for government.
+That’s why the software and interfaces developed for the commercial webspace tended to take users’ hands off the keyboard and onto the mouse. The most successful programs, for them, lead people to the ‘buy’ button and let them use the keyboard only to enter their credit card numbers and nothing else. The internet that grew from these development priorities, dominated by the World Wide Web instead of discussion groups, treats individuals more as consumers than as citizens. True, consumers can vote with their dollars, and that in a way feels something like direct communication with the entity in charge – the corporation. But this is not a good model for government.
 
 Sadly, though, it’s the model being used to implement these first
 
