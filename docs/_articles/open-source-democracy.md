@@ -289,19 +289,7 @@ In doing so, they will leave the certainty of twentieth-century political ideolo
 
 One model for the open-ended and participatory process through which legislation might occur in a networked democracy can be found in the ‘open source’ software movement. Faced with the restrictive practices of the highly competitive software developers, and the pitifully complex and inefficient operating systems such as Microsoft Windows that this process produces, a global community of programmers decided to find a better development philosophy for themselves. They founded one based in the original values of the shareware software development community, concluding that proprietary software is crippled by the many efforts to keep its underlying code a secret and locked down. Many users don’t even know that a series of arbitrary decisions have been made about the software they use. They don’t know it can be changed. They simply adjust.
 
-By publishing software along with its source code, open source
-
-developers encourage one another to correct each other’s mistakes,
-
-and improve upon each other’s work. Rather than competing they
-
-collaborate, and don’t hide the way their programs work. As a result,
-
-everyone is invited to change the underlying code and the software
-
-56 De m o s
-
-can evolve with the benefit of a multiplicity of points of view.
+By publishing software along with its source code, open source developers encourage one another to correct each other’s mistakes, and improve upon each other’s work. Rather than competing they collaborate, and don’t hide the way their programs work. As a result, everyone is invited to change the underlying code and the software can evolve with the benefit of a multiplicity of points of view.
 
 Of course this depends on a lot of preconditions. Participants in an
 
