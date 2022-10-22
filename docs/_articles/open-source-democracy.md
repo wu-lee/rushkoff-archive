@@ -249,17 +249,7 @@ These models for interactivity and coordinated behaviour may have been launched 
 
 Similarly, the computer and internet galvanised certain strains of both the pagan and the grassroots ‘do-it-yourself’ countercultures as the ‘cyberpunk’ movement, which was dedicated to altering reality through technology, together. Only now are the social effects of these technologies being considered by political scientists for what they may teach us about public opinion and civic engagement.
 
-The underlying order of apparently chaotic systems in
-
-mathematics and in nature suggests that systems can behave in a
-
-Ne two rked democ ra cy
-
-De m o s 49
-
-fashion mutually beneficial to all members, even without a command
-
-hierarchy. The term scientists use to describe the natural selforganisation of a community is ‘emergence’.
+The underlying order of apparently chaotic systems in mathematics and in nature suggests that systems can behave in a fashion mutually beneficial to all members, even without a command hierarchy. The term scientists use to describe the natural self-organisation of a community is ‘emergence’.
 
 As we have seen, until rather recently, most observers thought of a
 
