@@ -239,37 +239,7 @@ It’s no coincidence that early internet users became obsessed with the fractal
 
 For early internet users, sitting alone in their homes or offices, connected to one another only by twisted pairs of copper phone lines, the notion of being connected, somehow, in the manner of a fractal was quite inspiring. They began to study new models of interconnectivity and group mind, such as James Lovelock’s Gaia hypothesis and Rupert Sheldrake’s theory of morphogenesis, to explain and confirm their growing sense of non-local community. By the mid-1990s many internet users began to see the entire planet as a single organism, with human beings as the neurons in a global brain. The internet, according to this scheme, was the neural network being used to wire up this brain so that it could function in a coordinated fashion. In another model for group mind, this time celebrated among the rave counterculture, this connectivity was itself a pre-existing state. The internet was merely a metaphor, or outward manifestation, of a psychic connection between human beings that was only then being realised: the holographic reality.
 
-As functioning models for cooperative activity, these notions are
-
-not totally unsupported by nature. Biologists studying complex
-
-systems have observed coordinated behaviours between creatures that
-
-have no hierarchical communication scheme, or even any apparent
-
-communication scheme whatsoever. The coral reef, for example,
-
-exhibits remarkable levels of coordination even though it is made up
-
-of millions of tiny individual creatures. Surprisingly, perhaps, the
-
-strikingly harmonious behaviour of the collective does not repress the
-
-behaviour of the individual. In fact the vast series of interconnections
-
-between the creatures allows any single one of them to serve as a
-
-‘remote high leverage point’ influencing the whole. When one tiny
-
-organism decides it is time for the reproductive cycle to begin, it
-
-triggers a mechanism through which hundreds of miles of coral reef
-
-Open source democ ra cy
-
-48 De m o s
-
-can change colour within hours.
+As functioning models for cooperative activity, these notions are not totally unsupported by nature. Biologists studying complex systems have observed coordinated behaviours between creatures that have no hierarchical communication scheme, or even any apparent communication scheme whatsoever. The coral reef, for example, exhibits remarkable levels of coordination even though it is made up of millions of tiny individual creatures. Surprisingly, perhaps, the strikingly harmonious behaviour of the collective does not repress the behaviour of the individual. In fact the vast series of interconnections between the creatures allows any single one of them to serve as a ‘remote high leverage point’ influencing the whole. When one tiny organism decides it is time for the reproductive cycle to begin, it triggers a mechanism through which hundreds of miles of coral reef can change colour within hours.
 
 Another more immediately observable example is the way women
 
