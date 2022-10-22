@@ -277,53 +277,9 @@ Sadly, though, it’s the model being used to implement these first efforts at t
 
 Perhaps. But the system of representation on which most democracies were built was intended to buffer the effects of such populist revivals. Although they may not always (or even frequently) live up to it, our representatives’ role is to think beyond short-term interests of the majority. They are elected to protect the rights of minority interests, the sorts of people and groups who are now increasingly cast as ‘special interest groups’.
 
-Achieving the promise of network democracy
+**Achieving the promise of network democracy**
 
-The true promise of a network-enhanced democracy lies not in some
-
-form of web-driven political marketing survey, but in restoring and
-
-encouraging broader participation in some of the internet’s more
-
-interactive forums. Activists of all stripes now have the freedom and
-
-facility to network and organise across vast geographical, national,
-
-racial and even ideological differences. And they’ve begun to do so.
-
-The best evidence we have that something truly new is going on is our
-
-Ne two rked democ ra cy
-
-De m o s 53
-
-mainstream media’s inability to understand it. Major American news
-
-outlets are still incapable of acknowledging the tremendous breadth
-
-of the World Trade Organisation (WTO) protest movement because
-
-of the multiplicity of cooperating factions within it. Unable to draw
-
-out a single, simplified rationale that encompasses the logic of each
-
-and every protestor, traditional media storytellers conclude that there
-
-is no logic at all. (Just as I am writing this section, a newscaster on
-
-CNBC, reporting from a WTO demonstration, is condescendingly
-
-laughing at the word ‘neo-liberal’ on a placard, believing that the teen
-
-protestor holding it has invented the term!) In actuality, the multifaceted rationale underlying the WTO protests confirms both their
-
-broad-based support as well as the quite evolved capacity of its
-
-members to coalesce across previously unimaginable ideological
-
-chasms. Indeed, these obsolete ideologies are themselves falling away
-
-as a new dynamic emerges from nascent political organism.
+The true promise of a network-enhanced democracy lies not in some form of web-driven political marketing survey, but in restoring and encouraging broader participation in some of the internet’s more interactive forums. Activists of all stripes now have the freedom and facility to network and organise across vast geographical, national, racial and even ideological differences. And they’ve begun to do so. The best evidence we have that something truly new is going on is our mainstream media’s inability to understand it. Major American news outlets are still incapable of acknowledging the tremendous breadth of the World Trade Organisation (WTO) protest movement because of the multiplicity of cooperating factions within it. Unable to draw out a single, simplified rationale that encompasses the logic of each and every protestor, traditional media storytellers conclude that there is no logic at all. (Just as I am writing this section, a newscaster on CNBC, reporting from a WTO demonstration, is condescendingly laughing at the word ‘neo-liberal’ on a placard, believing that the teen protestor holding it has invented the term!) In actuality, the multi-faceted rationale underlying the WTO protests confirms both their broad-based support as well as the quite evolved capacity of its members to coalesce across previously unimaginable ideological chasms. Indeed, these obsolete ideologies are themselves falling awayas a new dynamic emerges from nascent political organism.
 
 For politicians who mean to lead more effectively in such an
 
