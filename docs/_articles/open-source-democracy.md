@@ -233,23 +233,7 @@ As a result, globalism, to almost anyone but a free market advocate, has come to
 
 The current renaissance offers new understandings of what it might mean to forge a global society that transcends the possibilities described by the language of financial markets. It might not be too late to promote a globalism modelled on cooperation instead of competition, and on organic interchange instead of financial transaction.
 
-Again, our renaissance insights and inventions aid us in our quest
-
-for a more dimensionalised perspective on our relationship to one
-
-another. Rather famously the first Renaissance elevated the Catholic
-
-mass into a congregation of Protestant readers. Thanks to the
-
-printing press and the literacy movement that followed, each person
-
-could enjoy his or her own personal relationship to texts and the
-
-mythologies they described. Our own renaissance offers us the
-
-opportunity to enhance the dimensionality of these relationships
-
-even further, as we transform from readers into writers.
+Again, our renaissance insights and inventions aid us in our quest for a more dimensionalised perspective on our relationship to one another. Rather famously the first Renaissance elevated the Catholic mass into a congregation of Protestant readers. Thanks to the printing press and the literacy movement that followed, each person could enjoy his or her own personal relationship to texts and the mythologies they described. Our own renaissance offers us the opportunity to enhance the dimensionality of these relationships even further, as we transform from readers into writers.
 
 It’s no coincidence that early internet users became obsessed with
 
