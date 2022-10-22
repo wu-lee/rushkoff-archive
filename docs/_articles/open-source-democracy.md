@@ -257,19 +257,7 @@ Likewise, the slime mould growing in damp fields and forests all around us can e
 
 At first glance, the proposition that human civilisation imitates the behaviour of slime mould is preposterous, an evolutionary leap backwards. An individual human consciousness is infinitely more advanced than that of a single slime mould micro-organism. But a coordinated human meta-organism is not to be confused with the highly structured visions of a ‘super organism’ imagined in the philosophical precursors to fascism in the nineteenth and twentieth centuries. Rather, thanks to the feedback and iteration offered by our new interactive networks, we aspire towards a highly articulated and dynamic body politic: a genuinely networked democracy, capable of accepting and maintaining a multiplicity of points of view, instead of seeking premature resolution and the oversimplification that comes with it.
 
-This is why it appeared that the decision to grant the public open
-
-access to the internet in the early 1990s would herald a new era of
-
-teledemocracy, political activism and a reinstatement of the collective
-
-will into public affairs. The emergence of a networked culture,
-
-accompanied by an ethic of media literacy, open discussion and direct
-
-action, held the promise of a more responsive political system
-
-wherever it spread.
+This is why it appeared that the decision to grant the public open access to the internet in the early 1990s would herald a new era of teledemocracy, political activism and a reinstatement of the collective will into public affairs. The emergence of a networked culture, accompanied by an ethic of media literacy, open discussion and direct action, held the promise of a more responsive political system wherever it spread.
 
 But most efforts at such teledemocracy so far, such as former
 
