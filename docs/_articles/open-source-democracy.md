@@ -261,67 +261,11 @@ This is why it appeared that the decision to grant the public open access to the
 
 But most efforts at such teledemocracy so far, such as former Clinton pollster Dick Morris’s website www.vote.com, or even the somewhat effective political action site www.moveon.org, are simply new versions of the public opinion poll. Billing themselves as the next phase in a truly populist and articulated body politic, the sites amount to little more than an opportunity for politicians to glean the gist of a few more uninformed, knee-jerk reactions to the issue of the day. Vote.com, as the name suggests, reduces representative democracy to just another marketing survey. Even if it is just the framework for a much more substantial future version, it is based on a fundamentally flawed vision of push-button politics. That’s the vision shared by most teledemocracy champions today.
 
-So what went wrong? Why didn’t networked politics lead to a
+So what went wrong? Why didn’t networked politics lead to a genuinely networked engagement in public affairs?
 
-genuinely networked engagement in public affairs?
+**Interference in the emergence**
 
-Interference in the emergence
-
-First, by casting itself in the role of cultural and institutional
-
-watchdog, governments, particularly in the United States, became
-
-internet society’s enemy. Though built with mostly US government
-
-dollars, the internet’s growth into a public medium seemed to be
-
-impeded by the government’s own systemic aversion to the kinds of
-
-information, images and ideas that the network spread. The
-
-Ne two rked democ ra cy
-
-De m o s 51
-
-government’s fear of hackers was compounded by a fear of
-
-pornography and the fear of terrorism. The result was a tirade of illconceived legislation that made internet enthusiasts’ blood boil. New
-
-decency laws aimed at curbing pornography (which were ultimately
-
-struck down) elicited cries of curtailment on free speech.
-
-Unsubstantiated and bungled raids on young hackers and their
-
-families turned law enforcement into the Keystone Cops of
-
-cyberspace and the US Justice Department into a sworn enemy of the
-
-shareware community’s most valuable members. Misguided (and
-
-unsuccessful) efforts at preventing the dissemination of cryptography
-
-protocols across national boundaries turned corporate developers
-
-into government-haters as well. (This tradition of government
-
-interference in the rise of a community-driven internet is contrasted
-
-by the early participation of the UK’s Labour government in the
-
-funding of internet opportunities there, such as community centres
-
-and public timeshare terminals, which were initially exploited mainly
-
-by arts collectives, union organisers, and activists. Of course all this
-
-didn’t play very well with the nascent UK internet industry, which saw
-
-its slow start compared with the US and other developed nations as a
-
-direct result of government over-management and anti-competitive
-
-funding policies.)
+First, by casting itself in the role of cultural and institutional watchdog, governments, particularly in the United States, became internet society’s enemy. Though built with mostly US government dollars, the internet’s growth into a public medium seemed to be impeded by the government’s own systemic aversion to the kinds of information, images and ideas that the network spread. The government’s fear of hackers was compounded by a fear of pornography and the fear of terrorism. The result was a tirade of ill-conceived legislation that made internet enthusiasts’ blood boil. New decency laws aimed at curbing pornography (which were ultimately struck down) elicited cries of curtailment on free speech. Unsubstantiated and bungled raids on young hackers and their families turned law enforcement into the Keystone Cops of cyberspace and the US Justice Department into a sworn enemy of the shareware community’s most valuable members. Misguided (and unsuccessful) efforts at preventing the dissemination of cryptography protocols across national boundaries turned corporate developers into government-haters as well. (This tradition of government interference in the rise of a community-driven internet is contrasted by the early participation of the UK’s Labour government in the funding of internet opportunities there, such as community centres and public timeshare terminals, which were initially exploited mainly by arts collectives, union organisers, and activists. Of course all this didn’t play very well with the nascent UK internet industry, which saw its slow start compared with the US and other developed nations as a direct result of government over-management and anti-competitive funding policies.)
 
 So, the US government became known as the antagonist of
 
