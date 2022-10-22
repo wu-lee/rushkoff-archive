@@ -251,23 +251,7 @@ Similarly, the computer and internet galvanised certain strains of both the paga
 
 The underlying order of apparently chaotic systems in mathematics and in nature suggests that systems can behave in a fashion mutually beneficial to all members, even without a command hierarchy. The term scientists use to describe the natural self-organisation of a community is ‘emergence’.
 
-As we have seen, until rather recently, most observers thought of a
-
-colony of beings, say ants, as receiving their commands from the top:
-
-the queen. It turns out that this is not the way individuals in the
-
-complex insect society know what to do. It is not a hierarchical
-
-system, they don’t receive orders the way soldiers do in an army. The
-
-amazing organisation of an anthill ‘emerges’ from the bottom up, in a
-
-collective demonstration of each ant’s evolved instincts. In a sense, it
-
-is not organised at all since there is no central bureaucracy. The
-
-collective behaviour of the colony is an emergent phenomenon.
+As we have seen, until rather recently, most observers thought of a colony of beings, say ants, as receiving their commands from the top: the queen. It turns out that this is not the way individuals in the complex insect society know what to do. It is not a hierarchical system, they don’t receive orders the way soldiers do in an army. The amazing organisation of an anthill ‘emerges’ from the bottom up, in a collective demonstration of each ant’s evolved instincts. In a sense, it is not organised at all since there is no central bureaucracy. The collective behaviour of the colony is an emergent phenomenon.
 
 Likewise, the slime mould growing in damp fields and forests all
 
