@@ -237,35 +237,7 @@ Again, our renaissance insights and inventions aid us in our quest for a more di
 
 It’s no coincidence that early internet users became obsessed with the fractal images they were capable of producing. The reassuring self-similarity of these seemingly random graphs of non-linear equations evoked the shapes of nature. One simple set of fractal equations, iterated through a computer, could produce a three-dimensional image of a fern, a coastline or a cloud. Zooming in on one small section revealed details and textures reflective of those on other levels of magnification. Indeed, each tiny part appeared to reflect the whole.
 
-For early internet users, sitting alone in their homes or offices,
-
-connected to one another only by twisted pairs of copper phone lines,
-
-the notion of being connected, somehow, in the manner of a fractal
-
-was quite inspiring. They began to study new models of
-
-interconnectivity and group mind, such as James Lovelock’s Gaia
-
-hypothesis and Rupert Sheldrake’s theory of morphogenesis, to
-
-explain and confirm their growing sense of non-local community. By
-
-the mid-1990s many internet users began to see the entire planet as a
-
-single organism, with human beings as the neurons in a global brain.
-
-The internet, according to this scheme, was the neural network being
-
-used to wire up this brain so that it could function in a coordinated
-
-fashion. In another model for group mind, this time celebrated
-
-among the rave counterculture, this connectivity was itself a preexisting state. The internet was merely a metaphor, or outward
-
-manifestation, of a psychic connection between human beings that
-
-was only then being realised: the holographic reality.
+For early internet users, sitting alone in their homes or offices, connected to one another only by twisted pairs of copper phone lines, the notion of being connected, somehow, in the manner of a fractal was quite inspiring. They began to study new models of interconnectivity and group mind, such as James Lovelock’s Gaia hypothesis and Rupert Sheldrake’s theory of morphogenesis, to explain and confirm their growing sense of non-local community. By the mid-1990s many internet users began to see the entire planet as a single organism, with human beings as the neurons in a global brain. The internet, according to this scheme, was the neural network being used to wire up this brain so that it could function in a coordinated fashion. In another model for group mind, this time celebrated among the rave counterculture, this connectivity was itself a pre-existing state. The internet was merely a metaphor, or outward manifestation, of a psychic connection between human beings that was only then being realised: the holographic reality.
 
 As functioning models for cooperative activity, these notions are
 
