@@ -283,19 +283,7 @@ The true promise of a network-enhanced democracy lies not in some form of web-dr
 
 For politicians who mean to lead more effectively in such an environment, the interactive solution may well be a new emphasis on education, where elected leaders use the internet to engage with constituents and justify the decisions they have made on our behalf, rather than simply soliciting our moment-to-moment opinions. Politicians cannot hope to reduce the collective will of their entire constituencies into a series of yes or no votes on the issues put before them. They can, however, engage the public in an ongoing exploration and dialogue on issues and their impacts, and attempt to provide a rationale for their roles in the chamber in which they participate. They must accept that their constituents are capable of comprehending legislative bodies as functioning organisms. In doing so, politicians will relieve themselves of the responsibility for hyping or spinning their decisions and instead use their time with the public to engage them in the evolution of the legislative process. Like teachers and religious leaders, whose roles as authority figures have been diminished by their students’ and congregants’ direct access to formerly secret data, politicians too must learn to function more like partners than parents.
 
-In doing so, t h ey wi ll leave the cert a i n ty of t wen ti et h - cen tu ry
-
-Open source democ ra cy
-
-54 De m o s
-
-po l i tical ideo l ogies beh i n d , and admit to the open - en ded and uncert a i n
-
-process of s oc i etal co - a ut h ors h i p. Wh a tever model they ch oose mu s t
-
-s hun static ideo l ogi e s , and inste ad ack n owl ed ge the evo luti on a ry
-
-process thro u gh wh i ch anything re s em bling progress is made .
+In doing so, they will leave the certainty of twentieth-century political ideologies behind , and admit to the open-ended and uncertain process of societal co-authorship. Whatever model they choose must shun static ideologies, and instead acknowledge the evolutionary process through which anything resembling progress is made.
 
 Ne two rked democ ra cy
 
