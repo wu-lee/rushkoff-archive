@@ -297,47 +297,7 @@ Those who are invited to re-evaluate our social and political structures in such
 
 The implementation of an open source democracy will require us to dig deep into the very code of our legislative processes, and then rebirth it in the new context of our networked reality. It will require us to assume, at least temporarily, that nothing at all is too sacred to be questioned, reinterpreted and modified. But in doing so, we will be enabled to bring democracy through its current crisis and into its next stage of development.
 
-But, like literacy, the open source ethos and process are hard if not
-
-impossible to control once they are unleashed. Once people are
-
-invited to participate in, say, the coding of a software program, they
-
-Open source
-
-De m o s 57
-
-begin to question just how much of the rest of our world is open for
-
-discussion. They used to see software as an established and inviolable
-
-thing – something married to the computer. A given circumstance.
-
-With an open source aw a ren e s s ,t h ey are free to discover that the codes of
-
-the sof t w a re have been arra n ged by peop l e , s om etimes with agendas that
-
-h ad n’t form erly been app a ren t . One of the most wi de s pre ad re a l i s a ti on s
-
-accom p a nying the current ren a i s s a n ce is that a lot of what has been taken
-
-for gra n ted as ‘h a rdw a re’ i s , in fact , ‘s of t w a re’ c a p a ble of bei n g
-
-reprogra m m ed . Th ey tend to begin to vi ew everything that was form erly
-
-s et in stone – from medical practi ces to the Bi ble – as social con s tru cti on s
-
-and su bj ect to revi s i on . L i kewise as public aw a reness of em er gen ce theory
-
-i n c re a s e s , people are beginning to ob s erve their world differen t ly, s eei n g
-
-its principles in evi den ce every wh ere . Form erly esoteric su bj ects su ch as
-
-u rban de s i gn or mon et a ry policy become mu ch more cen tral as the publ i c
-
-comes to recognise the power of these planning spec i a l ties to establish the
-
-rules thro u gh wh i ch soc i ety actu a lly comes into ex i s ten ce .
+But, like literacy, the open source ethos and process are hard if not impossible to control once they are unleashed. Once people are invited to participate in, say, the coding of a software program, they begin to question just how much of the rest of our world is open for discussion. They used to see software as an established and inviolable thing – something married to the computer. A given circumstance. With an open source awareness, they are free to discover that the codes of the software have been arranged by people, sometimes with agendas that hadn't formerly been apparent. One of the most widespread realisations accompanying the current renaissance is that a lot of what has been taken for granted as ‘hardware’ is, in fact, ‘software’ capable of being reprogrammed. They tend to begin to view everything that was formerly set in stone – from medical practices to the Bible – as social constructions and subject to revision. Likewise as public awareness of emergence theory increases, people are beginning to observe their world differently, seeing its principles in evidence everywhere. Formerly esoteric subjects such as urban design or monetary policy become much more central as the public comes to recognise the power of these planning specialties to establish the rules through which society actually comes into existence .
 
 This marks a profound shift in our rel a ti onship to law and govern a n ce .
 
