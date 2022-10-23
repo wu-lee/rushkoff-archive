@@ -301,33 +301,9 @@ But, like literacy, the open source ethos and process are hard if not impossible
 
 This marks a profound shift in our relationship to law and governance. We move from simply following the law to understanding the law, to actually feeling capable of writing the law: adhering to the map to understanding the map, to drawing our own. At the very least, we are aware that the choices made on our behalf have the ability to shape our future reality and that these choices are not ordained but implemented by people just like us.
 
-Un l i ke in the 1960s, wh en people qu e s ti on ed their aut h ori ties in the
+Unlike in the 1960s, when people questioned their authorities in the hope of replacing them (revolution) , today’s activists are forcing us to reevaluate the premise underlying top-down authority as an organising principle (renaissance). Bottom-up organisational models, from slime mould to WTO protests, seem better able to address today’s participatory sensibility. Indeed, the age of irony may be over, not just because the American dream has been interrupted by terrorism and economic shocks but because media-savvy Westerners are no longer satisfied with understanding current events through the second-hand cynical musings of magazine journalists. They want to engage more directly and they see almost every set of rules as up for reinterpretation and re-engineering.
 
-h ope of rep l acing them (revo luti on ) , tod ay ’s activists are forcing us to re -
-
-eva lu a te the premise underlying top - down aut h ori ty as an or ga n i s i n g
-
-principle (ren a i s s a n ce ) . Bo t tom-up or ga n i s a ti onal model s , f rom slime
-
-mould to WTO pro te s t s ,s eem bet ter able to ad d ress tod ay ’s parti c i p a tory
-
-s en s i bi l i ty. In deed , the age of i rony may be over, not just because the
-
-Am erican dream has been interru pted by terrorism and econ omic shock s
-
-but because med i a - s avvy We s tern ers are no lon ger sati s f i ed wi t h
-
-u n derstanding current events thro u gh the second-hand cynical mu s i n gs
-
-of m a gazine journ a l i s t s . Th ey want to en ga ge more direct ly and they see
-
-almost every set of rules as up for rei n terpret a ti on and re - en gi n eeri n g.
-
-Open source democ ra cy
-
-58 De m o s
-
-Applying the theory
+**Applying the theory**
 
 So what happens when the open source development model is
 
