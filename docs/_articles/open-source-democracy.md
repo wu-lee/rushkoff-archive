@@ -299,19 +299,7 @@ The implementation of an open source democracy will require us to dig deep into 
 
 But, like literacy, the open source ethos and process are hard if not impossible to control once they are unleashed. Once people are invited to participate in, say, the coding of a software program, they begin to question just how much of the rest of our world is open for discussion. They used to see software as an established and inviolable thing – something married to the computer. A given circumstance. With an open source awareness, they are free to discover that the codes of the software have been arranged by people, sometimes with agendas that hadn't formerly been apparent. One of the most widespread realisations accompanying the current renaissance is that a lot of what has been taken for granted as ‘hardware’ is, in fact, ‘software’ capable of being reprogrammed. They tend to begin to view everything that was formerly set in stone – from medical practices to the Bible – as social constructions and subject to revision. Likewise as public awareness of emergence theory increases, people are beginning to observe their world differently, seeing its principles in evidence everywhere. Formerly esoteric subjects such as urban design or monetary policy become much more central as the public comes to recognise the power of these planning specialties to establish the rules through which society actually comes into existence .
 
-This marks a profound shift in our rel a ti onship to law and govern a n ce .
-
-We move from simply fo ll owing the law to understanding the law, to
-
-actu a lly feeling capable of wri ting the law: ad h ering to the map to
-
-u n derstanding the map, to drawing our own . At the very least, we are
-
-aw a re that the ch oi ces made on our beh a l f h ave the abi l i ty to shape our
-
-f utu re re a l i ty and that these ch oi ces are not ord a i n ed but implem en ted by
-
-people just like us.
+This marks a profound shift in our relationship to law and governance. We move from simply following the law to understanding the law, to actually feeling capable of writing the law: adhering to the map to understanding the map, to drawing our own. At the very least, we are aware that the choices made on our behalf have the ability to shape our future reality and that these choices are not ordained but implemented by people just like us.
 
 Un l i ke in the 1960s, wh en people qu e s ti on ed their aut h ori ties in the
 
