@@ -309,33 +309,7 @@ So what happens when the open source development model is applied to, say, the e
 
 Meanwhile, the actual value of this currency, and the effort required to obtain it, is decided much more by market speculators than its actual users. Speculation accounts for over 90 per cent of US currency transactions in any given day. By this measure, real spending and the real economy are a tiny and secondary function of money: the dog is being wagged by its tail.
 
-What if currency were to become open source? In some
-
-communities it already is. They are not printing counterfeit bills but
-
-catalysing regional economies through the use of local currencies,
-
-locally created ‘scrip’ that can be exchanged throughout a particular
-
-region in lieu of Federal Reserve notes or real cash. The use of these
-
-currencies, as promoted by organisations such as the E.F. Schumacher
-
-Society, has been shown to accelerate the exchange of goods and
-
-services in a region by increasing the purchasing power of its
-
-Open source
-
-De m o s 59
-
-members. There is no Federal Reserve surcharge on the creation and
-
-maintenance of cash, and no danger of government currency
-
-depreciation due to matters that have nothing to do with actual
-
-production and consumption.
+What if currency were to become open source? In some communities it already is. They are not printing counterfeit bills but catalysing regional economies through the use of local currencies, locally created ‘scrip’ that can be exchanged throughout a particular region in lieu of Federal Reserve notes or real cash. The use of these currencies, as promoted by organisations such as the E.F. Schumacher Society, has been shown to accelerate the exchange of goods and services in a region by increasing the purchasing power of its members. There is no Federal Reserve surcharge on the creation and maintenance of cash, and no danger of government currency depreciation due to matters that have nothing to do with actual production and consumption.
 
 Like any other bottom-up system, the creation of local currency
 
