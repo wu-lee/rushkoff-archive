@@ -311,19 +311,7 @@ Meanwhile, the actual value of this currency, and the effort required to obtain 
 
 What if currency were to become open source? In some communities it already is. They are not printing counterfeit bills but catalysing regional economies through the use of local currencies, locally created ‘scrip’ that can be exchanged throughout a particular region in lieu of Federal Reserve notes or real cash. The use of these currencies, as promoted by organisations such as the E.F. Schumacher Society, has been shown to accelerate the exchange of goods and services in a region by increasing the purchasing power of its members. There is no Federal Reserve surcharge on the creation and maintenance of cash, and no danger of government currency depreciation due to matters that have nothing to do with actual production and consumption.
 
-Like any other bottom-up system, the creation of local currency
-
-develops transactional models appropriate to the scale of the actual
-
-transactions and the communities in which they occur. While Federal
-
-notes, or euros for that matter, might be appropriate for a merchant
-
-to use across state or national boundaries, local currencies make for
-
-greater fluidity and accountability between members of the same
-
-community.
+Like any other bottom-up system, the creation of local currency develops transactional models appropriate to the scale of the actual transactions and the communities in which they occur. While Federal notes, or euros for that matter, might be appropriate for a merchant to use across state or national boundaries, local currencies make for greater fluidity and accountability between members of the same community.
 
 Thanks to the dynamic relationships permitted in a networked
 
