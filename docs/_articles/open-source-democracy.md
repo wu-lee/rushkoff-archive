@@ -307,17 +307,7 @@ Unlike in the 1960s, when people questioned their authorities in the hope of rep
 
 So what happens when the open source development model is applied to, say, the economy? In the United States, it would mean coming to appreciate the rules of the economic game for what they are: rules. Operating in a closed source fashion, the right to actually produce currency is held exclusively by the Federal Reserve. Quietly removed from any relationship to real money such as gold or silver by Richard Nixon in the early 1970s, US currency now finds its value in pure social construction. Whether or not we know it, we all participate in the creation of its value by competing for dollars against one another. For example, when a person or business borrows money from the bank (an agent, in a sense, of the Federal Reserve) in the form of a mortgage they must eventually pay the bank back two or three times the original borrowed amount. These additional funds are not printed into existence, but must be won from others in the closed source system. Likewise, every time a student wants to buy one of my books, he must go out into the economy and earn or win some of these arbitrarily concocted tokens, US currency, in order to do it. Our transaction is brokered by the Federal Reserve, which has a monopoly on this closed source currency.
 
-Meanwhile, the actual value of this currency, and the effort
-
-required to obtain it, is decided much more by market speculators
-
-than its actual users. Speculation accounts for over 90 per cent of US
-
-currency transactions in any given day. By this measure, real spending
-
-and the real economy are a tiny and secondary function of money:
-
-the dog is being wagged by its tail.
+Meanwhile, the actual value of this currency, and the effort required to obtain it, is decided much more by market speculators than its actual users. Speculation accounts for over 90 per cent of US currency transactions in any given day. By this measure, real spending and the real economy are a tiny and secondary function of money: the dog is being wagged by its tail.
 
 What if currency were to become open source? In some
 
