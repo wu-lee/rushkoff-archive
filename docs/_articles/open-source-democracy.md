@@ -339,23 +339,7 @@ The new transparency offered by the interactive mediaspace allows even the casua
 
 My advice? Don’t beat them. Let them join you. Choose to believe that the renaissance I am describing has already taken place. Instead of looking forward to a day when justice will be won, declare that we are living in a just world right now. Declare that we are simply fighting for more justice.
 
-Movements, as such, are obsolete. They are incompatible with a
-
-renaissance sensibility because of the narrative style of their intended
-
-unfolding. They yearn forward towards salvation in the manner of
-
-utopians or fundamentalists: an increasing number of people are
-
-becoming aware of how movements of all stripes justify tremendous
-
-injustice in the name of that deferred future moment. People are
-
-actually taken out of their immediate experience and their
-
-connection to the political process as they put their heads down and
-
-do battle. It becomes not worth believing in anything.
+Movements, as such, are obsolete. They are incompatible with a renaissance sensibility because of the narrative style of their intended unfolding. They yearn forward towards salvation in the manner of utopians or fundamentalists: an increasing number of people are becoming aware of how movements of all stripes justify tremendous injustice in the name of that deferred future moment. People are actually taken out of their immediate experience and their connection to the political process as they put their heads down and do battle. It becomes not worth believing in anything.
 
 This is why we have to advocate living in the now in order to effect
 
