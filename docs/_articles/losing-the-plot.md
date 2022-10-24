@@ -8,7 +8,6 @@ blurb: ''
 notes: Nov/Dec 1999 according to citation in Rave Culture and Religion
 refs: ''
 sources: ''
-published: false
 
 ---
 My first exposure to rave culture, back in 1988, was perhaps the most significant dose of pure possibility I had experienced since my psychedelic initiation ten years earlier.  Too young to have any direct contact with whatever the 1960's may have heralded, I was convinced we had stumbled upon something truly novel: a social scene capable of transforming the greater world around it.  
