@@ -329,21 +329,7 @@ An open source model for participatory, bottom-up and emergent policy will force
 
 For instance, today’s misunderstood energy crisis provides a glaring example of the liability of closed source policy-making. The Western world is unnecessarily addicted to fossil fuels and other energy commodities not because alternative energy sources are unavailable, but because alternative business models for energy production cannot be fully considered without disrupting the world’s most powerful corporations and economies. It really is as simple as that.
 
-Solar, geothermal and other renewable energy sources are quite
-
-ready for deployment in a wide variety of applications. They are not
-
-encouraged, not through tax policies nor through venture capital,
-
-because they don’t make sense to an industry and economy that has
-
-based its business model on the exploitation of fixed and precious
-
-resources: a closed source model. As a result, we are suffering through
-
-a potentially irreversible environmental crisis, as well as a geopolitical
-
-conflict that is already spinning wildly out of control.
+Solar, geothermal and other renewable energy sources are quite ready for deployment in a wide variety of applications. They are not encouraged, not through tax policies nor through venture capital, because they don’t make sense to an industry and economy that has based its business model on the exploitation of fixed and precious resources: a closed source model. As a result, we are suffering through a potentially irreversible environmental crisis, as well as a geopolitical conflict that is already spinning wildly out of control.
 
 The maintenance of such imbalances is dependent on closed
 
