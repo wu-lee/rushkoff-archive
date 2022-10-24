@@ -343,19 +343,7 @@ Movements, as such, are obsolete. They are incompatible with a renaissance sensi
 
 This is why we have to advocate living in the now in order to effect any real change. There should be no postponement of joy. Once we start down this path, there can be no stopping. We begin to see the unreality of money. We begin to see how ‘salvation’ has been traded in for ‘retirement’ as the new ultimate goal for which Westerners suspend their lives and their ethics. (People work for companies they hate, and then invest in corporations whose ethics they detest, in order to guarantee a good retirement.) We see the artificial obstacles to appropriate energy policy, international relations, urban planning and affordable healthcare as what they are: artificial. Meanwhile, what we can accomplish presents itself on a much more realistic scale when we engage with it in the moment and on a local level.
 
-Yes, political structures do need to be changed. But we may have to
-
-let their replacements emerge from the myriad of new relationships
-
-Open source democ ra cy
-
-64 De m o s
-
-that begin to spawn once people are acting and communicating in the
-
-present, and on a realistic scale, instead of talking about a fictional
-
-future.
+Yes, political structures do need to be changed. But we may have to let their replacements emerge from the myriad of new relationships that begin to spawn once people are acting and communicating in the present, and on a realistic scale, instead of talking about a fictional future.
 
 The underlying premise is still dependent on the notion of
 
