@@ -317,15 +317,7 @@ Thanks to the dynamic relationships permitted in a networked society, we need no
 
 In a society modelled on open source ideals, ‘think globally, act locally’ becomes more than just a catchphrase. The relationship of an individual or local community’s action to the whole system can be experienced quite readily. For example, an open source software developer who writes just a few useful lines of code, say the protocol for enabling infrared communications to work on the Linux operating system, will see his or her contribution interpolated into the kernel of the operating system and then spread to everyone who uses it. He has done more than distributed a line of computer code. He has also enabled thousands of people using Linux to connect cell phones, PDAs and other devices to their computers for the first time. And he did it from his home, in his spare time.
 
-Likewise, a developer who leaves a security hole open in a piece of
-
-software quite dramatically sees the results of his action when a
-
-software ‘worm’, written by a computer criminal, penetrates the mail
-
-files of thousands of users, sending replicates of itself throughout the
-
-internet, sometimes for years to come.
+Likewise, a developer who leaves a security hole open in a piece of software quite dramatically sees the results of his action when a software ‘worm’, written by a computer criminal, penetrates the mail files of thousands of users, sending replicates of itself throughout the internet, sometimes for years to come.
 
 Members of an open source community are able to experience how
 
