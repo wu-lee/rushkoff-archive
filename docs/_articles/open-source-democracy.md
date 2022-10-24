@@ -323,19 +323,9 @@ Members of an open source community are able to experience how their actions aff
 
 The experience of open source development, or even just the acceptance of its value as a model for others, provides real-life practice for the deeper change in perspective required of us if we are to move into a more networked and emergent understanding of our world. The local community must be experienced as a place to implement policies, incrementally, that will eventually have an effect on the whole. For example, the environmental advocate who worries about the Brazilian rainforest will quit smoking himself before racing off to the next rally held to save the lungs of the planet. The woman organising against genetic engineering in agriculture will refuse to let her children eat at McDonald’s, even if it requires them to bring their own lunch to a friend’s birthday party. A consistency between belief and behaviour becomes the only way to make our designs on reality real.
 
-Closed source: no justice, no power
+**Closed source: no justice, no power**
 
-An open source model for participatory, bottom-up and emergent
-
-policy will force us, or allow us, to confront the issues of our time
-
-more directly. Using the logic of a computer programmer, when we
-
-find we can’t solve a problem by attacking one level of societal
-
-software,we proceed to the next level down. If necessary we dig all the
-
-way down to the machine language.
+An open source model for participatory, bottom-up and emergent policy will force us, or allow us, to confront the issues of our time more directly. Using the logic of a computer programmer, when we find we can’t solve a problem by attacking one level of societal software,we proceed to the next level down. If necessary we dig all the way down to the machine language.
 
 For instance, today’s misunderstood energy crisis provides a
 
