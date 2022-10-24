@@ -341,29 +341,7 @@ My advice? Don’t beat them. Let them join you. Choose to believe that the rena
 
 Movements, as such, are obsolete. They are incompatible with a renaissance sensibility because of the narrative style of their intended unfolding. They yearn forward towards salvation in the manner of utopians or fundamentalists: an increasing number of people are becoming aware of how movements of all stripes justify tremendous injustice in the name of that deferred future moment. People are actually taken out of their immediate experience and their connection to the political process as they put their heads down and do battle. It becomes not worth believing in anything.
 
-This is why we have to advocate living in the now in order to effect
-
-any real change. There should be no postponement of joy. Once we
-
-start down this path, there can be no stopping. We begin to see the
-
-unreality of money. We begin to see how ‘salvation’ has been traded in
-
-for ‘retirement’ as the new ultimate goal for which Westerners
-
-suspend their lives and their ethics. (People work for companies they
-
-hate, and then invest in corporations whose ethics they detest, in
-
-order to guarantee a good retirement.) We see the artificial obstacles
-
-to appropriate energy policy, international relations, urban planning
-
-and affordable healthcare as what they are: artificial. Meanwhile, what
-
-we can accomplish presents itself on a much more realistic scale when
-
-we engage with it in the moment and on a local level.
+This is why we have to advocate living in the now in order to effect any real change. There should be no postponement of joy. Once we start down this path, there can be no stopping. We begin to see the unreality of money. We begin to see how ‘salvation’ has been traded in for ‘retirement’ as the new ultimate goal for which Westerners suspend their lives and their ethics. (People work for companies they hate, and then invest in corporations whose ethics they detest, in order to guarantee a good retirement.) We see the artificial obstacles to appropriate energy policy, international relations, urban planning and affordable healthcare as what they are: artificial. Meanwhile, what we can accomplish presents itself on a much more realistic scale when we engage with it in the moment and on a local level.
 
 Yes, political structures do need to be changed. But we may have to
 
