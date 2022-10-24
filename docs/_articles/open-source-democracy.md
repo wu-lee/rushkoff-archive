@@ -331,37 +331,9 @@ For instance, today’s misunderstood energy crisis provides a glaring example o
 
 Solar, geothermal and other renewable energy sources are quite ready for deployment in a wide variety of applications. They are not encouraged, not through tax policies nor through venture capital, because they don’t make sense to an industry and economy that has based its business model on the exploitation of fixed and precious resources: a closed source model. As a result, we are suffering through a potentially irreversible environmental crisis, as well as a geopolitical conflict that is already spinning wildly out of control.
 
-The maintenance of such imbalances is dependent on closed
+The maintenance of such imbalances is dependent on closed source processes. The power of puppet dictators in the oil-producing Middle East is perpetuated not just by US warplanes, but by their own economies which derive all their wealth through the exploitation of resources. Were these nations required to compete in the global marketplace through the production of goods or services, then a passive, uneducated population would no longer bring their monarchs the wealth to which they are accustomed. As it is, the peasants need only be educated enough to dig. And the closed source mentality travels all the way around the distribution cycle. Nowhere is the closed source imperative of an oil-based economy more evident than in the appointment, by America’s judicial branch (though not its population), of a President to represent the oil industry.
 
-source processes. The power of puppet dictators in the oil-producing
-
-Middle East is perpetuated not just by US warplanes, but by their own
-
-economies which derive all their wealth through the exploitation of
-
-resources. Were these nations required to compete in the global
-
-marketplace through the production of goods or services, then a
-
-passive, uneducated population would no longer bring their
-
-monarchs the wealth to which they are accustomed. As it is, the
-
-peasants need only be educated enough to dig. And the closed source
-
-mentality travels all the way around the distribution cycle. Nowhere is
-
-the closed source imperative of an oil-based economy more evident
-
-than in the appointment, by America’s judicial branch (though not its
-
-population), of a President to represent the oil industry.
-
-Open source democ ra cy
-
-62 De m o s
-
-7\. Conclusion
+**7. Conclusion**
 
 The new transparency offered by the interactive mediaspace allows
 
