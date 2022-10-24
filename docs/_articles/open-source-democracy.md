@@ -337,15 +337,7 @@ The maintenance of such imbalances is dependent on closed source processes. The 
 
 The new transparency offered by the interactive mediaspace allows even the casually interested reader to learn how the West’s foreign and domestic policies have been twisted to a perverse caricature of themselves. I do not wish here to beat the drum for a partisan revolution. Instead, I am to demonstrate how a growing willingness to engage with the underlying code of the democratic process could eventually manifest in a widespread call for revisions to our legal, economic and political structures on an unprecedented scale, except in the cases of full-fledged revolution. Transparency in media makes information available to those who never had access to it before. Access to media technology empowers those same people to discuss how they might want to change the status quo. Finally, networking technologies allow for online collaboration in the implementation of new models, and the very real-world organisation of social activism and relief efforts. The good news, for those within the power structure today, is that we are not about to enter a phase of revolution, but one of renaissance. We are heading not towards a toppling of the democratic, parliamentary or legislative processes, but towards their reinvention in a new, participatory context. In a sense, the people are becoming a new breed of wonk, capable of engaging with government and power structures in an entirely new fashion. The current regime, in the broadest sense, will have ended up being the true and lasting one if it can get its head and policies around these renaissance modalities of increased dimensionality, emergence, scalability and participation.
 
-My advice? Don’t beat them. Let them join you. Choose to believe
-
-that the renaissance I am describing has already taken place. Instead
-
-of looking forward to a day when justice will be won, declare that we
-
-are living in a just world right now. Declare that we are simply
-
-fighting for more justice.
+My advice? Don’t beat them. Let them join you. Choose to believe that the renaissance I am describing has already taken place. Instead of looking forward to a day when justice will be won, declare that we are living in a just world right now. Declare that we are simply fighting for more justice.
 
 Movements, as such, are obsolete. They are incompatible with a
 
