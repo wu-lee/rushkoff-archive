@@ -327,25 +327,7 @@ The experience of open source development, or even just the acceptance of its va
 
 An open source model for participatory, bottom-up and emergent policy will force us, or allow us, to confront the issues of our time more directly. Using the logic of a computer programmer, when we find we can’t solve a problem by attacking one level of societal software,we proceed to the next level down. If necessary we dig all the way down to the machine language.
 
-For instance, today’s misunderstood energy crisis provides a
-
-glaring example of the liability of closed source policy-making. The
-
-Open source
-
-De m o s 61
-
-Western world is unnecessarily addicted to fossil fuels and other
-
-energy commodities not because alternative energy sources are
-
-unavailable, but because alternative business models for energy
-
-production cannot be fully considered without disrupting the world’s
-
-most powerful corporations and economies. It really is as simple as
-
-that.
+For instance, today’s misunderstood energy crisis provides a glaring example of the liability of closed source policy-making. The Western world is unnecessarily addicted to fossil fuels and other energy commodities not because alternative energy sources are unavailable, but because alternative business models for energy production cannot be fully considered without disrupting the world’s most powerful corporations and economies. It really is as simple as that.
 
 Solar, geothermal and other renewable energy sources are quite
 
