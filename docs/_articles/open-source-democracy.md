@@ -319,35 +319,7 @@ In a society modelled on open source ideals, ‘think globally, act locally’ b
 
 Likewise, a developer who leaves a security hole open in a piece of software quite dramatically sees the results of his action when a software ‘worm’, written by a computer criminal, penetrates the mail files of thousands of users, sending replicates of itself throughout the internet, sometimes for years to come.
 
-Members of an open source community are able to experience how
-
-their actions affect the whole. As a result, they become more
-
-conscious of how their moment-to-moment decisions can be better
-
-Open source democ ra cy
-
-60 De m o s
-
-aligned with the larger issues with which they are concerned. A
-
-programmer concerned with energy consumption and the
-
-environment might take time to consider how a particular screensaver routine impacts the total energy consumption pattern of a
-
-particular monitor. The programmer already understands that if the
-
-code is used on millions of machines, each effort to reduce energy
-
-consumption by a minuscule amount can amplify into tremendous
-
-energy savings. (Indeed, it has been calculated that the energy
-
-required to power all the televisions and computers in America that
-
-are currently in sleep mode equals the output of an entire average-size
-
-power plant.)
+Members of an open source community are able to experience how their actions affect the whole. As a result, they become more conscious of how their moment-to-moment decisions can be better aligned with the larger issues with which they are concerned. A programmer concerned with energy consumption and the environment might take time to consider how a particular screensaver routine impacts the total energy consumption pattern of a particular monitor. The programmer already understands that if the code is used on millions of machines, each effort to reduce energy consumption by a minuscule amount can amplify into tremendous energy savings. (Indeed, it has been calculated that the energy required to power all the televisions and computers in America that are currently in sleep mode equals the output of an entire average-size power plant.)
 
 The experience of open source development, or even just the
 
