@@ -315,29 +315,7 @@ Like any other bottom-up system, the creation of local currency develops transac
 
 Thanks to the dynamic relationships permitted in a networked society, we need not choose between local and closed currencies. A post-renaissance perspective on economic issues has room for both to exist, simultaneously functioning on different orders of magnitude.
 
-In a society modelled on open source ideals, ‘think globally, act
-
-locally’ becomes more than just a catchphrase. The relationship of an
-
-individual or local community’s action to the whole system can be
-
-experienced quite readily. For example, an open source software
-
-developer who writes just a few useful lines of code, say the protocol
-
-for enabling infrared communications to work on the Linux
-
-operating system, will see his or her contribution interpolated into
-
-the kernel of the operating system and then spread to everyone who
-
-uses it. He has done more than distributed a line of computer code.
-
-He has also enabled thousands of people using Linux to connect cell
-
-phones, PDAs and other devices to their computers for the first time.
-
-And he did it from his home, in his spare time.
+In a society modelled on open source ideals, ‘think globally, act locally’ becomes more than just a catchphrase. The relationship of an individual or local community’s action to the whole system can be experienced quite readily. For example, an open source software developer who writes just a few useful lines of code, say the protocol for enabling infrared communications to work on the Linux operating system, will see his or her contribution interpolated into the kernel of the operating system and then spread to everyone who uses it. He has done more than distributed a line of computer code. He has also enabled thousands of people using Linux to connect cell phones, PDAs and other devices to their computers for the first time. And he did it from his home, in his spare time.
 
 Likewise, a developer who leaves a security hole open in a piece of
 
