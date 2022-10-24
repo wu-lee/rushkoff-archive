@@ -313,13 +313,7 @@ What if currency were to become open source? In some communities it already is. 
 
 Like any other bottom-up system, the creation of local currency develops transactional models appropriate to the scale of the actual transactions and the communities in which they occur. While Federal notes, or euros for that matter, might be appropriate for a merchant to use across state or national boundaries, local currencies make for greater fluidity and accountability between members of the same community.
 
-Thanks to the dynamic relationships permitted in a networked
-
-society, we need not choose between local and closed currencies. A
-
-post-renaissance perspective on economic issues has room for both to
-
-exist, simultaneously functioning on different orders of magnitude.
+Thanks to the dynamic relationships permitted in a networked society, we need not choose between local and closed currencies. A post-renaissance perspective on economic issues has room for both to exist, simultaneously functioning on different orders of magnitude.
 
 In a society modelled on open source ideals, ‘think globally, act
 
