@@ -321,33 +321,7 @@ Likewise, a developer who leaves a security hole open in a piece of software qui
 
 Members of an open source community are able to experience how their actions affect the whole. As a result, they become more conscious of how their moment-to-moment decisions can be better aligned with the larger issues with which they are concerned. A programmer concerned with energy consumption and the environment might take time to consider how a particular screensaver routine impacts the total energy consumption pattern of a particular monitor. The programmer already understands that if the code is used on millions of machines, each effort to reduce energy consumption by a minuscule amount can amplify into tremendous energy savings. (Indeed, it has been calculated that the energy required to power all the televisions and computers in America that are currently in sleep mode equals the output of an entire average-size power plant.)
 
-The experience of open source development, or even just the
-
-acceptance of its value as a model for others, provides real-life
-
-practice for the deeper change in perspective required of us if we are
-
-to move into a more networked and emergent understanding of our
-
-world. The local community must be experienced as a place to
-
-implement policies, incrementally, that will eventually have an effect
-
-on the whole. For example, the environmental advocate who worries
-
-about the Brazilian rainforest will quit smoking himself before racing
-
-off to the next rally held to save the lungs of the planet. The woman
-
-organising against genetic engineering in agriculture will refuse to let
-
-her children eat at McDonald’s, even if it requires them to bring their
-
-own lunch to a friend’s birthday party. A consistency between belief
-
-and behaviour becomes the only way to make our designs on reality
-
-real.
+The experience of open source development, or even just the acceptance of its value as a model for others, provides real-life practice for the deeper change in perspective required of us if we are to move into a more networked and emergent understanding of our world. The local community must be experienced as a place to implement policies, incrementally, that will eventually have an effect on the whole. For example, the environmental advocate who worries about the Brazilian rainforest will quit smoking himself before racing off to the next rally held to save the lungs of the planet. The woman organising against genetic engineering in agriculture will refuse to let her children eat at McDonald’s, even if it requires them to bring their own lunch to a friend’s birthday party. A consistency between belief and behaviour becomes the only way to make our designs on reality real.
 
 Closed source: no justice, no power
 
