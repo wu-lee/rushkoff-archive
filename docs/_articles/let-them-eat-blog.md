@@ -1,0 +1,956 @@
+---
+publication: _publications/uses-of-blogs.md
+title: Let Them Eat Blog
+subtitle: ''
+image: ''
+date: 2006-06-01 00:00:00 -0400
+blurb: ''
+notes: Date from Amazon
+refs: ''
+sources: ''
+published: false
+
+---
+b• CHAPTER TWENTY-ONE•
+
+Biogs and the
+
+Communications Renaissance
+
+Joanne Jacobs & Douglas Rushkoff
+
+F;n, l!y ;t', becom;ng P'>ctkal fo, i"Opl, w;,h Htt!, o, no technkal expen;,, whatsoever to find their voice.
+
+Now we just need ways to make sure we know how to hear them .. .. 1
+
+\-Tom Coates (2003)
+
+inding people with similar interests to yourself can be a challenging
+
+experience. Finding out how to communicate effectively with people of
+
+similar interests has been an ongoing challenge. In spite of the promise
+
+of new technologies acting as an agora for political debate and cyberdemocracy
+
+in the fashion documented by Mark Poster,' the realities of bandwidth scarcity,
+
+the intellectual property issues associated with posting rich media content, and
+
+a user-oriented need for maximum communication with minimum time
+
+wastage have meant that the vast majority of communications between people
+
+online are text-based . And the nature of text-based communications is such
+
+that the practice of communicating ideas and cultures becomes a frustrating
+
+process of negotiating meaning and searching for synergy. This could well be a
+
+reason why blogs have been so successful at defining new cultures for the
+
+sharing of ideas. Dominated by text (in spite of the growth of moblogging,
+
+picture, and vidblogging-on the latter, see chapter nineteen by Adrian Miles
+
+in this volume), text-based blogs allow for conversations and cultures to
+
+develop in an almost evolutionary fashion, growing and changing in
+
+accordance with reader interests and influences. Thus it is blogs that come
+
+closest to achieving the vision for cyberspace first promulgated by advocates of
+
+technocracies-cyber-utopias for cultural expansion, political _debate, and
+
+economic efficiency. Biogs provide us with the basis for developmg the tn\~\~e
+
+crown of "faster, cheaper, better"; information of interest to any spec1f1c
+
+community is available on the fly, at almost zero cost for all members of a
+
+community, and with more reliability and cross-referencing than was ever
+
+L
+
+• BIOGS AND THE \~!CATIONS KENAL"ANCE, --
+
+240 \~-
+
+before available. In terms of modern cultural development, biogs ma
+
+h f h
+
+. . . y well be
+
+t e source o t e communication renaissance.
+
+This chapter demonstrates the power of biogs as a means of co nstruct'
+
+and negotiating ideas. Excerpts from blog posts by Douglas Rushkoff Ing
+
+been interspersed with commentary by Uses of Biogs co-editor Joann J bhave e aco s.
+
+The Communications Renaissance
+
+» Douglas Rushkoff-Renaissance Now? (13 June 2002)
+
+3
+
+The birth of the Internet era was considered a revolution, by many. My b\~st friendsparticularly those in the 'counterculture'-sa\~ in the lnter\~et an \~pporturnty t\~ \~opp\~e
+
+the storytellers who had dominated our poht1cs, economics, society, and religion, in
+
+short our very reality, and to replace their stories with ones of our own. It was a
+
+beau\~iful and exciting sentiment, but one as based in a particular narrative as any
+
+other. Revolutions simply replace one story with another. The capitalist narrative is
+
+replaced by the communist; the religious fundamentalist's for the agnostic's. The
+
+means may be different, but the rewards are the same, as is the exclusivity of their
+
+distribution. That's why they're called revolutions; we're just going in a circle.
+
+I prefer to think of the proliferation of interactive media as an opportunity for
+
+renaisiance: a moment when we have the opportunity to step out of the story,
+
+altogether. Renaissances are historical instances of widespread recontextualization.
+
+People in a variety of different arts, philosophies, and sciences have the ability to
+
+reframe their reality. Quite literally, renaissance means "rebirth." It is the rebirth of old
+
+ideas in a new context. A renaissance is a dimensional leap, when our perspective
+
+shifts so dramatically that our understanding of the oldest, most fundamental elements
+
+of existence changes.
+
+Take a look back at what we think of as the original Renaissance-the one we were
+
+taught in school. What were the main leaps in perspective? Well, most obviously,
+
+p\~rsp_ective pai_\~ting itself. Artists developed the technique of the "vanishing point" and
+
+with it the ability to paint three dimensional representations on two-dimensional
+
+surfa
+
+_
+
+ces. The character of this innovation is subtle, but distinct. It is not a technique for
+
+working in three dimensions· ·,t · t th t · . . , 1s no a artists moved from working on canvas to
+
+v.:orkin\~ with clay. Rather, perspective painting allows an artist to relate between
+
+d1mens1ons. It is a way f . . .
+
+d
+
+. . o representing three-d1mens1onal objects on a two1mens1onal plane.
+
+Likewise, calculus-another . . . the wake f R . innovation developed not quite during, but immediately in
+
+o ena1ssance adva • derive one di'me .
+
+1
+
+nces-is a mathematical system that allows us to
+
+ns1ona perspectiv f describing curves with th I e rom another. Most simply, it is a new way of speed in the language fed' anguage of lines, spheres with the language of curves, or
+
+0 1stance The le f . . . leap in our ability to k . · ap rom arithmetic to calculus was not Just a
+
+wor with high d' · . . . relate the obi·ects of . _er imensional obJects, but a leap in our ab1hty to
+
+one d1mens1on to th b' . perspective that allowed t . e o Jects of another. It was a shift in
+
+us o orient our 1 the c\~nt\~\~t of th\~ir. \~'-V\~ ?imensionality. se ves to mathematical objects from beyond
+
+• USES OF BLOGS • 241
+
+\~ the-;;;;; f;;;ures of the Renai;;;\~ce permitted . .1 . , rn• o sim1 ar shifts ·
+
+• , ,.,a,igatiOn of the globe changed our relationship to th in perspective.
+
+circu...,aps we used to describe it. The maps still w k de planet we live on and
+
+,
+
+the "· . or e , of cou
+
+C
+
+ribed a globe instead of a plane. Anyone hoping to . rse----only they des . . navigate a cou h
+
+ble
+
+to relate a two-dimensional map to the new real"ity f h rse ad to be a . . 0 a t ree-dime ·
+
+Sl
+
+·rnilarlY, the invention of moveable type and the . t· nsional planet. pnn mg press ch
+
+r
+
+elationship of author and audience to text. The ere t· anged the a 10n of a manus • t
+
+1onger a one-pointed affair. Well, the creation of the first . cnp was no . . . manuscript still wa b
+
+it could be replicated and distributed to everyone It w t"II s- ut now . . . . . . · as s I one story b t . ,
+
+subject to a multtphc1ty of md1v1dual perspectives Th" 1 tt . · u \~ow it was ,
+
+I d
+
+. . . · is a ermost innovation alone
+
+changed the an scape of rehg1on m the Western world I d' 'd • ' ' . · n WI ual interpretation of the
+
+. . um a era nature of its decrees.
+
+Bible led to the collapse of Church authority and of the ·1 t I .
+
+Everyone demanded his or her own relationship to the t s ory.
+
+In all these cases, people experienced a very particular sh'ft · th ·
+
+1
+
+• •
+
+. . 1 m eir re at1onsh1p to and
+
+understanding of dimensions. Understood this way a · ·
+
+. , renaissance IS a moment of
+
+refram1ng. We step out of the frame as it is cuITently defined, and see the whole
+
+picture m a new context. We can then play by new rules.
+
+The great Renaissance was a simple leap in perspective. Instead of seeing everything
+
+In one d1mens1on, we came to realize there was more than one dimension on which
+
+things were occurring. Even the Elizabethan world picture, with its concentric rings of
+
+authority-God, king, man, animals-reflects this newfound way of contending with
+
+the simultaneity of action of many dimensions at once.
+
+The evidence of today's renaissance is at least as profound as that of the one that
+
+went before. The 16th century saw the successful circumnav\~ation of the globe via
+
+the seas. The 20th century saw the successful clrcumnav\~ation of the globe from
+
+space. The first pictures of earth from space changed our perspective on this sphe1e,
+
+foreve1. In the same century, ou1 dominance ove• the planet was confinned not just
+
+th10ugh ou1 abilitY to travel around It, but to deskOY • · The atomic bomb <•self the
+
+result of a ,ude dimensional interchange between submo1ecula1 particles) gave us the
+
+ability to destmY the globe. Now, instead of merely being able to ciocumnavigate
+
+"God's" creation. we could actively dest10Y it. This Is a new perspective
+
+we also have ou• equivalent of peospective painting, In the Invention of the holograph
+
+The hologiaph allows us to ,epresenl not just three, but fou1 dimensions on a two1
+
+d
+
+. •
+
+1
+
+late When the viewer walks past a holograph, she can observe the
+
+1mens1ona p . thoee-dimensional object ove1 a course of time. A bi«l can flap its wings in a slngle
+
+.
+
+8
+
+t more importantly for our renaissance's purposes, the holographic plate
+
+picture. u , . . . . ·t If bodies a new 1ena1ssance p11nc1ple. When the plate IS smashed into hundreds
+
+I se em t . th b' d' . d
+
+f
+
+. we do not find (hat one piece con ams e II s wmg, an anotheo piece the
+
+o pieces, . . . . . biod's i,eak. No, each piece of the plate contains an ,mage of the enb10 sub1ecl, albe1I
+
+a faint one. When th• pieces ace put togethel, the image achieves greate1 ,esolution.
+
+But each piece contains a representation of the totality-a leap In dimensional
+
+understanding that is now info1ming disciplines as diverse as bmln anatomy and
+
+computer programming.
+
+ou• analog to calculus is the development of systems theory, chaos math, and the
+
+much-eeleb1ated Metal. Confronting non-linear equations on thei1 own terms to• the
+
+first time, mathematicians anned with computers are coming to new understandings of
+
+242 • BLOGS AND THE COMMUNICATIONS R_ENAISSANCE •
+
+the way numbers can be used to represent the complex relationships between
+
+dimensions. Accepting that the surfaces in our world, from coastlines to clouds, exhibit
+
+the properties of both two- and three-dimensional objects Oust what is the surface
+
+area of a cloud?) they came up with ways of working with and representing objects
+
+with fractional dimensionality. Using fractals and their equations, we can now
+
+represent and work with objects from the natural world that defied Cartesian analysis.
+
+We also become able to develop mathematical models that reflect many more
+
+properties of nature's own systems-such as self-similarity and remote high leverage
+
+points. Again, we find this renaissance characterized by the ability of an individual to
+
+reflect, or even affect, the grand narrative. To write the game.
+
+Finally, our renaissance's answer to the printing press is the computer and its ability to
+
+network. Just as the printing press gave everyone access to readership, though, the
+
+computer and Internet give everyone access to authorship. The first Renaissance took
+
+us from the position of passive recipient to active interpreter. Our current renaissance
+
+brings us from a position of active interpretation to one of authorship. We are the
+
+creators.
+
+Blog Cultures
+
+So if we accept Rushkoff s premise of the present renaissance mimicking
+
+that of the previous Renaissance, how does our ability to create and to control
+
+our environments relate to the development of the blog? Many have argued
+
+that the growth of the blog is a revolution or at least major restructuring of
+
+mainstream media: that blogs are a powerful alternative news source and provide an effective check against the mass oligopolization of media organizations
+
+and concomitant reduction in content diversity.4 But given the growth rates
+
+and decidedly personal nature of the majority of new blogs,5 it's probably more
+
+significant that biogs represent the current renaissance' s version of crosscultural exchange. Safer and more efficient than circumnavigating the globe in
+
+either tall ships or spacecraft, blogs still allow for debate, exchange, and speculation between strangers, and the growth of new friendships, business deals,
+
+and partnerships that might never otherwise have been forged.
+
+The rise of biogs as a medium for the creators of the modern communications renaissance has permitted an almost meteoric development of very specific cultural groups. Elsewhere in this edition are chapters focusing on niche
+
+blogging groups, but the culture of blogging itself has arisen as a key niche
+
+market. Celebrity bloggers are now a cult in their own right with "A-list" identities such as Cory Doctorow, Meg Hourihan, Joi Ito, Ja\~on Kottke, Glen\~
+
+Reynol\~s, and Douglas Rushkoff (among many others) attracting major audiences simply because they are blogging. It helps, of course, to have a book or
+
+two u
+
+nd
+
+_er your belt to promote the image, but the act of blogging and the cult
+
+of bloggmg have produced their own unique market niche.
+
+111111
+
+,......---
+
+• USES OF BLOGS • 243
+
+l . .
+
+. . tl,is blog cu ture 1mpactmg n egatively upo n ilie "Ct of . . 1 But 1:. . « creat1v1ty. ls
+
+1\. ,a bloa culture a p o pularity contest amo n o hioh-profile p • .
+
+1
+
+,rro,,n .,, " . . 0 0 · art1c1pants
+
+pt'" rl,orship by a few articulate pio n eers is d rownino out t11 • t· h ' ·he\~ :1u "' e v01ce o t e
+
+11
+
+1 1 Are blogging cultures in fuct d iluting the power and \~1·o111·f1·c f 1 pe0P e. . _ . . ". . " "' ance o t 1e
+
+nll
+
+inicanon :s ren aissan ce, an d o n ce agam releimtmo most bloo read , con' · 0 0 "' c er:s to
+
+. . · ts1
+
+.
+
+"' parnc1pan • •1Ctlh - ' lt was journalism in th e nineteenth century th at evolved as a Fourth Estate, providing sto ps an d ch ecks o n the o peratio ns of ilie ruling classes and
+
+parliament. ln h er study o n the ch an ges taking place in news media today,
+
+Schultz noted th at the public service principle of jo urnalism made it tl1e most
+
+important and powerful instrument of influence within a democracy.6 The
+
+function of journalism an d m.edia repo rting was designed to be info rmative,
+
+allowing the citizen ry to respo nd to the issues of the day in a manner that ensured that the interests of the people were b eing considered. And the individual perspectives of the po pulace o n all matter of issues, from religion to
+
+politics, began to h ave an impact o n decision making. Thus multiplicity of individual perspectives of readers made possible by the printing press at the
+
+height of the Ren aissan ce brou ght down the Church and spawn ed journalism
+
+simultaneously. There was a growing need to develop personalized responses
+
+to the world , and jo urnalism. could provide that voice fo r the masses.
+
+But eventually the power of the media as a vehicle fo r the public voice and
+
+as a mean s of bringing d own governing bodies was recognized, and commercial interests as well as political leaders sought to regulate the output of media
+
+institutio n s. Corpo rate mergers and acquisitions as well as formal and informal political affiliatio ns emerged , and the number of media voices was reduced . Even the style of media reporting began to standardize. Globally, the
+
+perceived value of investigative journalism waned after the \\Xlas h.irigton Post's
+
+associatio n in the W atergate affair of the 1960s; by the turn of the millennium, in W estern n atio ns, representatives from the media were considered to
+
+be as trustworthy as used car salesmen . Even where the number of media
+
+channels in subscription televisio n networks rose, the similarity of content
+
+productio n and centralizatio n of news sources, as well as mass production of
+
+proaram.mina was and is considered a reduction in media output quality.
+
+0 Enter: b\\\~gs. Instead of relying on jo urnalism. as a trusted source _of info rd I · · f 1 ·Hn ·tream mation and a means of checking the accuracy an aut 1on ty O 11• :s : · · ,- renornn"
+
+media, biogs provided a new shift: a change in perspective tn ne,\~s r- "'
+
+and, mo re widely, in the creation of cultural content. The conflict that had
+
+emercred in mainstream media, of providing commercially viable cnntent nt
+
+0 . . 1 f , . ·, o ·tin•• wa,; \\ow cost while also meeting an acceptable standaro o ncw:s IL P · 1 ,.,
+
+d
+
+· \\ · \\ bl I b t ,., · created ·,t nearly deeme irre evant tr1 t 1e ogosp 1ere, ecause conten . \\\\ .,:s • • .
+
+I
+
+· ·I ::l • 1 immediate
+
+zero cost fo r a I authors, and the commentary system proVll eL •11
+
+channel fo r response. Like the change in perspective experienced during
+
+th
+
+e
+
+'
+
+244 • BLOGS AND THE COMMUNICATIONS RENAISSANCE•
+
+h . •f· ce of blogs added a new dimension to our u high Renaissance, t e sigm tcan . d h h . nderstandmg o t e wor c- . f h Id as previously experience t roug Prtnt and ele
+
+tronic media channels. h . .
+
+B h
+
+. d hange in perspective is wort questtonmg. What ,,. ut t 1s suppose c vve
+
+. . h h development of a blogging culture may not be as democra are seemg wit t e . h 1 . · t1zmg as t e I ea ts s . . h 'd 1· t would have us believe. The tee no ogy of blogg1ng itself
+
+I
+
+. ati·on through networks of similar thinkers and debaters encourages centra tz . . . . .
+
+David Weinberger has explored some of this territory m his work, describing
+
+the conversations erupting online through the vehicle of blogs and other social
+
+software tools as "small pieces, loosely joined,"7 but it's worth exploring just
+
+how loosely these "pieces" of data-news, cultural content creation, business
+
+idea generation, legal mediation, learning facilitation, and so on-are joined.
+
+Since the release of blogging software at the turn of the millennium, blogs
+
+have simply replaced older "home pages" of technology advocates and netizens
+
+alike. As the technology itself evolved, and articulate pioneer bloggers began to
+
+list "blogrolls" of other bloggers they read and advocated, and concepts like
+
+Friendster and Live\]ournal' s Friends networks developed, there emerged-almost
+
+by accident-blog communities. Very quickly, a power law distribution of blog
+
+popularity emerged, and the significance of some blogs dramatically overshadowed the majority.8 This did not mean that new blogs were prevented from rising to prominence-there have been several instances of blogs that have grown
+
+in influence over time-but the development of a hierarchy of blog significance
+
+did emerge, and syndicates of bloggers achieved a degree of influence approaching that of mainstream media. Gill cautioned that any attempt to measure the specific influence of blogs (based on links and audience numbers) is
+
+inherently flawed, because the competing methodologies for calculating these
+
+linkages and audiences are so complex. She also notes that other research
+
+questions about the relative influence of cross-linking through direct in-blog
+
+references as opposed to blogrolls, as well as the frequency of blog entries and
+
+first-mover advantage of early bloggers, will all impact on any degree of influence. But she also concludes that regardless of these measurement issues, there
+
+is no doubt that certain "A-list" biogs are so influential that they spawn other
+
+blog discussions and create a pyramid structure of influence. 9
+
+So while the functionality and power of negotiation inherent to biogs may
+
+well be providing us with a new perspective and a new means of understanding th
+
+e worl
+
+d
+
+,
+
+th
+
+ere are even now the seeds of centralization of blog significance at
+
+work. \]usi as mainStream media have suffered oligopolization and centraliza•
+
+t1on of control and voices biogs may be 'd d b h dually mov-
+
+. , cons1 ere to e o -so-gra mg down the same path of centralization.
+
+Of course the age of bl . . . e of h . ' ogs competing with mainstream media as on
+
+t el most important instruments of influence in a democracy is a long way off,
+
+at east. Blogs may at present f:C . cl· .cl h more 0
+
+rer in 1v1 uals and organizations a muc
+
+• USES OF BLOGS • 245
+
+\-----
+
+. . . d
+
+r of communicatmg, reporting, an negotiating content but . manne . . '
+
+ffic1ent a great threat to mamstream media, nor are they likely to bring e not yet . I
+
+rheY are ments. Indeed, 1t could a so be argued that blog centralization govern b d 'b d . c . f down . could better e escn e as m1ormatton ragmentation-even
+
+. occurring ' I ,, bl . h f rhat 15 . As cults of 'A- ist oggers emerge wit very speci ic agendas, and
+
+fracrunng. ·n turn spawn similar biogs (small pieces, loosely joined), what
+
+these bl\~gs \~t a cyber-utopia of political debate and an agora for democratic
+
+,merges \~:, a series of disconnected streams of information aggregation and
+
+pracnc\~, hi hly specialized and poht1cally spec1f1c. Rather than acting as a
+
+dis<:ussion,d\~ \\ssionate deliberation, pocke\~ of political opinion can emerge,
+
+forum f\~r . pts of such blog cults positively reinforce their own ideals without d arttctpan h · bl ·
+
+an P . lternative arguments. In sue an environment, ogs are no rena1sconsulung a ni·cation but merely an instrument of apartheid for individual • commu , sance m
+
+perspectives.
+
+The Real Threat of Blogging
+
+•·-·-
+
+.
+
+\-
+
+.
+
+__ _____ .. ___ __________________ _
+
+r ;-Douglas Rushkoff- The Real Threat of Biogs (5 Sep. 2004) 10 :
+
+I believe that the most dangerous thing about biogs to the status quo is that so many
+
+i of them exist for reasons other than to make money. A thriving community of people
+
+' who are engaged for free, to me, have a certain authority that people doing things for
+
+money don't.
+
+Writing a book for money is always suspect. (Disclosure to all: I have written books for
+
+I money and for free.) Writing it for free is very different-and might still be suspect, but
+
+for other reasons.
+
+: What made the early Internet so very threatening to the mainstream media was not
+
+just the new opinions being expressed, but the fact that people were spending hours
+
+of their lives doing something that didn't involve production or consumption in the
+
+traditional market sense. Families with Internet connections were watching an average
+
+, of nine hours less commercial programming each week.
+
+, The threat of rave culture was that it was an alternative economy. The kids were no
+
+I longer \~oing to the mob-run nightclubs, the police weren't getting their cut, and the
+
+1 liquor distributors weren't making any money. Those of us involved in rav\~r at least
+
+· many of US-<lidn't realize that's why they were such a threat.
+
+I LikeWi\~, I believe the greatest power of the blog is not just its ability to distribute
+
+. alternative information-a great power, indeed-but its power to demonstrate a mode
+
+of engagement that is not based on the profit principle.
+
+Ad .
+
+mittedly, many people need to try to make money any way they can. And many
+
+People Who insist on making their money by writing, but can't do so in the curre\~t
+
+\~rcial Writing space, will attempt to do so on their biogs. I think that they will
+
+• as I have, What is so valuable about keeping certain areas of one's life and work
+
+...
+
+246 • BLOGS AND THE COMMUNICATIONS RENAISSANCE•
+
+market-free if at all possible. Even if it means getting a day jo\~, which many of us have
+
+done in order to support our work. I have been very lucky in my ability to craft rn
+
+messages into forms that publishers will pay for. But the m\~re integrity I get (and th\~
+
+more market-driven the book industry gets) the harder that 1s to do. Indeed, the book
+
+industry used to use criteria other than marketability in picking what to publish.
+
+Sometimes, editors would publish books that only broke even, because they
+
+happened to like them. Those editors are few and far between, now, because they
+
+don't make as much money for their companies, and the values have changed.
+
+\----•-- - - ----
+
+Conclusions
+
+There is growing debate over business models for blogging, with the commercial sector keen to consider means of profiting from the blogging act. Of
+
+course, this business focus has spawned much concern among blogging "purists" about the effects of blog advertising on the validity of blogs as a source of
+
+critical debate. However, Rushkoffs discussion above is not focused on advertisements in blogs, but on the power of blogging as an activity which is largely
+
+disengaged from commercial media. Rushkoffs notion of the real threat of
+
+blogs goes some way toward alleviating the potential problems that could arise
+
+from a growing centralization (or fragmentation) of voices. If the real "threat"
+
+of blogging is its challenge to mainstream media as a nonprofit activity, then a
+
+very old problem arises: how do businesses access consumers in an age of content generation by the people and for the people? Any fragmentation of voices
+
+occurring in the blogosphere will be secondary to the primary concern of sales
+
+and marketing for commercial players. If blogs threaten audience sizes and
+
+types for mainstream media, then the pricing of advertising for media will decline, and costs of production for advertising-supported media will consequently rise. Businesses will seek out new ways of accessing audiences either
+
+through Google-esque search engine and context-specific Website advertising,
+
+or through some other manner of contextual information aggregation.
+
+This threat is real and palpable for businesses today. Research is being
+
+conducted on new models for television and interactive media advertising
+
+across the globe precisely because businesses still need a means of providing
+
+information about products and services to potential consumers. And as blog_s
+
+inherently provide content that audiences find engaging and interesting, b\~stnesses are also considering how they can use blogs as a vehicle for accesstng
+
+those highly specialized audiences. ·
+
+Chris Anderson has explored this in his ideas about "the Long Tail": an
+
+entertainment or content industry that is characterized by millions of niche
+
+markets at the "shallow end of the bitstream." 11 Blogs fit perfectly into this t\~eory of business development, because they respond so dynamically to e
+
+"P Being changing wants and needs of what Bruns has called "produsers. -
+
+...11111
+
+247
+
+bl
+
+P
+
+rovide d
+
+r
+
+e aders, ogs
+
+• US ES OF BLOGS •
+
+f tent creat
+
+o
+
+rs an ·1 1 collect- loosely collected communities o
+
+c
+
+o n . h e int
+
+e
+
+rest
+
+groups whi e a so h f b · t access nic s that t e
+
+or
+
+usinesses an opportunity o ups Anderson
+
+a
+
+r
+
+g
+
+u e
+
+· f those
+
+g
+
+ro · · the
+
+mg
+
+d
+
+ata on the changing interests o f
+
+d . rse content, reversing "l d l ment o ive d . o
+
+ng tail" actually facilitates eve op d. Busin
+
+e ss gene
+
+r
+
+a te in
+
+cl · · mainstream
+
+m e ia. . r
+
+tr
+
+en
+
+of content homogenization m k f but augments it ror
+
+h "l l m assm
+
+a r
+
+e t are, h t e
+
+o
+
+ng tail" doesn't seek to rep ace
+
+d . content , but t ey
+
+. h . d ' place
+
+m ass
+
+m e ia " . . l nic e int
+
+erests. Similarly, blogs on t re h h t T apscott calls
+
+d igita
+
+d · Blogs ave w a ) au
+
+g
+
+m
+
+ent
+
+c
+
+o
+
+nsum
+
+er content pro uction. d (b log reader
+
+capital":13 the combination of employee (blogger) an c\~stomder d. g and
+
+k . . l (bl ade
+
+rship un
+
+e
+
+rstan m
+
+nowle
+
+dge customer relationship capita og
+
+re ( f h t un ' ff · · use o t a -
+
+growth), and knowledge maximization for business e ic iencies l
+
+d d d
+
+h . ) Bloggers deve op an un- erstanding to grow blog influence an rea ers ip · d
+
+derstanding of their readership through commentary systems an can
+
+dynamically affect their readership and influence through cross-linking 1:'0sts
+
+and contributing to other blogs. Thus, blogs are uniquely suited to business
+
+development in the "long tail," because blogs are content vehicles for niche
+
+interests, and bloggers have the digitial capital that businesses seek.
+
+The trouble with this emergence of blogging as a facilitator for business is
+
+that what Rushk
+
+off describes as the "real threat" of blogs begins to weaken as
+
+blogs for
+
+m
+
+ally or informally adopt business models for connecting businesses
+
+with potential consumers. And with highly specialized business markets erupting in the "long tail," the threat of blogs as non-profit ventures declines, and
+
+market segmentation-and fragmentation of perspectives-once again rises.
+
+We're left wondering what kind of communication renaissance has really
+
+emerged, and who are the greatest beneficiaries of the blogging revolution.
+
+248 • BLOGS AND THE COMMUNICATIONS RENAISSANCE•
+
+NOTES
+
+1\. Tom Coates, "Second Sight," The Guardian, 28 Aug. 2003.
+
+2 Mark Poster "CyberDemocracy: Internet and the Public Sphere," Lecture at the U . . • , . . n1versity of California, Irvine, 1995, http://www.uoc.edu/m3/hermene1a/sala_de_lectura/mark
+
+poster_cyberdemocracy.htm (accessed 16 Nov. 2005). -
+
+3\. Excerpted from Douglas Rushkoff, "Renaissance Now?" Douglas Rushkoff, 13 June 2002
+
+http://www.rushkoff.com/2002/06/renais_sance-now.p\~p. (accessed 16 Nov. 200S):
+
+This article also touches on issues covered m more detail m Douglas Rushkoff Open S ' ource
+
+Democracy: How Online Communication Is Changing Offiine Politics (London: Demos, 2003)
+
+http://www.demos.eo.uk/opensourcedemocracy_pdf_media_public.aspx (accessed 22 April 2004).
+
+4\. See, among others, the chapter by Axel Bruns in this text, and David Abrahamson, "From
+
+the Many, to the Many: The Journalistic Promise of Biogs," loumal of Magazine and New
+
+Media Research (Summer 2005).
+
+5\. See, in particular, David Sifry, "State of the Blogosphere, August 2005, Part 5: The A-List
+
+and the Long Tail," David Sifry's Alerts, Aug. 2005, http://www.technorati.com/weblog/
+
+2005/08/39.html, 2005 (accessed 16 Nov. 2005).
+
+6\. Julianne Schultz, Reviving the Fourth Estate: Democracy, Accountability and the Media (London:
+
+Cambridge UP, 1998).
+
+7\. David Weinberger, Small Pieces, Loosely Joined (London: Cambridge UP, 1998).
+
+8\. Clay Shirky, "Power Laws, Weblogs, and Inequality," Clay Shirky's Writings about the Internet:
+
+Economics & Culture, Media & Community, Open Source, 2 Oct. 2003,
+
+http://www.shirky.com/writings/powerlaw_weblog.html (accessed 20 Feb. 2004).
+
+9\. Kathy Gill, "How Can We Measure the Influence of the Blogosphere?" WWW2004 Conference Proceedings, University of Washington, 2004.
+
+10\. Excerpted from Douglas Rushkoff, "The Real Threat of Blogs," Douglas Rushkoff, 5 Sep.
+
+2004, http://www.rushkoff.com/2004/09/real-threat-of-blogs.php (accessed 16 Nov.
+
+Issues
+
+2005).
+
+addressed both in this article and in the previous excerpt are also explored in more
+
+detail in Douglas Rushkoff, Get Back in the Box: Innovation from the Inside Out (London: CollinsBusiness, 2005).
+
+11\. Chris Anderson, "The Long Tail," Wired Magazine 12.10 (Oct. 2004).
+
+12\. See Axel Bruns, "Some Exploratory Notes on Produsers and Produsage", Snurblog, 3 Nov.
+
+2005, http://snurb.info/index.php?q=node/329 (accessed 4 Nov. 2005).
+
+13\. Don Tapscott, Digital Capital: Harnessing the Power of Business Webs (Cambridge, MA: Harvard Business School P, 2000).
+
+•
