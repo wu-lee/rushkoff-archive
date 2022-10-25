@@ -353,11 +353,9 @@ Treat them as such, and you might be surprised by how much you get done together
 
 **Notes**
 
-1 Karen Armstrong, A History of God(London: Vintage, 1999).
+1 Karen Armstrong, _A History of God_ (London: Vintage, 1999).
 
-2 First Monday, ‘The High-Tech Gift Economy’. Richard Barbrook, 1998,
-
-(http://www.firstmonday.dk/ issues/issue3_12/barbrook/).
+2 _First Monday_, ‘The High-Tech Gift Economy’. Richard Barbrook, 1998, (http://www.firstmonday.dk/ issues/issue3_12/barbrook/).
 
 3 Douglas Rushkoff, Cyberia: Life in the Trenches of Hyperspace(Flamingo, 1994).
 
