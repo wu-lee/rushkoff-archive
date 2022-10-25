@@ -10,7 +10,6 @@ notes: 'Source:  [http://www.demos.co.uk/opensourcedemocracy_pdf_media_public.as
   Machine)'
 refs: ''
 sources: ''
-published: false
 
 ---
 **1. Introduction**
