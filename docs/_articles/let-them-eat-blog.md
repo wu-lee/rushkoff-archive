@@ -1,29 +1,24 @@
 ---
 publication: _publications/uses-of-blogs.md
-title: Let Them Eat Blog
+title: Blogs and the Communications Renaissance
 subtitle: ''
 image: ''
 date: 2006-06-01 00:00:00 -0400
 blurb: ''
-notes: Date from Amazon
+notes: |-
+  Date from Amazon
+
+  Author: Joanne Jacobs & Douglas Rushkoff
 refs: ''
 sources: ''
 published: false
 
 ---
-b• CHAPTER TWENTY-ONE•
+Finally it's becoming practical for people with little or no technical expertise whatsoever to find their voice.
 
-Biogs and the
+Now we just need ways to make sure we know how to hear them....¹
 
-Communications Renaissance
-
-Joanne Jacobs & Douglas Rushkoff
-
-F;n, l!y ;t', becom;ng P'>ctkal fo, i"Opl, w;,h Htt!, o, no technkal expen;,, whatsoever to find their voice.
-
-Now we just need ways to make sure we know how to hear them .. .. 1
-
-\-Tom Coates (2003)
+\--Tom Coates (2003)
 
 inding people with similar interests to yourself can be a challenging
 
