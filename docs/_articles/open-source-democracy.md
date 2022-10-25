@@ -345,17 +345,7 @@ This is why we have to advocate living in the now in order to effect any real ch
 
 Yes, political structures do need to be changed. But we may have to let their replacements emerge from the myriad of new relationships that begin to spawn once people are acting and communicating in the present, and on a realistic scale, instead of talking about a fictional future.
 
-The underlying premise is still dependent on the notion of
-
-progress. Indeed, things must get better or there’s no point to any of
-
-it. But our understanding of progress must be disengaged from the
-
-false goal of growth, or the even more dangerous ideal of salvation.
-
-Our understanding must be reconnected with the very basic measure
-
-of social justice: how many people are able to participate?
+The underlying premise is still dependent on the notion of progress. Indeed, things must get better or there’s no point to any of it. But our understanding of progress must be disengaged from the false goal of growth, or the even more dangerous ideal of salvation. Our understanding must be reconnected with the very basic measure of social justice: how many people are able to participate?
 
 Our marketing experts tell us that they are failing in their efforts to
 
