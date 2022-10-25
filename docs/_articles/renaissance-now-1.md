@@ -11,7 +11,6 @@ notes: |-
   Date from citation in "Blogs and the Communications Renaissance" from Uses of Blogs
 refs: ''
 sources: ''
-published: false
 
 ---
 I first posted the embryo of this idea on a bbs called the Well back in 1991 or so. I was wondering, at the time, if recent advances in math, physics, technology and culture constituted a new renaissance. The conversation went on for over a year, and became the basis – or at least an the adjunct – for my book, Cyberia. (I had intended to include the whole thing in the new edition of the book, but the publisher preferred to add a few essays and articles, instead.)
