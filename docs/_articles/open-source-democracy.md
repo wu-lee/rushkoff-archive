@@ -349,15 +349,9 @@ The underlying premise is still dependent on the notion of progress. Indeed, thi
 
 Our marketing experts tell us that they are failing in their efforts to advertise to internet users and cultural progressives because this new and resistant psychographic simply wants to engage, authentically, in social experiences. This should sound like good news to anyone who authentically wants to extend our collective autonomy. This population is made up not of customers to whom you must sell, or even constituents to whom you must pander, but of partners on whom you can rely and with whom you can act.
 
-Treat them as such, and you might be surprised by how much you
+Treat them as such, and you might be surprised by how much you get done together.
 
-get done together.
-
-Co n c l u s i o n
-
-De m o s 65
-
-Notes
+**Notes**
 
 1 Karen Armstrong, A History of God(London: Vintage, 1999).
 
