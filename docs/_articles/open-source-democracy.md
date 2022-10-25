@@ -358,4 +358,4 @@ Treat them as such, and you might be surprised by how much you get done together
 
 3 Douglas Rushkoff, _Cyberia: Life in the Trenches of Hyperspace_ (Flamingo, 1994).
 
-4 _Wired Magazine_, July 1997 (see http://www.wired.com/wired/archive/5.07/longboom_pr.html).
+4 Wired Magazine, July 1997 (see http://www.wired.com/wired/archive/5.07/longboom_pr.html).
