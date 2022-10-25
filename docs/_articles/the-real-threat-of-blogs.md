@@ -9,7 +9,6 @@ notes: '[http://web.archive.org/web/20041120093118/http://rushkoff.com/2004/09/r
   "http://web.archive.org/web/20041120093118/http://rushkoff.com/2004/09/real-threat-of-blogs.php")'
 refs: ''
 sources: ''
-published: false
 
 ---
 I believe that the most dangerous thing about blogs to the status quo is that so many of them exist for reasons other than to make money. A thriving community of people who are engaged for free, to me, have a certain authority that people doing things for money don't.  
