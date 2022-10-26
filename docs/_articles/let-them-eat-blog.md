@@ -48,19 +48,9 @@ We also have our equivalent of perspective painting, in the invention of the hol
 
 Our analog to calculus is the development of systems theory, chaos math, and the much-celebrated fractal. Confronting non-linear equations on their own terms for the first time, mathematicians armed with computers are coming to new understandings of the way numbers can be used to represent the complex relationships between dimensions. Accepting that the surfaces in our world, from coastlines to clouds, exhibit the properties of both two- and three-dimensional objects (just what is the surface area of a cloud?) they came up with ways of working with and representing objects with fractional dimensionality. Using fractals and their equations, we can now represent and work with objects from the natural world that defied Cartesian analysis. We also become able to develop mathematical models that reflect many more properties of nature's own systems--such as self-similarity and remote high leverage points. Again, we find this renaissance characterized by the ability of an individual to reflect, or even affect, the grand narrative. To write the game.
 
-Finally, our renaissance's answer to the printing press is the computer and its ability to
+Finally, our renaissance's answer to the printing press is the computer and its ability to network. Just as the printing press gave everyone access to readership, though, the computer and Internet give everyone access to authorship. The first Renaissance took us from the position of passive recipient to active interpreter. Our current renaissance brings us from a position of active interpretation to one of authorship. We are the creators.
 
-network. Just as the printing press gave everyone access to readership, though, the
-
-computer and Internet give everyone access to authorship. The first Renaissance took
-
-us from the position of passive recipient to active interpreter. Our current renaissance
-
-brings us from a position of active interpretation to one of authorship. We are the
-
-creators.
-
-Blog Cultures
+**Blog Cultures**
 
 So if we accept Rushkoff s premise of the present renaissance mimicking
 
