@@ -22,11 +22,7 @@ Now we just need ways to make sure we know how to hear them....¹
 
 Finding people with similar interests to yourself can be a challenging experience. Finding out how to communicate effectively with people of similar interests has been an ongoing challenge. In spite of the promise of new technologies acting as an agora for political debate and cyberdemocracy in the fashion documented by Mark Poster,² the realities of bandwidth scarcity, the intellectual property issues associated with posting rich media content, and a user-oriented need for maximum communication with minimum time wastage have meant that the vast majority of communications between people online are text-based . And the nature of text-based communications is such that the practice of communicating ideas and cultures becomes a frustrating process of negotiating meaning and searching for synergy. This could well be a reason why blogs have been so successful at defining new cultures for the sharing of ideas. Dominated by text (in spite of the growth of moblogging, picture, and vidblogging--on the latter, see chapter nineteen by Adrian Miles in this volume), text-based blogs allow for conversations and cultures to develop in an almost evolutionary fashion, growing and changing in accordance with reader interests and influences. Thus it is blogs that come closest to achieving the vision for cyberspace first promulgated by advocates of technocracies--cyber-utopias for cultural expansion, political debate, and economic efficiency. Blogs provide us with the basis for developmg the triple crown of "faster, cheaper, better"; information of interest to any specific community is available on the fly, at almost zero cost for all members of a community, and with more reliability and cross-referencing than was ever before available. In terms of modern cultural development, blogs may well be the source of the communication renaissance.
 
-This chapter demonstrates the power of biogs as a means of co nstruct'
-
-and negotiating ideas. Excerpts from blog posts by Douglas Rushkoff Ing
-
-been interspersed with commentary by Uses of Biogs co-editor Joann J bhave e aco s.
+This chapter demonstrates the power of blogs as a means of constructing and negotiating ideas. Excerpts from blog posts by Douglas Rushkoff have been interspersed with commentary by _Uses of Blogs_ co-editor Joanne Jacobs.
 
 The Communications Renaissance
 
