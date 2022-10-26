@@ -30,21 +30,7 @@ This chapter demonstrates the power of blogs as a means of constructing and nego
 
 The birth of the Internet era was considered a revolution, by many. My best friends--particularly those in the 'counterculture'--saw in the lnternet an opportunity to topple the storytellers who had dominated our politics, economics, society, and religion, in short our very reality, and to replace their stories with ones of our own. It was a beautiful and exciting sentiment, but one as based in a particular narrative as any other. Revolutions simply replace one story with another. The capitalist narrative is replaced by the communist; the religious fundamentalist's for the agnostic's. The means may be different, but the rewards are the same, as is the exclusivity of their distribution. That's why they're called revolutions; we're just going in a circle.
 
-I prefer to think of the proliferation of interactive media as an opportunity for
-
-renaisiance: a moment when we have the opportunity to step out of the story,
-
-altogether. Renaissances are historical instances of widespread recontextualization.
-
-People in a variety of different arts, philosophies, and sciences have the ability to
-
-reframe their reality. Quite literally, renaissance means "rebirth." It is the rebirth of old
-
-ideas in a new context. A renaissance is a dimensional leap, when our perspective
-
-shifts so dramatically that our understanding of the oldest, most fundamental elements
-
-of existence changes.
+I prefer to think of the proliferation of interactive media as an opportunity for renaissance: a moment when we have the opportunity to step out of the story, altogether. Renaissances are historical instances of widespread recontextualization. People in a variety of different arts, philosophies, and sciences have the ability to reframe their reality. Quite literally, renaissance means "rebirth." It is the rebirth of old ideas in a new context. A renaissance is a dimensional leap, when our perspective shifts so dramatically that our understanding of the oldest, most fundamental elements of existence changes.
 
 Take a look back at what we think of as the original Renaissance-the one we were
 
