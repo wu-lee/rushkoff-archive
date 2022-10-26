@@ -38,21 +38,7 @@ Likewise, calculus--another innovation developed not quite during, but immediate
 
 The other main features of the Renaissance permitted similar shifts in perspective. Circumnavigation of the globe changed our relationship to the planet we live on and the maps we used to describe it. The maps still worked, of course--only they described a globe instead of a plane. Anyone hoping to navigate a course had to be able to relate a two-dimensional map to the new reality of a three-dimensional planet. Similarly, the invention of moveable type and the printing press changed the relationship of author and audience to text. The creation of a manuscript was no longer a one-pointed affair. Well, the creation of the first manuscript still was--but now it could be replicated and distributed to everyone, It was still one story, but now it was subject to a multiplicity of individual perspectives. This lattermost innovation, alone, changed the landscape of religion in the Western world. Individual interpretation of the Bible led to the collapse of Church authority and of the unilateral nature of its decrees. Everyone demanded his or her own relationship to the story.
 
-In all these cases, people experienced a very particular sh'ft · th ·
-
-1
-
-• •
-
-. . 1 m eir re at1onsh1p to and
-
-understanding of dimensions. Understood this way a · ·
-
-. , renaissance IS a moment of
-
-refram1ng. We step out of the frame as it is cuITently defined, and see the whole
-
-picture m a new context. We can then play by new rules.
+In all these cases, people experienced a very particular shift in their relationship to and understanding of dimensions. Understood this way, a renaissance is a moment of reframing. We step out of the frame as it is currently defined, and see the whole picture in a new context. We can then play by new rules.
 
 The great Renaissance was a simple leap in perspective. Instead of seeing everything
 
