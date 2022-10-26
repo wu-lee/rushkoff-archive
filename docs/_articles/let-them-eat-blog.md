@@ -44,43 +44,7 @@ The great Renaissance was a simple leap in perspective. Instead of seeing everyt
 
 The evidence of today's renaissance is at least as profound as that of the one that went before. The 16th century saw the successful circumnavigation of the globe via the seas. The 20th century saw the successful clrcumnavigation of the globe from space. The first pictures of earth from space changed our perspective on this sphere, forever. In the same century, our dominance over the planet was confirmed not just through our ability to travel around it, but to destroy it. The atomic bomb (itself the result of a rude dimensional interchange between submolecular particles) gave us the ability to destroy the globe. Now, instead of merely being able to circumnavigate "God's" creation, we could actively destroy it. This is a new perspective.
 
-we also have ou• equivalent of peospective painting, In the Invention of the holograph
-
-The hologiaph allows us to ,epresenl not just three, but fou1 dimensions on a two1
-
-d
-
-. •
-
-1
-
-late When the viewer walks past a holograph, she can observe the
-
-1mens1ona p . thoee-dimensional object ove1 a course of time. A bi«l can flap its wings in a slngle
-
-.
-
-8
-
-t more importantly for our renaissance's purposes, the holographic plate
-
-picture. u , . . . . ·t If bodies a new 1ena1ssance p11nc1ple. When the plate IS smashed into hundreds
-
-I se em t . th b' d' . d
-
-f
-
-. we do not find (hat one piece con ams e II s wmg, an anotheo piece the
-
-o pieces, . . . . . biod's i,eak. No, each piece of the plate contains an ,mage of the enb10 sub1ecl, albe1I
-
-a faint one. When th• pieces ace put togethel, the image achieves greate1 ,esolution.
-
-But each piece contains a representation of the totality-a leap In dimensional
-
-understanding that is now info1ming disciplines as diverse as bmln anatomy and
-
-computer programming.
+We also have our equivalent of perspective painting, in the invention of the holograph. The holograph allows us to represent not just three, but four dimensions on a two-dimensional plate. When the viewer walks past a holograph, she can observe the three-dimensional object over a course of time. A bird can flap its wings in a single picture. But, more importantly for our renaissance's purposes, the holographic plate itself embodies a new renaissance principle. When the plate is smashed into hundreds of pieces, we do not find that one piece contains the bird's wing, and another piece the bird's beak. No, each piece of the plate contains an image of the entire subject, albeit a faint one. When the pieces are put together, the image achieves greater resolution. But each piece contains a representation of the totality--a leap in dimensional understanding that is now informing disciplines as diverse as brain anatomy and computer programming.
 
 ou• analog to calculus is the development of systems theory, chaos math, and the
 
