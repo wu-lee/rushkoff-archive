@@ -24,27 +24,11 @@ Finding people with similar interests to yourself can be a challenging experienc
 
 This chapter demonstrates the power of blogs as a means of constructing and negotiating ideas. Excerpts from blog posts by Douglas Rushkoff have been interspersed with commentary by _Uses of Blogs_ co-editor Joanne Jacobs.
 
-The Communications Renaissance
+**The Communications Renaissance**
 
-» Douglas Rushkoff-Renaissance Now? (13 June 2002)
+» Douglas Rushkoff--Renaissance Now? (13 June 2002)³
 
-3
-
-The birth of the Internet era was considered a revolution, by many. My b\~st friendsparticularly those in the 'counterculture'-sa\~ in the lnter\~et an \~pporturnty t\~ \~opp\~e
-
-the storytellers who had dominated our poht1cs, economics, society, and religion, in
-
-short our very reality, and to replace their stories with ones of our own. It was a
-
-beau\~iful and exciting sentiment, but one as based in a particular narrative as any
-
-other. Revolutions simply replace one story with another. The capitalist narrative is
-
-replaced by the communist; the religious fundamentalist's for the agnostic's. The
-
-means may be different, but the rewards are the same, as is the exclusivity of their
-
-distribution. That's why they're called revolutions; we're just going in a circle.
+The birth of the Internet era was considered a revolution, by many. My best friends--particularly those in the 'counterculture'--saw in the lnternet an opportunity to topple the storytellers who had dominated our politics, economics, society, and religion, in short our very reality, and to replace their stories with ones of our own. It was a beautiful and exciting sentiment, but one as based in a particular narrative as any other. Revolutions simply replace one story with another. The capitalist narrative is replaced by the communist; the religious fundamentalist's for the agnostic's. The means may be different, but the rewards are the same, as is the exclusivity of their distribution. That's why they're called revolutions; we're just going in a circle.
 
 I prefer to think of the proliferation of interactive media as an opportunity for
 
