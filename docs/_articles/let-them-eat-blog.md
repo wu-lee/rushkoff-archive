@@ -40,15 +40,7 @@ The other main features of the Renaissance permitted similar shifts in perspecti
 
 In all these cases, people experienced a very particular shift in their relationship to and understanding of dimensions. Understood this way, a renaissance is a moment of reframing. We step out of the frame as it is currently defined, and see the whole picture in a new context. We can then play by new rules.
 
-The great Renaissance was a simple leap in perspective. Instead of seeing everything
-
-In one d1mens1on, we came to realize there was more than one dimension on which
-
-things were occurring. Even the Elizabethan world picture, with its concentric rings of
-
-authority-God, king, man, animals-reflects this newfound way of contending with
-
-the simultaneity of action of many dimensions at once.
+The great Renaissance was a simple leap in perspective. Instead of seeing everything in one dimension, we came to realize there was more than one dimension on which things were occurring. Even the Elizabethan world picture, with its concentric rings of authority--God, king, man, animals--reflects this newfound way of contending with the simultaneity of action of many dimensions at once.
 
 The evidence of today's renaissance is at least as profound as that of the one that
 
