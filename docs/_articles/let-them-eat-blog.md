@@ -36,37 +36,7 @@ Take a look back at what we think of as the original Renaissance--the one we wer
 
 Likewise, calculus--another innovation developed not quite during, but immediately in the wake of Renaissance advances--is a mathematical system that allows us to derive one dimensional perspective from another. Most simply, it is a new way of describing curves with the language of lines, spheres with the language of curves, or speed in the language of distance. The leap from arithmetic to calculus was not just a leap in our ability to relate the objects of one dimension to the objects of another. It was a shift in perspective that allowed us to orient ourselves to mathematical objects from beyond the context of their own dimensionality.
 
-ribed a globe instead of a plane. Anyone hoping to . rse----only they des . . navigate a cou h
-
-ble
-
-to relate a two-dimensional map to the new real"ity f h rse ad to be a . . 0 a t ree-dime ·
-
-Sl
-
-·rnilarlY, the invention of moveable type and the . t· nsional planet. pnn mg press ch
-
-r
-
-elationship of author and audience to text. The ere t· anged the a 10n of a manus • t
-
-1onger a one-pointed affair. Well, the creation of the first . cnp was no . . . manuscript still wa b
-
-it could be replicated and distributed to everyone It w t"II s- ut now . . . . . . · as s I one story b t . ,
-
-subject to a multtphc1ty of md1v1dual perspectives Th" 1 tt . · u \~ow it was ,
-
-I d
-
-. . . · is a ermost innovation alone
-
-changed the an scape of rehg1on m the Western world I d' 'd • ' ' . · n WI ual interpretation of the
-
-. . um a era nature of its decrees.
-
-Bible led to the collapse of Church authority and of the ·1 t I .
-
-Everyone demanded his or her own relationship to the t s ory.
+The other main features of the Renaissance permitted similar shifts in perspective. Circumnavigation of the globe changed our relationship to the planet we live on and the maps we used to describe it. The maps still worked, of course--only they described a globe instead of a plane. Anyone hoping to navigate a course had to be able to relate a two-dimensional map to the new reality of a three-dimensional planet. Similarly, the invention of moveable type and the printing press changed the relationship of author and audience to text. The creation of a manuscript was no longer a one-pointed affair. Well, the creation of the first manuscript still was--but now it could be replicated and distributed to everyone, It was still one story, but now it was subject to a multiplicity of individual perspectives. This lattermost innovation, alone, changed the landscape of religion in the Western world. Individual interpretation of the Bible led to the collapse of Church authority and of the unilateral nature of its decrees. Everyone demanded his or her own relationship to the story.
 
 In all these cases, people experienced a very particular sh'ft · th ·
 
