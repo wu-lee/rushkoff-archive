@@ -20,65 +20,7 @@ Now we just need ways to make sure we know how to hear them....¹
 
 \--Tom Coates (2003)
 
-inding people with similar interests to yourself can be a challenging
-
-experience. Finding out how to communicate effectively with people of
-
-similar interests has been an ongoing challenge. In spite of the promise
-
-of new technologies acting as an agora for political debate and cyberdemocracy
-
-in the fashion documented by Mark Poster,' the realities of bandwidth scarcity,
-
-the intellectual property issues associated with posting rich media content, and
-
-a user-oriented need for maximum communication with minimum time
-
-wastage have meant that the vast majority of communications between people
-
-online are text-based . And the nature of text-based communications is such
-
-that the practice of communicating ideas and cultures becomes a frustrating
-
-process of negotiating meaning and searching for synergy. This could well be a
-
-reason why blogs have been so successful at defining new cultures for the
-
-sharing of ideas. Dominated by text (in spite of the growth of moblogging,
-
-picture, and vidblogging-on the latter, see chapter nineteen by Adrian Miles
-
-in this volume), text-based blogs allow for conversations and cultures to
-
-develop in an almost evolutionary fashion, growing and changing in
-
-accordance with reader interests and influences. Thus it is blogs that come
-
-closest to achieving the vision for cyberspace first promulgated by advocates of
-
-technocracies-cyber-utopias for cultural expansion, political _debate, and
-
-economic efficiency. Biogs provide us with the basis for developmg the tn\~\~e
-
-crown of "faster, cheaper, better"; information of interest to any spec1f1c
-
-community is available on the fly, at almost zero cost for all members of a
-
-community, and with more reliability and cross-referencing than was ever
-
-L
-
-• BIOGS AND THE \~!CATIONS KENAL"ANCE, --
-
-240 \~-
-
-before available. In terms of modern cultural development, biogs ma
-
-h f h
-
-. . . y well be
-
-t e source o t e communication renaissance.
+Finding people with similar interests to yourself can be a challenging experience. Finding out how to communicate effectively with people of similar interests has been an ongoing challenge. In spite of the promise of new technologies acting as an agora for political debate and cyberdemocracy in the fashion documented by Mark Poster,² the realities of bandwidth scarcity, the intellectual property issues associated with posting rich media content, and a user-oriented need for maximum communication with minimum time wastage have meant that the vast majority of communications between people online are text-based . And the nature of text-based communications is such that the practice of communicating ideas and cultures becomes a frustrating process of negotiating meaning and searching for synergy. This could well be a reason why blogs have been so successful at defining new cultures for the sharing of ideas. Dominated by text (in spite of the growth of moblogging, picture, and vidblogging--on the latter, see chapter nineteen by Adrian Miles in this volume), text-based blogs allow for conversations and cultures to develop in an almost evolutionary fashion, growing and changing in accordance with reader interests and influences. Thus it is blogs that come closest to achieving the vision for cyberspace first promulgated by advocates of technocracies--cyber-utopias for cultural expansion, political debate, and economic efficiency. Blogs provide us with the basis for developmg the triple crown of "faster, cheaper, better"; information of interest to any specific community is available on the fly, at almost zero cost for all members of a community, and with more reliability and cross-referencing than was ever before available. In terms of modern cultural development, blogs may well be the source of the communication renaissance.
 
 This chapter demonstrates the power of biogs as a means of co nstruct'
 
