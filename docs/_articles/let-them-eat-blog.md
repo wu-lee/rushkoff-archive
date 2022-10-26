@@ -46,33 +46,7 @@ The evidence of today's renaissance is at least as profound as that of the one t
 
 We also have our equivalent of perspective painting, in the invention of the holograph. The holograph allows us to represent not just three, but four dimensions on a two-dimensional plate. When the viewer walks past a holograph, she can observe the three-dimensional object over a course of time. A bird can flap its wings in a single picture. But, more importantly for our renaissance's purposes, the holographic plate itself embodies a new renaissance principle. When the plate is smashed into hundreds of pieces, we do not find that one piece contains the bird's wing, and another piece the bird's beak. No, each piece of the plate contains an image of the entire subject, albeit a faint one. When the pieces are put together, the image achieves greater resolution. But each piece contains a representation of the totality--a leap in dimensional understanding that is now informing disciplines as diverse as brain anatomy and computer programming.
 
-ou• analog to calculus is the development of systems theory, chaos math, and the
-
-much-eeleb1ated Metal. Confronting non-linear equations on thei1 own terms to• the
-
-first time, mathematicians anned with computers are coming to new understandings of
-
-242 • BLOGS AND THE COMMUNICATIONS R_ENAISSANCE •
-
-the way numbers can be used to represent the complex relationships between
-
-dimensions. Accepting that the surfaces in our world, from coastlines to clouds, exhibit
-
-the properties of both two- and three-dimensional objects Oust what is the surface
-
-area of a cloud?) they came up with ways of working with and representing objects
-
-with fractional dimensionality. Using fractals and their equations, we can now
-
-represent and work with objects from the natural world that defied Cartesian analysis.
-
-We also become able to develop mathematical models that reflect many more
-
-properties of nature's own systems-such as self-similarity and remote high leverage
-
-points. Again, we find this renaissance characterized by the ability of an individual to
-
-reflect, or even affect, the grand narrative. To write the game.
+Our analog to calculus is the development of systems theory, chaos math, and the much-celebrated fractal. Confronting non-linear equations on their own terms for the first time, mathematicians armed with computers are coming to new understandings of the way numbers can be used to represent the complex relationships between dimensions. Accepting that the surfaces in our world, from coastlines to clouds, exhibit the properties of both two- and three-dimensional objects (just what is the surface area of a cloud?) they came up with ways of working with and representing objects with fractional dimensionality. Using fractals and their equations, we can now represent and work with objects from the natural world that defied Cartesian analysis. We also become able to develop mathematical models that reflect many more properties of nature's own systems--such as self-similarity and remote high leverage points. Again, we find this renaissance characterized by the ability of an individual to reflect, or even affect, the grand narrative. To write the game.
 
 Finally, our renaissance's answer to the printing press is the computer and its ability to
 
