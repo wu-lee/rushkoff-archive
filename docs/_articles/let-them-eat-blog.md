@@ -32,29 +32,7 @@ The birth of the Internet era was considered a revolution, by many. My best frie
 
 I prefer to think of the proliferation of interactive media as an opportunity for renaissance: a moment when we have the opportunity to step out of the story, altogether. Renaissances are historical instances of widespread recontextualization. People in a variety of different arts, philosophies, and sciences have the ability to reframe their reality. Quite literally, renaissance means "rebirth." It is the rebirth of old ideas in a new context. A renaissance is a dimensional leap, when our perspective shifts so dramatically that our understanding of the oldest, most fundamental elements of existence changes.
 
-Take a look back at what we think of as the original Renaissance-the one we were
-
-taught in school. What were the main leaps in perspective? Well, most obviously,
-
-p\~rsp_ective pai_\~ting itself. Artists developed the technique of the "vanishing point" and
-
-with it the ability to paint three dimensional representations on two-dimensional
-
-surfa
-
-_
-
-ces. The character of this innovation is subtle, but distinct. It is not a technique for
-
-working in three dimensions· ·,t · t th t · . . , 1s no a artists moved from working on canvas to
-
-v.:orkin\~ with clay. Rather, perspective painting allows an artist to relate between
-
-d1mens1ons. It is a way f . . .
-
-d
-
-. . o representing three-d1mens1onal objects on a two1mens1onal plane.
+Take a look back at what we think of as the original Renaissance--the one we were taught in school. What were the main leaps in perspective? Well, most obviously, perspective painting itself. Artists developed the technique of the "vanishing point" and with it the ability to paint three dimensional representations on two-dimensional surfaces. The character of this innovation is subtle, but distinct. It is not a technique for working in three dimensions; it is not that artists moved from working on canvas to working with clay. Rather, perspective painting allows an artist to relate between dimensions. It is a way of representing three-dimensional objects on a two-dimensional plane.
 
 Likewise, calculus-another . . . the wake f R . innovation developed not quite during, but immediately in
 
