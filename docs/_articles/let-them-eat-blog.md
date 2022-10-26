@@ -42,23 +42,7 @@ In all these cases, people experienced a very particular shift in their relation
 
 The great Renaissance was a simple leap in perspective. Instead of seeing everything in one dimension, we came to realize there was more than one dimension on which things were occurring. Even the Elizabethan world picture, with its concentric rings of authority--God, king, man, animals--reflects this newfound way of contending with the simultaneity of action of many dimensions at once.
 
-The evidence of today's renaissance is at least as profound as that of the one that
-
-went before. The 16th century saw the successful circumnav\~ation of the globe via
-
-the seas. The 20th century saw the successful clrcumnav\~ation of the globe from
-
-space. The first pictures of earth from space changed our perspective on this sphe1e,
-
-foreve1. In the same century, ou1 dominance ove• the planet was confinned not just
-
-th10ugh ou1 abilitY to travel around It, but to deskOY • · The atomic bomb <•self the
-
-result of a ,ude dimensional interchange between submo1ecula1 particles) gave us the
-
-ability to destmY the globe. Now, instead of merely being able to ciocumnavigate
-
-"God's" creation. we could actively dest10Y it. This Is a new perspective
+The evidence of today's renaissance is at least as profound as that of the one that went before. The 16th century saw the successful circumnavigation of the globe via the seas. The 20th century saw the successful clrcumnavigation of the globe from space. The first pictures of earth from space changed our perspective on this sphere, forever. In the same century, our dominance over the planet was confirmed not just through our ability to travel around it, but to destroy it. The atomic bomb (itself the result of a rude dimensional interchange between submolecular particles) gave us the ability to destroy the globe. Now, instead of merely being able to circumnavigate "God's" creation, we could actively destroy it. This is a new perspective.
 
 we also have ou• equivalent of peospective painting, In the Invention of the holograph
 
