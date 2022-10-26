@@ -34,37 +34,7 @@ I prefer to think of the proliferation of interactive media as an opportunity fo
 
 Take a look back at what we think of as the original Renaissance--the one we were taught in school. What were the main leaps in perspective? Well, most obviously, perspective painting itself. Artists developed the technique of the "vanishing point" and with it the ability to paint three dimensional representations on two-dimensional surfaces. The character of this innovation is subtle, but distinct. It is not a technique for working in three dimensions; it is not that artists moved from working on canvas to working with clay. Rather, perspective painting allows an artist to relate between dimensions. It is a way of representing three-dimensional objects on a two-dimensional plane.
 
-Likewise, calculus-another . . . the wake f R . innovation developed not quite during, but immediately in
-
-o ena1ssance adva • derive one di'me .
-
-1
-
-nces-is a mathematical system that allows us to
-
-ns1ona perspectiv f describing curves with th I e rom another. Most simply, it is a new way of speed in the language fed' anguage of lines, spheres with the language of curves, or
-
-0 1stance The le f . . . leap in our ability to k . · ap rom arithmetic to calculus was not Just a
-
-wor with high d' · . . . relate the obi·ects of . _er imensional obJects, but a leap in our ab1hty to
-
-one d1mens1on to th b' . perspective that allowed t . e o Jects of another. It was a shift in
-
-us o orient our 1 the c\~nt\~\~t of th\~ir. \~'-V\~ ?imensionality. se ves to mathematical objects from beyond
-
-• USES OF BLOGS • 241
-
-\~ the-;;;;; f;;;ures of the Renai;;;\~ce permitted . .1 . , rn• o sim1 ar shifts ·
-
-• , ,.,a,igatiOn of the globe changed our relationship to th in perspective.
-
-circu...,aps we used to describe it. The maps still w k de planet we live on and
-
-,
-
-the "· . or e , of cou
-
-C
+Likewise, calculus--another innovation developed not quite during, but immediately in the wake of Renaissance advances--is a mathematical system that allows us to derive one dimensional perspective from another. Most simply, it is a new way of describing curves with the language of lines, spheres with the language of curves, or speed in the language of distance. The leap from arithmetic to calculus was not just a leap in our ability to relate the objects of one dimension to the objects of another. It was a shift in perspective that allowed us to orient ourselves to mathematical objects from beyond the context of their own dimensionality.
 
 ribed a globe instead of a plane. Anyone hoping to . rse----only they des . . navigate a cou h
 
