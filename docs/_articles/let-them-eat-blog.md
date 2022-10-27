@@ -102,11 +102,9 @@ We're left wondering what kind of communication renaissance has really emerged, 
 
 **NOTES**
 
-1\. Tom Coates, "Second Sight," The Guardian, 28 Aug. 2003.
+1\. Tom Coates, "Second Sight," _The Guardian_, 28 Aug. 2003.
 
-2 Mark Poster "CyberDemocracy: Internet and the Public Sphere," Lecture at the U . . • , . . n1versity of California, Irvine, 1995, http://www.uoc.edu/m3/hermene1a/sala_de_lectura/mark
-
-poster_cyberdemocracy.htm (accessed 16 Nov. 2005). -
+2 Mark Poster "CyberDemocracy: Internet and the Public Sphere," Lecture at the University of California, Irvine, 1995, http://www.uoc.edu/in3/hermeneia/sala_de_lectura/mark_poster_cyberdemocracy.htm (accessed 16 Nov. 2005).
 
 3\. Excerpted from Douglas Rushkoff, "Renaissance Now?" Douglas Rushkoff, 13 June 2002
 
