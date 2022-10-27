@@ -64,25 +64,7 @@ But eventually the power of the media as a vehicle for the public voice and as a
 
 Enter: blogs. Instead of relying on journalism as a trusted source of information and a means of checking the accuracy and authority of mainstream media, blogs provided a new shift: a change in perspective in news reporting and, more widely, in the creation of cultural content. The conflict that had emerged in mainstream media, of providing commercially viable content at low cost while also meeting an acceptable standard of news reporting, was deemed irrelevant in the blogosphere, because content was created at nearly zero cost for all authors, and the commentary system provided an immediate channel for response. Like the change in perspective experienced during the high Renaissance, the significance of blogs added a new dimension to our understanding of the world as previously experienced through print and electronic media channels.
 
-B h
-
-. d hange in perspective is wort questtonmg. What ,,. ut t 1s suppose c vve
-
-. . h h development of a blogging culture may not be as democra are seemg wit t e . h 1 . · t1zmg as t e I ea ts s . . h 'd 1· t would have us believe. The tee no ogy of blogg1ng itself
-
-I
-
-. ati·on through networks of similar thinkers and debaters encourages centra tz . . . . .
-
-David Weinberger has explored some of this territory m his work, describing
-
-the conversations erupting online through the vehicle of blogs and other social
-
-software tools as "small pieces, loosely joined,"7 but it's worth exploring just
-
-how loosely these "pieces" of data-news, cultural content creation, business
-
-idea generation, legal mediation, learning facilitation, and so on-are joined.
+But this supposed change in perspective is worth questioning. What we are seeing with the development of a blogging culture may not be as democratizing as the idealists would have us believe. The technology of blogging itself encourages centralization through networks of similar thinkers and debaters. David Weinberger has explored some of this territory in his work, describing the conversations erupting online through the vehicle of blogs and other social software tools as "small pieces, loosely joined,"⁷ but it's worth exploring just how loosely these "pieces" of data--news, cultural content creation, business idea generation, legal mediation, learning facilitation, and so on--are joined.
 
 Since the release of blogging software at the turn of the millennium, blogs
 
