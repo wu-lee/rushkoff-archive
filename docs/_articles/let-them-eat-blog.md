@@ -54,21 +54,7 @@ Finally, our renaissance's answer to the printing press is the computer and its 
 
 So if we accept Rushkoff's premise of the present renaissance mimicking that of the previous Renaissance, how does our ability to create and to control our environments relate to the development of the blog? Many have argued that the growth of the blog is a revolution or at least major restructuring of mainstream media: that blogs are a powerful alternative news source and provide an effective check against the mass oligopolization of media organizations and concomitant reduction in content diversity.⁴ But given the growth rates and decidedly personal nature of the majority of new blogs,⁵ it's probably more significant that blogs represent the current renaissance's version of cross-cultural exchange. Safer and more efficient than circumnavigating the globe in either tall ships or spacecraft, blogs still allow for debate, exchange, and speculation between strangers, and the growth of new friendships, business deals, and partnerships that might never otherwise have been forged.
 
-The rise of biogs as a medium for the creators of the modern communications renaissance has permitted an almost meteoric development of very specific cultural groups. Elsewhere in this edition are chapters focusing on niche
-
-blogging groups, but the culture of blogging itself has arisen as a key niche
-
-market. Celebrity bloggers are now a cult in their own right with "A-list" identities such as Cory Doctorow, Meg Hourihan, Joi Ito, Ja\~on Kottke, Glen\~
-
-Reynol\~s, and Douglas Rushkoff (among many others) attracting major audiences simply because they are blogging. It helps, of course, to have a book or
-
-two u
-
-nd
-
-_er your belt to promote the image, but the act of blogging and the cult
-
-of bloggmg have produced their own unique market niche.
+The rise of blogs as a medium for the creators of the modern communications renaissance has permitted an almost meteoric development of very specific cultural groups. Elsewhere in this edition are chapters focusing on niche blogging groups, but the culture of blogging itself has arisen as a key niche market. Celebrity bloggers are now a cult in their own right, with "A-list" identities such as Cory Doctorow, Meg Hourihan, Joi Ito, Jason Kottke, Glenn Reynolds, and Douglas Rushkoff (among many others) attracting major audiences simply because they are blogging. It helps, of course, to have a book or two under your belt to promote the image, but the act of blogging and the cult of blogging have produced their own unique market niche.
 
 111111
 
