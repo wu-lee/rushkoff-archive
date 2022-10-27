@@ -124,11 +124,9 @@ We're left wondering what kind of communication renaissance has really emerged, 
 
 Issues addressed both in this article and in the previous excerpt are also explored in more detail in Douglas Rushkoff, _Get Back in the Box: Innovation from the Inside Out_ (London: CollinsBusiness, 2005).
 
-11\. Chris Anderson, "The Long Tail," Wired Magazine 12.10 (Oct. 2004).
+11\. Chris Anderson, "The Long Tail," _Wired Magazine_ 12.10 (Oct. 2004).
 
-12\. See Axel Bruns, "Some Exploratory Notes on Produsers and Produsage", Snurblog, 3 Nov.
-
-2005, http://snurb.info/index.php?q=node/329 (accessed 4 Nov. 2005).
+12\. See Axel Bruns, "Some Exploratory Notes on Produsers and Produsage", _Snurblog_, 3 Nov. 2005, http://snurb.info/index.php?q=node/329 (accessed 4 Nov. 2005).
 
 13\. Don Tapscott, Digital Capital: Harnessing the Power of Business Webs (Cambridge, MA: Harvard Business School P, 2000).
 
