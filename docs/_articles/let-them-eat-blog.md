@@ -122,9 +122,7 @@ We're left wondering what kind of communication renaissance has really emerged, 
 
 10\. Excerpted from Douglas Rushkoff, "The Real Threat of Blogs," _Douglas Rushkoff_, 5 Sep. 2004, http://www.rushkoff.com/2004/09/real-threat-of-blogs.php (accessed 16 Nov. 2005).
 
-addressed both in this article and in the previous excerpt are also explored in more
-
-detail in Douglas Rushkoff, Get Back in the Box: Innovation from the Inside Out (London: CollinsBusiness, 2005).
+Issues addressed both in this article and in the previous excerpt are also explored in more detail in Douglas Rushkoff, _Get Back in the Box: Innovation from the Inside Out_ (London: CollinsBusiness, 2005).
 
 11\. Chris Anderson, "The Long Tail," Wired Magazine 12.10 (Oct. 2004).
 
