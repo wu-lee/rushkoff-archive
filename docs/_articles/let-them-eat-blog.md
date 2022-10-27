@@ -110,11 +110,7 @@ We're left wondering what kind of communication renaissance has really emerged, 
 
 4\. See, among others, the chapter by Axel Bruns in this text, and David Abrahamson, "From the Many, to the Many: The Journalistic Promise of Blogs," _Journal of Magazine and New Media Research_ (Summer 2005).
 
-5\. See, in particular, David Sifry, "State of the Blogosphere, August 2005, Part 5: The A-List
-
-and the Long Tail," David Sifry's Alerts, Aug. 2005, http://www.technorati.com/weblog/
-
-2005/08/39.html, 2005 (accessed 16 Nov. 2005).
+5\. See, in particular, David Sifry, "State of the Blogosphere, August 2005, Part 5: The A-List and the Long Tail," _David Sifry's Alerts_, Aug. 2005, http://www.technorati.com/weblog/2005/08/39.html, 2005 (accessed 16 Nov. 2005).
 
 6\. Julianne Schultz, Reviving the Fourth Estate: Democracy, Accountability and the Media (London:
 
