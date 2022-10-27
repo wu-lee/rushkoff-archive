@@ -62,39 +62,7 @@ lt was journalism in the nineteenth century that evolved as a Fourth Estate, pro
 
 But eventually the power of the media as a vehicle for the public voice and as a means of bringing down governing bodies was recognized, and commercial interests as well as political leaders sought to regulate the output of media institutions. Corporate mergers and acquisitions as well as formal and informal political affiliations emerged, and the number of media voices was reduced. Even the style of media reporting began to standardize. Globally, the perceived value of investigative journalism waned after the _Washington Post_'s association in the Watergate affair of the 1960s; by the turn of the millennium, in Western nations, representatives from the media were considered to be as trustworthy as used car salesmen. Even where the number of media channels in subscription television networks rose, the similarity of content production and centralization of news sources, as well as mass production of programming, was and is considered a reduction in media output quality.
 
-0 Enter: b\\\~gs. Instead of relying on jo urnalism. as a trusted source _of info rd I · · f 1 ·Hn ·tream mation and a means of checking the accuracy an aut 1on ty O 11• :s : · · ,- renornn"
-
-media, biogs provided a new shift: a change in perspective tn ne,\~s r- "'
-
-and, mo re widely, in the creation of cultural content. The conflict that had
-
-emercred in mainstream media, of providing commercially viable cnntent nt
-
-0 . . 1 f , . ·, o ·tin•• wa,; \\ow cost while also meeting an acceptable standaro o ncw:s IL P · 1 ,.,
-
-d
-
-· \\ · \\ bl I b t ,., · created ·,t nearly deeme irre evant tr1 t 1e ogosp 1ere, ecause conten . \\\\ .,:s • • .
-
-I
-
-· ·I ::l • 1 immediate
-
-zero cost fo r a I authors, and the commentary system proVll eL •11
-
-channel fo r response. Like the change in perspective experienced during
-
-th
-
-e
-
-'
-
-244 • BLOGS AND THE COMMUNICATIONS RENAISSANCE•
-
-h . •f· ce of blogs added a new dimension to our u high Renaissance, t e sigm tcan . d h h . nderstandmg o t e wor c- . f h Id as previously experience t roug Prtnt and ele
-
-tronic media channels. h . .
+Enter: blogs. Instead of relying on journalism as a trusted source of information and a means of checking the accuracy and authority of mainstream media, blogs provided a new shift: a change in perspective in news reporting and, more widely, in the creation of cultural content. The conflict that had emerged in mainstream media, of providing commercially viable content at low cost while also meeting an acceptable standard of news reporting, was deemed irrelevant in the blogosphere, because content was created at nearly zero cost for all authors, and the commentary system provided an immediate channel for response. Like the change in perspective experienced during the high Renaissance, the significance of blogs added a new dimension to our understanding of the world as previously experienced through print and electronic media channels.
 
 B h
 
