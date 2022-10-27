@@ -106,15 +106,7 @@ We're left wondering what kind of communication renaissance has really emerged, 
 
 2 Mark Poster "CyberDemocracy: Internet and the Public Sphere," Lecture at the University of California, Irvine, 1995, http://www.uoc.edu/in3/hermeneia/sala_de_lectura/mark_poster_cyberdemocracy.htm (accessed 16 Nov. 2005).
 
-3\. Excerpted from Douglas Rushkoff, "Renaissance Now?" Douglas Rushkoff, 13 June 2002
-
-http://www.rushkoff.com/2002/06/renais_sance-now.p\~p. (accessed 16 Nov. 200S):
-
-This article also touches on issues covered m more detail m Douglas Rushkoff Open S ' ource
-
-Democracy: How Online Communication Is Changing Offiine Politics (London: Demos, 2003)
-
-http://www.demos.eo.uk/opensourcedemocracy_pdf_media_public.aspx (accessed 22 April 2004).
+3\. Excerpted from Douglas Rushkoff, "_Renaissance Now?" Douglas Rushkoff_, 13 June 2002, http://www.rushkoff.com/2002/06/renaissance-now.php (accessed 16 Nov. 2005). This article also touches on issues covered m more detail in Douglas Rushkoff, _Open Source Democracy: How Online Communication Is Changing Offiine Politics_ (London: Demos, 2003), http://www.demos.co.uk/opensourcedemocracy_pdf_media_public.aspx (accessed 22 April 2004).
 
 4\. See, among others, the chapter by Axel Bruns in this text, and David Abrahamson, "From
 
