@@ -84,11 +84,7 @@ What made the early Internet so very threatening to the mainstream media was not
 
 The threat of rave culture was that it was an alternative economy. The kids were no longer going to the mob-run nightclubs, the police weren't getting their cut, and the liquor distributors weren't making any money. Those of us involved in rave--or at least many of us-- didn't realize that's why they were such a threat.
 
-I LikeWi\~, I believe the greatest power of the blog is not just its ability to distribute
-
-. alternative information-a great power, indeed-but its power to demonstrate a mode
-
-of engagement that is not based on the profit principle.
+Likewise, I believe the greatest power of the blog is not just its ability to distribute alternative information--a great power, indeed--but its power to demonstrate a mode of engagement that is not based on the profit principle.
 
 Ad .
 
