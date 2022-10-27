@@ -116,11 +116,7 @@ We're left wondering what kind of communication renaissance has really emerged, 
 
 7\. David Weinberger, _Small Pieces, Loosely Joined_ (London: Cambridge UP, 1998).
 
-8\. Clay Shirky, "Power Laws, Weblogs, and Inequality," Clay Shirky's Writings about the Internet:
-
-Economics & Culture, Media & Community, Open Source, 2 Oct. 2003,
-
-http://www.shirky.com/writings/powerlaw_weblog.html (accessed 20 Feb. 2004).
+8\. Clay Shirky, "Power Laws, Weblogs, and Inequality," _Clay Shirky's Writings about the Internet: Economics & Culture, Media & Community, Open Source_, 2 Oct. 2003, http://www.shirky.com/writings/powerlaw_weblog.html (accessed 20 Feb. 2004).
 
 9\. Kathy Gill, "How Can We Measure the Influence of the Blogosphere?" WWW2004 Conference Proceedings, University of Washington, 2004.
 
