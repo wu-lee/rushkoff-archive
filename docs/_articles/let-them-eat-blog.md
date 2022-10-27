@@ -56,13 +56,7 @@ So if we accept Rushkoff's premise of the present renaissance mimicking that of 
 
 The rise of blogs as a medium for the creators of the modern communications renaissance has permitted an almost meteoric development of very specific cultural groups. Elsewhere in this edition are chapters focusing on niche blogging groups, but the culture of blogging itself has arisen as a key niche market. Celebrity bloggers are now a cult in their own right, with "A-list" identities such as Cory Doctorow, Meg Hourihan, Joi Ito, Jason Kottke, Glenn Reynolds, and Douglas Rushkoff (among many others) attracting major audiences simply because they are blogging. It helps, of course, to have a book or two under your belt to promote the image, but the act of blogging and the cult of blogging have produced their own unique market niche.
 
-111111
-
-,......---
-
-• USES OF BLOGS • 243
-
-l . .
+But is this blog culture impacting negatively upon the act of creativity? Is the growing blog culture a popularity contest among high-profile participants, where authorship by a few articulate pioneers is drowning out the voice of the people? Are blogging cultures in fact diluting the power and significance of the communications renaissance, and once again relegating most blog readers to active participants?
 
 . . tl,is blog cu ture 1mpactmg n egatively upo n ilie "Ct of . . 1 But 1:. . « creat1v1ty. ls
 
