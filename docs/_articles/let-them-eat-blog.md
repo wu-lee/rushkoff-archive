@@ -66,37 +66,7 @@ Enter: blogs. Instead of relying on journalism as a trusted source of informatio
 
 But this supposed change in perspective is worth questioning. What we are seeing with the development of a blogging culture may not be as democratizing as the idealists would have us believe. The technology of blogging itself encourages centralization through networks of similar thinkers and debaters. David Weinberger has explored some of this territory in his work, describing the conversations erupting online through the vehicle of blogs and other social software tools as "small pieces, loosely joined,"⁷ but it's worth exploring just how loosely these "pieces" of data--news, cultural content creation, business idea generation, legal mediation, learning facilitation, and so on--are joined.
 
-Since the release of blogging software at the turn of the millennium, blogs
-
-have simply replaced older "home pages" of technology advocates and netizens
-
-alike. As the technology itself evolved, and articulate pioneer bloggers began to
-
-list "blogrolls" of other bloggers they read and advocated, and concepts like
-
-Friendster and Live\]ournal' s Friends networks developed, there emerged-almost
-
-by accident-blog communities. Very quickly, a power law distribution of blog
-
-popularity emerged, and the significance of some blogs dramatically overshadowed the majority.8 This did not mean that new blogs were prevented from rising to prominence-there have been several instances of blogs that have grown
-
-in influence over time-but the development of a hierarchy of blog significance
-
-did emerge, and syndicates of bloggers achieved a degree of influence approaching that of mainstream media. Gill cautioned that any attempt to measure the specific influence of blogs (based on links and audience numbers) is
-
-inherently flawed, because the competing methodologies for calculating these
-
-linkages and audiences are so complex. She also notes that other research
-
-questions about the relative influence of cross-linking through direct in-blog
-
-references as opposed to blogrolls, as well as the frequency of blog entries and
-
-first-mover advantage of early bloggers, will all impact on any degree of influence. But she also concludes that regardless of these measurement issues, there
-
-is no doubt that certain "A-list" biogs are so influential that they spawn other
-
-blog discussions and create a pyramid structure of influence. 9
+Since the release of blogging software at the turn of the millennium, blogs have simply replaced older "home pages" of technology advocates and netizens alike. As the technology itself evolved, and articulate pioneer bloggers began to list "blogrolls" of other bloggers they read and advocated, and concepts like _Friendster_ and _LiveJournal_'s Friends networks developed, there emerged--almost by accident--blog communities. Very quickly, a power law distribution of blog popularity emerged, and the significance of some blogs dramatically overshadowed the majority.⁸ This did not mean that new blogs were prevented from rising to prominence--there have been several instances of blogs that have grown in influence over time--but the development of a hierarchy of blog significance did emerge, and syndicates of bloggers achieved a degree of influence approaching that of mainstream media. Gill cautioned that any attempt to measure the specific influence of blogs (based on links and audience numbers) is inherently flawed, because the competing methodologies for calculating these linkages and audiences are so complex. She also notes that other research questions about the relative influence of cross-linking through direct in-blog references as opposed to blogrolls, as well as the frequency of blog entries and first-mover advantage of early bloggers, will all impact on any degree of influence. But she also concludes that regardless of these measurement issues, there is no doubt that certain "A-list" blogs are so influential that they spawn other blog discussions and create a pyramid structure of influence.⁹
 
 So while the functionality and power of negotiation inherent to biogs may
 
