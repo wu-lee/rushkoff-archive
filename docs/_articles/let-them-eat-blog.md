@@ -78,11 +78,7 @@ Of course, the age of blogs competing with mainstream media as one of the most i
 
 I believe that the most dangerous thing about blogs to the status quo is that so many of them exist for reasons other than to make money. A thriving community of people who are engaged for free, to me, have a certain authority that people doing things for money don't.
 
-Writing a book for money is always suspect. (Disclosure to all: I have written books for
-
-I money and for free.) Writing it for free is very different-and might still be suspect, but
-
-for other reasons.
+Writing a book for money is always suspect. (Disclosure to all: I have written books for money and for free.) Writing it for free is very different--and might still be suspect, but for other reasons.
 
 : What made the early Internet so very threatening to the mainstream media was not
 
