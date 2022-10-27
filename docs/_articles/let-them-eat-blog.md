@@ -80,15 +80,7 @@ I believe that the most dangerous thing about blogs to the status quo is that so
 
 Writing a book for money is always suspect. (Disclosure to all: I have written books for money and for free.) Writing it for free is very different--and might still be suspect, but for other reasons.
 
-: What made the early Internet so very threatening to the mainstream media was not
-
-just the new opinions being expressed, but the fact that people were spending hours
-
-of their lives doing something that didn't involve production or consumption in the
-
-traditional market sense. Families with Internet connections were watching an average
-
-, of nine hours less commercial programming each week.
+What made the early Internet so very threatening to the mainstream media was not just the new opinions being expressed, but the fact that people were spending hours of their lives doing something that didn't involve production or consumption in the traditional market sense. Families with Internet connections were watching an average of nine hours less commercial programming each week.
 
 , The threat of rave culture was that it was an alternative economy. The kids were no
 
