@@ -86,35 +86,7 @@ The threat of rave culture was that it was an alternative economy. The kids were
 
 Likewise, I believe the greatest power of the blog is not just its ability to distribute alternative information--a great power, indeed--but its power to demonstrate a mode of engagement that is not based on the profit principle.
 
-Ad .
-
-mittedly, many people need to try to make money any way they can. And many
-
-People Who insist on making their money by writing, but can't do so in the curre\~t
-
-\~rcial Writing space, will attempt to do so on their biogs. I think that they will
-
-• as I have, What is so valuable about keeping certain areas of one's life and work
-
-...
-
-246 • BLOGS AND THE COMMUNICATIONS RENAISSANCE•
-
-market-free if at all possible. Even if it means getting a day jo\~, which many of us have
-
-done in order to support our work. I have been very lucky in my ability to craft rn
-
-messages into forms that publishers will pay for. But the m\~re integrity I get (and th\~
-
-more market-driven the book industry gets) the harder that 1s to do. Indeed, the book
-
-industry used to use criteria other than marketability in picking what to publish.
-
-Sometimes, editors would publish books that only broke even, because they
-
-happened to like them. Those editors are few and far between, now, because they
-
-don't make as much money for their companies, and the values have changed.
+Admittedly, many people need to try to make money any way they can. And many people who insist on making their money by writing, but can't do so in the current commercial writing space, will attempt to do so on their biogs. I think that they will learn, as I have, what is so valuable about keeping certain areas of one's life and work market-free if at all possible. Even if it means getting a day job, which many of us have done in order to support our work. I have been very lucky in my ability to craft my messages into forms that publishers will pay for. But the more integrity I get (and the more market-driven the book industry gets) the harder that is to do. Indeed, the book industry used to use criteria other than marketability in picking what to publish. Sometimes, editors would publish books that only broke even, because they happened to like them. Those editors are few and far between, now, because they don't make as much money for their companies, and the values have changed.
 
 \----•-- - - ----
 
