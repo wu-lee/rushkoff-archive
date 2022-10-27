@@ -98,13 +98,9 @@ Chris Anderson has explored this in his ideas about "the Long Tail": an entertai
 
 The trouble with this emergence of blogging as a facilitator for business is that what Rushkoff describes as the "real threat" of blogs begins to weaken as blogs formally or informally adopt business models for connecting businesses with potential consumers. And with highly specialized business markets erupting in the "long tail," the threat of blogs as non-profit ventures declines, and market segmentation--and fragmentation of perspectives--once again rises.
 
-We're left wondering what kind of communication renaissance has really
+We're left wondering what kind of communication renaissance has really emerged, and who are the greatest beneficiaries of the blogging revolution.
 
-emerged, and who are the greatest beneficiaries of the blogging revolution.
-
-248 • BLOGS AND THE COMMUNICATIONS RENAISSANCE•
-
-NOTES
+**NOTES**
 
 1\. Tom Coates, "Second Sight," The Guardian, 28 Aug. 2003.
 
