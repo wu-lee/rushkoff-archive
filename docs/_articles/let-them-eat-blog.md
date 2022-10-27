@@ -82,13 +82,7 @@ Writing a book for money is always suspect. (Disclosure to all: I have written b
 
 What made the early Internet so very threatening to the mainstream media was not just the new opinions being expressed, but the fact that people were spending hours of their lives doing something that didn't involve production or consumption in the traditional market sense. Families with Internet connections were watching an average of nine hours less commercial programming each week.
 
-, The threat of rave culture was that it was an alternative economy. The kids were no
-
-I longer \~oing to the mob-run nightclubs, the police weren't getting their cut, and the
-
-1 liquor distributors weren't making any money. Those of us involved in rav\~r at least
-
-· many of US-<lidn't realize that's why they were such a threat.
+The threat of rave culture was that it was an alternative economy. The kids were no longer going to the mob-run nightclubs, the police weren't getting their cut, and the liquor distributors weren't making any money. Those of us involved in rave--or at least many of us-- didn't realize that's why they were such a threat.
 
 I LikeWi\~, I believe the greatest power of the blog is not just its ability to distribute
 
