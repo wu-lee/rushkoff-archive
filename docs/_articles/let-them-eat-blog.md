@@ -68,25 +68,7 @@ But this supposed change in perspective is worth questioning. What we are seeing
 
 Since the release of blogging software at the turn of the millennium, blogs have simply replaced older "home pages" of technology advocates and netizens alike. As the technology itself evolved, and articulate pioneer bloggers began to list "blogrolls" of other bloggers they read and advocated, and concepts like _Friendster_ and _LiveJournal_'s Friends networks developed, there emerged--almost by accident--blog communities. Very quickly, a power law distribution of blog popularity emerged, and the significance of some blogs dramatically overshadowed the majority.⁸ This did not mean that new blogs were prevented from rising to prominence--there have been several instances of blogs that have grown in influence over time--but the development of a hierarchy of blog significance did emerge, and syndicates of bloggers achieved a degree of influence approaching that of mainstream media. Gill cautioned that any attempt to measure the specific influence of blogs (based on links and audience numbers) is inherently flawed, because the competing methodologies for calculating these linkages and audiences are so complex. She also notes that other research questions about the relative influence of cross-linking through direct in-blog references as opposed to blogrolls, as well as the frequency of blog entries and first-mover advantage of early bloggers, will all impact on any degree of influence. But she also concludes that regardless of these measurement issues, there is no doubt that certain "A-list" blogs are so influential that they spawn other blog discussions and create a pyramid structure of influence.⁹
 
-So while the functionality and power of negotiation inherent to biogs may
-
-well be providing us with a new perspective and a new means of understanding th
-
-e worl
-
-d
-
-,
-
-th
-
-ere are even now the seeds of centralization of blog significance at
-
-work. \]usi as mainStream media have suffered oligopolization and centraliza•
-
-t1on of control and voices biogs may be 'd d b h dually mov-
-
-. , cons1 ere to e o -so-gra mg down the same path of centralization.
+So while the functionality and power of negotiation inherent to blogs may well be providing us with a new perspective and a new means of understanding the world, there are even now the seeds of centralization of blog significance at work. Just as mainstream media have suffered oligopolization and centralization of control and voices, blogs may be considered to be oh-so-gradually moving down the same path of centralization.
 
 Of course the age of bl . . . e of h . ' ogs competing with mainstream media as on
 
