@@ -92,17 +92,7 @@ Admittedly, many people need to try to make money any way they can. And many peo
 
 There is growing debate over business models for blogging, with the commercial sector keen to consider means of profiting from the blogging act. Of course, this business focus has spawned much concern among blogging "purists" about the effects of blog advertising on the validity of blogs as a source of critical debate. However, Rushkoff's discussion above is not focused on advertisements in blogs, but on the power of blogging as an activity which is largely disengaged from commercial media. Rushkoff's notion of the real threat of blogs goes some way toward alleviating the potential problems that could arise from a growing centralization (or fragmentation) of voices. If the real "threat" of blogging is its challenge to mainstream media as a nonprofit activity, then a very old problem arises: how do businesses access consumers in an age of content generation by the people and for the people? Any fragmentation of voices occurring in the blogosphere will be secondary to the primary concern of sales and marketing for commercial players. If blogs threaten audience sizes and types for mainstream media, then the pricing of advertising for media will decline, and costs of production for advertising-supported media will consequently rise. Businesses will seek out new ways of accessing audiences either through _Google_-esque search engine and context-specific Website advertising, or through some other manner of contextual information aggregation.
 
-This threat is real and palpable for businesses today. Research is being
-
-conducted on new models for television and interactive media advertising
-
-across the globe precisely because businesses still need a means of providing
-
-information about products and services to potential consumers. And as blog_s
-
-inherently provide content that audiences find engaging and interesting, b\~stnesses are also considering how they can use blogs as a vehicle for accesstng
-
-those highly specialized audiences. ·
+This threat is real and palpable for businesses today. Research is being conducted on new models for television and interactive media advertising across the globe precisely because businesses still need a means of providing information about products and services to potential consumers. And as blogs inherently provide content that audiences find engaging and interesting, businesses are also considering how they can use blogs as a vehicle for accessing those highly specialized audiences.
 
 Chris Anderson has explored this in his ideas about "the Long Tail": an
 
