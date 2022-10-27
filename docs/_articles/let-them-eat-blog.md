@@ -112,11 +112,9 @@ We're left wondering what kind of communication renaissance has really emerged, 
 
 5\. See, in particular, David Sifry, "State of the Blogosphere, August 2005, Part 5: The A-List and the Long Tail," _David Sifry's Alerts_, Aug. 2005, http://www.technorati.com/weblog/2005/08/39.html, 2005 (accessed 16 Nov. 2005).
 
-6\. Julianne Schultz, Reviving the Fourth Estate: Democracy, Accountability and the Media (London:
+6\. Julianne Schultz, _Reviving the Fourth Estate: Democracy, Accountability and the Media_ (London: Cambridge UP, 1998).
 
-Cambridge UP, 1998).
-
-7\. David Weinberger, Small Pieces, Loosely Joined (London: Cambridge UP, 1998).
+7\. David Weinberger, _Small Pieces, Loosely Joined_ (London: Cambridge UP, 1998).
 
 8\. Clay Shirky, "Power Laws, Weblogs, and Inequality," Clay Shirky's Writings about the Internet:
 
