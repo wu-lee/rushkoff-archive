@@ -72,7 +72,7 @@ So while the functionality and power of negotiation inherent to blogs may well b
 
 Of course, the age of blogs competing with mainstream media as one of the most important instruments of influence in a democracy is a long way off, at least. Blogs may at present offer individuals and organizations a much more efficient manner of communicating, reporting, and negotiating content, but they are not yet a great threat to mainstream media, nor are they likely to bring down governments. Indeed, it could also be argued that blog centralization that is occurring could better be described as information fragmentation--even fracturing. As cults of "A-list" bloggers emerge with very specific agendas, and these blogs in turn spawn similar blogs (small pieces, loosely joined), what emerges is not a cyber-utopia of political debate and an agora for democratic practice, but a series of disconnected streams of information aggregation and discussion, highly specialized and politically specific. Rather than acting as a forum for dispassionate deliberation, pockets of political opinion can emerge, and participants of such blog cults positively reinforce their own ideals without consulting alternative arguments. In such an environment, blogs are no renaissance in communuication, but merely an instrument of apartheid for individual perspectives.
 
-The Real Threat of Blogging
+**The Real Threat of Blogging**
 
 •·-·-
 
