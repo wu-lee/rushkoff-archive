@@ -128,6 +128,4 @@ Issues addressed both in this article and in the previous excerpt are also explo
 
 12\. See Axel Bruns, "Some Exploratory Notes on Produsers and Produsage", _Snurblog_, 3 Nov. 2005, http://snurb.info/index.php?q=node/329 (accessed 4 Nov. 2005).
 
-13\. Don Tapscott, Digital Capital: Harnessing the Power of Business Webs (Cambridge, MA: Harvard Business School P, 2000).
-
-•
+13\. Don Tapscott, _Digital Capital: Harnessing the Power of Business Webs_ (Cambridge, MA: Harvard Business School P, 2000).
