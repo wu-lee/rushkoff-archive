@@ -118,15 +118,9 @@ We're left wondering what kind of communication renaissance has really emerged, 
 
 8\. Clay Shirky, "Power Laws, Weblogs, and Inequality," _Clay Shirky's Writings about the Internet: Economics & Culture, Media & Community, Open Source_, 2 Oct. 2003, http://www.shirky.com/writings/powerlaw_weblog.html (accessed 20 Feb. 2004).
 
-9\. Kathy Gill, "How Can We Measure the Influence of the Blogosphere?" WWW2004 Conference Proceedings, University of Washington, 2004.
+9\. Kathy Gill, "How Can We Measure the Influence of the Blogosphere?" _WWW2004 Conference Proceedings_, University of Washington, 2004.
 
-10\. Excerpted from Douglas Rushkoff, "The Real Threat of Blogs," Douglas Rushkoff, 5 Sep.
-
-2004, http://www.rushkoff.com/2004/09/real-threat-of-blogs.php (accessed 16 Nov.
-
-Issues
-
-2005).
+10\. Excerpted from Douglas Rushkoff, "The Real Threat of Blogs," _Douglas Rushkoff_, 5 Sep. 2004, http://www.rushkoff.com/2004/09/real-threat-of-blogs.php (accessed 16 Nov. 2005).
 
 addressed both in this article and in the previous excerpt are also explored in more
 
