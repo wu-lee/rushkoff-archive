@@ -11,7 +11,6 @@ notes: |-
   Author: Joanne Jacobs & Douglas Rushkoff
 refs: ''
 sources: ''
-published: false
 
 ---
 Finally it's becoming practical for people with little or no technical expertise whatsoever to find their voice.
