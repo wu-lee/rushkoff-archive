@@ -108,11 +108,7 @@ We're left wondering what kind of communication renaissance has really emerged, 
 
 3\. Excerpted from Douglas Rushkoff, "_Renaissance Now?" Douglas Rushkoff_, 13 June 2002, http://www.rushkoff.com/2002/06/renaissance-now.php (accessed 16 Nov. 2005). This article also touches on issues covered m more detail in Douglas Rushkoff, _Open Source Democracy: How Online Communication Is Changing Offiine Politics_ (London: Demos, 2003), http://www.demos.co.uk/opensourcedemocracy_pdf_media_public.aspx (accessed 22 April 2004).
 
-4\. See, among others, the chapter by Axel Bruns in this text, and David Abrahamson, "From
-
-the Many, to the Many: The Journalistic Promise of Biogs," loumal of Magazine and New
-
-Media Research (Summer 2005).
+4\. See, among others, the chapter by Axel Bruns in this text, and David Abrahamson, "From the Many, to the Many: The Journalistic Promise of Blogs," _Journal of Magazine and New Media Research_ (Summer 2005).
 
 5\. See, in particular, David Sifry, "State of the Blogosphere, August 2005, Part 5: The A-List
 
