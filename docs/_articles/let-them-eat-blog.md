@@ -74,25 +74,9 @@ Of course, the age of blogs competing with mainstream media as one of the most i
 
 **The Real Threat of Blogging**
 
-•·-·-
+» **Douglas Rushkoff--The Real Threat of Blogs** (5 Sep. 2004)¹⁰
 
-.
-
-\-
-
-.
-
-__ _____ .. ___ __________________ _
-
-r ;-Douglas Rushkoff- The Real Threat of Biogs (5 Sep. 2004) 10 :
-
-I believe that the most dangerous thing about biogs to the status quo is that so many
-
-i of them exist for reasons other than to make money. A thriving community of people
-
-' who are engaged for free, to me, have a certain authority that people doing things for
-
-money don't.
+I believe that the most dangerous thing about blogs to the status quo is that so many of them exist for reasons other than to make money. A thriving community of people who are engaged for free, to me, have a certain authority that people doing things for money don't.
 
 Writing a book for money is always suspect. (Disclosure to all: I have written books for
 
