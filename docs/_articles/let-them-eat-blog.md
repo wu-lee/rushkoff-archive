@@ -60,23 +60,7 @@ But is this blog culture impacting negatively upon the act of creativity? Is the
 
 lt was journalism in the nineteenth century that evolved as a Fourth Estate, providing stops and checks on the operations of the ruling classes and parliament. ln her study on the changes taking place in news media today, Schultz noted that the public service principle of journalism made it the most important and powerful instrument of influence within a democracy.⁶ The function of journalism and media reporting was designed to be informative, allowing the citizenry to respond to the issues of the day in a manner that ensured that the interests of the people were being considered. And the individual perspectives of the populace on all matter of issues, from religion to politics, began to have an impact on decision making. Thus multiplicity of individual perspectives of readers made possible by the printing press at the height of the Renaissance brought down the Church and spawned journalism simultaneously. There was a growing need to develop personalized responses to the world, and journalism could provide that voice for the masses.
 
-But eventually the power of the media as a vehicle fo r the public voice and
-
-as a mean s of bringing d own governing bodies was recognized, and commercial interests as well as political leaders sought to regulate the output of media
-
-institutio n s. Corpo rate mergers and acquisitions as well as formal and informal political affiliatio ns emerged , and the number of media voices was reduced . Even the style of media reporting began to standardize. Globally, the
-
-perceived value of investigative journalism waned after the \\Xlas h.irigton Post's
-
-associatio n in the W atergate affair of the 1960s; by the turn of the millennium, in W estern n atio ns, representatives from the media were considered to
-
-be as trustworthy as used car salesmen . Even where the number of media
-
-channels in subscription televisio n networks rose, the similarity of content
-
-productio n and centralizatio n of news sources, as well as mass production of
-
-proaram.mina was and is considered a reduction in media output quality.
+But eventually the power of the media as a vehicle for the public voice and as a means of bringing down governing bodies was recognized, and commercial interests as well as political leaders sought to regulate the output of media institutions. Corporate mergers and acquisitions as well as formal and informal political affiliations emerged, and the number of media voices was reduced. Even the style of media reporting began to standardize. Globally, the perceived value of investigative journalism waned after the _Washington Post_'s association in the Watergate affair of the 1960s; by the turn of the millennium, in Western nations, representatives from the media were considered to be as trustworthy as used car salesmen. Even where the number of media channels in subscription television networks rose, the similarity of content production and centralization of news sources, as well as mass production of programming, was and is considered a reduction in media output quality.
 
 0 Enter: b\\\~gs. Instead of relying on jo urnalism. as a trusted source _of info rd I · · f 1 ·Hn ·tream mation and a means of checking the accuracy an aut 1on ty O 11• :s : · · ,- renornn"
 
