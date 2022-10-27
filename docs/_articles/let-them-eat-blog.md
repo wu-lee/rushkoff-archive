@@ -88,35 +88,9 @@ Likewise, I believe the greatest power of the blog is not just its ability to di
 
 Admittedly, many people need to try to make money any way they can. And many people who insist on making their money by writing, but can't do so in the current commercial writing space, will attempt to do so on their biogs. I think that they will learn, as I have, what is so valuable about keeping certain areas of one's life and work market-free if at all possible. Even if it means getting a day job, which many of us have done in order to support our work. I have been very lucky in my ability to craft my messages into forms that publishers will pay for. But the more integrity I get (and the more market-driven the book industry gets) the harder that is to do. Indeed, the book industry used to use criteria other than marketability in picking what to publish. Sometimes, editors would publish books that only broke even, because they happened to like them. Those editors are few and far between, now, because they don't make as much money for their companies, and the values have changed.
 
-\----•-- - - ----
+**Conclusions**
 
-Conclusions
-
-There is growing debate over business models for blogging, with the commercial sector keen to consider means of profiting from the blogging act. Of
-
-course, this business focus has spawned much concern among blogging "purists" about the effects of blog advertising on the validity of blogs as a source of
-
-critical debate. However, Rushkoffs discussion above is not focused on advertisements in blogs, but on the power of blogging as an activity which is largely
-
-disengaged from commercial media. Rushkoffs notion of the real threat of
-
-blogs goes some way toward alleviating the potential problems that could arise
-
-from a growing centralization (or fragmentation) of voices. If the real "threat"
-
-of blogging is its challenge to mainstream media as a nonprofit activity, then a
-
-very old problem arises: how do businesses access consumers in an age of content generation by the people and for the people? Any fragmentation of voices
-
-occurring in the blogosphere will be secondary to the primary concern of sales
-
-and marketing for commercial players. If blogs threaten audience sizes and
-
-types for mainstream media, then the pricing of advertising for media will decline, and costs of production for advertising-supported media will consequently rise. Businesses will seek out new ways of accessing audiences either
-
-through Google-esque search engine and context-specific Website advertising,
-
-or through some other manner of contextual information aggregation.
+There is growing debate over business models for blogging, with the commercial sector keen to consider means of profiting from the blogging act. Of course, this business focus has spawned much concern among blogging "purists" about the effects of blog advertising on the validity of blogs as a source of critical debate. However, Rushkoff's discussion above is not focused on advertisements in blogs, but on the power of blogging as an activity which is largely disengaged from commercial media. Rushkoff's notion of the real threat of blogs goes some way toward alleviating the potential problems that could arise from a growing centralization (or fragmentation) of voices. If the real "threat" of blogging is its challenge to mainstream media as a nonprofit activity, then a very old problem arises: how do businesses access consumers in an age of content generation by the people and for the people? Any fragmentation of voices occurring in the blogosphere will be secondary to the primary concern of sales and marketing for commercial players. If blogs threaten audience sizes and types for mainstream media, then the pricing of advertising for media will decline, and costs of production for advertising-supported media will consequently rise. Businesses will seek out new ways of accessing audiences either through _Google_-esque search engine and context-specific Website advertising, or through some other manner of contextual information aggregation.
 
 This threat is real and palpable for businesses today. Research is being
 
