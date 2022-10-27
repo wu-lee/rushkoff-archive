@@ -58,47 +58,7 @@ The rise of blogs as a medium for the creators of the modern communications rena
 
 But is this blog culture impacting negatively upon the act of creativity? Is the growing blog culture a popularity contest among high-profile participants, where authorship by a few articulate pioneers is drowning out the voice of the people? Are blogging cultures in fact diluting the power and significance of the communications renaissance, and once again relegating most blog readers to active participants?
 
-. . tl,is blog cu ture 1mpactmg n egatively upo n ilie "Ct of . . 1 But 1:. . « creat1v1ty. ls
-
-1\. ,a bloa culture a p o pularity contest amo n o hioh-profile p • .
-
-1
-
-,rro,,n .,, " . . 0 0 · art1c1pants
-
-pt'" rl,orship by a few articulate pio n eers is d rownino out t11 • t· h ' ·he\~ :1u "' e v01ce o t e
-
-11
-
-1 1 Are blogging cultures in fuct d iluting the power and \~1·o111·f1·c f 1 pe0P e. . _ . . ". . " "' ance o t 1e
-
-nll
-
-inicanon :s ren aissan ce, an d o n ce agam releimtmo most bloo read , con' · 0 0 "' c er:s to
-
-. . · ts1
-
-.
-
-"' parnc1pan • •1Ctlh - ' lt was journalism in th e nineteenth century th at evolved as a Fourth Estate, providing sto ps an d ch ecks o n the o peratio ns of ilie ruling classes and
-
-parliament. ln h er study o n the ch an ges taking place in news media today,
-
-Schultz noted th at the public service principle of jo urnalism made it tl1e most
-
-important and powerful instrument of influence within a democracy.6 The
-
-function of journalism an d m.edia repo rting was designed to be info rmative,
-
-allowing the citizen ry to respo nd to the issues of the day in a manner that ensured that the interests of the people were b eing considered. And the individual perspectives of the po pulace o n all matter of issues, from religion to
-
-politics, began to h ave an impact o n decision making. Thus multiplicity of individual perspectives of readers made possible by the printing press at the
-
-height of the Ren aissan ce brou ght down the Church and spawn ed journalism
-
-simultaneously. There was a growing need to develop personalized responses
-
-to the world , and jo urnalism. could provide that voice fo r the masses.
+lt was journalism in the nineteenth century that evolved as a Fourth Estate, providing stops and checks on the operations of the ruling classes and parliament. ln her study on the changes taking place in news media today, Schultz noted that the public service principle of journalism made it the most important and powerful instrument of influence within a democracy.⁶ The function of journalism and media reporting was designed to be informative, allowing the citizenry to respond to the issues of the day in a manner that ensured that the interests of the people were being considered. And the individual perspectives of the populace on all matter of issues, from religion to politics, began to have an impact on decision making. Thus multiplicity of individual perspectives of readers made possible by the printing press at the height of the Renaissance brought down the Church and spawned journalism simultaneously. There was a growing need to develop personalized responses to the world, and journalism could provide that voice for the masses.
 
 But eventually the power of the media as a vehicle fo r the public voice and
 
