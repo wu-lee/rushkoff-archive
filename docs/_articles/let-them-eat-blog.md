@@ -96,21 +96,7 @@ This threat is real and palpable for businesses today. Research is being conduct
 
 Chris Anderson has explored this in his ideas about "the Long Tail": an entertainment or content industry that is characterized by millions of niche markets at the "shallow end of the bitstream."¹¹ Blogs fit perfectly into this theory of business development, because they respond so dynamically to the changing wants and needs of what Bruns has called "produsers."¹² Being loosely collected communities of content creators and readers, blogs provide for businesses an opportunity to access niche interest groups while also collecting data on the changing interests of those groups. Anderson argues that the "long tail" actually facilitates development of diverse content, reversing the trend of content homogenization in mainstream media. Business generated in the "long tail" doesn't seek to replace mass-market fare, but augments it for niche interests. Similarly, blogs don't replace mass media content, but they augment consumer content production. Blogs have what Tapscott calls "digital capital":¹³ the combination of employee (blogger) and customer (blog reader) knowledge, customer relationship capital (blog readership understanding and growth), and knowledge maximization for business efficiencies (use of that understanding to grow blog influence and readership). Bloggers develop an understanding of their readership through commentary systems and can dynamically affect their readership and influence through cross-linking posts and contributing to other blogs. Thus, blogs are uniquely suited to business development in the "long tail," because blogs are content vehicles for niche interests, and bloggers have the digitial capital that businesses seek.
 
-The trouble with this emergence of blogging as a facilitator for business is
-
-that what Rushk
-
-off describes as the "real threat" of blogs begins to weaken as
-
-blogs for
-
-m
-
-ally or informally adopt business models for connecting businesses
-
-with potential consumers. And with highly specialized business markets erupting in the "long tail," the threat of blogs as non-profit ventures declines, and
-
-market segmentation-and fragmentation of perspectives-once again rises.
+The trouble with this emergence of blogging as a facilitator for business is that what Rushkoff describes as the "real threat" of blogs begins to weaken as blogs formally or informally adopt business models for connecting businesses with potential consumers. And with highly specialized business markets erupting in the "long tail," the threat of blogs as non-profit ventures declines, and market segmentation--and fragmentation of perspectives--once again rises.
 
 We're left wondering what kind of communication renaissance has really
 
