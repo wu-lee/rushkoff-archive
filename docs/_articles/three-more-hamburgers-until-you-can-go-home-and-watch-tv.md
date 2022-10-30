@@ -9,7 +9,6 @@ notes: '[https://arthurmag.com/2002/12/22/three-more-hamburgers-until-you-can-go
   "https://arthurmag.com/2002/12/22/three-more-hamburgers-until-you-can-go-home-and-watch-tv/")'
 refs: ''
 sources: ''
-published: false
 
 ---
 A bunch of you have asked, so here’s a copy of something close to the script that was used for the narration for the CBS Sunday Morning piece I did that ran last week. As you can see, TV makes for a more skeletal analysis. But the pictures do help.
