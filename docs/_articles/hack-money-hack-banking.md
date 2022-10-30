@@ -1,6 +1,6 @@
 ---
 publication: _publications/arthur.md
-title: HACK MONEY, HACK BANKING
+title: Hack Money, Hack Banking
 subtitle: Rushkoff on the economy
 image: ''
 date: 2009-03-20 00:00:00 -0400
