@@ -21,27 +21,7 @@ I’ve seen Doug in action several times in closed door consultations as well as
 
 What these corporations _do_ get when they hire Douglas is someone who is part-cheerleader for change, part patient handholding explainer, and a natural teacher, notably lacking in fatuity for someone who is so often called upon to voice his opinion. He’s one of those rare people who seem to genuinely want the world to be a better place and who actively work to pull their own weight in that group activity. In his guise as corporate consultant, Rushkoff takes his role seriously and in all earnestness. Part of it is an old-fashioned work ethic and Doug is a total _mensch_ in that respect. He’s obviously well paid and wants these companies to be happy with his presentations so he puts a lot of thought and a lot of time into them. He’s a former theatre geek so he rehearses every speech until he gets it right and it shows. He’s a marvelous public speaker: witty, funny and (seemingly) spontaneous.
 
-And he’s completely sincere about the advice he gives. It’s no wonder these companies keep bringing him back
-
-again and again
-
-. As he told me one day when we were discussing the controversy over his corporate gigs, “These
-
-people are
-
-asking
-
-me to
-
-help
-
-them. What kind of asshole would I have to be to say ‘No’ to that? This makes me a
-
-sell
-
-\-
-
-out?”
+And he’s completely sincere about the advice he gives. It’s no wonder these companies keep bringing him back again and again. As he told me one day when we were discussing the controversy over his corporate gigs, “These people are _asking_ me to _help_ them. What kind of asshole would I have to be to say ‘No’ to that? This makes me a sell-out?”
 
 In today’s culture, what the Hell is
 
