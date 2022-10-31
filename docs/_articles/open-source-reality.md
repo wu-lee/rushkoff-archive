@@ -48,27 +48,7 @@ I’m only playing both sides of the fence _if_ you think there’s a fence and 
 
 And remind them that it was not about selling pantyhose to women, but about _helping people communicate with each other_. Having some real fun. I really try to empower them to make conscious changes to what they’re doing. I think almost anybody brought into consciousness ends up doing some really good things, and people who are asleep or afraid or people who think they’re at war end up, well they end up fighting. They end up with a very aggressive and hostile attitude towards people that really should be their friends.
 
-So although my work has been geared towards different audiences, I see myself as saying the same thing. When I
-
-wrote
-
-Cyberia
-
-and
-
-Media V
-
-irus
-
-all I was saying is “Hey look,
-
-we did it
-
-. The media is alive and the media is a chaotic
-
-space. New ideas, information, political movements, spiritual movements can emerge from anywhere and catch on
-
-like wild fire. The world is in our hands now.”
+So although my work has been geared towards different audiences, I see myself as saying the same thing. When I wrote _Cyberia_ and _Media Virus_ all I was saying is “Hey look, _we did it_. The media is alive and the media is a chaotic space. New ideas, information, political movements, spiritual movements can emerge from anywhere and catch on like wild fire. The world is in our hands now.”
 
 In
 
