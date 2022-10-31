@@ -19,45 +19,7 @@ But aside from these activities and many, many others, Rushkoff is also one of t
 
 I’ve seen Doug in action several times in closed door consultations as well as speeches given at large CEO gatherings, so I’ve witnessed first hand what he tells these companies and I can tell you here, he’s not selling out the counterculture (or what’s left of it) to “The Man”!
 
-Wh
-
-at these corporations
-
-do
-
-get when they hire Douglas is someone who is part
-
-\-
-
-cheerleader for change, part patient
-
-handholding explainer, and a natural teacher, notably lacking in fatuity for someone who is so often called upon to
-
-voice his opinion. He’s one
-
-of those rare people who seem to genuinely want the world to be a better place and who
-
-actively work to pull their own weight in that group activity. In his guise as corporate consultant, Rushkoff takes his
-
-role seriously and in all earnestness. Part of it
-
-is an old
-
-\-
-
-fashioned work ethic and Doug is a total
-
-mensch
-
-in that
-
-respect. He’s obviously well paid and wants these companies to be happy with his presentations so he puts a lot of
-
-thought and a lot of time into them. He’s a former theatre geek so he rehe
-
-arses every speech until he gets it right
-
-and it shows. He’s a marvelous public speaker: witty, funny and (seemingly) spontaneous.
+What these corporations _do_ get when they hire Douglas is someone who is part-cheerleader for change, part patient handholding explainer, and a natural teacher, notably lacking in fatuity for someone who is so often called upon to voice his opinion. He’s one of those rare people who seem to genuinely want the world to be a better place and who actively work to pull their own weight in that group activity. In his guise as corporate consultant, Rushkoff takes his role seriously and in all earnestness. Part of it is an old-fashioned work ethic and Doug is a total _mensch_ in that respect. He’s obviously well paid and wants these companies to be happy with his presentations so he puts a lot of thought and a lot of time into them. He’s a former theatre geek so he rehearses every speech until he gets it right and it shows. He’s a marvelous public speaker: witty, funny and (seemingly) spontaneous.
 
 And he’s completely sincere about the advice he gives. It’s no wonder these companies keep bringing him back
 
