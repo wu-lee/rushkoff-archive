@@ -29,47 +29,11 @@ And so is Douglas Rushkoff.
 
 Let’s pick up the conversation there...
 
-RM:
+**RM:**  
+Your early books, _Media Virus_ and _Cyberia_, are books about counterculture--psychedelic drugs, raves, the emerging cyber-world--written from the perspective of a young journalist who was a part of that scene. Today you give talks to corporate conventions, the United Nations and CEOs. Is there a paradox here?
 
-Your early books,
-
-Media Virus
-
-and
-
-Cyberia
-
-, ar
-
-e books about counterculture
-
-\--
-
-psychedelic drugs, raves, the
-
-emerging cyber
-
-\-
-
-world
-
-\--
-
-written from the perspective of a young journalist who was a part of that scene. Today you
-
-give talks to corporate conventions, the United Nations and CEOs. Is there a para
-
-dox here?
-
-1
-
-The United States’ noncommercial Nationa
-
-l Public Radio network.
-
-2
-
-The United States’ noncommercial Public Broadcasting Service television network.
+1 The United States’ noncommercial National Public Radio network.  
+2 The United States’ noncommercial Public Broadcasting Service television network.
 
 DR
 
