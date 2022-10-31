@@ -38,19 +38,11 @@ Your early books, _Media Virus_ and _Cyberia_, are books about counterculture--p
 **DR:  
 **There’s a seeming paradox in it, I guess, if you draw a clear line between what’s called the _counterculture_ and what’s called _corporate culture_. However, if you go into almost any corporation there are tons of people working there who by night would consider themselves part of the counterculture and if you go into any rave club or bizarre event at a nightclub there will be a certain number of people who are going to work the next day in an advertising company or a major media conglomerate. So if you look at the people you’re talking to as people, then ironically _they’re all the same people_. This counterculture perceives itself as what could only be called _enslaved_ by the corporations they work for, as if those corporations are conscious, or as if those corporations actually exercise some power over them. When I go to a corporation and talk to people I'm trying to talk to the actual human beings there and wake them up, if anything, to the to the reality of their situation and to the fact that they’re working for, you know, a _dead thing_.
 
-RM:
+**RM:**  
+_A dead thing?_
 
-A dead thing?
-
-DR:
-
-Corporations aren’t really
-
-alive.
-
-What corporations are is really very much like a computer program. They are a set
-
-of instructions for making money and that’s all they are.
+**DR:  
+**Corporations aren't really _alive_. What corporations are is really very much like a computer program. They are a set of instructions for making money and that’s all they are.
 
 I’m only play
 
