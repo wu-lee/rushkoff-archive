@@ -50,57 +50,7 @@ And remind them that it was not about selling pantyhose to women, but about _hel
 
 So although my work has been geared towards different audiences, I see myself as saying the same thing. When I wrote _Cyberia_ and _Media Virus_ all I was saying is “Hey look, _we did it_. The media is alive and the media is a chaotic space. New ideas, information, political movements, spiritual movements can emerge from anywhere and catch on like wild fire. The world is in our hands now.”
 
-In
-
-Coercion,
-
-I’m saying to the big corporations, “Don’t try to force us to do things with fear and associate your
-
-product with fear or paranoia, because that won’t work.” The main thing I've been trying communicate, whether it’s in
-
-terms of spirituality, in t
-
-erms of media, in terms of marketing and communications, or even in terms of politics and
-
-economics, is that there’s one thing going on here: people are desperately afraid to accept the fact that we are
-
-moving towards a very organismic relationship with on
-
-e another
-
-\--
-
-that the human being is one big thing. The
-
-problem about accepting that is if the human being is one thing, if we’re all part of the same big organism, then
-
-those people starving in Africa or India are not
-
-them,
-
-they’re
-
-us
-
-. So all of a sudden
-
-it’s not their pain, it’s
-
-our
-
-pain
-
-and we’re
-
-all
-
-responsible for what’s happening here. And I think the real obstacle to that kind of a sensibility is not
-
-that people want to control what’s happening or that people want to be bosses, but that people are re
-
-ally afraid of
-
-that level of intimacy.
+In _Coercion_, I’m saying to the big corporations, “Don’t try to force us to do things with fear and associate your product with fear or paranoia, because that won’t work.” The main thing I've been trying communicate, whether it’s in terms of spirituality, in terms of media, in terms of marketing and communications, or even in terms of politics and economics, is that there’s one thing going on here: people are desperately afraid to accept the fact that we are moving towards a very organismic relationship with one another--that the human being is one big thing. The problem about accepting that is if the human being is one thing, if we’re all part of the same big organism, then those people starving in Africa or India are not _them_, they’re _us_. So all of a sudden it’s not their pain, it’s _our_ pain and we’re _all_ responsible for what’s happening here. And I think the real obstacle to that kind of a sensibility is not that people want to control what’s happening or that people want to be bosses, but that people are really afraid of that level of intimacy.
 
 RM:
 
