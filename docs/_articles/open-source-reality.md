@@ -44,65 +44,7 @@ _A dead thing?_
 **DR:  
 **Corporations aren't really _alive_. What corporations are is really very much like a computer program. They are a set of instructions for making money and that’s all they are.
 
-I’m only play
-
-ing both sides of the fence
-
-if
-
-you think there’s a fence and you think that’s real. What I've been saying
-
-from the beginning, from
-
-Cyberia
-
-to the counterculture and with
-
-Coercion
-
-to the corporate culture, is that
-
-there is no
-
-fence
-
-. If that’s true, the coun
-
-terculture loses by definition. If we’re in the counterculture, are we against culture? I'm
-
-not
-
-counter
-
-culture. Are you
-
-counter
-
-culture? I'm
-
-pro
-
-culture! Let them be counterculture,
-
-I'm all for it
-
-. Those people
-
-don’t want to stop culture. Those people, at
-
-worst, are just miserable in jobs where they feel powerless to do
-
-anything, so if I go into a corporation and talk to those people about how they can have a better time with life and
-
-how they can make media that actually means something. I try to remind t
-
-hem of what it was like when they were
-
-19
-
-\-
-
-years old and decided to get into the communications industry.
+I’m only playing both sides of the fence _if_ you think there’s a fence and you think that’s real. What I've been saying from the beginning, from _Cyberia_ to the counterculture and with _Coercion_ to the corporate culture, is that _there is no fence_. If that’s true, the counterculture loses by definition. If we’re in the counterculture, are we against culture? I'm not _counter_ culture. Are you _counter_ culture? I'm _pro_ culture! Let them be counterculture, _I'm all for it_. Those people don’t want to stop culture. Those people, at worst, are just miserable in jobs where they feel powerless to do anything, so if I go into a corporation and talk to those people about how they can have a better time with life and how they can make media that actually means something. I try to remind them of what it was like when they were 19-years old and decided to get into the communications industry.
 
 And remind them that it was not about selling pantyhose to women, but about
 
