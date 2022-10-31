@@ -17,13 +17,7 @@ This reputation is justly deserved. For well over a decade now Rushkoff has sent
 
 But aside from these activities and many, many others, Rushkoff is also one of the highest profile (and highest paid) corporate consultants in America today, especially on matters of communication technology and its often-unintended consequences for Fortune 500 companies. He’s gotten a lot of flack for this in the past, especially from the bitter trolls of The WELL cyber community, who’ve accused him of being a turncoat, a sell-out and _worse_. I think it really hurt Doug. I know it did. But it also made him dig deeper within himself and helped him hone his arguments, so ultimately it was something that he grew from and was able to personally gain from, even if it was painful. I watched the whole thing happen and I was always very proud of the way he handled himself with these people and their shortsighted criticisms, and I am proud to be his friend.
 
-I’ve seen Doug in action sev
-
-eral times in closed door consultations as well as speeches given at large CEO
-
-gatherings, so I’ve witnessed first hand what he tells these companies and I can tell you here, he’s not selling out
-
-the counterculture (or what’s left of it) to “The Man”!
+I’ve seen Doug in action several times in closed door consultations as well as speeches given at large CEO gatherings, so I’ve witnessed first hand what he tells these companies and I can tell you here, he’s not selling out the counterculture (or what’s left of it) to “The Man”!
 
 Wh
 
