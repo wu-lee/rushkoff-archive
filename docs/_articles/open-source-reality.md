@@ -23,37 +23,7 @@ What these corporations _do_ get when they hire Douglas is someone who is part-c
 
 And he’s completely sincere about the advice he gives. It’s no wonder these companies keep bringing him back again and again. As he told me one day when we were discussing the controversy over his corporate gigs, “These people are _asking_ me to _help_ them. What kind of asshole would I have to be to say ‘No’ to that? This makes me a sell-out?”
 
-In today’s culture, what the Hell is
-
-a “sell out” anyway? Is Steven Spielberg a sell
-
-\-
-
-out because he makes
-
-multimillion
-
-\-
-
-dollar Hollywood films? Are Matt Parker and Trey Stone sell
-
-\-
-
-outs because
-
-South Park
-
-is popular? Is
-
-Lauren Hill a sell
-
-\-
-
-out because people seem to like her music and she sells
-
-a lot of CDs? Michael Jordan because
-
-millions of people love to watch him play sports? Of course not: they’re all doing what they love.
+In today’s culture, what the Hell is a “sell out” anyway? Is Steven Spielberg a sell-out because he makes multimillion-dollar Hollywood films? Are Matt Parker and Trey Stone sell-outs because _South Park_ is popular? Is Lauren Hill a sell-out because people seem to like her music and she sells a lot of CDs? Michael Jordan because millions of people love to watch him play sports? Of course not: they’re all doing what they love.
 
 And so is Douglas Rushkoff.
 
