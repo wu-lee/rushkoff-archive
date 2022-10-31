@@ -46,23 +46,7 @@ _A dead thing?_
 
 I’m only playing both sides of the fence _if_ you think there’s a fence and you think that’s real. What I've been saying from the beginning, from _Cyberia_ to the counterculture and with _Coercion_ to the corporate culture, is that _there is no fence_. If that’s true, the counterculture loses by definition. If we’re in the counterculture, are we against culture? I'm not _counter_ culture. Are you _counter_ culture? I'm _pro_ culture! Let them be counterculture, _I'm all for it_. Those people don’t want to stop culture. Those people, at worst, are just miserable in jobs where they feel powerless to do anything, so if I go into a corporation and talk to those people about how they can have a better time with life and how they can make media that actually means something. I try to remind them of what it was like when they were 19-years old and decided to get into the communications industry.
 
-And remind them that it was not about selling pantyhose to women, but about
-
-helping people communicate with
-
-each other.
-
-Having some real fun. I reall
-
-y try to empower them to make conscious changes to what they’re doing. I
-
-think almost anybody brought into consciousness ends up doing some really good things, and people who are
-
-asleep or afraid or people who think they’re at war end up, well they end up
-
-fighting. They end up with a very
-
-aggressive and hostile attitude towards people that really should be their friends.
+And remind them that it was not about selling pantyhose to women, but about _helping people communicate with each other_. Having some real fun. I really try to empower them to make conscious changes to what they’re doing. I think almost anybody brought into consciousness ends up doing some really good things, and people who are asleep or afraid or people who think they’re at war end up, well they end up fighting. They end up with a very aggressive and hostile attitude towards people that really should be their friends.
 
 So although my work has been geared towards different audiences, I see myself as saying the same thing. When I
 
