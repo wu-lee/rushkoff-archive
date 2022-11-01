@@ -52,61 +52,11 @@ So although my work has been geared towards different audiences, I see myself as
 
 In _Coercion_, I’m saying to the big corporations, “Don’t try to force us to do things with fear and associate your product with fear or paranoia, because that won’t work.” The main thing I've been trying communicate, whether it’s in terms of spirituality, in terms of media, in terms of marketing and communications, or even in terms of politics and economics, is that there’s one thing going on here: people are desperately afraid to accept the fact that we are moving towards a very organismic relationship with one another--that the human being is one big thing. The problem about accepting that is if the human being is one thing, if we’re all part of the same big organism, then those people starving in Africa or India are not _them_, they’re _us_. So all of a sudden it’s not their pain, it’s _our_ pain and we’re _all_ responsible for what’s happening here. And I think the real obstacle to that kind of a sensibility is not that people want to control what’s happening or that people want to be bosses, but that people are really afraid of that level of intimacy.
 
-RM:
+**RM:  
+**When did there stop being an _us_ and a _them_?
 
-When did there stop being an
-
-us
-
-and a
-
-them
-
-?
-
-DR:
-
-In theory, there never was an
-
-us
-
-and a
-
-them
-
-.
-
-Us and them
-
-is an illusion that’s usually perpetrated by one group of
-
-people who have an ability that another group o
-
-f people don’t. You could argue that Hitler came into power because
-
-he basically had control of radio, which was a new thing, this remote, vocal presence in people’s homes. And people
-
-didn’t really understand radio or how it worked but all of a sudden this
-
-man,
-
-his voice was everywhere.
-
-Television
-
-had that effect. This was a magic box that only the BBC newscaster or Edward R. Murrow could get his face on there
-
-and no one knew how it worked. But once a kid has a Sega joystick in his hand and is actually movi
-
-ng pixels around
-
-on the screen, he doesn’t look at that guy on television speaking the gospel truth anymore. He just sees it as a
-
-middle aged man playing with
-
-his
-
-joystick, if you will.
+**DR:  
+**In theory, there never was an _us_ and a _them_. _Us and them_ is an illusion that’s usually perpetrated by one group of people who have an ability that another group of people don’t. You could argue that Hitler came into power because he basically had control of radio, which was a new thing, this remote, vocal presence in people’s homes. And people didn’t really understand radio or how it worked but all of a sudden this man, _his voice was everywhere_. Television had that effect. This was a magic box that only the BBC newscaster or Edward R. Murrow could get his face on there and no one knew how it worked. But once a kid has a Sega joystick in his hand and is actually moving pixels around on the screen, he doesn’t look at that guy on television speaking the gospel truth anymore. He just sees it as a middle aged man playing with _his_ joystick, if you will.
 
 DR
 
