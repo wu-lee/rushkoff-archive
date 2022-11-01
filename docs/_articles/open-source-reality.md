@@ -60,29 +60,7 @@ In _Coercion_, I’m saying to the big corporations, “Don’t try to force us 
 
 I think the latest movement towards the dissolution of _an us and them_ sensibility was a direct result of young people and so-called counterculture people understanding the tools of media better than the so-called over-culture. Young people and cyberpunks and hackers understood the Internet and new media better than GE or Rupert Murdoch or any of their people.
 
-So all of a sudden the tools that
-
-them
-
-uses to maintain its authority as a
-
-them,
-
-were in our hands.
-
-So when there is a
-
-leveling of the playing field when the technology is such that anyone can understand the magick of
-
-their time as well
-
-as the authorities can, then there are no more priests. There are no more people who seem to have this magical
-
-authority. That’s why Prince Charles can’t be what he might have been a hundred or two hundred years ago. That’s
-
-why even Mad
-
-onna can’t be what she might have been 50 years ago.
+So all of a sudden the tools that _them_ uses to maintain its authority as a _them_, were in our hands. So when there is a leveling of the playing field when the technology is such that anyone can understand the magick of their time as well as the authorities can, then there are no more priests. There are no more people who seem to have this magical authority. That’s why Prince Charles can’t be what he might have been a hundred or two hundred years ago. That’s why even Madonna can’t be what she might have been 50 years ago.
 
 We’re all deconstructing and analyzing and remixing everything that’s coming out of Hollywood and Hollywood is
 
