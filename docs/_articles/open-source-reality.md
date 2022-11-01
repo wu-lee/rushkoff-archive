@@ -58,35 +58,7 @@ In _Coercion_, I’m saying to the big corporations, “Don’t try to force us 
 **DR:  
 **In theory, there never was an _us_ and a _them_. _Us and them_ is an illusion that’s usually perpetrated by one group of people who have an ability that another group of people don’t. You could argue that Hitler came into power because he basically had control of radio, which was a new thing, this remote, vocal presence in people’s homes. And people didn’t really understand radio or how it worked but all of a sudden this man, _his voice was everywhere_. Television had that effect. This was a magic box that only the BBC newscaster or Edward R. Murrow could get his face on there and no one knew how it worked. But once a kid has a Sega joystick in his hand and is actually moving pixels around on the screen, he doesn’t look at that guy on television speaking the gospel truth anymore. He just sees it as a middle aged man playing with _his_ joystick, if you will.
 
-DR
-
-3
-
-I think the latest movement towards the dissolution of
-
-an us and them
-
-sensibility was a direct result of young people
-
-and so
-
-\-
-
-called counterculture people understanding the tools of media better than the so
-
-\-
-
-called over
-
-\-
-
-culture. Young
-
-people and cyberpunks and hackers understood the Internet and new media better than GE or Ru
-
-pert Murdoch or
-
-any of their people.
+I think the latest movement towards the dissolution of _an us and them_ sensibility was a direct result of young people and so-called counterculture people understanding the tools of media better than the so-called over-culture. Young people and cyberpunks and hackers understood the Internet and new media better than GE or Rupert Murdoch or any of their people.
 
 So all of a sudden the tools that
 
