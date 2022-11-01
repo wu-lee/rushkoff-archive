@@ -62,23 +62,7 @@ I think the latest movement towards the dissolution of _an us and them_ sensibil
 
 So all of a sudden the tools that _them_ uses to maintain its authority as a _them_, were in our hands. So when there is a leveling of the playing field when the technology is such that anyone can understand the magick of their time as well as the authorities can, then there are no more priests. There are no more people who seem to have this magical authority. That’s why Prince Charles can’t be what he might have been a hundred or two hundred years ago. That’s why even Madonna can’t be what she might have been 50 years ago.
 
-We’re all deconstructing and analyzing and remixing everything that’s coming out of Hollywood and Hollywood is
-
-mining our activities for stuff for their next movie. We all have access to the same compu
-
-ters and digital video
-
-cameras so the fact that
-
-The Blair Witch Project
-
-does better than a major motion picture by a major studio means
-
-that there is no
-
-them
-
-anymore.
+We’re all deconstructing and analyzing and remixing everything that’s coming out of Hollywood and Hollywood is mining our activities for stuff for their next movie. We all have access to the same computers and digital video cameras so the fact that _The Blair Witch Project_ does better than a major motion picture by a major studio means that there is no _them_ anymore.
 
 RM:
 
