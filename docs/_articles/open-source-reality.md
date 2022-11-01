@@ -72,11 +72,8 @@ It’s interesting. My subtitle for _Coercion_ is _Why We Listen to What “They
 
 Who are the shareholders? Well the shareholders are all those people with their retirement plans who have Gap stock and that’s generally the same person who’s walking into the store who’s upset that the salesgirl was trying to up sell him with a new belt that would look _so nice_. So when you realize that you’re part of that coercive cycle there, you conclude that _we’re each the next guy’s ‘they,”_ so the way to end this acceleration of coercive techniques and to end the coercive arms race is to stop coercing _ourselves_. Each of us has the opportunity to end the coercion. Rather than looking at who’s coercing you, look at whom you are coercing.
 
-RM:
-
-What’s a
-
-media virus?
+**RM:**  
+What’s a _media virus?_
 
 DR:
 
