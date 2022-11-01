@@ -70,35 +70,7 @@ That’s somewhat discomforting. I like the idea of the loyal opposition. Sure w
 **DR:**  
 It’s interesting. My subtitle for _Coercion_ is _Why We Listen to What “They” Say_, with _they_ in quotation marks. I think what’s happened is we’ve all become sort of unwilling pawns in the market economy. It’s very easy to walk into The Gap and understand that this salesgirl is using some awful technique on you; they call it GAP ACT “Greet, approach, provide add-on clothes and thank.” It’s this very carefully devised set of strategies to get you to buy more than you originally wanted to. To _up sell_ you on more items. To get a belt or “We have new T-shirts that go great with those jeans.” So you can blame that girl and be annoyed at that girl but it’s not really her fault, her managers probably made her watch those videotapes that teach her how to do that. So it’s the manager’s fault then. It’s not the manager’s fault because the manager is being judged by corporate headquarters and if they don’t get more sales then the manager gets fired. So you go back to corporate headquarters: it’s that marketing department’s fault. Well it’s not really their fault either, because they’re just answering to the CEO. If they don’t do a good job they’ll get fired, but then is it the CEO’s fault? Well no, he’s answering to the Board of Directors of the company and to the shareholders. Well, okay then, it’s the shareholders’ fault.
 
-Who are the shareholders? Well the shareholders are all those people with their retirement plans who have Gap
-
-stock and tha
-
-t’s generally the same person who’s walking into the store who’s upset that the salesgirl was trying to
-
-up sell him with a new belt that would look
-
-so nice
-
-. So when you realize that you’re part of that coercive cycle there,
-
-you conclude that
-
-we’re each the
-
-next guy’s ‘they
-
-,” so the way to end this acceleration of coercive techniques and to
-
-end the coercive arms race is to stop coercing
-
-ourselves
-
-. Each of us has the opportunity to end the coercion. Rather
-
-than looking at who’s coercing you, look at whom you
-
-are coercing.
+Who are the shareholders? Well the shareholders are all those people with their retirement plans who have Gap stock and that’s generally the same person who’s walking into the store who’s upset that the salesgirl was trying to up sell him with a new belt that would look _so nice_. So when you realize that you’re part of that coercive cycle there, you conclude that _we’re each the next guy’s ‘they,”_ so the way to end this acceleration of coercive techniques and to end the coercive arms race is to stop coercing _ourselves_. Each of us has the opportunity to end the coercion. Rather than looking at who’s coercing you, look at whom you are coercing.
 
 RM:
 
