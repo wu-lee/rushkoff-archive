@@ -9,7 +9,6 @@ notes: '[https://www.theguardian.com/technology/1999/jan/21/onlinesupplement4](h
   "https://www.theguardian.com/technology/1999/jan/21/onlinesupplement4")'
 refs: ''
 sources: ''
-published: false
 
 ---
 "What's with this Internet?" an old friend called to ask me late one night last week. "I mean I know it's a big deal and all," she admitted, "but this is crazy!"
