@@ -20,7 +20,9 @@ Rave was meant to be as democratic as the Internet itself: there was no boss, an
 
 See, the beauty of the ecstatic experience, whether you're using Ecstasy (MDMA) or not, is the freedom it offers from value systems.  Everything is delightfully up for grabs.  This is what distinguished the nineties Ecstasy kids from the sixties acid generation.  The hippies picked up signs and fought the war, their parents, and the system.  The "man" was real, and he needed to be brought down. By the 1990s, these enemies could no longer be held as real. It seemed as if the establishment's faulty foundations would crumble under their own weight. Just turn up the bass a little to speed up the process.
 
-Somewhere along the way, it seems, we lost the plot.  Except for the few places around the world where rave is still brand new, the vast majority parties I've been to in the past several years have lacked the cohesive and unifying spirit that defined the "movement" when it began.  Whither the heart?
+All we had to do was dance, and the rest would take care of itself. As we told ourselves with our music, everybody's free to feel good. We believed in the power of love, and cheered as we watched everything from the Berlin Wall to apartheid topple in its wake.
+
+I understand why we strove for rave to not be about anything in particular. If it got too grounded in one or another brand of politics or religion, the scene would lose its healing levity. But the problem with having no agenda is that you're open to the agendas of others. The scene can be co-opted.
 
 I resisted even mentioning my suspicions for several years.  How dare I?  I remember so well the ex-60's who stood on the periphery of my own first raves, complaining that we were a mere carbon copy of the _real_ drive for group consciousness that they had launched decades earlier.  If the raves of the late 90's didn't meet up with my expectations for what a rave _should_ be, I thought it best to keep my mouth shut.  Everyone gets the party he or she needs, and who am I to tell them they're not doing it right?
 
