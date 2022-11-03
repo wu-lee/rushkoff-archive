@@ -24,7 +24,7 @@ All we had to do was dance, and the rest would take care of itself. As we told o
 
 I understand why we strove for rave to not be about anything in particular. If it got too grounded in one or another brand of politics or religion, the scene would lose its healing levity. But the problem with having no agenda is that you're open to the agendas of others. The scene can be co-opted.
 
-I resisted even mentioning my suspicions for several years.  How dare I?  I remember so well the ex-60's who stood on the periphery of my own first raves, complaining that we were a mere carbon copy of the _real_ drive for group consciousness that they had launched decades earlier.  If the raves of the late 90's didn't meet up with my expectations for what a rave _should_ be, I thought it best to keep my mouth shut.  Everyone gets the party he or she needs, and who am I to tell them they're not doing it right?
+The Criminal Justice Act in the U.K. and over-zealous police forces in the U.S. brought about the first wave of change. Although we had a sense that it would diminish a certain something, we took our parties indoors to commercial venues. Who cares, I remember thinking, as long as we have the music and the people? A few extra bucks to the police let us keep the right chemicals in the mix, and a few more to the club owners kept the power on through morning.
 
 I withdrew and started a novel instead.  The Ecstasy Club was to be an indication of the road home.  I wanted to create characters so earnest in their efforts to forge a new template for our culture that they wouldn't fail the same way we had.  But the characters wrote another story.  They showed me how such a scene can only implode when it doesn't have a clear sense of the values it hopes to impart.
 
