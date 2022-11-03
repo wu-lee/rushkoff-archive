@@ -30,9 +30,7 @@ But everything had changed. When we were off the map, we could keep our bearings
 
 Today, you can find something called a rave almost every night of the week at a club within walking distance.  Some of these parties are taking place in the very same rooms where your parents went every Friday night after a long week of work to let off steam -- with booze and boogie instead of tryptamines and Tricky.  By current estimates, a million hits of E are consumed every weekend in the U.K.  So why is club culture so devoid of everything that rave appeared to herald?
 
-All we had to do is dance, and the rest would take care of itself.  As we told ourselves with our music, everybody's free to feel good.  We believed in the power of love, and cheered as watched everything from the Berlin Wall to apartheid topple in its wake.
-
-So much for letting us middle class white kids run the show.
+For one, the ecstatic experience doesn't work if it happens every week.  Sure E itself has effect.  But when it's taken in weekly doses, the empathic qualities quickly give way to simple stimulation, provoking the same sorts of hooliganism that everyone else succumbs to on a weekend binge.
 
 The problem with having no agenda is two-fold.  First, you have no way to gauge your progress.  Liberation of neither the soul nor the oppressed comes as surely as dawn does at the end of the party.  We'd have these terrific times, and mean truly terrific times, but it wouldn't add up to much except an occasional knowing wink in the street from a kid who you saw at that great party last week.  Second, and worse, you're open to the agendas of others.  The scene can be co-opted.
 
@@ -41,8 +39,6 @@ I understand why we strove for rave not to be about anything in particular.  If 
 Government cast itself as the enemy to our intentions, ill-defined though they were.  The Criminal Justice Act in the UK and over-zealous police forces in the US made it clear to us that the people who make the laws were the most threatened by our dissolution of their arbitrary absolutes.  Although we had a sense that it would diminish a certain something, we took our parties indoors to commercial venues.  Who cares, I remember thinking, as long we have the music and the people?  A few extra bucks to the police let us keep the right chemicals in the mix, and a few more to the club owners kept the power on through morning.
 
 But now we were becoming part of the system we had so successfully evaded for so long.  When we were off the map, we could keep our bearings.  Traveling three hours to a rave and having to spend the night in an open field forces an intentionality all its own.  The trip requires a commitment, and the event itself is a tribute to pulling ourselves up by our own bootstraps.
-
-For one, because E just doesn't work if you take it every week.  Sure, the chemical has effect.  But when taken in weekly doses, the empathic qualities quickly give way to simple stimulation.  There's simply not enough serotonin in the brain to support this much induced bliss.  The drug tends to act more like speed, provoking the same sorts of hooliganism that everyone else succumbs to on their weekend binges.
 
 More significantly, rave deteriorated because we allowed the movement to become part of business as usual: a weekend release, no different from the pub crawls that characterize the experience of any other worker who, given a break to blow off some steam, can go back to work on Monday morning without complaining.
 
