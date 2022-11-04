@@ -1,6 +1,6 @@
 ---
 publication: _publications/this-magazine.md
-title: Losing the Plot
+title: Rave Against The Machine
 subtitle: How Rave Became Business
 image: ''
 date: 1999-11-01 00:00:00 -0500
