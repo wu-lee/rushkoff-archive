@@ -13,17 +13,7 @@ published: false
 ---
 Track 1: A Personal Opinion of the UFO Phenomenon
 
-psnn uner: fm speaking with the prolific writer and software designer Douglas
-
-RmbkofE His boob include: Ecstasy Oub, Children of Chaos, The Gen
-
-X Siberia, and one of my personal fa,;orites, Media Virus. His
-
-wri:riar, cm also be found in various periodicals worldwide through the
-
-internet.. Thank you very much fur taking the rime to speak with me
-
-today, Douglas.
+Justin Carter: I'm speaking with the prolific writer and software designer Douglas Rushkoff. His books include: Ecstasy Club, Children of Chaos, The Gen X Reader, Siberia, and one of my personal favorites, Media Virus. His writings can also be found in various periodicals worldwide through the internet. Thank you very much for taking the time to speak with me today, Douglas.
 
 Douglas Rusbkoff: Thanh for caring enough to call.
 
