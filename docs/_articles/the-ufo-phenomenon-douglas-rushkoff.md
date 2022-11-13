@@ -15,11 +15,9 @@ Track 1: A Personal Opinion of the UFO Phenomenon
 
 Justin Carter: I'm speaking with the prolific writer and software designer Douglas Rushkoff. His books include: Ecstasy Club, Children of Chaos, The Gen X Reader, Siberia, and one of my personal favorites, Media Virus. His writings can also be found in various periodicals worldwide through the internet. Thank you very much for taking the time to speak with me today, Douglas.
 
-Douglas Rusbkoff: Thanh for caring enough to call.
+Douglas Rushkoff: Thanks for caring enough to call.
 
-JC: Wdl f d like to start by finding out your personal opinions on the UFO I ET
-
-subject, then move to it's presence in the media.
+JC: Well, I'd like to start by finding out your personal opinions on the UFO / ET subject, then move to it's presence in the media.
 
 DR: Well, I guess I have a lot of feelings about the UFO I ET phenomenon. I
 
