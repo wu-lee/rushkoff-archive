@@ -73,17 +73,7 @@ DR: I don't really see government and the military as taking a long term view of
 
 JC: Yeah, but I was thinking more along the lines of mind control type projects to feed people the ideas that they've been abducted and things like that--to kind of start the fires.
 
-Right. Well there's, of course there's the people that believe and have the
-
-evidence that they believe supports the notion that in mind control
-
-experiments or brainwashing experiments they subject children and people
-
-to all sorts of abuse-ritualized abuse-and then implant these memories.
-
-To me it seems a bit far fetched given the more practical goals of these
-
-sons of agencies. I mean there's so much ...
+DR: Right. Well there's, of course there's the people that believe and have the evidence that they believe supports the notion that in mind control experiments or brainwashing experiments they subject children and people to all sorts of abuse--ritualized abuse--and then implant these memories. To me it seems a bit far fetched given the more practical goals of these sons of agencies. I mean there's so much...
 
 . . . expensive too . . .
 
