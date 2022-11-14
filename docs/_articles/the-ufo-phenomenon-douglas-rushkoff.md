@@ -63,15 +63,7 @@ DR: Right. I mean it's too simplistic, it's too superstitious, and it's ultimate
 
 Track 3: Religion, Military And The Control Of Cultural Psyche
 
-DR:
-
-JC:
-
-. r . you knoW,
-
-So do you see that as similar to, in previous centunes, re ig\~on, l'k that?
-
-in a way the internal battles of God and the Devil and things
+JC: So do you see that as similar to, in previous centuries, religion, you know, in a way the internal battles of God and the Devil and things like that?
 
 1
 
