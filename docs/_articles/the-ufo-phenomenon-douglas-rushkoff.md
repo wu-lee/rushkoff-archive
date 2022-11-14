@@ -67,23 +67,9 @@ JC: So do you see that as similar to, in previous centuries, religion, you know,
 
 DR: Yes and no. Religion in previous centuries--really since religion became an organized thing--I've seen religion as a way that certain people, usually those in power, attempt to maintain their power. You know, religion is a great way to, and perhaps it's one of the only ways to, really prevent the mutation of memes, of cultural code. Because part of following a religion is maintaining faith and not allowing it to change. The reason the Catholic church has survived this long is because it's very resistant to change. The basic memes inside Catholicism are not up for discussion. But you know you look at something like the new age movement, and, I mean if you want to call that religion, that's kind of the opposite. That's about making everything up for discussion, and making everything have the ability to change...
 
-Well, do you see governments and militaries attempting to control these
+JC: Well, do you see governments and militaries attempting to control these memes or to alter them in any kinds of ways for that control factor?
 
-memes or to alter them in any kinds of ways for that control factor?
-
-I don't really see government and the military as taking a long term view
-
-of the cultural psyche. I think they're much more crisis oriented and,
-
-while a military sponsor, public relations firm like Hill & Knowlton. A
-
-firm like that can certainly alt\~r and direct public opinion about the Gulf
-
-War, I don't think those kinds of firms and companies and dollars are
-
-going to somehow be taming or controlling public or global sentiment. I
-
-think it's much more on an as needed basis ...
+DR: I don't really see government and the military as taking a long term view of the cultural psyche. I think they're much more crisis oriented and, while a military sponsor, public relations firm like Hill & Knowlton. A firm like that can certainly alter and direct public opinion about the Gulf War, I don't think those kinds of firms and companies and dollars are going to somehow be taming or controlling public or global sentiment. I think it's much more on an as needed basis...
 
 Yeah, but I was thinking more along the lines of mind cont\~ol \~e projects
 
