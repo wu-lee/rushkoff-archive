@@ -91,9 +91,7 @@ Track 4: Media And The Need To Connect The Dots
 
 JC: Getting back to the different memes found in our culture related to the UFO / ET phenomenon, which ones do you see as the most pervasive currently, that are having a lot of effect on us?
 
-DR: It's interesting. I mean, I think as new media replaces old media, and
-
-media itself seems to replace physical space as the chief environment for human interaction ...
+DR: It's interesting. I mean, I think as new media replaces old media, and media itself seems to replace physical space as the chief environment for human interaction...
 
 JC: Kind of an electronic tactile space for going into ...
 
