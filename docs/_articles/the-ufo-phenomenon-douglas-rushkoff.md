@@ -29,39 +29,9 @@ JC: OK...
 
 DR: But I don't believe that I've seen anything that would count as a UFO-like spaceman in the traditional sense. I mean I have had, and this is getting off track even, I have had what I would consider to be experiences with forces, entities, consciousness, or states of awareness that I don't know if they could be explained away, you know, simple...
 
-JC: Sure ...
+JC: Sure...
 
-11
-
-12
-
-JUSTIN K LlRTI.R
-
-DR: . .. subconscious human_ proj\~ction b\~t I guess that Would have
-
-more to do with incer-\~1m\~ns10nal bemgs or ghosts or somethin tn\~ch
-
-char, than spacemen commg m crafts. I mean, as I see it, we stand g like
-
-JC:
-
-DR:
-
-JC:
-
-DR:
-
-JC:
-
-DR:
-
-greater likelihood of inceraccing with what you could call a much
-
-d . h h non-P,i,..L 1
-
-Species or non-mun ane consciousness t roug son of m --uuy- . . ore and tn meditative, or even psychedelic states than looking in th ky \~re
-
-telescopes. e s using
+DR: ...subconscious human projection but I guess that would have much more to do with inter-dimensional beings or ghosts or something like that, than spacemen coming in crafts. I mean, as I see it, we stand a much greater likelihood of interacting with what you could call non-earthly species or nun-mundane consciousness through sort of more and more meditative, or even psychedelic states than looking in the sky using telescopes.
 
 With radio waves ...
 
