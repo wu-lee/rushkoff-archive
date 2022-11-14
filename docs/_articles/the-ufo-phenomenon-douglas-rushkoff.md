@@ -19,11 +19,7 @@ Douglas Rushkoff: Thanks for caring enough to call.
 
 JC: Well, I'd like to start by finding out your personal opinions on the UFO / ET subject, then move to it's presence in the media.
 
-DR: Well, I guess I have a lot of feelings about the UFO I ET phenomenon. I
-
-mean just in the simples-r, basest terms, I mean, I do believe there's
-
-something out there ...
+DR: Well, I guess I have a lot of feelings about the UFO / ET phenomenon. I mean just in the simplest, basest terms, I mean, I do believe there's something out there...
 
 JC: Real quick-have you ever seen a UFO?
 
