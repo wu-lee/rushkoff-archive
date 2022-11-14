@@ -21,11 +21,9 @@ JC: Well, I'd like to start by finding out your personal opinions on the UFO / E
 
 DR: Well, I guess I have a lot of feelings about the UFO / ET phenomenon. I mean just in the simplest, basest terms, I mean, I do believe there's something out there...
 
-JC: Real quick-have you ever seen a UFO?
+JC: Real quick--have you ever seen a UFO?
 
-DR: Strictly speaking, yeah, but only because I couldn't identify these flying
-
-objects.
+DR: Strictly speaking, yeah, but only because I couldn't identify these flying objects.
 
 JC: OK ...
 
