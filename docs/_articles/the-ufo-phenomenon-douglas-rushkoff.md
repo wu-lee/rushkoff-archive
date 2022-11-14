@@ -65,53 +65,7 @@ Track 3: Religion, Military And The Control Of Cultural Psyche
 
 JC: So do you see that as similar to, in previous centuries, religion, you know, in a way the internal battles of God and the Devil and things like that?
 
-1
-
-e
-
-r . becaJlle
-
-Yes and no. Religion in previous centuries-really since re igio; usually
-
-an organized thing-I've seen religion as a way that certain peoP1\~' · on is :t
-
-h . kn w re ig1 h t ose m power, attempt to maintain their power. You O ' vent t e
-
-great way to, and perhaps it's one of the only ways to, reallf pre religi011
-
-mutation of memes, of cultural code. Because part of following a
-
-JC
-
-DR:
-
-JC:
-
-DR:
-
-JC:
-
-:
-
-JC:
-
-DR:
-
-HoMELANo GAMm.ow
-
-15
-
-is maintaining faith and not allowing it to change. The reason th c th li h h
-
-. d thi I e a o c churc as survive s ong is because it's very resistant t h Th
-
-. . .d Cath 1. . o c ange. e basic memes ms, e o IClsm are not up for discussion. But you know
-
-you look at som\~\~g like t\~e ?ew age movement, and, I mean if you
-
-want to_ call that reh?1on, _thats kind of_the opposite. That's about making
-
-eve,ytlung up for discussion, and making everything have the ability to change ...
+DR: Yes and no. Religion in previous centuries--really since religion became an organized thing--I've seen religion as a way that certain people, usually those in power, attempt to maintain their power. You know, religion is a great way to, and perhaps it's one of the only ways to, really prevent the mutation of memes, of cultural code. Because part of following a religion is maintaining faith and not allowing it to change. The reason the Catholic church has survived this long is because it's very resistant to change. The basic memes inside Catholicism are not up for discussion. But you know you look at something like the new age movement, and, I mean if you want to call that religion, that's kind of the opposite. That's about making everything up for discussion, and making everything have the ability to change...
 
 Well, do you see governments and militaries attempting to control these
 
