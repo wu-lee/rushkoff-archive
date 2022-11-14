@@ -41,67 +41,9 @@ JC: Censorship of sexuality... things like that.
 
 DR: ...in media and censorship of violence is akin to censoring someone's dream life. Now, and if you prevent a person from having dreams, if you wake them up as soon as they go into REM state, within a week or two they'll start to have waking state hallucinations. So I think one possible explanation for what's going on and why it's so similar is that we are similarly deprived of certain kinds of thoughts and imagery. So that it's going to peek up one way or another. Another thought I've often had is that these are not really UFO's from other planets at all but some kind of visitation from the future. But these aren't beings from another planet but beings from our own kind of coming back or trying to communicate with us or...
 
-Some kind of future technology ...
+JC: Some kind of future technology...
 
-Ri h . ce fiction way,
-
-g t. I mean if you want to play it out in kind of a scien e and
-
-I mean-why would people from the future who look mat st
-
-rang c day
-
-l 1 off curren
-
-evo ved be coming back and scraping DNA samp es . che last
-
-h w, 11 . , , 1 h an beings, umans. we , Its probably because we re the ast um
-
-HoMFLAND GAMFSHOW 13
-
-arc of our species that are going to be around t\~at arc pre-cloned. You
-
-P
-
-I
-
-would guess that once we start really implementing cloning
-
-h
-
-loov. if we o, an se ecuve genetic tee mques, I think a lot of kJtOW, d d 1 . . h ·
-
-rec no <t,1' d 'f h
-
-h
-
-e lJFO's might go away-an i t ey do, well then we'll have our
-
-t os And h h 'b'l' · h ' answer right there, . t e ot er posSI i ity IS t at-Ive been looking at
-
-it historically at the nsc:-when there seem to ,be these great rises in UFO
-
-phenomenon and media awareness of peoples UFO experiences and, in
-
-our country anyway, they tend to mirror the development of new
-
-cechnologies, So, you know, we develop the atomic bomb and evetybody's
-
-looking up in the sky afraid of god knows what coming down and that's
-
-when people started, really in the mid 40's, seeing UFO's, and then in
-
-the 1970s really it was about when we had Roe vs. Wade and legalization
-
-of abortion that people started having initial contactS with these sort-of
-
-fetus like aliens that were coming and putting tools in women's wombs.
-
-So in some sense it could be, and I'm not an abortion fue, but there could
-
-be some lingering cultural guilt about our relationship to fetuses and che
-
-sort of rampant use of abortive techniques now.
+DR: Right. I mean if you want to play it out in kind of a science fiction way, I mean--why would people from the future who look that strange and evolved be coming back and scraping DNA samples off current day humans. Well, it's probably because we're the last human beings, the last part of our species that are going to be around that are pre-cloned. You know, I would guess that once we start really implementing cloning technology, if we do, and selective genetic techniques, I think a lot of those UFO's might go away--and if they do, well then we'll have our answer right there. And the other possibility is that--I've been looking at it historically at the rise--when there seem to be these great rises in UFO phenomenon and media awareness of people's UFO experiences and, in our country anyway, they tend to mirror the development of new technologies, So, you know, we develop the atomic bomb and everybody's looking up in the sky afraid of god knows what coming down and that's when people started, really in the mid 40's, seeing UFO's, and then in the 1970s really it was about when we had Roe vs. Wade and legalization of abortion that people started having initial contacts with these sort-of fetus like aliens that were coming and putting tools in women's wombs. So in some sense it could be, and I'm not an abortion foe, but there could be some lingering cultural guilt about our relationship to fetuses and the sort of rampant use of abortive techniques now.
 
 JC: So you see kind of a widespread cultural archetypal projection going on.
 
