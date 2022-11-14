@@ -79,37 +79,9 @@ JC: ... expensive too...
 
 DR: Well, it's expensive, it's risky and--no, I've really put that in the, in the realm of things like the Montauk Project and there's a lot of people emerging who claim to have been part of some sort of, you know, advanced government mind control and time travel experiments and even though there's no records and they have no physical evidence of their connection, they have these memories. It just doesn't feel like the shortest distance between to points for me.
 
-So you haven't come to a final conclusion on that.
+JC: So you haven't come to a final conclusion on that.
 
-)
-
-'
-
-)
-
-.,
-
-\\
-
-.,
-
-\\
-
-\-
-
-\-
-
-DR:
-
-16 JuSITN K CARn:R
-
-No, r just-I have trouble believing in the-in anythin b
-
-Manchurian candidate style work, MK-Ultra and things like tt eyond
-
-chink it's because rhe people working in those realms quickly d_t. And I
-
-char rhe tools they were using-things like LSD and hypnosis :;ered
+DR: No, I just--I have trouble believing in the--in anything beyond Manchurian candidate style work, MK-Ultra and things like that. And I think it's because the people working in those realms quickly discovered that the tools they were using--things like LSD and hypnosis and...
 
 JC: Kind of the opposite effect they were going for ...
 
