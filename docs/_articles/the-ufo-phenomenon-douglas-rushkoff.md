@@ -47,23 +47,7 @@ DR: Right. I mean if you want to play it out in kind of a science fiction way, I
 
 JC: So you see kind of a widespread cultural archetypal projection going on.
 
-DR: Right. And then now, I mean now that we're, I mean the big science of
-
-the day is cloning and genetic engineering so again it's no wonder that we
-
-get a further modified version of our, of our UFO encounter to that.
-
-While I don't agree that there are people in crafts circling our planet and
-
-dealing with us physically, I do believe that this is a real and experienced
-
-phenomenon that either represents some kind of a subconscious incursion
-
-to waking state reality or the entrance of some sort of inter-dimensional
-
-consciousness 10 waking state reality and frankly I don't know that there's
-
-that much difference between the two,
+DR: Right. And then now, I mean now that we're, I mean the big science of the day is cloning and genetic engineering so again it's no wonder that we get a further modified version of our, of our UFO encounter to that. While I don't agree that there are people in crafts circling our planet and dealing with us physically, I do believe that this is a real and experienced phenomenon that either represents some kind of a subconscious incursion to waking state reality or the entrance of some sort of inter-dimensional consciousness to waking state reality and frankly I don't know that there's that much difference between the two.
 
 JC: That's very interesting . ..
 
