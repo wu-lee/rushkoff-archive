@@ -87,11 +87,9 @@ JC: Kind of the opposite effect they were going for...
 
 DR: Right. They tended to have the opposite effect on the culture and they tended to produce more people like William Burroughs and Ken Kesey than automaton robots they might have wanted to create.
 
-Track 4: Media And The Need To ConnectThe Dots
+Track 4: Media And The Need To Connect The Dots
 
-JC: Getting back to the different memes found in our culture related to the
-
-UFO I ET phenomenon, which ones do you see as the most pervasive currently, that are having a lot of effect on us?
+JC: Getting back to the different memes found in our culture related to the UFO / ET phenomenon, which ones do you see as the most pervasive currently, that are having a lot of effect on us?
 
 DR: It's interesting. I mean, I think as new media replaces old media, and
 
