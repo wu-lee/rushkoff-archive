@@ -49,17 +49,11 @@ JC: So you see kind of a widespread cultural archetypal projection going on.
 
 DR: Right. And then now, I mean now that we're, I mean the big science of the day is cloning and genetic engineering so again it's no wonder that we get a further modified version of our, of our UFO encounter to that. While I don't agree that there are people in crafts circling our planet and dealing with us physically, I do believe that this is a real and experienced phenomenon that either represents some kind of a subconscious incursion to waking state reality or the entrance of some sort of inter-dimensional consciousness to waking state reality and frankly I don't know that there's that much difference between the two.
 
-JC: That's very interesting . ..
+JC: That's very interesting...
 
 Track 2: The UFO Phenomenon And It's Effect On Popular Culture
 
-JC: What ki d f cc • •c • f n o errects do you see, you know, the various man11estat1ons o
-
-UFO I ET memes, what kind of memes do you see floating around in our
-
-\~ evision and movies and radio? You know, what kind of effect have they
-
-d on our culture currently?
+JC: What kind of effects do you see, you know, the various manifestations of UFO / ET memes, what kind of memes do you see floating around in our television and movies and radio? You know, what kind of effect have they had on our culture currently?
 
 DR: Well · ' · d f: b . ul • ' 1t s interesting. I guess ET phenomenon ten s to a ricate c cure
 
