@@ -55,15 +55,7 @@ Track 2: The UFO Phenomenon And It's Effect On Popular Culture
 
 JC: What kind of effects do you see, you know, the various manifestations of UFO / ET memes, what kind of memes do you see floating around in our television and movies and radio? You know, what kind of effect have they had on our culture currently?
 
-DR: Well · ' · d f: b . ul • ' 1t s interesting. I guess ET phenomenon ten s to a ricate c cure
-
-into two really polarized extremes neither of which I think is absolutely
-
-4
-
-J----
-
-healthy. You know, if you want to just ahsol 1
+DR: Well, it's interesting. I guess ET phenomenon tends to fabricate culture into two really polarized extremes neither of which I think is absolutely healthy. You know, if you want to just absolutely reject the ET / UFO phenomenon and say that it's nothing but simple insanity or people making things up or an inconsequential mass hysteria, then you might be adapting such a rationalist's perception of the world that you essentially just calcify, you calcify your awareness you prevent change, you prevent evolution, you prevent new thought structures and make life a much less fun thing. On the other hand, people that hear about or have one UFO experience and then decide that reality itself is liquid, and then--or vapor, and twist the conclusions and theories of quantum physics to their own end and decide that the Heisenburg uncertainty principle means that reality itself is simply a projection of our awareness and if we think about it differently that, you know, solid state will cease to be an effective barrier to (??? 1:33)
 
 d h
 
