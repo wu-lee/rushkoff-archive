@@ -25,15 +25,9 @@ JC: Real quick--have you ever seen a UFO?
 
 DR: Strictly speaking, yeah, but only because I couldn't identify these flying objects.
 
-JC: OK ...
+JC: OK...
 
-DR: But I don't believe that I've seen anything that would count as a UFOlike spaceman in the traditional sense. I mean I have had, and this is
-
-getting off track even, I have had what I would consider to be experiences
-
-with forces, entities, consciousness, or states of awareness that I don't
-
-know if they could be explained away, you know, simple ...
+DR: But I don't believe that I've seen anything that would count as a UFO-like spaceman in the traditional sense. I mean I have had, and this is getting off track even, I have had what I would consider to be experiences with forces, entities, consciousness, or states of awareness that I don't know if they could be explained away, you know, simple...
 
 JC: Sure ...
 
