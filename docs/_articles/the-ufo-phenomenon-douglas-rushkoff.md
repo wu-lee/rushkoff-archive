@@ -33,27 +33,9 @@ JC: Sure...
 
 DR: ...subconscious human projection but I guess that would have much more to do with inter-dimensional beings or ghosts or something like that, than spacemen coming in crafts. I mean, as I see it, we stand a much greater likelihood of interacting with what you could call non-earthly species or nun-mundane consciousness through sort of more and more meditative, or even psychedelic states than looking in the sky using telescopes.
 
-With radio waves ...
+JC: With radio waves...
 
-Well y\~ah, I mean even if not, I don't know \~at technology is going to be
-
-the easiest way co gee there. I mean my guess IS that cenain South Ame .
-
-shaman or Australian aborigines have been in contact with a hell of \~c;m
-
-more than anyone in NASA or in a giant radar listening dish has conracte\~t
-
-But to answer your original question, as far as what do I make of th\~
-
-whole sort of the recent spate of UFO abduction experiences and
-
-encounters. I have a feeling it has a lot more to do with our own cultural
-
-psychopathology than it does with visitation from other places. I chink
-
-we are a tremendously repressed culture in many, many ways. I think
-
-chat the general censorship of the media, the lack of sex, and the ...
+DR: Well yeah, I mean even if not, I don't know that technology is going to be the easiest way to get there. I mean my guess is that certain South American shaman or Australian aborigines have been in contact with a hell of a lot more than anyone in NASA or in a giant radar listening dish has contacted. But to answer your original question, as far as what do I make of the whole sort of the recent spate of UFO abduction experiences and encounters. I have a feeling it has a lot more to do with our own cultural psychopathology than it does with visitation from other places. I think we are a tremendously repressed culture in many, many ways. I think that the general censorship of the media, the lack of sex, and the...
 
 Censorship of sexuality . . . things like that.
 
