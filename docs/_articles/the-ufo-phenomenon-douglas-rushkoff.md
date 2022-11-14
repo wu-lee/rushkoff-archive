@@ -97,25 +97,13 @@ JC: Kind of an electronic tactile space for going into...
 
 DR: Uh-huh, and just a hyper-mediated, hyper sensationalized reality. I find people increasingly disoriented and attempting to get their bearings and, while young people might use television shows like Beavis and Butthead or the internet and hyper links to try to make connections between things that people had trouble making connections between before, I find a lot of people almost making random links. I mean, you can think of conspiracy theory really as the first form of hyper text where people are trying to make connections between things that haven't been connected before. People want to make connections between things so that they can feel that there's some sort of a map so it's not just as chaotic and unpredictable as it feels, but that there's some guiding principle or some underlying organization. For many people it's preferable to believe that there is a malevolent force that's organizing reality against them than that there's no force at all. So I think the predominant means that tend to be surfacing in connection to UFO abduction and government conspiracies and X-Files like things is an underlying need for order and for pattern recognition.
 
-Fill in the gaps ...
-
-\~i /\~ /
-
-1111
-
-• HoMEI.AND GAMESHOW 17
+JC: Fill in the gaps...
 
 DR: Right. Or connect the dots.
 
-DR:
+JC: OK.
 
-JC:
-
-And
-
-OK,
-
-when people are connecting the dots for themselves and using whatever
+And when people are connecting the dots for themselves and using whatever
 
 similar events happens to be going on to connect dots, it can have very
 
