@@ -57,81 +57,9 @@ JC: What kind of effects do you see, you know, the various manifestations of UFO
 
 DR: Well, it's interesting. I guess ET phenomenon tends to fabricate culture into two really polarized extremes neither of which I think is absolutely healthy. You know, if you want to just absolutely reject the ET / UFO phenomenon and say that it's nothing but simple insanity or people making things up or an inconsequential mass hysteria, then you might be adapting such a rationalist's perception of the world that you essentially just calcify, you calcify your awareness you prevent change, you prevent evolution, you prevent new thought structures and make life a much less fun thing. On the other hand, people that hear about or have one UFO experience and then decide that reality itself is liquid, and then--or vapor, and twist the conclusions and theories of quantum physics to their own end and decide that the Heisenburg uncertainty principle means that reality itself is simply a projection of our awareness and if we think about it differently that, you know, solid state will cease to be an effective barrier to (??? 1:33)
 
-d h
+JC: ... but simplistic...
 
-. , h. Ute y re·
-
-P
-
-henomenon an say t at 1t s not 1ng hut . Jcct the ET I UF . simple • 0
-
-making thin!}' up or an inconsequential mass h \~ity or peo l
-
-h
-
-· a1· , . ystena, th P e
-
-be adapting sue a 111;non ,sts perception of the world tha en you might
-
-just calcify, you calcify your awareness you prevent chan
-
-1
-
-you essentially
-
-evolution, you prevent new thought structures and make you prevent
-
-fun thing. On the other hand, people that hear abo ea much less
-
-experience and then decide that reality itself is liquid ut odr thhave one UFO
-
-l
-
-. d th . f , an en--or
-
-and cwist the cone us1ons an eones o quantum ph . vapor, . . b ys1cs to th ·
-
-end and decide that the He1sen urg uncertainty prin . l eir own
-
-l
-
-. . f c1p e means th
-
-reality itself is simp y a proiecnon o our awareness and if we think at
-
-it differently that, you know, solid state will cease to be an elli . \~ut
-
-to (??? 1:33) ecttve bamer
-
-JC: ... but simplistic ...
-
-DR: Right. I mean it's too simplistic, it's too supersuuous, and it's
-
-ultimately is-empowering to have an extremely magical view of the
-
-world. You know, neither of these views though, help us deal with
-
-the matters at hand which are: Can we think our way out of
-
-environmental doom? Can we create new ways of interacting so we
-
-can distribute the food we have to the people who need them? Can
-
-we create new political and economic structures that can more
-
-efficiently and compassionately deal with the whole of humanity?
-
-And in order to do those kinds of things we need to be both optimistic,
-
-open-minded, arid rational. So my problem with looking at the way
-
-the UFO phenomenon trickles up or trickles do wn popular culture
-
-is that it tends to split us into two extremist camps that either accept
-
-fully or reject fully these kinds of-this sort of thinking and stymies
-
-our efforts to move forward.
+DR: Right. I mean it's too simplistic, it's too superstitious, and it's ultimately is-empowering to have an extremely magical view of the world. You know, neither of these views though, help us deal with the matters at hand which are: Can we think our way out of environmental doom? Can we create new ways of interacting so we can distribute the food we have to the people who need them? Can we create new political and economic structures that can more efficiently and compassionately deal with the whole of humanity? And in order to do those kinds of things we need to be both optimistic, open-minded, and rational. So my problem with looking at the way the UFO phenomenon trickles up or trickles down popular culture is that it tends to split us into two extremist camps that either accept fully or reject fully these kinds of--this sort of thinking and stymies our efforts to move forward.
 
 Track 3: Religion, Military And The Control Of Cultural Psyche
 
