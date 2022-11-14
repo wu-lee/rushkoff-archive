@@ -75,21 +75,9 @@ JC: Yeah, but I was thinking more along the lines of mind control type projects 
 
 DR: Right. Well there's, of course there's the people that believe and have the evidence that they believe supports the notion that in mind control experiments or brainwashing experiments they subject children and people to all sorts of abuse--ritualized abuse--and then implant these memories. To me it seems a bit far fetched given the more practical goals of these sons of agencies. I mean there's so much...
 
-. . . expensive too . . .
+JC: ... expensive too...
 
-Well, it's expensive, it's risky and-no, I've really put that in the, in the
-
-realm of things like the Montauk Project and there's a lot of people
-
-emerging who claim to have been part of some sort of, you know, advanced
-
-government mind control and time travel experiments and even though
-
-there's no records and they have no physical evidence of their connection,
-
-they have these memories. It just doesn't feel like the shortest distance
-
-between to points for me.
+DR: Well, it's expensive, it's risky and--no, I've really put that in the, in the realm of things like the Montauk Project and there's a lot of people emerging who claim to have been part of some sort of, you know, advanced government mind control and time travel experiments and even though there's no records and they have no physical evidence of their connection, they have these memories. It just doesn't feel like the shortest distance between to points for me.
 
 So you haven't come to a final conclusion on that.
 
