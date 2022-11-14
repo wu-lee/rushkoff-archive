@@ -83,15 +83,9 @@ JC: So you haven't come to a final conclusion on that.
 
 DR: No, I just--I have trouble believing in the--in anything beyond Manchurian candidate style work, MK-Ultra and things like that. And I think it's because the people working in those realms quickly discovered that the tools they were using--things like LSD and hypnosis and...
 
-JC: Kind of the opposite effect they were going for ...
+JC: Kind of the opposite effect they were going for...
 
-...
-
-DR: Right. They tended to have the opposite effi:ct on the culture and they
-
-tended to produce more people like William Burrough, and K,r, Ke.ey
-
-than automaton robots they might have wanted to create.
+DR: Right. They tended to have the opposite effect on the culture and they tended to produce more people like William Burroughs and Ken Kesey than automaton robots they might have wanted to create.
 
 Track 4: Media And The Need To ConnectThe Dots
 
