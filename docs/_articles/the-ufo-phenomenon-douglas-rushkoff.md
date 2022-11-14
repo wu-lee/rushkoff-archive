@@ -71,9 +71,7 @@ JC: Well, do you see governments and militaries attempting to control these meme
 
 DR: I don't really see government and the military as taking a long term view of the cultural psyche. I think they're much more crisis oriented and, while a military sponsor, public relations firm like Hill & Knowlton. A firm like that can certainly alter and direct public opinion about the Gulf War, I don't think those kinds of firms and companies and dollars are going to somehow be taming or controlling public or global sentiment. I think it's much more on an as needed basis...
 
-Yeah, but I was thinking more along the lines of mind cont\~ol \~e projects
-
-to feed people the ideas that they've been abducted and things like thatto kind of stan the fires.
+JC: Yeah, but I was thinking more along the lines of mind control type projects to feed people the ideas that they've been abducted and things like that--to kind of start the fires.
 
 Right. Well there's, of course there's the people that believe and have the
 
