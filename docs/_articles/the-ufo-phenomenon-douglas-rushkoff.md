@@ -151,19 +151,9 @@ JC: Well, you're an optimist of utopian proportion.
 
 DR: I don't know that we'll really ever get there. I don't know that we're ever going to be able to stop pain and suffering. I don't know that we're ever going to wake up from this game, but I think we have to at least envision ways in which that can happen. Otherwise how do we justify going on?
 
-Where do you see the ET/UFO phenomenon going in the next 10 years
+JC: Where do you see the ET/UFO phenomenon going in the next 10 years as things change?
 
-as things change?
-
-\~ell, it'll be interesting. I think that there may be some alleviation after
-
-this year 2000 business is over with. You know, there is a kind of stirring
-
-of the pot that comes with Jesus Christ's 2000th birthday. If for no other
-
-reason that's when we decided to start these numbers. I mean, I think
-
-millennium is crock, but that's O.K., a lot of people don't and···
+DR: Well, it'll be interesting. I think that there may be some alleviation after this year 2000 business is over with. You know, there is a kind of stirring of the pot that comes with Jesus Christ's 2000th birthday. If for no other reason that's when we decided to start these numbers. I mean, I think millennium is crock, but that's O.K., a lot of people don't and...
 
 Life always finds a way, huh?
 
