@@ -115,19 +115,9 @@ JC: Sure, you kind find all kinds of, you know, I collect rocks and such--you fi
 
 DR: Right. And that doesn't mean--and this is where we can't go too far on the other side--I'm not such a rationalist or thermal dynamics fan to say that this is just probability and random and, of course, these things are going to show up. What I'm saying is, it's both more ordered and less intentional than either side chooses to believe. That it's absolutely probable for there to be more of these kinds of shapes and more of these kinds of patterns than other ones, because that's the way that matter has--and I use this word loosely--chosen to organize itself. I mean, we already know now there seems to be more right handed molecules in the universe than left and that defies probability. Well, of course it does. Life defies probability. You know the only force in the universe is not entropy. You know there's another force called, what we call life...
 
-Negencropy · · ·
+JC: Negentropy...
 
-. h N entropy. And that's quest for awareness-for organization- Rig c. eg h · · d 1· . h . ll
-
-d
-
-, 1
-
-·ng to find because t e umverse 1s ea mg wit essenua y
-
-an were go , . che same kinds of building blocks, we re gomg to find these shapes
-
-occurring again and again.
+DR: Right. Negentropy. And that's quest for awareness--for organization--and we're going to find because the universe is dealing with essentially the same kinds of building blocks, we're going to find these shapes occurring again and again.
 
 You know, on a personal level, would you guess that the supposed artifacts
 
