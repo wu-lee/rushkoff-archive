@@ -123,19 +123,11 @@ JC: You know, on a personal level, would you guess that the supposed artifacts o
 
 DR: If I had to guess, I'd say it's probably not remnants of a civilization as we know it. But that they are manifestations of consciousness we don't understand yet.
 
-OK, so there's another for you ...
+JC: OK, so there's another for you...
 
 Track 6: Matter, Consciousness, and the UFO Phenomenon
 
-DR:
-
-JC:
-
-r JC:
-
-• .. it sounds like you believe consciousness permeates everything (DR:
-
-Yeah) throughout the universe. So that would be the basic principle?
+JC: ... it sounds like you believe consciousness permeates everything (DR: Yeah) throughout the universe. So that would be the basic principle?
 
 Yeah, .
 
