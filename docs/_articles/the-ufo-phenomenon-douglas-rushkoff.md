@@ -111,15 +111,7 @@ JC: Now what do you think of the artifacts on Mars ? Do you think those will be 
 
 DR: I think that the world we live in is much more ordered than we understand. I think that the repetition of shapes in nature and the echoes of movements culturally, the--really the recurrence or recursions of various phenomenon at regular intervals means to me that the universe is really much more musical than we give it credit for. And there's octaves and tonics and refrains and choruses and that there is a harmony to nature so that it wouldn't surprise me at all to see many of the shapes and forms that we consider to be results of human biological, or earthly biological, evolution to be repeated in context where there is no seeming evolutionary or biological imperative to create those shapes.
 
-JC:
-
-DR:
-
-Sure, you kind find all kinds of, you know, I collect rocks and such-you
-
-find all kinds of geometric shapes, you know, right out of nature-that's
-
-where we get them.
+JC: Sure, you kind find all kinds of, you know, I collect rocks and such--you find all kinds of geometric shapes, you know, right out of nature--that's where we get them.
 
 Right. And that doesn't mean-and this is where we can't go too far on
 
