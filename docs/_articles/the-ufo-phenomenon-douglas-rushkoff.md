@@ -173,11 +173,11 @@ DR: Right.
 
 JC: OK well, you know, you've answered my questions. I really appreciate it.
 
-Oh, sure ...
+DR: Oh, sure...
 
 JC: It's been a lot of fun.
 
-DR: What's your sense-do you really think there's UFOs?
+DR: What's your sense--do you really think there's UFOs?
 
 JC: Well, you knaw, I've had some personal experience an
 
