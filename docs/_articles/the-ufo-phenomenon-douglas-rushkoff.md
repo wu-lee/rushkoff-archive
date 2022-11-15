@@ -103,27 +103,7 @@ DR: Right. Or connect the dots.
 
 JC: OK.
 
-And when people are connecting the dots for themselves and using whatever
-
-similar events happens to be going on to connect dots, it can have very
-
-dangerous results like in the Heaven's Gate scenario. I mean here are
-
-people living in a very free form conceptual reality and there really is
-
-nothing-there's no guiding principal-there's no way to connect the
-
-dots. So astrological events occur, or an astronomical one of a comet coming
-
-and they go, "Oh! This is a sign! This is the moment we've been waiting
-
-for!". And that's very much like what we could call primitive civilizations
-
-looking at a lunar eclipse and saying, "Oh my God, this is it!". You know
-
-this is it because they didn't really have a way of ordering their greater
-
-reality.
+DR: And when people are connecting the dots for themselves and using whatever similar events happens to be going on to connect dots, it can have very dangerous results like in the Heaven's Gate scenario. I mean here are people living in a very free form conceptual reality and there really is nothing--there's no guiding principal--there's no way to connect the dots. So astrological events occur, or an astronomical one of a comet coming and they go, "Oh! This is a sign! This is the moment we've been waiting for!". And that's very much like what we could call primitive civilizations looking at a lunar eclipse and saying, "Oh my God, this is it!". You know this is it because they didn't really have a way of ordering their greater reality.
 
 Track 5: Mars And Universal Order
 
