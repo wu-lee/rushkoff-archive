@@ -119,13 +119,7 @@ JC: Negentropy...
 
 DR: Right. Negentropy. And that's quest for awareness--for organization--and we're going to find because the universe is dealing with essentially the same kinds of building blocks, we're going to find these shapes occurring again and again.
 
-You know, on a personal level, would you guess that the supposed artifacts
-
-on Mars-do you think those are remnants of a previous culture you
-
-know, personally, or do you believe that they are natural formations, or
-
-are you remaining undecided?
+JC: You know, on a personal level, would you guess that the supposed artifacts on Mars--do you think those are remnants of a previous culture you know, personally, or do you believe that they are natural formations, or are you remaining undecided?
 
 If I had to guess, I'd say it's probably not remnants of a civilization as we
 
