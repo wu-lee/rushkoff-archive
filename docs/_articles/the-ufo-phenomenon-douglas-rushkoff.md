@@ -113,57 +113,7 @@ DR: I think that the world we live in is much more ordered than we understand. I
 
 JC: Sure, you kind find all kinds of, you know, I collect rocks and such--you find all kinds of geometric shapes, you know, right out of nature--that's where we get them.
 
-Right. And that doesn't mean-and this is where we can't go too far on
-
-the other side-I'm not such a rationalist or thermal dynamics fan to say
-
-that this is just probability and random and, of course, these things are
-
-?oing to show up. What I'm saying is, it's both more ordered and less
-
-Intentional than either side chooses to believe. That it's absolutely probable
-
-18
-
-JC:
-
-DR:
-
-JC:
-
-DR:
-
-JC:
-
-..
-
-.
-
-.
-
-,/
-
-\]USTINK ,-.._
-
-. '-""<TER
-
-for chere co be more of these ki d
-
-h
-
-n s of h patterns than ot er ones, becau, h ' apes and more of ,hese kinds of
-
-use this word loosdy-chosen 10 e I at''. the way that matter has-""d I
-
-b
-
-organiz . lf. now ,here seems to e more right h e use • I mean, we already know
-
-le& and that defies probability. ,;f\~ molecules in the universe than
-
-probability. You knoW the only fore ' of course it does. Life defies
-
-, c em the · · know ,heres another rorce called wh universe ts not entropy. You ' at we call life ...
+DR: Right. And that doesn't mean--and this is where we can't go too far on the other side--I'm not such a rationalist or thermal dynamics fan to say that this is just probability and random and, of course, these things are going to show up. What I'm saying is, it's both more ordered and less intentional than either side chooses to believe. That it's absolutely probable for there to be more of these kinds of shapes and more of these kinds of patterns than other ones, because that's the way that matter has--and I use this word loosely--chosen to organize itself. I mean, we already know now there seems to be more right handed molecules in the universe than left and that defies probability. Well, of course it does. Life defies probability. You know the only force in the universe is not entropy. You know there's another force called, what we call life...
 
 Negencropy · · ·
 
