@@ -107,9 +107,7 @@ DR: And when people are connecting the dots for themselves and using whatever si
 
 Track 5: Mars And Universal Order
 
-JC: Now what do you think of the artifacts on Mars ? Do you think those will
-
-be found to be real or just anomalies of cameras?
+JC: Now what do you think of the artifacts on Mars ? Do you think those will be found to be real or just anomalies of cameras?
 
 DR: I think that the world we live in is much more ordered than we understand.
 
