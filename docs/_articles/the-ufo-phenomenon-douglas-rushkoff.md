@@ -179,23 +179,9 @@ JC: It's been a lot of fun.
 
 DR: What's your sense--do you really think there's UFOs?
 
-JC: Well, you knaw, I've had some personal experience an
+JC: Well, you know, I've had some personal experience and I've never been really able to get a handle on it completely. So...
 
-really able to get a handle on it completely. So • • ·
-
-been d I've never
-
-.......__
-
-\- \\ -
-
-\--
-
-HoMEIANO GAMESHOW 21
-
-DR: Ri ht. I mean the thing I would definitely tell you is even if it's not real in ga sense of the UFO thing, it's not necessarily your own experience
-
-either. You know what I mean?
+DR: Right. I mean the thing I would definitely tell you is even if it's not real in a sense of the UFO thing, it's not necessarily your own experience either. You know what I mean?
 
 JC: Yeah ...
 
