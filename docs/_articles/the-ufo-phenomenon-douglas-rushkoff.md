@@ -163,21 +163,9 @@ JC: Well, really quick--are you talking about our culture here in the US or as a
 
 DR: Um, I guess both. I mean I only really experience it that much in the US, but it's a combination. See, if you don't get so much of this in a repressive culture like Iraq, say, because it's much more of a fundamentalist culture and it's exerting pressure on people with very strict and orthodox world views. Here in the states, the extreme force of capitalism and of economics combines with this kind of open mindedness--collapse of religious and public institutions tends to flip people out in extreme directions like, it's more like when you try to put your finger on a tomato seed it kind of skirts away on the table. That's sort of what happens here because we've got a pretty fluid culture.
 
-ome more repressive ...
+JC: So you're saying if our culture were to become more repressive...
 
-So you're saying if our culture were to bee
-
-DR:
-
-JC:
-
-r chink we will start to see more of the experiences and phenomenonwe'll profligate. Whereas if we become less repressive-meaning if
-
-we, what you could call the subconscious conversation, is allowed to
-
-rise to the surface then you'll see I think less of this subconscious
-
-material ...
+DR: I think we will start to see more of the experiences and phenomenon--we'll profligate. Whereas if we become less repressive--meaning if we, what you could call the subconscious conversation, is allowed to rise to the surface then you'll see I think less of this subconscious material...
 
 JC: ... spilling out over the edges ...
 
