@@ -159,53 +159,9 @@ JC: Life always finds a way, huh?
 
 Dr: Yeah, really. But I think that may diminish a little bit. I mean, what will happen is--if our culture becomes more repressive over time then you will start to see these--well, it's like these clumps of tuna salad that get pushed out the sides of the bread...
 
-\-•JJlk P••' • an, wh ..,.ity. 6"' p, ure becoJJles JJlore repressive over time at Will
+JC: Well, really quick--are you talking about our culture here in the US or as a world culture?
 
-pR: yeah, is-if our ,ulr 11 it's like these dumps of tuna al then Yo b•PP'" cJ,es.,...-we ' s ad th u
-
-\--. ,<ill ,,.re ,o see ·Jes of ,be br<"d. . . at gee
-
-h d 0
-
-ut che sJ
-
-pus e 00
-
-,.Jking about out culture here i h
-
-WI ll ,,.tty quick-""" y n t e US o
-
-JC: , :,,;,Id ,u1,ure1 ' " b ch I Jllean I only really experience it that mu h .
-
-oR: Vrn: guess b\\;oon- See, if you don't get so much of this _c lll the Ds
-
-bur 1rs a com • . ' h in a re ,
-
-u1 Jik
-
-Iraq saY, because ,cs muc more of a fundam al' pressive
-
-c wre e ' ' I . h . en t 1st and ic's e,certing pressure on peoP e wit very smct and orthodo culture
-
-vieWS· !-ler< in the ,,.,es, rhe extreme force of capitalism and f x world
-
-coJJlbines with this kind of open mindedness-collapse of
-
-O
-
-/":"nomics
-
-P
-
-ublic instlrucions rends to flip people out in extreme d' \~e igious and irectton l'k
-
-,nore like when you cry to put your linger on a tom
-
-5 1
-
-e, it's skirts ,way on \~e cable. Thar's sort of what happens \~;r seed it kind of
-
-got a pretty fluid culture. e because we've
+DR: Um, I guess both. I mean I only really experience it that much in the US, but it's a combination. See, if you don't get so much of this in a repressive culture like Iraq, say, because it's much more of a fundamentalist culture and it's exerting pressure on people with very strict and orthodox world views. Here in the states, the extreme force of capitalism and of economics combines with this kind of open mindedness--collapse of religious and public institutions tends to flip people out in extreme directions like, it's more like when you try to put your finger on a tomato seed it kind of skirts away on the table. That's sort of what happens here because we've got a pretty fluid culture.
 
 ome more repressive ...
 
