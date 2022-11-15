@@ -131,17 +131,9 @@ JC: ... it sounds like you believe consciousness permeates everything (DR: Yeah)
 
 DR: Yeah, I think that the great illusion that we're under right now is that consciousness is a phenomenon that occurs in individual beings and I don't think that's true. I think consciousness is something that individual beings can evolve to tap into. But that consciousness is not unique-- it's not mine. It's a reservoir of sorts or a wavelength or a--it's a stuff, it's an ether and that creatures evolve in order to participate in that--you know--but it's got nothing to do with human beings.
 
-So would you see 1·c
+JC: So would you see life as permeating the universe as much as consciousness--well, not as much, but alongside?
 
-II ire as perm . . nesswe , not as much b eating the universe as much as conscious
-
-, Ut alongside?
-
-_.........
-
-HoMEIAND GAMF.Sttow 19
-
-ah I would say life is-life is matter's attempt to participate in . Ye , pR, consciousness .
+DR: Yeah, I would say life is--life is matter's attempt to participate in consciousness.
 
 JC:
 
