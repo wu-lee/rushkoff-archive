@@ -129,17 +129,7 @@ Track 6: Matter, Consciousness, and the UFO Phenomenon
 
 JC: ... it sounds like you believe consciousness permeates everything (DR: Yeah) throughout the universe. So that would be the basic principle?
 
-Yeah, .
-
-1 think that the great illusion that we're under right now is that
-
-cdon\~ciousness is a phenomenon that occurs in individual beings andall
-
-on t think that's tru I h' k . . . h · dividu b · e. t in consciousness 1s something t at m . , emgs can evolve to • · e--its
-
-not m· 1, tap into. But that consciousness is not umqu
-
-me. ts a reservoir f . , ff. it's an ether and th O sons or a wavelength or a-1t s a stu , at creatures ev l . d knowbut it's got noch' 0 ve 10 or er to participate in that-you ing to do · h h wit uman beings.
+DR: Yeah, I think that the great illusion that we're under right now is that consciousness is a phenomenon that occurs in individual beings and I don't think that's true. I think consciousness is something that individual beings can evolve to tap into. But that consciousness is not unique-- it's not mine. It's a reservoir of sorts or a wavelength or a--it's a stuff, it's an ether and that creatures evolve in order to participate in that--you know--but it's got nothing to do with human beings.
 
 So would you see 1·c
 
