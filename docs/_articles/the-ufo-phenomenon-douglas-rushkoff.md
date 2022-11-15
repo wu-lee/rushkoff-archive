@@ -109,25 +109,7 @@ Track 5: Mars And Universal Order
 
 JC: Now what do you think of the artifacts on Mars ? Do you think those will be found to be real or just anomalies of cameras?
 
-DR: I think that the world we live in is much more ordered than we understand.
-
-I think that the repetition of shapes in nature and the echoes of movements
-
-culturally, the-really the recurrence or recursions of various phenomenon
-
-at regular intervals means to me that the universe is really much more
-
-musical than we give it credit for. And there's octaves and tonics and
-
-refrains and choruses and that there is a harmony to nature so that it
-
-wouldn't surprise me at all to see many of the shapes and forms that we
-
-consider to be results of human biological, or earthly biological, evolution
-
-to be repeated in context where there is no seeming evolutionary or
-
-biological imperative to create those shapes.
+DR: I think that the world we live in is much more ordered than we understand. I think that the repetition of shapes in nature and the echoes of movements culturally, the--really the recurrence or recursions of various phenomenon at regular intervals means to me that the universe is really much more musical than we give it credit for. And there's octaves and tonics and refrains and choruses and that there is a harmony to nature so that it wouldn't surprise me at all to see many of the shapes and forms that we consider to be results of human biological, or earthly biological, evolution to be repeated in context where there is no seeming evolutionary or biological imperative to create those shapes.
 
 JC:
 
