@@ -121,11 +121,7 @@ DR: Right. Negentropy. And that's quest for awareness--for organization--and we'
 
 JC: You know, on a personal level, would you guess that the supposed artifacts on Mars--do you think those are remnants of a previous culture you know, personally, or do you believe that they are natural formations, or are you remaining undecided?
 
-If I had to guess, I'd say it's probably not remnants of a civilization as we
-
-know ic. But that they are manifestations of consciousness we don't
-
-understand yet.
+DR: If I had to guess, I'd say it's probably not remnants of a civilization as we know it. But that they are manifestations of consciousness we don't understand yet.
 
 OK, so there's another for you ...
 
