@@ -147,25 +147,9 @@ JC: It's a great way to look at it. Well, I really love that you're an optimist,
 
 DR: Well, I mean I don't consider it--I mean optimistic as much as, you know, realism. If you're going to be alive then life itself is optimism.
 
-DR:
+JC: Well, you're an optimist of utopian proportion.
 
-JC:
-
-DR:
-
-JC:
-
-JC:
-
-Well, you're an optimist of utopian proportion.
-
-I don't know that we'll really ever get there. I don't know that we're ever
-
-going to be able to stop pain and suffering. I don't know that we're ever
-
-going to wake up from this game, but I think we have to at least envision
-
-ways in which that can happen. Otherwise how do we justify going on?
+DR: I don't know that we'll really ever get there. I don't know that we're ever going to be able to stop pain and suffering. I don't know that we're ever going to wake up from this game, but I think we have to at least envision ways in which that can happen. Otherwise how do we justify going on?
 
 Where do you see the ET/UFO phenomenon going in the next 10 years
 
