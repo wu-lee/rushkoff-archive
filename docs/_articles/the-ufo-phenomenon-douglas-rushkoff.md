@@ -139,25 +139,9 @@ JC: Then you find, you know, basic matter as also being consciousness than like 
 
 DR: Ummm.... Yeah, but in a much less participatory way than you or I.
 
-yeah, a much more passive form of consciousness.
+JC: Yeah, a much more passive form of consciousness.
 
-JC:
-
-DR:
-
-JC:
-
-Yeah, I mean I think the higher states of organization that matter has
-
-developed, with consciousness as help, is what's allowing that interplaythat dance to occur. I mean you could look at-I mean there's really two
-
-main things going on. I mean matter is reaching up and striving towards
-
-this etheric sense of awareness and the ether itself is reaching down through
-
-matter to-towards experience and the interplay of those two forces is
-
-what we normally consider life.
+DR: Yeah, I mean I think the higher states of organization that matter has developed, with consciousness as help, is what's allowing that interplay--that dance to occur. I mean you could look at--I mean there's really two main things going on. I mean matter is reaching up and striving towards this etheric sense of awareness and the ether itself is reaching down through matter to--towards experience and the interplay of those two forces is what we normally consider life.
 
 It's a great way to look at it. Well, I really love that you're an optimist,
 
