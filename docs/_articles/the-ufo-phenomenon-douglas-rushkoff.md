@@ -135,13 +135,9 @@ JC: So would you see life as permeating the universe as much as consciousness--w
 
 DR: Yeah, I would say life is--life is matter's attempt to participate in consciousness.
 
-JC:
+JC: Then you find, you know, basic matter as also being consciousness than like the floor, my door, a cup....
 
-Then you find, you know, basic matter as also being consciousness than
-
-like the floor, my door. a cup ....
-
-oil: lJ(11111111 • ••• Yeah, but in a much less participatory way than you or I.
+DR: Ummm.... Yeah, but in a much less participatory way than you or I.
 
 yeah, a much more passive form of consciousness.
 
