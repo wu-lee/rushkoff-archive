@@ -143,13 +143,9 @@ JC: Yeah, a much more passive form of consciousness.
 
 DR: Yeah, I mean I think the higher states of organization that matter has developed, with consciousness as help, is what's allowing that interplay--that dance to occur. I mean you could look at--I mean there's really two main things going on. I mean matter is reaching up and striving towards this etheric sense of awareness and the ether itself is reaching down through matter to--towards experience and the interplay of those two forces is what we normally consider life.
 
-It's a great way to look at it. Well, I really love that you're an optimist,
+JC: It's a great way to look at it. Well, I really love that you're an optimist, also. I appreciate that.
 
-also. I appreciate that.
-
-DR: Well, I mean I don't consider it-I mean optimistic as much as, you
-
-know, realism. If you're going to be alive then life itself is optimism.
+DR: Well, I mean I don't consider it--I mean optimistic as much as, you know, realism. If you're going to be alive then life itself is optimism.
 
 DR:
 
