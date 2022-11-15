@@ -155,19 +155,9 @@ JC: Where do you see the ET/UFO phenomenon going in the next 10 years as things 
 
 DR: Well, it'll be interesting. I think that there may be some alleviation after this year 2000 business is over with. You know, there is a kind of stirring of the pot that comes with Jesus Christ's 2000th birthday. If for no other reason that's when we decided to start these numbers. I mean, I think millennium is crock, but that's O.K., a lot of people don't and...
 
-Life always finds a way, huh?
+JC: Life always finds a way, huh?
 
-•:r
-
-J vSfIN J{. OJl'fER
-
-\-
-
-20
-
-• _1. JllaY dimi11ish a little bit. I me
-
-I
+Dr: Yeah, really. But I think that may diminish a little bit. I mean, what will happen is--if our culture becomes more repressive over time then you will start to see these--well, it's like these clumps of tuna salad that get pushed out the sides of the bread...
 
 \-•JJlk P••' • an, wh ..,.ity. 6"' p, ure becoJJles JJlore repressive over time at Will
 
