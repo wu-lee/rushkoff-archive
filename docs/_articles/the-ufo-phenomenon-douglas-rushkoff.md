@@ -191,14 +191,8 @@ JC: Well I might've just plugged in at...
 
 DR: Right
 
-JC: ... the wrong time to the wrong thing, so ...
+JC: ... the wrong time to the wrong thing, so...
 
-DR: There's a definite communication switchboard between people right now
-
-and certainly between people all the time and the fact that you happen to
-
-tap into that and end up having that experience doesn't mean you know,
-
-there's something wrong.
+DR: There's a definite communication switchboard between people right now and certainly between people all the time and the fact that you happen to tap into that and end up having that experience doesn't mean you know, there's something wrong.
 
 JC: Thanks guy, I appreciate it. You take care and I'll catch you later.
