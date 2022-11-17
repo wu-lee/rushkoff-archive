@@ -76,37 +76,9 @@ RM: But a media virus doesn’t have to take the form of _A Current Affair_ type
 
 DR: Right. Some of the most virulent forms, the most activist forms of media are in kids’ programs because they seem innocuous. Pee-wee Herman or _The Simpsons_ or _South Park_, they’re kiddy shows so no one expects very potent ideas to be in them, but they ended up being these hotbeds for very, very controversial memes. Very controversial ideas. Pee-wee Herman’s show was really about gay camp culture. _The Simpsons_ is media satire. The experience of watching _The Simpsons_ is not watching to see whether Bart’s going to get in trouble or if Homer is going to keep his job; the joy of that show is looking at each scene and going, “That’s a satire of Alfred Hitchcock” or “That’s a satire of this commercial,” so the kid watching _The Simpsons_, or the adult for that matter, is really learning media semiotics. He’s learning how to make connections between different forms of media, so the reward you get on _The Simpsons_ is not getting to the end of the story and finding out who wins or loses, the reward on _The Simpsons_ is making that connection and actually learning about media. Once you have any kind of media that seems to be about media which is about media which is about media, chances are you’re dealing with a viral form of media. So on _The Simpsons_ you might have the Simpsons trying to help Krusty the Klown keep his television show, so then what are we watching? We’re watching a television program about kids trying to affect television. And once you have that sort of screen within a screen, or that _Beavis and Butthead_ show where you have two guys watching rock videos and commenting on them, it changes the way we look at rock videos after that.
 
-RM:
+RM: Have you launched any media viruses yourself?
 
-Have you launched any media viruses yourself?
-
-DR:
-
-I guess the most important media virus I launched was the
-
-Media Virus
-
-media virus itself. To launch the id
-
-ea that
-
-ideas spread like viruses. That’s what got the people
-
-that
-
-who
-
-run media and those corporate conglomerates a little
-
-bit scared because they were thinking, “We’re going to get infected with these
-
-media viruses
-
-,” you know, “What is
-
-this?” So it had k
-
-ind of a scary ring to it, taking those two words and putting them together.
+DR: I guess the most important media virus I launched was the _Media Virus_ media virus itself. To launch the idea that ideas spread like viruses. That’s what got the people who run media and those corporate conglomerates a little bit scared because they were thinking, “We’re going to get infected with these _media viruses_,” you know, “What is this?” So it had kind of a scary ring to it, taking those two words and putting them together.
 
 RM:
 
