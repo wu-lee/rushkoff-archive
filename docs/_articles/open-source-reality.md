@@ -70,33 +70,7 @@ DR: A media virus is really any idea that uses the momentum of the media to spre
 
 As the world got more and more wired up with cable television, fax machines and the Internet, it started to take on properties of a global nervous system: biological organism. Certainly the most fun way and one of the easiest ways to spread an idea, or a strand of "thought code," through such an organismic media space was to wrap it in a shell, like a virus, protect it and serve as a container for it to spread unrecognized through the media system. But instead of it being a protein shell, as it would be in a biological virus, you’d wrap it in a media shell. All that means is creating a shell, a form of media that people haven't seen before. Something “sticky enough” to get people’s attention, so that it spreads throughout the system. “Hey, check this out!” The media loves media; the news loves stories about the news. The video tape of Rodney King getting beaten by white cops in Los Angeles that spread around the world overnight: it spread not because white guys were beating on a black guy, it spread because no one had captured this on a camcorder before. The original story of the Rodney King tape was “My God, look what someone captured on their camcorder.” People don’t remember it that way anymore, but it’s true.
 
-DR
-
-4
-
-Once it spread around and it was in all our homes, that’s when it injected us with its code or with its ideas, which are
-
-things
-
-issues
-
-like police brutality, race relations and the plight of black people in urban Amer
-
-ica. So you can look at
-
-almost any of the media viruses that were spread over the last ten years, you know “Camillagate,” the Prince
-
-Charles tapes, his little dirty phone calls with his mistress. The reason that spread was, yes, partly because it was
-
-Princ
-
-e Charles but the real story of it was we had captured telephone conversations of famous people, no one had
-
-really heard telephone conversations like that broadcast on television before. So a media virus really is a way of
-
-nesting our culture, nesting our
-
-media space with new ideas by creating new and virulent forms of media.
+Once it spread around and it was in all our homes, that’s when it injected us with its code or with its ideas, which are issues like police brutality, race relations and the plight of black people in urban America. So you can look at almost any of the media viruses that were spread over the last ten years, you know “Camillagate,” the Prince Charles tapes, his little dirty phone calls with his mistress. The reason that spread was, yes, partly because it was Prince Charles but the real story of it was we had captured telephone conversations of famous people, no one had really heard telephone conversations like that broadcast on television before. So a media virus really is a way of nesting our culture, nesting our media space with new ideas by creating new and virulent forms of media.
 
 RM:
 
