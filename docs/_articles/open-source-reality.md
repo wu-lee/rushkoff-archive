@@ -94,27 +94,7 @@ But they don’t want to read. They don’t know what reading is, or they could 
 
 One time early on, I was invited to an advertising conference and when I got there and saw posters up saying, “How to Use Viruses in Marketing” and “The New Media Viral Strategy” and I realized that they had really taken what I saw as a counterculture tool, an activist tool, and turned it into a marketing tool. So a guy like Calvin Klein can make commercials where they look a little bit like kiddy porn and they know perfectly well those are going to get pulled off the air but they’re going to get more media coverage for having done those commercials than they could possibly buy with even the biggest advertising budget in the world.
 
-So they were actually very consciously using the kinds of techniques that I laid out
-
-for activist culture, but using them
-
-instead
-
-to spread marketing campaigns. So I was actually horrified at first and it
-
-was a dilemma. People thought,
-
-“Oh Rushkoff, all you did was give the advertisers all these hacktivist tools,” and I really started to think, “What side
-
-am I
-
-effectively
-
-on, anyway? Am I
-
-an unwitting
-
-double agent? Am I helping them?”
+So they were actually very consciously using the kinds of techniques that I laid out for activist culture, but using them instead to spread marketing campaigns. So I was actually horrified at first and it was a dilemma. People thought, “Oh Rushkoff, all you did was give the advertisers all these hacktivist tools,” and I really started to think, “What side am I effectively on, anyway? Am I an unwitting double agent? Am I helping them?”
 
 RM:
 
