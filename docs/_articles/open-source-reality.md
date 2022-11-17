@@ -100,45 +100,13 @@ RM: Knowing you the way that I do I would argue that you are probably more like 
 
 DR: Sure. Once I relaxed, I started realizing I could play with these people. I would get my check before I’d talk to them and then I could pretty much say whatever I wanted. So I went to the Leo Burnett advertising agency and they had me speak to 500 people in Chicago and I started the talk by saying, “The object of this talk for me is to get as many of you to quit the advertising industry as I can.” And I proceeded to explain how advertising was so coercive and why it wasn’t a good place for anyone who’s really interested in media and how they’re really sort of serfs to these corporations and I got like eight or ten emails after that talk saying, “I quit, I quit, I'm going to do something fun now.” I got off on that for a while, that they had let me in and now I can sow the seeds of discontent in their companies. But then what I started to realize was rather than getting them to quit, _what if I got them to change the style of what they’re doing?_ So then what I started to say was “Look, corporations don’t understand anything. If you’re dealing with Proctor and Gamble or a cigarette company, they just want to sell their stuff. They don’t understand marketing and they don’t understand media. They don’t understand the way ideas spread, so what if you think of these companies as sponsoring your media? You can make these little 30-second spots about whatever you want. You can make them about sex. You can make them about drugs. You can make them about media. You can make them about politics. _Just make them exciting_. Companies will love that: 'Oh, it’s exciting and controversial, people are talking about it.' Think of commercials as little miniature sponsored 30-second activist movies." And then you see the eyes light up and you see these people thinking, “I bet I can get Chevrolet to do something about that,” or whatever. So rather than thinking “Oh just quit, just leave this thing,” I was starting to think “Well these people are in a position of power. These people are at a high leverage point and if they can start using massive corporate money to create interesting media, you know, then power to them.”
 
+16 TeleCommunications, Inc., now AT&T Broadband.
+
 RM: Well, obviously, I feel very strongly that if the large corporations will give, you should grab.
 
 DR: Well right, _you did_, but the thing that most people don’t realize is that in large corporations, _there’s nobody home_. There’s nobody there. There’s nobody in charge. All a large corporation is is a set of commands. It’s like a very simple computer program and if you look at what that program is, you can hack it to do whatever you damn well please because there’s nobody in charge. Nobody understands. I mean that’s the beauty of it. Everyone’s upset about these giant media conglomerates, you know, with Viacom buying MTV and buying Paramount or AOL buying Time Warner. The bigger these machines get, the smaller their little brains are in comparison with the whole thing. It’s a giant media company that allows something like Beavis and Butthead or gangster rap to happen. And so I really take delight in how stupid corporations are.
 
-And I always say that
-
-ultimately there are these two things going on in the universe: there’s entropy and there’s life.
-
-Entropy is trying to make everyth
-
-ing dead and life is trying to make everything more complex and more interesting.
-
-And they’ve been kind of in this seeming battle, in this dance, over time
-
-.
-
-,
-
-B
-
-b
-
-ut life gets more complex, and life gets
-
-smarter over time, so life ends up winning. So you look
-
-at corporations and you look at all the means and all the
-
-things they have and yes, they seem to have power, but
-
-they don’t get smarter over time
-
-. If we think of ourselves,
-
-not even as activists, but as the only living, breathing, thinking elements in thi
-
-s mess, then we’re tremendously
-
-empowered to do whatever we want with it.
+Ultimately there are these two things going on in the universe: there’s entropy and there’s life. Entropy is trying to make everything dead and life is trying to make everything more complex and more interesting. And they’ve been kind of in this seeming battle, in this dance, over time. But life gets more complex, and life gets smarter over time, so life ends up winning. So you look at corporations and you look at all the means and all the things they have and yes, they seem to have power, but _they don’t get smarter over time_. If we think of ourselves, not even as activists, but as the only living, breathing, thinking elements in this mess, then we’re tremendously empowered to do whatever we want with it.
 
 RM:
 
