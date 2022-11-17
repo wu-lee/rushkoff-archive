@@ -84,27 +84,7 @@ RM: So then they invited you into their corporate boardrooms...
 
 DR: It was weird. I didn’t know whether companies were calling me in so that they could more easily dismiss what I was talking about or because they were actually afraid of what might be going on. At the very beginning, a European corporation would call me in and say, “What is this Internet? Do we need to be concerned?” An airline flew me to Europe and it was this big money thing so I'm like, “Wow, what does this airline want with me and the Internet?” They had me sign all these nondisclosures and stuff. They were all afraid, and they finally revealed the thing they were upset about was their pilots were about to go on strike and they had threatened to go online and start announcing in Usenet groups, this was before the Web even existed, they were going to announce in Usenet groups all the stories of the near misses that they had experienced over the last five years. And the company was asking, “How do we stop this from happening?” And I said “Well, you can’t stop this from happening.”
 
-They didn’t ask me the smart question which was “What can we do to counteract that?” and I wasn’t about to
-
-volunteer it. What they coul
-
-d have done to counteract that was put up their own near miss stories that
-
-weren’t true
-
-and then go on the news and pull them up and say, “Look this isn’t true.” Disinformation. Say “This didn’t happen,”
-
-and then in terms of the mainstream media it would n
-
-egate everything
-
-–
-
-even the true stories posted by the real
-
-pilots
-
-.
+They didn’t ask me the smart question which was “What can we do to counteract that?” and I wasn’t about to volunteer it. What they could have done to counteract that was put up their own near miss stories that _weren’t true_ and then go on the news and pull them up and say, “Look this isn’t true.” Disinformation. Say “This didn’t happen,” and then in terms of the mainstream media it would negate everything, even the true stories posted by the real pilots.
 
 So at first I was associated with this sort of
 
