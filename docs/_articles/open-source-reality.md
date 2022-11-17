@@ -90,13 +90,7 @@ So at first I was associated with this sort of _Mondo 2000_, rave culture, psych
 
 Then I realized that really, honestly, I _like_ people, even scared people, so my ambition really changed from tweaking people to trying to reduce people’s level of fear. Just letting this thing happen. This Internet counterculture. This is a beautiful thing; it’s going to unite people. It’s going to let people talk to each other. And I really saw my next two or three books, too, were about reducing people’s level of fear of change. The human species is undergoing radical change. The Internet is almost a test run for this change. I don’t think the Internet, in this sense, is such a major deal at all. The Internet is a way to practice what it is that we’re going to have to do for real, which is deal with privacy when we can all read each other’s thoughts, deal with a global community when we’re all realizing that we’re part of the same thing. The Internet is like a good, dry, safe way for scared white people to experience community again, after we’ve been so isolated through television. At the beginning when I went to corporations I wanted to have fun, I just was amazed that these people would even want to talk to me or that I could go to TCI¹⁶ or Pepsi-Cola and--I mean _me_--and I’d go in my tee-shirt and my jeans and walk in and be like, “What do you want to know?” I would literally say, “You know you could read my book. $19 and you can get way more than I could possibly give you in an hour of consultation.“
 
-But they don’t want to read. They don’t know what reading is, or they cou
-
-ld get an assistant to read it and give them
-
-a book report, but no, they want me in there to actually talk, because I guess there was this tradition of this idea of
-
-consultants.
+But they don’t want to read. They don’t know what reading is, or they could get an assistant to read it and give them a book report, but no, they want me in there to actually talk, because I guess there was this tradition of this idea of consultants.
 
 One time early on, I was invited to an advertising conference and when I got
 
