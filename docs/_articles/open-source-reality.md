@@ -110,27 +110,7 @@ Ultimately there are these two things going on in the universe: there’s entrop
 
 RM: These corporations see the profits from _South Park_, from Marilyn Manson records, from _The Matrix_, and they realize that they cannot make this kind of thing themselves and that they need to go to underground types in order to keep this cultural engine churning, so there is a real potential for mischief here.
 
-DR:
-
-Right, so as they keep looking for coal to stoke into the fire, all you have to do is toss a few good diamonds in there
-
-and they’ve ended up throwing the most virulent cultural material into mainstream media and that’s where you start
-
-having the fun. They’re desperate for anything. Anything that twinkles. They don’t realize that when they produce
-
-The Matrix
-
-movies, what th
-
-ey’re doing is producing stuff that’s saying, “This reality is a sham.” If all a corporation
-
-wants to do is make money and make compelling media and make things that people want to go to and spend
-
-money on, then they’re going to end up having to make, even
-
-by their shotgun approach, they’re going to have to
-
-make media that addresses our current cultural concerns.
+DR: Right, so as they keep looking for coal to stoke into the fire, all you have to do is toss a few good diamonds in there and they’ve ended up throwing the most virulent cultural material into mainstream media and that’s where you start having the fun. They’re desperate for anything. Anything that twinkles. They don’t realize that when they produce _The Matrix_ movies, what they’re doing is producing stuff that’s saying, “This reality is a sham.” If all a corporation wants to do is make money and make compelling media and make things that people want to go to and spend money on, then they’re going to end up having to make, even by their shotgun approach, they’re going to have to make media that addresses our current cultural concerns.
 
 And what our current cultural concerns are, are things like “What is going on here? We’ve all been hypnotized.”
 
