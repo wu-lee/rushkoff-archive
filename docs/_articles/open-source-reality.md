@@ -96,19 +96,7 @@ One time early on, I was invited to an advertising conference and when I got the
 
 So they were actually very consciously using the kinds of techniques that I laid out for activist culture, but using them instead to spread marketing campaigns. So I was actually horrified at first and it was a dilemma. People thought, “Oh Rushkoff, all you did was give the advertisers all these hacktivist tools,” and I really started to think, “What side am I effectively on, anyway? Am I an unwitting double agent? Am I helping them?”
 
-RM:
-
-Knowing you the
-
-way that I do I would argue that you are probably more like a Trojan horse smuggling subversive
-
-ideas into corporate boardrooms. When these corporations hire a consultant, they only expect that the consultant is
-
-going to tell them what they want to know. T
-
-hey don’t know exactly what it is they want, they just know that they
-
-expect you to tell them.
+RM: Knowing you the way that I do I would argue that you are probably more like a Trojan horse smuggling subversive ideas into corporate boardrooms. When these corporations hire a consultant, they only expect that the consultant is going to tell them what they want to know. They don’t know exactly what it is they want, they just know that they expect you to tell them.
 
 DR:
 
