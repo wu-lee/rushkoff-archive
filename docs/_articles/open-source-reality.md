@@ -112,37 +112,7 @@ RM: These corporations see the profits from _South Park_, from Marilyn Manson re
 
 DR: Right, so as they keep looking for coal to stoke into the fire, all you have to do is toss a few good diamonds in there and they’ve ended up throwing the most virulent cultural material into mainstream media and that’s where you start having the fun. They’re desperate for anything. Anything that twinkles. They don’t realize that when they produce _The Matrix_ movies, what they’re doing is producing stuff that’s saying, “This reality is a sham.” If all a corporation wants to do is make money and make compelling media and make things that people want to go to and spend money on, then they’re going to end up having to make, even by their shotgun approach, they’re going to have to make media that addresses our current cultural concerns.
 
-And what our current cultural concerns are, are things like “What is going on here? We’ve all been hypnotized.”
-
-People desperately want to
-
-wake u
-
-p
-
-, and
-
-South Park
-
-and
-
-The Matrix
-
-and Marilyn Manson, they wake people up to
-
-varying degrees
-
-.
-
-,
-
-so
-
-So
-
-the corporations, by supporting these kinds of media end up sowing the seeds of their own
-
-demise.
+And what our current cultural concerns are, are things like “What is going on here? We’ve all been hypnotized.” People desperately want to _wake up_, and _South Park_ and _The Matrix_ and Marilyn Manson, they wake people up to varying degrees. So the corporations, by supporting these kinds of media, end up sowing the seeds of their own demise.
 
 RM:
 
