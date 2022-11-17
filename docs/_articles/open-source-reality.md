@@ -108,27 +108,7 @@ DR: Well right, _you did_, but the thing that most people don’t realize is tha
 
 Ultimately there are these two things going on in the universe: there’s entropy and there’s life. Entropy is trying to make everything dead and life is trying to make everything more complex and more interesting. And they’ve been kind of in this seeming battle, in this dance, over time. But life gets more complex, and life gets smarter over time, so life ends up winning. So you look at corporations and you look at all the means and all the things they have and yes, they seem to have power, but _they don’t get smarter over time_. If we think of ourselves, not even as activists, but as the only living, breathing, thinking elements in this mess, then we’re tremendously empowered to do whatever we want with it.
 
-RM:
-
-These corporations see the profits from
-
-South Park
-
-, from Marilyn Manson records, from
-
-The Matrix
-
-, and they realize
-
-that they cannot make this kind of thing themselves and that t
-
-hey need to go to underground
-
-types
-
-in order to keep
-
-this cultural engine churning, so there is a real potential for mischief here.
+RM: These corporations see the profits from _South Park_, from Marilyn Manson records, from _The Matrix_, and they realize that they cannot make this kind of thing themselves and that they need to go to underground types in order to keep this cultural engine churning, so there is a real potential for mischief here.
 
 DR:
 
