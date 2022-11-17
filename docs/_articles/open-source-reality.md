@@ -92,23 +92,7 @@ Then I realized that really, honestly, I _like_ people, even scared people, so m
 
 But they don’t want to read. They don’t know what reading is, or they could get an assistant to read it and give them a book report, but no, they want me in there to actually talk, because I guess there was this tradition of this idea of consultants.
 
-One time early on, I was invited to an advertising conference and when I got
-
-there and saw posters up saying, “How
-
-to Use Viruses in Marketing” and “The New Media Viral Strategy” and I realized that they had really taken what I saw
-
-as a counterculture tool, an activist tool, and turned it into a marketing tool. So a guy like Calvin
-
-Klein can make
-
-commercials where they look a little bit like kiddy porn and they know perfectly well those are going to get pulled off
-
-the air but they’re going to get more media coverage for having done those commercials than they could possibly
-
-buy with
-
-even the biggest advertising budget in the world.
+One time early on, I was invited to an advertising conference and when I got there and saw posters up saying, “How to Use Viruses in Marketing” and “The New Media Viral Strategy” and I realized that they had really taken what I saw as a counterculture tool, an activist tool, and turned it into a marketing tool. So a guy like Calvin Klein can make commercials where they look a little bit like kiddy porn and they know perfectly well those are going to get pulled off the air but they’re going to get more media coverage for having done those commercials than they could possibly buy with even the biggest advertising budget in the world.
 
 So they were actually very consciously using the kinds of techniques that I laid out
 
