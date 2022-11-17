@@ -86,39 +86,7 @@ DR: It was weird. I didn’t know whether companies were calling me in so that t
 
 They didn’t ask me the smart question which was “What can we do to counteract that?” and I wasn’t about to volunteer it. What they could have done to counteract that was put up their own near miss stories that _weren’t true_ and then go on the news and pull them up and say, “Look this isn’t true.” Disinformation. Say “This didn’t happen,” and then in terms of the mainstream media it would negate everything, even the true stories posted by the real pilots.
 
-So at first I was associated with this sort of
-
-Mondo 2000
-
-, rave culture, psychedelic, sub
-
-\-
-
-cultural Internet thing, and it
-
-was companies wanting to know
-
-do we need to be worried about thi
-
-s?
-
-And
-
-,
-
-if so
-
-,
-
-what are we supposed to do about
-
-it
-
-? And I had a lot of fun. I was really, at that point, still psychedelic enough to feel like I was goofing, you know I'm
-
-just going to go in and goof on these people; imagine what Ken Kesey would have done
-
-in his Merry Prankster days.
+So at first I was associated with this sort of _Mondo 2000_, rave culture, psychedelic, sub-cultural Internet thing, and it was companies wanting to know _do we need to be worried about this?_ And, if so, _what are we supposed to do about it_? And I had a lot of fun. I was really, at that point, still psychedelic enough to feel like I was goofing, you know I'm just going to go in and goof on these people; imagine what Ken Kesey would have done in his Merry Prankster days.
 
 DR
 
