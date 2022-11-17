@@ -80,37 +80,9 @@ RM: Have you launched any media viruses yourself?
 
 DR: I guess the most important media virus I launched was the _Media Virus_ media virus itself. To launch the idea that ideas spread like viruses. That’s what got the people who run media and those corporate conglomerates a little bit scared because they were thinking, “We’re going to get infected with these _media viruses_,” you know, “What is this?” So it had kind of a scary ring to it, taking those two words and putting them together.
 
-RM:
+RM: So then they invited you into their corporate boardrooms...
 
-So then they invited you into their corporate boardrooms...
-
-DR:
-
-It was weird. I didn’t know whether companies were calling me in so that they could more easily dismiss what
-
-I was
-
-talking about or because they were actually afraid of what might be going on. At the very beginning, a European
-
-corporation would call me in and say, “What is this Internet? Do we need to be concerned?” An airline flew me to
-
-Europe and it was this bi
-
-g money thing so I'm like, “Wow, what does this airline want with me and the Internet?”
-
-They had me sign all these nondisclosures and stuff. They were all afraid, and they finally revealed the thing they
-
-were upset about was their pilots were about to go o
-
-n strike and they had threatened to go online and start
-
-announcing in Usenet groups, this was before the Web even existed, they were going to announce in Usenet groups
-
-all the stories of the near misses that they had experienced over the last five years. A
-
-nd the company was asking,
-
-“How do we stop this from happening?” And I said “Well, you can’t stop this from happening.”
+DR: It was weird. I didn’t know whether companies were calling me in so that they could more easily dismiss what I was talking about or because they were actually afraid of what might be going on. At the very beginning, a European corporation would call me in and say, “What is this Internet? Do we need to be concerned?” An airline flew me to Europe and it was this big money thing so I'm like, “Wow, what does this airline want with me and the Internet?” They had me sign all these nondisclosures and stuff. They were all afraid, and they finally revealed the thing they were upset about was their pilots were about to go on strike and they had threatened to go online and start announcing in Usenet groups, this was before the Web even existed, they were going to announce in Usenet groups all the stories of the near misses that they had experienced over the last five years. And the company was asking, “How do we stop this from happening?” And I said “Well, you can’t stop this from happening.”
 
 They didn’t ask me the smart question which was “What can we do to counteract that?” and I wasn’t about to
 
