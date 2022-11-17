@@ -114,23 +114,7 @@ DR: Right, so as they keep looking for coal to stoke into the fire, all you have
 
 And what our current cultural concerns are, are things like “What is going on here? We’ve all been hypnotized.” People desperately want to _wake up_, and _South Park_ and _The Matrix_ and Marilyn Manson, they wake people up to varying degrees. So the corporations, by supporting these kinds of media, end up sowing the seeds of their own demise.
 
-RM:
-
-These days Che Guevara might as well be Captain Crunc
-
-h or Ronald McDonald. That well known iconic portrait of
-
-him has now come to symbolize “rebellion” in advertising in some vague way for kids who probably have no idea
-
-who the guy was or who may mistake him for a member of
-
-Rage Against the Machine
-
-or a famo
-
-us skateboarder.
-
-Tell me how that happened.
+RM: These days Che Guevara might as well be Captain Crunch or Ronald McDonald. That well known iconic portrait of him has now come to symbolize “rebellion” in advertising in some vague way for kids who probably have no idea who the guy was or who may mistake him for a member of Rage Against the Machine or a famous skateboarder. Tell me how that happened.
 
 DR:
 
