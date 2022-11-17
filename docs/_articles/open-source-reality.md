@@ -68,77 +68,7 @@ RM: What’s a _media virus?_
 
 DR: A media virus is really any idea that uses the momentum of the media to spread itself. A biological virus is composed of genes: it is genetic code wrapped in a protective protein shell. It spreads successfully through the body because the body mistakes it for one of its own proteins, “Oh that’s me.” The body has proteins running all through it. The shell of the biological virus is protein and this sticky protein shell latches onto a cell of your body and then injects its code inside. Then that code, the genes formerly inside that virus, compete with the genes in your own cells for command of that cell. And if it wins it turns that cell into a factory to make more viruses , it just says, “Make me. Make me.”
 
-As the world got more and more wired up with cable television, fax machines and the Internet, it started to take on
-
-properties of a global nervous system
-
-–
-
-a biological organism
-
-.
-
-Certainly the m
-
-ost fun way and one of the easiest
-
-ways to spread an idea
-
-, or a strand of ‘thought code,’
-
-through
-
-the
-
-such an organismic
-
-media space was to wrap it in
-
-a shell
-
-, like a virus
-
-.
-
-Protect it and serve as a container for it to spread unrecognized through the medi
-
-a system.
-
-But
-
-instead of it being a protein shell, as it would be in a biological virus, you’d wrap it in a media shell. All that means is
-
-creating a shell, a form of media that people haven't seen before. Something
-
-“sticky enough” to
-
-that just gets
-
-get
-
-peo
-
-ple’s attention, so that it spreads throughout the system.
-
-“Hey, check this out!” The media loves media
-
-–
-
-the
-
-news loves stories about the news.
-
-The video tape of Rodney King getting beaten by white cops in Los Angeles that
-
-spread around the world overnig
-
-ht: it spread not because white guys were beating on a black guy, it spread because
-
-no one had captured this on a camcorder before. The original story of the Rodney King tape was “My God, look what
-
-someone captured on their camcorder.” People don’t remembe
-
-r it that way anymore, but it’s true.
+As the world got more and more wired up with cable television, fax machines and the Internet, it started to take on properties of a global nervous system: biological organism. Certainly the most fun way and one of the easiest ways to spread an idea, or a strand of "thought code," through such an organismic media space was to wrap it in a shell, like a virus, protect it and serve as a container for it to spread unrecognized through the media system. But instead of it being a protein shell, as it would be in a biological virus, you’d wrap it in a media shell. All that means is creating a shell, a form of media that people haven't seen before. Something “sticky enough” to get people’s attention, so that it spreads throughout the system. “Hey, check this out!” The media loves media; the news loves stories about the news. The video tape of Rodney King getting beaten by white cops in Los Angeles that spread around the world overnight: it spread not because white guys were beating on a black guy, it spread because no one had captured this on a camcorder before. The original story of the Rodney King tape was “My God, look what someone captured on their camcorder.” People don’t remember it that way anymore, but it’s true.
 
 DR
 
