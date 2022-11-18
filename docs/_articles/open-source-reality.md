@@ -138,37 +138,9 @@ I look at something like people file-sharing MP3s and I think it’s not really 
 
 I've always thought that the purpose of the media properties we create were excuses for people to have something to exchange socially. I also originally thought that the Internet was going to be this place where everyone expressed who they really are, and thought everyone’s going to make their own media and all that, but frankly most people _don’t_ feel like making their own media. Most people are _not_ artists. Most people are _not_ media creators and they would rather actually create a fan site to Britney Spears where they collect all of the social currency that has to do with Britney Spears and assemble it all in one place and then they get popular and they feel good because they are purveyors of that stuff. If you look at a lot of so-called musicians today, they’re really deejays and what are deejays but surrogate consumers, people who know what are the good sounds, what are the good tracks, and they play their record collection for us. So those records become social currency for that deejay to become popular in his crowd. That’s the function that media often plays, but it’s being devalued.
 
-RM:
+RM: It feels like we’re being screamed at by idiots to me.
 
-It feels like we’re being screamed at by idiots to me.
-
-DR:
-
-You keep saying, “This horrible media is being shoved down our throats. Every time I
-
-turn on the TV I see this
-
-horrible thing.” Well if every time you turn on the TV you see this horrible thing
-
-then stop turning on the TV
-
-. It’s like
-
-my Tai Chi teacher used to
-
-say
-
-teach us.
-
-,
-
-I’d say, “When I move my knee like this is really hurts,” and she
-
-would say,
-
-“Well then don’t move your knee that way.”
-
-If the stuff on TV is crap then stop watching it.
+DR: You keep saying, “This horrible media is being shoved down our throats. Every time I turn on the TV I see this horrible thing.” Well if every time you turn on the TV you see this horrible thing _then stop turning on the TV_. It’s like my Tai Chi teacher used to teach us. I’d say, “When I move my knee like this it really hurts,” and she would say, “Well then don’t move your knee that way.” _If the stuff on TV is crap then stop watching it._
 
 RM:
 
