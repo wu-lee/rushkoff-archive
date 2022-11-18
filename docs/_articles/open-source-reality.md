@@ -120,23 +120,7 @@ DR: Corporate America is embracing counterculture because they’ve found that a
 
 The better idea is to find out what do we have in common? The idea is to find out: how do I get closer to these other people? How do I transact with them on a level that’s deeper than just me buying jeans from you, you know? When do we get down to the nitty gritty of actually being involved with each other?
 
-The amazing thing about corporate America and the relationship with the counterculture is that things that used to
-
-represent a person’s distance from corporations now almost represent their attachment to it. In the old days you
-
-used to be able to have
-
-a couple of tattoos and a piercing and that meant you’re not part of the society; you’re
-
-different; you’re dangerous. The people working in the corporations have them now and it’s a style statement to have
-
-a tattoo under your Prada T
-
-\-
-
-shirt or a piercing wi
-
-th your Donna Karan sports coat.
+The amazing thing about corporate America and the relationship with the counterculture is that things that used to represent a person’s distance from corporations now almost represent their attachment to it. In the old days you used to be able to have a couple of tattoos and a piercing and that meant you’re not part of the society; you’re different; you’re dangerous. The people working in the corporations have them now and it’s a style statement to have a tattoo under your Prada tee-shirt or a piercing with your Donna Karan sports coat.
 
 This desperate need of counterculture
 
