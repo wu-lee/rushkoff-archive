@@ -142,29 +142,9 @@ RM: It feels like we’re being screamed at by idiots to me.
 
 DR: You keep saying, “This horrible media is being shoved down our throats. Every time I turn on the TV I see this horrible thing.” Well if every time you turn on the TV you see this horrible thing _then stop turning on the TV_. It’s like my Tai Chi teacher used to teach us. I’d say, “When I move my knee like this it really hurts,” and she would say, “Well then don’t move your knee that way.” _If the stuff on TV is crap then stop watching it._
 
-RM:
+RM: Yeah, “This smells like shit. Smell this.”
 
-Yeah, “This smells like shit. Smell this.”
-
-DR:
-
-Formatted
-
-DR
-
-8
-
-(Laughs) Exactly, exactly, and look somewhere else for it because somewhere there are people who ar
-
-e doing
-
-something that’s interesting and if the stuff being directed at 14
-
-\-
-
-year old girls is not interesting to you, then look for
-
-something else.
+DR: (Laughs) Exactly, exactly, and look somewhere else for it because somewhere there are people who are doing something that’s interesting and if the stuff being directed at 14-year old girls is not interesting to you, then look for something else.
 
 RM:
 
