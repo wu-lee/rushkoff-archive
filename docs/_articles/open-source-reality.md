@@ -122,19 +122,7 @@ The better idea is to find out what do we have in common? The idea is to find ou
 
 The amazing thing about corporate America and the relationship with the counterculture is that things that used to represent a person’s distance from corporations now almost represent their attachment to it. In the old days you used to be able to have a couple of tattoos and a piercing and that meant you’re not part of the society; you’re different; you’re dangerous. The people working in the corporations have them now and it’s a style statement to have a tattoo under your Prada tee-shirt or a piercing with your Donna Karan sports coat.
 
-This desperate need of counterculture
-
-\-
-
-type people to say, “No, we’re not part of this thing,” well the only way they
-
-can do it is by going into cults, basically, Heaven’s Gate or Waco or something like that. They’re the
-
-closest things to
-
-a counterculture we’ve got today because they’re the ones who are, by whatever means necessary, maintaining
-
-their separateness.
+This desperate need of counterculture-type people to say, “No, we’re not part of this thing,” well the only way they can do it is by going into cults, basically, Heaven’s Gate or Waco or something like that. They’re the closest things to a counterculture we’ve got today because they’re the ones who are, by whatever means necessary, maintaining their separateness.
 
 RM:
 
