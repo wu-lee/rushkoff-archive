@@ -136,45 +136,7 @@ DR: Well there’s certainly reality left, but I’ve always looked at media as 
 
 I look at something like people file-sharing MP3s and I think it’s not really a good thing. The reason why everyone trades all these little MP3s is because the recording industry basically fucked us over when they went from regular LPs to CDs and charged 14 bucks a pop when it was actually cheaper for them to make. A revolt like what people are doing was bound to happen, but in some sense having all the music out there and all the music free, everything you want, is much less interesting than going to the record store and picking out a record. In a way it takes the joy out of it and it reduces music’s value as social currency because now it’s no longer like when we were kids, “Danny has the new Sex Pistols album, we’re all going to go over his house and listen to it;” now it’s emailed back and forth and then what are you going to do? You listen to it while you work or you listen to it while you go on Amazon and buy something else.
 
-I've always thought that the purpose of the media properties we create were excuses for people to have something
-
-to exchange socially. I also originally thought that the Internet was going to be this place where everyone expressed
-
-who they really are, and thought everyone’s going to make their own media and all that, but frankly most people
-
-don’t
-
-feel like making their own media. Most people are
-
-not
-
-artists. Most people are
-
-not
-
-media creators and they
-
-would rather actually create a
-
-fan site to Britney Spears where they collect all of the social currency that has to do
-
-with Britney Spears and assemble it all in one place and then they get popular and they feel good because they are
-
-purveyors of that stuff. If you look at a lot of so
-
-\-
-
-c
-
-alled musicians today, they’re really deejays and what are deejays
-
-but surrogate consumers, people who know what are the good sounds, what are the good tracks, and they play their
-
-record collection for us. So those records become social currency for that d
-
-eejay to become popular in his crowd.
-
-That’s the function that media often plays, but it’s being devalued.
+I've always thought that the purpose of the media properties we create were excuses for people to have something to exchange socially. I also originally thought that the Internet was going to be this place where everyone expressed who they really are, and thought everyone’s going to make their own media and all that, but frankly most people _don’t_ feel like making their own media. Most people are _not_ artists. Most people are _not_ media creators and they would rather actually create a fan site to Britney Spears where they collect all of the social currency that has to do with Britney Spears and assemble it all in one place and then they get popular and they feel good because they are purveyors of that stuff. If you look at a lot of so-called musicians today, they’re really deejays and what are deejays but surrogate consumers, people who know what are the good sounds, what are the good tracks, and they play their record collection for us. So those records become social currency for that deejay to become popular in his crowd. That’s the function that media often plays, but it’s being devalued.
 
 RM:
 
