@@ -134,35 +134,7 @@ RM: It’s a bigger game than all that, I agree. With the amount of media that i
 
 DR: Well there’s certainly reality left, but I’ve always looked at media as something I call _social currency_, in other words: people don’t buy records in order to have the record, just in order to have that music; people buy records in order to have an excuse for someone else to come over to their house and visit them. People watch a movie so that they can talk to their friends who have also seen that same movie. It’s not the experience of the media itself as much as the way that that media can act as social currency for other interactions. Where it gets dangerous is when we’re just consuming media and have no time to actually relate about it.
 
-I look at something like people file
-
-\-
-
-sharing MP3s and I think it’s not really a good thing. The reason why everyone
-
-trades all these little MP3s is becau
-
-se the recording industry basically fucked us over when they went from regular
-
-LPs to CDs and charged 14 bucks a pop when it was actually cheaper for them to make. A revolt like what people
-
-are doing was bound to happen, but in some sense having all the mu
-
-sic out there and all the music free, everything
-
-you want, is much less interesting than going to the record store and picking out a record. In a way it takes the joy
-
-out of it and it reduces music’s value as social currency because now it’s no longer like
-
-when we were kids, “Danny
-
-has the new Sex Pistols album, we’re all going to go over his house and listen to it,” now it’s emailed back and forth
-
-and then what are you going to do? You listen to it while you work or you listen to it while you go on Amazon
-
-and buy
-
-something else.
+I look at something like people file-sharing MP3s and I think it’s not really a good thing. The reason why everyone trades all these little MP3s is because the recording industry basically fucked us over when they went from regular LPs to CDs and charged 14 bucks a pop when it was actually cheaper for them to make. A revolt like what people are doing was bound to happen, but in some sense having all the music out there and all the music free, everything you want, is much less interesting than going to the record store and picking out a record. In a way it takes the joy out of it and it reduces music’s value as social currency because now it’s no longer like when we were kids, “Danny has the new Sex Pistols album, we’re all going to go over his house and listen to it;” now it’s emailed back and forth and then what are you going to do? You listen to it while you work or you listen to it while you go on Amazon and buy something else.
 
 I've always thought that the purpose of the media properties we create were excuses for people to have something
 
