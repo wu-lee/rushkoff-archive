@@ -132,37 +132,7 @@ But remember that anything that the more vaguely defined counterculture does tha
 
 RM: It’s a bigger game than all that, I agree. With the amount of media that is being hurled at the average American today and this so called “reality” TV programming, are we becoming an over-mediated spectator society, and is there anything even resembling “reality”--as it used to be defined--left in American life?
 
-DR:
-
-Well there’s certainly reality left,
-
-but I’ve always looked at media as something I call
-
-social currency
-
-, in other words:
-
-people don’t buy records in order to have the record
-
-\--
-
-just in order to have that music
-
-\--
-
-people buy records in order
-
-to have an excuse for someone else to come over to t
-
-heir house and visit them. People watch a movie so that they
-
-can talk to their friends who have also seen that same movie. It’s not the experience of the media itself as much as
-
-the way that that media can act as social currency for other interactions. Whe
-
-re it gets dangerous is when we’re just
-
-consuming media and have no time to actually relate about it.
+DR: Well there’s certainly reality left, but I’ve always looked at media as something I call _social currency_, in other words: people don’t buy records in order to have the record, just in order to have that music; people buy records in order to have an excuse for someone else to come over to their house and visit them. People watch a movie so that they can talk to their friends who have also seen that same movie. It’s not the experience of the media itself as much as the way that that media can act as social currency for other interactions. Where it gets dangerous is when we’re just consuming media and have no time to actually relate about it.
 
 I look at something like people file
 
