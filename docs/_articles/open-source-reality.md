@@ -130,27 +130,7 @@ DR: Right and they’re the valid counterculture because they’ve found ways to
 
 But remember that anything that the more vaguely defined counterculture does that catches on with kids is immediately scooped up by corporations and sold back to us. In some sense, I think that rather than trying to avoid that co-option, what we have to do is play with that co-option. If corporations are going to co-opt everything we do, then let’s have them co-opt some really cool, dangerous, weird stuff. Let’s have them co-opt homosexuality. Let’s have them co-opt psychedelic drugs and designer reality. Magick. Spirituality. Let’s have them co-opt environmentalism. Let’s use our imaginations instead of complaining about people who sell out! Don’t sell out, sell _in_.
 
-RM:
-
-It’s a bigger game than all that, I agree. With the amount of media that is being hurled at the avera
-
-ge American
-
-today and this so called “reality” TV programming, are we becoming an over
-
-\-
-
-mediated spectator society, and is
-
-there anything even resembling “reality”
-
-\--
-
-as it used to be defined
-
-\--
-
-left in American life?
+RM: It’s a bigger game than all that, I agree. With the amount of media that is being hurled at the average American today and this so called “reality” TV programming, are we becoming an over-mediated spectator society, and is there anything even resembling “reality”--as it used to be defined--left in American life?
 
 DR:
 
