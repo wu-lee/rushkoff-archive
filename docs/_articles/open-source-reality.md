@@ -128,65 +128,7 @@ RM: I agree. I think there’s a good argument that cults and alternative religi
 
 DR: Right and they’re the valid counterculture because they’ve found ways to insulate themselves and to isolate themselves. They formed pods that are distinct from the rest of culture and part of the premise is that it’s an us versus them world we’re living in. They don’t ever get absorbed, but they usually die or suffer for their resistance. And their methods of separation are usually pretty damaging to their members' ability to exercise any true autonomy.
 
-But remember tha
-
-t anything that the
-
-more
-
-vaguely defined counterculture does that catches on with kids is
-
-immediately scooped up by corporations and sold back to us. In some sense, I think that rather than trying to avoid
-
-that co
-
-\-
-
-option, what we have to do is play with th
-
-at co
-
-\-
-
-option. If corporations are going to co
-
-\-
-
-opt everything we do,
-
-then let’s have them co
-
-\-
-
-opt some really cool, dangerous, weird stuff. Let’s have them co
-
-\-
-
-opt homosexuality. Let’s
-
-have them co
-
-\-
-
-opt psychedelic drugs and designer reality. Magick. Spiritual
-
-ity. Let’s have them co
-
-\-
-
-opt
-
-environmentalism. Let’s use our imaginations instead of complaining about people who sell out!
-
-Don’t sell out
-
-–
-
-sell
-
-in
-
-.
+But remember that anything that the more vaguely defined counterculture does that catches on with kids is immediately scooped up by corporations and sold back to us. In some sense, I think that rather than trying to avoid that co-option, what we have to do is play with that co-option. If corporations are going to co-opt everything we do, then let’s have them co-opt some really cool, dangerous, weird stuff. Let’s have them co-opt homosexuality. Let’s have them co-opt psychedelic drugs and designer reality. Magick. Spirituality. Let’s have them co-opt environmentalism. Let’s use our imaginations instead of complaining about people who sell out! Don’t sell out, sell _in_.
 
 RM:
 
