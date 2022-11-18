@@ -148,73 +148,7 @@ DR: (Laughs) Exactly, exactly, and look somewhere else for it because somewhere 
 
 RM: You were very close friends with Timothy Leary and he’s now dead. Terrence McKenna’s dead. William Burroughs is dead. Allen Ginsberg is dead. Do you feel in any way that you are continuing on in that sort of counterculture lineage?
 
-DR:
-
-Well,
-
-yes
-
-, in the sense that the torch was passed, you know, and that Leary, who was the closest to me of all those
-
-people,
-
-he read my books and said “Wow, Doug, you really are continuing this thing.” In a sense that felt great and
-
-then in a sense it was just a great big ego trap. The place I feel that the most is when I’ll talk at something like at
-
-your event, like at the Di
-
-sinfo.con, to a thousand people, most of whom are ten or 15 years younger than me, and I
-
-realize that even though I don’t necessarily know anything more than them and even though I don’t have any more
-
-answers than they do, they are looking up at me as some
-
-one to tell them
-
-where do we go
-
-and
-
-what do we do
-
-? I
-
-think it would be flip and foolish of me to deny some sense of responsibility in that and just say, “Oh, follow your
-
-hearts and follow your bliss.” At a certain point there is some responsibility that th
-
-at comes with the territory. When
-
-I’m trying to tell people to trust themselves, to trust their impulses and trying to wake people up to use their time on
-
-Earth wisely, the fact that I may have ten or 15 years more experience in this and that I’ve been gif
-
-ted with the
-
-opportunity of getting to have the most outrageous experiences I could have, or of getting to sit and think about the
-
-most intense things and then share my conclusions with people,
-
-means something
-
-. I am paid to journey
-
-to
-
-places
-
-that some peop
-
-le don’t go and to report my findings and to help cast some light on these areas. That’s what any
-
-artist does to a certain extent, but as someone who’s frequently in the media and standing at podiums and talking to
-
-people, yes, I do take it seriously and i
-
-t’s no longer enough for me to do what I used to do which is just say, “Hey all
-
-that stuff is crap. Don’t listen to this, don’t listen to that.”
+DR: Well, _yes_, in the sense that the torch was passed, you know, and that Leary, who was the closest to me of all those people, he read my books and said “Wow, Doug, you really are continuing this thing.” In a sense that felt great and then in a sense it was just a great big ego trap. The place I feel that the most is when I’ll talk at something like at your event, like at the Disinfo.con, to a thousand people, most of whom are ten or 15 years younger than me, and I realize that even though I don’t necessarily know anything more than them and even though I don’t have any more answers than they do, they are looking up at me as someone to tell them _where do we go_ and _what do we do_? I think it would be flip and foolish of me to deny some sense of responsibility in that and just say, “Oh, follow your hearts and follow your bliss.” At a certain point there is some responsibility that comes with the territory. When I’m trying to tell people to trust themselves, to trust their impulses and trying to wake people up to use their time on Earth wisely, the fact that I may have ten or 15 years more experience in this and that I’ve been gifted with the opportunity of getting to have the most outrageous experiences I could have, or of getting to sit and think about the most intense things and then share my conclusions with people, _means something_. I am paid to journey to places that most people don’t go and to report my findings and to help cast some light on these areas. That’s what any artist does to a certain extent, but as someone who’s frequently in the media and standing at podiums and talking to people, yes, I do take it seriously and it’s no longer enough for me to do what I used to do which is just say, “Hey all that stuff is crap. Don’t listen to this, don’t listen to that.”
 
 I think it is incumbent upon me, and others in my position, to ask, “Well then, what
 
