@@ -116,19 +116,7 @@ And what our current cultural concerns are, are things like “What is going on 
 
 RM: These days Che Guevara might as well be Captain Crunch or Ronald McDonald. That well known iconic portrait of him has now come to symbolize “rebellion” in advertising in some vague way for kids who probably have no idea who the guy was or who may mistake him for a member of Rage Against the Machine or a famous skateboarder. Tell me how that happened.
 
-DR:
-
-Corporate America is embracing counterculture because they’ve found that a new way to sell us more stuff is to
-
-endorse the strident individualism of the early counterculture, and I think that the strident in
-
-dividualism that all this
-
-consumption promises is actually a booby prize.
-
-They want us to think of ourselves as individuals so that we buy
-
-more things; so that we don’t share our toys with one another.
+DR: Corporate America is embracing counterculture because they’ve found that a new way to sell us more stuff is to endorse the strident individualism of the early counterculture, and I think that the strident individualism that all this consumption promises is actually a booby prize. They want us to think of ourselves as individuals so that we buy more things; so that we don’t share our toys with one another.
 
 The
 
