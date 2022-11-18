@@ -118,25 +118,7 @@ RM: These days Che Guevara might as well be Captain Crunch or Ronald McDonald. T
 
 DR: Corporate America is embracing counterculture because they’ve found that a new way to sell us more stuff is to endorse the strident individualism of the early counterculture, and I think that the strident individualism that all this consumption promises is actually a booby prize. They want us to think of ourselves as individuals so that we buy more things; so that we don’t share our toys with one another.
 
-The
-
-better
-
-idea is to find out what do we have in co
-
-mmon
-
-.
-
-?
-
-The idea is to find out: How do I get closer to these other
-
-people? How do I transact with them on a level that’s deeper than just me buying jeans from you, you know? When
-
-do we get down to the nitty gritty of actually being involved with each othe
-
-r?
+The better idea is to find out what do we have in common? The idea is to find out: how do I get closer to these other people? How do I transact with them on a level that’s deeper than just me buying jeans from you, you know? When do we get down to the nitty gritty of actually being involved with each other?
 
 The amazing thing about corporate America and the relationship with the counterculture is that things that used to
 
