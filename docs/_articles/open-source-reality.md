@@ -150,26 +150,4 @@ RM: You were very close friends with Timothy Leary and he’s now dead. Terrence
 
 DR: Well, _yes_, in the sense that the torch was passed, you know, and that Leary, who was the closest to me of all those people, he read my books and said “Wow, Doug, you really are continuing this thing.” In a sense that felt great and then in a sense it was just a great big ego trap. The place I feel that the most is when I’ll talk at something like at your event, like at the Disinfo.con, to a thousand people, most of whom are ten or 15 years younger than me, and I realize that even though I don’t necessarily know anything more than them and even though I don’t have any more answers than they do, they are looking up at me as someone to tell them _where do we go_ and _what do we do_? I think it would be flip and foolish of me to deny some sense of responsibility in that and just say, “Oh, follow your hearts and follow your bliss.” At a certain point there is some responsibility that comes with the territory. When I’m trying to tell people to trust themselves, to trust their impulses and trying to wake people up to use their time on Earth wisely, the fact that I may have ten or 15 years more experience in this and that I’ve been gifted with the opportunity of getting to have the most outrageous experiences I could have, or of getting to sit and think about the most intense things and then share my conclusions with people, _means something_. I am paid to journey to places that most people don’t go and to report my findings and to help cast some light on these areas. That’s what any artist does to a certain extent, but as someone who’s frequently in the media and standing at podiums and talking to people, yes, I do take it seriously and it’s no longer enough for me to do what I used to do which is just say, “Hey all that stuff is crap. Don’t listen to this, don’t listen to that.”
 
-I think it is incumbent upon me, and others in my position, to ask, “Well then, what
-
-do
-
-we do?” I'm no prophet
-
-. I’m no
-
-Leary. I'm no Terence McKenna. I don’t see the future and I can’t tell people where it’s going and what they should
-
-do, but I can give my most considered and responsible responses to their questions and I can use the fact that I
-
-have the time to c
-
-onsider it, the means to consider it, and I've been so privileged to get educated enough to have
-
-some of the tools I need to think about these things
-
-.
-
-and
-
-I’m sure as hell am going to give the best answer I can.
+I think it is incumbent upon me, and others in my position, to ask, “Well then, what _do_ we do?” I'm no prophet. I’m no Leary. I'm no Terence McKenna. I don’t see the future and I can’t tell people where it’s going and what they should do, but I can give my most considered and responsible responses to their questions. I can use the fact that I have the time to consider it, the means to consider it, and I've been so privileged to get educated enough to have some of the tools I need to think about these things and I’m sure as hell going to give the best answer I can.
