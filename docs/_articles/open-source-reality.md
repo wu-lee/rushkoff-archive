@@ -124,45 +124,9 @@ The amazing thing about corporate America and the relationship with the counterc
 
 This desperate need of counterculture-type people to say, “No, we’re not part of this thing,” well the only way they can do it is by going into cults, basically, Heaven’s Gate or Waco or something like that. They’re the closest things to a counterculture we’ve got today because they’re the ones who are, by whatever means necessary, maintaining their separateness.
 
-RM:
+RM: I agree. I think there’s a good argument that cults and alternative religions are the only valid counterculture in America today.
 
-DR
-
-7
-
-I agree. I think there’s a good argument that cults and alternative religions are the only valid counterc
-
-ulture in
-
-America today.
-
-DR:
-
-Right and they’re the valid counterculture because they’ve found ways to insulate themselves and to isolate
-
-themselves. They formed pods that are distinct from the rest of culture and part of the
-
-idea
-
-premise
-
-is that it’s an
-
-us
-
-vs. them
-
-idea
-
-world we’re living in
-
-.
-
-They don’t ever get absorbed, but they usually die or suffer for their resistance.
-
-And their methods of separation are usually pretty damaging to their members
-
-’ ability to exercise any true autonomy.
+DR: Right and they’re the valid counterculture because they’ve found ways to insulate themselves and to isolate themselves. They formed pods that are distinct from the rest of culture and part of the premise is that it’s an us versus them world we’re living in. They don’t ever get absorbed, but they usually die or suffer for their resistance. And their methods of separation are usually pretty damaging to their members' ability to exercise any true autonomy.
 
 But remember tha
 
