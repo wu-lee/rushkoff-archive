@@ -146,15 +146,7 @@ RM: Yeah, “This smells like shit. Smell this.”
 
 DR: (Laughs) Exactly, exactly, and look somewhere else for it because somewhere there are people who are doing something that’s interesting and if the stuff being directed at 14-year old girls is not interesting to you, then look for something else.
 
-RM:
-
-You were very close friends with Timothy Leary and he’s now dead. Terrence McKenna’s dead. William Burro
-
-ughs is
-
-dead. Allen Ginsberg is dead. Do you feel in any way that you are continuing on in that sort of counterculture
-
-lineage?
+RM: You were very close friends with Timothy Leary and he’s now dead. Terrence McKenna’s dead. William Burroughs is dead. Allen Ginsberg is dead. Do you feel in any way that you are continuing on in that sort of counterculture lineage?
 
 DR:
 
