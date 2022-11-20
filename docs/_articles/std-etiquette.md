@@ -23,29 +23,7 @@ I rested my head between her breasts, to assure her of my sustained interest in 
 
 "Are you familiar with venereal warts?"
 
-I learned that my lover-to-be had just been treated for
-
-two minuscule and probably viral lesions on her-labia.
-
-They might grow back, but they probably wouldn't, and
-
-they're not really contagious, especially through a rubber, when they're not showing, which-having been
-
-2sexE 139
-
-C\\
-
-\\
-
-"l
-
-\-.:1'
-
-\--., ·--::; "JC C;
-
-re1noved-they weren't. She'd know after some tests in
-
-a few weeks. Or something like that.
+I learned that my lover-to-be had just been treated for two minuscule and probably viral lesions on her labia. They might grow back, but they probably wouldn't, and they're not really contagious, especially through a rubber, when they're not showing, which--having been removed--they weren't. She'd know after some tests in a few weeks. Or something like that.
 
 I tried to be cool. My hermetically sealed suburba\~
 
