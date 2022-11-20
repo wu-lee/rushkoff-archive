@@ -14,19 +14,7 @@ published: false
 Are you having a good time yet?  
 a tip from Douglas Rushkoff
 
-Chances are, if you're reading this book you will
-
-never have to worry about finding your next meal or
-
-getting a roof over your head. And if your survival
-
-needs are taken care of, then the rest is about fun.
-
-Play. Self-actualisation. Even if you decide to go to
-
-Africa to help feed the starving - for them it's survival,
-
-but for you it's fun.
+Chances are, if you're reading this book you will never have to worry about finding your next meal or getting a roof over your head. And if your survival needs are taken care of, then the rest is about fun. Play. Self-actualisation. Even if you decide to go to Africa to help feed the starving - for them it's survival, but for you it's fun.
 
 No matter how terrible things are, or how little time
 
