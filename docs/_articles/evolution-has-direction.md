@@ -8,7 +8,6 @@ blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-published: false
 
 ---
 Though I can't prove it more than anecdotally or experientially, I believe that evolution has purpose and direction. To me it seems obvious, if absolutely unconfirmable, that matter is groping toward complexity. True enough, stresses and threats, ranging from time and friction to decomposition and predators, require objects and life-forms to achieve some measure of durability in order to sustain themselves. But this ability to surviveseems to me more a means to an end than an end in itself.
