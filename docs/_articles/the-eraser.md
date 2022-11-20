@@ -8,7 +8,6 @@ blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-published: false
 
 ---
 The eraser. As well as the delete key, correction fluid, the constitutional amendment, and all the other tools that let us go back and fix our mistakes.
