@@ -25,13 +25,7 @@ I rested my head between her breasts, to assure her of my sustained interest in 
 
 I learned that my lover-to-be had just been treated for two minuscule and probably viral lesions on her labia. They might grow back, but they probably wouldn't, and they're not really contagious, especially through a rubber, when they're not showing, which--having been removed--they weren't. She'd know after some tests in a few weeks. Or something like that.
 
-I tried to be cool. My hermetically sealed suburba\~
-
-Jewish upbringing has left me somewhat germophobtc
-
-(my mom still travels with a bottle of Lysol), but I've managed to contain my lingering obsession to bathroom
-
-hygiene and chicken preparation.
+I tried to be cool. My hermetically sealed suburban Jewish upbringing has left me somewhat germophobic (my mom still travels with a bottle of Lysol), but I've managed to contain my lingering obsession to bathroom hygiene and chicken preparation.
 
 "It sounds like it's cured," I said. I didn't want her
 
