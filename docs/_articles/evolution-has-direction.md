@@ -21,6 +21,4 @@ It's important to recognize that evolution at its best is a team sport. As Darwi
 
 If we could stop thinking of 'meaning' and 'purpose' as artifacts of some divine creative act and see them instead as the yield of our own creative future, they become goals, intentions, and processes very much in reach rather than the shadows of childlike, superstitious mythology.
 
-T\~e proof is i\~possible, since this is an unfolding story. Like
-
-reaching the honzon, arrival merely necessitates more travel.
+The proof is impossible, since this is an unfolding story. Like reaching the horizon, arrival merely necessitates more travel.
