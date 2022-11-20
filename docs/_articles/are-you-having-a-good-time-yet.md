@@ -8,7 +8,6 @@ blurb: ''
 notes: 2001 from CV
 refs: ''
 sources: ''
-published: false
 
 ---
 Are you having a good time yet?  
