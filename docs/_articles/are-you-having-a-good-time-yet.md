@@ -18,18 +18,4 @@ Chances are, if you're reading this book you will never have to worry about find
 
 No matter how terrible things are, or how little time you might have left, there's no good reason not to start having as much fun as possible, right now.
 
-D I . our deathbed,
-
-oug as Rushkoff adds: Some day, you're going to die And when you're lymg there on Y earned , I k . . h ey you '
-
-you won t 00 back on your bfe and count how much you accomplished, how muc mon, l . d- boW
-
-or even how you'll be remembered. The only thing that will matter is how much fun you ve
-
-1
-
-a
-
-much true d · · fi · t' • eep, mttmate un. So, ask yourself: Are you having a good ttme ye ·
-
-300
+_Douglas Rushkoff adds_: Some day, you're going to die. And when you're lying there on your deathbed, you won't look back on your life and count how much you accomplished, how much money you earned or even how you'll be remembered. The only thing that will matter is how much fun you've had - how much true, deep, intimate fun. So, ask yourself: Are you having a good time yet?
