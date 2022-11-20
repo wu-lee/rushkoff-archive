@@ -17,21 +17,7 @@ Theology goes a long way toward imbuing substance and processes with meaning - d
 
 It's also hard for people to contend with the likely possibility that we are simply overadvanced fungi and bacteria hurtling through a galaxy in cold, meaningless space. But just because our existence may have arisen unintentionally and without purpose doesn't preclude meaning or purpose from emerging as a result of our interaction and collaboration. Meaning may not be a precondition for humanity as much as a by-product of it.
 
-Ir>s important to recognize that cvolut1on at its best 1s a team
-
-sport. As Darwin,s later, lesser known but more important
-
-works contend, survival of the fittest is a law that applies not as
-
-much to individuals as to groups. Likewise, most great leaps for-
-
-ward in human civilization, from the formation of clans to the
-
-building of cities, have been feats of collaborative effort.
-
-Increased survival rates are as much a happy side effect of good
-
-collaboration as its purpose.
+It's important to recognize that evolution at its best is a team sport. As Darwin's later, lesser known but more important works contend, survival of the fittest is a law that applies not as much to individuals as to groups. Likewise, most great leaps forward in human civilization, from the formation of clans to the building of cities, have been feats of collaborative effort. Increased survival rates are as much a happy side effect of good collaboration as its purpose.
 
 If we could stop thinking of 'meaning' and 'purpose' as arti-
 
