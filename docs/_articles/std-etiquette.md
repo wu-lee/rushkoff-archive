@@ -17,17 +17,9 @@ I was working my way up her thigh with my lips, just managing to get my tongue b
 
 The touch didn't say "stop," exactly But it definitely wasn't one of those let-me-brace-myself-against-your-shoulders-before-you-make-me-scream touches, either. I could tell she wanted to say something--probably something to do with the nature of our relationship, or another of the many contractual stipulations (binding or specifically non-binding) that seem to precede physical intimacy these days.
 
-"I come with a few added surprises," she said. Her
+"I come with a few added surprises," she said. Her face was turning a bit pink.
 
-face was turning a bit pink.
-
-I rested my head between her breasts, to assure her
-
-of my sustained interest in her body no matter what
-
-she was about to say. She pushed me up a bit and off her.
-
-This was serious.
+I rested my head between her breasts, to assure her of my sustained interest in her body no matter what she was about to say. She pushed me up a bit and off her. This was serious.
 
 "Are you familiar with venereal warts?"
 
