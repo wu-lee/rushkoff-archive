@@ -13,13 +13,7 @@ published: false
 ---
 STD Etiquette
 
-b:, Do uglas Rwhkoff
-
-I w\~ wo!king my wa
-
-my hps, Just managiJ ut\~ her thigh with
-
-beneath the edge oiher get \~y tongue
+I was working my way up her thigh with my lips, just managing to get my tongue beneath the edge of her panties, when I felt her hand on my shoulder.
 
 I felt her hand on my hpa1
 
