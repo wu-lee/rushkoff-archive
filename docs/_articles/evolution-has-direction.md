@@ -11,19 +11,7 @@ sources: ''
 published: false
 
 ---
-Though I can't prove it more than anecdotal! . . Y or expenennally I believe that evolution has purpose and direction. To me i;
-
-\~eems obvious, if abso\~utely unconfirmahle, that matter is grop-
-
-mg toward complexity. True . enough, stresses and threats,
-
-ranging from time and friction to decomposition and predators,
-
-require objects and life-forms to achieve some measure of dura-
-
-bility in order to sustain themselves. But this ability to survive
-
-seems to me more a means to an end than an end in itself.
+Though I can't prove it more than anecdotally or experientially, I believe that evolution has purpose and direction. To me it seems obvious, if absolutely unconfirmable, that matter is groping toward complexity. True enough, stresses and threats, ranging from time and friction to decomposition and predators, require objects and life-forms to achieve some measure of durability in order to sustain themselves. But this ability to surviveseems to me more a means to an end than an end in itself.
 
 Theo}ogy goes a long way toward imbuing substance and
 
