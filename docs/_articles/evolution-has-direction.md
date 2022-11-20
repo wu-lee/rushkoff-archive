@@ -15,21 +15,7 @@ Though I can't prove it more than anecdotally or experientially, I believe that 
 
 Theology goes a long way toward imbuing substance and processes with meaning - describing life as 'matter reaching toward divinity,' or as the process by which divinity calls matter back to itself. But theologians mistakenly ascribe this sense of purpose to history rather than to the future. This is only natural, since the narrative structures we use to understand our world tend to have beginnings, middles, and ends. In order to experience the payoff at the end of the story, we need to see it as somehow built into the original intention of events.
 
-It's also hard for people to contend with the likely possibility
-
-8 WHAT WE BELIEVE BUT CANNOT PROVE
-
-that we are simply overadvanc\~d fungi and bacte,ria hurtling
-
-h h galaxy in cold, meaningless space. But Just bccPta t roug a . . . . ,, se
-
-our existence may have ar1sen un1ntent1011ally and without pur-
-
-pose doesn't preclude meaning or pur?ose from. emerging as a
-
-result of our interaction and collaborat1on. Meaning may not be
-
-a precondition for human\~ty as much as, a by-\~roduct .of it,
+It's also hard for people to contend with the likely possibility that we are simply overadvanced fungi and bacteria hurtling through a galaxy in cold, meaningless space. But just because our existence may have arisen unintentionally and without purpose doesn't preclude meaning or purpose from emerging as a result of our interaction and collaboration. Meaning may not be a precondition for humanity as much as a by-product of it.
 
 Ir>s important to recognize that cvolut1on at its best 1s a team
 
