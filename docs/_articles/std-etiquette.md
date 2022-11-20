@@ -15,23 +15,7 @@ STD Etiquette
 
 I was working my way up her thigh with my lips, just managing to get my tongue beneath the edge of her panties, when I felt her hand on my shoulder.
 
-I felt her hand on my hpa1
-
-nues, when . s ou der The touch didn't say "sto ,, ·
-
-P, exactly But it defi ·
-
-wasn't one of those let-me-brace-m . lf · . nttely
-
-c yse -agamst-your-shoulders-be1.ore-you-make-me-scream to h .·
-
-uc es, either. I could
-
-tell she wanted to say something-probabl . • Y something
-
-to do with the nature of our relationship th , or ano er
-
-of the many contractual stipulations (binding or specifically non-bi\~ding) that seem to precede physical intimacy these days.
+The touch didn't say "stop," exactly But it definitely wasn't one of those let-me-brace-myself-against-your-shoulders-before-you-make-me-scream touches, either. I could tell she wanted to say something--probably something to do with the nature of our relationship, or another of the many contractual stipulations (binding or specifically non-binding) that seem to precede physical intimacy these days.
 
 "I come with a few added surprises," she said. Her
 
