@@ -121,4 +121,6 @@ It's not a superorganism. But there is an organizational level that we're capabl
 
 The self only exists in relationship to other people--just like a Web site only exists in its links to other places, or from other places really. So eventually people will see their way through what looks like a paradox to them now, and instead see it as the crucial dynamic through which people can evolve into something greater than the little, isolated, lonely, puny intelligences they are today.
 
- D AVID: \\;\\That gives you hope? . D T. raco·ons with happy people. As long as I can have a meanmgful OUGLAS: .u1te . . . • . •th another person and expenence the creatton of JOY from what tnteractton Wl . ·1 th b for e r have hope-because 1t means that humans a.re stt I capawasn't ere e , . , . b c.. n·ng love and JOY where there wasn t any before. Not finding le of manmactu ·11 h fa "th · . d - er light. As long people can do that, then I so ave some 1 m hght, bu\~ 0 1 in\~ finite capability of people to re-create reality on their own the relauve Y in terms. l g IS
+**DAVID**: What gives you hope?
+
+**DOUGLAS**: Interactions with happy people. As long as I can have a meaningful interaction with another person and experience the creation of joy from what wasn't there before, I have hope--because it means that humans are still capable of manufacturing love and joy where there wasn't any before. Not finding light, but doing light. As long people can do that, then I still have some faith in the relatively infinite capability of people to re-create reality on their own terms.
