@@ -19,15 +19,7 @@ It's also hard for people to contend with the likely possibility that we are sim
 
 It's important to recognize that evolution at its best is a team sport. As Darwin's later, lesser known but more important works contend, survival of the fittest is a law that applies not as much to individuals as to groups. Likewise, most great leaps forward in human civilization, from the formation of clans to the building of cities, have been feats of collaborative effort. Increased survival rates are as much a happy side effect of good collaboration as its purpose.
 
-If we could stop thinking of 'meaning' and 'purpose' as arti-
-
-facts of some -divine creative act and see them instead as the
-
-yield of our own creative future, they become goals, intentions,
-
-and processes very much in reach rather than the shadows of
-
-childlike, superstitious mythology. .
+If we could stop thinking of 'meaning' and 'purpose' as artifacts of some divine creative act and see them instead as the yield of our own creative future, they become goals, intentions, and processes very much in reach rather than the shadows of childlike, superstitious mythology.
 
 T\~e proof is i\~possible, since this is an unfolding story. Like
 
