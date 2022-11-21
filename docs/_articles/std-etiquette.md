@@ -33,23 +33,7 @@ Oops. It turns out that, like herpes, the virus behind genital warts is in perpe
 
 Of course these days, no matter how much latex shielding is employed, all sexual sports are serious business, requiring a high tolerance for danger. In terms of physical risk, we've gone from golf to ice hockey.
 
-I avoided entering this rink longer than most. I wasn't
-
-afraid of diseases so much as the women themselves. I
-
-just couldn't tell a girl I found her attractive-it felt as
-
-though doing so would be an imposition on her otherwise trouble-free life. The few sexual relationships that
-
-did manage to penetrate my shield of insecurity followed
-
-weeks or even months of what could loosely be called
-
-co\~rtship. I was never sure if I was truly old fashioned,
-
-or JUSt afraid to dive into physical intimacy and its atten-
-
-dant embarrassments. Maybe that's why I started writing about love rather than experiencing it first hand.
+I avoided entering this rink longer than most. I wasn't afraid of diseases so much as the women themselves. I just couldn't tell a girl I found her attractive--it felt as though doing so would be an imposition on her otherwise trouble-free life. The few sexual relationships that did manage to penetrate my shield of insecurity followed weeks or even months of what could loosely be called courtship. I was never sure if I was truly old fashioned, or just afraid to dive into physical intimacy and its attendant embarrassments. Maybe that's why I started writing about love rather than experiencing it first hand.
 
 Sublimating my sexuality into rny writing wasn't without Jong-tenn benefits. During a spate of book tours a
 
