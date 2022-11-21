@@ -45,25 +45,7 @@ I guess she came from the other end of the disclosure spectrum--those who tell l
 
 But, with me anyway, it tends to work in reverse. If a woman tells me of a potential transmission before we've had any sex, I'll tend to overcompensate in her favor and do my best to show that I'm still helplessly attracted to her. When she doesn't tell me until afterwards, though, I am given a brand new excuse to retreat. If, subconsciously, I really am afraid of contracting whatever it is she's got, now I can use her dishonesty as my rationale to break it off in righteous indignation.
 
-Thanks to good fortune alone, I am still disease-free,
-
-and would prefer to stay that way, at least until I'm married. Don't get me wrong: I'm no_t afraid of the herpes
-
-themselves, whatever they are, or any other disease whose
-
-symptoms don't include death. I'd be all-too-willing to
-
-risk catching herpes from my lover, but only if I knew
-
-she was going to be my last and lifelong partner. That's
-
-because I'm most afraid of being a carrier-of having
-
-to talk about it, or, even worse, of giving a disease to
-
-someone else. (I'd rather be the person waiting in the
-
-rain than the one who's late for the rendezvous, too.)
+Thanks to good fortune alone, I am still disease-free, and would prefer to stay that way, at least until I'm married. Don't get me wrong: I'm not afraid of the herpes themselves, whatever they are, or any other disease whose symptoms don't include death. I'd be all-too-willing to risk catching herpes from my lover, but only if I knew she was going to be my last and lifelong partner. That's because I'm most afraid of being a carrier--of having to talk about it, or, even worse, of giving a disease to someone else. (I'd rather be the person waiting in the rain than the one who's late for the rendezvous, too.)
 
 Now that my wilder days have passed-and they only
 
