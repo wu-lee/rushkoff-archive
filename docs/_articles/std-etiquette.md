@@ -29,17 +29,7 @@ I tried to be cool. My hermetically sealed suburban Jewish upbringing has left m
 
 "It sounds like it's cured," I said. I didn't want her to feel contaminated. "At least it's not a life-long nuisance like herpes."
 
-Oops. It turns out that, like herpes, the virus behind
-
-genital warts is in perpetual stand-by mode. And, as long
-
-as we were on the subject, she had herpes, too, though
-
-she hadn't had an outbreak for a few years. At least she
-
-possessed the sense and courage to t\~ll me about everything from the start, rather than waiting un_til things
-
-between us got "serious."
+Oops. It turns out that, like herpes, the virus behind genital warts is in perpetual stand-by mode. And, as long as we were on the subject, she had herpes, too, though she hadn't had an outbreak for a few years. At least she possessed the sense and courage to tell me about everything from the start, rather than waiting until things between us got "serious."
 
 Of course these days, no matter how much latex
 
