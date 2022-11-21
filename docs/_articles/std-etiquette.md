@@ -27,9 +27,7 @@ I learned that my lover-to-be had just been treated for two minuscule and probab
 
 I tried to be cool. My hermetically sealed suburban Jewish upbringing has left me somewhat germophobic (my mom still travels with a bottle of Lysol), but I've managed to contain my lingering obsession to bathroom hygiene and chicken preparation.
 
-"It sounds like it's cured," I said. I didn't want her
-
-to feel contaminated. "At least it's not a life-long nuisance like herpes."
+"It sounds like it's cured," I said. I didn't want her to feel contaminated. "At least it's not a life-long nuisance like herpes."
 
 Oops. It turns out that, like herpes, the virus behind
 
