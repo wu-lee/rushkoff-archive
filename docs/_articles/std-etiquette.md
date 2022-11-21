@@ -59,15 +59,7 @@ The thought of these restrictions--not to mention funerals--didn't exactly turn 
 
 I was afraid to find out. Instead, I went ahead and foolishly shared my fears with the friend who had introduced us in the first place. It turns out he had had a brief fling with her years before and now he was scared, too. That very night, he picked up the phone. and expressed his concern, using my concern as a cover. He eventually confessed his leak to me, along with the woman's response: What's the big deal? Everyone who used IV drugs has it, and only ten percent of them get the full-blown disease.
 
-That kind of pissed me off. I'm not a weird sissy for
-
-being a bit freaked out by the chance of contracting a
-
-potentially fatal disease, am I? But what right did I have
-
-to be pissed off? I never had the courage to tell her
-
-how I felt.
+That kind of pissed me off. I'm not a weird sissy for being a bit freaked out by the chance of contracting a potentially fatal disease, am I? But what right did I have to be pissed off? I never had the courage to tell her how I felt.
 
 • I've been out with her a few times since, and feel
 
