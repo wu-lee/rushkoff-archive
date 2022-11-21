@@ -27,33 +27,7 @@ This is what it means to "entertain"--literally "to hold within"--and it only wo
 
 With an expenditure of perhaps .0001 calories, the anxious viewer is liberated from her tortuous imprisonment. Although most well-behaved adult viewers will soldier on through a story, kids raised with remotes in their hands have much less reverence for these well-crafted arcs, and zap away without a moment's hesitation. Instead of watching one program, they skim through ten at a time. They don't watch TV, they watch the television, guiding their own paths through the entirety of media rather than following the prescribed course of any one programmer.
 
-No matter how much we complain about
-
-our kids' short attention spans, their ability to disconnect from programming has released them
-
-from the hypnotic spell of even the best TV mesmerizers. The Nintendo joystick further empowers them while compounding the programmer's
-
-dilemma. In the old days, the TV image was
-
-unchangeable. Gospel truth piped into the home
-
-from the top of some glass building. Today, kids
-
-have the experience of manipulating the image on
-
-the screen. This has fundamentally altered their
-
-perception of and reverence for the television
-
-image. Better yet, the computer mouse and the
-
-Internet turn the video monitor into a doorway.
-
-No longer just an appliance for passive programming, the monitor is a portal to places and ideas.
-
-Kids with camcorders don't even bother to watch
-
-prepackaged programs. They just make their own.
+No matter how much we complain about our kids' short attention spans, their ability to disconnect from programming has released them from the hypnotic spell of even the best TV mesmerizers. The Nintendo joystick further empowers them while compounding the programmer's dilemma. In the old days, the TV image was unchangeable. Gospel truth piped into the home from the top of some glass building. Today, kids have the experience of manipulating the image on the screen. This has fundamentally altered their perception of and reverence for the television image. Better yet, the computer mouse and the Internet turn the video monitor into a doorway. No longer just an appliance for passive programming, the monitor is a portal to places and ideas. Kids with camcorders don't even bother to watch prepackaged programs. They just make their own.
 
 The people I call "screenagers," those
 
