@@ -49,13 +49,7 @@ Thanks to good fortune alone, I am still disease-free, and would prefer to stay 
 
 Now that my wilder days have passed--and they only accounted for a half-dozen encounters over a two-year period, at best--I've pretty much written off casual sex. I'm waiting for "the real thing." True love. I want sex to be a way of expressing my feelings, not finding out what they are.
 
-You"d . gout
-
-hasn" think this W-0uld
-
-l
-
-. . L In fact, in my q . make life a lot easier, but it
+You'd think this would make life a lot easier, but it hasn't. In fact, in my quest for a real, honest, and open relationship, I've failed in my responsibility to speak plainly about STDs almost as neglectfully as the married woman who lied about latex.
 
 re attonshi , Uest for a real h . . . ·
 
