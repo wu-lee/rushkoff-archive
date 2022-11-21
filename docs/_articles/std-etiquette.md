@@ -41,15 +41,7 @@ The youngest women I've been with don't generally lie about their conditions. Th
 
 The one older woman I dated, however--a married-but-pretty-much-separated audiologist--withheld the truth until long after I would consider it appropriate. I (incorrectly) assumed that because she had been married for so long, and since I was her first affair, she was "clean." It turns out she was so afraid to tell me about her recurrent herpes condition that she lied and said her sores were the result of an allergy to latex condoms. When she finally fessed up, I felt violated. "See?" she said, "I knew you'd react this way. That's why I didn't tell you." It wasn't the herpes that bothered me as much as her dishonesty. Not to mention the fortune I spent on less-safe lambskin condoms, under the painful impression I had made her physically ill with latex.
 
-I guess she came from the other end of the disclosure spectrum-those who tell lovers about their communicable diseases if and only if the relationship has
-
-moved beyond casual (and inherently risky) sex into
-
-something more committed. Theoretically, this strategy
-
-favors the STD-afflicted, because it gives them more time
-
-to establish bonds before dropping the relationshipthreatening news.
+I guess she came from the other end of the disclosure spectrum--those who tell lovers about their communicable diseases if and only if the relationship has moved beyond casual (and inherently risky) sex into something more committed. Theoretically, this strategy favors the STD-afflicted, because it gives them more time to establish bonds before dropping the relationship-threatening news.
 
 But, with me anyway, it tends to work in reverse. If
 
