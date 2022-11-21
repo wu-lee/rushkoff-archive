@@ -57,19 +57,7 @@ I didn't know how to respond; no one had ever revealed such personal information
 
 The thought of these restrictions--not to mention funerals--didn't exactly turn me on to the idea of sex with this woman. But neither did it free me from a deep sense of guilt. Why should a person who obviously has her shit together now be forced to pay for mistakes of the past? I'd done different but equally stupid things myself when I was nineteen, and only luck saved me from my recklessness. Besides, I could only respect her for managing to work this particularly touchy subject into a conversation on our first date. That is, if she really felt like it was a touchy subject at all.
 
-I was afraid to find out. Instead, I went ahead and
-
-foolishly shared my fears with the friend who had introduced us in the first place. It turns out he had had a brief
-
-fling with her years before and now he was scared, too.
-
-That very night, he ·picked up the phone. and expressed
-
-his concern, using my concern as a cover. He eventually confessed his leak to me, along with the woman's
-
-response: What's the big deal? Everyone who used IV
-
-drugs has it, and only ten percent of them get the fullblown disease.
+I was afraid to find out. Instead, I went ahead and foolishly shared my fears with the friend who had introduced us in the first place. It turns out he had had a brief fling with her years before and now he was scared, too. That very night, he picked up the phone. and expressed his concern, using my concern as a cover. He eventually confessed his leak to me, along with the woman's response: What's the big deal? Everyone who used IV drugs has it, and only ten percent of them get the full-blown disease.
 
 That kind of pissed me off. I'm not a weird sissy for
 
