@@ -43,21 +43,7 @@ The one older woman I dated, however--a married-but-pretty-much-separated audiol
 
 I guess she came from the other end of the disclosure spectrum--those who tell lovers about their communicable diseases if and only if the relationship has moved beyond casual (and inherently risky) sex into something more committed. Theoretically, this strategy favors the STD-afflicted, because it gives them more time to establish bonds before dropping the relationship-threatening news.
 
-But, with me anyway, it tends to work in reverse. If
-
-a woman tells me of a potential transmission before we've
-
-had any sex, I'll tend to overcompensate in her favor and .
-
-do my best to show that I'm still helplessly attracted to
-
-her. 'When she doesn't tell me until afterwards, though,
-
-I am given a brand new excuse to retreat. If, subconsciously, I really am afraid of contracting whatever it is
-
-she's got, now I can use her dishonesty as my rationale
-
-to break it off in righteous indignation.
+But, with me anyway, it tends to work in reverse. If a woman tells me of a potential transmission before we've had any sex, I'll tend to overcompensate in her favor and do my best to show that I'm still helplessly attracted to her. When she doesn't tell me until afterwards, though, I am given a brand new excuse to retreat. If, subconsciously, I really am afraid of contracting whatever it is she's got, now I can use her dishonesty as my rationale to break it off in righteous indignation.
 
 Thanks to good fortune alone, I am still disease-free,
 
