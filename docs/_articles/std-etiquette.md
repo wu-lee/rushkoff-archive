@@ -31,11 +31,7 @@ I tried to be cool. My hermetically sealed suburban Jewish upbringing has left m
 
 Oops. It turns out that, like herpes, the virus behind genital warts is in perpetual stand-by mode. And, as long as we were on the subject, she had herpes, too, though she hadn't had an outbreak for a few years. At least she possessed the sense and courage to tell me about everything from the start, rather than waiting until things between us got "serious."
 
-Of course these days, no matter how much latex
-
-shielding is employed, all sexual sports are serious business, requiring a high tolerance for danger. In terms
-
-of physical risk, we've gone from golf to ice hockey.
+Of course these days, no matter how much latex shielding is employed, all sexual sports are serious business, requiring a high tolerance for danger. In terms of physical risk, we've gone from golf to ice hockey.
 
 I avoided entering this rink longer than most. I wasn't
 
