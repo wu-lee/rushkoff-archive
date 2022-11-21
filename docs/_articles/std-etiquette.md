@@ -55,29 +55,7 @@ Last month I went to a basketball game with a brilliant and stunningly beautiful
 
 I didn't know how to respond; no one had ever revealed such personal information to me before--not at Madison Square Garden, anyway. I told her I hoped the tests went okay, and then called my doctor pal that night for the lowdown. Hepatitis C, in her case the result of IV drug use a decade earlier, is more easily transmitted than AIDS, and potentially just as fatal. After six to eight years of dormancy, it can attack the liver like a cancer. Worse, the virus is found in all the best juices, including saliva and other nectars--not just blood and semen. He suggested that I use "barrier precautions" including dental dams (which I always thought were just a PR scheme to make condoms seem like less of an imposition) and that I only engage in "limited oral contact."
 
-\~ . • not to mentton The thought of these restncuons- · ·
-
-143
-
-funerals-didn't exactly turn me on to the idea of sex
-
-with this woman. But neither did it free me from a deep
-
-sense of guilt. Why should a person who obviously has
-
-her shit together now be forced to pay for mistakes of
-
-the past? I'd done different but equally stupid things
-
-myself when I was nineteen, and only luck saved me from
-
-my recklessness. Besides, I could only respect her for
-
-managing to work this particularly touchy subject into
-
-a conversation on our first date. That is, if she really
-
-felt like it was a touchy subject at all.
+The thought of these restrictions--not to mention funerals--didn't exactly turn me on to the idea of sex with this woman. But neither did it free me from a deep sense of guilt. Why should a person who obviously has her shit together now be forced to pay for mistakes of the past? I'd done different but equally stupid things myself when I was nineteen, and only luck saved me from my recklessness. Besides, I could only respect her for managing to work this particularly touchy subject into a conversation on our first date. That is, if she really felt like it was a touchy subject at all.
 
 I was afraid to find out. Instead, I went ahead and
 
