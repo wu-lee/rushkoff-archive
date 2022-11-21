@@ -63,19 +63,7 @@ That kind of pissed me off. I'm not a weird sissy for being a bit freaked out by
 
 I've been out with her a few times since, and feel like a shit not only for avoiding sexual situations (even though I usually wouldn't be having sex this early, anyway), but also for avoiding talking about the subject. I know she knows, but I just can't bring the subtext to the surface.
 
-I've . rationalized that she . probabl Y 1sn . , t tru 1 y inter- .
-
-ested , 1n me at all-she's so cool , and 1, m sue h a geek.
-
-She d surely figure this out sooner or later and drop me,
-
-anyway. \\1/hy risk getting a fatal disease just to be heartbroken, too? I mean, if we were already in love and found
-
-out together that she had a potentially fatal disease, it
-
-would be our problem. At the outset, though, with
-
-chances being so slim of actually forging a lasting relationship together, why risk death?
+I've rationalized that she probably isn't truly interested in me at all--she's so cool, and I'm such a geek. She'd surely figure this out sooner or later and drop me, anyway. Why risk getting a fatal disease just to be heartbroken, too? I mean, if we were already in love and found out together that she had a potentially fatal disease, it would be our problem. At the outset, though, with chances being so slim of actually forging a lasting relationship together, why risk death?
 
 Besides, if I were to straight-out tell her how I felt
 
