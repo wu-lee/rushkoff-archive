@@ -51,49 +51,11 @@ Now that my wilder days have passed--and they only accounted for a half-dozen en
 
 You'd think this would make life a lot easier, but it hasn't. In fact, in my quest for a real, honest, and open relationship, I've failed in my responsibility to speak plainly about STDs almost as neglectfully as the married woman who lied about latex.
 
-re attonshi , Uest for a real h . . . ·
+Last month I went to a basketball game with a brilliant and stunningly beautiful young woman. We were having a great time together, so I asked her if she wanted to go out for a movie the following night. She said she was busy. Doing what? Oh, having a routine liver biopsy. Why? Hepatitis C.
 
-I . . . p, I ve failed . ' onest, and open
+I didn't know how to respond; no one had ever revealed such personal information to me before--not at Madison Square Garden, anyway. I told her I hoped the tests went okay, and then called my doctor pal that night for the lowdown. Hepatitis C, in her case the result of IV drug use a decade earlier, is more easily transmitted than AIDS, and potentially just as fatal. After six to eight years of dormancy, it can attack the liver like a cancer. Worse, the virus is found in all the best juices, including saliva and other nectars--not just blood and semen. He suggested that I use "barrier precautions" including dental dams (which I always thought were just a PR scheme to make condoms seem like less of an imposition) and that I only engage in "limited oral contact."
 
-ainly about STDs aim m my responsibility to speak
-
-ned woman \\Vho li ost as neglectfully as the - Last ed about latex. mar
-
-. month I went to a
-
-lian .. · t and stunnm ly . _basketball game with a brilha: - g beautiful youn . Vlllg a great tim g woman. We were
-
-e together. so I asked h
-
-to go out for a m . th , er if she wanted ovie e followin . h
-
-was busy. Doing what? Oh h . g mg _ t- She said she
-
-Why? Hepatitis C. , avmg a routme liver biopsy.
-
-I didn "t know how to respond; no one had ever
-
-revealed such personal inform.ati t -i..._r.-. . on o me UClure--not
-
-at Madison Square Garden, anyway. I told her I hoped
-
-the tests went okay, and then called my doctor pal that
-
-night for the lowdown. Hepatitis C, in her case the result
-
-of IV drug use a decade earlier, is more easily transmitted
-
-than AIDS, and potentially just as fatal. After SLX to eight
-
-years of dormancy, it can attack the liver like a cancer.
-
-Worse, the virus is found in all the best juices, including saliva and other nectars-not just blood and semen.
-
-He suggested that I use "barrier precautions,, including dental dams (which I always thought were just a PR
-
-scheme to make condoms seem like less of an imposi-,,
-
-tion) and that I only engage in "limited oral contac\~ . • not to mentton The thought of these restncuons- · ·
+\~ . • not to mentton The thought of these restncuons- · ·
 
 143
 
