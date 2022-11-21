@@ -13,27 +13,7 @@ published: false
 ---
 Although I like to think of myself as "clued in" to the motions of nature, they seem to evade me. But that's finally beginning to change. I write mostly about technology and its effects on culture and spirituality. I see technology as a real extension of nature--an expression of the evolutionary drive towards complexity and consciousness. It wasn't always this way. As originally implemented, technology was developed to deny the underlying patterns of nature. We invented electric lights to deny the blackness of night and the rhythm of daybreak. Heat and air conditioning allowed us to deny the climactic cycle of the seasons. Irrigation helped us conquer the patterns of weather. We fly in planes to break the laws of distance and break multiple time zones in just a few hours, throwing our bodies out of their own circadian rhythms. We invent pills from dexedrine to melatonin to convince our bodies otherwise, then wonder why we feel so out of touch. In this scenario, nature is the enemy and human technology keeps it at bay.
 
-If human culture is an articulation of
-
-nature, then media is the articulation of technology. As civilization and culture grew out of
-
-the natural collection of human beings, media
-
-grew out of technology to control and restrict
-
-our free motions and underlying collective will.
-
-Just as technology denies narure, traditional
-
-media denies humanity. At any major university, you will find that the study of communications has nothing to do with helping people
-
-talk to one another. It is the study of how governments can manipulate their subjects or cit.izens, and how corporations can manipulate
-
-their customers and employees. It is not the
-
-study of communication-it is the research and
-
-development of social programming.
+If human culture is an articulation of nature, then media is the articulation of technology. As civilization and culture grew out of the natural collection of human beings, media grew out of technology to control and restrict our free motions and underlying collective will. Just as technology denies nature, traditional media denies humanity. At any major university, you will find that the study of communications has nothing to do with helping people talk to one another. It is the study of how governments can manipulate their subjects or citizens, and how corporations can manipulate their customers and employees. It is not the study of communication--it is the research and development of social programming.
 
 Media was put into place as a way of controlling the natural ebb and flow of society. By
 
