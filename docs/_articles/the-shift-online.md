@@ -15,19 +15,7 @@ Although I like to think of myself as "clued in" to the motions of nature, they 
 
 If human culture is an articulation of nature, then media is the articulation of technology. As civilization and culture grew out of the natural collection of human beings, media grew out of technology to control and restrict our free motions and underlying collective will. Just as technology denies nature, traditional media denies humanity. At any major university, you will find that the study of communications has nothing to do with helping people talk to one another. It is the study of how governments can manipulate their subjects or citizens, and how corporations can manipulate their customers and employees. It is not the study of communication--it is the research and development of social programming.
 
-Media was put into place as a way of controlling the natural ebb and flow of society. By
-
-dividing amorphous populations into manageable market segments and interest groups, the
-
-social scientists could more accurately predict
-
-and alter our behaviors. Television and other topdown media arose to ·program the masses into
-
-submission. Why do you think they call it TV
-
-programming? They' re not programming the
-
-television sets; they' re programming the viewers.
+Media was put into place as a way of controlling the natural ebb and flow of society. By dividing amorphous populations into manageable market segments and interest groups, the social scientists could more accurately predict and alter our behaviors. Television and other top-down media arose to program the masses into submission. Why do you think they call it TV programming? They're not programming the television sets; they're programming the viewers.
 
 Media programming only works when
 
