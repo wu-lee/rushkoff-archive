@@ -29,27 +29,7 @@ With an expenditure of perhaps .0001 calories, the anxious viewer is liberated f
 
 No matter how much we complain about our kids' short attention spans, their ability to disconnect from programming has released them from the hypnotic spell of even the best TV mesmerizers. The Nintendo joystick further empowers them while compounding the programmer's dilemma. In the old days, the TV image was unchangeable. Gospel truth piped into the home from the top of some glass building. Today, kids have the experience of manipulating the image on the screen. This has fundamentally altered their perception of and reverence for the television image. Better yet, the computer mouse and the Internet turn the video monitor into a doorway. No longer just an appliance for passive programming, the monitor is a portal to places and ideas. Kids with camcorders don't even bother to watch prepackaged programs. They just make their own.
 
-The people I call "screenagers," those
-
-raised with interactive devices in their media
-
-arsenals, are natives in a media-space where even
-
-the best television programmers are immigrants.
-
-They speak the language better and see through
-
-those clumsy attempts to program them into
-
-submission. They never forget for a moment that
-
-they are watching media, and resent people who
-
-try to draw them in and sell them something.
-
-We miscake their ironic detachment for cultural
-
-apathy. It's not. They do care; they're just unwilling to take on a character's anxiety and then swallow some hidden agenda.
+The people I call "screenagers," those raised with interactive devices in their media arsenals, are natives in a media-space where even the best television programmers are immigrants. They speak the language better and see through those clumsy attempts to program them into submission. They never forget for a moment that they are watching media, and resent people who try to draw them in and sell them something. We mistake their ironic detachment for cultural apathy. It's not. They do care; they're just unwilling to take on a character's anxiety and then swallow some hidden agenda.
 
 The shows embraced by the "screenage"
 
