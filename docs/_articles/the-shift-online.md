@@ -21,45 +21,7 @@ Media programming only works when the programmer has the luxury of a captive and
 
 Television worked perfectly. The viewer sat alone and let herself be drawn into the trance. From this point, the programming part was simple: tell stories. Since Aristotle and even the Bible, the programmer has used stories to reduce his audience to passive participants. For aboriginal cultures, the story has served as a way of preserving sacred ancient ideas as they pass down through generations. For modern Western culture, the technique of the story has been abused to enforce purchasing decisions and moral agendas.
 
-The rradi tiona1 story works by putting
-
-the audience in a scare of tension. The program.
-
-ming storyteller creates a character we like so
-
-rhar we identify with this hero's plight. Then,
-
-the character is placed in jeopardy of one sore or
-
-another. As the character moves up the incline
-
-plane rowards crisis, we follow him vicariously,
-
-while raking on his anxiety as our own.
-
-Helplessly we follow him up into danger, disease, or divorce, and just when we can't take any
-
-more tension without bursting, the hero finds a
-
-s.
-
-T H E S H I F T
-
-out. He finds a moral, a produce, an agenda,
-
-way h. d al . h a scracegy char rescues 1m, an us ong wit :m, from rhe awful anxiety. The higher the
-
-level of cension we've been able to create, the
-
-more prepasterous rhe hero's critical twist can
-
-get. Bue whatever solution \~he character finds,
-
-the audience must swallow 1t, too. Along with
-
-it, we swallow the sponsor or network's agenda,
-
-but at least we get to escape from the anxiety.
+The traditional story works by putting the audience in a state of tension. The programming storyteller creates a character we like so that we identify with this hero's plight. Then, the character is placed in jeopardy of one sort or another. As the character moves up the incline plane towards crisis, we follow him vicariously, while taking on his anxiety as our own. Helplessly we follow him up into danger, disease, or divorce, and just when we can't take any more tension without bursting, the hero finds a way out. He finds a moral, a product, an agenda, or a strategy that rescues him, and us along with him, from the awful anxiety. The higher the level of tension we've been able to create, the more preposterous the hero's critical twist can get. But whatever solution the character finds, the audience must swallow it, too. Along with it, we swallow the sponsor or network's agenda, but at least we get to escape from the anxiety.
 
 This is what it means to "entertain"-literallY "to hold within"-and it only works on a
 
