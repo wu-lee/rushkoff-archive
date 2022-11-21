@@ -61,15 +61,7 @@ I was afraid to find out. Instead, I went ahead and foolishly shared my fears wi
 
 That kind of pissed me off. I'm not a weird sissy for being a bit freaked out by the chance of contracting a potentially fatal disease, am I? But what right did I have to be pissed off? I never had the courage to tell her how I felt.
 
-• I've been out with her a few times since, and feel
-
-like a shit not only for avoiding sexual situations ( even
-
-though I usually wouldn't be having sex this early, anyway), but also for avoiding talking about the subject. 1
-
-know she knows, but I just can't bring the subtext to
-
-the surface.
+I've been out with her a few times since, and feel like a shit not only for avoiding sexual situations (even though I usually wouldn't be having sex this early, anyway), but also for avoiding talking about the subject. I know she knows, but I just can't bring the subtext to the surface.
 
 I've . rationalized that she . probabl Y 1sn . , t tru 1 y inter- .
 
