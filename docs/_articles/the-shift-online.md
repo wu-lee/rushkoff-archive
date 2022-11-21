@@ -17,25 +17,7 @@ If human culture is an articulation of nature, then media is the articulation of
 
 Media was put into place as a way of controlling the natural ebb and flow of society. By dividing amorphous populations into manageable market segments and interest groups, the social scientists could more accurately predict and alter our behaviors. Television and other top-down media arose to program the masses into submission. Why do you think they call it TV programming? They're not programming the television sets; they're programming the viewers.
 
-Media programming only works when
-
-the programmer has the luxury of a captive and
-
-isolated audience. Like any form of hypnosis,
-
-television programming depends on the viewers' reception without distraction. The subject
-
-127
-
-SOLSTI CE s H I F T
-
-a llows h er rhoughrs ro be directed and ordered
-
-by _rh\~ programmer. Her naturally free-form,
-
-hohsnc consciousne:.:ss is made linear. She learns
-
-to follow the leader, step by srep.
+Media programming only works when the programmer has the luxury of a captive and isolated audience. Like any form of hypnosis, television programming depends on the viewers' reception without distraction. The subject allows her thoughts to be directed and ordered by the programmer. Her naturally free-form, holistic consciousness is made linear. She learns to follow the leader, step by step.
 
 Television worked perfectly. The viewer
 
