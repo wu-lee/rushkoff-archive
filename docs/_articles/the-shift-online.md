@@ -19,17 +19,7 @@ Media was put into place as a way of controlling the natural ebb and flow of soc
 
 Media programming only works when the programmer has the luxury of a captive and isolated audience. Like any form of hypnosis, television programming depends on the viewers' reception without distraction. The subject allows her thoughts to be directed and ordered by the programmer. Her naturally free-form, holistic consciousness is made linear. She learns to follow the leader, step by step.
 
-Television worked perfectly. The viewer
-
-sar alone and let herself be drawn inro rhe trance.
-
-From this point, the programming parr was simp le: tell stories. Since Aristotle and even the
-
-Bible, rhe programmer has used stories to red uce
-
-his audience ro passive participants. For aborigina.1 cultures, rhe story has served as a way of p reserving sacred ancient ideas as they pass down
-
-through generations. For modern Western culrure, the technique of the story has been abused ro __...enforce purchasing decisions and moral agendas.
+Television worked perfectly. The viewer sat alone and let herself be drawn into the trance. From this point, the programming part was simple: tell stories. Since Aristotle and even the Bible, the programmer has used stories to reduce his audience to passive participants. For aboriginal cultures, the story has served as a way of preserving sacred ancient ideas as they pass down through generations. For modern Western culture, the technique of the story has been abused to enforce purchasing decisions and moral agendas.
 
 The rradi tiona1 story works by putting
 
