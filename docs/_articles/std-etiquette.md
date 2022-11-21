@@ -39,29 +39,7 @@ Sublimating my sexuality into my writing wasn't without long-term benefits. Duri
 
 The youngest women I've been with don't generally lie about their conditions. They simply don't know about them at all, nor do they want to. "I've never been tested for anything," a grad student informed me as she removed her clothes. "I'm scared of what would show up." I guess that counts as an open-ended disclosure.
 
-The one older woman I dated, however--a marriedbut-pretty-m uch-separated audiologist-withheld the
-
-truth until long after I would consider it appropriate.
-
-I (incorrectly) assumed that because she had been married for so long, and since I was her first affair, she was
-
-"clean." It turns out she was so afraid to tell me about
-
-her recurrent herpes condition that she lied and said her
-
-sores were the result of an allergy to latex condoms.
-
-When she finally fessed up, I felt violated. "See?" she said,
-
-"I knew you'd react this way. That's why I didn't tell you."
-
-It wasn't the herpes that bothered me as much as her
-
-dishonesty. Not to mention the fortune I spent on less2sexE 141
-
-safe lambskin condoms, under the painful impression
-
-I had made her physically ill with latex.
+The one older woman I dated, however--a married-but-pretty-much-separated audiologist--withheld the truth until long after I would consider it appropriate. I (incorrectly) assumed that because she had been married for so long, and since I was her first affair, she was "clean." It turns out she was so afraid to tell me about her recurrent herpes condition that she lied and said her sores were the result of an allergy to latex condoms. When she finally fessed up, I felt violated. "See?" she said, "I knew you'd react this way. That's why I didn't tell you." It wasn't the herpes that bothered me as much as her dishonesty. Not to mention the fortune I spent on less-safe lambskin condoms, under the painful impression I had made her physically ill with latex.
 
 I guess she came from the other end of the disclosure spectrum-those who tell lovers about their communicable diseases if and only if the relationship has
 
