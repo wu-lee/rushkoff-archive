@@ -67,10 +67,4 @@ I've rationalized that she probably isn't truly interested in me at all--she's s
 
 Besides, if I were to straight-out tell her how I felt about STDs, hepatitis and dental dams, it would be a bit presumptuous, no? How do I know she's even interested in having sex with me at all?
 
-But that's crap and I know it. If Hep-C is a dealbreaker for me, I should just admit it. But, like many
-
-of us who have tumed to the pen, I find I can be more
-
-honest in public print than in person. Thus this little
-
-essay: a confession of sorts-and a plea for understanding.
+But that's crap and I know it. If Hep-C is a deal-breaker for me, I should just admit it. But, like many of us who have turned to the pen, I find I can be more honest in public print than in person. Thus this little essay: a confession of sorts--and a plea for understanding.
