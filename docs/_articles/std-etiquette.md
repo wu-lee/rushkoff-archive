@@ -65,11 +65,7 @@ I've been out with her a few times since, and feel like a shit not only for avoi
 
 I've rationalized that she probably isn't truly interested in me at all--she's so cool, and I'm such a geek. She'd surely figure this out sooner or later and drop me, anyway. Why risk getting a fatal disease just to be heartbroken, too? I mean, if we were already in love and found out together that she had a potentially fatal disease, it would be our problem. At the outset, though, with chances being so slim of actually forging a lasting relationship together, why risk death?
 
-Besides, if I were to straight-out tell her how I felt
-
-about STDs, hepatitis and dental dams, it would be a
-
-bit presumptuous, no? How do I know she's even interested in having sex with me at all?
+Besides, if I were to straight-out tell her how I felt about STDs, hepatitis and dental dams, it would be a bit presumptuous, no? How do I know she's even interested in having sex with me at all?
 
 But that's crap and I know it. If Hep-C is a dealbreaker for me, I should just admit it. But, like many
 
