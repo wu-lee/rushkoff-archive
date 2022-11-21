@@ -25,45 +25,7 @@ The traditional story works by putting the audience in a state of tension. The p
 
 This is what it means to "entertain"--literally "to hold within"--and it only works on a captive audience. In the old days of television, when a character would walk into danger and take the audience up into uncomfortable anxiety, it would have taken at least 10 or 20 calories of human effort for the viewer to walk up to her TV set and change the channel. The viewer was trapped. As long as the programmer didn't raise the stakes too abruptly, she would stay in her La-Z-Boy and go along for the ride. The remote control changed that.
 
-With an expenditure of perhaps .0001
-
-calories, the anxious viewer is liberated from her
-
-"As originally implemented, technology
-
-was developed to deny the underlying patterns of
-
-nature. We invented electric lights to deny the
-
-blackness of night and the rhythm of daybreak.
-
-Heat and air conditioning allowed us to deny
-
-the climactic cycle of the seasons. Irrigation
-
-helped us conquer the patterns of weather. . . . In
-
-this scenario, nature is the enemy and human
-
-technology keeps it at bay. "
-
-0 N L I N E
-
-tortuous imprisonment. Although most wellbehaved adult viewers will soldier on through a
-
-story, kids raised with remotes in their hands have
-
-much less reverence for these well-crafted arcs,
-
-and zap away without a moment's hesitation.
-
-Instead of watching one program, they skim
-
-through ten at a time. They don't watch TV, they
-
-watch the television, guiding their own paths
-
-through the entirety of media rather than following the prescribed course of any one programmer.
+With an expenditure of perhaps .0001 calories, the anxious viewer is liberated from her tortuous imprisonment. Although most well-behaved adult viewers will soldier on through a story, kids raised with remotes in their hands have much less reverence for these well-crafted arcs, and zap away without a moment's hesitation. Instead of watching one program, they skim through ten at a time. They don't watch TV, they watch the television, guiding their own paths through the entirety of media rather than following the prescribed course of any one programmer.
 
 No matter how much we complain about
 
