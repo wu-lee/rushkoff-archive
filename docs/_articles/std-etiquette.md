@@ -47,15 +47,7 @@ But, with me anyway, it tends to work in reverse. If a woman tells me of a poten
 
 Thanks to good fortune alone, I am still disease-free, and would prefer to stay that way, at least until I'm married. Don't get me wrong: I'm not afraid of the herpes themselves, whatever they are, or any other disease whose symptoms don't include death. I'd be all-too-willing to risk catching herpes from my lover, but only if I knew she was going to be my last and lifelong partner. That's because I'm most afraid of being a carrier--of having to talk about it, or, even worse, of giving a disease to someone else. (I'd rather be the person waiting in the rain than the one who's late for the rendezvous, too.)
 
-Now that my wilder days have passed-and they only
-
-acco\~ Q ted for a h\~•c PetiOd, CUL\~ozen enco I' at bcst-r . unters over a t:w\~ear Ill '6.1-,,.: • ve pretty m h . - ,. ""Q.lting £ .. . UC WTitten off casual
-
-to he or the real thi .. -r. . sex..
-
-Wha: a Wa" r ng. .1 rue lov I . ·, o._ express· · e. Vtc-artt sex
-
-t they are. tng my feelings, not findin
+Now that my wilder days have passed--and they only accounted for a half-dozen encounters over a two-year period, at best--I've pretty much written off casual sex. I'm waiting for "the real thing." True love. I want sex to be a way of expressing my feelings, not finding out what they are.
 
 You"d . gout
 
