@@ -23,23 +23,7 @@ Television worked perfectly. The viewer sat alone and let herself be drawn into 
 
 The traditional story works by putting the audience in a state of tension. The programming storyteller creates a character we like so that we identify with this hero's plight. Then, the character is placed in jeopardy of one sort or another. As the character moves up the incline plane towards crisis, we follow him vicariously, while taking on his anxiety as our own. Helplessly we follow him up into danger, disease, or divorce, and just when we can't take any more tension without bursting, the hero finds a way out. He finds a moral, a product, an agenda, or a strategy that rescues him, and us along with him, from the awful anxiety. The higher the level of tension we've been able to create, the more preposterous the hero's critical twist can get. But whatever solution the character finds, the audience must swallow it, too. Along with it, we swallow the sponsor or network's agenda, but at least we get to escape from the anxiety.
 
-This is what it means to "entertain"-literallY "to hold within"-and it only works on a
-
-caprive audience. In the old days of television,
-
-when a character would walk into danger and
-
-cake the audience up into uncomfortable anxiety, it would have taken at least 10 or 20 calories of human effort for the viewer to walk up
-
-co her TV set and change the channel. The
-
-viewer was trapped. As long as the programmer
-
-didn 't raise the stakes too abruptly, she would
-
-stay in her La-Z-Boy and go along for the ride.
-
-The remote control changed that.
+This is what it means to "entertain"--literally "to hold within"--and it only works on a captive audience. In the old days of television, when a character would walk into danger and take the audience up into uncomfortable anxiety, it would have taken at least 10 or 20 calories of human effort for the viewer to walk up to her TV set and change the channel. The viewer was trapped. As long as the programmer didn't raise the stakes too abruptly, she would stay in her La-Z-Boy and go along for the ride. The remote control changed that.
 
 With an expenditure of perhaps .0001
 
