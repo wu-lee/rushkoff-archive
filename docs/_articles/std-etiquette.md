@@ -37,17 +37,7 @@ I avoided entering this rink longer than most. I wasn't afraid of diseases so mu
 
 Sublimating my sexuality into my writing wasn't without long-term benefits. During a spate of book tours a couple of years ago, I discovered that a good reading at Borders can translate into romance at the Hilton ("I think we can still get room service at this hour") , thus reducing my usually extended courtship phase to a few hours, at best. This has led to a corresponding reduction in my ability to do any intelligence gathering about what viral companions I might be bringing home with me at tour's end.
 
-The youngest women I've been with don't generally
-
-lie about their conditions. They simply don't know about
-
-them at all, nor do they want to. "I've never been tested
-
-for anything," a grad student informed me as s_he
-
-removed her clothes. "I'm scared of what would show
-
-up." I guess that counts as an open-ended disclosure.
+The youngest women I've been with don't generally lie about their conditions. They simply don't know about them at all, nor do they want to. "I've never been tested for anything," a grad student informed me as she removed her clothes. "I'm scared of what would show up." I guess that counts as an open-ended disclosure.
 
 The one older woman I dated, however--a marriedbut-pretty-m uch-separated audiologist-withheld the
 
