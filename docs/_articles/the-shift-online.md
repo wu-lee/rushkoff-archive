@@ -31,25 +31,7 @@ No matter how much we complain about our kids' short attention spans, their abil
 
 The people I call "screenagers," those raised with interactive devices in their media arsenals, are natives in a media-space where even the best television programmers are immigrants. They speak the language better and see through those clumsy attempts to program them into submission. They never forget for a moment that they are watching media, and resent people who try to draw them in and sell them something. We mistake their ironic detachment for cultural apathy. It's not. They do care; they're just unwilling to take on a character's anxiety and then swallow some hidden agenda.
 
-The shows embraced by the "screenage"
-
-generation accep t rhe inherent discontinuity of
-
-the television medium-and our natural
-
-world-rather rhan trying to smooch it our.
-
-M ost traditional programming attempts to
-
-sm ooth over discontinuity, lest the programmer
-
-lose his audience. When .they have to break for
-
-a commercial, they introduce a cliff-hanger to
-
-tide us over. It's discontinuity pretending to be
-
-continuous, and it comes across as false.
+The shows embraced by the "screenage" generation accept the inherent discontinuity of the television medium--and our natural world--rather than trying to smooth it out. Most traditional programming attempts to smooth over discontinuity, lest the programmer lose his audience. When they have to break for a commercial, they introduce a cliff-hanger to tide us over. It's discontinuity pretending to be continuous, and it comes across as false.
 
 But where adults are challenged by gaps,
 
