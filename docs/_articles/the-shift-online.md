@@ -41,41 +41,7 @@ The extended evolution of storytelling outlined in my book, _Playing the Future_
 
 The second stage is metaphor. The metaphor for gold was the gold certificate. Paper money represented a real value of gold. For religion, it was Jesus and the parable. Teaching stories, such as the one about the prostitute in the road about to be stoned, work as metaphors for the situations in our lives. Better than a literal rule, a teaching story can be applied to thousands of possible real-life dilemmas. If we can all identify with the character in the story, then the parable works. That's why they're called parables: a parabola is a curve that depicts the relationship of a single point to whole line. As long as we're in a linear world, and all stand in a line, the point of story will relate to us all. Stories require heroes we all relate to--super-beings, hierarchy, and allegiance. We moved from straight lines to curves or, mathematically, from x=y to x²=y.
 
-But our world, and certainly the world
-
-of our children, is too chaotic for us all to stand
-
-in a line and respect one authority. Our kids
-
-don't even go to rock concerts anymore; theygo to rave dances, where there's no sexy singer
-
-for everyone to face. The rave dance-a spiritu·al event-is a great example of the third cul·· u1 · " Ratherural phase, what I call "recap1t auon. · l ' · · tual stonthan relating to someone e se s spm ·d
-
-tr naLuL.., ... stories, -;;:;;ar\~ \~- neo .,. - the road about to be st\~ Jiv;s. \]3etter tbat• ··- ,th it out.
-
-:empts to for the si tuat1oos in ou can be applied to
-
-b ·og story If
-
-era
-
-l rule a teac l 1 1 •fce dilemmas. we Jgrammer
-
-break for
-
-wnger to
-
-ing to be
-
-by gaps,
-
-ifference
-
-\~r and a
-
-,e. The
-
-for the
+But our world, and certainly the world of our children, is too chaotic for us all to stand in a line and respect one authority. Our kids don't even go to rock concerts anymore; they go to rave dances, where there's no sexy singer for everyone to face. The rave dance--a spiritual event--is a great example of the third cultural phase, what I call "recapitulation." Rather than relating to someone else's spiritual story, they create their own. The rave event recapitulates a spiritual truth. It is spirituality. That's why Shirley Maclaine on the beach shouting "I am God" made sense to so many. She wasn't declaring herself lord of the heavens; she merely realized that she recapitulated, in some small but grand way, the essence of God. She saw herself as part of the great fractal. That's new math: a discontinuous equation.
 
 nekid
 
