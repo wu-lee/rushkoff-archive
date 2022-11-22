@@ -43,27 +43,7 @@ The second stage is metaphor. The metaphor for gold was the gold certificate. Pa
 
 But our world, and certainly the world of our children, is too chaotic for us all to stand in a line and respect one authority. Our kids don't even go to rock concerts anymore; they go to rave dances, where there's no sexy singer for everyone to face. The rave dance--a spiritual event--is a great example of the third cultural phase, what I call "recapitulation." Rather than relating to someone else's spiritual story, they create their own. The rave event recapitulates a spiritual truth. It is spirituality. That's why Shirley Maclaine on the beach shouting "I am God" made sense to so many. She wasn't declaring herself lord of the heavens; she merely realized that she recapitulated, in some small but grand way, the essence of God. She saw herself as part of the great fractal. That's new math: a discontinuous equation.
 
-nekid
-
-of ice.
-
-deep
-
-\~d.
-
-Jlogy
-
-le of
-
-the
-
-see
-
-ng
-
-' ·ble rea - 1 thousands of poss\~ h character in the story, ·\[y w1th t e h , can all ident1 k That's why t ey re ble wor s. . then the para b 1 1
-
-•
+The monetary equivalent of recapitulation is the currency we now use in the United States called "the Federal Reserve Note." It is cash, but it has no value in relation to some real metal. The dollar recapitulates the original function of money. It is money.
 
 5 a curve that depicts
 
