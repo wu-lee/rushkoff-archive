@@ -33,23 +33,7 @@ The people I call "screenagers," those raised with interactive devices in their 
 
 The shows embraced by the "screenage" generation accept the inherent discontinuity of the television medium--and our natural world--rather than trying to smooth it out. Most traditional programming attempts to smooth over discontinuity, lest the programmer lose his audience. When they have to break for a commercial, they introduce a cliff-hanger to tide us over. It's discontinuity pretending to be continuous, and it comes across as false.
 
-But where adults are challenged by gaps,
-
-kids thrive on them. Just consider the difference
-
-between the experience of an adult skier and a
-
-child snow-boarder descending a slope. The
-
-adult, with bis long parallel skis, looks for the
-
-smoothest, most powdery path possible. The kid
-
-seeks out the bumps, rocks, and patches of ice.
-
-They thrive on discontinuity because, deep
-
-down, they sense it is real and not contrived.
+But where adults are challenged by gaps, kids thrive on them. Just consider the difference between the experience of an adult skier and a child snow-boarder descending a slope. The adult, with his long parallel skis, looks for the smoothest, most powdery path possible. The kid seeks out the bumps, rocks, and patches of ice. They thrive on discontinuity because, deep down, they sense it is real and not contrived.
 
 Kids experience media and technology
 
