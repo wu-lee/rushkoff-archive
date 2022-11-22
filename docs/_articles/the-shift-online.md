@@ -37,15 +37,7 @@ But where adults are challenged by gaps, kids thrive on them. Just consider the 
 
 Kids experience media and technology differently because they are on the far side of the evolutionary shift--that same shift the writers in this book are proclaiming. As I see it, this shift is in the way we tell stories.
 
-The extended evolution of storytelling
-
-outlined i n my book, Playing the Future,
-
-:lescribes the three main stages of nearly every
-
-cultural inve n tion . W e sta re with a \\ite ra\\ phase.
-
-For money, this is gold . lt h as actual, \\i.ce ra \\
+The extended evolution of storytelling outlined in my book, _Playing the Future_, describes the three main stages of nearly every cultural invention. We start with a literal phase. For money, this is gold. It has actual, literal value. For Western religion, this is the Ten Commandments. Do this, don't do that. It works with simple, straight lines, and works when one's experience is very limited.
 
 value. For W est e rn religion, this is che Ten
 
