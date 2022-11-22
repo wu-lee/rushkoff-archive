@@ -35,15 +35,7 @@ The shows embraced by the "screenage" generation accept the inherent discontinui
 
 But where adults are challenged by gaps, kids thrive on them. Just consider the difference between the experience of an adult skier and a child snow-boarder descending a slope. The adult, with his long parallel skis, looks for the smoothest, most powdery path possible. The kid seeks out the bumps, rocks, and patches of ice. They thrive on discontinuity because, deep down, they sense it is real and not contrived.
 
-Kids experience media and technology
-
-differently because they are on the far side of
-
-the evolutionary shift-that same shift the
-
-writers in this book are proclaiming. As I see
-
-it, this shift is in the way we tell stories.
+Kids experience media and technology differently because they are on the far side of the evolutionary shift--that same shift the writers in this book are proclaiming. As I see it, this shift is in the way we tell stories.
 
 The extended evolution of storytelling
 
