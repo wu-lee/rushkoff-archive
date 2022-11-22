@@ -53,21 +53,7 @@ They know no allegiance. There's no up or down, so hierarchy and one-pointedness
 
 Even more disastrous for those who would dominate nature and program human beings, technology and the media have begun to express the underlying drive of evolution itself: for awareness, complexity, and connectivity. Evolution is the way nature expresses itself over time. In its age-old dance with deadening entropy, nature strives to become more conscious and alive. Atoms become molecules become amino acid chains become cells become organisms become, well, civilization. It's no secret to anyone who has gone online, on a vision quest, into psychedelic space, a meditative journey (or even onto the pages of _Magical Blend_) that the next obvious evolutionary step is for human beings to coordinate, somehow, into a single "meta"-being. That's the whole human struggle: to find group awareness, but without losing what we cherish as "individual" awareness. Evolution itself is a recapitulating event--that's why the fetus in the womb passes through the entire history of biological evolution as it gestates.
 
-While many argue that the impending
-
-"Gaian mind" of cyberspace-all those wires
-
-connecting the individual human neurons
-
-together-will turn our multifaceted world
-
-into a monoculture, I'd argue that just the
-
-opposite is true. The programmed media hierarchy is what pushes us towards monoculture.
-
-A world where each member can express herself
-
-is absolute chaos. Not disorder, chaos.
+While many argue that the impending "Gaian mind" of cyberspace--all those wires connecting the individual human neurons together--will turn our multifaceted world into a monoculture, I'd argue that just the opposite is true. The programmed media hierarchy is what pushes us towards monoculture. A world where each member can express herself is absolute chaos. Not disorder, chaos.
 
 So technology now addresses the great
 
