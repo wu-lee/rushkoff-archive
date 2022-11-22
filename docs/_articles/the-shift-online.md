@@ -45,6 +45,8 @@ But our world, and certainly the world of our children, is too chaotic for us al
 
 The monetary equivalent of recapitulation is the currency we now use in the United States called "the Federal Reserve Note." It is cash, but it has no value in relation to some real metal. The dollar recapitulates the original function of money. It is money.
 
+In recapitulatory media and storytelling, the audience's moment of reward is shifted away from the hero's daring escape and onto the viewer's own ability to orient himself in an increasingly complex media-space. Instead of experiencing vicarious relief from tension and absorbing the associated message, the "screenager" gets the joy of making momentary sense and associations in a chaotic media-space. He gets his bearings in what I'd argue is a natural world. Joseph Campbell was only half right when he suggested that Western civilization needs "a new myth." We need a new _kind_ of myth. Recapitulated media has come to the rescue.
+
 5 a curve that depicts
 
 b
