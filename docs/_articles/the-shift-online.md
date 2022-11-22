@@ -39,39 +39,7 @@ Kids experience media and technology differently because they are on the far sid
 
 The extended evolution of storytelling outlined in my book, _Playing the Future_, describes the three main stages of nearly every cultural invention. We start with a literal phase. For money, this is gold. It has actual, literal value. For Western religion, this is the Ten Commandments. Do this, don't do that. It works with simple, straight lines, and works when one's experience is very limited.
 
-value. For W est e rn religion, this is che Ten
-
-Commandments. Do this, don't do that. It works
-
-with simple, straig ht lines, and works when
-
-one's experience is very limited. The second stage is metaphor. The metaphor for gold was the gold certificate. Paper
-
-money represented a real value of gold. For religion, it was Jesus and the parable. Teaching
-
-stories, such as the one about the prostitute in
-
-the road about to be stoned, work as metaphors
-
-for the situations in our lives. Better than a literal rule, a teaching story can be applied to
-
-thousands of possible real-life dilemmas. If we
-
-can all identify with the character in the story
-
-then the parable works. That's why they'r\~
-
-called parables: a parabola is a curve that depicts
-
-the relationship of a single point to whole line. ,As long as we' re in a linear world, and all stand in a line, the point of story will relate to us all.
-
-Stories require heroes we all relate to-super.
-
-beings, hierarchy, and allegiance. We moved
-
-from straight lines to curves or, mathematical1 y, from x=y to x2
-
-=y.
+The second stage is metaphor. The metaphor for gold was the gold certificate. Paper money represented a real value of gold. For religion, it was Jesus and the parable. Teaching stories, such as the one about the prostitute in the road about to be stoned, work as metaphors for the situations in our lives. Better than a literal rule, a teaching story can be applied to thousands of possible real-life dilemmas. If we can all identify with the character in the story, then the parable works. That's why they're called parables: a parabola is a curve that depicts the relationship of a single point to whole line. As long as we're in a linear world, and all stand in a line, the point of story will relate to us all. Stories require heroes we all relate to--super-beings, hierarchy, and allegiance. We moved from straight lines to curves or, mathematically, from x=y to x²=y.
 
 But our world, and certainly the world
 
