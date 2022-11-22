@@ -49,11 +49,7 @@ In recapitulatory media and storytelling, the audience's moment of reward is shi
 
 Although technology may have been put in place to contain nature, and the media may have been put in place to contain populations, they became too developed in their own rights to be contained themselves. Our techno-mediated infrastructure became too complex for anyone--William Randolph Hearst, Rupert Murdoch, or Bill Gates--to control. Although the wires may have been set down to function as avenues for unidirectional programming, no one predicted that we would start connecting them up and talking through them. Faxes, telephones, camcorders, modems, and computers changed the top-down quality of the media-space. We all started communicating with one another. No one in charge had taken into account the fact that electrons don't care which way they travel through a wire.
 
-They know no allegiance. There's no up
-
-or down, so hierarchy and one-pointedness is
-
-impossible.
+They know no allegiance. There's no up or down, so hierarchy and one-pointedness is impossible.
 
 Even more disastrous for those who would
 
