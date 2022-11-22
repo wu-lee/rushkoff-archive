@@ -47,44 +47,6 @@ The monetary equivalent of recapitulation is the currency we now use in the Unit
 
 In recapitulatory media and storytelling, the audience's moment of reward is shifted away from the hero's daring escape and onto the viewer's own ability to orient himself in an increasingly complex media-space. Instead of experiencing vicarious relief from tension and absorbing the associated message, the "screenager" gets the joy of making momentary sense and associations in a chaotic media-space. He gets his bearings in what I'd argue is a natural world. Joseph Campbell was only half right when he suggested that Western civilization needs "a new myth." We need a new _kind_ of myth. Recapitulated media has come to the rescue.
 
-==Y· ' But our world, and certainly the world
-
-of our children, is coo chaotic for us all to stand
-
-in a line and respect one authority. Our kids
-
-don't even go to rock concerts anymore; they
-
-go to rave dances, where there's no sexy singer
-
-for everyone to face. The rave dance-a spiritual event-is a great example of the third cultural phase, what I call "recapitulation." Rather
-
-than relating to· someone else's spiritual story,
-
-T H E S H I F T
-
-heir own. The rave event recapitureace c · · · 1 · Th ' cheY c . •tual truth. It 1s sp1ntua 1ty. at s
-
-a spiri b h h · "I Jares . 1 .Maclaine on the eac s outing Shtr ey Sh , w-hY d" made sense to so many. e wasn t
-
-afll G? herself lord of the heavens; she meredeclar\~ngd chat she recapitulated, in some small
-
-I reahze f d Sh Y d way the essence o Go . e saw her- b r gran '
-
-u part of the great fractal. That's new
-
-self as . ·
-
-h. a discontinuous equation. fll\~ . . The monetary equiva0 N L I N E
-
-was only half right when he suggested that
-
-Western civilization needs "a new myth." We
-
-need a new kind of myth. Recapitulated media has
-
-come to the rescue.
-
 Although technology may have been put
 
 in place to contain nature, and the media may
