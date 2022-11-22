@@ -47,34 +47,6 @@ The monetary equivalent of recapitulation is the currency we now use in the Unit
 
 In recapitulatory media and storytelling, the audience's moment of reward is shifted away from the hero's daring escape and onto the viewer's own ability to orient himself in an increasingly complex media-space. Instead of experiencing vicarious relief from tension and absorbing the associated message, the "screenager" gets the joy of making momentary sense and associations in a chaotic media-space. He gets his bearings in what I'd argue is a natural world. Joseph Campbell was only half right when he suggested that Western civilization needs "a new myth." We need a new _kind_ of myth. Recapitulated media has come to the rescue.
 
-5 a curve that depicts
-
-b
-
-l . a para o a . called para e\~- f . gle point to whole line.
-
-1
-
-• hIP O a s1n the re at1ons . 1
-
-. r world and all stand
-
-1 we're 10 a inea ' As ong as . c of sco!Y will relate to us all.
-
-in a . \]Joe, the . po1n heroes we all relate to-superStor1es require . beings, hierarchy, and allegiance. We m\~ved
-
-fj
-
-•gbt 1
-
-1
-
-·nes co curves or, mathematrcalrom stra1
-
-ly {ram x==Y to x
-
-2
-
 ==Y· ' But our world, and certainly the world
 
 of our children, is coo chaotic for us all to stand
