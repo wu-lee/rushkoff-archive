@@ -55,21 +55,7 @@ Even more disastrous for those who would dominate nature and program human being
 
 While many argue that the impending "Gaian mind" of cyberspace--all those wires connecting the individual human neurons together--will turn our multifaceted world into a monoculture, I'd argue that just the opposite is true. The programmed media hierarchy is what pushes us towards monoculture. A world where each member can express herself is absolute chaos. Not disorder, chaos.
 
-So technology now addresses the great
-
-and natural human urge towards connection.
-
-Kids who go out on the Internet don't browse for
-
-facts. They search for other humans. It may look
-
-cold \~nd electronic, but what other means do
-
-they have at their disposal in a culture that values compet1t1on over cooperation,/ -called
-
-family values over community berspace is remedial help for a civj
-
-lost the ability to touch itself. J tI1111•1TTTTC'••·
+So technology now addresses the great and natural human urge towards connection. Kids who go out on the Internet don't browse for facts. They search for other humans. It may look cold and electronic, but what other means do they have at their disposal in a culture that values competition over cooperation, and so-called family values over community values? Cyberspace is remedial help for a civilization that has lost the ability to touch itself. Ironically, it is not the so-called "Third World" indigenous cultures who need to get online. They already understand their connection to nature and the natural rhythms of the planet. It is we, the members of the over-ordered Western civilization, who need to learn that we' re all part of the same great organism. Cyberspace merely approximates the level of communication that we'll be capable of, once we develop the compassion to perceive our deep connectedness organically. The Internet is Western white man's clean, dry, safe, electronic way of experiencing some global community.
 
 As a culture, we are predisposed to resist
 
