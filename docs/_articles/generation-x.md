@@ -17,11 +17,7 @@ Illiterate channel surfers? Couch potatoes? Apathetic video junkies? Socially al
 
 Ironically, out of this "vacuum of identity" came a steady stream of hip, smart, insightful words and images that both reflected and formed new attitudes. Emerging form the margins of society, twenty-something voices encroached on mainstream society making Bart Simpson, Ren and Stempy, Cyberspace and MTV part of our common vocabulary.
 
-Douglas Rushkoff, himself a GenXer, is among the first main- stream journalists to cover favorite topics like virtual reality, cyber- punks, the psychedelic revival and rave culture for publications as diverse as Vibe magazine, The Whole Earth, Miami Herald, Wall Street Journal, The Boston Globe and GQ. His books, including Free Rides (Dell), Cyberia: Life in the Trenches of Hyperspace (HarperSanFrancisco), The GenX Reader and Media Virus!: Hidden Agendas in Popular Culture (both by Ballantine), are witty explorations of his generation's attempt to find a future of their own in the nether regions of the Baby Boomer's high-tech society. Rushkoff's intimate portraits reveal a generation of
-
-social theorists: kids who dropped out of consensus culture and slid into a subversive subculture wise beyond its
-
-years.
+Douglas Rushkoff, himself a GenXer, is among the first mainstream journalists to cover favorite topics like virtual reality, cyberpunks, the psychedelic revival and rave culture for publications as diverse as _Vibe_ magazine, _The Whole Earth, Miami Herald, Wall Street Journal, The Boston Globe_ and _GQ_. His books, including _Free Rides_ (Dell), _Cyberia: Life in the Trenches of Hyperspace_ (HarperSanFrancisco), _The GenX Reader_ and _Media Virus!: Hidden Agendas in Popular Culture_ (both by Ballantine), are witty explorations of his generation's attempt to find a future of their own in the nether regions of the Baby Boomer's high-tech society. Rushkoff's intimate portraits reveal a generation of social theorists: kids who dropped out of consensus culture and slid into a subversive subculture wise beyond its years.
 
 In the book Media Virus! you state that "the loudest battle cry against the media comes from the New Age community." Is this because they are fear- ful of technology, or do you think they believe that this is the coming of the apocalypse?
 
