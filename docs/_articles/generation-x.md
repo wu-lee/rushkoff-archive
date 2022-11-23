@@ -31,13 +31,11 @@ _So the Internet is the first test run of a process that will eventually hardwir
 
 **Douglas Rushkoff**: It is a hardwiring, but I think if, and when, it succeeds in linking up planetary consciousness, we'll realize we had that ability all along.
 
-The hype word of today is "interactivity," which generally suggests a person interacting with machines. But I was talking to Timothy Leary a couple of weeks ago, and he told me about a conversation he had with Albert Einstein, about the coming age of computers. Timothy Leary was talking about interconnectivity and interactivity, and Einstein said, "No, the real significance and the real word to use for what's going to happen isn't just interactivity, it's interpersonal connections."
+The hype word of today is "interactivity," which generally suggests a person interacting with machines. But I was talking to Timothy Leary a couple of weeks ago, and he told me about a conversation he had with Albert Einstein, about the coming age of computers. Timothy Leary was talking about interconnectivity and interactivity, and Einstein said, "No, the real significance and the real word to use for what's going to happen isn't just interactivity, it's interpersonal connections." Einstein looked at everything in terms of relativity. And he's right. It's not a matter of individuals relating to a machine, it's individuals relating to each other. It's truly an interpersonal technology rather than an interactive technology.
 
-Einstein looked at everything in terms of relativity. And he's right. It's not a matter of individuals relating to a machine, it's individuals relat- ing to each other. It's truly an interpersonal technology rather than an interactive technology.
+_You talk about computer viruses and media viruses. Is there a real scare that the whole Internet will be infiltrated by these viruses?_
 
-You talk about computer viruses and media viruses. Is there a real scare that the whole Internet will be infiltrated by these viruses?
-
-Doug Rushkoff: Well, I think the threat and efficacy of media viruses to destabilize or screw up is vastly overrated. The truth is, when you hear a news report about a computer virus, nine times out of ten you'll hear in the same newscast an advertisement about a seminar that will help rid your company's computers of viruses. In other words, the press release originated from the computer-virus-extinguishing panies. And why? To get people to spend money on unnecessary com- puter security.
+**Doug Rushkoff**: Well, I think the threat and efficacy of media viruses to destabilize or screw up is vastly overrated. The truth is, when you hear a news report about a computer virus, nine times out of ten you'll hear in the same newscast an advertisement about a seminar that will help rid your company's computers of viruses. In other words, the press release originated from the computer-virus-extinguishing panies. And why? To get people to spend money on unnecessary computer security.
 
 com-
 
