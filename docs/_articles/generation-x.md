@@ -57,9 +57,7 @@ _Which is why fundamentalists don't much care for us._
 
 _You write that "a generation that has disconnected itself from the propaganda machine can no longer be controlled by it." I thought that was really a key to the twenty-something perspective. Maybe the GenXers are disconnecting themselves from the media because the content really isn't there._
 
-I
-
-Douglas Rushkoff: They are reconnecting to media in other ways. mean, they're watching Mystery Science Theater and Beavis and Butthead, because that's all media commentary. It's television's version of Brecht's alienation, where you are constantly made aware that you are watching television and that viruses are being shot out at you.
+**Douglas Rushkoff**: They are reconnecting to media in other ways. I mean, they're watching _Mystery Science Theater_ and _Beavis and Butthead_, because that's all media commentary. It's television's version of Brecht's alienation, where you are constantly made aware that you are watching television and that viruses are being shot out at you.
 
 Do you find within Generation X a different concept of spiritual beliefs that separate them from the sixties' model?
 
