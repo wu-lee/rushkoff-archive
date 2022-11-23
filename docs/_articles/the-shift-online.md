@@ -63,42 +63,4 @@ Technology and media have never really been apart from nature. Nothing ever has.
 
 By allowing our media to reach a state of true turbulence, we find that rather than exacerbating our disconnection from nature and one another, it is forcing us once again to confront the human urge for self-expression and group awareness. For spiritual people to resist technology for its seemingly unnatural implementation would be as foolish as it is for absolutists to resist its new tendency to promote an evolutionary agenda.
 
-Living in the free-form chaotic realm of
-
-cyberspace is what awakened me to the underlying rhythms of our world and the urge of all people towards greater connectedness. Most importantly, it's what made me realize I'm part of a
-
-great shift from allegiance to self-expression,
-
-metaphor to recapitulation, fundamentalism to
-
-globalism, apocalypse to evolution, and artificially imposed certainty to the unpredictable impermanence of real life. It has gotten me back in
-
-touch with the underlying rhythms of nature and
-
-the great planetary quest for shared consciousness.
-
-Douglas Rushkoff
-
-is the author of C yberia,
-
-Media Virus, Playing the
-
-Future, and a new novel,
-
-Ecstasy Club. He writes a
-
-weekly column about
-
-technology and culture
-
-for The New York Times
-
-Syndicate and is a frequent contributor to
-
-Esquire, Details, and
-
-Paper. He lectures at universities around the
-
-world and teaches workshops at Esalen and the
-
-Banff Center. He lives in New York City.
+Living in the free-form chaotic realm of cyberspace is what awakened me to the underlying rhythms of our world and the urge of all people towards greater connectedness. Most importantly, it's what made me realize I'm part of a great shift from allegiance to self-expression, metaphor to recapitulation, fundamentalism to globalism, apocalypse to evolution, and artificially imposed certainty to the unpredictable impermanence of real life. It has gotten me back in touch with the underlying rhythms of nature and the great planetary quest for shared consciousness.
