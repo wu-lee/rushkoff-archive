@@ -41,9 +41,7 @@ There are some bad trips people get on about the mediaspace. If they're not afra
 
 _You cite one example of a media virus being the Salmon Rushdie affair, in which the Ayatollah reacted to Rushdie's_ Satanic Verses _with an assassination edict. Could you talk a little bit about that?_
 
-Douglas Rushkoff: The spread of a global culture through media is most threatening to fundamentalists. That's because fundamentalism is maintained by isolating your group from the general global wash of imagery. That's the way fundamentalism works. It tries to remain pure by isolating itself. What the Ayatollah did by launching the "Kill-Salm- on-Rushdie-Virus" was to put his foot down and say that threatening ideas would be stomped out. In other words, he declared that memes are real. In his effort to stomp them out, he has admitted their potency
-
-and ability to cause damage through infiltration. So the Ayatollah treats the threat as real by declaring an ideological war.
+**Douglas Rushkoff**: The spread of a global culture through media is most threatening to fundamentalists. That's because fundamentalism is maintained by isolating your group from the general global wash of imagery. That's the way fundamentalism works. It tries to remain pure by isolating itself. What the Ayatollah did by launching the "Kill-Salmon-Rushdie-Virus" was to put his foot down and say that threatening ideas would be stomped out. In other words, he declared that memes are real. In his effort to stomp them out, he has admitted their potency and ability to cause damage through infiltration. So the Ayatollah treats the threat as real by declaring an ideological war.
 
 What exactly are memes?
 
