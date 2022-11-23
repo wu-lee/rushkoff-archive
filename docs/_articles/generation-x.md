@@ -59,17 +59,9 @@ _You write that "a generation that has disconnected itself from the propaganda m
 
 **Douglas Rushkoff**: They are reconnecting to media in other ways. I mean, they're watching _Mystery Science Theater_ and _Beavis and Butthead_, because that's all media commentary. It's television's version of Brecht's alienation, where you are constantly made aware that you are watching television and that viruses are being shot out at you.
 
-Do you find within Generation X a different concept of spiritual beliefs that separate them from the sixties' model?
+_Do you find within Generation X a different concept of spiritual beliefs that separate them from the sixties' model?_
 
-220
-
-A CULTURE.
-
-ARCH OF ITSELF
-
-Douglas Rushkoff: As a broad categorization, I would say that a unique contribution that Generation X has made to the cultural conversation about religion and spirituality is that they don't feel the same need to have a religion of tenets or a system of beliefs to go by. Instead, I think they're moving toward more direct experiential forms of spirituality. The real religious interface is no longer between the individual and God the Father, but between the individual and everything else. I think, for example, that one way to experience the connection to the higher heartbeat, or the great pulse of the universe, is through activities
-
-like the rave.
+**Douglas Rushkoff**: As a broad categorization, I would say that a unique contribution that Generation X has made to the cultural conversation about religion and spirituality is that they don't feel the same need to have a religion of tenets or a system of beliefs to go by. Instead, I think they're moving toward more direct experiential forms of spirituality. The real religious interface is no longer between the individual and God the Father, but between the individual and everything else. I think, for example, that one way to experience the connection to the higher heartbeat, or the great pulse of the universe, is through activities like the rave.
 
 People keep harping about the collapse of the family and the loss of family values, but that's not the problem. The problem is the loss of community values. We lost our community values. We don't know our neighbors. We moved into a suburban life-style where each family was a separate unit and was being asked to serve the function of an entire community. No family can do that. The two-parent/1.5-children nucle- ar family is not enough to create a sense of connection to the world and to the higher power, if you can call it that. The family has collapsed be- cause it's been asked to do more than it should do. What we do need to do, if we want to restore the sense of family, is to learn how to live as what we are, which is a colonial organism, a huge mass of individuals.
 
