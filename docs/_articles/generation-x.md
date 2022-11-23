@@ -55,7 +55,7 @@ _Which is why fundamentalists don't much care for us._
 
 **Douglas Rushkoff**: What fundamentalists are afraid of is a certain kind of change. In this country there are huge numbers of people who are afraid that their kids are going to disengage from the static moral templates that have traditionally defined and limited our behaviors. And they're quite right. Generation X doesn't see moral templates, father figures and all that patriarchal, hierarchical stuff as real. They don't see the two-party system as real. They realize it's the vestiges of old static systems that don't adequately express the modern human experience.
 
-You write that "a generation that has disconnected itself from the propa- ganda machine can no longer be controlled by it." I thought that was really a key to the twenty-something perspective. Maybe the GenXers are disconnect- ing themselves from the media because the content really isn't there.
+_You write that "a generation that has disconnected itself from the propaganda machine can no longer be controlled by it." I thought that was really a key to the twenty-something perspective. Maybe the GenXers are disconnecting themselves from the media because the content really isn't there._
 
 I
 
