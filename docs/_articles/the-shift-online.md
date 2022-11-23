@@ -57,37 +57,7 @@ While many argue that the impending "Gaian mind" of cyberspace--all those wires 
 
 So technology now addresses the great and natural human urge towards connection. Kids who go out on the Internet don't browse for facts. They search for other humans. It may look cold and electronic, but what other means do they have at their disposal in a culture that values competition over cooperation, and so-called family values over community values? Cyberspace is remedial help for a civilization that has lost the ability to touch itself. Ironically, it is not the so-called "Third World" indigenous cultures who need to get online. They already understand their connection to nature and the natural rhythms of the planet. It is we, the members of the over-ordered Western civilization, who need to learn that we' re all part of the same great organism. Cyberspace merely approximates the level of communication that we'll be capable of, once we develop the compassion to perceive our deep connectedness organically. The Internet is Western white man's clean, dry, safe, electronic way of experiencing some global community.
 
-As a culture, we are predisposed to resist
-
-rhe chaotic nature of the real world. The stories
-
-on which we have been raised for the past several centuries reduce the complexity of the
-
-human experience to oversimplified moral platirudes and determinist certainties. We have
-
-become addicted to stories with endings. It is
-
-rhe only way we know to relieve the tension of
-
-nor knowing. We so crave definitive endings
-
-char millions of fundamentalists worldwide
-
-would rather the entire planet be consumed in
-
-a fiery apocalypse than simply let it keep going.
-
-We'd rather be eternally damned and get the
-
-relief of an ending to the story than live on in
-
-existential uncertainty. We refuse to accept the
-
-alternative to completion: change. This is why
-
-fundamentalists are so opposed to the notion of
-
-evolution. Evolution changes the ground rules.
+As a culture, we are predisposed to resist the chaotic nature of the real world. The stories on which we have been raised for the past several centuries reduce the complexity of the human experience to oversimplified moral platitudes and determinist certainties. We have become addicted to stories with endings. It is the only way we know to relieve the tension of not knowing. We so crave definitive endings that millions of fundamentalists worldwide would rather the entire planet be consumed in a fiery apocalypse than simply let it keep going. We'd rather be eternally damned and get the relief of an ending to the story than live on in existential uncertainty. We refuse to accept the alternative to completion: change. This is why fundamentalists are so opposed to the notion of evolution. Evolution changes the ground rules.
 
 Technology and media have never really been apart from nature. Nothing ever has.
 
