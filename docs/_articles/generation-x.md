@@ -31,29 +31,7 @@ _So the Internet is the first test run of a process that will eventually hardwir
 
 **Douglas Rushkoff**: It is a hardwiring, but I think if, and when, it succeeds in linking up planetary consciousness, we'll realize we had that ability all along.
 
-The hype word of today is "interactivity," which generally sug- gests a person interacting with machines. But I was talking to Timothy Leary a couple of weeks ago, and he told me about a conversation he had with Albert Einstein, about the coming age of computers. Timothy Leary was talking about interconnectivity and interactivity, and Ein- stein said, "No, the real significance and the real word to use for what's going to happen isn't just interactivity, it's interpersonal connections."
-
-218
-
-A CULTS IN SEARCH OF SHIV
-
-Einstein looked at everything in terms of relativity. And he's right. It's not a matter of individuals relating to a machine, it's individuals relat- ing to each other. It's truly an interpersonal technology rather than an interactive technology,
-
-You talk about computer viruses and media viruses. Is there a real scare that the whole Internet will be infiltrated by these viruses?
-
-Doug Rushkoff: Well, I think the threat and efficacy of media viruses to destabilize or screw up is vastly overrated. The truth is, when you hear a news report about a computer virus, nine times out of ten you'll hear in the same newscast an advertisement about a seminar that will help rid your company's computers of viruses. In other words, the press release originated from the computer-virus-extinguishing panies. And why? To get people to spend money on unnecessary com- puter security.
-
-com-
-
-There are some bad trips people get on about the mediaspace. If they're not afraid of catching computer viruses by spending too much time on the Internet, they're afraid their children are going to jack themselves into the matrix and get addicted to virtual sex. Let's face the facts-people are afraid of intimacy, period. AIDS has become the lat- est excuse for people not to have sex. I mean we should be careful and all that, but it's one thing to be afraid of AIDS and quite another to be afraid of sex. It's the same thing with computer viruses. If you're afraid of computer viruses that's one thing-you can deal with that by being careful about what you download-but if you're talking about fear of empowerment and fear of the kind of intimacy that immersion in the Internet creates, that's another thing entirely.
-
-You cite one example of a media virus being the Salmon Rushdie affair, in which the Ayatollah reacted to Rushdie's Satanic Verses with an assassi- nation edict. Could you talk a little bit about that?
-
-Douglas Rushkoff: The spread of a global culture through media is most threatening to fundamentalists. That's because fundamentalism is maintained by isolating your group from the general global wash of imagery. That's the way fundamentalism works. It tries to remain pure by isolating itself. What the Ayatollah did by launching the "Kill-Salm- on-Rushdie-Virus" was to put his foot down and say that threatening ideas would be stomped out. In other words, he declared that memes are real. In his effort to stomp them out, he has admitted their potency
-
-218
-
-A CULTURE IN SEARCH OF
+The hype word of today is "interactivity," which generally suggests a person interacting with machines. But I was talking to Timothy Leary a couple of weeks ago, and he told me about a conversation he had with Albert Einstein, about the coming age of computers. Timothy Leary was talking about interconnectivity and interactivity, and Einstein said, "No, the real significance and the real word to use for what's going to happen isn't just interactivity, it's interpersonal connections."
 
 Einstein looked at everything in terms of relativity. And he's right. It's not a matter of individuals relating to a machine, it's individuals relat- ing to each other. It's truly an interpersonal technology rather than an interactive technology.
 
