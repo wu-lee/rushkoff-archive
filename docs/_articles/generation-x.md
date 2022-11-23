@@ -21,7 +21,7 @@ Douglas Rushkoff, himself a GenXer, is among the first mainstream journalists to
 
 _In the book_ Media Virus! _you state that "the loudest battle cry against the media comes from the New Age community." Is this because they are fearful of technology, or do you think they believe that this is the coming of the apocalypse?_
 
-Douglas Rushkoff: A lot of New Age people seem suspicious of tech- nology. They see it as somehow unnatural and something that really needs to be reversed in order to return us to a natural state. Personally, I think this is a sixties' paranoid view. I look at everything as ultimately natural. If we are in a technological morass, then the only way to get through it is to push through it, not to reverse it.
+**Douglas Rushkoff**: A lot of New Age people seem suspicious of technology. They see it as somehow unnatural and something that really needs to be reversed in order to return us to a natural state. Personally, I think this is a sixties' paranoid view. I look at everything as ultimately natural. If we are in a technological morass, then the only way to get through it is to push through it, not to reverse it.
 
 Do you believe that technology is serving to link us with nature and one another?
 
