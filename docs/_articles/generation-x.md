@@ -23,11 +23,9 @@ _In the book_ Media Virus! _you state that "the loudest battle cry against the m
 
 **Douglas Rushkoff**: A lot of New Age people seem suspicious of technology. They see it as somehow unnatural and something that really needs to be reversed in order to return us to a natural state. Personally, I think this is a sixties' paranoid view. I look at everything as ultimately natural. If we are in a technological morass, then the only way to get through it is to push through it, not to reverse it.
 
-Do you believe that technology is serving to link us with nature and one another?
+_Do you believe that technology is serving to link us with nature and one another?_
 
-Douglas Rushkoff: Ultimately, yes. Technology is part of nature. It's an extension of human consciousness. Ironically the portals that technolo- gy opens to us are generally portals that we could open without tech- nology, if we knew how. I think that we are fully capable as human beings of having a global brain and of communicating with each other as parts of a single great organism. But either we really haven't devel- oped those skills, or else we've lost the ability to use them. Back in tribal days, people didn't see themselves as individuals; they saw themselves as parts of a little organism. Well, being one part of an eight-billion-part organism is much harder to come to grips with. In a way, technology is
-
-a test run.
+**Douglas Rushkoff**: Ultimately, yes. Technology is part of nature. It's an extension of human consciousness. Ironically the portals that technology opens to us are generally portals that we could open without technology, if we knew how. I think that we are fully capable as human beings of having a global brain and of communicating with each other as parts of a single great organism. But either we really haven't developed those skills, or else we've lost the ability to use them. Back in tribal days, people didn't see themselves as individuals; they saw themselves as parts of a little organism. Well, being one part of an eight-billion-part organism is much harder to come to grips with. In a way, technology is a test run.
 
 So the Internet is the first test run of a process that will eventually hard- wire us together as a single great organism?
 
