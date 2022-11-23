@@ -59,17 +59,7 @@ So technology now addresses the great and natural human urge towards connection.
 
 As a culture, we are predisposed to resist the chaotic nature of the real world. The stories on which we have been raised for the past several centuries reduce the complexity of the human experience to oversimplified moral platitudes and determinist certainties. We have become addicted to stories with endings. It is the only way we know to relieve the tension of not knowing. We so crave definitive endings that millions of fundamentalists worldwide would rather the entire planet be consumed in a fiery apocalypse than simply let it keep going. We'd rather be eternally damned and get the relief of an ending to the story than live on in existential uncertainty. We refuse to accept the alternative to completion: change. This is why fundamentalists are so opposed to the notion of evolution. Evolution changes the ground rules.
 
-Technology and media have never really been apart from nature. Nothing ever has.
-
-Our power plants are no less natural than a
-
-beaver's dam. Our chemicals are no less natural than bees' honey. We just fooled ourselves
-
-into thinking we had devised a way to resist
-
-the ebb and flow of nature. We were really just
-
-serving its greater agenda.
+Technology and media have never really been apart from nature. Nothing ever has. Our power plants are no less natural than a beaver's dam. Our chemicals are no less natural than bees' honey. We just fooled ourselves into thinking we had devised a way to resist the ebb and flow of nature. We were really just serving its greater agenda.
 
 By allowing our media to reach a state
 
