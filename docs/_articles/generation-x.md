@@ -27,9 +27,9 @@ _Do you believe that technology is serving to link us with nature and one anothe
 
 **Douglas Rushkoff**: Ultimately, yes. Technology is part of nature. It's an extension of human consciousness. Ironically the portals that technology opens to us are generally portals that we could open without technology, if we knew how. I think that we are fully capable as human beings of having a global brain and of communicating with each other as parts of a single great organism. But either we really haven't developed those skills, or else we've lost the ability to use them. Back in tribal days, people didn't see themselves as individuals; they saw themselves as parts of a little organism. Well, being one part of an eight-billion-part organism is much harder to come to grips with. In a way, technology is a test run.
 
-So the Internet is the first test run of a process that will eventually hard- wire us together as a single great organism?
+_So the Internet is the first test run of a process that will eventually hardwire us together as a single great organism?_
 
-Douglas Rushkoff: It is a hardwiring, but I think if, and when, it suc- ceeds in linking up planetary consciousness, we'll realize we had that ability all along.
+**Douglas Rushkoff**: It is a hardwiring, but I think if, and when, it succeeds in linking up planetary consciousness, we'll realize we had that ability all along.
 
 The hype word of today is "interactivity," which generally sug- gests a person interacting with machines. But I was talking to Timothy Leary a couple of weeks ago, and he told me about a conversation he had with Albert Einstein, about the coming age of computers. Timothy Leary was talking about interconnectivity and interactivity, and Ein- stein said, "No, the real significance and the real word to use for what's going to happen isn't just interactivity, it's interpersonal connections."
 
