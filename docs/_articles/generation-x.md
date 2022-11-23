@@ -47,9 +47,9 @@ _What exactly are memes?_
 
 **Douglas Rushkoff**: I think Dawkin's coined the term in _The Selfish Gene. Memes_ are the ideological equivalent of genes. A virus in the real world isn't a living thing; it's not like bacteria. It's protein wrapped around genes, wrapped around DNA. A media virus is an event or some sort of media shell wrapped around memes, around ideas.
 
-You had a great example of Virus 23, the zine, and Boing! Boing! being media viruses.
+_You had a great example of_ Virus 23_, the zine, and_ Boing! Boing! _being media viruses._
 
-Douglas Rushkoff: Even Mondo 2000. They're viral shells wrapped around memes. I mean Magical Blend is a virus of sorts. It's a blend of ideas, memes and techniques. It's a group of coherent, discreet, units of thought that, when absorbed by readers, is capable of changing the way they function.
+**Douglas Rushkoff**: Even _Mondo 2000_. They're viral shells wrapped around memes. I mean _Magical Blend_ is a virus of sorts. It's a blend of ideas, memes and techniques. It's a group of coherent, discreet, units of thought that, when absorbed by readers, is capable of changing the way they function.
 
 Which is why fundamentalists don't much care for us.
 
