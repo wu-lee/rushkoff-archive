@@ -51,9 +51,9 @@ _You had a great example of_ Virus 23_, the zine, and_ Boing! Boing! _being medi
 
 **Douglas Rushkoff**: Even _Mondo 2000_. They're viral shells wrapped around memes. I mean _Magical Blend_ is a virus of sorts. It's a blend of ideas, memes and techniques. It's a group of coherent, discreet, units of thought that, when absorbed by readers, is capable of changing the way they function.
 
-Which is why fundamentalists don't much care for us.
+_Which is why fundamentalists don't much care for us._
 
-Douglas Rushkoff: What fundamentalists are afraid of is a certain kind of change. In this country there are huge numbers of people who are afraid that their kids are going to disengage from the static moral tem- plates that have traditionally defined and limited our behaviors. And they're quite right. Generation X doesn't see moral templates, father figures and all that patriarchal, hierarchical stuff as real. They don't see the two-party system as real. They realize it's the vestiges of old static systems that don't adequately express the modern human experience.
+**Douglas Rushkoff**: What fundamentalists are afraid of is a certain kind of change. In this country there are huge numbers of people who are afraid that their kids are going to disengage from the static moral templates that have traditionally defined and limited our behaviors. And they're quite right. Generation X doesn't see moral templates, father figures and all that patriarchal, hierarchical stuff as real. They don't see the two-party system as real. They realize it's the vestiges of old static systems that don't adequately express the modern human experience.
 
 You write that "a generation that has disconnected itself from the propa- ganda machine can no longer be controlled by it." I thought that was really a key to the twenty-something perspective. Maybe the GenXers are disconnect- ing themselves from the media because the content really isn't there.
 
