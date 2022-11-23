@@ -43,9 +43,9 @@ _You cite one example of a media virus being the Salmon Rushdie affair, in which
 
 **Douglas Rushkoff**: The spread of a global culture through media is most threatening to fundamentalists. That's because fundamentalism is maintained by isolating your group from the general global wash of imagery. That's the way fundamentalism works. It tries to remain pure by isolating itself. What the Ayatollah did by launching the "Kill-Salmon-Rushdie-Virus" was to put his foot down and say that threatening ideas would be stomped out. In other words, he declared that memes are real. In his effort to stomp them out, he has admitted their potency and ability to cause damage through infiltration. So the Ayatollah treats the threat as real by declaring an ideological war.
 
-What exactly are memes?
+_What exactly are memes?_
 
-Douglas Rushkoff: I think Dawkin's coined the term in The Selfish Gene. Memes are the ideological equivalent of genes. A virus in the real world isn't a living thing; it's not like bacteria. It's protein wrapped around genes, wrapped around DNA. A media virus is an event or some sort of media shell wrapped around memes, around ideas.
+**Douglas Rushkoff**: I think Dawkin's coined the term in _The Selfish Gene. Memes_ are the ideological equivalent of genes. A virus in the real world isn't a living thing; it's not like bacteria. It's protein wrapped around genes, wrapped around DNA. A media virus is an event or some sort of media shell wrapped around memes, around ideas.
 
 You had a great example of Virus 23, the zine, and Boing! Boing! being media viruses.
 
