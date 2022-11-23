@@ -61,25 +61,7 @@ As a culture, we are predisposed to resist the chaotic nature of the real world.
 
 Technology and media have never really been apart from nature. Nothing ever has. Our power plants are no less natural than a beaver's dam. Our chemicals are no less natural than bees' honey. We just fooled ourselves into thinking we had devised a way to resist the ebb and flow of nature. We were really just serving its greater agenda.
 
-By allowing our media to reach a state
-
-of true turbulence' we find that rather than
-
-exacerbating our disconnection from n\~ture
-
-and one another, it is forcing us once again_ to
-
-confront the human urge for self-expression
-
-and group awareness. For spiritual people to
-
-. h ology for its seemingly unnatural
-
-resist tee n . . . L'.
-
-imp lementation would be as foolish as it is ior
-
-absolutists to resist its new tendency to promote an evolutionary agenda.
+By allowing our media to reach a state of true turbulence, we find that rather than exacerbating our disconnection from nature and one another, it is forcing us once again to confront the human urge for self-expression and group awareness. For spiritual people to resist technology for its seemingly unnatural implementation would be as foolish as it is for absolutists to resist its new tendency to promote an evolutionary agenda.
 
 Living in the free-form chaotic realm of
 
