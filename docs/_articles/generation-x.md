@@ -85,13 +85,7 @@ _It's so ironic in that sense._
 
 _It seems that now, more than ever, writers of science fiction like William Gibson, Phillip K. Dick and Terence McKenna should be known as the prophets of the future. Do you think they're correct in their views?_
 
-Douglas Rushkoff: Sometimes I get the feeling that they all lack faith in human nature. McKenna says we've gone down a dead end, and we need to back up and go out the way we came in. I say absolutely not! We need to push through. McKenna believes there's a bottleneck effect,
-
-222
-
-A CULTURE IN SEARCH OF ITSELF
-
-and people who have had the DMT experience and other realizations are going to make it through the attractor at the end of time, while the vast majority will not. The way I see it, either we all make it or none of us will. It's one organism, one thing. Dick and Gibson say that technol- ogy is going to change and get better, but human nature is going to stay the same. In other words, human nature is bad, and we're just going to use our new technology to do mean things to each other. I just don't be- lieve that's true. Human nature changes, and I believe that it's basically good, not bad. Technology is inherently liberating, ultimately. Renais- sances don't happen overnight.
+**Douglas Rushkoff**: Sometimes I get the feeling that they all lack faith in human nature. McKenna says we've gone down a dead end, and we need to back up and go out the way we came in. I say absolutely not! We need to push through. McKenna believes there's a bottleneck effect, and people who have had the DMT experience and other realizations are going to make it through the attractor at the end of time, while the vast majority will not. The way I see it, either we all make it or none of us will. It's one organism, one thing. Dick and Gibson say that technology is going to change and get better, but human nature is going to stay the same. In other words, human nature is bad, and we're just going to use our new technology to do mean things to each other. I just don't believe that's true. Human nature changes, and I believe that it's basically good, not bad. Technology is inherently liberating, ultimately. Renaissances don't happen overnight.
 
 When we look to the future of cyberspace, what's the warning sign up ahead?
 
