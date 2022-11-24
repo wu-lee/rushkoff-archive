@@ -71,9 +71,9 @@ _In_ Cyberia _you talk about two kids dropping in on the net while taking ecstas
 
 I wrote about the drug war in my first book, _Free Rides_. What I said was that the war is not against drugs, but against the states of consciousness they offer, because they are threatening to those who would keep things the way they are.
 
-If in fact we are moving into different levels of reality, will the future be more user-friendly to those with broader experiences?
+_If in fact we are moving into different levels of reality, will the future be more user-friendly to those with broader experiences?_
 
-Douglas Rushkoff: You know that most of the people in the research and development departments of the computer industry had to have experienced hallucinatory realities. That's what the computer reality was at the beginning-people charting a totally new region of con- sciousness. Naturally, the people who felt comfortable doing that were people who had already done it with chemicals.
+**Douglas Rushkoff**: You know that most of the people in the research and development departments of the computer industry had to have experienced hallucinatory realities. That's what the computer reality was at the beginning--people charting a totally new region of consciousness. Naturally, the people who felt comfortable doing that were people who had already done it with chemicals.
 
 The Internet is currently multidimensional in its consciousness. What will happen when the government steps in? Will there be toll gates at each node? Will it get swallowed up?
 
