@@ -69,9 +69,7 @@ _In_ Cyberia _you talk about two kids dropping in on the net while taking ecstas
 
 **Douglas Rushkoff**: Psychedelics, be they natural or synthetic, are a valuable cultural medicine for a society that has lost its connection to itself. In a world of all-too-discrete individuals, it helps to break down the illusion of separateness. That's why the rave experience is so popular. Kids coming out of our very ego-based culture need a medicine to create that feeling of connection that breaks down walls and allows the animal to rise up. Medicinally or technologically generated communities are valuable, and are an important stage for a society that really needs remedial help, because we seem to have lost the ability to do it in any other way.
 
-I wrote about the drug war in my first book, Free Rides. What I said was that the war is not against drugs, but against the states of con- sciousness they offer, because they are threatening to those who would
-
-keep things the way they are.
+I wrote about the drug war in my first book, _Free Rides_. What I said was that the war is not against drugs, but against the states of consciousness they offer, because they are threatening to those who would keep things the way they are.
 
 If in fact we are moving into different levels of reality, will the future be more user-friendly to those with broader experiences?
 
