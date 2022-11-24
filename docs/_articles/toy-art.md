@@ -15,9 +15,7 @@ My friend Andrew had always known about this kind of stuff before I did. He took
 
 It was like an Asian version of a mall store called Spencer Gifts that we used to go when we were kids, to scope new bongs, incense, and blacklight posters. Except that none of the stuff here was about making kids feel more adult. Most of it, in fact, was about making adults feel more like kids.
 
-1
-
-In little boxes were squished-down, fat, big-eyed ver- sions of the Ultraman character a Japanese TV super- hero named Hayata who could only be full-on, solar- powered Ultraman for a minute or two to beat up the monsters before the light on his chest changed color meaning he had run out of energy and would return to normal. Of course, the real reason for Ultraman's limit- ed budget of super powers were the Japanese studios' limited special effects budgets. And those are the kinds of things any adult who thinks about these kinds of things, thinks about.
+In little boxes were squished-down, fat, big-eyed versions of the Ultraman character - a Japanese TV superhero named Hayata who could only be full-on, solar-powered Ultraman for a minute or two to beat up the monsters before the light on his chest changed color meaning he had run out of energy and would return to normal. Of course, the real reason for Ultraman's limited budget of super powers were the Japanese studios' limited special effects budgets. And those are the kinds of things any adult who thinks about these kinds of things, thinks about.
 
 \-
 
