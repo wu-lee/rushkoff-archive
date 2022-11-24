@@ -21,7 +21,7 @@ But I hadn't thought about Ultraman in years - not since watching some bootleg V
 
 Of course, eventually the scale tipped the other way. I had read enough, learned enough, and opined enough to know my Plato from my Aristotle, my Brecht from my Artaud, and my Duchamp from my Dali - or at least to make a good case that I did. And, like anyone who paid real money for the privilege of learning all this, I had a stake in maintaining the notion that there was some difference.
 
-But these little, fat, cute, squished-down or, what I'd later learn, were "super deformed" or SD figures, somehow connected my two, formerly distinct worlds for evermore. Down was up and up was down, and I like a Kabbalistic Tree - was the rod through which ener- gy and information could pass from the high dimension to the low and vice versa.
+But these little, fat, cute, squished-down or, what I'd later learn, were "super deformed" or SD figures, somehow connected my two, formerly distinct worlds for evermore. Down was up and up was down, and I - like a Kabbalistic Tree - was the rod through which energy and information could pass from the high dimension to the low and vice versa.
 
 I kid you not: since that moment, I was able to make a career out of analyzing The Simpsons, Ren & Stimpy, and Pee-Wee Herman. I explained to the intellectuals of New York City why they'd be using email someday, and what hypertext was. I showed them the fractal images given to me by ravers in Oakland.
 
