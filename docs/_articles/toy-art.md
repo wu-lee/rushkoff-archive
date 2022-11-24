@@ -31,7 +31,9 @@ See, the SD Ultraman wasn't just the junk culture output of a cynically executed
 
 And for me, it was the beginning of a journey that the artists chronicled in this book have been on for most of their careers.
 
-The Art-Toy movement brings the infinitely replicable image into the artificially scarce realm of the mass pro- duced object - and occasionally even the one-off, hand- crafted piece. Of course, when an object is absolutely singular and individually sculpted, it will be done so in a way that makes it look as if it were a mass-produced piece of plastic, anyway. Such are the reversals in a genre that derives its voltage from the potential differ- ence of low culture and high, mass produced and hand- made, utterly derivative yet cleverly unique, entirely accessible yet also dependent on a wealth of associations beyond the capacity of anyone except maybe the artist. Yet even more revitalizing to a tired, investor-driven arts landscape, the art toy movement is producing artifacts that people _want_. As any three-year-old knows, that's the beauty of toys. They give you something to want.
+The Art-Toy movement brings the infinitely replicable image into the artificially scarce realm of the mass produced object - and occasionally even the one-off, hand-crafted piece. Of course, when an object is absolutely singular and individually sculpted, it will be done so in a way that makes it look as if it were a mass-produced piece of plastic, anyway. Such are the reversals in a genre that derives its voltage from the potential difference of low culture and high, mass produced and hand-made, utterly derivative yet cleverly unique, entirely accessible yet also dependent on a wealth of associations beyond the capacity of anyone - except maybe the artist.
+
+Yet even more revitalizing to a tired, investor-driven arts landscape, the art toy movement is producing artifacts that people _want_. As any three-year-old knows, that's the beauty of toys. They give you something to want.
 
 \-
 
