@@ -8,7 +8,6 @@ blurb: ''
 notes: ''
 refs: ''
 sources: ''
-published: false
 
 ---
 with Mike Gorman and DNA
