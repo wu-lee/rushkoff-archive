@@ -27,7 +27,7 @@ I kid you not: since that moment, I was able to make a career out of analyzing T
 
 On the other hand, I brought chaos mathematicians to the attention of pot-heads, Baudrillard to the attention of Simpsons writers, and advanced currency theory to the economy of Second Life. It goes both ways.
 
-See, the SD Ultraman wasn't just the junk culture output of a cynically executed licensing contract. It was a con- scious perversion and celebration of a historically sig- nificant superhero. Some artist in a workshop in Tokyo thought, why not MUTATE this guy? And why not do it in a way that comments on all the big-eyed baby figures coming out of Disney, the big-eyed stereotypes of manga, and childlike obsession of boys (or men) with dolls?
+See, the SD Ultraman wasn't just the junk culture output of a cynically executed licensing contract. It was a conscious perversion and celebration of a historically significant superhero. Some artist in a workshop in Tokyo thought, why not MUTATE this guy? And why not do it in a way that comments on all the big-eyed baby figures coming out of Disney, the big-eyed stereotypes of manga, and childlike obsession of boys (or men) with dolls?
 
 And for me, it was the beginning of a journey that the artists chronicled in this book have been on for most of their careers.
 
