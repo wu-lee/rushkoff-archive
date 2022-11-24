@@ -75,7 +75,7 @@ _If in fact we are moving into different levels of reality, will the future be m
 
 **Douglas Rushkoff**: You know that most of the people in the research and development departments of the computer industry had to have experienced hallucinatory realities. That's what the computer reality was at the beginning--people charting a totally new region of consciousness. Naturally, the people who felt comfortable doing that were people who had already done it with chemicals.
 
-The Internet is currently multidimensional in its consciousness. What will happen when the government steps in? Will there be toll gates at each node? Will it get swallowed up?
+_The Internet is currently multidimensional in its consciousness. What will happen when the government steps in? Will there be toll gates at each node? Will it get swallowed up?_
 
 Douglas Rushkoff: It can't get swallowed up. It was conceived by the Rand Corporation and was brilliantly constructed to avoid that kind of control. The smartest minds figured out that if you created a natural chaotic system, no one will be able to censor it. They've created the bee- hive, ant nest, networked grass-roots subculture. They can't take it back. This is the best war machine they have ever made.
 
