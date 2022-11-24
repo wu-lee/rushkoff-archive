@@ -83,7 +83,7 @@ _It's so ironic in that sense._
 
 **Douglas Rushkoff**: That's the thing, everyone considers the cold war and the industrial revolution to be all bad. They weren't bad, they just got us to a stage. A little kid, when he's two or three years old, starts saying no to his parents and turns into a little brat. That's what we did as a baby civilization growing up. We kept crying, No! Like a little baby, we were angry that we weren't one with the mother any more. But what does a baby do as it grows up? It fights for its individuality. Then, when it becomes an adolescent, it says, “OK, I'm going to drop some of my ego, because I want to get laid." That's what we're doing. We decided it's more valuable to have intimacy than some notion of this separate self.
 
-It seems that now, more than ever, writers of science fiction like William Gibson, Phillip K. Dick and Terence McKenna should be known as the proph- ets of the future. Do you think they're correct in their views?
+_It seems that now, more than ever, writers of science fiction like William Gibson, Phillip K. Dick and Terence McKenna should be known as the prophets of the future. Do you think they're correct in their views?_
 
 Douglas Rushkoff: Sometimes I get the feeling that they all lack faith in human nature. McKenna says we've gone down a dead end, and we need to back up and go out the way we came in. I say absolutely not! We need to push through. McKenna believes there's a bottleneck effect,
 
