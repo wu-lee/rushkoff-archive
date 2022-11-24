@@ -77,7 +77,7 @@ _If in fact we are moving into different levels of reality, will the future be m
 
 _The Internet is currently multidimensional in its consciousness. What will happen when the government steps in? Will there be toll gates at each node? Will it get swallowed up?_
 
-Douglas Rushkoff: It can't get swallowed up. It was conceived by the Rand Corporation and was brilliantly constructed to avoid that kind of control. The smartest minds figured out that if you created a natural chaotic system, no one will be able to censor it. They've created the bee- hive, ant nest, networked grass-roots subculture. They can't take it back. This is the best war machine they have ever made.
+**Douglas Rushkoff**: It can't get swallowed up. It was conceived by the Rand Corporation and was brilliantly constructed to avoid that kind of control. The smartest minds figured out that if you created a natural chaotic system, no one will be able to censor it. They've created the beehive, ant nest, networked grass-roots subculture. They can't take it back. This is the best war machine they have ever made.
 
 It's so ironic in that sense.
 
