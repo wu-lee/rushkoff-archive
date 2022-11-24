@@ -17,11 +17,7 @@ It was like an Asian version of a mall store called Spencer Gifts that we used t
 
 In little boxes were squished-down, fat, big-eyed versions of the Ultraman character - a Japanese TV superhero named Hayata who could only be full-on, solar-powered Ultraman for a minute or two to beat up the monsters before the light on his chest changed color meaning he had run out of energy and would return to normal. Of course, the real reason for Ultraman's limited budget of super powers were the Japanese studios' limited special effects budgets. And those are the kinds of things any adult who thinks about these kinds of things, thinks about.
 
-\-
-
-But I hadn't thought about Ultraman in years - not since watching some bootleg VHS copies in college with some computer-nerd friends of mine - a time in my life when I seemed to have more worth as a repository of lowbrow cuture than as a student of the classics I was
-
-supposed to be absorbing in the Princeton English department.
+But I hadn't thought about Ultraman in years - not since watching some bootleg VHS copies in college with some computer-nerd friends of mine - a time in my life when I seemed to have more worth as a repository of lowbrow culture than as a student of the classics I was supposed to be absorbing in the Princeton English department.
 
 Of course, eventually the scale tipped the other way. I had read enough, learned enough, and opined enough to know my Plato from my Aristotle, my Brecht from my Artaud, and my Duchamp from my Dali - or at least to make a good case that I did. And, like anyone who paid real money for the privilege of learning all this, I had a stake in maintaining the notion that there was some difference.
 
