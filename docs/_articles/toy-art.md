@@ -35,11 +35,7 @@ The Art-Toy movement brings the infinitely replicable image into the artificiall
 
 Yet even more revitalizing to a tired, investor-driven arts landscape, the art toy movement is producing artifacts that people *want*. As any three-year-old knows, that's the beauty of toys. They give you something to want.
 
-\-
-
-In each of our lives there was a moment before mar- keters had applied this pure, virgin, uncorrupted state of object desire to the mundane mechanics of our
-
-kitchens, commuter machines, or work garments. The overwhelming need to _have_ what we saw coming off assembly lines - those plastic objects looking something like the characters in our TV shows and movies, or sim- ply looking so darn cute - was real. It was as essential to us then as the desire to bed a coed is to a college kid.
+In each of our lives there was a moment before marketers had applied this pure, virgin, uncorrupted state of object desire to the mundane mechanics of our kitchens, commuter machines, or work garments. The overwhelming need to *have* what we saw coming off assembly lines - those plastic objects looking something like the characters in our TV shows and movies, or simply looking so darn cute - was real. It was as essential to us then as the desire to bed a coed is to a college kid.
 
 The merging of toy with art, along with the self-con- scious merging of commercial, synthetic production with highly personal vision, brings the innocence of childhood back into the sinfully market-driven excuse for an arts culture we have today. We look at the art toy and don't have to ask some paid expert whether we like it or not. (For him, liking it or not isn't about taste or quality, anyway, but rather about the relative value of the piece in the collections of millionaires.)
 
