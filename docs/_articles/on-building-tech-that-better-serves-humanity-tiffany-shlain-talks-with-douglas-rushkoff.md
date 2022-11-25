@@ -12,206 +12,191 @@ sources: ''
 published: false
 
 ---
-From 
+From: Tiffany  
+To: Douglas
 
-To 
+Hello!
 
-Tiffany Douglas 
+From: Douglas
 
-Hello! 
+To: Tiffany
 
-From 
+Hello - and gosh! It's been a long time since I wrote "Cyberia" and you founded The Webbys. Back then we both thought the best way to promote a healthy digital society was to celebrate those who were envisioning and engineering positive, pro-social futures. But around the time of the AOL-Time Warner merger, around 1999, it became clear to me - and I'm guessing to you, too - that the net was about to be more about the growth of capital than the growth of culture. As a result, we got the surveillance economy and the attention economy, which instead of helping people create value for themselves and each other, simply use tech to extract value from people and places.
 
-Douglas 
+From
 
-To 
+To
 
-Tiffany 
+Tiffany Douglas
 
-Hello 
+Right about that time is when I wrote this weird little piece for Adbusters called "The Sabbath Revolt," where I was arguing that people should adopt a "one-seventh rule." One day each week, not just away from tech, but away from buying and selling. Taking a day off would help people recalibrate their nervous systems and their social priorities.
 
-― 
+It kind of fell on flat ears. But now with Day of Unplugging and your book "24/6" and Tristan Harris con- vincing tech companies to show us how much time we're spending, I'm wondering: Is the amount of time we spend on our devices as impor- tant as how we're spending time?
 
-and gosh! It's been a long time since 
+For the last 10 years, my family and I unplug completely from all screens for one day a week, which has been extremely profound. Since we started this practice, our society has become more and more screen-obsessed
 
-I wrote "Cyberia" and you founded The Webbys. Back then we both thought the best way to promote a healthy digital society was to cel- ebrate those who were envisioning and engi- neering positive, pro-social futures. But around the time of the AOL-Time Warner merger, 
+\-
 
-around 1999, it became clear to me - and I'm guessing to you, too - that the net was about to be more about the growth of capital than the growth of culture. As a result, we got the sur- veillance economy and the attention economy, which instead of helping people create value for themselves and each other, simply use tech to extract value from people and places. 
+and the Web has become more and more beastly, trying to manipulate in more ways.
 
-From 
+There was a moment when I founded the Webby Awards in 1996, where a lot of people got their hopes up for this open, decentral- ised system that everyone could contribute to. Then when it became centralised, the priorities changed and it was about sucking in all your time and monetising every moment of your life. So for me, the book is about a multi-pronged approach. One, you need a full day off the net- work once a week. Twenty-four hours is neces- sary to do the long-term thinking we're not able to when we're jacked into the network 24/7. You need the space to do the kind of thinking that drives culture forward.
 
-To 
+Secondly, we need to change the models that are happening with the web. I don't think it's a mistake that there's a reckoning in the gender movement and the tech movement at the same time. We need more diversity at every level of when we're creating these tools.
 
-Tiffany Douglas 
+142
 
-Right about that time is when I wrote this weird little piece for Adbusters called "The Sabbath Revolt," where I was arguing that people should adopt a "one-seventh rule." One day each week, not just away from tech, but away from buying and selling. Taking a day off would help people recalibrate their nervous systems and their social priorities. 
+PEER TO PEER
 
-It kind of fell on flat ears. But now with Day of Unplugging and your book "24/6" and Tristan Harris con- vincing tech companies to show us how much time we're spending, I'm wondering: Is the amount of time we spend on our devices as impor- tant as how we're spending time? 
+143
 
-For the last 10 years, my family and I unplug completely from all screens for one day a week, which has been extremely profound. Since we started this practice, our society has become more and more screen-obsessed 
+MOZFEST
 
-\- 
+So to answer your question: It's not just about disconnecting. You need time away - real time away. Not just a couple hours before bed, but a full day off every week to regain perspective and bigger picture thinking.
 
-and the Web has become more and more beastly, trying to manipulate in more ways. 
+And we need more diversity in the creation, oversight and regulation of everything having to do with technology and the web. We need to revisit the original vision of the web. We have lost the beauty and the power of what a decen- tralised network can do.
 
-There was a moment when I founded the Webby Awards in 1996, where a lot of people got their hopes up for this open, decentral- ised system that everyone could contribute to. Then when it became centralised, the priorities changed and it was about sucking in all your time and monetising every moment of your life. So for me, the book is about a multi-pronged approach. One, you need a full day off the net- work once a week. Twenty-four hours is neces- sary to do the long-term thinking we're not able to when we're jacked into the network 24/7. You need the space to do the kind of thinking that drives culture forward. 
+From To
 
-Secondly, we need to change the models that are happening with the web. I don't think it's a mistake that there's a reckoning in the gender movement and the tech movement at the same time. We need more diversity at every level of when we're creating these tools. 
+Tiffany Douglas
 
-142 
+From
 
-PEER TO PEER 
+To
 
-143 
+Douglas Tiffany
 
-MOZFEST 
+The thing I start wondering, though, is now that we're moving into the internet of things, the new Silicon Valley vision is for the web to go away, altogether. I'm wondering now if we're going to remember the good old days when the internet was when you went online?
 
-So to answer your question: It's not just about disconnecting. You need time away - real time away. Not just a couple hours before bed, but a full day off every week to regain perspective and bigger picture thinking. 
+We're already complaining that our phones are always on, but that's nothing if your house is online. You know?
 
-And we need more diversity in the creation, oversight and regulation of everything having to do with technology and the web. We need to revisit the original vision of the web. We have lost the beauty and the power of what a decen- tralised network can do. 
+I completely agree. But I still think we need to push back. I think that that's part of what we need to be protecting - the boundaries of our own existence. It isn't healthy to have a 24/7, completely-permeable society where there are no boundaries. One thing in terms of my family's weekly day off screens: We call it "Tech Shabbat," but in my mind it is not a religious practice. I am not a religious person. I want taking a "Tech Shabbat," a full day without screens a week, to be like yoga and meditation. The practice of taking a day off of the network of life and work is over 3,000 years old for a reason. This is just an updated version for our modern age, when everything has become 24/7.
 
-From To 
+From To
 
-Tiffany Douglas 
+Douglas Tiffany
 
-From 
+Right. The one-seventh rule. But then we've really got to figure it out. Let's say you have an advanced version of Nest - one of these dig- ital thermostat-y things that's on the internet. As you're walking around in your house, you're delivering data to the networked thermostat,
 
-To 
+From Tiffany
 
-Douglas Tiffany 
+To
 
-The thing I start wondering, though, is now that we're moving into the internet of things, the new Silicon Valley vision is for the web to go away, altogether. I'm wondering now if we're going to remember the good old days when the internet was when you went online? 
+Douglas
 
-We're already complaining that our phones are always on, but that's nothing if your house is online. You know? 
+which is then using it not just to
 
-I completely agree. But I still think we need to push back. I think that that's part of what we need to be protecting - the boundaries of our own existence. It isn't healthy to have a 24/7, completely-permeable society where there are no boundaries. One thing in terms of my family's weekly day off screens: We call it "Tech Shabbat," but in my mind it is not a religious practice. I am not a religious person. I want taking a "Tech Shabbat," a full day without screens a week, to be like yoga and meditation. The practice of taking a day off of the network of life and work is over 3,000 years old for a reason. This is just an updated version for our modern age, when everything has become 24/7. 
+govern your system, but to inform all these other parties about you.
 
-From To 
+I
 
-Douglas Tiffany 
+guess we want a way for the internet of things to go local...
 
-Right. The one-seventh rule. But then we've really got to figure it out. Let's say you have an advanced version of Nest - one of these dig- ital thermostat-y things that's on the internet. As you're walking around in your house, you're delivering data to the networked thermostat, 
+Let's think of some different business models. I keep thinking, what would you pay to not have your data sold? For a device like Alexa, but with constraints around it? There are ver- sions of these things that don't have access to every aspect of your life all the time. They do have an off switch. I hope people are going to start to rise up and say, you know what, I don't feel comfortable that my data being sold in this black market and influencing elections. We need a different model.
 
-From Tiffany 
+From To
 
-To 
+Tiffany Douglas
 
-Douglas 
+It becomes a healthier environment.
 
-which is then using it not just to 
+From To
 
-govern your system, but to inform all these other parties about you. 
+Douglas Tiffany
 
-I 
+Not to stroke their ego, but that's why the original shareware / Mozilla/ Mosaic model for internet development is so much more resilient. It's so much hardier. If they treat the data that we're producing like a commons, rather than stuff that they've extracted, then we're not being exploited by our technologies anymore. We're all sharing in the benefits.
 
-guess we want a way for the internet of things to go local... 
+From Douglas To
 
-Let's think of some different business models. I keep thinking, what would you pay to not have your data sold? For a device like Alexa, but with constraints around it? There are ver- sions of these things that don't have access to every aspect of your life all the time. They do have an off switch. I hope people are going to start to rise up and say, you know what, I don't feel comfortable that my data being sold in this black market and influencing elections. We need a different model. 
+Tiffany
 
-From To 
+144
 
-Tiffany Douglas 
+From Tiffany Douglas
 
-It becomes a healthier environment. 
+To
 
-From To 
+If we started a model for technology that was a commons... God. If we put our medical data and our personal data into a big commons, it would disrupt the business model of all the corporations overnight. Their proprietary data would be worthless.
 
-Douglas Tiffany 
+I feel like people don't have a handle on the consequences of "free." The free that's not really free. Once people have a better handle on that, I hope and think it will inspire new models that give people more control over what they're giving away. And, alternative models for a healthier web that returns to the commons and decentralisation.
 
-Not to stroke their ego, but that's why the original shareware / Mozilla/ Mosaic model for internet development is so much more resilient. It's so much hardier. If they treat the data that we're producing like a commons, rather than stuff that they've extracted, then we're not being exploited by our technologies anymore. We're all sharing in the benefits. 
+From
 
-From Douglas To 
+To
 
-Tiffany 
+Douglas Tiffany
 
-144 
+PEER TO PEER
 
-From Tiffany Douglas 
+145
 
-To 
+From Tiffany
 
-If we started a model for technology that was a commons... God. If we put our medical data and our personal data into a big commons, it would disrupt the business model of all the corporations overnight. Their proprietary data would be worthless. 
+To
 
-I feel like people don't have a handle on the consequences of "free." The free that's not really free. Once people have a better handle on that, I hope and think it will inspire new models that give people more control over what they're giving away. And, alternative models for a healthier web that returns to the commons and decentralisation. 
+Douglas
 
-From 
+I feel a big shift. I feel like it's top of everyone's mind right now. Or, they know they should be thinking about it. We need to be having a global conversation.
 
-To 
+From Tiffany
 
-Douglas Tiffany 
+To
 
-PEER TO PEER 
+Douglas
 
-145 
+Yeah. It's the equivalent of people understanding the difference between the low prices of Walmart and the
 
-From Tiffany 
+high cost of Walmart.
 
-To 
+From Douglas Tiffany
 
-Douglas 
+To
 
-I feel a big shift. I feel like it's top of everyone's mind right now. Or, they know they should be thinking about it. We need to be having a global conversation. 
+Most of our technologies are de- signed to use us. If that's the rela- tionship, of course it's going to make you feel drained and sad and sick. The original purpose of the econ- omy was to help people create and exchange value. Now our economy is here just to extract people's value.
 
-From Tiffany 
+This comes back to the original hopes for the web. We got so excited about the web in the early '90s with this potential to extend our ability to create and connect. But I never thought everyone's heads would be down all the time staring at their devices and it would keep people from being present with others right in front of them.
 
-To 
+From Tiffany
 
-Douglas 
+To
 
-Yeah. It's the equivalent of people understanding the difference between the low prices of Walmart and the 
+Douglas
 
-high cost of Walmart. 
+From Douglas To Tiffany
 
-From Douglas Tiffany 
+It's interesting. When the visual web emerged, it felt like a slight step back from the possibility of the internet. It was flat and opaque and more like television. I had this worry: This is going to be less about personal weirdness and expres- sion, and a little bit more about conformity and what-can-l-sell. Then individual webpages became MySpace, and then the cookie-cutter profiles of Facebook.
 
-To 
+MOZFEST
 
-Most of our technologies are de- signed to use us. If that's the rela- tionship, of course it's going to make you feel drained and sad and sick. The original purpose of the econ- omy was to help people create and exchange value. Now our economy is here just to extract people's value. 
+From
 
-This comes back to the original hopes for the web. We got so excited about the web in the early '90s with this potential to extend our ability to create and connect. But I never thought everyone's heads would be down all the time staring at their devices and it would keep people from being present with others right in front of them. 
+To
 
-From Tiffany 
+Douglas Tiffany
 
-To 
+Completely.
 
-Douglas 
+But the terrific pro-human, pro- social qualities of these spaces can be retrieved before it's too late.
 
-From Douglas To Tiffany 
+From Tiffany
 
-It's interesting. When the visual web emerged, it felt like a slight step back from the possibility of the internet. It was flat and opaque and more like television. I had this worry: This is going to be less about personal weirdness and expres- sion, and a little bit more about conformity and what-can-l-sell. Then individual webpages became MySpace, and then the cookie-cutter profiles of Facebook. 
+To
 
-MOZFEST 
+Douglas
 
-From 
+Yeah. And to figure out how to make that happen, you need that day away every week to do some longer and bigger-term thinking. And it's about reconnecting with yourself and your family.
 
-To 
+From
 
-Douglas Tiffany 
+To
 
-Completely. 
+Tiffany Douglas
 
-But the terrific pro-human, pro- social qualities of these spaces can be retrieved before it's too late. 
+From
 
-From Tiffany 
+To
 
-To 
+Douglas Tiffany
 
-Douglas 
-
-Yeah. And to figure out how to make that happen, you need that day away every week to do some longer and bigger-term thinking. And it's about reconnecting with yourself and your family. 
-
-From 
-
-To 
-
-Tiffany Douglas 
-
-From 
-
-To 
-
-Douglas Tiffany 
-
-And it even makes you a better web developer and user. 
+And it even makes you a better web developer and user.
 
 Exactly.
