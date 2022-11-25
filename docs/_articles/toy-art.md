@@ -55,4 +55,4 @@ We have been living for too long in the wake of Walter Benjamin's prescient but 
 
 This work affirms the ever-present and indefatigable drive of artists to create inspiring and critically dimensional works no matter the medium, and whatever institutional forces appear to control them.
 
-The pages of this very bright book attest not just to the joyous energy but also to the artistic integrity of practi- tioners native to today's media-, market-, and mechani- cally driven world. This is not a break from art, but the most compelling evidence of its continuity.
+The pages of this very bright book attest not just to the joyous energy but also to the artistic integrity of practitioners native to today's media-, market-, and mechanically driven world. This is not a break from art, but the most compelling evidence of its continuity.
