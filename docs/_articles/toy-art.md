@@ -41,9 +41,7 @@ The merging of toy with art, along with the self-conscious merging of commercial
 
 Make no mistake about it: the art world, the traditional art world is over. I realized this just a few years ago when I was lucky enough to be inside a billionaire's apartment in New York. The guy kept taking phone calls between trying to pry some media insight or other from me. One call came in from a friend who had just witnessed something horrible enough to stop the presses: the Jasper Johns picture had gone unsold. What did this mean for both of their collections? The billionaire was a board member of major New York museum, and so he called the head curator and instructed him to organize a Jasper Johns show for the following season.
 
-And how much less crass and commercial is that, I dare ask, than using a TV series to promote toys or toys to promote a comic book? And how much more honest,
-
-direct, and celebratory is it to do all this in the light of day, for kids and adults who know full well what's going on?
+And how much less crass and commercial is that, I dare ask, than using a TV series to promote toys or toys to promote a comic book? And how much more honest, direct, and celebratory is it to do all this in the light of day, for kids and adults who know full well what's going on?
 
 Only after that relationship between commerce, media, and object is fully appreciated by the toy and TV show consumer is it even possible for the former collector to become an artist, and former consumer to become an appreciator.
 
