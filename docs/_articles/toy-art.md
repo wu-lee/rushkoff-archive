@@ -53,6 +53,6 @@ And that's where the Art-Toy movement most undermines art as we currently think 
 
 We have been living for too long in the wake of Walter Benjamin's prescient but ultimately depressing essay, "The Work of Art in the Age of Mechanical Reproduction." He correctly demonstrated how photographs of art remove works from their original contexts - the media successfully diminishing a painting's original "aura" of context and place. Now, and thanks to the Art-Toy movement, we may actually be entering an era when a work of art's aura is not diminished but enhanced or even *created* by the media supporting it.
 
-This work affirms the ever-present and indefatigable drive of artists to create inspiring and critically dimen- sional works no matter the medium, and whatever insti- tutional forces appear to control them.
+This work affirms the ever-present and indefatigable drive of artists to create inspiring and critically dimensional works no matter the medium, and whatever institutional forces appear to control them.
 
 The pages of this very bright book attest not just to the joyous energy but also to the artistic integrity of practi- tioners native to today's media-, market-, and mechani- cally driven world. This is not a break from art, but the most compelling evidence of its continuity.
