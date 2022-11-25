@@ -63,17 +63,16 @@ To: Douglas
 
 Let's think of some different business models. I keep thinking, what would you pay to _not_ have your data sold? For a device like Alexa, but with constraints around it? There are versions of these things that don't have access to every aspect of your life all the time. They do have an off switch. I hope people are going to start to rise up and say, you know what, I don't feel comfortable that my data being sold in this black market and influencing elections. We need a different model.
 
-From To
+From: Douglas  
+To: Tiffany
 
-Tiffany Douglas
+Not to stroke their ego, but that's why the original shareware / Mozilla/ Mosaic model for internet development is so much more resilient. It's so much hardier. If they treat the data that we're producing like a commons, rather than stuff that they've extracted, then we're not being exploited by our technologies anymore. We're all sharing in the benefits.
 
 It becomes a healthier environment.
 
 From To
 
 Douglas Tiffany
-
-Not to stroke their ego, but that's why the original shareware / Mozilla/ Mosaic model for internet development is so much more resilient. It's so much hardier. If they treat the data that we're producing like a commons, rather than stuff that they've extracted, then we're not being exploited by our technologies anymore. We're all sharing in the benefits.
 
 From Douglas To
 
