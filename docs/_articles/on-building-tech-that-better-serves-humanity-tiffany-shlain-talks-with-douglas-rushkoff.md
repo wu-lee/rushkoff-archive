@@ -54,17 +54,7 @@ I completely agree. But I still think we need to push back. I think that that's 
 From: Douglas  
 To: Tiffany
 
-Right. The one-seventh rule. But then we've really got to figure it out. Let's say you have an advanced version of Nest - one of these dig- ital thermostat-y things that's on the internet. As you're walking around in your house, you're delivering data to the networked thermostat,
-
-From Tiffany
-
-To
-
-Douglas
-
-which is then using it not just to
-
-govern your system, but to inform all these other parties about you.
+Right. The one-seventh rule. But then we've really got to figure it out. Let's say you have an advanced version of Nest - one of these digital thermostat-y things that's on the internet. As you're walking around in your house, you're delivering data to the networked thermostat, which is then using it not just to govern your system, but to inform all these other parties about you.
 
 I
 
