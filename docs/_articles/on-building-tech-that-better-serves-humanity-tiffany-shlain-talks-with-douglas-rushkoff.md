@@ -17,21 +17,20 @@ To: Douglas
 
 Hello!
 
-From: Douglas
-
+From: Douglas  
 To: Tiffany
 
 Hello - and gosh! It's been a long time since I wrote "Cyberia" and you founded The Webbys. Back then we both thought the best way to promote a healthy digital society was to celebrate those who were envisioning and engineering positive, pro-social futures. But around the time of the AOL-Time Warner merger, around 1999, it became clear to me - and I'm guessing to you, too - that the net was about to be more about the growth of capital than the growth of culture. As a result, we got the surveillance economy and the attention economy, which instead of helping people create value for themselves and each other, simply use tech to extract value from people and places.
+
+Right about that time is when I wrote this weird little piece for Adbusters called "The Sabbath Revolt," where I was arguing that people should adopt a "one-seventh rule." One day each week, not just away from tech, but away from buying and selling. Taking a day off would help people recalibrate their nervous systems and their social priorities.
+
+It kind of fell on flat ears. But now with Day of Unplugging and your book "24/6" and Tristan Harris convincing tech companies to show us how much time we're spending, I'm wondering: Is the amount of time we spend on our devices as important as how we're spending time?
 
 From
 
 To
 
 Tiffany Douglas
-
-Right about that time is when I wrote this weird little piece for Adbusters called "The Sabbath Revolt," where I was arguing that people should adopt a "one-seventh rule." One day each week, not just away from tech, but away from buying and selling. Taking a day off would help people recalibrate their nervous systems and their social priorities.
-
-It kind of fell on flat ears. But now with Day of Unplugging and your book "24/6" and Tristan Harris con- vincing tech companies to show us how much time we're spending, I'm wondering: Is the amount of time we spend on our devices as impor- tant as how we're spending time?
 
 For the last 10 years, my family and I unplug completely from all screens for one day a week, which has been extremely profound. Since we started this practice, our society has become more and more screen-obsessed
 
