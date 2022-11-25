@@ -56,11 +56,12 @@ To: Tiffany
 
 Right. The one-seventh rule. But then we've really got to figure it out. Let's say you have an advanced version of Nest - one of these digital thermostat-y things that's on the internet. As you're walking around in your house, you're delivering data to the networked thermostat, which is then using it not just to govern your system, but to inform all these other parties about you.
 
-I
+I guess we want a way for the internet of things to go local...
 
-guess we want a way for the internet of things to go local...
+From: Tiffany  
+To: Douglas
 
-Let's think of some different business models. I keep thinking, what would you pay to not have your data sold? For a device like Alexa, but with constraints around it? There are ver- sions of these things that don't have access to every aspect of your life all the time. They do have an off switch. I hope people are going to start to rise up and say, you know what, I don't feel comfortable that my data being sold in this black market and influencing elections. We need a different model.
+Let's think of some different business models. I keep thinking, what would you pay to _not_ have your data sold? For a device like Alexa, but with constraints around it? There are versions of these things that don't have access to every aspect of your life all the time. They do have an off switch. I hope people are going to start to rise up and say, you know what, I don't feel comfortable that my data being sold in this black market and influencing elections. We need a different model.
 
 From To
 
