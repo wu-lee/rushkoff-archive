@@ -51,7 +51,7 @@ But this work is virtuous. And the people making it are indeed demonstrating a v
 
 And that's where the Art-Toy movement most undermines art as we currently think about it. Most of it is cheap enough for a kid who simply "likes it" to own. Many works can be had, over the counter, for the less than price of a videogame cartridge. And what's that to pay for a limited edition Gundam or Bill Yeti?
 
-We have been living for too long in the wake of Walter Benjamin's prescient but ultimately depressing essay, "The Work of Art in the Age of Mechanical Reproduction." He correctly demonstrated how photo- graphs of art remove works from their original contexts the media successfully diminishing a painting's origi- nal "aura" of context and place. Now, and thanks to the Art-Toy movement, we may actually be entering an era when a work of art's aura is not diminished but enhanced or even _created_ by the media supporting it.
+We have been living for too long in the wake of Walter Benjamin's prescient but ultimately depressing essay, "The Work of Art in the Age of Mechanical Reproduction." He correctly demonstrated how photographs of art remove works from their original contexts - the media successfully diminishing a painting's original "aura" of context and place. Now, and thanks to the Art-Toy movement, we may actually be entering an era when a work of art's aura is not diminished but enhanced or even *created* by the media supporting it.
 
 This work affirms the ever-present and indefatigable drive of artists to create inspiring and critically dimen- sional works no matter the medium, and whatever insti- tutional forces appear to control them.
 
