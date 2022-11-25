@@ -68,21 +68,13 @@ To: Tiffany
 
 Not to stroke their ego, but that's why the original shareware / Mozilla/ Mosaic model for internet development is so much more resilient. It's so much hardier. If they treat the data that we're producing like a commons, rather than stuff that they've extracted, then we're not being exploited by our technologies anymore. We're all sharing in the benefits.
 
+From: Tiffany  
+To: Douglas
+
 It becomes a healthier environment.
 
-From To
-
-Douglas Tiffany
-
-From Douglas To
-
-Tiffany
-
-144
-
-From Tiffany Douglas
-
-To
+From: Douglas  
+To: Tiffany
 
 If we started a model for technology that was a commons... God. If we put our medical data and our personal data into a big commons, it would disrupt the business model of all the corporations overnight. Their proprietary data would be worthless.
 
