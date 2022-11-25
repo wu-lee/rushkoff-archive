@@ -39,15 +39,8 @@ So to answer your question: It's not just about disconnecting. You need time awa
 
 And we need more diversity in the creation, oversight and regulation of everything having to do with technology and the web. We need to revisit the original vision of the web. We have lost the beauty and the power of what a decentralised network can do.
 
-From To
-
-Tiffany Douglas
-
-From
-
-To
-
-Douglas Tiffany
+From: Douglas  
+To: Tiffany
 
 The thing I start wondering, though, is now that we're moving into the internet of things, the new Silicon Valley vision is for the web to go away, altogether. I'm wondering now if we're going to remember the good old days when the internet was when you went online?
 
