@@ -78,7 +78,10 @@ To: Tiffany
 
 If we started a model for technology that was a commons... God. If we put our medical data and our personal data into a big commons, it would disrupt the business model of all the corporations overnight. Their proprietary data would be worthless.
 
-I feel like people don't have a handle on the consequences of "free." The free that's not really free. Once people have a better handle on that, I hope and think it will inspire new models that give people more control over what they're giving away. And, alternative models for a healthier web that returns to the commons and decentralisation.
+From: Tiffany  
+To: Douglas
+
+I feel like people don't have a handle on the consequences of "free." The free that's not _really_ free. Once people have a better handle on that, I hope and think it will inspire new models that give people more control over what they're giving away. And, alternative models for a healthier web that returns to the commons and decentralisation.
 
 From
 
