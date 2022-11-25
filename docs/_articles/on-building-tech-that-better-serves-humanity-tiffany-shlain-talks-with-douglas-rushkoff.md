@@ -37,7 +37,7 @@ Secondly, we need to change the models that are happening with the web. I don't 
 
 So to answer your question: It's not just about disconnecting. You need time away - _real_ time away. Not just a couple hours before bed, but a full day off every week to regain perspective and bigger picture thinking.
 
-And we need more diversity in the creation, oversight and regulation of everything having to do with technology and the web. We need to revisit the original vision of the web. We have lost the beauty and the power of what a decen- tralised network can do.
+And we need more diversity in the creation, oversight and regulation of everything having to do with technology and the web. We need to revisit the original vision of the web. We have lost the beauty and the power of what a decentralised network can do.
 
 From To
 
