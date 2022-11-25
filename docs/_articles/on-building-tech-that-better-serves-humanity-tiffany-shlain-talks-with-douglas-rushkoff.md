@@ -44,7 +44,7 @@ To: Tiffany
 
 The thing I start wondering, though, is now that we're moving into the internet of things, the new Silicon Valley vision is for the web to go away, altogether. I'm wondering now if we're going to remember the good old days when the internet was when you went online?
 
-We're already complaining that our phones are always on, but that's nothing if your house is online. You know?
+We're already complaining that our phones are always on, but that's nothing if your _house_ is online. You know?
 
 I completely agree. But I still think we need to push back. I think that that's part of what we need to be protecting - the boundaries of our own existence. It isn't healthy to have a 24/7, completely-permeable society where there are no boundaries. One thing in terms of my family's weekly day off screens: We call it "Tech Shabbat," but in my mind it is not a religious practice. I am not a religious person. I want taking a "Tech Shabbat," a full day without screens a week, to be like yoga and meditation. The practice of taking a day off of the network of life and work is over 3,000 years old for a reason. This is just an updated version for our modern age, when everything has become 24/7.
 
