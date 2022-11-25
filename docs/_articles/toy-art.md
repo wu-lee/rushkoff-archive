@@ -49,11 +49,7 @@ To engage with these works forces us to dispense with something to which many of
 
 But this work is virtuous. And the people making it are indeed demonstrating a virtuosity as real as the brush strokes of an impressionist. Like the readymades of Duchamp, they appear to come from industrial production; yet they are actually crafted by people fully intending their work to be both played with and related to as objects of art. Like the almost mass-produced silkscreens of Warhol, they employ the processes of mechanical production to infiltrate and satirize consumer culture - at the same time as they join and celebrate it. You can buy a lot of this stuff at the comics store.
 
-\-
-
-And that's where the Art-Toy movement most under- mines art as we currently think about it. Most of it is
-
-cheap enough for a kid who simply "likes it" to own. Many works can be had, over the counter, for the less than price of a videogame cartridge. And what's that to pay for a limited edition Gundam or Bill Yeti?
+And that's where the Art-Toy movement most undermines art as we currently think about it. Most of it is cheap enough for a kid who simply "likes it" to own. Many works can be had, over the counter, for the less than price of a videogame cartridge. And what's that to pay for a limited edition Gundam or Bill Yeti?
 
 We have been living for too long in the wake of Walter Benjamin's prescient but ultimately depressing essay, "The Work of Art in the Age of Mechanical Reproduction." He correctly demonstrated how photo- graphs of art remove works from their original contexts the media successfully diminishing a painting's origi- nal "aura" of context and place. Now, and thanks to the Art-Toy movement, we may actually be entering an era when a work of art's aura is not diminished but enhanced or even _created_ by the media supporting it.
 
