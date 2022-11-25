@@ -35,14 +35,6 @@ There was a moment when I founded the Webby Awards in 1996, where a lot of peopl
 
 Secondly, we need to change the models that are happening with the web. I don't think it's a mistake that there's a reckoning in the gender movement and the tech movement at the same time. We need more diversity at every level of when we're creating these tools.
 
-142
-
-PEER TO PEER
-
-143
-
-MOZFEST
-
 So to answer your question: It's not just about disconnecting. You need time away - real time away. Not just a couple hours before bed, but a full day off every week to regain perspective and bigger picture thinking.
 
 And we need more diversity in the creation, oversight and regulation of everything having to do with technology and the web. We need to revisit the original vision of the web. We have lost the beauty and the power of what a decen- tralised network can do.
