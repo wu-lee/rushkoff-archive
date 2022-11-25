@@ -51,9 +51,8 @@ To: Douglas
 
 I completely agree. But I still think we need to push back. I think that that's part of what we need to be protecting - the boundaries of our own existence. It isn't healthy to have a 24/7, completely-permeable society where there are no boundaries. One thing in terms of my family's weekly day off screens: We call it "Tech Shabbat," but in my mind it is not a religious practice. I am not a religious person. I want taking a "Tech Shabbat," a full day without screens a week, to be like yoga and meditation. The practice of taking a day off of the network of life and work is over 3,000 years old for a reason. This is just an updated version for our modern age, when everything has become 24/7.
 
-From To
-
-Douglas Tiffany
+From: Douglas  
+To: Tiffany
 
 Right. The one-seventh rule. But then we've really got to figure it out. Let's say you have an advanced version of Nest - one of these dig- ital thermostat-y things that's on the internet. As you're walking around in your house, you're delivering data to the networked thermostat,
 
