@@ -8,7 +8,6 @@ blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-published: false
 
 ---
 My friend Andrew had always known about this kind of stuff before I did. He took me on the N-Judah into San Francisco's "real" Chinatown (the Inner Sunset district - not that tourist trap downtown) and into an inconspicuous, fairly ratty store with comic books, video games, playing cards, and books - all in Japanese.
