@@ -26,17 +26,10 @@ Right about that time is when I wrote this weird little piece for Adbusters call
 
 It kind of fell on flat ears. But now with Day of Unplugging and your book "24/6" and Tristan Harris convincing tech companies to show us how much time we're spending, I'm wondering: Is the amount of time we spend on our devices as important as how we're spending time?
 
-From
+From: Tiffany  
+To: Douglas
 
-To
-
-Tiffany Douglas
-
-For the last 10 years, my family and I unplug completely from all screens for one day a week, which has been extremely profound. Since we started this practice, our society has become more and more screen-obsessed
-
-\-
-
-and the Web has become more and more beastly, trying to manipulate in more ways.
+For the last 10 years, my family and I unplug completely from all screens for one day a week, which has been extremely profound. Since we started this practice, our society has become more and more screen-obsessed - and the Web has become more and more beastly, trying to manipulate in more ways.
 
 There was a moment when I founded the Webby Awards in 1996, where a lot of people got their hopes up for this open, decentral- ised system that everyone could contribute to. Then when it became centralised, the priorities changed and it was about sucking in all your time and monetising every moment of your life. So for me, the book is about a multi-pronged approach. One, you need a full day off the net- work once a week. Twenty-four hours is neces- sary to do the long-term thinking we're not able to when we're jacked into the network 24/7. You need the space to do the kind of thinking that drives culture forward.
 
