@@ -123,18 +123,12 @@ To: Douglas
 
 Yeah. And to figure out how to make that happen, you need that day away every week to do some longer and bigger-term thinking. And it's about reconnecting with yourself and your family.
 
-From
-
-To
-
-Tiffany Douglas
-
-From
-
-To
-
-Douglas Tiffany
+From: Douglas  
+To: Tiffany
 
 And it even makes you a better web developer and user.
+
+From: Tiffany  
+To: Douglas
 
 Exactly.
