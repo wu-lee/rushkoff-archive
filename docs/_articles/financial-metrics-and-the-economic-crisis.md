@@ -57,19 +57,9 @@ As we spend less money on insulating ourselves from the poor, and we have more m
 
 **DR**: Yes. The other unique opportunity is the development of local and alternative currencies. In Washington and Oregon you've got the Fourth Corners exchange; there's also the LETS (Local Exchange Trading Systems) system, there's Time Dollars. There's lots of ways to earn money into existence rather than borrow it into existence. It could be as simple as starting a babysitting club where people earn babysitting hours for every hour they babysit. And maybe people will start being willing to accept babysitting hours as a unit of currency, as a standardized unit. You know, if you give me three babysitting hours, I'll give you this record, or I'll give you this book I wrote, or I'll give you this food I grew and then I'll spend the babysitting hours hiring another kid to babysit.
 
-Q: Do you mean a barter system as opposed to a Federal Reserve note system?
+**Q:** _Do you mean a barter system as opposed to a Federal Reserve note system?_
 
-DR: In a sense, but it doesn't have to be barter. Just real. Barter implies a twoway thing; that I get your thing and you get mine. Money-actual currencyallows for a third or fourth party to enter into the transaction. There's a restaurant in my town that needed money to expand and the banks weren't lending
-
-any more money. So the owner asked the community for money to expand,
-
-and the way we're paying him is by buying restaurant dollars. For every dollar we spend we get $1 .20 worth of redemption at the restaurant. If you put in
-
-$500 you get $600 worth of food. That gives me a twenty percent return on my
-
-money-and it's money I'd spend anyway, because it's the only organic restaurant in town. Meanwhile, the restaurant owner gets the money cheaper than he'd
-
-get it from a bank. 'Yhat's that? That's an alternative currency.
+**DR**: In a sense, but it doesn't have to be barter. Just real. Barter implies a two-way thing; that I get your thing and you get mine. Money--actual currency--allows for a third or fourth party to enter into the transaction. There's a restaurant in my town that needed money to expand and the banks weren't lending any more money. So the owner asked the community for money to expand, and the way we're paying him is by buying restaurant dollars. For every dollar we spend we get $1.20 worth of redemption at the restaurant. If you put in $500 you get $600 worth of food. That gives me a twenty percent return on my money--and it's money I'd spend anyway, because it's the only organic restaurant in town. Meanwhile, the restaurant owner gets the money cheaper than he'd get it from a bank. What's that? That's an alternative currency.
 
 Look at the Eldercare dollar system in Japan where people needed their
 
