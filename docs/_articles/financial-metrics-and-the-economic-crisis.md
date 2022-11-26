@@ -15,37 +15,7 @@ _Q: What's your perspective on Barack Obama and the economy?_
 
 DR: Obama means the best, but we have to remember that he is working within a system; his perspective is presupposed by an economic model. And that model is biased toward those who have the means to accumulate capital, and against those who create real value. Obama said as much in his inaugural speech, when he spoke about finding ways to promote the interests of people who actually "do stuff."
 
-Most of America's Founding Fathers foresaw
-
-experience of
-
-this scenario. They had direct
-
-by the crown.
-
-the
-
-The
-
-British East India Trading Company, a monopoly chartered
-
-monarchy wrote laws prohibiting colonists
-
-value from
-
-from generating
-
-the cotton they grew. They weren't allowed
-
-example. They had
-
-to fabricate clothes, for
-
-clothes
-
-to sell cotton to the Company, at fixed prices, and buy back
-
-from England.
+Most of America's Founding Fathers foresaw this scenario. They had direct experience of the British East India Trading Company, a monopoly chartered by the crown. The monarchy wrote laws prohibiting colonists from generating value from the cotton they grew. They weren't allowed to fabricate clothes, for example. They had to sell cotton to the Company, at fixed prices, and buy back clothes from England.
 
 The contemporary
 
