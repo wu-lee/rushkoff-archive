@@ -71,21 +71,9 @@ Look at the Eldercare dollar system in Japan where people needed their elderly t
 
 **DR**: People don't generally abandon consumer capitalism unless their feet are held to the fire. We have some very well constructed myths of wealth and currency. Sometimes the only way for those myths to get shattered is through shock and awe. The fact that America now has a crisis may be enough to jostle us loose from our death grip with bank-driven capitalism.
 
-Q: Have you seen anything recently that has changed your perspective of what's
+**Q:** _Have you seen anything recently that has changed your perspective of what's happening with the economic crisis?_
 
-happening with the economic crisis?
-
-DR: It's bumming me out that the metrics people are using to gauge the economic crisis are actually the metrics that indicate how shackled we are to the
-
-failed model. Mortgage rates and stock averages are not true signs of prosperity.
-
-They are life signs of the dying capital infrastructure. But I'm encouraged by
-
-how innovative people are being and how they're not seeing every social and
-
-economic innovation as part of a weird, lefty communal paradigm. And when
-
-people actually do it, it seems entirely nonnal and real. •
+**DR:** It's bumming me out that the metrics people are using to gauge the economic crisis are actually the metrics that indicate how shackled we are to the failed model. Mortgage rates and stock averages are not true signs of prosperity. They are life signs of the dying capital infrastructure. But I'm encouraged by how innovative people are being and how they're not seeing every social and economic innovation as part of a weird, lefty communal paradigm. And when people actually do it, it seems entirely normal and real. •
 
 For example, summer watermelon is , lettu ce, tomato the best
 
