@@ -49,17 +49,7 @@ If you're no longer indebted to the bank or to an interest-driven economy, then 
 
 **DR:** You can do urban agriculture and rooftop gardens and reduce the stress load and energy costs. But you're limited. I would think that people in urban areas can certainly sign on for Community Sponsored Agriculture, subscribe to a farmer, go out every couple of months and actually help. There's enough to do in the urban terrain as well. It's not like cities need to go away. You can contribute to your public school rather than sending your kid to private school. Take the $20,000 worth of time that you would have spent \[on a private school\] and spend those hours making a public school better. That way you're actually reinvesting in a city.
 
-Cities do accomplish certain things well. Unless we have a sudden population decline, we're going to need people who are willing to stack up on each
-
-other like that for the rewards of getting to see lots of people, getting better
-
-nightclubs, bigger bookstores or whatever you might get. That's
-
-we're going to cope with
-
-the only way
-
-overpopulation.
+Cities do accomplish certain things well. Unless we have a sudden population decline, we're going to need people who are willing to stack up on each other like that for the rewards of getting to see lots of people, getting better nightclubs, bigger bookstores or whatever you might get. That's the only way we're going to cope with overpopulation.
 
 As we spend less money on insulating ourselves from the poor, and we
 
