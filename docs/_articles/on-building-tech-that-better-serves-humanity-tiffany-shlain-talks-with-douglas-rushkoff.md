@@ -83,21 +83,13 @@ To: Douglas
 
 I feel like people don't have a handle on the consequences of "free." The free that's not _really_ free. Once people have a better handle on that, I hope and think it will inspire new models that give people more control over what they're giving away. And, alternative models for a healthier web that returns to the commons and decentralisation.
 
-From
+From: Douglas  
+To: Tiffany
 
-To
+Yeah. It's the equivalent of people understanding the difference between the low prices of Walmart and the high cost of Walmart.
 
-Douglas Tiffany
-
-PEER TO PEER
-
-145
-
-From Tiffany
-
-To
-
-Douglas
+From: Tiffany  
+To: Douglas
 
 I feel a big shift. I feel like it's top of everyone's mind right now. Or, they know they should be thinking about it. We need to be having a global conversation.
 
@@ -106,10 +98,6 @@ From Tiffany
 To
 
 Douglas
-
-Yeah. It's the equivalent of people understanding the difference between the low prices of Walmart and the
-
-high cost of Walmart.
 
 From Douglas Tiffany
 
