@@ -17,25 +17,7 @@ DR: Obama means the best, but we have to remember that he is working within a sy
 
 Most of America's Founding Fathers foresaw this scenario. They had direct experience of the British East India Trading Company, a monopoly chartered by the crown. The monarchy wrote laws prohibiting colonists from generating value from the cotton they grew. They weren't allowed to fabricate clothes, for example. They had to sell cotton to the Company, at fixed prices, and buy back clothes from England.
 
-The contemporary
-
-.
-
-value
-
-corporate economy works the same way--extracting
-
-from the periphery to support debt payments
-
-separate economies
-
-to central banks. We have two
-
-economy,
-
-going on- a speculative economy, which is the Wall Street
-
-and the real economy, which is Main Street.
+The contemporary corporate economy works the same way--extracting value from the periphery to support debt payments to central banks. We have two separate economies going on--a speculative economy, which is the Wall Street economy, and the real economy, which is Main Street.
 
 Most people
 
