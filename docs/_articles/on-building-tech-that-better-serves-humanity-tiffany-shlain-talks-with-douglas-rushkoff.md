@@ -103,15 +103,10 @@ To: Douglas
 
 This comes back to the original hopes for the web. We got so excited about the web in the early '90s with this potential to extend our ability to create and connect. But I never thought everyone's heads would be down all the time staring at their devices and it would keep people from being present with others right in front of them.
 
-From Tiffany
+From: Douglas  
+To: Tiffany
 
-To
-
-Douglas
-
-From Douglas To Tiffany
-
-It's interesting. When the visual web emerged, it felt like a slight step back from the possibility of the internet. It was flat and opaque and more like television. I had this worry: This is going to be less about personal weirdness and expres- sion, and a little bit more about conformity and what-can-l-sell. Then individual webpages became MySpace, and then the cookie-cutter profiles of Facebook.
+It's interesting. When the visual web emerged, it felt like a slight step back from the possibility of the internet. It was flat and opaque and more like television. I had this worry: This is going to be less about _personal weirdness and expression, and a little bit more about conformity and what-can-l-sell_. Then individual webpages became MySpace, and then the cookie-cutter profiles of Facebook.
 
 MOZFEST
 
