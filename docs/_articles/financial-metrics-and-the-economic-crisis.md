@@ -25,19 +25,9 @@ Most people are judging Obama's success through the metrics of Wall Street. Obam
 
 **DR**: I think the crash of the speculative economy is very painful for the real economy because jobs are lost and we're living on a landscape where it's very hard to recuperate. We've grown so dependent on our corporations for money and for employment that it's very hard to just create new employment in a non-corporate way. But it is entirely within our ability. We just forgot.
 
-Q: What is the function of interest rates in a speculative economy?
+**Q:** _What is the function of interest rates in a speculative economy?_
 
-DR: Interest rates are the way that most of the money is made in our economy.
-
-Money is created at an interest rate; it's lent into existence, and there's a ladder
-
-of institutions that lend down to each other until it gets to the business or person
-
-that is supposed to be the end user of that money. But money becomes too topheavy when there are too many institutions to support with every dollar that's
-
-borrowed. And eventually the system stops working. So then the central bank
-
-tries to lower the interest rates so that people can still borrow it.
+**DR**: Interest rates are the way that most of the money is made in our economy. Money is created at an interest rate; it's lent into existence, and there's a ladder of institutions that lend down to each other until it gets to the business or person that is supposed to be the end user of that money. But money becomes too top-heavy when there are too many institutions to support with every dollar that's borrowed. And eventually the system stops working. So then the central bank tries to lower the interest rates so that people can still borrow it.
 
 I think the current problem is not that there aren't enough people offering
 
