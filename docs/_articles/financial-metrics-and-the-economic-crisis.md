@@ -39,19 +39,7 @@ And we've reached the point of diminishing returns in terms of industrial age, m
 
 By leaving the growth requirement of the speculative economy behind, we have an opportunity to make better stuff and more sustainable stuff, and actually look at ways to work less hours. It's not a fantasy at all--just look at the many local and sustainable businesses in America today. There are enough around. Places where they design and manage and manufacture their stuff and even source the material in one area and either distribute really widely or distribute to a certain region.
 
-If you're no longer indebted to the bank or to an interest-driven economy, th
-
-en you're much freer to create a sustainable business model. So then it's not
-
-a matt f · · d •
-
-·
-
-e\~
-
-0 savmg m ustry as we know tt, but rebuilding a scaled set of businesses tied to the real world and the communities in which they are operating.
-
-That's not a pipe dream, that's really possible.
+If you're no longer indebted to the bank or to an interest-driven economy, then you're much freer to create a sustainable business model. So then it's not a matter of saving industry as we know it, but rebuilding a scaled set of businesses tied to the real world and the communities in which they are operating. That's not a pipe dream, that's really possible.
 
 hidden fees or ch\~rges. Many c\~nsumers have found that they save a great
 
