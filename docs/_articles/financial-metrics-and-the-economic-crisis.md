@@ -35,19 +35,7 @@ I think the current problem is not that there aren't enough people offering cred
 
 **DR**: I think we have to decide what it is that we think we can do well. We can look at the law of comparative advantage, the basic premise of which is that at full employment if you do the thing that you do best and let others do what they do best, everyone's going to end up doing well. At less than full employment, the law of comparative advantage no longer functions. So we can't just say, "Oh, if we're good at microchips we'll do that, and let China do car manufacturing." That's only beneficial to everybody if everybody's fully employed.
 
-And we've reached the point of diminishing returns in terms of industrial
-
-age, mass-produced goods. We've found out that the only way to increase profits in a mass production scheme is either to make production cheaper or get
-
-more people to buy more stuff in less time. We've reached the limits of both.
-
-We have outsourced production, used poisonous materials, exploited populations and polluted vast territory. We've also reached our limits of consumption.
-
-People just can't consume anymore, they don't want to. They no longer find the
-
-sense of satisfaction in it-all our possessions separate us from each other rather
-
-than bringing us together.
+And we've reached the point of diminishing returns in terms of industrial age, mass-produced goods. We've found out that the only way to increase profits in a mass production scheme is either to make production cheaper or get more people to buy more stuff in less time. We've reached the limits of both. We have outsourced production, used poisonous materials, exploited populations and polluted vast territory. We've also reached our limits of consumption. People just can't consume anymore, they don't want to. They no longer find the sense of satisfaction in it--all our possessions separate us from each other rather than bringing us together.
 
 By leaving the growth requirement of the speculative economy behind, we
 
