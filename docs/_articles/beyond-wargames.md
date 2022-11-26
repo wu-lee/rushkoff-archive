@@ -21,9 +21,7 @@ Even Nash has subsequently admitted that this way of applying game theory was ba
 
 To me, the most exciting thing about a networked computing era is the opportunity to model new kinds of games. More than anything else, computers are modeling systems. They let us model the function of a typewriter, a spreadsheet, or a paste-up board, not to mention all sorts of social and fantasy interactions. The most advanced models right now are the ones we're developing in forums, from MySpace to Second Life, Facebook to World of Warcraft. These are the places where people can experiment with alternative behaviors, life strategies, alliances, and goal sets.
 
-Because our computers are networked rather than isolated, we no longer need to see the “other” team as on the opposite side of a discrete boundary. They are part of the same system. As a result, scenarios for cooperation more complex than "mutually assured destruction” begin
-
-to emerge.
+Because our computers are networked rather than isolated, we no longer need to see the “other” team as on the opposite side of a discrete boundary. They are part of the same system. As a result, scenarios for cooperation more complex than "mutually assured destruction” begin to emerge.
 
 What I'd like to see as a result of computer networking is the possi- bility for modeling new, as yet-to-be conceived, collaborative behaviors. Play behavior has almost always been relegated to the Dionysian side of the culture, while purpose remains with Apollo and the courts. Both of these artificially isolated aspects of society end up suffering as a result: politics ends up unsexy (leading to the salacious behavior of its repressed participants) and the arts end up unserious (leading to the equally disastrous attempts to bolster its relevancy through cruel entertainments like reality TV).
 
