@@ -53,25 +53,9 @@ Cities do accomplish certain things well. Unless we have a sudden population dec
 
 As we spend less money on insulating ourselves from the poor, and we have more money to reinvest in our infrastructure, we can start looking at things other than flushing massive amounts of human waste into toxic chemical sewage. We can look at ways for cities to consume a lot less stuff and produce a lot less shit. That's not rocket science either; its really just a certain amount of retooling.
 
-Q· Js this what you mean when you describe the current fin . • . ,, ancia/ crisis as a "unique opportunity ? .
+**Q:** _Is this what you mean when you describe the current financial crisis as a "unique opportunity"?_
 
-DR: Yes. The other unique opportunity is the development of local and alternative currenciesJn Washington and Oregon you've got the Fourth Comers
-
-exchange; there's also the LETS (Local Exchange Trading Systems) system,
-
-there's Time Dollars. There's lots of ways to earn money into existence rather
-
-than borrow it into existence. It could be as simple as starting a babysitting club
-
-where people earn babysitting hours for every hour they babysit. And maybe
-
-people will start being willing to accept babysitting hours as a unit of currency,
-
-as a standardized unit. You know, if you give me three babysitting hours, I'll
-
-give you this record, or I'll give you this book I wrote, or I'll give you this food
-
-I grew and then I'll spend the babysitting hours hiring·another kid to babysit.
+**DR**: Yes. The other unique opportunity is the development of local and alternative currencies. In Washington and Oregon you've got the Fourth Corners exchange; there's also the LETS (Local Exchange Trading Systems) system, there's Time Dollars. There's lots of ways to earn money into existence rather than borrow it into existence. It could be as simple as starting a babysitting club where people earn babysitting hours for every hour they babysit. And maybe people will start being willing to accept babysitting hours as a unit of currency, as a standardized unit. You know, if you give me three babysitting hours, I'll give you this record, or I'll give you this book I wrote, or I'll give you this food I grew and then I'll spend the babysitting hours hiring another kid to babysit.
 
 Q: Do you mean a barter system as opposed to a Federal Reserve note system?
 
