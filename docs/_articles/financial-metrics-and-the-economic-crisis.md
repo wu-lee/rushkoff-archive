@@ -31,23 +31,9 @@ Most people are judging Obama's success through the metrics of Wall Street. Obam
 
 I think the current problem is not that there aren't enough people offering credit, but there's not the demand for the product that the banks are creating. They try to generate demand for currency by giving out really cheap loans on houses. That really was not about real estate at all. The myth of an "ownership society" was developed in order to generate more business for bankers--more excuses to borrow money in order to "own." It's not a secret cabal of conspiring bankers. But the banking industry has become a purely extractive force, and it's healthier to watch that crash now of its own accord than to have the big bloody revolution that would happen if we don't. I'd much rather see the global economy level the playing field all by itself than to have our artificially wealthy nation stampeded by those whom we exploit.
 
-Q: Americans are now reliant on foreign manufacturers. ls there any way this
+**Q:** _Americans are now reliant on foreign manufacturers. ls there any way this trend can be reversed?_
 
-trend can be re\\:ersed?
-
-DR: I think \\ve ha,·e to decide what it is that we think we can do well. We can
-
-· h b · IIll·se of which is that at
-
-look at the law of comparative advantage, t . e astc pre
-
-full employment if you do the thing that you do best and let others do what they
-
-do best. eYeryone's going to end up doing well. At less than full employment,
-
-the law of comparative advantage no longer functions. So we can't just say,
-
-"Oh, if we're good at microchips we'll do that, and let China do car manufacturing." That's only beneficial to everybody if everybody's fully employed.
+**DR**: I think we have to decide what it is that we think we can do well. We can look at the law of comparative advantage, the basic premise of which is that at full employment if you do the thing that you do best and let others do what they do best, everyone's going to end up doing well. At less than full employment, the law of comparative advantage no longer functions. So we can't just say, "Oh, if we're good at microchips we'll do that, and let China do car manufacturing." That's only beneficial to everybody if everybody's fully employed.
 
 And we've reached the point of diminishing returns in terms of industrial
 
