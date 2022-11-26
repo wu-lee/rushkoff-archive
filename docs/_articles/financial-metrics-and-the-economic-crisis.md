@@ -45,27 +45,9 @@ If you're no longer indebted to the bank or to an interest-driven economy, then 
 
 **DR**: Not reconstructing, but reviving. It goes back to the people who are the supposed heroes of the corporate libertarians. Adam Smith was looking for a scaled economy of small businesses and farmers, and people doing things. He thought local businesses would always do. better and the people would always prefer to do business locally because they're going to be biased toward the places where they live. It's not really a step backwards, it's more a step _through_. We don't have to move back to the hunter-gatherer stage. Just a human one.
 
-Q: Cities aren 't particularly sustainable. What practical advice do you have for
+**Q:** _Cities aren't particularly sustainable. What practical advice do you have for urban dwellers?_
 
-urban dwellers?
-
-DR: You can do urban agriculture and rooftop gardens and reduce the stress
-
-load and energy costs. But you're limited. I would think that people in urban
-
-areas can certainly sign on for Community Sponsored Agriculture, subscribe
-
-to a farmer, go out every couple of months and actually help. There's enough
-
-to do in the urban terrain as well. It's not like cities need to go away. You can
-
-contribute to your public school rather than sending your kid to private school.
-
-Take the $20,000 worth of time that you would have spent \[ on a private school}
-
-and spend those hours making a public school better. That way you're actually
-
-reinvesting in a city.
+**DR:** You can do urban agriculture and rooftop gardens and reduce the stress load and energy costs. But you're limited. I would think that people in urban areas can certainly sign on for Community Sponsored Agriculture, subscribe to a farmer, go out every couple of months and actually help. There's enough to do in the urban terrain as well. It's not like cities need to go away. You can contribute to your public school rather than sending your kid to private school. Take the $20,000 worth of time that you would have spent \[on a private school\] and spend those hours making a public school better. That way you're actually reinvesting in a city.
 
 Cities do accomplish certain things well. Unless we have a sudden population decline, we're going to need people who are willing to stack up on each
 
