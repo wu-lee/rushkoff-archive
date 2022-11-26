@@ -108,17 +108,15 @@ To: Tiffany
 
 It's interesting. When the visual web emerged, it felt like a slight step back from the possibility of the internet. It was flat and opaque and more like television. I had this worry: This is going to be less about _personal weirdness and expression, and a little bit more about conformity and what-can-l-sell_. Then individual webpages became MySpace, and then the cookie-cutter profiles of Facebook.
 
-MOZFEST
-
-From
-
-To
-
-Douglas Tiffany
+From: Tiffany  
+To: Douglas
 
 Completely.
 
-But the terrific pro-human, pro- social qualities of these spaces can be retrieved before it's too late.
+From: Douglas  
+To: Tiffany
+
+But the terrific pro-human, pro-social qualities of these spaces can be retrieved before it's too late.
 
 From Tiffany
 
