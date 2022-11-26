@@ -67,17 +67,9 @@ Look at the Eldercare dollar system in Japan where people needed their elderly t
 
 **DR**: People are going to come up with their own models. And there are a lot of alternatives in-between renting from an evil landlord and creating a commune. There are a lot of steps between those things. People are going to find the place that they're comfortable. The most significant thing that could take place is simply for people to realize that there's more than one model for life and commerce out there. As soon as we start to realize that there are things we need in this world other than money, we find out there's ways we can pay and participate in society other than with money--certainly other than the centralized bank paper we currently call money.
 
-Q: Do you believe people will start adopting these measures and moving away
+**Q:** _Do you believe people will start adopting these measures and moving away from the 7-Eleven consumer mindset?_
 
-from the 7-Eleven consumer mindset?
-
-DR: People don't generally abandon consumer capitalism unless their feet are
-
-held to the fire. We have some very well constructed myths of wealth and currency. Sometimes the only way for those m\~h.s to get shattered is through shock
-
-and awe. The fact that America now has a cns1s may be enough to jostle us
-
-loose from our death grip with bank-driven capitalism.
+**DR**: People don't generally abandon consumer capitalism unless their feet are held to the fire. We have some very well constructed myths of wealth and currency. Sometimes the only way for those myths to get shattered is through shock and awe. The fact that America now has a crisis may be enough to jostle us loose from our death grip with bank-driven capitalism.
 
 Q: Have you seen anything recently that has changed your perspective of what's
 
