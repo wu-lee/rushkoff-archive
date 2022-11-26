@@ -91,7 +91,7 @@ Yeah. It's the equivalent of people understanding the difference between the low
 From: Tiffany  
 To: Douglas
 
-I feel a big shift. I feel like it's top of everyone's mind right now. Or, they know they should be thinking about it. We need to be having a global conversation.
+I feel a big shift. I feel like it's top of everyone's mind right now. Or, they know they _should_ be thinking about it. We need to be having a global conversation.
 
 From Tiffany
 
