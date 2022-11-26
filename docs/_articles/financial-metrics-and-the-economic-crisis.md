@@ -41,87 +41,9 @@ By leaving the growth requirement of the speculative economy behind, we have an 
 
 If you're no longer indebted to the bank or to an interest-driven economy, then you're much freer to create a sustainable business model. So then it's not a matter of saving industry as we know it, but rebuilding a scaled set of businesses tied to the real world and the communities in which they are operating. That's not a pipe dream, that's really possible.
 
-hidden fees or ch\~rges. Many c\~nsumers have found that they save a great
+**Q:** _Doesn't this concept reconstruct the entire idea of profit making?_
 
-deal of money relying on these \~mds of car-sharing programs, and don't miss
-
-the expense and hassle of _own mg a car. If you're interested, CarSharing.net
-
-can direct you to programs m your community.
-
-If you're spending too much on gas, there are also some proactive steps
-
-you can take to limit your monthly fuel expenses:
-
-Lighten Your Load: Unless you're living in your car, avoid overloading your vehicle. The more excess weight you add to your car, the more
-
-gas you will burn.
-
-Keep it Humming: Make sure that you take your car in for regular
-
-tune-ups, maintenance and oil changes. When the engine is functioning
-
-smoothly, it will require less gas.
-
-Check Your Tires: When your tires aren't inflated properly, you'll be
-
-burning more fuel, and you can quickly wear out the treads.
-
-Take it Easy: Stay within the speed limit. Driving at lower speeds
-
-improves your fuel economy. Fast starts and engine rewing also waste
-
-precious gas.
-
-use Cash: Most service stations charge extra fees to consumers who
-
-use credit cards to purchase gas. Pay in cash and you'll save a bit of
-
-money.
-
-Get Organized: Try to run all of your errands in one day, as \~pposed
-
-to making several small trips over the course of the week. T1\~e your
-
-trips so that you can go when traffic is lightest, and you wont \~\~\~te
-
-as much gas. If you need to stop at several places in th\~ sa_me v1cm1ty,
-
-park your car in a central location and walk to your destinations.
-
-Shelter
-
-MONTH FOR RENT, AND
-
-W\~N Y\~U'RE SHELLING OUT \~ 1,50\~ EACH before your savings will
-
-You re having trouble finding work, it won t take long t you may not have
-
-start to run out. Moreover, should you fall behind on you\~ ren If you've recently
-
-enough money on hand to cover relocating to a new Pace.
-
-_ • ---• nvrl"' continued
-
-Q: Doesn \~ this concept reconstruct the entire idea of profit making?
-
-DR: Not reconstructing, but reviving. It goes back to the people who are the
-
-supposed heroes of the corporate libertarians. Adam Smith was looking for a
-
-scaled economy of small businesses and farmers, and people doing things. He
-
-thought local businesses would always do. better and the people would always
-
-prefer to do business locally because they're going to be biased toward the
-
-places where they live. It's not really a step backwards,
-
-We don't have to move back
-
-it's more a step through.
-
-to the hunter-gatherer stage. Just a human one.
+**DR**: Not reconstructing, but reviving. It goes back to the people who are the supposed heroes of the corporate libertarians. Adam Smith was looking for a scaled economy of small businesses and farmers, and people doing things. He thought local businesses would always do. better and the people would always prefer to do business locally because they're going to be biased toward the places where they live. It's not really a step backwards, it's more a step _through_. We don't have to move back to the hunter-gatherer stage. Just a human one.
 
 Q: Cities aren 't particularly sustainable. What practical advice do you have for
 
