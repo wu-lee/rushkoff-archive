@@ -8,7 +8,6 @@ blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-published: false
 
 ---
 **Q:** _What's your perspective on Barack Obama and the economy?_
