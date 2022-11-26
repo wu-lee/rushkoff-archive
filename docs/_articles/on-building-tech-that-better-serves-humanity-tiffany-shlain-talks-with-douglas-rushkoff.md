@@ -9,7 +9,6 @@ blurb: ''
 notes: ''
 refs: ''
 sources: ''
-published: false
 
 ---
 From: Tiffany  
