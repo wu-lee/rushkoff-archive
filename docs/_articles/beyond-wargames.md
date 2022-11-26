@@ -17,11 +17,7 @@ Whenever democracy and computers show up in the same sentence, I can't help but 
 
 The underlying assumption of these early computer simulations was that people and, by extrapolation, nations, behave with their own strategic interests in mind. Humans—and nations—are presumed to be fearful, self-interested, and hyper-rational. The solution of these kinds of prisoner's dilemmas was Mutually Assured Destruction: creating nuclear arsenals big enough to ensure that everyone dies if anyone attacks.
 
-168
-
-Even Nash has subsequently admitted that this way of applying was based on his own paranoid delusions. While the game theory
-
-math works out, the logic is hopelessly polar. In short, the paranoia plus binary technology equals an insane, oversimplified, and unstable stand-off. Differences and conflict are exacerbated because the com- petitive game is an underlying assumption. There's no possibility for reconciliation, compromise, or collaboration. It's my computer against yours.
+Even Nash has subsequently admitted that this way of applying game theory was based on his own paranoid delusions. While the math works out, the logic is hopelessly polar. In short, the paranoia plus binary technology equals an insane, oversimplified, and unstable stand-off. Differences and conflict are exacerbated because the competitive game is an underlying assumption. There's no possibility for reconciliation, compromise, or collaboration. It's my computer against yours.
 
 To me, the most exciting thing about a networked computing era is the opportunity to model new kinds of games. More than anything else, computers are modeling systems. They let us model the function of a typewriter, a spreadsheet, or a paste-up board, not to mention all sorts of social and fantasy interactions. The most advanced mod- els right now are the ones we're developing in forums, from MySpace to Second Life, Facebook to World of Warcraft. These are the places where people can experiment with alternative behaviors, life strategies, alliances, and goal sets.
 
