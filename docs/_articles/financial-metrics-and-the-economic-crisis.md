@@ -11,9 +11,9 @@ sources: ''
 published: false
 
 ---
-_Q: What's your perspective on Barack Obama and the economy?_
+**Q:** _What's your perspective on Barack Obama and the economy?_
 
-DR: Obama means the best, but we have to remember that he is working within a system; his perspective is presupposed by an economic model. And that model is biased toward those who have the means to accumulate capital, and against those who create real value. Obama said as much in his inaugural speech, when he spoke about finding ways to promote the interests of people who actually "do stuff."
+**DR**: Obama means the best, but we have to remember that he is working within a system; his perspective is presupposed by an economic model. And that model is biased toward those who have the means to accumulate capital, and against those who create real value. Obama said as much in his inaugural speech, when he spoke about finding ways to promote the interests of people who actually "do stuff."
 
 Most of America's Founding Fathers foresaw this scenario. They had direct experience of the British East India Trading Company, a monopoly chartered by the crown. The monarchy wrote laws prohibiting colonists from generating value from the cotton they grew. They weren't allowed to fabricate clothes, for example. They had to sell cotton to the Company, at fixed prices, and buy back clothes from England.
 
@@ -21,15 +21,9 @@ The contemporary corporate economy works the same way--extracting value from the
 
 Most people are judging Obama's success through the metrics of Wall Street. Obama made a speech today and the Dow Jones average went down. Now, is that a good thing or a bad thing? It depends on your perspective. From my perspective, the stock market has already been exposed as a sham--a drag on the real economy. If it goes up after Obama speaks, it means then that people's faith in the phantom speculative economy has increased and thus their faith in the real economy has decreased. If the market goes down after Obama speaks, then might that mean that people realize the pyramid shell game of a stock exchange is no longer the place to be invested in, and that it is much more important to be invested in real things or to be on the side of people who are creating value rather than that of people who are extracting it?
 
-Q: Do you believe a Wall Street crash could be beneficial to the real economy?
+**Q:** _Do you believe a Wall Street crash could be beneficial to the real economy?_
 
-DR: I think the crash of the speculative economy is very painful for the real
-
-economy because jobs are lost and we 're living on a landscape where it's very
-
-hard to recuperate. We've grown so dependent on our corporations for money
-
-and for employment that it's very hard to just create new employment in a noncorporate way. But it is entirely within our ability. We just forgot.
+**DR**: I think the crash of the speculative economy is very painful for the real economy because jobs are lost and we're living on a landscape where it's very hard to recuperate. We've grown so dependent on our corporations for money and for employment that it's very hard to just create new employment in a non-corporate way. But it is entirely within our ability. We just forgot.
 
 Q: What is the function of interest rates in a speculative economy?
 
