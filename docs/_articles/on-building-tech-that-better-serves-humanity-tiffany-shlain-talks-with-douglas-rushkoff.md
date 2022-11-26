@@ -118,11 +118,8 @@ To: Tiffany
 
 But the terrific pro-human, pro-social qualities of these spaces can be retrieved before it's too late.
 
-From Tiffany
-
-To
-
-Douglas
+From: Tiffany  
+To: Douglas
 
 Yeah. And to figure out how to make that happen, you need that day away every week to do some longer and bigger-term thinking. And it's about reconnecting with yourself and your family.
 
