@@ -37,19 +37,7 @@ I think the current problem is not that there aren't enough people offering cred
 
 And we've reached the point of diminishing returns in terms of industrial age, mass-produced goods. We've found out that the only way to increase profits in a mass production scheme is either to make production cheaper or get more people to buy more stuff in less time. We've reached the limits of both. We have outsourced production, used poisonous materials, exploited populations and polluted vast territory. We've also reached our limits of consumption. People just can't consume anymore, they don't want to. They no longer find the sense of satisfaction in it--all our possessions separate us from each other rather than bringing us together.
 
-By leaving the growth requirement of the speculative economy behind, we
-
-have an opportunity to make better stuff and more sustainable stuff, and actually
-
-look at ways to work less hours. It's not a fantasy at all-just look at the many
-
-local and sustainable businesses in America today. There are enough around.
-
-Places where they design and manage and manufacture their stuff and even
-
-source the material in one area and either distribute really widely or distribute to
-
-a certain region.
+By leaving the growth requirement of the speculative economy behind, we have an opportunity to make better stuff and more sustainable stuff, and actually look at ways to work less hours. It's not a fantasy at all--just look at the many local and sustainable businesses in America today. There are enough around. Places where they design and manage and manufacture their stuff and even source the material in one area and either distribute really widely or distribute to a certain region.
 
 If you're no longer indebted to the bank or to an interest-driven economy, th
 
