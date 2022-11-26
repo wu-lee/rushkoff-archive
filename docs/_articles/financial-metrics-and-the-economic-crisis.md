@@ -63,31 +63,9 @@ As we spend less money on insulating ourselves from the poor, and we have more m
 
 Look at the Eldercare dollar system in Japan where people needed their elderly to get taken care of during a serious recession when no one had money or jobs. They created an alternative currency system through which people could invest their time; you'd bathe someone's grandmother where you live, and you'd earn a certain number of credits for someone else to take care of your grandparents in a distant town. Each kind of task--like bathing, cooking meals or playing gin rummy--had a different, per-hour value attached to it. Hundreds of millions of dollars worth of health care was provided in this way in a country where no one had the money to buy it but everyone had time because they were all unemployed. And now that the economy has gotten better, the old people still prefer their health care to be given to them through the Eldercare system than through the professional retail system, because the care turned out to be better, higher quality and more human.
 
-, thr ,ugh the Fldcrcarc c.y\~tcm than
+**Q:** _Do you envision similar alternatives to housing, i.e., eco-villages, co-housing, etc.?_
 
-prdcr lhcir health lan: to hr 1,!IH\~n h l thun . ' 1 , .. ,re turned out to be better. hcc-iusc t u.: l, through the pnilc"\\J()ll:ll rctnil syc.tctll. • .
-
-higher quality :rnJ mnrc human
-
-· · e eco-villages . . . · . to housmg. 1
-
-Q · ·• ' : Do ,·ou cm·i.wm sumlar alternofl\\ es
-
-co-houfiing. ere.:
-
-. .· h their own models. And there are a lot of
-
-DR: People are going to co\~e up wit vii landlord and creating a commune. alternatives in-between renting from an e · t fi d th 1 , There are a lot of steps between those things. People are gomg o n e _P ace
-
-h h ' c: rtable The most significant thing that could take place ts sim- t at t ey re com10 · rfi
-
-c: I 1 · that there's more than one model for I e and commerce ply 1or peop e to rea 1ze . . .
-
-t rt to realize that there are things we need m this out there. As soon as we s a . . world other than money, we find out there's ways we can pay a\~d participate in
-
-society other than with money-certainly other than the centralized bank paper
-
-we currently call money.
+**DR**: People are going to come up with their own models. And there are a lot of alternatives in-between renting from an evil landlord and creating a commune. There are a lot of steps between those things. People are going to find the place that they're comfortable. The most significant thing that could take place is simply for people to realize that there's more than one model for life and commerce out there. As soon as we start to realize that there are things we need in this world other than money, we find out there's ways we can pay and participate in society other than with money--certainly other than the centralized bank paper we currently call money.
 
 Q: Do you believe people will start adopting these measures and moving away
 
