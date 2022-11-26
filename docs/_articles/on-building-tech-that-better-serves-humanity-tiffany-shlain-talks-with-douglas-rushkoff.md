@@ -98,6 +98,9 @@ To: Tiffany
 
 Most of our technologies are designed to use us. If that's the relationship, of course it's going to make you feel drained and sad and sick. The original purpose of the economy was to help people create and exchange value. Now our economy is here just to extract people's value.
 
+From: Tiffany  
+To: Douglas
+
 This comes back to the original hopes for the web. We got so excited about the web in the early '90s with this potential to extend our ability to create and connect. But I never thought everyone's heads would be down all the time staring at their devices and it would keep people from being present with others right in front of them.
 
 From Tiffany
