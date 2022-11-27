@@ -45,23 +45,7 @@ Genesis's first word-poems in this vein were not aesthetic experiments, but magi
 
 A sigil is really just a focusing ritual, in which the magician concentrates on the object of desire or the state he wishes to create, and then places words or objects in a certain relationship to one another. Like a child who lays out the stones or shells she has collected over the course of a day, the magical artist arranges his words on the page in accordance with an intuitive psychic template. The resulting image contains, or represents, the thought structure that the magician is trying to bring into reality. The more mental and spiritual energy he can invest in this process, the more power the sigil will contain and, finally, release.
 
-Genesis soon saw the value this process could be to his collage art.
-
-He had been developing the techniques of cutting and pasting pic-
-
-tures and images for years-since he was a young child. Now, those
-
-practical techniques could serve him in his translation of cut-and-
-
-paste language to cut-and-paste imagery. In a sense, they were the
-
-same thing. Like his word poems, each of Genesis's postcards and art
-
-pieces was a sigil, appropriating images that had been generated in
-
-one context for a certain reason, and recontextualizing them in a
-
-new context, for a very different one.
+Genesis soon saw the value this process could be to his collage art. He had been developing the techniques of cutting and pasting pictures and images for years--since he was a young child. Now, those practical techniques could serve him in his translation of cut-and-paste language to cut-and-paste imagery. In a sense, they were the same thing. Like his word poems, each of Genesis's postcards and art pieces was a sigil, appropriating images that had been generated in one context for a certain reason, and recontextualizing them in a new context, for a very different one.
 
 As Genesis expanded into other media, like music, he brought this
 
