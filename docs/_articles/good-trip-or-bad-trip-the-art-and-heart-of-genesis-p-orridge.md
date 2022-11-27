@@ -35,17 +35,7 @@ But maybe not the language.
 
 Why were words like fuck so forbidden? What threat did they pose? Where did all these words we speak come from, anyway? Does anybody even remember that _good-bye_ means "God be with ye"? How much else is going on in the language we use--in the language we are taught not to violate? When was all this agreed upon, and by whom, and for what purpose?
 
-To Genesis, Burroughs's cut-and-paste process was not simply psy-
-
-chedelic beatnik art. It was revolution. To deconstruct the language
-
-of the establishment is the first step towards appropriation. Whose
-
-language is this, anyway? Why are we speaking "King's
-
-English"?-especially if it benefits only a bunch of sick, rich fucks who
-
-flush your head down the toilet?
+To Genesis, Burroughs's cut-and-paste process was not simply psychedelic beatnik art. It was revolution. To deconstruct the language of the establishment is the first step towards appropriation. Whose language is this, anyway? Why are we speaking "King's English"?--especially if it benefits only a bunch of sick, rich fucks who flush your head down the toilet?
 
 Genesis reveled in the appropriation and recombination of language,
 
