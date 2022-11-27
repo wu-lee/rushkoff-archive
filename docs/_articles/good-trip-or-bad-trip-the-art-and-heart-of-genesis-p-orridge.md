@@ -57,21 +57,7 @@ Throbbing Gristle and, eventually, its successor, Psychic TV, generated a fan ba
 
 By introducing so-called "modern primitive" aesthetics to the body ornamentation and dress of what had by then become the Industrial Movement, Genesis gave his audiences a chance to participate in forms of personal re-engineering they had formerly never thought possible. No, piercing one's nose or genitals in itself may not hold any innate magical power, but breaking one's own preconditioned aversion to body modification may just reprogram one's passive relationship to circumstance and existing power structures.
 
-Genesis led the way, his own body a canvas and bisexual sigil. His mul-
-
-tiply pierced genitals and deeply scarred and tattooed arms and chest
-
-served as ample evidence of his commitment to make the seemingly
-
-inviolable into plastic. He broke unquestioned sacred truths in order
-
-to reclaim that which was truly and individually sacred.And thousands
-
-followed suit. (Yes, from Throbbing Gristle right through to 21 JumP
-
-\~tree\~, Genesis was responsible for the emergence of body modifica·
-
-on in counter and then popular culture.)
+Genesis led the way, his own body a canvas and bisexual sigil. His multiply pierced genitals and deeply scarred and tattooed arms and chest served as ample evidence of his commitment to make the seemingly inviolable into plastic. He broke unquestioned sacred truths in order to reclaim that which was truly and individually sacred. And thousands followed suit. (Yes, from Throbbing Gristle right through to _21 Jump Street_, Genesis was responsible for the emergence of body modification in counter and then popular culture.)
 
 His open invitation for . . . . • of
 
