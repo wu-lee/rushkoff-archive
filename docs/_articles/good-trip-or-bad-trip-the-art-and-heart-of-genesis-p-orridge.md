@@ -55,21 +55,7 @@ This philosophy alone, permeating through Genesis's work and lifestyle (or shoul
 
 Throbbing Gristle and, eventually, its successor, Psychic TV, generated a fan base unlike anything seen before. These weren't fans, exactly, but initiates. Young people who felt powerless in one way or another, and who saw in Genesis's work and ideas the opportunity to seize control of the language, images, and sounds of modern life.
 
-By introducing so-called "modern primitive" aesthetics to the body
-
-ornamentation and dress of what had by then become the Industrial
-
-Movement, Genesis gave his audiences a chance to participate in
-
-forms of personal re-engineering they had formerly never though :
-
-possible. No, piercing one's nose or genitals in itself may not hold any
-
-innate magical power, but breaking one's own preconditioned aver
-
-sion to body modification may just reprogram one's passive relation-
-
-ship to circumstance and existing power structures.
+By introducing so-called "modern primitive" aesthetics to the body ornamentation and dress of what had by then become the Industrial Movement, Genesis gave his audiences a chance to participate in forms of personal re-engineering they had formerly never thought possible. No, piercing one's nose or genitals in itself may not hold any innate magical power, but breaking one's own preconditioned aversion to body modification may just reprogram one's passive relationship to circumstance and existing power structures.
 
 Genesis led the way, his own body a canvas and bisexual sigil. His mul-
 
