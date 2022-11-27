@@ -47,29 +47,7 @@ A sigil is really just a focusing ritual, in which the magician concentrates on 
 
 Genesis soon saw the value this process could be to his collage art. He had been developing the techniques of cutting and pasting pictures and images for years--since he was a young child. Now, those practical techniques could serve him in his translation of cut-and-paste language to cut-and-paste imagery. In a sense, they were the same thing. Like his word poems, each of Genesis's postcards and art pieces was a sigil, appropriating images that had been generated in one context for a certain reason, and recontextualizing them in a new context, for a very different one.
 
-As Genesis expanded into other media, like music, he brought this
-
-same ethic and aesthetic of appropriation, demystification, and mag•
-
-ical recontextualization into play. The "Industrial Music" that he and
-
-his cohorts in Throbbing Gristle pioneered takes the mechanized
-
-· 'd e of the working-
-
-factory sounds of everyday life-the acoustic ev, enc
-
-• 1
-
-. 't a r0 rm of political art.
-
-class's subjugation-and recontextua 1zes I as "
-
-I · ·1 'n which the hidden
-
-His concerts and records were, themse ves, s1g1 s, 1
-
-powers of sound were explored and exploited.
+As Genesis expanded into other media, like music, he brought this same ethic and aesthetic of appropriation, demystification, and magical recontextualization into play. The "Industrial Music" that he and his cohorts in Throbbing Gristle pioneered takes the mechanized factory sounds of everyday life--the acoustic evidence of the working-class's subjugation--and recontextualizes it as a form of political art. His concerts and records were, themselves, sigils, in which the hidden powers of sound were explored and exploited.
 
 21
 
