@@ -13,15 +13,7 @@ published: false
 ---
 Genesis P-Orridge's work defies objective analysis. So I won't even pretend that this little essay can accurately summarize or, dare I say it, codify his varied adventures in music, literature, art, magick, cultural engineering, and performance. Genesis's expressions are characterized, at least in part, by a breaking of conventional boundaries, a challenging of expectations, and a blurring of the usually polarized relationship between artist and spectator, performer and audience. To speak about Genesis's work is to speak the way a person projects oneself onto his work. Nothing more.
 
-But if one man's experience of Genesis P-Orridge can serve to illus-
-
-trate something about the shape of Genesis's intention-much in the
-
-way the tire treads across one's chest can be used to infer something
-
-about the car and driver that ran him over-then let me be of serv-
-
-ice. I have been impacted by this man, and I've lived to tell about it.
+But if one man's experience of Genesis P-Orridge can serve to illustrate something about the shape of Genesis's intention--much in the way the tire treads across one's chest can be used to infer something about the car and driver that ran him over--then let me be of service. I have been impacted by this man, and I've lived to tell about it.
 
 I first learned of Genesis while studying the history of the cut-and-
 
