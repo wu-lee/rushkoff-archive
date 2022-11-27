@@ -27,27 +27,7 @@ Genesis was fascinated with the cut-and-paste process too. He eventually tracked
 
 Genesis was born into a working-class English family, and, despite his station and some illnesses as a child, managed to earn a scholarship to an exclusive public (what we Americans would call private) school. There, Genesis learned firsthand which membranes of society were permeable and which were not. Often the victim of the worst mental and physical humiliations that privileged upper-class schoolboys could evolve in 20 generations of dormitory domination, Genesis learned that he was living in a world m which power was not earned--it was a birthright to the few. The pain and embarrassment he was forced to endure was meant solely to confirm their own sense of superiority in themselves, and to ingrain Genesis's inferiority in him.
 
-But as a child gr · · . . • owing up 1n such an environment, Genesis couldn't
-
-help but wonder if there was more to it. Do these quasi-sexual acts
-
-of depravity have some intrinsic power? Are these boys doing some-
-
-thing more than it appears? Is the power they will one day experi-
-
-ence as the Lords of England somehow dependent on creating this
-
-fear and pain in others? Which comes first, the torture or the power?
-
-Genesis was participating, albeit unwillingly, in one of the oldest rit-
-
-uals practiced by some of the most powerful men in the world dur-
-
-ing their highly impressionable adolescent years. And these rituals
-
-were allowed, if not absolutely encouraged, by the headmasters
-
-charged with training and educating the power elite of the future.
+But, as a child growing up in such an environment, Genesis couldn't help but wonder if there was more to it. Do these quasi-sexual acts of depravity have some intrinsic power? Are these boys doing something more than it appears? Is the power they will one day experience as the Lords of England somehow dependent on creating this fear and pain in others? Which comes first, the torture or the power? Genesis was participating, albeit unwillingly, in one of the oldest rituals practiced by some of the most powerful men in the world during their highly impressionable adolescent years. And these rituals were allowed, if not absolutely encouraged, by the headmasters charged with training and educating the power elite of the future.
 
 Understandably, young Genesis developed a worldview that saw
 
