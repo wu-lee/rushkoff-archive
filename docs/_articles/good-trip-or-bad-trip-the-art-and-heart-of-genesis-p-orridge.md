@@ -11,23 +11,7 @@ sources: ''
 published: false
 
 ---
-Genesis P-Orridge's work defies objective analysis. So I won't even
-
-pretend that this little essay can accurately summarize or, dare I say
-
-it, codify his varied adventures in music, literature, art, magick, cul-
-
-tural engineering, and performance. Genesis's expressions are char-
-
-acterized, at least in part, by a breaking of conventional boundaries,
-
-a challenging of expectations, and a blurring of the usually polarized
-
-relationship between artist and spectator, performer and audience.
-
-To speak about Genesis's work is to speak the way a person projects
-
-oneself onto his work. Nothing more.
+Genesis P-Orridge's work defies objective analysis. So I won't even pretend that this little essay can accurately summarize or, dare I say it, codify his varied adventures in music, literature, art, magick, cultural engineering, and performance. Genesis's expressions are characterized, at least in part, by a breaking of conventional boundaries, a challenging of expectations, and a blurring of the usually polarized relationship between artist and spectator, performer and audience. To speak about Genesis's work is to speak the way a person projects oneself onto his work. Nothing more.
 
 But if one man's experience of Genesis P-Orridge can serve to illus-
 
