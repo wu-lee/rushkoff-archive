@@ -15,17 +15,7 @@ Genesis P-Orridge's work defies objective analysis. So I won't even pretend that
 
 But if one man's experience of Genesis P-Orridge can serve to illustrate something about the shape of Genesis's intention--much in the way the tire treads across one's chest can be used to infer something about the car and driver that ran him over--then let me be of service. I have been impacted by this man, and I've lived to tell about it.
 
-I first learned of Genesis while studying the history of the cut-and-
-
-paste aesthetic. I was devouring one of those great, early RE/Search
-
-books out of San Francisco, in which the lineage between William S.
-
-Burroughs and Brion Gysin had been painstakingly chronicled. But
-
-who was this third man being added to the mix? Genesis P-Orridge?
-
-Wasn't he the lead singer for UK industrial band Throbbing Gristle?
+I first learned of Genesis while studying the history of the cut-and-paste aesthetic. I was devouring one of those great, early RE/Search books out of San Francisco, in which the lineage between William S. Burroughs and Brion Gysin had been painstakingly chronicled. But who was this third man being added to the mix? Genesis P-Orridge? Wasn't he the lead singer for UK industrial band Throbbing Gristle?
 
 Yes, but he was also the man who turned cut-and-paste from an
 
