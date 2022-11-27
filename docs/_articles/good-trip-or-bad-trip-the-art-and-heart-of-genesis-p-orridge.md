@@ -17,17 +17,9 @@ But if one man's experience of Genesis P-Orridge can serve to illustrate somethi
 
 I first learned of Genesis while studying the history of the cut-and-paste aesthetic. I was devouring one of those great, early RE/Search books out of San Francisco, in which the lineage between William S. Burroughs and Brion Gysin had been painstakingly chronicled. But who was this third man being added to the mix? Genesis P-Orridge? Wasn't he the lead singer for UK industrial band Throbbing Gristle?
 
-Yes, but he was also the man who turned cut-and-paste from an
+Yes, but he was also the man who turned cut-and-paste from an experimental art form into an act of conscious defiance.
 
-experimental art form into an act of conscious defiance.
-
-In the 1950s and 60s, Burroughs and Gysin had seen fit to turn post-
-
-modern deconstruction into a new kind of self-expression. Instead of
-
-merely deconstructing texts, they had the bright idea of recombin-
-
-ing the many parts to see what came up.
+In the 1950s and 60s, Burroughs and Gysin had seen fit to turn post-modern deconstruction into a new kind of self-expression. Instead of merely deconstructing texts, they had the bright idea of recombining the many parts to see what came up.
 
 Like the music of John Cage, it was a somewhat random process. The
 
