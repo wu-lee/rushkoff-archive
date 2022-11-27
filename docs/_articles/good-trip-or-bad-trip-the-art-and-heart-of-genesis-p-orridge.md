@@ -53,17 +53,7 @@ In doing so, Genesis came to learn about the effect of sound on the human body a
 
 This philosophy alone, permeating through Genesis's work and lifestyle (or should we just say "life"?) may be responsible for his enormous success in mobilizing an army of young people into a youth culture dedicated to re-engineering the world in which we live.
 
- youth culture de 1ca e
-
-Throbbing Gristle and, eventually, its successor, Psychic TV, generat.
-
-ed a fan base unlike anything seen before. These weren't fans, exactty,
-
-but initiates. Young people who felt powerless in one way or another,
-
-and who saw in Genesis's work and ideas the opportunity to seize
-
-control of the language, images, and sounds of modern life.
+Throbbing Gristle and, eventually, its successor, Psychic TV, generated a fan base unlike anything seen before. These weren't fans, exactly, but initiates. Young people who felt powerless in one way or another, and who saw in Genesis's work and ideas the opportunity to seize control of the language, images, and sounds of modern life.
 
 By introducing so-called "modern primitive" aesthetics to the body
 
