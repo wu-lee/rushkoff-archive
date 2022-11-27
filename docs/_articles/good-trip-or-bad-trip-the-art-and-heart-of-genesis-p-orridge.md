@@ -41,43 +41,7 @@ Genesis reveled in the appropriation and recombination of language, but sought t
 
 Finally, the words can be recombined, re-engineered to tip the balance of power in another direction. Why and when did thee become the? And what happens if you bring the origins of language back into play? Genesis moved from the deconstruction of language, through the demystification of its sources, to the engineering of new language that better stated the reality that he wanted to create. Do-it-yourself language.
 
-on. y and When . the? And what happens if you br· h . did thee become
-
-mg t e origins f I
-
-play? Genesis moved from the d
-
-O anguage back into
-
-econstruction of la
-
-the demystification of its sources t th . nguage, through ' 0 e engineerin f
-
-that better stated the reality that h g O new language
-
-e wanted to
-
-self language.
-
-create. Do-it-your-
-
-Genesis's first word-poems in thi . s vein were not ae th . ments, but magical sigils. The words th I s et,c experi-
-
-emse ves, and their I
-
-on the page, were conceived in trance states a d . h p acement
-
-• • . n Wit the consc·
-
-intention of creating a new reality based h ious . . . on t e deepest workings of
-
-mind and spirit. He was tapping languag f. • e or ,ts power, uncertain of
-
-what he would release, but daring enough t b 1
-
-\- • • 0 e 1eve that ,f ,t made
-
-people uneasy, he must be onto something good.
+Genesis's first word-poems in this vein were not aesthetic experiments, but magical sigils. The words themselves, and their placement on the page, were conceived in trance states and with the conscious intention of creating a new reality based on the deepest workings of mind and spirit. He was tapping language for its power, uncertain of what he would release, but daring enough to believe that if it made people uneasy, he must be onto something good.
 
 A sigil is really just a focusing ritual in which th · •
 
