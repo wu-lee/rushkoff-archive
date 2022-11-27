@@ -33,17 +33,7 @@ Understandably, young Genesis developed a worldview that saw power as a kind of 
 
 But maybe not the language.
 
-Why were words like fuck so forbidden? What threat did they pose?
-
-Where did all these words we speak come from, anyway? Does any-
-
-body even remember that good-bye means "God be with ye" ? How
-
-much else is going on in the language we use-in the language we are
-
-taught not to violate? When was all this agreed upon, and by whom,
-
-and for what purpose?
+Why were words like fuck so forbidden? What threat did they pose? Where did all these words we speak come from, anyway? Does anybody even remember that _good-bye_ means "God be with ye"? How much else is going on in the language we use--in the language we are taught not to violate? When was all this agreed upon, and by whom, and for what purpose?
 
 To Genesis, Burroughs's cut-and-paste process was not simply psy-
 
