@@ -61,6 +61,94 @@ Genesis led the way, his own body a canvas and bisexual sigil. His multiply pier
 
 His open invitation for anyone to join him in this re-appropriation power, by any means necessary, led to unexpected results. Psychic TV's "fan club," Thee Temple Ov Psychic Youth, despite being anti-hierarchical became something of a cult. It turned out that many young people, having disengaged from the official parent figures of their childhood, now felt the need to project a kind of parental authority onto Genesis.
 
-And Gene. ' sis s provocat· ote
+And Genesis's provocations, though designed to promote autonomous thinking and unleash the power associated with breaking cultural repression, tended to create blind obedience in those who weren't quite ready to embrace the implications of a magical lifestyle. Genesis invited fans to clip a few pubic hairs and then send them to him for his archives, and many welcomed it as a kind of surrender, rather than the shared community sigil that Genesis had intended. Genesis's invitation to join him in recreating by a series of conscious choices, an infinitely malleable, multi-dimensional consensus reality through group invocation and incantation was translated by the media and unfortunately by less realized fans as a one-dimensional dark power trip.
 
-autonomous thi k" ions, though designed to pro111 \~- . n ing and unlea h th . h brea mg cultural repr . s e power associated wit se ess1on te d d . tl10 ' n e to create blind obedience 1"
+( n trol when Genesis and Psychic TV made a . ot out o co . . Ttiings g . f films that included some deliberately amb1gue little series o . strang . d tic scenarios that were carefully designed to
+
+·tuallz:e ero
+
+ous, r• h I tent disinformational power of TV editing and
+
+onstrate t e a
+
+dem . 1 t generate hallucinations embedded in the core of
+
+potent1a 0
+
+the . •uelf. His original intention was to show how real he
+
+hat medium I
+
+t ake the film seem; how video cut-and-paste had become a
+
+could m f d I d " d d . . h . . •t own right capable o e u mg an ece1vmg t e viewlanguage in ' s
+
+eate a program that tested the boundaries of decency.
+
+er· and to er • right-wing Christian propagandist seized upon the film
+
+An extreme . " . .
+
+I l
+
+·ve evidence that Genesis, the most evil man m Great
+
+as cone us . . ,, and his sick followers were engaging in genuine satanic ritBrttain,
+
+I I a moment of supreme irony, the same propagandist edited a
+
+ua s. n
+
+national TV documentary that featured sensationalized outtakes
+
+from the original fictional footage, presenting them as fact!
+
+So shocking, and effective, was this broadcast fabrication that a
+
+police investigation followed, along with a raid of Genesis's infamous
+
+archives. Whilst he and his family were in Nepal during the raid,
+
+working in the eastern equivalent of a soup kitchen feeding lepers
+
+and Tibetan refugees. Someone from Scotland Yard warned Genesis,
+
+off the record, that he'd be arrested, or worse, if he returned to
+
+England. He moved to California, instead.
+
+Genesis learned the hard way that art which attempts to re-engineer
+
+reality often does so-but not quite as the artist expects. Entrenched
+
+reality has a way of kicking back, hard.
+
+\~ first met Genesis shortly after his arrival in the States. I was driving to Los Ang I f . e es rom San Francisco to spend a little time with
+
+Timothy Leary h
+
+.d ' w O suggested I give Genesis and his daughters a
+
+r1 e down the coast G . h
+
+Ti . · enesis ad planned to spend a few days with
+
+m, in the hope of ett· . form g ing a httle counsel from the man whose own
+
+er countercultur I d
+
+most d a a ventures and media antics had led to "the
+
+angerous man i A . "
+
+n merica, as well as a bit of jail time.
+
+I found G . . enes,s in a a k"
+
+Caresse and G p r mg lot with his two young daughters
+
+enesse. He was .. all the pierc d positively delicate. Tiny and frail-not at
+
+e monster I had i . or Perusing th h . magmed when listening to his records
+
+e p otos m his b k 00 s. Sure, he had been through a lot,
