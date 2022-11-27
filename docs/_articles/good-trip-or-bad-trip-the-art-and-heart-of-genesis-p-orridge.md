@@ -21,25 +21,7 @@ Yes, but he was also the man who turned cut-and-paste from an experimental art f
 
 In the 1950s and 60s, Burroughs and Gysin had seen fit to turn post-modern deconstruction into a new kind of self-expression. Instead of merely deconstructing texts, they had the bright idea of recombining the many parts to see what came up.
 
-Like the music of John Cage, it was a somewhat random process. The
-
-artist gets out of the way and allows the myriad of mathematical pos-
-
-sibilities to unfold. The text of a newspaper article, for example,
-
-recombined into as many possible word orders as time, space, and
-
-probability will allow, yields strange results. We begin to understand
-
-the world of the article from a new perspective. Sometimes it feels
-
-as if secret codes have been unleashed (Burroughs was a rejected
-
-applicant to the CIA, after all). Other combinations give us an emo-
-
-tional overview of the newspaper's reality; or a political template.
-
-Sometimes, it even sounds sexy.
+Like the music of John Cage, it was a somewhat random process. The artist gets out of the way and allows the myriad of mathematical possibilities to unfold. The text of a newspaper article, for example, recombined into as many possible word orders as time, space, and probability will allow, yields strange results. We begin to understand the world of the article from a new perspective. Sometimes it feels as if secret codes have been unleashed (Burroughs was a rejected applicant to the CIA, after all). Other combinations give us an emotional overview of the newspaper's reality; or a political template. Sometimes, it even sounds sexy.
 
 Genesis was fascinated with the cut-and-paste process too. He even-
 
