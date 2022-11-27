@@ -59,15 +59,7 @@ By introducing so-called "modern primitive" aesthetics to the body ornamentation
 
 Genesis led the way, his own body a canvas and bisexual sigil. His multiply pierced genitals and deeply scarred and tattooed arms and chest served as ample evidence of his commitment to make the seemingly inviolable into plastic. He broke unquestioned sacred truths in order to reclaim that which was truly and individually sacred. And thousands followed suit. (Yes, from Throbbing Gristle right through to _21 Jump Street_, Genesis was responsible for the emergence of body modification in counter and then popular culture.)
 
-His open invitation for . . . . • of
-
-anyone to Jom him in this re-appropriation power, by any means n hi' TV's "f I ecessary, led to unexpected results. Psyc
-
-an c ub," Thee Tem I o nti· hierarchical b P e v Psychic Youth, despite being a
-
-young peopl e:a\~e so_mething of a cult. It turned out that r,1al1\~
-
-e, aving d1sengag d f es o their childh d e rom the official parent figur oo 1 ' now felt th rita authority ont G . e need to project a kind of pare 0 enes1s.
+His open invitation for anyone to join him in this re-appropriation power, by any means necessary, led to unexpected results. Psychic TV's "fan club," Thee Temple Ov Psychic Youth, despite being anti-hierarchical became something of a cult. It turned out that many young people, having disengaged from the official parent figures of their childhood, now felt the need to project a kind of parental authority onto Genesis.
 
 And Gene. ' sis s provocat· ote
 
