@@ -29,17 +29,7 @@ Genesis was born into a working-class English family, and, despite his station a
 
 But, as a child growing up in such an environment, Genesis couldn't help but wonder if there was more to it. Do these quasi-sexual acts of depravity have some intrinsic power? Are these boys doing something more than it appears? Is the power they will one day experience as the Lords of England somehow dependent on creating this fear and pain in others? Which comes first, the torture or the power? Genesis was participating, albeit unwillingly, in one of the oldest rituals practiced by some of the most powerful men in the world during their highly impressionable adolescent years. And these rituals were allowed, if not absolutely encouraged, by the headmasters charged with training and educating the power elite of the future.
 
-Understandably, young Genesis developed a worldview that saw
-
-power as a kind of evil, maintained through ritual and protected by
-
-institutions. The rest of us were imprisoned in their world, incapable
-
-\-or at least led to believe that we were incapable-of doing anything
-
-about it. They own the land, the buildings, the money, the media and
-
-the sex.
+Understandably, young Genesis developed a worldview that saw power as a kind of evil, maintained through ritual and protected by institutions. The rest of us were imprisoned in their world, incapable--or at least led to believe that we were incapable--of doing anything about it. They own the land, the buildings, the money, the media and the sex.
 
 But maybe not the language.
 
