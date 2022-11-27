@@ -37,33 +37,7 @@ Why were words like fuck so forbidden? What threat did they pose? Where did all 
 
 To Genesis, Burroughs's cut-and-paste process was not simply psychedelic beatnik art. It was revolution. To deconstruct the language of the establishment is the first step towards appropriation. Whose language is this, anyway? Why are we speaking "King's English"?--especially if it benefits only a bunch of sick, rich fucks who flush your head down the toilet?
 
-Genesis reveled in the appropriation and recombination of language,
-
-but sought to take it further. Deconstruction is the first step towards
-
-disempowering the masters of language. Demystification is the next
-
-step. Once you take apart the words, you can toy with them pur-
-
-posefully-not just randomly. A student of language, Genesis discov-
-
-20
-
-. . . . .
-
-•
-
-.. .
-
-"Hyperdelic #I."
-
-l) ered the origins of words, as well
-
-as the assun, . common usage. Once the language ·t If pt,ons underlying th . ' se could b e,r
-
-could be the assumptions they d . e questioned 5 t
-
-are es,gned t , o, oo, 0 enforce.
+Genesis reveled in the appropriation and recombination of language, but sought to take it further. Deconstruction is the first step towards disempowering the masters of language. Demystification is the next step. Once you take apart the words, you can toy with them purposefully--not just randomly. A student of language, Genesis discovered the origins of words, as well as the assumptions underlying their common usage. Once the language itself could be questioned, so, too, could be the assumptions they are designed to enforce.
 
 Finally, the words can be recomb·
 
