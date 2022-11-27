@@ -39,11 +39,7 @@ To Genesis, Burroughs's cut-and-paste process was not simply psychedelic beatnik
 
 Genesis reveled in the appropriation and recombination of language, but sought to take it further. Deconstruction is the first step towards disempowering the masters of language. Demystification is the next step. Once you take apart the words, you can toy with them purposefully--not just randomly. A student of language, Genesis discovered the origins of words, as well as the assumptions underlying their common usage. Once the language itself could be questioned, so, too, could be the assumptions they are designed to enforce.
 
-Finally, the words can be recomb·
-
-med, re-engin
-
-ance of power in another directi Wh eered to tip the baf.
+Finally, the words can be recombined, re-engineered to tip the balance of power in another direction. Why and when did thee become the? And what happens if you bring the origins of language back into play? Genesis moved from the deconstruction of language, through the demystification of its sources, to the engineering of new language that better stated the reality that he wanted to create. Do-it-yourself language.
 
 on. y and When . the? And what happens if you br· h . did thee become
 
