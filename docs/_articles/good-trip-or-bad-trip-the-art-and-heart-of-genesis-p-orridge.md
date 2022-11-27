@@ -25,23 +25,7 @@ Like the music of John Cage, it was a somewhat random process. The artist gets o
 
 Genesis was fascinated with the cut-and-paste process too. He eventually tracked down Burroughs and Gysin, and became something of a protégé to them. But Genesis saw a different kind of voltage in the deconstruction process. To him, it was an appropriation. An opportunity to seize power that he'd been looking for all his life.
 
-Genesis was born into a working-class English family, and, despite his
-
-station and some illnesses as a child, managed to earn a scholarship
-
-19
-
-I
-
-4
-
-to an exclusive pubr ( h
-
-Th . •c w at we Americans would call private) school.
-
-ere, Genesis learned firsthand which membranes of society were permeable and h · h w •c were not. Often the victim of the worst men- tal and physi I h ·i· . ca um, 1at1ons that privileged upper-class schoolboys could evolve in 20 • . generations of dormitory domination, Genesis learned that he w 1· • • • . as 1vmg m a world m which power was not earned -1t was a birthri ht t h I T · g o t e ,ew. he pam and embarrassment he was forced to end . ure was meant solely to confirm their own sense of
-
-superiority in themselves, and to ingrain Genesis's inferiority in him.
+Genesis was born into a working-class English family, and, despite his station and some illnesses as a child, managed to earn a scholarship to an exclusive public (what we Americans would call private) school. There, Genesis learned firsthand which membranes of society were permeable and which were not. Often the victim of the worst mental and physical humiliations that privileged upper-class schoolboys could evolve in 20 generations of dormitory domination, Genesis learned that he was living in a world m which power was not earned--it was a birthright to the few. The pain and embarrassment he was forced to endure was meant solely to confirm their own sense of superiority in themselves, and to ingrain Genesis's inferiority in him.
 
 But as a child gr · · . . • owing up 1n such an environment, Genesis couldn't
 
