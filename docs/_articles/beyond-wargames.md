@@ -27,10 +27,4 @@ What I'd like to see as a result of computer networking is the possibility for m
 
 Gaming and government are actually one and the same. While we have to actually govern using the Constitution, we can't let it become so set in stone that we lose the ability to game with it. Our nation is both a functioning nation _and_ a model for a functioning nation. Imagine a discussion of urban planning conducted through a simulation like SimCity. Or a model for local currency developed in a community within Second Life. How about reconfiguring the Electoral College model based on a year of in-person collaborative processes practiced by groups using Meetup.com? Or consider a bottom-up editorial process for amending the Constitution itself, pairing traditional legislative processes with the mass participation offered by wikis and other collective authorship tools. Or, finally, how about engaging the next generation of citizens in all of these collaborative online processes as a way of instilling curiosity and civic practices that will surpass what currently passes for debate in the chambers of Congress?
 
-of
-
-Networked gaming applied to the democratic process can restore our ability to evolve our republic, bring our international relation- ships beyond the presumption of mutual enmity, and—perhaps most importantly—make participating in government fun and interesting.
-
-About the Author
-
-Douglas Rushkoff is the author of several seminal books on media and society, including Cyberia, Media Virus, Playing the Future, Open Source Democracy, Coercion, and, most recently, Get Back in the Box: Innovation from the Inside Out. He founded the Narrative Lab at NYU's Interactive Telecommunications Program.
+Networked gaming applied to the democratic process can restore our ability to evolve our republic, bring our international relationships beyond the presumption of mutual enmity, and—perhaps most importantly—make participating in government fun and interesting.
