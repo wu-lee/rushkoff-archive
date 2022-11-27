@@ -51,15 +51,9 @@ As Genesis expanded into other media, like music, he brought this same ethic and
 
 In doing so, Genesis came to learn about the effect of sound on the human body and mind. Certain frequencies create sexual sensations, while others can make one nauseous. Some noises make us feel weak, while others make us feel strong. Is this because we are conditioned to feel certain ways, or because the sounds have an intrinsic impact on human beings? Genesis would be the last to tell us. For, even if the body is programmed at birth to respond a certain way, who is to say we can't program it to respond in another? Everything is up for grabs.
 
-meating through Genesis's work and h ·1 ophy alone, per This P I
+This philosophy alone, permeating through Genesis's work and lifestyle (or should we just say "life"?) may be responsible for his enormous success in mobilizing an army of young people into a youth culture dedicated to re-engineering the world in which we live.
 
-os • . t say "life"?) may be responsible for his lifestyle (or should we JUS •
-
-. mobilizing an army of young people into a
-
-enormous success m . .
-
-d. t d to re-engineering the world m which we live. youth culture de 1ca e
+ youth culture de 1ca e
 
 Throbbing Gristle and, eventually, its successor, Psychic TV, generat.
 
