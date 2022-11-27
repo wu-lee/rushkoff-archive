@@ -23,15 +23,7 @@ In the 1950s and 60s, Burroughs and Gysin had seen fit to turn post-modern decon
 
 Like the music of John Cage, it was a somewhat random process. The artist gets out of the way and allows the myriad of mathematical possibilities to unfold. The text of a newspaper article, for example, recombined into as many possible word orders as time, space, and probability will allow, yields strange results. We begin to understand the world of the article from a new perspective. Sometimes it feels as if secret codes have been unleashed (Burroughs was a rejected applicant to the CIA, after all). Other combinations give us an emotional overview of the newspaper's reality; or a political template. Sometimes, it even sounds sexy.
 
-Genesis was fascinated with the cut-and-paste process too. He even-
-
-tually tracked down Burroughs and Gysin, and became something of
-
-a protege to them. But Genesis saw a different kind of voltage in the
-
-deconstruction process.To him, it was an appropriation.An opportu-
-
-nity to seize power that he'd been looking for all his life.
+Genesis was fascinated with the cut-and-paste process too. He eventually tracked down Burroughs and Gysin, and became something of a protégé to them. But Genesis saw a different kind of voltage in the deconstruction process. To him, it was an appropriation. An opportunity to seize power that he'd been looking for all his life.
 
 Genesis was born into a working-class English family, and, despite his
 
