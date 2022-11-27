@@ -49,15 +49,7 @@ Genesis soon saw the value this process could be to his collage art. He had been
 
 As Genesis expanded into other media, like music, he brought this same ethic and aesthetic of appropriation, demystification, and magical recontextualization into play. The "Industrial Music" that he and his cohorts in Throbbing Gristle pioneered takes the mechanized factory sounds of everyday life--the acoustic evidence of the working-class's subjugation--and recontextualizes it as a form of political art. His concerts and records were, themselves, sigils, in which the hidden powers of sound were explored and exploited.
 
-21
-
-about the effect of sound on th to learn e . so Genesis came . f encies create sexual sensatioris In doing • . Certain requ . ' body and mind. us Some noises make us fe.,. human k one nauseo · .._ 1
-
-h·ie others can ma e I trong Is this because we are condi
-
-w • ake us fee s . . . weak. while others m b cause the sounds have an mtririsic . ways or e tioned to feel certain • . would be the last to tell us. For beings' Genesis ' impact on human · d at birth to respond a certain wa" d is programme ,, even if the bo Y ·t to respond in another? Everythin •t program I g who is to say we can
-
-is up for grabs.
+In doing so, Genesis came to learn about the effect of sound on the human body and mind. Certain frequencies create sexual sensations, while others can make one nauseous. Some noises make us feel weak, while others make us feel strong. Is this because we are conditioned to feel certain ways, or because the sounds have an intrinsic impact on human beings? Genesis would be the last to tell us. For, even if the body is programmed at birth to respond a certain way, who is to say we can't program it to respond in another? Everything is up for grabs.
 
 meating through Genesis's work and h ·1 ophy alone, per This P I
 
