@@ -43,29 +43,7 @@ Finally, the words can be recombined, re-engineered to tip the balance of power 
 
 Genesis's first word-poems in this vein were not aesthetic experiments, but magical sigils. The words themselves, and their placement on the page, were conceived in trance states and with the conscious intention of creating a new reality based on the deepest workings of mind and spirit. He was tapping language for its power, uncertain of what he would release, but daring enough to believe that if it made people uneasy, he must be onto something good.
 
-A sigil is really just a focusing ritual in which th · •
-
-' e mag1c1an concen-
-
-trates on the object of desire or the state he wi·sh t
-
-es o create, and
-
-then places words or objects in a certain relationshi· t P o one anoth-
-
-er. Like a child who lays out the stones or shells she has collected
-
-over the course of a day, the magical artist arranges his words on the
-
-page in accordance with an intuitive psychic template. The resulting
-
-image contains, or represents, the thought structure that the magi-
-
-cian is trying to bring into reality. The more mental and spiritual
-
-energy he can invest in this process, the more power the sigil will
-
-contain and, finally, release.
+A sigil is really just a focusing ritual, in which the magician concentrates on the object of desire or the state he wishes to create, and then places words or objects in a certain relationship to one another. Like a child who lays out the stones or shells she has collected over the course of a day, the magical artist arranges his words on the page in accordance with an intuitive psychic template. The resulting image contains, or represents, the thought structure that the magician is trying to bring into reality. The more mental and spiritual energy he can invest in this process, the more power the sigil will contain and, finally, release.
 
 Genesis soon saw the value this process could be to his collage art.
 
