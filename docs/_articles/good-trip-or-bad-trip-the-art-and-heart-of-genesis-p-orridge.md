@@ -97,12 +97,64 @@ Genesis often augments these works with the props that were used to stage the sc
 
 These objects also conflate mythos--the mythical realm in which the artistic moment occurred--and chronos--the historical reality of their objectified use in the real world. Are these sacrificial objects or the tools of this artisan's trade? Religious talismans or simply used sex toys? Or, God help us, both?
 
-Genesis's paintings are also hung at various levels throughout a
-
-gallery space, so that viewers must crouch and contort themselves in
-
-order to see them. Only a few probably realize that the positions
-
-they are forced to assume mirror the same positions of the sex partners in the paintings themselves. The viewer recapitulates the kinesthetic of the artwork.
+Genesis's paintings are also hung at various levels throughout a gallery space, so that viewers must crouch and contort themselves in order to see them. Only a few probably realize that the positions they are forced to assume mirror the same positions of the sex partners in the paintings themselves. The viewer recapitulates the kinesthetic of the artwork.
 
 As the disruptor of accepted boundary conditions and, as a result,
+
+the .,..nerator of altogether new forms, Genesis will be fully u
+
+o- llde,-
+
+stood only as his innovations are, themselves, appropriated by Oth -
+
+artists. O nly then-as whe n we watch multi-pierced and tattooed kier
+
+on Jen-y Springer, or some one like Marilyn Manson or Trent Re:z:n;s
+
+today-will we be able to reckon w ith the aesthetic upheavals and '
+
+CUiturai violations that Genesis has perpetrated.
+
+For now, we must content ourselves with the clues he leaves for us iri
+
+the relationship between his own life and the life he portrays 00
+
+stage and on the canvas. It is a seamless continuum-an internally
+
+consiste nt world where the only rule is that nothing is sacred.
+
+Ap propriate, demystify, and then reassemble the component parts
+
+into a sigil that must be engaged with wholeheartedly in order to be
+
+understood. Such engagement requires us to abandon, at least for a
+
+m o m ent, the dualities and boundaries we have been preconditioned
+
+to e xpect. And in doing so, we unwittingly extend his magick a bit
+
+further.
+
+To interact with Genesis's work is to interact with Genesis, himself.
+
+Late one night, in a particularly distressed and abstract moment, I
+
+shared with Genesis the contours of one of my own immediately
+
+pressing confrontations with what seemed to be the darker side of
+
+my consciousness. He leaned back in his chair and smiled, revealing a
+
+mouth filled with freshly gilded teeth. Priest or devil? I was unsure.
+
+I feared for an instant I had confessed my vulnerability to a man who
+
+had the power to abuse me, if he wished. But I had lost my bearings,
+
+and Gen had no doubt once been right here, himself. I needed context from somewhere . Anywhere. The boundaries were all broken.
+
+What was up and what was down? Where did good and evil fit?
+
+" Well, Douglas," he said in a deep, even tone . .. There's something I
+
+remind myself of at times like this:The only good trip, is a bad trip."
