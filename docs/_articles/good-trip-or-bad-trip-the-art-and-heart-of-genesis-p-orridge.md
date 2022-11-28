@@ -105,15 +105,7 @@ For now, we must content ourselves with the clues he leaves for us in the relati
 
 To interact with Genesis's work is to interact with Genesis, himself.
 
-Late one night, in a particularly distressed and abstract moment, I
-
-shared with Genesis the contours of one of my own immediately
-
-pressing confrontations with what seemed to be the darker side of
-
-my consciousness. He leaned back in his chair and smiled, revealing a
-
-mouth filled with freshly gilded teeth. Priest or devil? I was unsure.
+Late one night, in a particularly distressed and abstract moment, I shared with Genesis the contours of one of my own immediately pressing confrontations with what seemed to be the darker side of my consciousness. He leaned back in his chair and smiled, revealing a mouth filled with freshly gilded teeth. Priest or devil? I was unsure.
 
 I feared for an instant I had confessed my vulnerability to a man who
 
