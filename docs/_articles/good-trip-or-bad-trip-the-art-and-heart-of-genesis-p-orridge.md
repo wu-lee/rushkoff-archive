@@ -95,15 +95,7 @@ These are not merely fetishistic titillations, but abstractions so removed from 
 
 Genesis often augments these works with the props that were used to stage the scenes. The instrument that was once inside his anus, or a string of beads that were once inside a vagina rest on pedestals in front of the pictures in which they appears. Breaking time along with sex, these objects are elevated at once to historical artifacts and all-too-present reminders of what took place whenever it was the photos were first taken.
 
-These objects also conflate mythos-the mythical realm in which the
-
-artistic moment occurred-and chronos-the historical reality of their
-
-objectified use in the real world. Are these sacrificial objects or the
-
-tools of this artisan's trade? Religious talismans or simply used sex
-
-toys? Or, God help us, both?
+These objects also conflate mythos--the mythical realm in which the artistic moment occurred--and chronos--the historical reality of their objectified use in the real world. Are these sacrificial objects or the tools of this artisan's trade? Religious talismans or simply used sex toys? Or, God help us, both?
 
 Genesis's paintings are also hung at various levels throughout a
 
