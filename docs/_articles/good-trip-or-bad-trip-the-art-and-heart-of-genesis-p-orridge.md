@@ -67,11 +67,7 @@ Things got out of control when Genesis and Psychic TV made a strange little seri
 
 So shocking, and effective, was this broadcast fabrication that a police investigation followed, along with a raid of Genesis's infamous archives. Whilst he and his family were in Nepal during the raid, working in the eastern equivalent of a soup kitchen feeding lepers and Tibetan refugees. Someone from Scotland Yard warned Genesis, off the record, that he'd be arrested, or worse, if he returned to England. He moved to California, instead.
 
-Genesis learned the hard way that art which attempts to re-engineer
-
-reality often does so-but not quite as the artist expects. Entrenched
-
-reality has a way of kicking back, hard.
+Genesis learned the hard way that art which attempts to re-engineer reality often does so--but not quite as the artist expects. Entrenched reality has a way of kicking back, hard.
 
 \~ first met Genesis shortly after his arrival in the States. I was driving to Los Ang I f . e es rom San Francisco to spend a little time with
 
