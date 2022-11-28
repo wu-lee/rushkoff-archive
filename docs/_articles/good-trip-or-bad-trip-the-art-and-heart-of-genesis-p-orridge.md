@@ -83,30 +83,74 @@ His forays into Industrial music were seminal not just for the sounds he found, 
 
 Of course such an invitation is absolutely contrary to the working order of a civilization in which the human impulse is not to be trusted. Genesis instructs us to break boundaries and create our own narratives, while our religions and governments insist that human beings, left to their own devices, will rape and pillage one another. Genesis challenges us to co-author the collective story. He insists that if we don't create reality ourselves, someone, somewhere, will surely do it for us. And that person will not have our best interests at heart.
 
-This position
+This position itself is what has been known as "evil" for the past 2000 years. If Genesis is demonic, it is by this definition, alone. And if the autonomy he insists we take back is a sinful thing, then count me among the sinners, too. But for those who believe in absolutes--those who have accepted the arbitrary polarities masquerading these days as ethical truths--Genesis's almost Gnostic proposition that it is we humans who are charged with creating reality amounts to blasphemy. For Genesis. it's the essence of creativity. That's why he renamed himself "Genesis," after all. (The P-Orridge part is a tribute to the breakfast food that he credits with curing his childhood disease.)
 
-years. If Genesis
+Genesis went on hiatus for a couple of years, and considered the
 
-itself is what has been known as "evil" for the past 2000
+other polarities he might next dissolve. He settled on sex, and
 
-is demonic, it is by this definition,
+announced to me that he had embarked on breaking the boundary
 
-autonomy he
+between what we think of as "man" and "woman,'' again using his
 
-alone. And if the
+own body as a canvas. He underwent electrolysis on most of his face,
 
-insists we take back is a sinful thing, then count me
+and began cross-dressing so convincingly that most waiters referred
 
-h · too But for those who believe in absolutes-those among t e sinners, .
+to him as "ma'am."
 
-who have accepted
+He had decided, at one point, to have breasts implanted. " You're
 
-.
+going to become a 'chick with dick'?" I asked. "No,'' he corrected me
 
-the arbitr\~ polarities masquerading
+with a puckish grin. "I'll be a man with tits."
 
-. h -G
+This is when Genesis embarked on his latest series of paintings and
 
-the.se. days
+prints, variations and perspectives on women penetrating one another with dildos, his own pierced penis held between metallic fingers,
 
-esis's almost Gnostic proposition that 1t 1s we
+and other images of sadomasochism, or bondage and domination.
+
+These are not merely fetishistic titillations, but abstractions so
+
+removed from the context in which they were actually photographed
+
+as to be unrecognizable. The most extremely polarized sexual acts,
+
+obscured and recontextualized into soft, non-narrative landscapes of
+
+flesh and leather. Viewers must tilt their heads and squint to satisfy
+
+their trained expectations for content. Who is the man and who is
+
+the woman? We ask ourselves. Who is penetrating whom?
+
+Genesis often augments these works with the props that were used
+
+to stage the scenes. The instrument that was once inside his anus, or
+
+a string of beads that were once inside a vagina rest on pedestals in
+
+front of the pictures in which they appears. Breaking time along with
+
+sex, these objects are elevated at once to historical artifacts and alltoo-present reminders of what took place whenever it was the photos were first taken.
+
+These objects also conflate mythos-the mythical realm in which the
+
+artistic moment occurred-and chronos-the historical reality of their
+
+objectified use in the real world. Are these sacrificial objects or the
+
+tools of this artisan's trade? Religious talismans or simply used sex
+
+toys? Or, God help us, both?
+
+Genesis's paintings are also hung at various levels throughout a
+
+gallery space, so that viewers must crouch and contort themselves in
+
+order to see them. Only a few probably realize that the positions
+
+they are forced to assume mirror the same positions of the sex partners in the paintings themselves. The viewer recapitulates the kinesthetic of the artwork.
+
+As the disruptor of accepted boundary conditions and, as a result,
