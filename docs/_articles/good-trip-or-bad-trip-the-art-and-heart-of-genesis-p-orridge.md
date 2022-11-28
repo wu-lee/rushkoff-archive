@@ -89,11 +89,7 @@ Genesis went on hiatus for a couple of years, and considered the other polaritie
 
 He had decided, at one point, to have breasts implanted. "You're going to become a 'chick with dick'?" I asked. "No,'' he corrected me with a puckish grin. "I'll be a man with tits."
 
-This is when Genesis embarked on his latest series of paintings and
-
-prints, variations and perspectives on women penetrating one another with dildos, his own pierced penis held between metallic fingers,
-
-and other images of sadomasochism, or bondage and domination.
+This is when Genesis embarked on his latest series of paintings and prints, variations and perspectives on women penetrating one another with dildos, his own pierced penis held between metallic fingers, and other images of sadomasochism, or bondage and domination.
 
 These are not merely fetishistic titillations, but abstractions so
 
