@@ -71,12 +71,208 @@ Genesis learned the hard way that art which attempts to re-engineer reality ofte
 
 I first met Genesis shortly after his arrival in the States. I was driving to Los Angeles from San Francisco to spend a little time with Timothy Leary, who suggested I give Genesis and his daughters a ride down the coast. Genesis had planned to spend a few days with Tim, in the hope of getting a little counsel from the man whose own former countercultural adventures and media antics had led to "the most dangerous man in America," as well as a bit of jail time.
 
-I found G . . enes,s in a a k"
+I found Genesis in a parking lot with his two young daughters Caresse and Genesse. He was positively delicate. Tiny and frail--not at all the pierced monster I had imagined when listening to his records or perusing the photos in his books. Sure, he had been through a lot, and was a bit strung out as a result, but this was not a demonic magician. He was more of a little imp. A hippy-come-dandy.
 
-Caresse and G p r mg lot with his two young daughters
+We talked for hours
 
-enesse. He was .. all the pierc d positively delicate. Tiny and frail-not at
+a few very wrong
 
-e monster I had i . or Perusing th h . magmed when listening to his records
+in the car-seven hours, actually, because we took
 
-e p otos m his b k 00 s. Sure, he had been through a lot,
+turns. And, as I listened
+
+realized that Genes
+
+to him recount his saga, I
+
+is was not a musician, a writer, or even a collagi
+
+any more
+
+st
+
+than he was a performance artist. Gen's
+
+project. An experiment
+
+life was his art
+
+in finding
+
+ing codes
+
+the ill-defined margins or conflictin our cultural scheme and then mining
+
+untapped voltage
+
+them for their
+
+. At the moment, he had been zapped by it.
+
+How very strange
+
+In between diatribes
+
+for me to watch him reconcile his art with his life.
+
+about the British monarchy's dependence
+
+magic and
+
+on
+
+language
+
+could get a snack
+
+for its power, he'd ask me to stop the car so he
+
+fighting
+
+for one of h is daughters, or to gently scold them for
+
+in the back seat. He was a daddy, just like any other dad.
+
+Most of all, I realized
+
+sweetie. A
+
+that Genesis P-Orridge is not scary. He's a
+
+trickster,
+
+on the edge-living
+
+for sure, but not a demon from hell. Just a guy
+
+there
+
+edge is.
+
+in order to show the rest of us where that
+
+His forays
+
+he found, but
+
+into Industrial music were seminal not just for the sounds
+
+for his purposeful exploitation
+
+new reasons. His
+
+of those sounds for very
+
+commitment to appropriation was as important
+
+the work of Andy Warhol
+
+as
+
+in inspiring Malcolm McLaren
+
+of his meta-art
+
+to conceive
+
+to create physical
+
+band, the Sex Pistols. His notion of engineering sound
+
+, psychic, and magical responses
+
+important as
+
+in listeners was as
+
+tronic experiments
+
+the Acid Test music of the Grateful Dead and the elecof Kraftwerk in launching the rave movement
+
+was Genesis who
+
+. It
+
+reworked and applied
+
+Crowley
+
+the insights of Aleister
+
+to popular music gatherings, telling dancers to "revel
+
+your bliss."
+
+in
+
+Of course such an invitation is absolutely contrary
+
+order of
+
+to the working
+
+a civilization in which the human impulse
+
+ed. Genesis instructs
+
+is not to be trustus to break boundaries
+
+ratives, while
+
+and create our own narour religions and governments
+
+beings,
+
+insist that human
+
+Genesis
+
+left
+
+challenges
+
+to their own devices, will rape and pillage one another.
+
+us to co-author the collective
+
+that if we don't
+
+story. He insists
+
+create reality ourselves, someone,
+
+surely do
+
+somewhere, will
+
+it for us. And that person will not have our best interests
+
+at heart.
+
+This position
+
+years. If Genesis
+
+itself is what has been known as "evil" for the past 2000
+
+is demonic, it is by this definition,
+
+autonomy he
+
+alone. And if the
+
+insists we take back is a sinful thing, then count me
+
+h · too But for those who believe in absolutes-those among t e sinners, .
+
+who have accepted
+
+.
+
+the arbitr\~ polarities masquerading
+
+. h -G
+
+the.se. days
+
+esis's almost Gnostic proposition that 1t 1s we
