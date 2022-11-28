@@ -75,29 +75,7 @@ I found Genesis in a parking lot with his two young daughters Caresse and Geness
 
 We talked for hours in the car--seven hours, actually, because we took a few very wrong turns. And, as I listened to him recount his saga, I realized that Genesis was not a musician, a writer, or even a collagist any more than he was a performance artist. Gen's life was his art project. An experiment in finding the ill-defined margins or conflicting codes in our cultural scheme and then mining them for their untapped voltage. At the moment, he had been zapped by it.
 
-How very strange
-
-In between diatribes
-
-for me to watch him reconcile his art with his life.
-
-about the British monarchy's dependence
-
-magic and
-
-on
-
-language
-
-could get a snack
-
-for its power, he'd ask me to stop the car so he
-
-fighting
-
-for one of h is daughters, or to gently scold them for
-
-in the back seat. He was a daddy, just like any other dad.
+How very strange for me to watch him reconcile his art with his life. In between diatribes about the British monarchy's dependence on magic and language for its power, he'd ask me to stop the car so he could get a snack for one of his daughters, or to gently scold them for fighting in the back seat. He was a daddy, just like any other dad.
 
 Most of all, I realized
 
