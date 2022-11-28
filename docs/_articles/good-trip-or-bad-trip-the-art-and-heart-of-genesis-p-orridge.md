@@ -81,49 +81,7 @@ Most of all, I realized that Genesis P-Orridge is not scary. He's a sweetie. A t
 
 His forays into Industrial music were seminal not just for the sounds he found, but for his purposeful exploitation of those sounds for very new reasons. His commitment to appropriation was as important as the work of Andy Warhol in inspiring Malcolm McLaren to conceive of his meta-art band, the Sex Pistols. His notion of engineering sound to create physical, psychic, and magical responses in listeners was as important as the Acid Test music of the Grateful Dead and the electronic experiments of Kraftwerk in launching the rave movement. It was Genesis who reworked and applied the insights of Aleister Crowley to popular music gatherings, telling dancers to "revel in your bliss."
 
-Of course such an invitation is absolutely contrary
-
-order of
-
-to the working
-
-a civilization in which the human impulse
-
-ed. Genesis instructs
-
-is not to be trustus to break boundaries
-
-ratives, while
-
-and create our own narour religions and governments
-
-beings,
-
-insist that human
-
-Genesis
-
-left
-
-challenges
-
-to their own devices, will rape and pillage one another.
-
-us to co-author the collective
-
-that if we don't
-
-story. He insists
-
-create reality ourselves, someone,
-
-surely do
-
-somewhere, will
-
-it for us. And that person will not have our best interests
-
-at heart.
+Of course such an invitation is absolutely contrary to the working order of a civilization in which the human impulse is not to be trusted. Genesis instructs us to break boundaries and create our own narratives, while our religions and governments insist that human beings, left to their own devices, will rape and pillage one another. Genesis challenges us to co-author the collective story. He insists that if we don't create reality ourselves, someone, somewhere, will surely do it for us. And that person will not have our best interests at heart.
 
 This position
 
