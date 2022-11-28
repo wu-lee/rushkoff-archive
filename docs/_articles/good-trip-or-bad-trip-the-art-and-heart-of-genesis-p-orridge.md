@@ -79,59 +79,7 @@ How very strange for me to watch him reconcile his art with his life. In between
 
 Most of all, I realized that Genesis P-Orridge is not scary. He's a sweetie. A trickster, for sure, but not a demon from hell. Just a guy on the edge--living there in order to show the rest of us where that edge is.
 
-His forays
-
-he found, but
-
-into Industrial music were seminal not just for the sounds
-
-for his purposeful exploitation
-
-new reasons. His
-
-of those sounds for very
-
-commitment to appropriation was as important
-
-the work of Andy Warhol
-
-as
-
-in inspiring Malcolm McLaren
-
-of his meta-art
-
-to conceive
-
-to create physical
-
-band, the Sex Pistols. His notion of engineering sound
-
-, psychic, and magical responses
-
-important as
-
-in listeners was as
-
-tronic experiments
-
-the Acid Test music of the Grateful Dead and the elecof Kraftwerk in launching the rave movement
-
-was Genesis who
-
-. It
-
-reworked and applied
-
-Crowley
-
-the insights of Aleister
-
-to popular music gatherings, telling dancers to "revel
-
-your bliss."
-
-in
+His forays into Industrial music were seminal not just for the sounds he found, but for his purposeful exploitation of those sounds for very new reasons. His commitment to appropriation was as important as the work of Andy Warhol in inspiring Malcolm McLaren to conceive of his meta-art band, the Sex Pistols. His notion of engineering sound to create physical, psychic, and magical responses in listeners was as important as the Acid Test music of the Grateful Dead and the electronic experiments of Kraftwerk in launching the rave movement. It was Genesis who reworked and applied the insights of Aleister Crowley to popular music gatherings, telling dancers to "revel in your bliss."
 
 Of course such an invitation is absolutely contrary
 
