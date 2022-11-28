@@ -87,11 +87,7 @@ This position itself is what has been known as "evil" for the past 2000 years. I
 
 Genesis went on hiatus for a couple of years, and considered the other polarities he might next dissolve. He settled on sex, and announced to me that he had embarked on breaking the boundary between what we think of as "man" and "woman,'' again using his own body as a canvas. He underwent electrolysis on most of his face, and began cross-dressing so convincingly that most waiters referred to him as "ma'am."
 
-He had decided, at one point, to have breasts implanted. " You're
-
-going to become a 'chick with dick'?" I asked. "No,'' he corrected me
-
-with a puckish grin. "I'll be a man with tits."
+He had decided, at one point, to have breasts implanted. "You're going to become a 'chick with dick'?" I asked. "No,'' he corrected me with a puckish grin. "I'll be a man with tits."
 
 This is when Genesis embarked on his latest series of paintings and
 
