@@ -99,21 +99,7 @@ These objects also conflate mythos--the mythical realm in which the artistic mom
 
 Genesis's paintings are also hung at various levels throughout a gallery space, so that viewers must crouch and contort themselves in order to see them. Only a few probably realize that the positions they are forced to assume mirror the same positions of the sex partners in the paintings themselves. The viewer recapitulates the kinesthetic of the artwork.
 
-As the disruptor of accepted boundary conditions and, as a result,
-
-the .,..nerator of altogether new forms, Genesis will be fully u
-
-o- llde,-
-
-stood only as his innovations are, themselves, appropriated by Oth -
-
-artists. O nly then-as whe n we watch multi-pierced and tattooed kier
-
-on Jen-y Springer, or some one like Marilyn Manson or Trent Re:z:n;s
-
-today-will we be able to reckon w ith the aesthetic upheavals and '
-
-CUiturai violations that Genesis has perpetrated.
+As the disruptor of accepted boundary conditions and, as a result, the generator of altogether new forms, Genesis will be fully understood only as his innovations are, themselves, appropriated by other artists. Only then--as when we watch multi-pierced and tattooed kids on Jerry Springer, or someone like Marilyn Manson or Trent Reznor, today--will we be able to reckon with the aesthetic upheavals and cultural violations that Genesis has perpetrated.
 
 For now, we must content ourselves with the clues he leaves for us iri
 
