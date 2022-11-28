@@ -85,19 +85,7 @@ Of course such an invitation is absolutely contrary to the working order of a ci
 
 This position itself is what has been known as "evil" for the past 2000 years. If Genesis is demonic, it is by this definition, alone. And if the autonomy he insists we take back is a sinful thing, then count me among the sinners, too. But for those who believe in absolutes--those who have accepted the arbitrary polarities masquerading these days as ethical truths--Genesis's almost Gnostic proposition that it is we humans who are charged with creating reality amounts to blasphemy. For Genesis. it's the essence of creativity. That's why he renamed himself "Genesis," after all. (The P-Orridge part is a tribute to the breakfast food that he credits with curing his childhood disease.)
 
-Genesis went on hiatus for a couple of years, and considered the
-
-other polarities he might next dissolve. He settled on sex, and
-
-announced to me that he had embarked on breaking the boundary
-
-between what we think of as "man" and "woman,'' again using his
-
-own body as a canvas. He underwent electrolysis on most of his face,
-
-and began cross-dressing so convincingly that most waiters referred
-
-to him as "ma'am."
+Genesis went on hiatus for a couple of years, and considered the other polarities he might next dissolve. He settled on sex, and announced to me that he had embarked on breaking the boundary between what we think of as "man" and "woman,'' again using his own body as a canvas. He underwent electrolysis on most of his face, and began cross-dressing so convincingly that most waiters referred to him as "ma'am."
 
 He had decided, at one point, to have breasts implanted. " You're
 
