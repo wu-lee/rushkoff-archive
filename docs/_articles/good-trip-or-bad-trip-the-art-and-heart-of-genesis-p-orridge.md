@@ -101,25 +101,7 @@ Genesis's paintings are also hung at various levels throughout a gallery space, 
 
 As the disruptor of accepted boundary conditions and, as a result, the generator of altogether new forms, Genesis will be fully understood only as his innovations are, themselves, appropriated by other artists. Only then--as when we watch multi-pierced and tattooed kids on Jerry Springer, or someone like Marilyn Manson or Trent Reznor, today--will we be able to reckon with the aesthetic upheavals and cultural violations that Genesis has perpetrated.
 
-For now, we must content ourselves with the clues he leaves for us iri
-
-the relationship between his own life and the life he portrays 00
-
-stage and on the canvas. It is a seamless continuum-an internally
-
-consiste nt world where the only rule is that nothing is sacred.
-
-Ap propriate, demystify, and then reassemble the component parts
-
-into a sigil that must be engaged with wholeheartedly in order to be
-
-understood. Such engagement requires us to abandon, at least for a
-
-m o m ent, the dualities and boundaries we have been preconditioned
-
-to e xpect. And in doing so, we unwittingly extend his magick a bit
-
-further.
+For now, we must content ourselves with the clues he leaves for us in the relationship between his own life and the life he portrays on stage and on the canvas. It is a seamless continuum--an internally consistent world where the only rule is that nothing is sacred. Appropriate, demystify, and then reassemble the component parts into a sigil that must be engaged with wholeheartedly in order to be understood. Such engagement requires us to abandon, at least for a moment, the dualities and boundaries we have been preconditioned to expect. And in doing so, we unwittingly extend his magick a bit further.
 
 To interact with Genesis's work is to interact with Genesis, himself.
 
