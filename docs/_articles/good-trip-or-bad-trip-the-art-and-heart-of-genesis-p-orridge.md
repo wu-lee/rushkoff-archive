@@ -69,25 +69,7 @@ So shocking, and effective, was this broadcast fabrication that a police investi
 
 Genesis learned the hard way that art which attempts to re-engineer reality often does so--but not quite as the artist expects. Entrenched reality has a way of kicking back, hard.
 
-\~ first met Genesis shortly after his arrival in the States. I was driving to Los Ang I f . e es rom San Francisco to spend a little time with
-
-Timothy Leary h
-
-.d ' w O suggested I give Genesis and his daughters a
-
-r1 e down the coast G . h
-
-Ti . · enesis ad planned to spend a few days with
-
-m, in the hope of ett· . form g ing a httle counsel from the man whose own
-
-er countercultur I d
-
-most d a a ventures and media antics had led to "the
-
-angerous man i A . "
-
-n merica, as well as a bit of jail time.
+I first met Genesis shortly after his arrival in the States. I was driving to Los Angeles from San Francisco to spend a little time with Timothy Leary, who suggested I give Genesis and his daughters a ride down the coast. Genesis had planned to spend a few days with Tim, in the hope of getting a little counsel from the man whose own former countercultural adventures and media antics had led to "the most dangerous man in America," as well as a bit of jail time.
 
 I found G . . enes,s in a a k"
 
