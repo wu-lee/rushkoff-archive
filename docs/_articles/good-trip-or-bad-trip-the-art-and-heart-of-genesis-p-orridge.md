@@ -65,19 +65,7 @@ And Genesis's provocations, though designed to promote autonomous thinking and u
 
 Things got out of control when Genesis and Psychic TV made a strange little series of films that included some deliberately ambiguous, ritualized erotic scenarios that were carefully designed to demonstrate the latent disinformational power of TV editing and the potential to generate hallucinations embedded in the core of that medium itself. His original intention was to show how real he could make the film seem; how video cut-and-paste had become a language in its own right capable of deluding and deceiving the viewer; and to create a program that tested the boundaries of decency. An extreme right-wing Christian propagandist seized upon the film as conclusive evidence that Genesis, "the most evil man in Great Britain," and his sick followers were engaging in genuine satanic rituals. In a moment of supreme irony, the same propagandist edited a national TV documentary that featured sensationalized outtakes from the original fictional footage, presenting them as fact!
 
-So shocking, and effective, was this broadcast fabrication that a
-
-police investigation followed, along with a raid of Genesis's infamous
-
-archives. Whilst he and his family were in Nepal during the raid,
-
-working in the eastern equivalent of a soup kitchen feeding lepers
-
-and Tibetan refugees. Someone from Scotland Yard warned Genesis,
-
-off the record, that he'd be arrested, or worse, if he returned to
-
-England. He moved to California, instead.
+So shocking, and effective, was this broadcast fabrication that a police investigation followed, along with a raid of Genesis's infamous archives. Whilst he and his family were in Nepal during the raid, working in the eastern equivalent of a soup kitchen feeding lepers and Tibetan refugees. Someone from Scotland Yard warned Genesis, off the record, that he'd be arrested, or worse, if he returned to England. He moved to California, instead.
 
 Genesis learned the hard way that art which attempts to re-engineer
 
