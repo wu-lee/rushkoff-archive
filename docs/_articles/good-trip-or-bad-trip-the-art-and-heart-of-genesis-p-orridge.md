@@ -73,41 +73,7 @@ I first met Genesis shortly after his arrival in the States. I was driving to Lo
 
 I found Genesis in a parking lot with his two young daughters Caresse and Genesse. He was positively delicate. Tiny and frail--not at all the pierced monster I had imagined when listening to his records or perusing the photos in his books. Sure, he had been through a lot, and was a bit strung out as a result, but this was not a demonic magician. He was more of a little imp. A hippy-come-dandy.
 
-We talked for hours
-
-a few very wrong
-
-in the car-seven hours, actually, because we took
-
-turns. And, as I listened
-
-realized that Genes
-
-to him recount his saga, I
-
-is was not a musician, a writer, or even a collagi
-
-any more
-
-st
-
-than he was a performance artist. Gen's
-
-project. An experiment
-
-life was his art
-
-in finding
-
-ing codes
-
-the ill-defined margins or conflictin our cultural scheme and then mining
-
-untapped voltage
-
-them for their
-
-. At the moment, he had been zapped by it.
+We talked for hours in the car--seven hours, actually, because we took a few very wrong turns. And, as I listened to him recount his saga, I realized that Genesis was not a musician, a writer, or even a collagist any more than he was a performance artist. Gen's life was his art project. An experiment in finding the ill-defined margins or conflicting codes in our cultural scheme and then mining them for their untapped voltage. At the moment, he had been zapped by it.
 
 How very strange
 
