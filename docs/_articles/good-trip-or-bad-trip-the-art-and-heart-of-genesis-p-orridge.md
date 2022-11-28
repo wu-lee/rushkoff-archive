@@ -91,19 +91,7 @@ He had decided, at one point, to have breasts implanted. "You're going to become
 
 This is when Genesis embarked on his latest series of paintings and prints, variations and perspectives on women penetrating one another with dildos, his own pierced penis held between metallic fingers, and other images of sadomasochism, or bondage and domination.
 
-These are not merely fetishistic titillations, but abstractions so
-
-removed from the context in which they were actually photographed
-
-as to be unrecognizable. The most extremely polarized sexual acts,
-
-obscured and recontextualized into soft, non-narrative landscapes of
-
-flesh and leather. Viewers must tilt their heads and squint to satisfy
-
-their trained expectations for content. Who is the man and who is
-
-the woman? We ask ourselves. Who is penetrating whom?
+These are not merely fetishistic titillations, but abstractions so removed from the context in which they were actually photographed as to be unrecognizable. The most extremely polarized sexual acts, obscured and recontextualized into soft, non-narrative landscapes of flesh and leather. Viewers must tilt their heads and squint to satisfy their trained expectations for content. Who is the man and who is the woman? We ask ourselves. Who is penetrating whom?
 
 Genesis often augments these works with the props that were used
 
