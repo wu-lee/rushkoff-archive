@@ -93,15 +93,7 @@ This is when Genesis embarked on his latest series of paintings and prints, vari
 
 These are not merely fetishistic titillations, but abstractions so removed from the context in which they were actually photographed as to be unrecognizable. The most extremely polarized sexual acts, obscured and recontextualized into soft, non-narrative landscapes of flesh and leather. Viewers must tilt their heads and squint to satisfy their trained expectations for content. Who is the man and who is the woman? We ask ourselves. Who is penetrating whom?
 
-Genesis often augments these works with the props that were used
-
-to stage the scenes. The instrument that was once inside his anus, or
-
-a string of beads that were once inside a vagina rest on pedestals in
-
-front of the pictures in which they appears. Breaking time along with
-
-sex, these objects are elevated at once to historical artifacts and alltoo-present reminders of what took place whenever it was the photos were first taken.
+Genesis often augments these works with the props that were used to stage the scenes. The instrument that was once inside his anus, or a string of beads that were once inside a vagina rest on pedestals in front of the pictures in which they appears. Breaking time along with sex, these objects are elevated at once to historical artifacts and all-too-present reminders of what took place whenever it was the photos were first taken.
 
 These objects also conflate mythos-the mythical realm in which the
 
