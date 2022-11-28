@@ -63,45 +63,7 @@ His open invitation for anyone to join him in this re-appropriation power, by an
 
 And Genesis's provocations, though designed to promote autonomous thinking and unleash the power associated with breaking cultural repression, tended to create blind obedience in those who weren't quite ready to embrace the implications of a magical lifestyle. Genesis invited fans to clip a few pubic hairs and then send them to him for his archives, and many welcomed it as a kind of surrender, rather than the shared community sigil that Genesis had intended. Genesis's invitation to join him in recreating by a series of conscious choices, an infinitely malleable, multi-dimensional consensus reality through group invocation and incantation was translated by the media and unfortunately by less realized fans as a one-dimensional dark power trip.
 
-( n trol when Genesis and Psychic TV made a . ot out o co . . Ttiings g . f films that included some deliberately amb1gue little series o . strang . d tic scenarios that were carefully designed to
-
-·tuallz:e ero
-
-ous, r• h I tent disinformational power of TV editing and
-
-onstrate t e a
-
-dem . 1 t generate hallucinations embedded in the core of
-
-potent1a 0
-
-the . •uelf. His original intention was to show how real he
-
-hat medium I
-
-t ake the film seem; how video cut-and-paste had become a
-
-could m f d I d " d d . . h . . •t own right capable o e u mg an ece1vmg t e viewlanguage in ' s
-
-eate a program that tested the boundaries of decency.
-
-er· and to er • right-wing Christian propagandist seized upon the film
-
-An extreme . " . .
-
-I l
-
-·ve evidence that Genesis, the most evil man m Great
-
-as cone us . . ,, and his sick followers were engaging in genuine satanic ritBrttain,
-
-I I a moment of supreme irony, the same propagandist edited a
-
-ua s. n
-
-national TV documentary that featured sensationalized outtakes
-
-from the original fictional footage, presenting them as fact!
+Things got out of control when Genesis and Psychic TV made a strange little series of films that included some deliberately ambiguous, ritualized erotic scenarios that were carefully designed to demonstrate the latent disinformational power of TV editing and the potential to generate hallucinations embedded in the core of that medium itself. His original intention was to show how real he could make the film seem; how video cut-and-paste had become a language in its own right capable of deluding and deceiving the viewer; and to create a program that tested the boundaries of decency. An extreme right-wing Christian propagandist seized upon the film as conclusive evidence that Genesis, "the most evil man in Great Britain," and his sick followers were engaging in genuine satanic rituals. In a moment of supreme irony, the same propagandist edited a national TV documentary that featured sensationalized outtakes from the original fictional footage, presenting them as fact!
 
 So shocking, and effective, was this broadcast fabrication that a
 
