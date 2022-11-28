@@ -77,23 +77,7 @@ We talked for hours in the car--seven hours, actually, because we took a few ver
 
 How very strange for me to watch him reconcile his art with his life. In between diatribes about the British monarchy's dependence on magic and language for its power, he'd ask me to stop the car so he could get a snack for one of his daughters, or to gently scold them for fighting in the back seat. He was a daddy, just like any other dad.
 
-Most of all, I realized
-
-sweetie. A
-
-that Genesis P-Orridge is not scary. He's a
-
-trickster,
-
-on the edge-living
-
-for sure, but not a demon from hell. Just a guy
-
-there
-
-edge is.
-
-in order to show the rest of us where that
+Most of all, I realized that Genesis P-Orridge is not scary. He's a sweetie. A trickster, for sure, but not a demon from hell. Just a guy on the edge--living there in order to show the rest of us where that edge is.
 
 His forays
 
