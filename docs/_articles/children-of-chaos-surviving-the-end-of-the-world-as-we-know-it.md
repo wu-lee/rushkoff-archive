@@ -37,11 +37,7 @@ Those of us intent on securing an adaptive strategy for the coming millennium ne
 
 Consider any family of immigrants to America. Who learns the language first? Who adopts the aesthetic, cultural and spiritual values of their new host nation? The children, of course. Educators have concluded that a person's ability to incorporate new language systems – to adapt – is greatest until about the onset of puberty, then it drops off dramatically. As a result, we adults adapt more slowly and less completely than our kids do. Were we immigrants to a new territory, we would be watching our children for cues on how to speak, what to wear, when to laugh, even how to perceive the actions of others.
 
-Well, welcome to the twenty-first century. We are all immigrants to a new territory. Our world is changing so rapidly that we can hardly track the differences, much less cope with them. Whether it's call-waiting, MTV, digital cash or fuzzy logic, we are bombarded everyday with an increasing number of words, devices, ideas and events we do not understand. On a larger scale, the cultural institutions on which we have grown dependent - organized religion, our leaders, the heroes, the medical establishment, corporate employers, even appear to have crumbled under their own weight, and all within the same few decades. Without having migrated an inch, we have, nonetheless, travelled further than
-
-nation states and family itself
-
-any generation in history.
+Well, welcome to the twenty-first century. We are all immigrants to a new territory. Our world is changing so rapidly that we can hardly track the differences, much less cope with them. Whether it's call-waiting, MTV, digital cash or fuzzy logic, we are bombarded everyday with an increasing number of words, devices, ideas and events we do not understand. On a larger scale, the cultural institutions on which we have grown dependent - organized religion, our leaders, the heroes, the medical establishment, corporate employers, even nation states and family itself - appear to have crumbled under their own weight, and all within the same few decades. Without having migrated an inch, we have, nonetheless, travelled further than any generation in history.
 
 \-
 
