@@ -119,11 +119,7 @@ A tender teenage poet steeped in romantic fantasies about the artist's way of li
 
 Spontaneous peformances, mail art, collages, and redefinitions of sels of art history took P-Orridge on to new levels of realisation. The greatest realisation was never the manifestations per se, but rather the curious effects they had. All of a sudden things began to happen. There was an interest in his work and in his person. The synchronistic revelations dawned upon him at about the same time as an active interest in esotericism and magic did. He read and studied material on occultism all through his youth and was fascinated not so much by the lure and romance of medieval magicians, cloaked in robes and waving wands, as by the apparent changing ability the human mind and activities actually have.
 
-In P-Orridge's mind, it wasn't enough to just work with self expression through various kinds of interesting media, as did other emerging artists around him. The Art in itself had to also be in touch with
-
-a higher essence, a sense of worth that transcends the current market value on the art scene. Without having fully realised it at the
-
-time, Genesis P-Orridge had formulated his vision, his quest, as pursuing a path of talismanic and transcendental art.
+In P-Orridge's mind, it wasn't enough to just work with self expression through various kinds of interesting media, as did other emerging artists around him. The Art in itself had to also be in touch with a higher essence, a sense of worth that transcends the current market value on the art scene. Without having fully realised it at the time, Genesis P-Orridge had formulated his vision, his quest, as pursuing a path of talismanic and transcendental art.
 
 In synthesis, the esoteric awareness and the realisation that art can
 
