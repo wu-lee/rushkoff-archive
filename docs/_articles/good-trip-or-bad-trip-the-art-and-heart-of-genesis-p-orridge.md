@@ -117,23 +117,7 @@ In essence, Genesis P-Orridge is a thinking man, a thinking artist, a philosophe
 
 A tender teenage poet steeped in romantic fantasies about the artist's way of life, P-Orridge contributed to poetry contests and small publications. While at the University of Hull, the fields of romance expanded and, slowly but surely, some kind of general vocation grabbed hold of his creative essence. Together with friends, he actively embraced the lifestyle he'd dreamt about. They lived in freedom, in a freedom of impression and expression, and with a will to evolve by trial and error. Poor perhaps, but still free to define and refine themselves daily.
 
-Spontaneous peformances, mail art, collages, and redefinitions of
-
-sels of art history took P-Orridge on to new levels of realisation.
-
-The greatest realisation was never the manifestations per se, but
-
-rather the curious effects they had. All of a sudden things began to
-
-happen.There was an interest in his work and in his person.The synchronistic revelations dawned upon him at about the same time as
-
-an active interest in esotericism and magic did. He read and studied material on occultism all through his youth and was fascinated
-
-not so much by the lure and romance of medieval magicians,
-
-cloaked in robes and waving wands, as by the apparent changing
-
-ability the human mind and activities actually have.
+Spontaneous peformances, mail art, collages, and redefinitions of sels of art history took P-Orridge on to new levels of realisation. The greatest realisation was never the manifestations per se, but rather the curious effects they had. All of a sudden things began to happen. There was an interest in his work and in his person. The synchronistic revelations dawned upon him at about the same time as an active interest in esotericism and magic did. He read and studied material on occultism all through his youth and was fascinated not so much by the lure and romance of medieval magicians, cloaked in robes and waving wands, as by the apparent changing ability the human mind and activities actually have.
 
 In P-Orridge's mind, it wasn't enough to just work with self expression through various kinds of interesting media, as did other emerging artists around him. The Art in itself had to also be in touch with
 
