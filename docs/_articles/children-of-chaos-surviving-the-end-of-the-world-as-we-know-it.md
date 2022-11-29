@@ -22,14 +22,9 @@ Rushkoff argues that all is not lost despite dislocations and confusion. By atte
 Rushkoff's writing overlaps with many subjects and characteristics shared by numerous contemporary artists, who are themselves, as 'children of chaos', in search of strategies for coping with the discontinuity and Postmodern experience.  
 Apinan Poshyananda
 
-Introduction
+_Introduction_
 
-'They keep changing the rules how we're
-
-\-
-
-supposed to behave in each situation. They keep changing it. It's just like the world: everything keeps changing constantly.'
-
+'They keep changing the rules - how we're supposed to behave in each situation. They keep changing it. It's just like the world: everything keeps changing constantly.'  
 \- US soldier in Haiti police operation, October 1994
 
 Looks like this is the end.
