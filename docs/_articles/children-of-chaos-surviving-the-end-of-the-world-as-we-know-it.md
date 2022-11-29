@@ -15,7 +15,7 @@ Douglas Rushkoff
 CHILDREN OF CHAOS - SURVIVING THE END OF THE WORLD AS WE KNOW IT, 1997  
 Selected by Apinan Poshyananda
 
-Douglas Rushkoff's Children of Chaos is a perceptive and compelling piece of writing that reflects the impact of chaotic and disjointed waves of change on our lives. In the 'Age of Chaos', our world is overwhelmed by expanding technology and the collapse of national and social boundaries. Rushkoff looks brilliantly at aspects of a non-apocalyptic future where children and young adults are immigrants in a very new territory. In order to survive they become part of a digital rave culture and identify themselves with superhero characters. Immersed in their time, TV-fixated youth thrive on chaos in order to cope with a high-tech non-linear culture.
+Douglas Rushkoff's _Children of Chaos_ is a perceptive and compelling piece of writing that reflects the impact of chaotic and disjointed waves of change on our lives. In the 'Age of Chaos', our world is overwhelmed by expanding technology and the collapse of national and social boundaries. Rushkoff looks brilliantly at aspects of a non-apocalyptic future where children and young adults are immigrants in a very new territory. In order to survive they become part of a digital rave culture and identify themselves with superhero characters. Immersed in their time, TV-fixated youth thrive on chaos in order to cope with a high-tech non-linear culture.
 
 Rushkoff argues that all is not lost despite dislocations and confusion. By attempting to understand the way of life and cultural values of our younger generations, it might be possible to adapt to the uncertainties of our times.
 
