@@ -19,9 +19,8 @@ Douglas Rushkoff's _Children of Chaos_ is a perceptive and compelling piece of w
 
 Rushkoff argues that all is not lost despite dislocations and confusion. By attempting to understand the way of life and cultural values of our younger generations, it might be possible to adapt to the uncertainties of our times.
 
-Rushkoff's writing overlaps with many subjects
-
-and characteristics shared by numerous contemporary artists, who are themselves, as 'children of chaos', in search of strategies for coping with the discontinuity and Postmodern experience. Apinan Poshyananda
+Rushkoff's writing overlaps with many subjects and characteristics shared by numerous contemporary artists, who are themselves, as 'children of chaos', in search of strategies for coping with the discontinuity and Postmodern experience.  
+Apinan Poshyananda
 
 Introduction
 
