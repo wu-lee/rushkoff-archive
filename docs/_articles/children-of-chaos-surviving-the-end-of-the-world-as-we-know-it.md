@@ -39,13 +39,7 @@ Consider any family of immigrants to America. Who learns the language first? Who
 
 Well, welcome to the twenty-first century. We are all immigrants to a new territory. Our world is changing so rapidly that we can hardly track the differences, much less cope with them. Whether it's call-waiting, MTV, digital cash or fuzzy logic, we are bombarded everyday with an increasing number of words, devices, ideas and events we do not understand. On a larger scale, the cultural institutions on which we have grown dependent - organized religion, our leaders, the heroes, the medical establishment, corporate employers, even nation states and family itself - appear to have crumbled under their own weight, and all within the same few decades. Without having migrated an inch, we have, nonetheless, travelled further than any generation in history.
 
-\-
-
-43
-
-Compare the number of ideas a person is
-
-exposed to each day with the number he might have been asked to consider, say, just seventy-five years ago. Inventions like the telephone, television, radio, tickertape, photocopier, fax machine, modem, Internet, cable TV, video teleconferencing, computer bulletin board and the World Wide Web all function to increase the number of ideas and number of people with whose thoughts we come in contact. With each successive development in communications technology comes a cor- responding leap in the number of ideas with which it requires us to cope. As we incorporate each new invention into our daily life, we must accelerate our ability to process new thoughts and ideas.
+Compare the number of ideas a person is exposed to each day with the number he might have been asked to consider, say, just seventy-five years ago. Inventions like the telephone, television, radio, tickertape, photocopier, fax machine, modem, Internet, cable TV, video teleconferencing, computer bulletin board and the World Wide Web all function to increase the number of ideas and number of people with whose thoughts we come in contact. With each successive development in communications technology comes a corresponding leap in the number of ideas with which it requires us to cope. As we incorporate each new invention into our daily life, we must accelerate our ability to process new thoughts and ideas.
 
 The degree of change experienced by the past
 
