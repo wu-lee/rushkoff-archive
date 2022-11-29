@@ -109,6 +109,78 @@ Late one night, in a particularly distressed and abstract moment, I shared with 
 
 I feared for an instant I had confessed my vulnerability to a man who had the power to abuse me, if he wished. But I had lost my bearings, and Gen had no doubt once been right here, himself. I needed context from somewhere. Anywhere. The boundaries were all broken. What was up and what was down? Where did good and evil fit?
 
-" Well, Douglas," he said in a deep, even tone . .. There's something I
+"Well, Douglas," he said in a deep, even tone. "There's something I remind myself of at times like this: The only good trip, is a bad trip."
 
-remind myself of at times like this:The only good trip, is a bad trip."
+It's impossible to evaluate the art of Genesis P-Orridge by simply looking at one field of activity, one set of tools. He is one of those rare artists whose entire life and career is one great, evolving artwork, and the specific activities but parts thereof.
+
+In essence, Genesis P-Orridge is a thinking man, a thinking artist, a
+
+philosopher. Although in many ways technically intuitive and often
+
+willing to cooperate with others, the spark is always a single,
+
+defined P-Orridgean idea-a reflection or an impression he feels a
+
+need to filter through and, most important of all to recreate to
+
+' ' reshape. A thought most often takes shape through words, and it
+
+was in and through words he started out on his expressive and, one
+
+should add, impressively productive journey.
+
+A tender teenage poet steeped in romantic fantasies about the
+
+artist's way of life, P-Orridge contributed to poetry contests and
+
+small publications. While at the University of Hull, the fields of
+
+romance expanded and, slowly but surely, some kind of general
+
+vocation grabbed hold of his creative essence. Together with
+
+friends, he actively embraced the lifestyle he'd dreamt about. They
+
+lived in freedom, in a freedom of impression and expression, and
+
+with a will to evolve by trial and error. Poor perhaps, but still free to
+
+define and refine themselves daily.
+
+Spontaneous peformances, mail art, collages, and redefinitions of
+
+sels of art history took P-Orridge on to new levels of realisation.
+
+The greatest realisation was never the manifestations per se, but
+
+rather the curious effects they had. All of a sudden things began to
+
+happen.There was an interest in his work and in his person.The synchronistic revelations dawned upon him at about the same time as
+
+an active interest in esotericism and magic did. He read and studied material on occultism all through his youth and was fascinated
+
+not so much by the lure and romance of medieval magicians,
+
+cloaked in robes and waving wands, as by the apparent changing
+
+ability the human mind and activities actually have.
+
+In P-Orridge's mind, it wasn't enough to just work with self expression through various kinds of interesting media, as did other emerging artists around him. The Art in itself had to also be in touch with
+
+a higher essence, a sense of worth that transcends the current market value on the art scene. Without having fully realised it at the
+
+time, Genesis P-Orridge had formulated his vision, his quest, as pursuing a path of talismanic and transcendental art.
+
+In synthesis, the esoteric awareness and the realisation that art can
+
+actually cause change, made P-Orridge focus more on collage work.
+
+He applied on photos from newspapers and weeklies the cut-up
+
+methods his mentors William Burroughs and Brion Gysin applied on
+
+writing and painting, respectively. With inexpensive materials readily
+
+at hand, P-Orridge started constructing and deconstructing his own
+
+graphic universe, often sending the results out to friends as "mail art."
