@@ -29,9 +29,7 @@ _Introduction_
 
 Looks like this is the end.
 
-Global warming, racial tension, fundamentalist
-
-oubursts, nuclear arsenals, bacterial mutation, Third World rage, urban decay, moral collapse, religious corruption, drug addiction, bureaucratic ineptitude, ecological oversimplification, corporate insensitivity, crashing world markets, paranoid militias, AIDS, resources depletion, hopeless youth and many, many other indicators of societal health all suggest crisis.
+Global warming, racial tension, fundamentalist outbursts, nuclear arsenals, bacterial mutation, Third World rage, urban decay, moral collapse, religious corruption, drug addiction, bureaucratic ineptitude, ecological oversimplification, corporate insensitivity, crashing world markets, paranoid militias, AIDS, resources depletion, hopeless youth and many, many other indicators of societal health all suggest crisis.
 
 Is it so naïve or even childish to suggest that
 
