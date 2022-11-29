@@ -11,284 +11,280 @@ sources: ''
 published: false
 
 ---
-42 
+Douglas Rushkoff  
+CHILDREN OF CHAOS - SURVIVING THE END OF THE WORLD AS WE KNOW IT, 1997  
+Selected by Apinan Poshyananda
 
-Douglas Rushkoff 
+Douglas Rushkoff's Children of Chaos is a perceptive and compelling piece of writing that reflects the impact of chaotic and disjointed waves of change on our lives. In the 'Age of Chaos', our world is overwhelmed by expanding technology and the collapse of national and social boundaries. Rushkoff looks brilliantly at aspects of a non-apocalyptic future where children and young adults are immigrants in a very new territory. In order to survive they become part of a digital rave culture and identify themselves with superhero characters. Immersed in their time, TV-fixated youth thrive on chaos in order to cope with a high-tech non-linear culture.
 
-CHILDREN OF CHAOS - SURVIVING THE END OF THE WORLD AS WE KNOW IT, 1997 
+Rushkoff argues that all is not lost despite dislocations and confusion. By attempting to understand the way of life and cultural values of our younger generations, it might be possible to adapt to the uncertainties of our times.
 
-Selected by Apinan Poshyananda 
+Rushkoff's writing overlaps with many subjects
 
-Douglas Rushkoff's Children of Chaos is a perceptive and compelling piece of writing that reflects the impact of chaotic and disjointed waves of change on our lives. In the 'Age of Chaos', our world is overwhelmed by expanding technology and the collapse of national and social boundaries. Rushkoff looks brilliantly at aspects of a non-apocalyptic future where children and young adults are immigrants in a very new territory. In order to survive they become part of a digital rave culture and identify themselves with superhero characters. Immersed in their time, TV-fixated youth thrive on chaos in order to cope with a high-tech non-linear culture. 
+and characteristics shared by numerous contemporary artists, who are themselves, as 'children of chaos', in search of strategies for coping with the discontinuity and Postmodern experience. Apinan Poshyananda
 
-Rushkoff argues that all is not lost despite dislocations and confusion. By attempting to understand the way of life and cultural values of our younger generations, it might be possible to adapt to the uncertainties of our times. 
+Introduction
 
-Rushkoff's writing overlaps with many subjects 
+'They keep changing the rules how we're
 
-and characteristics shared by numerous contemporary artists, who are themselves, as 'children of chaos', in search of strategies for coping with the discontinuity and Postmodern experience. Apinan Poshyananda 
+\-
 
-Introduction 
+supposed to behave in each situation. They keep changing it. It's just like the world: everything keeps changing constantly.'
 
-'They keep changing the rules how we're 
+\- US soldier in Haiti police operation, October 1994
 
-\- 
+Looks like this is the end.
 
-supposed to behave in each situation. They keep changing it. It's just like the world: everything keeps changing constantly.' 
+Global warming, racial tension, fundamentalist
 
-\- US soldier in Haiti police operation, October 1994 
+oubursts, nuclear arsenals, bacterial mutation, Third World rage, urban decay, moral collapse, religious corruption, drug addiction, bureaucratic ineptitude, ecological oversimplification, corporate insensitivity, crashing world markets, paranoid militias, AIDS, resources depletion, hopeless youth and many, many other indicators of societal health all suggest crisis.
 
-Looks like this is the end. 
+Is it so naïve or even childish to suggest that
 
-Global warming, racial tension, fundamentalist 
+these may not be signs of doom at all, but only look that way? Couldn't our inability to see our way out of what feels like such a mess be a problem of perception and not desi ready, or simply desperate enough, to adopt a paradigm that admits th
 
-oubursts, nuclear arsenals, bacterial mutation, Third World rage, urban decay, moral collapse, religious corruption, drug addiction, bureaucratic ineptitude, ecological oversimplification, corporate insensitivity, crashing world markets, paranoid militias, AIDS, resources depletion, hopeless youth and many, many other indicators of societal health all suggest crisis. 
+other than decline, decay and death. If it takes the
 
-Is it so naïve or even childish to suggest that 
+world view, then so be it.
 
-these may not be signs of doom at all, but only look that way? Couldn't our inability to see our way out of what feels like such a mess be a problem of perception and not desi ready, or simply desperate enough, to adopt a paradigm that admits th 
+indedness
 
-other than decline, decay and death. If it takes the 
+might finally be
 
-world view, then so be it. 
+of something
 
-indedness 
+evelop such a
 
-might finally be 
+us inte
 
-of something 
+ig an a
 
-evelop such a 
+han our
 
-us inte 
+collapse
 
-ig an a 
+for re
 
-han our 
+we hav
 
-collapse 
+ey are
 
-for re 
+new
 
-we hav 
+ey are th
 
-ey are 
+g at the
 
-new 
+our eve
 
-ey are th 
+strategy for the coming millennium need loo!
 
-g at the 
+answers to the myriad of uncertainties associ to know and love. Our kids my be younger t model of human being and are equipped with children is not looking backwards at our ow
 
-our eve 
+future.
 
-strategy for the coming millennium need loo! 
+oking
 
-answers to the myriad of uncertainties associ to know and love. Our kids my be younger t model of human being and are equipped with children is not looking backwards at our ow 
+r any
 
-future. 
+ants to
 
-oking 
+Who learns the language first? Who adop host nation? The children, of course. Ed
 
-r any 
+cultura
 
-ants to 
+uded
 
-Who learns the language first? Who adop host nation? The children, of course. Ed 
+ues o
 
-cultura 
+bility
 
-uded 
+rate new language systems
 
-ues o 
+1
 
-bility 
+to adapt
 
-rate new language systems 
+out
 
-1 
+supposed to behave in each situation. They keep cha keeps changing constantly.'
 
-to adapt 
+\-
 
-out 
+US soldier in Haiti police operation, October 1994
 
-supposed to behave in each situation. They keep cha keeps changing constantly.' 
+like
 
-\- 
+Look
 
-US soldier in Haiti police operation, October 1994 
+Globa
 
-like 
+oubursts, nuclear arsenals, bacterial mutation, Third Worl
 
-Look 
+end.
 
-Globa 
+cial tension, fundamentalist urban decay, moral collapse,
 
-oubursts, nuclear arsenals, bacterial mutation, Third Worl 
+religious corruption, drug addiction, bureaucratic ineptitude, ecological oversimplification, corporate insensitivity, crashing world markets, paranoid militias, AIDS, resources depletion, hopeless youth and many, many other indicators of societal health all suggest crisis.
 
-end. 
+Is it so naïve or even childish to suggest that these may not be signs of doom at all, but only look that way? Couldn't our inability to see our way out of what feels like such a mess be a problem of perception and not design? We might finally be ready, or simply desperate enough, to adopt a paradigm that admits the possibility of something other than decline, decay and death. If it takes the open-mindedness of youth to develop such a
 
-cial tension, fundamentalist urban decay, moral collapse, 
+world view, then so be it.
 
-religious corruption, drug addiction, bureaucratic ineptitude, ecological oversimplification, corporate insensitivity, crashing world markets, paranoid militias, AIDS, resources depletion, hopeless youth and many, many other indicators of societal health all suggest crisis. 
+Those of us intent on securing an adaptive strategy for the coming millennium need look no further than our own children for reassuring answers to the myriad of uncertainties associated with the collapse of the culture we have grown to know and love. Our kids my be younger than us, but they are also newer. They are the latest model of human being and are equipped with a whole lot of new features. Looking at the world of children is not looking backwards at our own pasts - it's looking ahead. They are our evolutionary
 
-Is it so naïve or even childish to suggest that these may not be signs of doom at all, but only look that way? Couldn't our inability to see our way out of what feels like such a mess be a problem of perception and not design? We might finally be ready, or simply desperate enough, to adopt a paradigm that admits the possibility of something other than decline, decay and death. If it takes the open-mindedness of youth to develop such a 
+future.
 
-world view, then so be it. 
+Consider any family of immigrants to America.
 
-Those of us intent on securing an adaptive strategy for the coming millennium need look no further than our own children for reassuring answers to the myriad of uncertainties associated with the collapse of the culture we have grown to know and love. Our kids my be younger than us, but they are also newer. They are the latest model of human being and are equipped with a whole lot of new features. Looking at the world of children is not looking backwards at our own pasts - it's looking ahead. They are our evolutionary 
+Who learns the language first? Who adopts the aesthetic, cultural and spiritual values of their new host nation? The children, of course. Educators have concluded that a person's ability to incorpo- rate new language systems – to adapt - is greatest until about the onset of puberty, then it drops off dramatically. As a result, we adults adapt more slowly and less completely than our kids do. Were we immigrants to a new territory, we would be watching our children for cues on how to speak, what to wear, when to laugh, even how to perceive the actions of others.
 
-future. 
+Well, welcome to the twenty-first century. We are all immigrants to a new territory. Our world is changing so rapidly that we can hardly track the differences, much less cope with them. Whether it's call-waiting, MTV, digital cash or fuzzy logic, we are bombarded everyday with an increasing number of words, devices, ideas and events we do not understand. On a larger scale, the cultural institutions on which we have grown dependent - organized religion, our leaders, the heroes, the medical establishment, corporate employers, even appear to have crumbled under their own weight, and all within the same few decades. Without having migrated an inch, we have, nonetheless, travelled further than
 
-Consider any family of immigrants to America. 
+nation states and family itself
 
-Who learns the language first? Who adopts the aesthetic, cultural and spiritual values of their new host nation? The children, of course. Educators have concluded that a person's ability to incorpo- rate new language systems – to adapt - is greatest until about the onset of puberty, then it drops off dramatically. As a result, we adults adapt more slowly and less completely than our kids do. Were we immigrants to a new territory, we would be watching our children for cues on how to speak, what to wear, when to laugh, even how to perceive the actions of others. 
+any generation in history.
 
-Well, welcome to the twenty-first century. We are all immigrants to a new territory. Our world is changing so rapidly that we can hardly track the differences, much less cope with them. Whether it's call-waiting, MTV, digital cash or fuzzy logic, we are bombarded everyday with an increasing number of words, devices, ideas and events we do not understand. On a larger scale, the cultural institutions on which we have grown dependent - organized religion, our leaders, the heroes, the medical establishment, corporate employers, even appear to have crumbled under their own weight, and all within the same few decades. Without having migrated an inch, we have, nonetheless, travelled further than 
+\-
 
-nation states and family itself 
+43
 
-any generation in history. 
+Compare the number of ideas a person is
 
-\- 
+exposed to each day with the number he might have been asked to consider, say, just seventy-five years ago. Inventions like the telephone, television, radio, tickertape, photocopier, fax machine, modem, Internet, cable TV, video teleconferencing, computer bulletin board and the World Wide Web all function to increase the number of ideas and number of people with whose thoughts we come in contact. With each successive development in communications technology comes a cor- responding leap in the number of ideas with which it requires us to cope. As we incorporate each new invention into our daily life, we must accelerate our ability to process new thoughts and ideas.
 
-43 
+The degree of change experienced by the past
 
-Compare the number of ideas a person is 
+three generations rivals that of a species in mutation. Today's 'screen-ager' - the child born into a culture mediated by the television and computer
 
-exposed to each day with the number he might have been asked to consider, say, just seventy-five years ago. Inventions like the telephone, television, radio, tickertape, photocopier, fax machine, modem, Internet, cable TV, video teleconferencing, computer bulletin board and the World Wide Web all function to increase the number of ideas and number of people with whose thoughts we come in contact. With each successive development in communications technology comes a cor- responding leap in the number of ideas with which it requires us to cope. As we incorporate each new invention into our daily life, we must accelerate our ability to process new thoughts and ideas. 
+\-
 
-The degree of change experienced by the past 
+is interacting with his world in at least as
 
-three generations rivals that of a species in mutation. Today's 'screen-ager' - the child born into a culture mediated by the television and computer 
+dramatically altered a fashion from his grandfather as the first sighted creature did from his blind ancestors, or a winged one from his earthbound forebears. Human beings have evolved signifi- cantly within a single creature's lifespan, and this intensity of evolutionary change shows no signs of slowing down. What we need to adapt to, more than any particular change, is the fact that we are changing so rapidly. We must learn to accept change as a constant. Novelty is the new status
 
-\- 
+quo.
 
-is interacting with his world in at least as 
+This naturally contradicts much of what we hold
 
-dramatically altered a fashion from his grandfather as the first sighted creature did from his blind ancestors, or a winged one from his earthbound forebears. Human beings have evolved signifi- cantly within a single creature's lifespan, and this intensity of evolutionary change shows no signs of slowing down. What we need to adapt to, more than any particular change, is the fact that we are changing so rapidly. We must learn to accept change as a constant. Novelty is the new status 
+dear. In fact, it calls for us to abandon most of it. Many people still reject the notion that biology evolves, much less than societies or individuals do. But our aim here is to identify a few models for what is happening to our world that point to something other than doom. Evolution may be our best
 
-quo. 
+bet.
 
-This naturally contradicts much of what we hold 
+The evolution of life, so far, appears to be a
 
-dear. In fact, it calls for us to abandon most of it. Many people still reject the notion that biology evolves, much less than societies or individuals do. But our aim here is to identify a few models for what is happening to our world that point to something other than doom. Evolution may be our best 
+groping toward complexity. In the face of that pessimistic law called entropy (where everything in the universe slows up and breaks down, cooling off into lifeless, motionless particles) 'life' toils to achieve higher states of order through combining smaller parts into larger, networked wholes. Atoms organized themselves into molecules, molecules into more complex, organic chains, which themselves developed into the first single-celled life forms. These life-forms became the component parts (mitochondria, chloroplast) of more complex cells, which in turn combined to form organelles that grouped together into organisms. Organisms developed into flocks, herds, and it can be argued in the case of human beings, into societies and civilizations. The objective, in each case of evolution, was to preserve the organizational state already achieved. The cell preserves the organic chain of molecules and the herd protects each member.
 
-bet. 
+At each leap of evolution, there has been a corresponding moment where the individual component part was subsumed into something greater than itself. Mitochondria lost a certain aspect of their individuality as unique cells when they became part of the more complex cell of the future. But the greater organism generally has a higher level of awareness and complexity than any of its predecessors.
 
-The evolution of life, so far, appears to be a 
+If we accept that evolution is a process by which matter moves toward higher states of complexity and greater levels of awareness, and does so by developing individuals as far as they can go, and then combining them into new, networked beings, then what is happening to us becomes obvious. We are evolving into a new, colonial life-form.
 
-groping toward complexity. In the face of that pessimistic law called entropy (where everything in the universe slows up and breaks down, cooling off into lifeless, motionless particles) 'life' toils to achieve higher states of order through combining smaller parts into larger, networked wholes. Atoms organized themselves into molecules, molecules into more complex, organic chains, which themselves developed into the first single-celled life forms. These life-forms became the component parts (mitochondria, chloroplast) of more complex cells, which in turn combined to form organelles that grouped together into organisms. Organisms developed into flocks, herds, and it can be argued in the case of human beings, into societies and civilizations. The objective, in each case of evolution, was to preserve the organizational state already achieved. The cell preserves the organic chain of molecules and the herd protects each member. 
+This process can be scary, especially to mem-
 
-At each leap of evolution, there has been a corresponding moment where the individual component part was subsumed into something greater than itself. Mitochondria lost a certain aspect of their individuality as unique cells when they became part of the more complex cell of the future. But the greater organism generally has a higher level of awareness and complexity than any of its predecessors. 
+bers of a culture who value their individuality, personal privacy and overall stability. While, as we'll see, the development of the 'metabeing' need not cost us any of these privileges, we don't have a way yet to understand how we can come together without disappearing ourselves. This is where the experience of a developing child can inform our cultural transition \[...\]
 
-If we accept that evolution is a process by which matter moves toward higher states of complexity and greater levels of awareness, and does so by developing individuals as far as they can go, and then combining them into new, networked beings, then what is happening to us becomes obvious. We are evolving into a new, colonial life-form. 
+As in any society in crisis, it
 
-This process can be scary, especially to mem- 
+the children who
 
-bers of a culture who value their individuality, personal privacy and overall stability. While, as we'll see, the development of the 'metabeing' need not cost us any of these privileges, we don't have a way yet to understand how we can come together without disappearing ourselves. This is where the experience of a developing child can inform our cultural transition \[...\] 
+first learn to incorporate the worst threats into the most basic forms of play. When the black plague threatened Europe with annihilation, the children sang 'Ring Around the Rosie' as they ritualized the appearance of rose-coloured sores, stench-camouflaging 'posies' and piles of burning bodies in the streets. 'Ashes ashes', goes the simple refrain before it includes in straightforward frankness: 'We all fall down'. How do children today deal with societal crises of impending sexual intimacy? The answer is to be found at Toys R Us: they play with slime. The hottest new toys for kids aren't really toys at all, but highly advanced forms of goo. Most adults can remember craft-orientated
 
-As in any society in crisis, it 
+44
 
-the children who 
+goop products of their own childhoods, like Play-Doh and Silly Putty. But these all had apparent purposes. Play-Doh was a reusable modelling clay, and Silly Putty was used to copy and then stretch the impressions of comic book pictures. Today's goop equivalents, most noticeably Gak and Floam, celebrate slime for its own sake, and serve as a great example of the way kids cope first
 
-first learn to incorporate the worst threats into the most basic forms of play. When the black plague threatened Europe with annihilation, the children sang 'Ring Around the Rosie' as they ritualized the appearance of rose-coloured sores, stench-camouflaging 'posies' and piles of burning bodies in the streets. 'Ashes ashes', goes the simple refrain before it includes in straightforward frankness: 'We all fall down'. How do children today deal with societal crises of impending sexual intimacy? The answer is to be found at Toys R Us: they play with slime. The hottest new toys for kids aren't really toys at all, but highly advanced forms of goo. Most adults can remember craft-orientated 
+with cultural crisis.
 
-44 
+The goop revival began in about 1982, when a Nickelodeon show called 'You Can't Do That on Television' initiated a practice of dumping substance called 'slime' on its child characters whenever they were at a loss for how to please their adult producer, who had, according to the back story of the programme, hired the kids in violation of child labour laws because adults would have been too expensive. Whenever the kids didn't know an answer, they got slimed.
 
-goop products of their own childhoods, like Play-Doh and Silly Putty. But these all had apparent purposes. Play-Doh was a reusable modelling clay, and Silly Putty was used to copy and then stretch the impressions of comic book pictures. Today's goop equivalents, most noticeably Gak and Floam, celebrate slime for its own sake, and serve as a great example of the way kids cope first 
+por joysepres
 
-with cultural crisis. 
+of chichen or the l
 
-The goop revival began in about 1982, when a Nickelodeon show called 'You Can't Do That on Television' initiated a practice of dumping substance called 'slime' on its child characters whenever they were at a loss for how to please their adult producer, who had, according to the back story of the programme, hired the kids in violation of child labour laws because adults would have been too expensive. Whenever the kids didn't know an answer, they got slimed. 
+One of the very few pubertys b
 
-por joysepres 
+Roy Lopala ut parent
 
-of chichen or the l 
+What 11 attempt to show in this dws for by now anyw
 
-One of the very few pubertys b 
+is the Power Rangers stow ow future are being addressed and purch children and young adults When with technology or a vampire
 
-Roy Lopala ut parent 
+of us, these new forms have the ability to assuage was
 
-What 11 attempt to show in this dws for by now anyw 
+withd scientific theories and obliterate the religous and color colution adaptation to the uncertaint of our times Withe the form and content of th games and social interactions le the prescriptions for with of these sceenges have alsely selected into fingers comm and social actists wise words-views are begining to twe
 
-is the Power Rangers stow ow future are being addressed and purch children and young adults When with technology or a vampire 
+Nickolodeon executives seemed to understand
 
-of us, these new forms have the ability to assuage was 
+the semiotics of slime, and the network's creative director mused to the Wall Street Journal that the substance 'became a symbol of the solidarity of oppressed kids. It's tough to be a kid in the adult world'. When Mattel teamed up with Nickelodeon to market the product, they found out how much kids apparently agreed with this assessment.
 
-withd scientific theories and obliterate the religous and color colution adaptation to the uncertaint of our times Withe the form and content of th games and social interactions le the prescriptions for with of these sceenges have alsely selected into fingers comm and social actists wise words-views are begining to twe 
+The righteous indignation symbolized by Slime and confirmed by its huge sales was not to mark the culmination of goop's use as a developmen- tal tool by the youth market. A new Nickelodeon game show called 'Double Dare' capitalized on children's love of sticky, gooey messes by allowing them to compete in relay races involving ice cream, eggs and other viscous substances. The resulting generic mess was termed 'gak' and Mattel rushed to create a synthetic equivalent.
 
-Nickolodeon executives seemed to understand 
+Gak's success in the marketplace has been
 
-the semiotics of slime, and the network's creative director mused to the Wall Street Journal that the substance 'became a symbol of the solidarity of oppressed kids. It's tough to be a kid in the adult world'. When Mattel teamed up with Nickelodeon to market the product, they found out how much kids apparently agreed with this assessment. 
+astounding. It has been banned in several public schools - just one testament to its overwhelming popularity. Among Gak's most remarkable properties is that it feels wet, but leaves little wetness on the skin; it has all the joy of moist intimacy with none of the lasting side effects. Bacteriostatic agents have been mixed in to prevent germs from growing within the putty, or spreading from child to child. Designed to imitate the approximate moisture level of an air-dried human tongue, Gak has no purpose other than to feel weird and make 'fart' sounds when is pressed back into its plastic, splat-shaped container.
 
-The righteous indignation symbolized by Slime and confirmed by its huge sales was not to mark the culmination of goop's use as a developmen- tal tool by the youth market. A new Nickelodeon game show called 'Double Dare' capitalized on children's love of sticky, gooey messes by allowing them to compete in relay races involving ice cream, eggs and other viscous substances. The resulting generic mess was termed 'gak' and Mattel rushed to create a synthetic equivalent. 
+Toy marketeers are particularly impressed by
 
-Gak's success in the marketplace has been 
+effect on our cultural values
 
-astounding. It has been banned in several public schools - just one testament to its overwhelming popularity. Among Gak's most remarkable properties is that it feels wet, but leaves little wetness on the skin; it has all the joy of moist intimacy with none of the lasting side effects. Bacteriostatic agents have been mixed in to prevent germs from growing within the putty, or spreading from child to child. Designed to imitate the approximate moisture level of an air-dried human tongue, Gak has no purpose other than to feel weird and make 'fart' sounds when is pressed back into its plastic, splat-shaped container. 
+art tousing
 
-Toy marketeers are particularly impressed by 
+our grown-up function as role models and ethicagors of
 
-effect on our cultural values 
+how we, as aduts, should inform ou children's activites with cations to development, leis apreciate the natural adaptive suis em sua for answers to some of our own probiens staging to set and s our advance scouts. They are already the thing that we matc
 
-art tousing 
+the end of our world, into theirs Douglas Rusticuff Children of Cheat-Sunwing the Ent thei
 
-our grown-up function as role models and ethicagors of 
+at New York University His books which Cibena Life in the Trenches of 1994), and Coercion: Why We Listen to We Th The New York Times and devet
 
-how we, as aduts, should inform ou children's activites with cations to development, leis apreciate the natural adaptive suis em sua for answers to some of our own probiens staging to set and s our advance scouts. They are already the thing that we matc 
+in
 
-the end of our world, into theirs Douglas Rusticuff Children of Cheat-Sunwing the Ent thei 
+Gak's almost generic iconography. It is the first superhit product spin-off from a kids' TV show that is not based on a character or one of his accessories. The popularity of Power Rangers or X-Men dolls, vehicles and weaponry is comprehensible by old-paradigm marketeers: kids identify with the superhero characters, and hope to emulate them vicariously through their action figures, and by using their weapons and possessions.
 
-at New York University His books which Cibena Life in the Trenches of 1994), and Coercion: Why We Listen to We Th The New York Times and devet 
+just poze
 
-in 
+But Gak is not a character, nor is it used by a This brings us to yet another stunning aspect of kids' experience of
 
-Gak's almost generic iconography. It is the first superhit product spin-off from a kids' TV show that is not based on a character or one of his accessories. The popularity of Power Rangers or X-Men dolls, vehicles and weaponry is comprehensible by old-paradigm marketeers: kids identify with the superhero characters, and hope to emulate them vicariously through their action figures, and by using their weapons and possessions. 
+Suge teen 1
 
-just poze 
+astounding. It has been banned in several public
 
-But Gak is not a character, nor is it used by a This brings us to yet another stunning aspect of kids' experience of 
+popularity. Among Gak's most remarkable properties is tha
 
-Suge teen 1 
+elming
 
-astounding. It has been banned in several public 
+stament to its wet, but leaves little wetness
 
-popularity. Among Gak's most remarkable properties is tha 
+on the skin; it has all the joy of moist intimacy with none of the lasting side effects. Bacteriostatic agents have been mixed in to prevent germs from growing within the putty, or spreading from child to child. Designed to imitate the approximate moisture level of an air-dried human tongue, Gak has no purpose other than to feel weird and make 'fart' sounds when is pressed back into its plastic, splat-shaped container.
 
-elming 
+Toy marketeers are particularly impressed by
 
-stament to its wet, but leaves little wetness 
+Gak's almost generic iconography. It is the first superhit product spin-off from a kids' TV show that is not based on a character or one of his accessories. The popularity of Power Rangers or X-Men dolls, vehicles and weaponry is comprehensible by old-paradigm marketeers: kids identify with the superhero characters, and hope to emulate them vicariously through their action figures, and by using their weapons and possessions.
 
-on the skin; it has all the joy of moist intimacy with none of the lasting side effects. Bacteriostatic agents have been mixed in to prevent germs from growing within the putty, or spreading from child to child. Designed to imitate the approximate moisture level of an air-dried human tongue, Gak has no purpose other than to feel weird and make 'fart' sounds when is pressed back into its plastic, splat-shaped container. 
+But Gak is not a character, nor is it used by a character. It's just ooze. This brings us to yet another stunning aspect of kids' experience of evolution and modern intimacy. Just as a teenager experiencing his won sexuality for the first time begins to question or disregard adult authority, rules and regulations, a society moving into true intimacy must learn to disregard some of its long-maintained cultural barricades. If Al Gore and Newt Gingrich have Internet accounts that display their ASCII text in the same font size as a janitor in Tuskegee, then the relationship of people with their heroes will necessarily change. Idolatry of all kinds will tend to diminish as people begin to value intimacy with equals over identification with a role model. Further, Gak is a toy based in pure play there is no story, conflict or metaphorical value. Gak is not like goo. With Gak, you don't pretend to do something else, you play with Gak. Tops and yo-yos were gravity-based toys, whose entertainment value was based in competition, endurance or technical proficiency. Gak demands no such arc of pleasure or level of skill. It is purely experimental.
 
-Toy marketeers are particularly impressed by 
+\-
 
-Gak's almost generic iconography. It is the first superhit product spin-off from a kids' TV show that is not based on a character or one of his accessories. The popularity of Power Rangers or X-Men dolls, vehicles and weaponry is comprehensible by old-paradigm marketeers: kids identify with the superhero characters, and hope to emulate them vicariously through their action figures, and by using their weapons and possessions. 
+Gak says all this? So it seems. Gak initiates the process of social and sexual intimacy as it directs us toward an appreciation of life without role models, expertise, conflicts, stories or metaphor. You can't 'win' at Gak. There's no end to the game. You just put it in its 'splat' until next time. In its own small way, Gak represents a non-apocalyptic model of reality, and it comes from the world of children.
 
-But Gak is not a character, nor is it used by a character. It's just ooze. This brings us to yet another stunning aspect of kids' experience of evolution and modern intimacy. Just as a teenager experiencing his won sexuality for the first time begins to question or disregard adult authority, rules and regulations, a society moving into true intimacy must learn to disregard some of its long-maintained cultural barricades. If Al Gore and Newt Gingrich have Internet accounts that display their ASCII text in the same font size as a janitor in Tuskegee, then the relationship of people with their heroes will necessarily change. Idolatry of all kinds will tend to diminish as people begin to value intimacy with equals over identification with a role model. Further, Gak is a toy based in pure play there is no story, conflict or metaphorical value. Gak is not like goo. With Gak, you don't pretend to do something else, you play with Gak. Tops and yo-yos were gravity-based toys, whose entertainment value was based in competition, endurance or technical proficiency. Gak demands no such arc of pleasure or level of skill. It is purely experimental. 
+While kids didn't invent Gak, they are the ones who made it such a sensation. Toy manufacturers and media executives launch many times more products and programmes than are embraced by their target market. When adults take such a
 
-\- 
+45
 
-Gak says all this? So it seems. Gak initiates the process of social and sexual intimacy as it directs us toward an appreciation of life without role models, expertise, conflicts, stories or metaphor. You can't 'win' at Gak. There's no end to the game. You just put it in its 'splat' until next time. In its own small way, Gak represents a non-apocalyptic model of reality, and it comes from the world of children. 
+scattershot approach to an industry, their successes are to be attributed to the particular appetites of children, or the ability of the rare executive to relate to the underlying desires of his audience. One of the very few popular toys that is purchased in roughly equal numbers by both boys and girls, Gak satisfies the three chief requirements for an element from popular kids' culture to be considered an evolutionary indicator: it is loved by kids, hated their parents and emblematic of a non-apocalyptic strategy for the future \[...\]
 
-While kids didn't invent Gak, they are the ones who made it such a sensation. Toy manufacturers and media executives launch many times more products and programmes than are embraced by their target market. When adults take such a 
+What I'll attempt to show in this book is that the more frightening aspects of a non-apocalyptic future are being addressed today, and quite directly, by the most pop-cultural experiences of children and young adults. Whether it's the Power Rangers showing us how to accept co-evolution with technology or a vampire role-playing game calling for us to accept the satanic beast in each of us, these new forms have the ability to assuage our worst fears, confirm our most optimistic scientific theories, and obliterate the religious and cultural absolutism so detrimental to our adaptation to the uncertainty of our times. Within the form and content of kids' favourite shows, games and social interactions lie the prescriptions for us to cope with cultural change. The oldest of these screenagers have already developed into fledgling filmmakers, computer programmers and social activists, whose world-views are beginning to have a felt and, I would argue, positive
 
-45 
+effect on our cultural values.
 
-scattershot approach to an industry, their successes are to be attributed to the particular appetites of children, or the ability of the rare executive to relate to the underlying desires of his audience. One of the very few popular toys that is purchased in roughly equal numbers by both boys and girls, Gak satisfies the three chief requirements for an element from popular kids' culture to be considered an evolutionary indicator: it is loved by kids, hated their parents and emblematic of a non-apocalyptic strategy for the future \[...\] 
+So please let us suspend, for the time being,
 
-What I'll attempt to show in this book is that the more frightening aspects of a non-apocalyptic future are being addressed today, and quite directly, by the most pop-cultural experiences of children and young adults. Whether it's the Power Rangers showing us how to accept co-evolution with technology or a vampire role-playing game calling for us to accept the satanic beast in each of us, these new forms have the ability to assuage our worst fears, confirm our most optimistic scientific theories, and obliterate the religious and cultural absolutism so detrimental to our adaptation to the uncertainty of our times. Within the form and content of kids' favourite shows, games and social interactions lie the prescriptions for us to cope with cultural change. The oldest of these screenagers have already developed into fledgling filmmakers, computer programmers and social activists, whose world-views are beginning to have a felt and, I would argue, positive 
+our grown-up function as role models and educators of our nation's youth. Rather than focusing on how we, as adults, should inform our children's activities with educational tidbits for their better development, let's appreciate the natural adaptive skills demonstrated by our kids and look to them for answers to some of our own problems adapting to Postmodernity. Kids are our test sample - our advance scouts. They are, already, the thing that we must become.
 
-effect on our cultural values. 
+the end of our world, into theirs.
 
-So please let us suspend, for the time being, 
+That is, if in fact we choose to carry on beyond
 
-our grown-up function as role models and educators of our nation's youth. Rather than focusing on how we, as adults, should inform our children's activities with educational tidbits for their better development, let's appreciate the natural adaptive skills demonstrated by our kids and look to them for answers to some of our own problems adapting to Postmodernity. Kids are our test sample - our advance scouts. They are, already, the thing that we must become. 
-
-the end of our world, into theirs. 
-
-That is, if in fact we choose to carry on beyond 
-
-Douglas Rushkoff, Children of Chaos - Surviving the End of the World As We Know It (London: Flamingo, 1997). 
+Douglas Rushkoff, Children of Chaos - Surviving the End of the World As We Know It (London: Flamingo, 1997).
 
 Douglas Rushkoff is Professor of Cyberculture at New York University. His books, which have been translated into fifteen languages, include Cyberia: Life in the Trenches of Hyperspace (1994), Media Virus! Hidden Agendas in Popular Culture (1994), and Coercion: Why We Listen to What 'They' Say (1999). He also writes a Syndicated column in The New York Times and develops game software.
