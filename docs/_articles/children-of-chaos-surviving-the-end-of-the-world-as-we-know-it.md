@@ -33,9 +33,7 @@ Global warming, racial tension, fundamentalist outbursts, nuclear arsenals, bact
 
 Is it so naïve or even childish to suggest that these may not be signs of doom at all, but only look that way? Couldn't our inability to see our way out of what feels like such a mess be a problem of perception and not design? We might finally be ready, or simply desperate enough, to adopt a paradigm that admits the possibility of something other than decline, decay and death. If it takes the open-mindedness of youth to develop such a world view, then so be it.
 
-Those of us intent on securing an adaptive strategy for the coming millennium need look no further than our own children for reassuring answers to the myriad of uncertainties associated with the collapse of the culture we have grown to know and love. Our kids my be younger than us, but they are also newer. They are the latest model of human being and are equipped with a whole lot of new features. Looking at the world of children is not looking backwards at our own pasts - it's looking ahead. They are our evolutionary
-
-future.
+Those of us intent on securing an adaptive strategy for the coming millennium need look no further than our own children for reassuring answers to the myriad of uncertainties associated with the collapse of the culture we have grown to know and love. Our kids my be younger than us, but they are also newer. They are the latest model of human being and are equipped with a whole lot of new features. Looking at the world of children is not looking backwards at our own pasts - it's looking ahead. They are our evolutionary future.
 
 Consider any family of immigrants to America.
 
