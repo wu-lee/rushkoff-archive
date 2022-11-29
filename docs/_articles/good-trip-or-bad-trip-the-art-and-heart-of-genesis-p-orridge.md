@@ -113,21 +113,7 @@ I feared for an instant I had confessed my vulnerability to a man who had the po
 
 It's impossible to evaluate the art of Genesis P-Orridge by simply looking at one field of activity, one set of tools. He is one of those rare artists whose entire life and career is one great, evolving artwork, and the specific activities but parts thereof.
 
-In essence, Genesis P-Orridge is a thinking man, a thinking artist, a
-
-philosopher. Although in many ways technically intuitive and often
-
-willing to cooperate with others, the spark is always a single,
-
-defined P-Orridgean idea-a reflection or an impression he feels a
-
-need to filter through and, most important of all to recreate to
-
-' ' reshape. A thought most often takes shape through words, and it
-
-was in and through words he started out on his expressive and, one
-
-should add, impressively productive journey.
+In essence, Genesis P-Orridge is a thinking man, a thinking artist, a philosopher. Although in many ways technically intuitive and often willing to cooperate with others, the spark is always a single, defined P-Orridgean idea--a reflection or an impression he feels a need to filter through and, most important of all, to recreate, to reshape. A thought most often takes shape through words, and it was in and through words he started out on his expressive and, one should add, impressively productive journey.
 
 A tender teenage poet steeped in romantic fantasies about the
 
