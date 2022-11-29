@@ -121,16 +121,4 @@ Spontaneous peformances, mail art, collages, and redefinitions of sels of art hi
 
 In P-Orridge's mind, it wasn't enough to just work with self expression through various kinds of interesting media, as did other emerging artists around him. The Art in itself had to also be in touch with a higher essence, a sense of worth that transcends the current market value on the art scene. Without having fully realised it at the time, Genesis P-Orridge had formulated his vision, his quest, as pursuing a path of talismanic and transcendental art.
 
-In synthesis, the esoteric awareness and the realisation that art can
-
-actually cause change, made P-Orridge focus more on collage work.
-
-He applied on photos from newspapers and weeklies the cut-up
-
-methods his mentors William Burroughs and Brion Gysin applied on
-
-writing and painting, respectively. With inexpensive materials readily
-
-at hand, P-Orridge started constructing and deconstructing his own
-
-graphic universe, often sending the results out to friends as "mail art."
+In synthesis, the esoteric awareness and the realisation that art can actually cause change, made P-Orridge focus more on collage work. He applied on photos from newspapers and weeklies the cut-up methods his mentors William Burroughs and Brion Gysin applied on writing and painting, respectively. With inexpensive materials readily at hand, P-Orridge started constructing and deconstructing his own graphic universe, often sending the results out to friends as "mail art."
