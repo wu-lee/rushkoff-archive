@@ -115,23 +115,7 @@ It's impossible to evaluate the art of Genesis P-Orridge by simply looking at on
 
 In essence, Genesis P-Orridge is a thinking man, a thinking artist, a philosopher. Although in many ways technically intuitive and often willing to cooperate with others, the spark is always a single, defined P-Orridgean idea--a reflection or an impression he feels a need to filter through and, most important of all, to recreate, to reshape. A thought most often takes shape through words, and it was in and through words he started out on his expressive and, one should add, impressively productive journey.
 
-A tender teenage poet steeped in romantic fantasies about the
-
-artist's way of life, P-Orridge contributed to poetry contests and
-
-small publications. While at the University of Hull, the fields of
-
-romance expanded and, slowly but surely, some kind of general
-
-vocation grabbed hold of his creative essence. Together with
-
-friends, he actively embraced the lifestyle he'd dreamt about. They
-
-lived in freedom, in a freedom of impression and expression, and
-
-with a will to evolve by trial and error. Poor perhaps, but still free to
-
-define and refine themselves daily.
+A tender teenage poet steeped in romantic fantasies about the artist's way of life, P-Orridge contributed to poetry contests and small publications. While at the University of Hull, the fields of romance expanded and, slowly but surely, some kind of general vocation grabbed hold of his creative essence. Together with friends, he actively embraced the lifestyle he'd dreamt about. They lived in freedom, in a freedom of impression and expression, and with a will to evolve by trial and error. Poor perhaps, but still free to define and refine themselves daily.
 
 Spontaneous peformances, mail art, collages, and redefinitions of
 
