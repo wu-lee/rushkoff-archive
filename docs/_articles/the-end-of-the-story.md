@@ -31,31 +31,7 @@ The physical world is authentic by its very nature. Maybe we didn't realize this
 
 The deliberate confusion of symbols with objects keeps symbolism itself -- perhaps the most empowering and magical of human abilities -- out of our reach. As long as symbols are represented by real objects, their power can be held and monopolized. Because physical objects are subject to the force of gravity, they can only fall down. Superiors in the objectified hierarchy can thus "dub" their inferiors. They hold the scepter and the crown. That's why they sit up on thrones and altars: symbolic power, when it's attached to objects, only comes down from above.
 
-liven fom gravity oe are divorced from objects, they are also
-
-copied and distributed over on ing that goes with it. An image can be
-
-nowy ules of commerce h ectronic networks instantaneously. Entirely
-
-e have been developed to cope with this, ranging from
-
-©OPpyri
-
-are jus and patents to royalties and residuals. But lawyers and litigation
-
-the move ima, line of defense against the impending turbulence. Ultimately,
-
-makes 99.10 massless commerce, religion, politics, and ideological warfare
-
-Spite of the en weaklings indistinguishable from the heavyweights. In
-
-Orts of most of its creators to develop the ultimate advertising
-
-Weapon di eS
-
-> Creital televisi i : .
-
-democratizing . evision should ultimately accelerate this launch into
+While symbols of power are divorced from objects, they are also divorced from gravity and everything that goes with it. An image can be copied and distributed over electronic networks instantaneously. Entirely new rules of commerce have been developed to cope with this, ranging from copyrights and patents to royalties and residuals. But lawyers and litigation are just a last line of defense against the impending turbulence. Ultimately, the move into massless commerce, religion, politics, and ideological warfare makes 90-pound weaklings indistinguishable from the heavyweights. In spite of the efforts of most of its creators to develop the ultimate advertising weapon, digital television should ultimately accelerate this launch into democratizing ether.
 
 1\. MEDIA SPACE
 
