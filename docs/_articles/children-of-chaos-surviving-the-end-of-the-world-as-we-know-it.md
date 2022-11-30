@@ -57,25 +57,7 @@ As in any society in crisis, it is the children who first learn to incorporate t
 
 The goop revival began in about 1982, when a Nickelodeon show called 'You Can't Do That on Television' initiated a practice of dumping a substance called 'slime' on its child characters whenever they were at a loss for how to please their adult producer, who had, according to the back story of the programme, hired the kids in violation of child labour laws because adults would have been too expensive. Whenever the kids didn't know an answer, they got slimed.
 
-por joysepres
-
-of chichen or the l
-
-One of the very few pubertys b
-
-Roy Lopala ut parent
-
-What 11 attempt to show in this dws for by now anyw
-
-is the Power Rangers stow ow future are being addressed and purch children and young adults When with technology or a vampire
-
-of us, these new forms have the ability to assuage was
-
-withd scientific theories and obliterate the religous and color colution adaptation to the uncertaint of our times Withe the form and content of th games and social interactions le the prescriptions for with of these sceenges have alsely selected into fingers comm and social actists wise words-views are begining to twe
-
-Nickolodeon executives seemed to understand
-
-the semiotics of slime, and the network's creative director mused to the Wall Street Journal that the substance 'became a symbol of the solidarity of oppressed kids. It's tough to be a kid in the adult world'. When Mattel teamed up with Nickelodeon to market the product, they found out how much kids apparently agreed with this assessment.
+Nickolodeon executives seemed to understand the semiotics of slime, and the network's creative director mused to the Wall Street Journal that the substance 'became a symbol of the solidarity of oppressed kids. It's tough to be a kid in the adult world'. When Mattel teamed up with Nickelodeon to market the product, they found out how much kids apparently agreed with this assessment.
 
 The righteous indignation symbolized by Slime and confirmed by its huge sales was not to mark the culmination of goop's use as a developmen- tal tool by the youth market. A new Nickelodeon game show called 'Double Dare' capitalized on children's love of sticky, gooey messes by allowing them to compete in relay races involving ice cream, eggs and other viscous substances. The resulting generic mess was termed 'gak' and Mattel rushed to create a synthetic equivalent.
 
