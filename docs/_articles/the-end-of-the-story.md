@@ -41,37 +41,7 @@ As a result, we came to think of information as something that got fed to us fro
 
 Television proved a better programmer than print, too, because it demanded even less of its audience. No reading, no distracting page-turning, no freedom to choose articles or the order of presentation. Just tune in, sit back, and zone out. But by slowly shifting our sense of trust onto the electronic image, those who hoped to maintain control over the content of media created the conditions by which they lost it.
 
-We loved TV, and as more and more of it was provided to us, those
-
-terrific properties of turbulence led the tube to promote chaos over ee
-
-else. For electronic media doesn't intrinsically empower an elite of conte
-
-i i ter did. It doesn't obey the laws of gravity.
-
-providers the way printed mit bined to make the world of
-
-Cable television and home video technology combined to
-
-Digital TV
-
-106
-
-: k news
-
-chagrin of networ
-
-television an even less ordered place. Much to the ot broadcast live news
-
-advocates, CNN and CSPAN rose to prominencs ’ ‘a oversight. Television
-
-footage from around the world with much ten owed us to see what was
-
-began to serve the purpose its name indicates: om 7 source of passively
-
-going on somewhere else. It's role changed IF
-
-absorbed programming into a tool for remote views ie Los Angeles Times,
+We loved TV, and as more and more of it was provided to us, those terrific properties of turbulence led the tube to promote chaos over anything else. For electronic media doesn't intrinsically empower an elite of content providers the way printed matter did. It doesn't obey the laws of gravity. Cable television and home video technology combined to make the world of television an even less ordered place. Much to the chagrin of network news advocates, CNN and CSPAN rose to prominence, and broadcast live news footage from around the world with much less editorial oversight. Television began to serve the purpose its name indicates: it allowed us to see what was going on somewhere else. It's role changed from a source of passively absorbed programming into a tool for remote viewing.
 
 Well-meaning liberals, like Tom Rosenstiel 0
 
