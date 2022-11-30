@@ -27,25 +27,7 @@ The forms of spiritualism, entertainment, and play that kids explore today are a
 
 This desire to generate or declare objects of value has been both prompted and empowered by the arrival of digital technology in the home. What is an "authentic" Nirvana CD? The first pressing? A signed copy? Does that make the music any different? No. Once the transmission from artist or originator to consumer or viewer can be made in the form of reconstructed code rather than physical objects, the relationship between the two human beings involved changes, as well.
 
-The physical world is authentic by its very nature. Maybe we didn't
-
-realize this until we all started thinking about "virtual reality," but every time
-
-we breathe air, look at a tree, or make love, we are interacting in authentic
-
-flesh and blood. It's real. When we interact with icons and representations,
-
-we have moved into a different realm. It need not be confused with
-
-authenticity at all. A particular crucifix may have mass, but the symbol of a
-
-crucifix does not. No, | can't own a piece of the true cross, but I can make
-
-my own. With or without authenticating ritual, the symbol and its resonance
-
-are the same. A rose by any other name would still smell as sweet -- but
-
-without consensus language we couldn't share the thought with anyone else.
+The physical world is authentic by its very nature. Maybe we didn't realize this until we all started thinking about "virtual reality," but every time we breathe air, look at a tree, or make love, we are interacting in authentic flesh and blood. It's real. When we interact with icons and representations, we have moved into a different realm. It need not be confused with authenticity at all. A particular crucifix may have mass, but the symbol of a crucifix does not. No, I can't own a piece of the true cross, but I can make my own. With or without authenticating ritual, the symbol and its resonance are the same. A rose by any other name would still smell as sweet -- but without consensus language we couldn't share the thought with anyone else.
 
 The deliberate confusion of symbols with objects keeps symbolism itself
 
