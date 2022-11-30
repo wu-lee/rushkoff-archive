@@ -41,17 +41,7 @@ Well, welcome to the twenty-first century. We are all immigrants to a new territ
 
 Compare the number of ideas a person is exposed to each day with the number he might have been asked to consider, say, just seventy-five years ago. Inventions like the telephone, television, radio, tickertape, photocopier, fax machine, modem, Internet, cable TV, video teleconferencing, computer bulletin board and the World Wide Web all function to increase the number of ideas and number of people with whose thoughts we come in contact. With each successive development in communications technology comes a corresponding leap in the number of ideas with which it requires us to cope. As we incorporate each new invention into our daily life, we must accelerate our ability to process new thoughts and ideas.
 
-The degree of change experienced by the past
-
-three generations rivals that of a species in mutation. Today's 'screen-ager' - the child born into a culture mediated by the television and computer
-
-\-
-
-is interacting with his world in at least as
-
-dramatically altered a fashion from his grandfather as the first sighted creature did from his blind ancestors, or a winged one from his earthbound forebears. Human beings have evolved signifi- cantly within a single creature's lifespan, and this intensity of evolutionary change shows no signs of slowing down. What we need to adapt to, more than any particular change, is the fact that we are changing so rapidly. We must learn to accept change as a constant. Novelty is the new status
-
-quo.
+The degree of change experienced by the past three generations rivals that of a species in mutation. Today's 'screen-ager' - the child born into a culture mediated by the television and computer - is interacting with his world in at least as dramatically altered a fashion from his grandfather as the first sighted creature did from his blind ancestors, or a winged one from his earthbound forebears. Human beings have evolved significantly within a single creature's lifespan, and this intensity of evolutionary change shows no signs of slowing down. What we need to adapt to, more than any particular change, is the fact that we are changing so rapidly. We must learn to accept change as a constant. Novelty is the new status quo.
 
 This naturally contradicts much of what we hold
 
