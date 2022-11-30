@@ -33,39 +33,9 @@ The deliberate confusion of symbols with objects keeps symbolism itself -- perha
 
 While symbols of power are divorced from objects, they are also divorced from gravity and everything that goes with it. An image can be copied and distributed over electronic networks instantaneously. Entirely new rules of commerce have been developed to cope with this, ranging from copyrights and patents to royalties and residuals. But lawyers and litigation are just a last line of defense against the impending turbulence. Ultimately, the move into massless commerce, religion, politics, and ideological warfare makes 90-pound weaklings indistinguishable from the heavyweights. In spite of the efforts of most of its creators to develop the ultimate advertising weapon, digital television should ultimately accelerate this launch into democratizing ether.
 
-1\. MEDIA SPACE
+**1. MEDIA SPACE**
 
-Media : :
-
-used to be a top-down affair. A few rich guys in suits sat in offices
-
-at the tops of tall buildi
-
-u l . : : :
-
-headlines, and how the dings and decided which stories would be in the
-
-and | y would be told. However much the printing press
-
-high mee empowered the masses to absorb information, the
-
-information itv thy = ature and distribution kept the production of that
-
-William Randoph a Ss of those who controlled the equipment. The likes of
-
-ublic opini Pn Hearst dominated the content of our media, and directed
-
-P Opinion from the top. As print production became cheaper and more
-
-accessible thanks to typewriters and photocopying, news and storytelling
-
-moved to television and radio. Again, because these new, electronic media
-
-were SO expensive to operate, not to mention obtain broadcast licenses for,
-
-content could easily be controlled by a few rich men and their even wealthier
-
-sponsors.
+Media used to be a top-down affair. A few rich guys in suits sat in offices at the tops of tall buildings and decided which stories would be in the headlines, and how they would be told. However much the printing press and literacy movement empowered the masses to absorb information, the high price of manufacture and distribution kept the production of that information in the hands of those who controlled the equipment. The likes of William Randolph Hearst dominated the content of our media, and directed public opinion from the top. As print production became cheaper and more accessible thanks to typewriters and photocopying, news and storytelling moved to television and radio. Again, because these new, electronic media were so expensive to operate, not to mention obtain broadcast licenses for, content could easily be controlled by a few rich men and their even wealthier sponsors.
 
 As a result, we came to think of information as something that got fed to
 
