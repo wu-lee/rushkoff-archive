@@ -39,17 +39,7 @@ Media used to be a top-down affair. A few rich guys in suits sat in offices at t
 
 As a result, we came to think of information as something that got fed to us from above. We counted on the editors of the New York Times to deliver "all the news that's fit to print,” and Walter Cronkite to tell us "that's the way it was." We had no reason not to trust the editorial decisions of the media managers upon whom we depended to present, accurately, what was going on in the world around us.
 
-Television proved a better programmer than print, too, because it
-
-demanded even less of its audience. No reading, no distracting page-turning,
-
-no freedom to choose articles or the order of presentation. Just tune in, sit
-
-back, and zone out. But by slowly shifting our sense of trust onto the
-
-electronic image, those who hoped to maintain control over the content of
-
-media created the conditions by which they lost it
+Television proved a better programmer than print, too, because it demanded even less of its audience. No reading, no distracting page-turning, no freedom to choose articles or the order of presentation. Just tune in, sit back, and zone out. But by slowly shifting our sense of trust onto the electronic image, those who hoped to maintain control over the content of media created the conditions by which they lost it.
 
 We loved TV, and as more and more of it was provided to us, those
 
