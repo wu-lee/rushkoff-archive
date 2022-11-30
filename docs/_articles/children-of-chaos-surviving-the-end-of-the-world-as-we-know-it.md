@@ -61,9 +61,7 @@ Nickolodeon executives seemed to understand the semiotics of slime, and the netw
 
 The righteous indignation symbolized by Slime and confirmed by its huge sales was not to mark the culmination of goop's use as a developmental tool by the youth market. A new Nickelodeon game show called 'Double Dare' capitalized on children's love of sticky, gooey messes by allowing them to compete in relay races involving ice cream, eggs and other viscous substances. The resulting generic mess was termed 'gak' and Mattel rushed to create a synthetic equivalent.
 
-Gak's success in the marketplace has been
-
-astounding. It has been banned in several public schools - just one testament to its overwhelming popularity. Among Gak's most remarkable properties is that it feels wet, but leaves little wetness on the skin; it has all the joy of moist intimacy with none of the lasting side effects. Bacteriostatic agents have been mixed in to prevent germs from growing within the putty, or spreading from child to child. Designed to imitate the approximate moisture level of an air-dried human tongue, Gak has no purpose other than to feel weird and make 'fart' sounds when is pressed back into its plastic, splat-shaped container.
+Gak's success in the marketplace has been astounding. It has been banned in several public schools - just one testament to its overwhelming popularity. Among Gak's most remarkable properties is that it feels wet, but leaves little wetness on the skin; it has all the joy of moist intimacy with none of the lasting side effects. Bacteriostatic agents have been mixed in to prevent germs from growing within the putty, or spreading from child to child. Designed to imitate the approximate moisture level of an air-dried human tongue, Gak has no purpose other than to feel weird and make 'fart' sounds when is pressed back into its plastic, splat-shaped container.
 
 Toy marketeers are particularly impressed by
 
