@@ -51,9 +51,7 @@ At each leap of evolution, there has been a corresponding moment where the indiv
 
 If we accept that evolution is a process by which matter moves toward higher states of complexity and greater levels of awareness, and does so by developing individuals as far as they can go, and then combining them into new, networked beings, then what is happening to us becomes obvious. We are evolving into a new, colonial life-form.
 
-This process can be scary, especially to mem-
-
-bers of a culture who value their individuality, personal privacy and overall stability. While, as we'll see, the development of the 'metabeing' need not cost us any of these privileges, we don't have a way yet to understand how we can come together without disappearing ourselves. This is where the experience of a developing child can inform our cultural transition \[...\]
+This process can be scary, especially to members of a culture who value their individuality, personal privacy and overall stability. While, as we'll see, the development of the 'metabeing' need not cost us any of these privileges, we don't have a way yet to understand how we can come together without disappearing ourselves. This is where the experience of a developing child can inform our cultural transition \[...\]
 
 As in any society in crisis, it
 
