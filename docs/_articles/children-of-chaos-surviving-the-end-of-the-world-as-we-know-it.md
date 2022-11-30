@@ -8,7 +8,6 @@ blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-published: false
 
 ---
 Douglas Rushkoff  
