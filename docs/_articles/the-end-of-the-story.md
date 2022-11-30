@@ -43,19 +43,7 @@ Television proved a better programmer than print, too, because it demanded even 
 
 We loved TV, and as more and more of it was provided to us, those terrific properties of turbulence led the tube to promote chaos over anything else. For electronic media doesn't intrinsically empower an elite of content providers the way printed matter did. It doesn't obey the laws of gravity. Cable television and home video technology combined to make the world of television an even less ordered place. Much to the chagrin of network news advocates, CNN and CSPAN rose to prominence, and broadcast live news footage from around the world with much less editorial oversight. Television began to serve the purpose its name indicates: it allowed us to see what was going on somewhere else. It's role changed from a source of passively absorbed programming into a tool for remote viewing.
 
-Well-meaning liberals, like Tom Rosenstiel 0
-
-icious effe
-
-were horrified by this transition: "TCNN\] has even hace ee control “ew
-
-on the rest of journalism: it has accelerated the the sword *pemnicious.”
-
-organizations have over content." I'd agree except for the sient of media
-
-As centralized control over news agencies erodes, the co it serves
-
-becomes much more responsive to the needs of the world curture ; a ms io "
+Well-meaning liberals, like Tom Rosenstiel of the Los Angeles Times, were horrified by this transition: "\[CNN\] has even had a pernicious effect on the rest of journalism: it has accelerated the loss of control news organizations have over content." I'd agree except for the word "pernicious." As centralized control over news agencies erodes, the content of media becomes much more responsive to the needs of the world culture it serves.
 
 Rosenstiel argues that CNN "gives voice to politica h 0 Wh .
 
