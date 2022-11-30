@@ -65,27 +65,7 @@ Gak's success in the marketplace has been astounding. It has been banned in seve
 
 Toy marketeers are particularly impressed by Gak's almost generic iconography. It is the first superhit product spin-off from a kids' TV show that is not based on a character or one of his accessories. The popularity of Power Rangers or X-Men dolls, vehicles and weaponry is comprehensible by old-paradigm marketeers: kids identify with the superhero characters, and hope to emulate them vicariously through their action figures, and by using their weapons and possessions.
 
-just poze
-
-But Gak is not a character, nor is it used by a This brings us to yet another stunning aspect of kids' experience of
-
-Suge teen 1
-
-astounding. It has been banned in several public
-
-popularity. Among Gak's most remarkable properties is tha
-
-elming
-
-stament to its wet, but leaves little wetness
-
-on the skin; it has all the joy of moist intimacy with none of the lasting side effects. Bacteriostatic agents have been mixed in to prevent germs from growing within the putty, or spreading from child to child. Designed to imitate the approximate moisture level of an air-dried human tongue, Gak has no purpose other than to feel weird and make 'fart' sounds when is pressed back into its plastic, splat-shaped container.
-
-Toy marketeers are particularly impressed by
-
-Gak's almost generic iconography. It is the first superhit product spin-off from a kids' TV show that is not based on a character or one of his accessories. The popularity of Power Rangers or X-Men dolls, vehicles and weaponry is comprehensible by old-paradigm marketeers: kids identify with the superhero characters, and hope to emulate them vicariously through their action figures, and by using their weapons and possessions.
-
-But Gak is not a character, nor is it used by a character. It's just ooze. This brings us to yet another stunning aspect of kids' experience of evolution and modern intimacy. Just as a teenager experiencing his won sexuality for the first time begins to question or disregard adult authority, rules and regulations, a society moving into true intimacy must learn to disregard some of its long-maintained cultural barricades. If Al Gore and Newt Gingrich have Internet accounts that display their ASCII text in the same font size as a janitor in Tuskegee, then the relationship of people with their heroes will necessarily change. Idolatry of all kinds will tend to diminish as people begin to value intimacy with equals over identification with a role model. Further, Gak is a toy based in pure play there is no story, conflict or metaphorical value. Gak is not like goo. With Gak, you don't pretend to do something else, you play with Gak. Tops and yo-yos were gravity-based toys, whose entertainment value was based in competition, endurance or technical proficiency. Gak demands no such arc of pleasure or level of skill. It is purely experimental.
+But Gak is not a character, nor is it used by a character. It's just ooze. This brings us to yet another stunning aspect of kids' experience of evolution and modern intimacy. Just as a teenager experiencing his won sexuality for the first time begins to question or disregard adult authority, rules and regulations, a society moving into true intimacy must learn to disregard some of its long-maintained cultural barricades. If Al Gore and Newt Gingrich have Internet accounts that display their ASCII text in the same font size as a janitor in Tuskegee, then the relationship of people with their heroes will necessarily change. Idolatry of all kinds will tend to diminish as people begin to value intimacy with equals over identification with a role model. Further, Gak is a toy based in pure play - there is no story, conflict or metaphorical value. Gak is not like goo. With Gak, you don't pretend to do something else, you play with Gak. Tops and yo-yos were gravity-based toys, whose entertainment value was based in competition, endurance or technical proficiency. Gak demands no such arc of pleasure or level of skill. It is purely experimental.
 
 \-
 
