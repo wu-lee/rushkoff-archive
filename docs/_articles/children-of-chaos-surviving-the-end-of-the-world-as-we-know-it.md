@@ -63,23 +63,7 @@ The righteous indignation symbolized by Slime and confirmed by its huge sales wa
 
 Gak's success in the marketplace has been astounding. It has been banned in several public schools - just one testament to its overwhelming popularity. Among Gak's most remarkable properties is that it feels wet, but leaves little wetness on the skin; it has all the joy of moist intimacy with none of the lasting side effects. Bacteriostatic agents have been mixed in to prevent germs from growing within the putty, or spreading from child to child. Designed to imitate the approximate moisture level of an air-dried human tongue, Gak has no purpose other than to feel weird and make 'fart' sounds when is pressed back into its plastic, splat-shaped container.
 
-Toy marketeers are particularly impressed by
-
-effect on our cultural values
-
-art tousing
-
-our grown-up function as role models and ethicagors of
-
-how we, as aduts, should inform ou children's activites with cations to development, leis apreciate the natural adaptive suis em sua for answers to some of our own probiens staging to set and s our advance scouts. They are already the thing that we matc
-
-the end of our world, into theirs Douglas Rusticuff Children of Cheat-Sunwing the Ent thei
-
-at New York University His books which Cibena Life in the Trenches of 1994), and Coercion: Why We Listen to We Th The New York Times and devet
-
-in
-
-Gak's almost generic iconography. It is the first superhit product spin-off from a kids' TV show that is not based on a character or one of his accessories. The popularity of Power Rangers or X-Men dolls, vehicles and weaponry is comprehensible by old-paradigm marketeers: kids identify with the superhero characters, and hope to emulate them vicariously through their action figures, and by using their weapons and possessions.
+Toy marketeers are particularly impressed by Gak's almost generic iconography. It is the first superhit product spin-off from a kids' TV show that is not based on a character or one of his accessories. The popularity of Power Rangers or X-Men dolls, vehicles and weaponry is comprehensible by old-paradigm marketeers: kids identify with the superhero characters, and hope to emulate them vicariously through their action figures, and by using their weapons and possessions.
 
 just poze
 
