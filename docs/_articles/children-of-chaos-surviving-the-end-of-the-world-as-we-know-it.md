@@ -59,7 +59,7 @@ The goop revival began in about 1982, when a Nickelodeon show called 'You Can't 
 
 Nickolodeon executives seemed to understand the semiotics of slime, and the network's creative director mused to the Wall Street Journal that the substance 'became a symbol of the solidarity of oppressed kids. It's tough to be a kid in the adult world'. When Mattel teamed up with Nickelodeon to market the product, they found out how much kids apparently agreed with this assessment.
 
-The righteous indignation symbolized by Slime and confirmed by its huge sales was not to mark the culmination of goop's use as a developmen- tal tool by the youth market. A new Nickelodeon game show called 'Double Dare' capitalized on children's love of sticky, gooey messes by allowing them to compete in relay races involving ice cream, eggs and other viscous substances. The resulting generic mess was termed 'gak' and Mattel rushed to create a synthetic equivalent.
+The righteous indignation symbolized by Slime and confirmed by its huge sales was not to mark the culmination of goop's use as a developmental tool by the youth market. A new Nickelodeon game show called 'Double Dare' capitalized on children's love of sticky, gooey messes by allowing them to compete in relay races involving ice cream, eggs and other viscous substances. The resulting generic mess was termed 'gak' and Mattel rushed to create a synthetic equivalent.
 
 Gak's success in the marketplace has been
 
