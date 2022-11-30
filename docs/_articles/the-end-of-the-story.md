@@ -37,17 +37,7 @@ While symbols of power are divorced from objects, they are also divorced from gr
 
 Media used to be a top-down affair. A few rich guys in suits sat in offices at the tops of tall buildings and decided which stories would be in the headlines, and how they would be told. However much the printing press and literacy movement empowered the masses to absorb information, the high price of manufacture and distribution kept the production of that information in the hands of those who controlled the equipment. The likes of William Randolph Hearst dominated the content of our media, and directed public opinion from the top. As print production became cheaper and more accessible thanks to typewriters and photocopying, news and storytelling moved to television and radio. Again, because these new, electronic media were so expensive to operate, not to mention obtain broadcast licenses for, content could easily be controlled by a few rich men and their even wealthier sponsors.
 
-As a result, we came to think of information as something that got fed to
-
-us from above. We counted on the editors of the New York Times to deliver
-
-"all the news that's fit to print,” and Walter Cronkite to tell us "that's the way
-
-it was." We had no reason not to trust the editorial decisions of the media
-
-managers upon whom we depended to present, accurately, what was going
-
-on in the world around us.
+As a result, we came to think of information as something that got fed to us from above. We counted on the editors of the New York Times to deliver "all the news that's fit to print,” and Walter Cronkite to tell us "that's the way it was." We had no reason not to trust the editorial decisions of the media managers upon whom we depended to present, accurately, what was going on in the world around us.
 
 Television proved a better programmer than print, too, because it
 
