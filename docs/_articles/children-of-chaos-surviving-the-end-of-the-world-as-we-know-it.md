@@ -53,17 +53,7 @@ If we accept that evolution is a process by which matter moves toward higher sta
 
 This process can be scary, especially to members of a culture who value their individuality, personal privacy and overall stability. While, as we'll see, the development of the 'metabeing' need not cost us any of these privileges, we don't have a way yet to understand how we can come together without disappearing ourselves. This is where the experience of a developing child can inform our cultural transition \[...\]
 
-As in any society in crisis, it
-
-the children who
-
-first learn to incorporate the worst threats into the most basic forms of play. When the black plague threatened Europe with annihilation, the children sang 'Ring Around the Rosie' as they ritualized the appearance of rose-coloured sores, stench-camouflaging 'posies' and piles of burning bodies in the streets. 'Ashes ashes', goes the simple refrain before it includes in straightforward frankness: 'We all fall down'. How do children today deal with societal crises of impending sexual intimacy? The answer is to be found at Toys R Us: they play with slime. The hottest new toys for kids aren't really toys at all, but highly advanced forms of goo. Most adults can remember craft-orientated
-
-44
-
-goop products of their own childhoods, like Play-Doh and Silly Putty. But these all had apparent purposes. Play-Doh was a reusable modelling clay, and Silly Putty was used to copy and then stretch the impressions of comic book pictures. Today's goop equivalents, most noticeably Gak and Floam, celebrate slime for its own sake, and serve as a great example of the way kids cope first
-
-with cultural crisis.
+As in any society in crisis, it is the children who first learn to incorporate the worst threats into the most basic forms of play. When the black plague threatened Europe with annihilation, the children sang 'Ring Around the Rosie' as they ritualized the appearance of rose-coloured sores, stench-camouflaging 'posies' and piles of burning bodies in the streets. 'Ashes ashes', goes the simple refrain before it includes in straightforward frankness: 'We all fall down'. How do children today deal with societal crises of impending sexual intimacy? The answer is to be found at Toys R Us: they play with slime. The hottest new toys for kids aren't really toys at all, but highly advanced forms of goo. Most adults can remember craft-orientated goop products of their own childhoods, like Play-Doh and Silly Putty. But these all had apparent purposes. Play-Doh was a reusable modelling clay, and Silly Putty was used to copy and then stretch the impressions of comic book pictures. Today's goop equivalents, most noticeably Gak and Floam, celebrate slime for its own sake, and serve as a great example of the way kids cope first with cultural crisis.
 
 The goop revival began in about 1982, when a Nickelodeon show called 'You Can't Do That on Television' initiated a practice of dumping substance called 'slime' on its child characters whenever they were at a loss for how to please their adult producer, who had, according to the back story of the programme, hired the kids in violation of child labour laws because adults would have been too expensive. Whenever the kids didn't know an answer, they got slimed.
 
