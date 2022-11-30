@@ -14,3 +14,11 @@ published: false
 **Key words:** Interactive television, video games, media hacking, world wide web, empowerment, deconstruction, media literacy, Rushkoff, chaos, children, networked entertainment, digital TV
 
 **Abstract:** This paper looks at programming from the perspective of who controls it, who buys it, what it all means, and how Digital TV may be a catalyst for its change. It shows how interactive television may neutralize the coercive effects of traditional programming and empower a generation to rethink its relationship to the mediaspace and itself.
+
+_"Hey! You guys are upside down!"_
+
+_Commander of the US Shuttle Atlantis to Russians aboard the space station Mir when the hatch was opened on their historic docking._
+
+We love stuff because we can touch it. It's real. It has mass. It falls to the ground when we let go of it. There's also a special value that real objects can take on, too. A violin played by Stravinsky, a pen used by James Joyce, or a pillow on which the Buddha slept are treasured more than identical objects from the same periods because of the sentimental value we project onto them. Their molecules are no different even if their price tags or museum placement are. The "genuine article" is an ethereal notion, at best.
+
+Traditionally, for objects to take on magical significance, they must be connected to history and lineage. A samurai sword, Faberge egg, or original copy of the U.S. Constitution is only passed on from one person or institution to another when the recipient has demonstrated proper allegiance to and regard for to the significance of the object, either through application, ritual, or a huge outlay of cash at Christy's.
