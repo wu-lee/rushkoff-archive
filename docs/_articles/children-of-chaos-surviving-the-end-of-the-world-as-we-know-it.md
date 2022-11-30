@@ -43,11 +43,7 @@ Compare the number of ideas a person is exposed to each day with the number he m
 
 The degree of change experienced by the past three generations rivals that of a species in mutation. Today's 'screen-ager' - the child born into a culture mediated by the television and computer - is interacting with his world in at least as dramatically altered a fashion from his grandfather as the first sighted creature did from his blind ancestors, or a winged one from his earthbound forebears. Human beings have evolved significantly within a single creature's lifespan, and this intensity of evolutionary change shows no signs of slowing down. What we need to adapt to, more than any particular change, is the fact that we are changing so rapidly. We must learn to accept change as a constant. Novelty is the new status quo.
 
-This naturally contradicts much of what we hold
-
-dear. In fact, it calls for us to abandon most of it. Many people still reject the notion that biology evolves, much less than societies or individuals do. But our aim here is to identify a few models for what is happening to our world that point to something other than doom. Evolution may be our best
-
-bet.
+This naturally contradicts much of what we hold dear. In fact, it calls for us to abandon most of it. Many people still reject the notion that biology evolves, much less than societies or individuals do. But our aim here is to identify a few models for what is happening to our world that point to something other than doom. Evolution may be our best bet.
 
 The evolution of life, so far, appears to be a
 
