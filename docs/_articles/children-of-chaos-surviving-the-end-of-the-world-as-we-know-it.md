@@ -73,9 +73,7 @@ While kids didn't invent Gak, they are the ones who made it such a sensation. To
 
 What I'll attempt to show in this book is that the more frightening aspects of a non-apocalyptic future are being addressed today, and quite directly, by the most pop-cultural experiences of children and young adults. Whether it's the Power Rangers showing us how to accept co-evolution with technology or a vampire role-playing game calling for us to accept the satanic beast in each of us, these new forms have the ability to assuage our worst fears, confirm our most optimistic scientific theories, and obliterate the religious and cultural absolutism so detrimental to our adaptation to the uncertainty of our times. Within the form and content of kids' favourite shows, games and social interactions lie the prescriptions for us to cope with cultural change. The oldest of these screenagers have already developed into fledgling filmmakers, computer programmers and social activists, whose world-views are beginning to have a felt and, I would argue, positive effect on our cultural values.
 
-So please let us suspend, for the time being,
-
-our grown-up function as role models and educators of our nation's youth. Rather than focusing on how we, as adults, should inform our children's activities with educational tidbits for their better development, let's appreciate the natural adaptive skills demonstrated by our kids and look to them for answers to some of our own problems adapting to Postmodernity. Kids are our test sample - our advance scouts. They are, already, the thing that we must become.
+So please let us suspend, for the time being, our grown-up function as role models and educators of our nation's youth. Rather than focusing on how we, as adults, should inform our children's activities with educational tidbits for their better development, let's appreciate the natural adaptive skills demonstrated by our kids and look to them for answers to some of our own problems adapting to Postmodernity. Kids are our test sample - our advance scouts. They are, already, the thing that we must become.
 
 the end of our world, into theirs.
 
