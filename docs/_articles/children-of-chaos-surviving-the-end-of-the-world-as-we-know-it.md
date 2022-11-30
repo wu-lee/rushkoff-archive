@@ -75,10 +75,4 @@ What I'll attempt to show in this book is that the more frightening aspects of a
 
 So please let us suspend, for the time being, our grown-up function as role models and educators of our nation's youth. Rather than focusing on how we, as adults, should inform our children's activities with educational tidbits for their better development, let's appreciate the natural adaptive skills demonstrated by our kids and look to them for answers to some of our own problems adapting to Postmodernity. Kids are our test sample - our advance scouts. They are, already, the thing that we must become.
 
-the end of our world, into theirs.
-
-That is, if in fact we choose to carry on beyond
-
-Douglas Rushkoff, Children of Chaos - Surviving the End of the World As We Know It (London: Flamingo, 1997).
-
-Douglas Rushkoff is Professor of Cyberculture at New York University. His books, which have been translated into fifteen languages, include Cyberia: Life in the Trenches of Hyperspace (1994), Media Virus! Hidden Agendas in Popular Culture (1994), and Coercion: Why We Listen to What 'They' Say (1999). He also writes a Syndicated column in The New York Times and develops game software.
+That is, if in fact we choose to carry on beyond the end of our world, into theirs.
