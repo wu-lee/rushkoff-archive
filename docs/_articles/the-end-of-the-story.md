@@ -29,21 +29,7 @@ This desire to generate or declare objects of value has been both prompted and e
 
 The physical world is authentic by its very nature. Maybe we didn't realize this until we all started thinking about "virtual reality," but every time we breathe air, look at a tree, or make love, we are interacting in authentic flesh and blood. It's real. When we interact with icons and representations, we have moved into a different realm. It need not be confused with authenticity at all. A particular crucifix may have mass, but the symbol of a crucifix does not. No, I can't own a piece of the true cross, but I can make my own. With or without authenticating ritual, the symbol and its resonance are the same. A rose by any other name would still smell as sweet -- but without consensus language we couldn't share the thought with anyone else.
 
-The deliberate confusion of symbols with objects keeps symbolism itself
-
-\-- perhaps the most empowering and magical of human abilities -- out of our
-
-reach. As long as symbols are represented by real objects, their power can be
-
-held and monopolized. Because physical objects are subject to the force of
-
-gravity, they can only fall down. Superiors in the objectified hierarchy can
-
-ms up their inferiors. They hold the scepter and the crown. That's why
-
-\-y sit up on thrones and altars: symbolic power, when it's attached to
-
-objects, only comes down from above.
+The deliberate confusion of symbols with objects keeps symbolism itself -- perhaps the most empowering and magical of human abilities -- out of our reach. As long as symbols are represented by real objects, their power can be held and monopolized. Because physical objects are subject to the force of gravity, they can only fall down. Superiors in the objectified hierarchy can thus "dub" their inferiors. They hold the scepter and the crown. That's why they sit up on thrones and altars: symbolic power, when it's attached to objects, only comes down from above.
 
 liven fom gravity oe are divorced from objects, they are also
 
