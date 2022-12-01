@@ -49,23 +49,7 @@ Rosenstiel argues that CNN "gives voice to political leaders who otherwise lacke
 
 Populist sentiments -- however irate or irrational -- get more of a voice in a decentralized mediaspace, too. Intellectuals and social controllers fearing the will of our under-educated "masses" claim that sensationalism will replace wise journalism as the news lowers itself to meet consumer appetite. In order to keep up with their tabloid competitors, network news shows "stooped" to their level, and raced to appeal to public appetite over particular sponsorial agendas. The overriding agenda of the advertiser, after all, is to capture "eyeball-hours." The ratings of lower-quality tabloid television has begun to decline on their own, anyway, because the more fully staffed networks have adjusted their programming to suit an audience that demands the truth. And because we've gotten our fill of stories about neo-nazi youth.
 
-However horrific a Rush Limbaugh or Gordon Liddy's radio show may
-
-get, it is merely a long-overdue response of a public against what it
-
-experienced as extreme domination. If our culture in its first stage of top-
-
-down mediation can be likened to the passively absorbing fetus or breast-
-
-feeding infant, then this second stage can be seen as the "terrible two's."
-
-When a baby first learns to speak, he soon realizes that his words can have
-
-an effect on those around him. Lacking a plan of his own and the words to
-
-press it if he did, the child simply repeats the one word that can so easily
-
-negate everyone else's: no.
+However horrific a Rush Limbaugh or Gordon Liddy's radio show may get, it is merely a long-overdue response of a public against what it experienced as extreme domination. If our culture in its first stage of top-down mediation can be likened to the passively absorbing fetus or breast-feeding infant, then this second stage can be seen as the "terrible two's." When a baby first learns to speak, he soon realizes that his words can have an effect on those around him. Lacking a plan of his own and the words to express it if he did, the child simply repeats the one word that can so easily negate everyone else's: no.
 
 7 The End of the Story
 
