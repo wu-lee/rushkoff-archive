@@ -51,13 +51,9 @@ Populist sentiments -- however irate or irrational -- get more of a voice in a d
 
 However horrific a Rush Limbaugh or Gordon Liddy's radio show may get, it is merely a long-overdue response of a public against what it experienced as extreme domination. If our culture in its first stage of top-down mediation can be likened to the passively absorbing fetus or breast-feeding infant, then this second stage can be seen as the "terrible two's." When a baby first learns to speak, he soon realizes that his words can have an effect on those around him. Lacking a plan of his own and the words to express it if he did, the child simply repeats the one word that can so easily negate everyone else's: no.
 
-7 The End of the Story
+**2. DIGITAL DEVICES DECONSTRUCT**
 
-107
-
-DIGITAL DEVICES DECONSTRY
-
-CT
+We call the stuff on television programming for a reason. No, television programmers are not programming television sets or evening schedules; they're programming the viewers. Whether they are convincing us to buy a product, vote for a candidate, adopt an ideology, or simply confirm a moral platitude, the underlying reason for making television is to hold onto our attention and then sell us a bill of goods.
 
 latitude, the underlying reason for makin; i ply confirm a moral
 
