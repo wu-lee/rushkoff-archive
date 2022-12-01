@@ -45,17 +45,9 @@ We loved TV, and as more and more of it was provided to us, those terrific prope
 
 Well-meaning liberals, like Tom Rosenstiel of the Los Angeles Times, were horrified by this transition: "\[CNN\] has even had a pernicious effect on the rest of journalism: it has accelerated the loss of control news organizations have over content." I'd agree except for the word "pernicious." As centralized control over news agencies erodes, the content of media becomes much more responsive to the needs of the world culture it serves.
 
-Rosenstiel argues that CNN "gives voice to politica h 0 Wh .
+Rosenstiel argues that CNN "gives voice to political leaders who otherwise lacked political standing." What's wrong with that? When a dictator with a million sword-wielding would-be-martyrs wants to tell the world something, I'd rather he do it over CNN than a mound of dead bodies. Supply-side news control breaks down when international networks are willing to point their cameras anywhere.
 
-otherwise lacked political standing." What's wrong with that: en a
-
-dictator with a million sword-wielding would-be-martyrs wants to tell the
-
-world something, I'd rather he do it over CNN than a mound of dead bodies.
-
-Supply-side news control breaks down when international networks are
-
-willing to point their cameras anywhere. —
+ —
 
 Populist sentiments -- however irate or irrational -- get more of a voice in
 
