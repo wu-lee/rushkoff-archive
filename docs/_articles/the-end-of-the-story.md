@@ -47,29 +47,7 @@ Well-meaning liberals, like Tom Rosenstiel of the Los Angeles Times, were horrif
 
 Rosenstiel argues that CNN "gives voice to political leaders who otherwise lacked political standing." What's wrong with that? When a dictator with a million sword-wielding would-be-martyrs wants to tell the world something, I'd rather he do it over CNN than a mound of dead bodies. Supply-side news control breaks down when international networks are willing to point their cameras anywhere.
 
- —
-
-Populist sentiments -- however irate or irrational -- get more of a voice in
-
-a decentralized mediaspace, too. Intellectuals and social controllers fearing
-
-the will of our under-educated "masses" claim that sensationalism will
-
-replace wise journalism as the news lowers itself to meet consumer appetite.
-
-In order to keep up with their tabloid competitors, network news shows
-
-"stooped" to their level, and raced to appeal to public appetite over particular
-
-sponsorial agendas. The overriding agenda of the advertiser, after all, is to
-
-capture "eyeball-hours." The ratings of lower-quality tabloid television has
-
-begun to decline on their own, anyway, because the more fully staffed
-
-networks have adjusted their programming to suit an audience that demands
-
-the truth. And because we've gotten our fill of stories about neo-nazi youth.
+Populist sentiments -- however irate or irrational -- get more of a voice in a decentralized mediaspace, too. Intellectuals and social controllers fearing the will of our under-educated "masses" claim that sensationalism will replace wise journalism as the news lowers itself to meet consumer appetite. In order to keep up with their tabloid competitors, network news shows "stooped" to their level, and raced to appeal to public appetite over particular sponsorial agendas. The overriding agenda of the advertiser, after all, is to capture "eyeball-hours." The ratings of lower-quality tabloid television has begun to decline on their own, anyway, because the more fully staffed networks have adjusted their programming to suit an audience that demands the truth. And because we've gotten our fill of stories about neo-nazi youth.
 
 However horrific a Rush Limbaugh or Gordon Liddy's radio show may
 
