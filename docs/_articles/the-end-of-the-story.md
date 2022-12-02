@@ -59,21 +59,7 @@ Since the time of the Bible and Aristotle through today’s over-determined thre
 
 The traditional story influences its audiences by bringing them into a state of tension. The storyteller creates a character we like, and gets us to identify with the hero's plight. Then the character is put into jeopardy of one sort or another. As the character moves up the incline plane towards crisis, the audience follows him vicariously, while taking on his anxiety as their own. Helplessly we follow him into danger, disease, or divorce, and just when we can't take any more tension without bursting, our hero finds a way out. He finds a moral, a product, an agenda, or a strategy that rescues him, and us his audience, from the awful anxiety.
 
-The higher the level of tension the programmer has been able to create,
-
-the more preposterous the hero's critical twist can get. Shirley Maclaine is
-
-only granted a minor insight in "Terms of Endearment," while Arnold
-
-Schwarzenegger has the luxury of breathing on Mars in "Total Recall.” But
-
-whatever solution the character finds, the audience must swallow it, too.
-
-Along with it, we swallow the sponsor or filmmaker's agenda. This is what it
-
-means to “enter-tain” - literally "to hold within" -- and it only works on a
-
-captive audience.
+The higher the level of tension the programmer has been able to create, the more preposterous the hero's critical twist can get. Shirley Maclaine is only granted a minor insight in "Terms of Endearment," while Arnold Schwarzenegger has the luxury of breathing on Mars in "Total Recall.” But whatever solution the character finds, the audience must swallow it, too. Along with it, we swallow the sponsor or filmmaker's agenda. This is what it means to “enter-tain” - literally "to hold within" -- and it only works on a captive audience.
 
 In the old days of television, when character would walk into danger and
 
