@@ -55,19 +55,7 @@ However horrific a Rush Limbaugh or Gordon Liddy's radio show may get, it is mer
 
 We call the stuff on television programming for a reason. No, television programmers are not programming television sets or evening schedules; they're programming the viewers. Whether they are convincing us to buy a product, vote for a candidate, adopt an ideology, or simply confirm a moral platitude, the underlying reason for making television is to hold onto our attention and then sell us a bill of goods.
 
-latitude, the underlying reason for makin; i ply confirm a moral
-
-attention and then sell us a bill of goods. 8 television is to hold onto our
-
-since the time of the Bible and Aristotle through today’
-
-three-act action Movies, the best tool at the programnie's Plbee aadanie
-
-S$ dispos:
-
-the story. But, thanks to technologies like the lisposal has been
-
-mouse, it just doesn't work any more. remote, the joystick, and the
+Since the time of the Bible and Aristotle through today’s over-determined three-act action movies, the best tool at the programmer's disposal has been the story. But, thanks to technologies like the remote, the joystick, and the mouse, it just doesn't work any more. 
 
 The traditional story influences it i .
 
