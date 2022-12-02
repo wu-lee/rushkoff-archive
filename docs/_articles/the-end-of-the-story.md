@@ -57,23 +57,7 @@ We call the stuff on television programming for a reason. No, television program
 
 Since the time of the Bible and Aristotle through today’s over-determined three-act action movies, the best tool at the programmer's disposal has been the story. But, thanks to technologies like the remote, the joystick, and the mouse, it just doesn't work any more. 
 
-The traditional story influences it i .
-
-bate of ension The storsGiler eeeat . es Oy peg them into a
-
-identify with the hero's plight. Then the character is bi tah seas a, fe te
-
-sort OF anotne as the character moves up the incline plane towards crisis,
-
-the audience follows him vicariously, while taking on his anxiety as their
-
-own. Helplessly we follow him into danger, disease, or divorce, and just
-
-when we can't take any more tension without bursting, our hero finds a way
-
-out. He finds a moral, a product, an agenda, or a strategy that rescues him,
-
-and us his audience, from the awful anxiety.
+The traditional story influences its audiences by bringing them into a state of tension. The storyteller creates a character we like, and gets us to identify with the hero's plight. Then the character is put into jeopardy of one sort or another. As the character moves up the incline plane towards crisis, the audience follows him vicariously, while taking on his anxiety as their own. Helplessly we follow him into danger, disease, or divorce, and just when we can't take any more tension without bursting, our hero finds a way out. He finds a moral, a product, an agenda, or a strategy that rescues him, and us his audience, from the awful anxiety.
 
 The higher the level of tension the programmer has been able to create,
 
