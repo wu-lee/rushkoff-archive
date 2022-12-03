@@ -77,19 +77,13 @@ By calling this revolution in communication an "Information Age," traditional me
 
 The challenge for interactive media businesses was to convince users that "professional" content -- like games, databases, and web sites -- were more valuable and relevant than the chat rooms, community web sites, and USENET groups they had been enjoying for so long. This is when the Internet turned into the neon shopping mall currently known as the Web, where users simply point and click on images to buy stuff. Real stuff.
 
-3
-
-its capital in the ring only when its investors came to und
-
-media" as just another Way to say "old media."
+In its new, opaque and non-communicative incarnation, interactive media promised programmers the same sort of control and commerce abilities they had enjoyed with television. In came more investment dollars, as well as the blueprints for what will someday be known as digital TV. NASDAQ threw its capital in the ring only when its investors came to understand "new media" as just another way to say "old media."
 
 Socially responsible
 
 fledgling technology of
 
 than as a new means of
-
-erstand "new
 
 programmers, however, will choose to apply the
 
