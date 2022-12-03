@@ -63,49 +63,7 @@ The higher the level of tension the programmer has been able to create, the more
 
 In the old days of television, when character would walk into danger and take the audience up into uncomfortable anxiety, it would have taken at least 50 calories of human effort for the viewer to walk up to his TV set and change the channel dial. The viewer was trapped. As long as the programmer didn't raise the stakes too abruptly, the passive viewer would remain in his La-Z-boy and go along for the ride.
 
-The remote control changed @
-
-.0001 calories, the anxious viewer
-
-i that. With an expenditure of, perhaps,
-
-is liberated from tortuous imprisonment
-
-\- ed adult
-
-and free to watch another program. Although most well-behav
-
-i ced with remotes in their
-
-viewers will soldier on through a story, kids raised
-
-d zap away
-
-\-crafted story arcs, an
-
-without s sroments Oren hi ie ‘ 7 watching one program, they skim
-
-without a moment's hesitation. Instead 0
-
-f
-
-i
-
-f
-
-;
-
-‘
-
- 
-
-108 Digital ry
-
-through ten at a time. They don't watch TV, they watch the television
-
-8uiding their own paths through the entirety of media rather than following
-
-the prescribed course of any one programmer.
+The remote control changed all that. With an expenditure of, perhaps, .0001 calories, the anxious viewer is liberated from tortuous imprisonment and free to watch another program. Although most well-behaved adult viewers will soldier on through a story, kids raised with remotes in their hands have much less reverence for well-crafted story arcs, and zap away without a moment's hesitation. Instead of watching one program, they skim through ten at a time. They don't watch TV, they watch the television, guiding their own paths through the entirety of media rather than following the prescribed course of any one programmer.
 
 No matter how much we complain about our kids' short attention Spans
 
