@@ -61,17 +61,7 @@ The traditional story influences its audiences by bringing them into a state of 
 
 The higher the level of tension the programmer has been able to create, the more preposterous the hero's critical twist can get. Shirley Maclaine is only granted a minor insight in "Terms of Endearment," while Arnold Schwarzenegger has the luxury of breathing on Mars in "Total Recall.” But whatever solution the character finds, the audience must swallow it, too. Along with it, we swallow the sponsor or filmmaker's agenda. This is what it means to “enter-tain” - literally "to hold within" -- and it only works on a captive audience.
 
-In the old days of television, when character would walk into danger and
-
-take the audience up into uncomfortable anxiety, it would have taken at least
-
-50 calories of human effort for the viewer to walk up to . TV set ant
-
-change the channel dial. The viewer was trapped. As long Se in a
-
-didn't raise the stakes too abruptly, the passive viewer wou
-
-La-Z-boy and go along for the ride.
+In the old days of television, when character would walk into danger and take the audience up into uncomfortable anxiety, it would have taken at least 50 calories of human effort for the viewer to walk up to his TV set and change the channel dial. The viewer was trapped. As long as the programmer didn't raise the stakes too abruptly, the passive viewer would remain in his La-Z-boy and go along for the ride.
 
 The remote control changed @
 
