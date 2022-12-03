@@ -75,21 +75,7 @@ The reaction of media programmers has been to redefine what we think of as inter
 
 By calling this revolution in communication an "Information Age," traditional media practitioners restaked their claim to the digital terrain. They pushed us to exchange community for content -- content that could be bought and sold. In a communications medium, the people are the content. And communication between people is free. No one can make good money off it.
 
-The challenge for j
-
-"professional" content
-
-valuable and relevant
-
-Nteractive media businesses was to Convince users that
-
-\~- like games, databases, and web sites -. were more
-
-than the chat rooms, community web Sites, and
-
-had been enjoying for so long. This is when the
-
-neon shopping mall currently known as the Web
+The challenge for interactive media businesses was to convince users that "professional" content -- like games, databases, and web sites -- were more valuable and relevant than the chat rooms, community web sites, and USENET groups they had been enjoying for so long. This is when the Internet turned into the neon shopping mall currently known as the Web, where users simply point and click on images to buy stuff. Real stuff.
 
 3
 
