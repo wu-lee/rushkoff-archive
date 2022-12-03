@@ -71,35 +71,7 @@ The digital TV will be perceived more like a telephone than a television set. Li
 
 Psychologists and politicians mistake their ironic detachment for cultural apathy. It's not. They do care; they're just unwilling to take on some character's anxiety and then swallow his agendas or buy his products. Although digital media empowers this demographic tremendously, it also makes them behave and react less like the "target market" that advertisers are seeking to reach.
 
-The reaction of media programmers has been to redefine what we think
-
-of as interactivity. On the Internet, interactivity used to mean contact with
-
-other human beings. Millions flocked online for the sense of community it
-
-ing
-
-‘
-
-on Sy
-
-109
-
-offered. Most USers
-
-the screen thanks to
-
-unknown reach
-
-wherever they
-
-ad a good understanding of what was going on behind
-
-simple interfaces, and had little fear of exploring the
-
-s Of the datasphere, And they usually found friendly people
-
-ent.
+The reaction of media programmers has been to redefine what we think of as interactivity. On the Internet, interactivity used to mean contact with other human beings. Millions flocked online for the sense of community it offered. Most users had a good understanding of what was going on behind the screen thanks to simple interfaces, and had little fear of exploring the unknown reaches of the datasphere. And they usually found friendly people wherever they went.
 
 By calling this revolution in communication an "Infor
 
