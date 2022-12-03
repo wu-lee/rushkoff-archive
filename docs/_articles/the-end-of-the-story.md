@@ -81,19 +81,7 @@ In its new, opaque and non-communicative incarnation, interactive media promised
 
 Socially responsible programmers, however, will choose to apply the fledgling technology of digital television towards society's growth rather than as a new means of programming. We have already seen the success of deconstructional shows for traditional television, like The Simpsons and Beavis and Butthead, which give their young viewers quick lessons in media literacy. (Beavis and Butthead are armchair media theorists, deconstructing MTV videos and distancing their young audiences from the hypnotic imagery; The Simpsons are pure media satire, providing an exercise in pattern recognition and media history.) Such programs are both commercially successful and positively subversive to our consumerist society.
 
-What will be the digital television equivalents of Beavis and Butthead?
-
-We have yet to see. Whatever these experiences look like, they will have to
-
-offer viewers the Opportunity to participate with one another, rather than just
-
-With static content. Whether they take the form of network games, dense-
-
-screen chats, or user-controlled cameras and editing, shows for new media
-
-had better address the needs of a population hoping to orient itself to the
-
-digital terrain,
+What will be the digital television equivalents of Beavis and Butthead? We have yet to see. Whatever these experiences look like, they will have to offer viewers the opportunity to participate with one another, rather than just with static content. Whether they take the form of network games, dense-screen chats, or user-controlled cameras and editing, shows for new media had better address the needs of a population hoping to orient itself to the digital terrain.
 
 Digital Ty
 
