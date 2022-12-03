@@ -83,41 +83,9 @@ Socially responsible programmers, however, will choose to apply the fledgling te
 
 What will be the digital television equivalents of Beavis and Butthead? We have yet to see. Whatever these experiences look like, they will have to offer viewers the opportunity to participate with one another, rather than just with static content. Whether they take the form of network games, dense-screen chats, or user-controlled cameras and editing, shows for new media had better address the needs of a population hoping to orient itself to the digital terrain.
 
-Digital Ty
+**3. NOT JUST FOR KIDS**
 
-110
-
-3\. NOT JUST FOR KIDS
-
-ctive mediaspace as
-
-the kinds o chaos.
-
-1? And what will
-
-through the same
-
-ndergoing cultural
-
-wt in the intera
-
-Can rticipate 1
-
-adults train themselves to partic!P t least create
-
-effectively as children do? Or can they # "ne fo
-
-promoting television experiences that kids od hierarchies
-
-‘ j socia
-
-be the long term effects of dismantling If we are U
-
-. . . ; 9
-
-electronic devices that used to maintain them: y do we bring ourselves to
-
-transition -- a maturation, if you will -- then ho
+Can adults train themselves to participate in the interactive mediaspace as effectively as children do? Or can they at least create the kinds o chaos-promoting television experiences that kids are looking for? And what will be the long term effects of dismantling social hierarchies through the same electronic devices that used to maintain them? If we are undergoing cultural transition -- a maturation, if you will -- then how do we bring ourselves to the next stage of development as quickly and painlessly as possible?
 
 5 ible?
 
