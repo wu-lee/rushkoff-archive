@@ -79,31 +79,7 @@ The challenge for interactive media businesses was to convince users that "profe
 
 In its new, opaque and non-communicative incarnation, interactive media promised programmers the same sort of control and commerce abilities they had enjoyed with television. In came more investment dollars, as well as the blueprints for what will someday be known as digital TV. NASDAQ threw its capital in the ring only when its investors came to understand "new media" as just another way to say "old media."
 
-Socially responsible
-
-fledgling technology of
-
-than as a new means of
-
-programmers, however, will choose to apply the
-
-digital television towards society's growth rather
-
-programming. We have already seen the success of
-
-imagery; The Simpsons are pure media Satire, providin
-
-pattern recognition and media history.)
-
-commercially successful and
-
-society.
-
-g an exercise in
-
-Such programs are both
-
-positively subversive to our consumerist
+Socially responsible programmers, however, will choose to apply the fledgling technology of digital television towards society's growth rather than as a new means of programming. We have already seen the success of deconstructional shows for traditional television, like The Simpsons and Beavis and Butthead, which give their young viewers quick lessons in media literacy. (Beavis and Butthead are armchair media theorists, deconstructing MTV videos and distancing their young audiences from the hypnotic imagery; The Simpsons are pure media satire, providing an exercise in pattern recognition and media history.) Such programs are both commercially successful and positively subversive to our consumerist society.
 
 What will be the digital television equivalents of Beavis and Butthead?
 
