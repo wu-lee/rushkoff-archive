@@ -73,35 +73,13 @@ Psychologists and politicians mistake their ironic detachment for cultural apath
 
 The reaction of media programmers has been to redefine what we think of as interactivity. On the Internet, interactivity used to mean contact with other human beings. Millions flocked online for the sense of community it offered. Most users had a good understanding of what was going on behind the screen thanks to simple interfaces, and had little fear of exploring the unknown reaches of the datasphere. And they usually found friendly people wherever they went.
 
-By calling this revolution in communication an "Infor
-
-traditional media Practitioners restaked their claim to
-
-They pushed us to xchange community for content -- ¢
-
-bought and Sold. In a “ommunications medium, the pe
-
-And communicati
-
-on between people is free. No one
-
-off it.
+By calling this revolution in communication an "Information Age," traditional media practitioners restaked their claim to the digital terrain. They pushed us to exchange community for content -- content that could be bought and sold. In a communications medium, the people are the content. And communication between people is free. No one can make good money off it.
 
 The challenge for j
 
 "professional" content
 
 valuable and relevant
-
-mation Age,"
-
-the digital terrain.
-
-Oontent that could be
-
-ople are the content.
-
-an make good money
 
 Nteractive media businesses was to Convince users that
 
