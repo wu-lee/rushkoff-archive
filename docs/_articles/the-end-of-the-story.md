@@ -69,17 +69,7 @@ No matter how much we complain about our kids' short attention spans or even the
 
 The digital TV will be perceived more like a telephone than a television set. Like the computer, it will provoke a do-it-yourself attitude towards media and technology -- transforming the viewer's role from that of consumer to doer or even broadcaster. Such a person will be much less likely to accept the data fed to him, or respond favorably to the coercive techniques of marketers. A person who is doing rather than receiving is much less easily provoked into a state of tension. The people I call "screenagers," those raised with interactive devices in their media arsenals, are natives in a mediaspace where even the best television producers are immigrants. They speak the language better, and see through those clumsy attempts to program them into submission. They never forget for a moment that they are watching media, and resent those who try to draw them in and sell them something.
 
-Psychologists and politicians mistake their ironic detachment for cultural
-
-apathy. It's not. They do care; they're just unwilling to take on some
-
-character's anxiety and then swallow his agendas or buy his products.
-
-Although digital media empowers this demographic tremendously, it also
-
-makes them behave and react less like the "target market" that advertisers
-
-are seeking to reach.
+Psychologists and politicians mistake their ironic detachment for cultural apathy. It's not. They do care; they're just unwilling to take on some character's anxiety and then swallow his agendas or buy his products. Although digital media empowers this demographic tremendously, it also makes them behave and react less like the "target market" that advertisers are seeking to reach.
 
 The reaction of media programmers has been to redefine what we think
 
