@@ -65,41 +65,7 @@ In the old days of television, when character would walk into danger and take th
 
 The remote control changed all that. With an expenditure of, perhaps, .0001 calories, the anxious viewer is liberated from tortuous imprisonment and free to watch another program. Although most well-behaved adult viewers will soldier on through a story, kids raised with remotes in their hands have much less reverence for well-crafted story arcs, and zap away without a moment's hesitation. Instead of watching one program, they skim through ten at a time. They don't watch TV, they watch the television, guiding their own paths through the entirety of media rather than following the prescribed course of any one programmer.
 
-No matter how much we complain about our kids' short attention Spans
-
-Or even their Attention Deficit Disorder, their ability to disconnect from
-
-Programming has released them from the hypnotic spell of even the best Ty
-
-mesmerizers. The Nintendo joystick further empowers them While
-
-compounding the programmer's dilemma. In the old days, the TV image was
-
-unchangeable. Gospel truth Piped into the home from the top of some glass
-
-building. Today, kids have the experience of manipulating the image on the
-
-screen. This has fundamentally altered their perception of and reverence for
-
-the television image. Just as the remote control allows viewers to deconstruct
-
-the television image, the joystick has demystified the pixel itself. The
-
-newsreader is just another middle-aged man manipulating his Joystick.
-
-Hierarchy and authority are diminished, and the programmers' weapons
-
-neutralized. Finally, the computer mouse and keyboard transform the
-
-television into a monitor/transceiver. Children growing up in computer
-
-households do not see the television as an oracle or hearth but a portal
-
-through which they can communicate. Sure, they might sit back and watch a
-
-program now and again -- but they do so voluntarily, and with full
-
-knowledge of their complicity. It is not an involuntary surrender.
+No matter how much we complain about our kids' short attention spans or even their Attention Deficit Disorder, their ability to disconnect from programming has released them from the hypnotic spell of even the best TV mesmerizers. The Nintendo joystick further empowers them while compounding the programmer's dilemma. In the old days, the TV image was unchangeable. Gospel truth piped into the home from the top of some glass building. Today, kids have the experience of manipulating the image on the screen. This has fundamentally altered their perception of and reverence for the television image. Just as the remote control allows viewers to deconstruct the television image, the joystick has demystified the pixel itself. The newsreader is just another middle-aged man manipulating his joystick. Hierarchy and authority are diminished, and the programmers' weapons neutralized. Finally, the computer mouse and keyboard transform the television into a monitor/transceiver. Children growing up in computer households do not see the television as an oracle or hearth but a portal through which they can communicate. Sure, they might sit back and watch a program now and again -- but they do so voluntarily, and with full knowledge of their complicity. It is not an involuntary surrender.
 
 The digital TV will be perceived more like a telephone than a television
 
