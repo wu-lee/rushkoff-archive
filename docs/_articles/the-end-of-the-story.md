@@ -91,15 +91,7 @@ It is to be accomplished by understanding what a world without hierarchy looks l
 
 Consider the migration of arcade games from the real world to a virtual one. Pinball is a battle against gravity. After we whack the silver ball with the springed plunger, it's only a matter of time before it rolls back down the incline plane towards us. We stave off the inevitable with precise flipper flutters, but eventually the force of nature wins out and the ball rolls back down the shoot.
 
-Extra games, however delightful, are just booby prizes. Like the promise
-
-of reincarnation offered by the Hindus, which can't really be enjoyed
-
-because it's someone else who comes back, each new ball is like starting
-
-over, and only exacerbates the anxiety that this ride, too, is only temporary.
-
-Sooner or later, it's going down the chute.
+Extra games, however delightful, are just booby prizes. Like the promise of reincarnation offered by the Hindus, which can't really be enjoyed because it's someone else who comes back, each new ball is like starting over, and only exacerbates the anxiety that this ride, too, is only temporary. Sooner or later, it's going down the chute.
 
 The evolution of the video arcade games that replaced pinball was 4
 
