@@ -95,23 +95,9 @@ Extra games, however delightful, are just booby prizes. Like the promise of rein
 
 The evolution of the video arcade games that replaced pinball was a move away from gravity-based play and towards weightlessness. Think back to the first time you tried Pong, the original video game from the mid-1970's. The two white lines representing paddles and tiny white square representing the ball didn't move or feel like objects from the real world. There was no impact of the ball against the paddle. The ball hovered weightless as it traveled from one side of the screen to the other. The bottom of the screen wasn't really "down" nor was the top "up". No matter how much you moved your body in sympathy with the ball, only your fingers on the control knob had any effect. This difference in experience holds the key to understanding how to orient oneself to a weightless world.
 
- bls the Key to unnderstanche
+**3. NOT JUST FOR KIDS**
 
-3 NOT JUST FOR KIDS
-
-Can adults train themselves to participate in the interactive mediaspace as
-
-effectively as children do? Or can they at least create the kinds 0 chaos-
-
-promoting television experiences that kids are looking for? And what will
-
-be the long term effects of dismantling social hierarchies through the same
-
-electronic devices that used to maintain them? If we are undergoing cultural
-
-transition -- a maturation, if you will -- then how do we bring ourselves to
-
-the next stage of development as quickly and painlessly as possible?
+Can adults train themselves to participate in the interactive mediaspace as effectively as children do? Or can they at least create the kinds o chaos-promoting television experiences that kids are looking for? And what will be the long term effects of dismantling social hierarchies through the same electronic devices that used to maintain them? If we are undergoing cultural transition -- a maturation, if you will -- then how do we bring ourselves to the next stage of development as quickly and painlessly as possible?
 
 It is to be accomplished by understanding what a world without hierarchy
 
