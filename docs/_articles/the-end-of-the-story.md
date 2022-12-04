@@ -99,25 +99,7 @@ The evolution of the video arcade games that replaced pinball was a move away fr
 
 Can adults train themselves to participate in the interactive mediaspace as effectively as children do? Or can they at least create the kinds o chaos-promoting television experiences that kids are looking for? And what will be the long term effects of dismantling social hierarchies through the same electronic devices that used to maintain them? If we are undergoing cultural transition -- a maturation, if you will -- then how do we bring ourselves to the next stage of development as quickly and painlessly as possible?
 
-It is to be accomplished by understanding what a world without hierarchy
-
-looks like, and learning how to navigate it. The number of channels, voices,
-
-camcorders, and, finally, home computers and digital set-top boxes is fast
-
-bringing our mediaspace into a state of full turbulence. It is becoming fractal
-
-in nature, like a dynamical system. Our job is to look for the underlying
-
-patterns and natural, organic forms breathing within it. As media expands to
-
-encompass all of us as both content consumers and content providers, its
-
-intrinsic weightlessness becomes undeniable and even potentially liberating.
-
-As always, it's the kids who are best preparing themselves for this impending
-
-loss of gravity.
+It is to be accomplished by understanding what a world without hierarchy looks like, and learning how to navigate it. The number of channels, voices, camcorders, and, finally, home computers and digital set-top boxes is fast bringing our mediaspace into a state of full turbulence. It is becoming fractal in nature, like a dynamical system. Our job is to look for the underlying patterns and natural, organic forms breathing within it. As media expands to encompass all of us as both content consumers and content providers, its intrinsic weightlessness becomes undeniable and even potentially liberating. As always, it's the kids who are best preparing themselves for this impending loss of gravity.
 
 Consider the migration of arcade games from the real world to a virtual
 
