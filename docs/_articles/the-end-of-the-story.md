@@ -93,29 +93,9 @@ Consider the migration of arcade games from the real world to a virtual one. Pin
 
 Extra games, however delightful, are just booby prizes. Like the promise of reincarnation offered by the Hindus, which can't really be enjoyed because it's someone else who comes back, each new ball is like starting over, and only exacerbates the anxiety that this ride, too, is only temporary. Sooner or later, it's going down the chute.
 
-The evolution of the video arcade games that replaced pinball was 4
+The evolution of the video arcade games that replaced pinball was a move away from gravity-based play and towards weightlessness. Think back to the first time you tried Pong, the original video game from the mid-1970's. The two white lines representing paddles and tiny white square representing the ball didn't move or feel like objects from the real world. There was no impact of the ball against the paddle. The ball hovered weightless as it traveled from one side of the screen to the other. The bottom of the screen wasn't really "down" nor was the top "up". No matter how much you moved your body in sympathy with the ball, only your fingers on the control knob had any effect. This difference in experience holds the key to understanding how to orient oneself to a weightless world.
 
-move away from gravity-based play and towards weightlessness. Think back
-
-to the first time you tried Pong, the original video game from the mid-1970's.
-
-The two white lines representing paddles and tiny white square representing
-
-the ball didn't move or feel like objects from the real world. There was no
-
-impact of the ball against the paddle. The ball hovered weightless as it
-
-traveled from one side of the screen to the other. The bottom of the screen
-
-your body conn a te the top "up". No matter how much you moved
-
-ympatny with the ball, only your fingers on the control knob
-
-had any effect. This difference in experi ’
-
-perience hold din
-
-how to orient oneself to a weightless world. bls the Key to unnderstanche
+ bls the Key to unnderstanche
 
 3 NOT JUST FOR KIDS
 
