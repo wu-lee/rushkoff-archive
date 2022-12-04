@@ -89,19 +89,7 @@ Can adults train themselves to participate in the interactive mediaspace as effe
 
 It is to be accomplished by understanding what a world without hierarchy looks like, and learning how to navigate it The number of channels, voices, camcorders, and, finally, home computers and digital set-top boxes is fast bringing our mediaspace into a state of full turbulence. It is becoming fractal in nature, like a dynamical system. Our job is to look for the underlying patterns and natural, organic forms breathing within it. As media expands to encompass all of us as both content consumers and content providers, its intrinsic weightlessness becomes undeniable and even potentially liberating. As always, it's the kids who are best preparing themselves for this impending loss of gravity.
 
-Consider the migration of arcade games from the real world to a virtual
-
-fter we whack the silver ball with
-
-one. Pinball is a battle against gravity. A
-
-the springed plunger, it's only a matter of time before it rolls back down the
-
-incline plane towards us. We stave off the inevitable with precise flipper
-
-flutters, but eventually the force of nature wins out and the ball rolls back
-
-down the shoot.
+Consider the migration of arcade games from the real world to a virtual one. Pinball is a battle against gravity. After we whack the silver ball with the springed plunger, it's only a matter of time before it rolls back down the incline plane towards us. We stave off the inevitable with precise flipper flutters, but eventually the force of nature wins out and the ball rolls back down the shoot.
 
 Extra games, however delightful, are just booby prizes. Like the promise
 
