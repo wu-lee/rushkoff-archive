@@ -95,46 +95,6 @@ Extra games, however delightful, are just booby prizes. Like the promise of rein
 
 The evolution of the video arcade games that replaced pinball was a move away from gravity-based play and towards weightlessness. Think back to the first time you tried Pong, the original video game from the mid-1970's. The two white lines representing paddles and tiny white square representing the ball didn't move or feel like objects from the real world. There was no impact of the ball against the paddle. The ball hovered weightless as it traveled from one side of the screen to the other. The bottom of the screen wasn't really "down" nor was the top "up". No matter how much you moved your body in sympathy with the ball, only your fingers on the control knob had any effect. This difference in experience holds the key to understanding how to orient oneself to a weightless world.
 
-**3. NOT JUST FOR KIDS**
-
-Can adults train themselves to participate in the interactive mediaspace as effectively as children do? Or can they at least create the kinds o chaos-promoting television experiences that kids are looking for? And what will be the long term effects of dismantling social hierarchies through the same electronic devices that used to maintain them? If we are undergoing cultural transition -- a maturation, if you will -- then how do we bring ourselves to the next stage of development as quickly and painlessly as possible?
-
-It is to be accomplished by understanding what a world without hierarchy looks like, and learning how to navigate it. The number of channels, voices, camcorders, and, finally, home computers and digital set-top boxes is fast bringing our mediaspace into a state of full turbulence. It is becoming fractal in nature, like a dynamical system. Our job is to look for the underlying patterns and natural, organic forms breathing within it. As media expands to encompass all of us as both content consumers and content providers, its intrinsic weightlessness becomes undeniable and even potentially liberating. As always, it's the kids who are best preparing themselves for this impending loss of gravity.
-
-Consider the migration of arcade games from the real world to a virtual one. Pinball is a battle against gravity. After we whack the silver ball with the springed plunger, it's only a matter of time before it rolls back down the incline plane towards us. We stave off the inevitable with precise flipper flutters, but eventually the force of nature wins out and the ball rolls back down the shoot.
-
-Extra games, however delightful, are just booby prizes. Like the promise
-
-of reincarnation offered by the Hindus, which can't really be enjoyed
-
-because it's someone else who comes back, each new ball is like starting
-
-over, and only exacerbates the anxiety that this ride, too, is only temporary.
-
-Sooner or later, it's going down the chute.
-
-The evolution of the video arcade games that replaced pinball was a
-
-move away from gravity-based play and towards weightlessness. Think back
-
-to the first time you tried Pong, the original video game from the mid-1970's.
-
-The two white lines representing paddles and tiny white square representing
-
-the ball didn't move or feel like objects from the real world. There was no
-
-impact of the ball against the paddle. The ball hovered weightless as it
-
-traveled from one side of the screen to the other. The bottom of the screen
-
-wasn't really "down" nor was the top "up". No matter how much you moved
-
-your body in sympathy with the ball, only your fingers on the control knob
-
-had any effect. This difference in experience holds the key to understanding
-
-how to orient oneself to a weightless world.
-
 Hi
 
 . new t ;
