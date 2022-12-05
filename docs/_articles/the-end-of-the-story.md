@@ -131,17 +131,7 @@ Thanks to their experience with video games, kids have a fundamentally different
 
 While their parents sit in the living room passively absorbing network programming, the kids are down in the playroom zapping the Sega aliens on their own TV screen. The parents' underlying appetite is for easy entertainment or, at best, prepackaged information. The screenager sees how the entire mediaspace is a cooperative dream, made up of the combined projections of everyone who takes part.
 
-Today, Dan Rather and Geraldo Rivera have a bit more of a say in what
-
-that dream looks like than most of us, but even this is changing as more
-
-people get online and begin uploading their own text, images, and video.
-
-The difference between the Sega kid and Dan Rather is that while the non-
-
-networked video gamer is involved in an essentially masturbatory act,
-
-Rather is communicating and interacting with other people.
+Today, Dan Rather and Geraldo Rivera have a bit more of a say in what that dream looks like than most of us, but even this is changing as more people get online and begin uploading their own text, images, and video. The difference between the Sega kid and Dan Rather is that while the non-networked video gamer is involved in an essentially masturbatory act, Rather is communicating and interacting with other people.
 
 Still, like any masturbator, the Sega kid is learning how to use his
 
