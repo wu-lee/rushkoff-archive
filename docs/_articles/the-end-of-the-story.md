@@ -147,29 +147,7 @@ The realm of computer networks is a created world, built upon an intentionally o
 
 It is as if going online somehow opens a person to a more chaotic sensibility. 50-year-old businessmen get into conversations about Carl Jung with teenagers whose dreadlocks and piercings would repulse them in the Street. New kinds of forums have arisen to give people a chance to interaction more dreamlike ways. Multi-User Dimensions (MUDS) allow users to engage in text-based fantasy games with strangers from around the world. Physically, it's as safe as writing an email letter; psychologically, well, it's as depraved as the participants want it to get.
 
-t the computer medium is not just for
-
-participating, an entirely new set
-
-At the moment we realize mn *
-
-i i
-
-reading and consuming, but for ene Parva 10 $8 0 Sad a
-
-of responsibilities confronts us: vive on the vonsensual hallucination?
-
-i words and actions
-
-a ae the hierarchically structured caine a eee te ae
-
-file-sharing systems (ftp. USENET, gopher) are -_ Cet | aaa own
-
-freefe tyle Internet browsers, that encourage users ms
-
-reeform-sty uter networks.
-
-ndom paths through the world of comp twor!
+At the moment we realize that the computer medium is not just for reading and consuming, but for posting and participating, an entirely new set of responsibilities confronts us: what do we want to say and do, and what affect our words  and actions have on the consensual hallucination? Slowly but surely, the hierarchically structured databases, newsgroups, and file-sharing systems (ftp, USENET, gopher) are giving way to more freeform-style Internet browsers, that encourage users to chart their own, almost random paths through the world of computer networks.
 
 ee wa Wide Web lets people participate online in a manner much
 
