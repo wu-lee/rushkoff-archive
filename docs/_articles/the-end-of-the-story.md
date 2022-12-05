@@ -145,39 +145,11 @@ Imagine if you were told you could choose exactly what you were going to dream. 
 
 The realm of computer networks is a created world, built upon an intentionally organic, anarchy-inspiring skeleton. No computer means more than any other, and only the weightless can pass between them. As more people got involved in the shared reality of the Internet, its practical application gave way to pure pleasure. Participants created bulletin boards and conferences dedicated to extremely personal, intensely spiritual, and highly philosophical subjects.
 
-It is as if going online somehow opens a person to a more chaotic
-
-sensibility. 50-year-old businessmen get into conversations about Carl Jung
-
-with teenagers whose dreadlocks and piercings would repulse them in the
-
-Street. New kinds of forums have arisen to give people a chance to
-
-interaction more dreamlike ways. Multi-User Dimensions (MUDS) allow
-
-users to engage in text-based fantasy games with strangers from around the
-
- 
-
- 
-
-Digital Ty
-
-: .
-
-psychological ly,
-
-s writing an email letter;
-
-ants want it to get. ; ;
+It is as if going online somehow opens a person to a more chaotic sensibility. 50-year-old businessmen get into conversations about Carl Jung with teenagers whose dreadlocks and piercings would repulse them in the Street. New kinds of forums have arisen to give people a chance to interaction more dreamlike ways. Multi-User Dimensions (MUDS) allow users to engage in text-based fantasy games with strangers from around the world. Physically, it's as safe as writing an email letter; psychologically, well, it's as depraved as the participants want it to get.
 
 t the computer medium is not just for
 
 participating, an entirely new set
-
-world. Physically, it's as safe a
-
-well, it's as depraved as the particip
 
 At the moment we realize mn *
 
