@@ -143,19 +143,7 @@ But the promise of cyberspatial orientation is of little consolation to worried 
 
 Imagine if you were told you could choose exactly what you were going to dream. (You'd probably choose sex or violence, at first.) The promise of cyberspace is the same. This is why, back in 1984, William Gibson imagined the "net" as a consensual hallucination. Our media is our shared and weightless collective psyche. No wonder it evolves towards chaos.
 
-The realm of computer networks is a created world, built upon an
-
-intentionally organic, anarchy-inspiring skeleton. No computer means more
-
-than any other, and only the weightless can pass between them. As more
-
-people got involved in the shared reality of the Internet, its practical
-
-application gave way to pure pleasure. Participants created bulletin boards
-
-and conferences dedicated to extremely personal, intensely spiritual, and
-
-highly philosophical subjects. ;
+The realm of computer networks is a created world, built upon an intentionally organic, anarchy-inspiring skeleton. No computer means more than any other, and only the weightless can pass between them. As more people got involved in the shared reality of the Internet, its practical application gave way to pure pleasure. Participants created bulletin boards and conferences dedicated to extremely personal, intensely spiritual, and highly philosophical subjects.
 
 It is as if going online somehow opens a person to a more chaotic
 
