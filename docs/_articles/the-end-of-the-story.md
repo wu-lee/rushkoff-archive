@@ -115,27 +115,7 @@ The unique opportunity offered by a mediated dreamspace is that we all experienc
 
 Most video game consoles come equipped with modem plugs, so that players can find opponents or co-combatants anywhere in the world. Kids will wander through the corridors of Doom together, teaming up against the monsters. Most computer "quest" games also have networking capabilities, so that four or more players can work together or against one another over the Internet. It is as if video games comprise a technologically realized collective unconscious. A shared dream. Unlike most computer games, though, in the act of dreaming, the dreamer gets to create the world he inhabits. The level of violence and passivity is wholly determined by the dreamer's own mind.
 
-Maybe this is why the latest and fastest-growing segment of the computer
-
-game market is simulation games, or what we can call the "God" archetype.
-
-In these games, the player develops and controls some sort of world, and
-
-makes decisions about what kind of world it is going to be. One of the first
-
-popular games of this type was called Balance of Power (late-1980's), where
-
-the player acts as the Chief-of-State of the United States or Soviet Union,
-
-and attempts to avert nuclear war without compromising the interests of his
-
-nation. The game is programmed so that the more violent or aggressive the
-
-player gets, the more violent the rest of the world becomes. The game looks
-
-like a map of the world, and players click on countries or use menus to take
-
-actions.
+Maybe this is why the latest and fastest-growing segment of the computer game market is simulation games, or what we can call the "God" archetype. In these games, the player develops and controls some sort of world, and makes decisions about what kind of world it is going to be. One of the first popular games of this type was called Balance of Power (late-1980's), where the player acts as the Chief-of-State of the United States or Soviet Union, and attempts to avert nuclear war without compromising the interests of his nation. The game is programmed so that the more violent or aggressive the player gets, the more violent the rest of the world becomes. The game looks like a map of the world, and players click on countries or use menus to take actions.
 
 The next and most popular variety of this archetype so far is Sim City
 
