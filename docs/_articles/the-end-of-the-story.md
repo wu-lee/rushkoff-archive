@@ -109,17 +109,7 @@ In each case of an archetype's development, the games progress from objectified 
 
 In video games, the central conflicts and universes remain the same over time: our world is being attacked, I am in a struggle against another individual, or I must accomplish my quest. These are the same structures underlying dreams. But if a person goes to a psychiatrist because he is having problems in life, does the doctor try to change the patient's dreams? No. He gets the patient to remember more about them, or even dream consciously in the form of guided visualization. Dream deprivation studies have shown that if a person is not allowed to dream, he will develop psychotic delusions -- hallucinations in waking consciousness.
 
-The same is true for cultures. If we deny ourselves or repress our cultural
-
-dreams as they express themselves in our media, we will experience cultural
-
-hallucinations like paranoia, magical thinking, UFO abductions, and more.
-
-We should not try to change our world by changing or eliminating our
-
-dreams, but we can look to our dreams for answers about why we do what
-
-we do in real life.
+The same is true for cultures. If we deny ourselves or repress our cultural dreams as they express themselves in our media, we will experience cultural hallucinations like paranoia, magical thinking, UFO abductions, and more. We should not try to change our world by changing or eliminating our dreams, but we can look to our dreams for answers about why we do what we do in real life.
 
 The unique opportunity offered by a mediated dreamspace is that we all
 
