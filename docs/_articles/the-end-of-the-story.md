@@ -95,43 +95,7 @@ Extra games, however delightful, are just booby prizes. Like the promise of rein
 
 The evolution of the video arcade games that replaced pinball was a move away from gravity-based play and towards weightlessness. Think back to the first time you tried Pong, the original video game from the mid-1970's. The two white lines representing paddles and tiny white square representing the ball didn't move or feel like objects from the real world. There was no impact of the ball against the paddle. The ball hovered weightless as it traveled from one side of the screen to the other. The bottom of the screen wasn't really "down" nor was the top "up". No matter how much you moved your body in sympathy with the ball, only your fingers on the control knob had any effect. This difference in experience holds the key to understanding how to orient oneself to a weightless world.
 
-Hi
-
-. new t ;
-
-\- et, tic gro €chnologie
-
-computer chips, imaging techniques and ee Bles. It was
-
-° ICs cards,
-
-technology arrived, game developers w very ti
-
-0 Ty time
-
-gameplay around that new hardware. The aetefine the a new
-
-television is implemented. The architecture will 1 will be t
-
-successive leap in video game development he the de
-
-technology and the underlying nature within it Even e
-
-passes without a technological innovation, the games c if t
-
-on a particular platform before a ne ‘ an only develop so far
-
-medium. Each new platform, whether it j ;
-
-. . , S Super Nintendo or §
-
-"i " : eC
-
-comes equipped with a "killer app’ -- a piece of software (the ere eras
-
-or disk) that makes use of the new hardware, and can't be played nee
-
-primitive machines. Played on more
+Equally important, the direction of the developing video game culture and aesthetic indicates what we can expect as our mass media and culture at large follow their digital lead. The advancement of video games over the past three decades was based on the emergence of new technologies. It was less a consciously directed artistic growth than a race to utilize new computer chips, imaging techniques, and graphics cards. Every time a new technology arrived, game developers would redefine the essence of their gameplay around that new hardware. The same will be true when digital television is implemented. The architecture will lead the developers. At each successive leap in video game development, then, there is a return to technology and the underlying nature within it. Even if two or three years passes without a technological innovation, the games can only develop so far on a particular platform before a new once is introduced that redefines the medium. Each new platform, whether it is Super Nintendo or Sega Saturn, comes equipped with a "killer app" -- a piece of software (the game cartridge or disk) that makes use of the new hardware, and can't be played on more primitive machines.
 
 The frighteningly Tevolutionary aspect of the Doom games, no matter
 
