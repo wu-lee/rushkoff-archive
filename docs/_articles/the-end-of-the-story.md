@@ -133,19 +133,7 @@ While their parents sit in the living room passively absorbing network programmi
 
 Today, Dan Rather and Geraldo Rivera have a bit more of a say in what that dream looks like than most of us, but even this is changing as more people get online and begin uploading their own text, images, and video. The difference between the Sega kid and Dan Rather is that while the non-networked video gamer is involved in an essentially masturbatory act, Rather is communicating and interacting with other people.
 
-Still, like any masturbator, the Sega kid is learning how to use his
-
-equipment. He orients himself to the television screen as a racecar driver to
-
-his windshield. The games he plays are simulated drives through the very
-
-wee. Otory tid
-
-real da Lo.
-
-tthe 13 networks he will access later on with his computer and modem or,
-
-M ak Slopers of DTV permit it, through the television itself,
+Still, like any masturbator, the Sega kid is learning how to use his equipment. He orients himself to the television screen as a racecar driver to his windshield. The games he plays are simulated drives through the very real data networks he will access later on with his computer and modem or, if the developers of DTV permit it, through the television itself.
 
 nai. “ oe indicates that screenagers are migrating from their game
 
