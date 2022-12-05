@@ -101,49 +101,11 @@ The frighteningly revolutionary aspect of the Doom games, no matter what the pun
 
 The effort by concerned parents and politicians to make video games less apparently violent is earnest but misguided, because they do not understand the underlying reasons for these games’ increasing realism. Social scientists, like Leonard Eron, have sought to demonstrate a causative link between television or video game violence and aggressive behavior in children. Unfortunately, these scientists do not follow the same stringent methodology of real ones. For example, one study shows that kids who are called into the principal's office for aggressive behavior are more likely to say that The Power Rangers is one of their favorite shows than kids who haven't been caught in violent behavior. That is not the demonstration of a causative link. It's akin to saying that because a higher proportion of African-Americans frequent Kentucky Fried Chicken than white-Americans, eating fried chicken will make a person turn black.
 
-A world in which toy guns must be colored fluore
-
-toy guns. T
-
-d reponderance of
-
-angerous because of the prep at we can no longe
-
-dangerous in a world so violent th
-
-scent green is not so
-
-oy weapons are only
-
-r tell the difference
-
-Digital Tv
-
-112
-
-the repression of fictional
-
-lear differences between
-
-d to the actual violence
-
-e real ones. If anything,
-
-fusion of adults over the c
-
-dy murder are what lea
-
-ts those kids become.
-
-between them and th
-
-violence and the con
-
-ritualized play and bloo
+A world in which toy guns must be colored fluorescent green is not so dangerous because of the preponderance of toy guns. Toy weapons are only dangerous in a world so violent that we can no longer tell the difference between them and the real ones. If anything, the repression of fictional violence and the confusion of adults over the clear differences between ritualized play and bloody murder are what lead to the actual violence committed by kids and the adults those kids become.
 
 ; kids and the adul seh te
 
-committed by kids and the violence associated with it is revealed
+ violence associated with it is revealed
 
 urpose of pla
 
