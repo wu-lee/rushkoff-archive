@@ -125,19 +125,9 @@ So the dream our kids want to dream is a collective one. Through technologies th
 
 Fully evolved media play, then, is total immersion in a world from within a participant's point of view, where the world itself reflects the values and actions of the player and his community members. Hierarchy is replaced with a weightless working out of largely unconscious preoccupations.
 
-4, DUELING JOYSTICKS
+**4. DUELING JOYSTICKS**
 
-Thanks to their experience with video games, kids have a fundamentally
-
-different appreciation of the television image than their parents. They know
-
-it's up for grabs. This will make them both better equipped to take advantage
-
-of the interactivity and group activity that digital television will offer; but it
-
-will also make them more resistant to those who attempt to use this new
-
-media for marketing and other forms of propaganda.
+Thanks to their experience with video games, kids have a fundamentally different appreciation of the television image than their parents. They know it's up for grabs. This will make them both better equipped to take advantage of the interactivity and group activity that digital television will offer; but it will also make them more resistant to those who attempt to use this new media for marketing and other forms of propaganda.
 
 While their parents sit in the living room passively absorbing network
 
