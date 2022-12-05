@@ -103,25 +103,7 @@ The effort by concerned parents and politicians to make video games less apparen
 
 A world in which toy guns must be colored fluorescent green is not so dangerous because of the preponderance of toy guns. Toy weapons are only dangerous in a world so violent that we can no longer tell the difference between them and the real ones. If anything, the repression of fictional violence and the confusion of adults over the clear differences between ritualized play and bloody murder are what lead to the actual violence committed by kids and the adults those kids become.
 
-; kids and the adul seh te
-
- violence associated with it is revealed
-
-urpose of pla
-
-hot c examine the natural direction that video games have been allowed
-
-to evolve over the past few decades. There are startlingly few examples left
-
-of unfettered evolutionary activity in modern culture, but video and
-
-computer games, because they developed along the same natural
-
-evolutionary path as technology in a reverse-engineering similar to that of
-
-Animé and Gundam cartoons, show us the more organic impulses beneath
-
-the surface of mediated play.
+The true purpose of play and the violence associated with it is revealed when we examine the natural direction that video games have been allowed to evolve over the past few decades. There are startlingly few examples left of unfettered evolutionary activity in modern culture, but video and computer games, because they developed along the same natural evolutionary path as technology in a reverse-engineering similar to that of Animé and Gundam cartoons, show us the more organic impulses beneath the surface of mediated play.
 
 In each case of an archetype's development, the games progress from
 
