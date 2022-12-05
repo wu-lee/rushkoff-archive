@@ -135,23 +135,7 @@ Today, Dan Rather and Geraldo Rivera have a bit more of a say in what that dream
 
 Still, like any masturbator, the Sega kid is learning how to use his equipment. He orients himself to the television screen as a racecar driver to his windshield. The games he plays are simulated drives through the very real data networks he will access later on with his computer and modem or, if the developers of DTV permit it, through the television itself.
 
-nai. “ oe indicates that screenagers are migrating from their game
-
-' © legitimate personal computers in droves. "I stopped wast;
-
-time on video Perso P pped wasting my
-
-. games and started wasting it on the Internet,” one
-
-appropriately cynical fourteen-year-old boy told Upside, a technology
-
-industry magazine, According to its article about the possible decline of
-
-video ame consoles, a marketing survey conducted in 1995 indicated that
-
-kids overwhelmingly prefer PC's to game consoles as a platform for
-
-entertainment.
+Market research indicates that screenagers are migrating from their game machines to legitimate personal computers in droves. "I stopped wasting my time on video games and started wasting it on the Internet,” one appropriately cynical fourteen-year-old boy told Upside, a technology industry magazine. According to its article about the possible decline of video game consoles, a marketing survey conducted in 1995 indicated that kids overwhelmingly prefer PC's to game consoles as a platform for entertainment.
 
 Further, Psychologists have noticed an improvement in intellectual
 
