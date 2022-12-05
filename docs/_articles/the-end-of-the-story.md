@@ -111,27 +111,7 @@ In video games, the central conflicts and universes remain the same over time: o
 
 The same is true for cultures. If we deny ourselves or repress our cultural dreams as they express themselves in our media, we will experience cultural hallucinations like paranoia, magical thinking, UFO abductions, and more. We should not try to change our world by changing or eliminating our dreams, but we can look to our dreams for answers about why we do what we do in real life.
 
-The unique opportunity offered by a mediated dreamspace is that we all
-
-experience the same dreams together. A particular game becomes popular
-
- 
-
-— so ee
-
-7\. The End of the Story .
-
-because it offers a dream in which many kids wish to participate. Should we
-
-fill a child with shame because he has a violent dream? Of course not. Nor
-
-should we condemn them or ourselves for participating in violent gameplay
-
-in the weightless realm. Unlike boxing, no one really gets hurt. In mediated
-
-play, like no other, we can push ourselves into ultraviolent, physically
-
-impossible acts of aggression, and everyone can live to tell the tale.
+The unique opportunity offered by a mediated dreamspace is that we all experience the same dreams together. A particular game becomes popular because it offers a dream in which many kids wish to participate. Should we fill a child with shame because he has a violent dream? Of course not. Nor should we condemn them or ourselves for participating in violent gameplay in the weightless realm. Unlike boxing, no one really gets hurt. In mediated play, like no other, we can push ourselves into ultraviolent, physically impossible acts of aggression, and everyone can live to tell the tale.
 
 Most video game consoles come equipped with modem plugs, so that
 
