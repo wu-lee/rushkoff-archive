@@ -129,17 +129,7 @@ Fully evolved media play, then, is total immersion in a world from within a part
 
 Thanks to their experience with video games, kids have a fundamentally different appreciation of the television image than their parents. They know it's up for grabs. This will make them both better equipped to take advantage of the interactivity and group activity that digital television will offer; but it will also make them more resistant to those who attempt to use this new media for marketing and other forms of propaganda.
 
-While their parents sit in the living room passively absorbing network
-
-programming, the kids are down in the playroom zapping the Sega aliens on
-
-their own TV screen. The parents' underlying appetite is for easy
-
-entertainment or, at best, prepackaged information. The screenager sees how
-
-the entire mediaspace is a cooperative dream, made up of the combined
-
-projections of everyone who takes part.
+While their parents sit in the living room passively absorbing network programming, the kids are down in the playroom zapping the Sega aliens on their own TV screen. The parents' underlying appetite is for easy entertainment or, at best, prepackaged information. The screenager sees how the entire mediaspace is a cooperative dream, made up of the combined projections of everyone who takes part.
 
 Today, Dan Rather and Geraldo Rivera have a bit more of a say in what
 
