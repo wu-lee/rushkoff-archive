@@ -141,15 +141,7 @@ Further, psychologists have noticed an improvement in intellectual abilities -- 
 
 But the promise of cyberspatial orientation is of little consolation to worried parents. The endless hype and panic over cyberspace, cybersex, or anything with the prefix "cyber" is a bit tiresome, but only natural. We are beginning to participate directly in something we've until now only experienced as programming from above.
 
-Imagine if you were told you could choose exactly what you were going
-
-to dream. (You'd probably choose sex or violence, at first.) The promise of
-
-cyberspace is the same. This is why, back in 1984, William Gibson imagined
-
-the "net" as a consensual hallucination. Our media is our shared and
-
-weightless collective psyche. No wonder it evolves towards chaos.
+Imagine if you were told you could choose exactly what you were going to dream. (You'd probably choose sex or violence, at first.) The promise of cyberspace is the same. This is why, back in 1984, William Gibson imagined the "net" as a consensual hallucination. Our media is our shared and weightless collective psyche. No wonder it evolves towards chaos.
 
 The realm of computer networks is a created world, built upon an
 
