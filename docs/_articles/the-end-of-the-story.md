@@ -137,19 +137,7 @@ Still, like any masturbator, the Sega kid is learning how to use his equipment. 
 
 Market research indicates that screenagers are migrating from their game machines to legitimate personal computers in droves. "I stopped wasting my time on video games and started wasting it on the Internet,” one appropriately cynical fourteen-year-old boy told Upside, a technology industry magazine. According to its article about the possible decline of video game consoles, a marketing survey conducted in 1995 indicated that kids overwhelmingly prefer PC's to game consoles as a platform for entertainment.
 
-Further, Psychologists have noticed an improvement in intellectual
-
-abilities -- problem-solving, creativity, visual and spatial conceptualization --
-
-among college students who play video games regularly. Researchers at
-
-New York University Medical Center use video games to improve hand-eye
-
-coordination in recovering stroke victims, and most computer training
-
-specialists use video games as a teaching tool for adults and children alike. If
-
-nothing else, they serve as excellent flight simulators for cyberspace.
+Further, psychologists have noticed an improvement in intellectual abilities -- problem-solving, creativity, visual and spatial conceptualization -- among college students who play video games regularly. Researchers at New York University Medical Center use video games to improve hand-eye coordination in recovering stroke victims, and most computer training specialists use video games as a teaching tool for adults and children alike. If nothing else, they serve as excellent flight simulators for cyberspace.
 
 But the promise of cyberspatial orientation is of little consolation to
 
