@@ -119,39 +119,7 @@ Maybe this is why the latest and fastest-growing segment of the computer game ma
 
 The next and most popular variety of this archetype so far is Sim City (first developed in 1987). Rather than taking charge of a world already in progress, the player starts from scratch, bulldozing terrain and placing roads, power plants, homes, and industry. He watches as cars fill the streets and a population inhabits his town. If he does a good job, his popularity and tax-base remain high. He can grow his town into a city and even build an airport or stadium. The object of the game is not to "win," but to develop a sustainable society.
 
-Although the original version of Sim City uses icons and is viewed from
-
-above, newer versions allow the player to experience his city on almost any
-
-level. He can go to the street and hear comments of his citizens, or up to the
-
-sky to see the traffic patterns. This fractal approach to the God game seems
-
-designed to demonstrate the fact that tiniest of interactions reflect the largest
-
-concerns. For networkers, a giant God game called Civilization (1991)
-
-os’
-
-Digital Ty
-
-l14
-
-allows players to pick and develop a civilization as it evolves from tiny
-
-tribes to modern nation states and beyond. The players are in competition
-
-with one another for continents and power, but whoever manages to survive
-
-through the modern era, gets to cooperate in the construction of a spacecraft
-
-that moves humanity off the planet. Civilization is shared world-building,
-
-and thus shared dream-construction. Each player has a say, but the world of
-
-the game is determined by the consensus of the whole group as expressed in
-
-their actions. . .
+Although the original version of Sim City uses icons and is viewed from above, newer versions allow the player to experience his city on almost any level. He can go to the street and hear comments of his citizens, or up to the sky to see the traffic patterns. This fractal approach to the God game seems designed to demonstrate the fact that tiniest of interactions reflect the largest concerns. For networkers, a giant God game called Civilization (1991) allows players to pick and develop a civilization as it evolves from tiny tribes to modern nation states and beyond. The players are in competition with one another for continents and power, but whoever manages to survive through the modern era, gets to cooperate in the construction of a spacecraft that moves humanity off the planet. Civilization is shared world-building, and thus shared dream-construction. Each player has a say, but the world of the game is determined by the consensus of the whole group as expressed in their actions.
 
 So the dream our kids want to dream is a collective one. Through
 
