@@ -113,25 +113,7 @@ The same is true for cultures. If we deny ourselves or repress our cultural drea
 
 The unique opportunity offered by a mediated dreamspace is that we all experience the same dreams together. A particular game becomes popular because it offers a dream in which many kids wish to participate. Should we fill a child with shame because he has a violent dream? Of course not. Nor should we condemn them or ourselves for participating in violent gameplay in the weightless realm. Unlike boxing, no one really gets hurt. In mediated play, like no other, we can push ourselves into ultraviolent, physically impossible acts of aggression, and everyone can live to tell the tale.
 
-Most video game consoles come equipped with modem plugs, so that
-
-players can find opponents or co-combatants anywhere in the world. Kids
-
-will wander through the corridors of Doom together, teaming up against the
-
-monsters. Most computer "quest" games also have networking capabilities,
-
-so that four or more players can work together or against one another over
-
-the Internet. It is as if video games comprise a technologically realized
-
-collective unconscious. A shared dream. Unlike most computer games,
-
-though, in the act of dreaming, the dreamer gets to create the world he
-
-inhabits. The level of violence and passivity is wholly determined by the
-
-dreamer's own mind.
+Most video game consoles come equipped with modem plugs, so that players can find opponents or co-combatants anywhere in the world. Kids will wander through the corridors of Doom together, teaming up against the monsters. Most computer "quest" games also have networking capabilities, so that four or more players can work together or against one another over the Internet. It is as if video games comprise a technologically realized collective unconscious. A shared dream. Unlike most computer games, though, in the act of dreaming, the dreamer gets to create the world he inhabits. The level of violence and passivity is wholly determined by the dreamer's own mind.
 
 Maybe this is why the latest and fastest-growing segment of the computer
 
