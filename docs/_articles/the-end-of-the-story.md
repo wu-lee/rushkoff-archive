@@ -105,33 +105,7 @@ A world in which toy guns must be colored fluorescent green is not so dangerous 
 
 The true purpose of play and the violence associated with it is revealed when we examine the natural direction that video games have been allowed to evolve over the past few decades. There are startlingly few examples left of unfettered evolutionary activity in modern culture, but video and computer games, because they developed along the same natural evolutionary path as technology in a reverse-engineering similar to that of Animé and Gundam cartoons, show us the more organic impulses beneath the surface of mediated play.
 
-In each case of an archetype's development, the games progress from
-
-gly participatory ones. They turn from
-
-objectified viewpoints to increasin
-
-stories told or observed into stories experienced. video games, like most
-
-fictional media, are an imitation of dream space. The world is generated, on
-
-the fly, by the game console as we move through it. In some games, you can
-
-even see the scenery being rendered as you move towards it. But, like
-
-dreams, they are from a weightless reality. A real ball never descends an
-
-incline plane, nor does a real Nazi ever hit the ground. As our tolerance for
-
-the reality of dream-death increases, we can accept more and more realistic
-
-and riveting portrayals of violent events. This doesn't make the many closer
-
-to flesh wounds -- only more consciously experienced catharsis. As Jung
-
-would tell us, the archetypal struggles in dreams remain the same, even if the
-
-symbolism changes from era to era and culture to culture.
+In each case of an archetype's development, the games progress from objectified viewpoints to increasingly participatory ones. They turn from stories told or observed into stories experienced. video games, like most fictional media, are an imitation of dream space. The world is generated, on the fly, by the game console as we move through it. In some games, you can even see the scenery being rendered as you move towards it. But, like dreams, they are from a weightless reality. A real ball never descends an incline plane, nor does a real Nazi ever hit the ground. As our tolerance for the reality of dream-death increases, we can accept more and more realistic and riveting portrayals of violent events. This doesn't make the many closer to flesh wounds -- only more consciously experienced catharsis. As Jung would tell us, the archetypal struggles in dreams remain the same, even if the symbolism changes from era to era and culture to culture.
 
 In video games, the central conflicts and universes remain the same over
 
