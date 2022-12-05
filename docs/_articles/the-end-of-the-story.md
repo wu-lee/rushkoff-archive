@@ -139,15 +139,7 @@ Market research indicates that screenagers are migrating from their game machine
 
 Further, psychologists have noticed an improvement in intellectual abilities -- problem-solving, creativity, visual and spatial conceptualization -- among college students who play video games regularly. Researchers at New York University Medical Center use video games to improve hand-eye coordination in recovering stroke victims, and most computer training specialists use video games as a teaching tool for adults and children alike. If nothing else, they serve as excellent flight simulators for cyberspace.
 
-But the promise of cyberspatial orientation is of little consolation to
-
-worried parents. The endless hype and panic over cyberspace, cybersex, or
-
-anything with the prefix "cyber" is a bit tiresome, but only natural. We are
-
-beginning to participate directly in something we've until now only
-
-experienced as programming from above.
+But the promise of cyberspatial orientation is of little consolation to worried parents. The endless hype and panic over cyberspace, cybersex, or anything with the prefix "cyber" is a bit tiresome, but only natural. We are beginning to participate directly in something we've until now only experienced as programming from above.
 
 Imagine if you were told you could choose exactly what you were going
 
