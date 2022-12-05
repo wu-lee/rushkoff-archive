@@ -117,21 +117,7 @@ Most video game consoles come equipped with modem plugs, so that players can fin
 
 Maybe this is why the latest and fastest-growing segment of the computer game market is simulation games, or what we can call the "God" archetype. In these games, the player develops and controls some sort of world, and makes decisions about what kind of world it is going to be. One of the first popular games of this type was called Balance of Power (late-1980's), where the player acts as the Chief-of-State of the United States or Soviet Union, and attempts to avert nuclear war without compromising the interests of his nation. The game is programmed so that the more violent or aggressive the player gets, the more violent the rest of the world becomes. The game looks like a map of the world, and players click on countries or use menus to take actions.
 
-The next and most popular variety of this archetype so far is Sim City
-
-(first developed in 1987). Rather than taking charge of a world already in
-
-progress, the player starts from scratch, bulldozing terrain and placing roads,
-
-power plants, homes, and industry. He watches as cars fill the streets and a
-
-population inhabits his town. If he does a good job, his popularity and tax-
-
-base remain high. He can grow his town into a city and even build an airport
-
-or stadium. The object of the game is not to "win," but to develop a
-
-sustainable society.
+The next and most popular variety of this archetype so far is Sim City (first developed in 1987). Rather than taking charge of a world already in progress, the player starts from scratch, bulldozing terrain and placing roads, power plants, homes, and industry. He watches as cars fill the streets and a population inhabits his town. If he does a good job, his popularity and tax-base remain high. He can grow his town into a city and even build an airport or stadium. The object of the game is not to "win," but to develop a sustainable society.
 
 Although the original version of Sim City uses icons and is viewed from
 
