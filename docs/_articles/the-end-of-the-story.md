@@ -107,23 +107,7 @@ The true purpose of play and the violence associated with it is revealed when we
 
 In each case of an archetype's development, the games progress from objectified viewpoints to increasingly participatory ones. They turn from stories told or observed into stories experienced. video games, like most fictional media, are an imitation of dream space. The world is generated, on the fly, by the game console as we move through it. In some games, you can even see the scenery being rendered as you move towards it. But, like dreams, they are from a weightless reality. A real ball never descends an incline plane, nor does a real Nazi ever hit the ground. As our tolerance for the reality of dream-death increases, we can accept more and more realistic and riveting portrayals of violent events. This doesn't make the many closer to flesh wounds -- only more consciously experienced catharsis. As Jung would tell us, the archetypal struggles in dreams remain the same, even if the symbolism changes from era to era and culture to culture.
 
-In video games, the central conflicts and universes remain the same over
-
-time: our world is being attacked, 1 am in a struggle against another
-
-individual, or I must accomplish my quest. These are the same structures
-
-underlying dreams. But if a person goes to a psychiatrist because he is
-
-having problems in life, does the doctor try to change the patient's dreams?
-
-No. He gets the patient to remember more about them, or even dream
-
-consciously in the form of guided visualization. Dream deprivation studies
-
-have shown that if a person is not allowed to dream, he will develop
-
-psychotic delusions -- hallucinations in waking consciousness.
+In video games, the central conflicts and universes remain the same over time: our world is being attacked, I am in a struggle against another individual, or I must accomplish my quest. These are the same structures underlying dreams. But if a person goes to a psychiatrist because he is having problems in life, does the doctor try to change the patient's dreams? No. He gets the patient to remember more about them, or even dream consciously in the form of guided visualization. Dream deprivation studies have shown that if a person is not allowed to dream, he will develop psychotic delusions -- hallucinations in waking consciousness.
 
 The same is true for cultures. If we deny ourselves or repress our cultural
 
