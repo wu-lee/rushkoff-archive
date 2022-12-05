@@ -97,21 +97,7 @@ The evolution of the video arcade games that replaced pinball was a move away fr
 
 Equally important, the direction of the developing video game culture and aesthetic indicates what we can expect as our mass media and culture at large follow their digital lead. The advancement of video games over the past three decades was based on the emergence of new technologies. It was less a consciously directed artistic growth than a race to utilize new computer chips, imaging techniques, and graphics cards. Every time a new technology arrived, game developers would redefine the essence of their gameplay around that new hardware. The same will be true when digital television is implemented. The architecture will lead the developers. At each successive leap in video game development, then, there is a return to technology and the underlying nature within it. Even if two or three years passes without a technological innovation, the games can only develop so far on a particular platform before a new once is introduced that redefines the medium. Each new platform, whether it is Super Nintendo or Sega Saturn, comes equipped with a "killer app" -- a piece of software (the game cartridge or disk) that makes use of the new hardware, and can't be played on more primitive machines.
 
-The frighteningly Tevolutionary aspect of the Doom games, no matter
-
-what the pundits say, iS not that they are more violent than any games before
-
-them. They are simply more real. The player is completely within the point
-
-of view of the character, who must battle his way out of one hellish
-
-nightmare scenario or another. In one game, the player is in hell, in another
-
-he battles his way out of a nazi prison, and in another he is on a space station
-
-that has been overrun by evil aliens. The world is in complete disarray, and
-
-the player must defeat and overturn the status quo or die trying.
+The frighteningly revolutionary aspect of the Doom games, no matter what the pundits say, is not that they are more violent than any games before them. They are simply more real. The player is completely within the point of view of the character, who must battle his way out of one hellish nightmare scenario or another. In one game, the player is in hell, in another he battles his way out of a nazi prison, and in another he is on a space station that has been overrun by evil aliens. The world is in complete disarray, and the player must defeat and overturn the status quo or die trying.
 
 The effort by concerned parents and politicians to make video games less
 
