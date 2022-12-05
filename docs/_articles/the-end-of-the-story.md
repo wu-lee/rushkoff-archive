@@ -99,31 +99,7 @@ Equally important, the direction of the developing video game culture and aesthe
 
 The frighteningly revolutionary aspect of the Doom games, no matter what the pundits say, is not that they are more violent than any games before them. They are simply more real. The player is completely within the point of view of the character, who must battle his way out of one hellish nightmare scenario or another. In one game, the player is in hell, in another he battles his way out of a nazi prison, and in another he is on a space station that has been overrun by evil aliens. The world is in complete disarray, and the player must defeat and overturn the status quo or die trying.
 
-The effort by concerned parents and politicians to make video games less
-
-apparently violent is earnest but misguided, because they do not understand
-
-the underlying reasons for these games’ increasing realism. Social scientists,
-
-like Leonard Eron, have sought to demonstrate a causative link between
-
-television or video game violence and aggressive behavior in children.
-
-Unfortunately, these scientists do not follow the same stringent methodology
-
-of real ones. For example, one study shows that kids who are called inte Pid
-
-principal's office for aggressive behavior are more likely to , ss ben
-
-Power Rangers is one of their favorite shows than kids who ve
-
-caught in violent behavior. That is not the ——_, > ican Americans
-
-It's akin to saying that because a higher proportion erin eating fried
-
-frequent Kentucky Fried Chicken than white-Ame ;
-
-chicken will make a person turn black.
+The effort by concerned parents and politicians to make video games less apparently violent is earnest but misguided, because they do not understand the underlying reasons for these games’ increasing realism. Social scientists, like Leonard Eron, have sought to demonstrate a causative link between television or video game violence and aggressive behavior in children. Unfortunately, these scientists do not follow the same stringent methodology of real ones. For example, one study shows that kids who are called into the principal's office for aggressive behavior are more likely to say that The Power Rangers is one of their favorite shows than kids who haven't been caught in violent behavior. That is not the demonstration of a causative link. It's akin to saying that because a higher proportion of African-Americans frequent Kentucky Fried Chicken than white-Americans, eating fried chicken will make a person turn black.
 
 A world in which toy guns must be colored fluore
 
