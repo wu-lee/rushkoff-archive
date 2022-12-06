@@ -169,27 +169,9 @@ So a TV version of virtual reality will never look like something you could rig 
 
 Our established media outlets may be losing ground in the battle against co-operative, participatory media, but they are not going down without a fight. It's as if the traditional mainstream media -- the parental expression of communications technology -- wants us to be afraid of participating so that we never leave the safety of its nest. The editors and producers, steadfast in their belief that they can monopolize our airwaves and printing presses, probably have something to do with it, too.
 
-Our newspapers tell us we are too stupid to
+Our newspapers tell us we are too stupid to go out online and find information for ourselves. A New York Times piece on health and the Internet warned readers of the potentially damaging information available online "Some of it is harmless, but a lot is dangerous to your health and well-being." The writer learned that, although one health forum recommended blue green algae as a dietary supplement and appetite suppressant, "their product was nothing more than pond scum." That algae is pond scum is no more relevant to the argument of its efficacy than the fact that penicillin is nothing more than bread mold.
 
-information for ourselves. A New York Times piece on health and the
-
-Internet. warned readers of the potentially damaging information available
-
-online "Some of it is harmless, but a lot is dangerous to your health and
-
-well-being." The writer learned that, although one health forum
-
-recommended blue green algae as a dietary supplement and appetite
-
-suppressant, "their product was nothing more than pond scum." That algae
-
-is pond scum is no more relevant to the argument of its efficacy than the fact
-
-that penicillin is nothing more than bread mold.
-
-go out online and find
-
-THE PARANOID RECIPROCAL
+**6. THE PARANOID RECIPROCAL**
 
 fettered, natural will into
 
@@ -198,8 +180,6 @@ market libertarian social
 for the anarchists,
 
 t of a networked
-
-6\.
 
 The accommodation and integration of the un
 
