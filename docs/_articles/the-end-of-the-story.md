@@ -161,37 +161,7 @@ Mainstream programs and commercials now imitate the style of this guerilla progr
 
 America's mega-beer manufactures have launched fake "microbrewery" labels like Red Dog, as if the products and campaigns were the efforts of tiny companies -- remote high leverage points in a chaotic system. The marketers know that if they look like the "big boys" they will fail in screenager-dominated mediaspace that no longer favors or respects the heavyweight. Meanwhile, the programmers and advertisers who buck the trend fail miserably.
 
-beat hosts to make their produc
-
-Hollywood is still desperately trying to come up with movies and TV
-
-shows that depict the more frightening and dangerous aspects of our
-
-consensually hallucinatory mediaspace. None of the fi
-
-Ims or programs
-
-imitating the cyber-
-
-experience succeed because they pretend that these
-
-technologies aren't readily available. In the movies, no one gets to travel
-
-through virtual reality without a room filled with expensive, imaginary
-
-computer equipment, and going online is made to look about as complicated
-
-as wiring up one's own international fiber optic network. The parade of
-
-cyberthriller movies including Virtuosity, The Net, and Johnny Mnemonic
-
-fail because they exchange the real thrill of participating online for the
-
-Hollywood theatrics of car chases, machine guns, and explosions. Going
-
-online may be dangerous to one's world view, but not to one's physical
-
-being. _—s
+Hollywood is still desperately trying to come up with movies and TV shows that depict the more frightening and dangerous aspects of our consensually hallucinatory mediaspace. None of the films or programs imitating the cyber-experience succeed because they pretend that these technologies aren't readily available. In the movies, no one gets to travel through virtual reality without a room filled with expensive, imaginary computer equipment, and going online is made to look about as complicated as wiring up one's own international fiber optic network. The parade of cyberthriller movies including Virtuosity, The Net, and Johnny Mnemonic fail because they exchange the real thrill of participating online for the Hollywood theatrics of car chases, machine guns, and explosions. Going online may be dangerous to one's world view, but not to one's physical being.
 
 Why are the film and television industry intent on ee ne
 
