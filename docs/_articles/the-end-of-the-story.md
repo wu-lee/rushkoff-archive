@@ -165,13 +165,7 @@ Hollywood is still desperately trying to come up with movies and TV shows that d
 
 Why are the film and television industry intent on misrepresenting the chaotic quality of the mediaspace? Because -- all conspiracies aside -- the long-term aims of big money moviemakers and TV producers are directly opposed to the possibilities opened by our new technologies. The movies need to make things look bigger than life, romantic, and far removed from the day-to-day reality of their audiences. That's why we pay to see them -- because the worlds they open to us are inaccessible by any other means. Television needs to create a sense of desire in its audiences, so that they buy the products being offered during the breaks. These products must be offered to us from above, and be bracketed by environments and stars who are exclusive and inaccessible.
 
-So a TV version of virtual reality will never look like something you
-
-could rig up in your own bedroom with an appliance you bought at Circuit
-
-City, nor will the cinematic depiction of the Internet ever offer you the
-
-opportunity to type in a few keystrokes and find yourself in Tokyo-
+So a TV version of virtual reality will never look like something you could rig up in your own bedroom with an appliance you bought at Circuit City, nor will the cinematic depiction of the Internet ever offer you the opportunity to type in a few keystrokes and find yourself in Tokyo.
 
 Our established media outlets may be losing ground in the battle against
 
