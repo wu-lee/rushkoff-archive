@@ -153,17 +153,7 @@ The World Wide Web lets people participate online in a manner much more consiste
 
 **5. FRUITOPIC LEVERAGE**
 
-Hardly immune to this growing chaotic urge, the traditional media is
-
-slowly emerging from its own terrible two's into the more adolescent drive
-
-towards real participation. Camcorder tapes and public access television
-
-have changed the way television looks and. behaves. We have come to trust
-
-the grainy, bumpy footage of Rodney King and Bosnia over the high gloss
-
-finish of staged press events.
+Hardly immune to this growing chaotic urge, the traditional media is slowly emerging from its own terrible two's into the more adolescent drive towards real participation. Camcorder tapes and public access television have changed the way television looks and behaves. We have come to trust the grainy, bumpy footage of Rodney King and Bosnia over the high gloss finish of staged press events.
 
 Always on the prowl for a new cult hit, and receptive to programming
 
