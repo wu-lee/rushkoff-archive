@@ -163,37 +163,7 @@ America's mega-beer manufactures have launched fake "microbrewery" labels like R
 
 Hollywood is still desperately trying to come up with movies and TV shows that depict the more frightening and dangerous aspects of our consensually hallucinatory mediaspace. None of the films or programs imitating the cyber-experience succeed because they pretend that these technologies aren't readily available. In the movies, no one gets to travel through virtual reality without a room filled with expensive, imaginary computer equipment, and going online is made to look about as complicated as wiring up one's own international fiber optic network. The parade of cyberthriller movies including Virtuosity, The Net, and Johnny Mnemonic fail because they exchange the real thrill of participating online for the Hollywood theatrics of car chases, machine guns, and explosions. Going online may be dangerous to one's world view, but not to one's physical being.
 
-Why are the film and television industry intent on ee ne
-
-chaotic quality of the mediaspace? Because -- all conspiracies asi . at
-
-long-term aims of big money moviemakers and TV producers ne _ ie
-
-opposed to the possibilities opened by our new teen oeies. e ceinam
-
-need to make things look bigger than life, omaanine an - ase din =
-
-the day-to-day reality of their audiences. That's why ‘ ther means.
-
-because the worlds they open to us are ina oes diences 7 that they buy
-
-Television needs to create a sense of a tee oroducts must be offered
-
-the products being offered during the breaks.
-
-a
-
-Digital TV
-
- 
-
-118
-
-to us
-
-from above, and be bracketed by environments and stars who are
-
-exclusive and inaccessible.
+Why are the film and television industry intent on misrepresenting the chaotic quality of the mediaspace? Because -- all conspiracies aside -- the long-term aims of big money moviemakers and TV producers are directly opposed to the possibilities opened by our new technologies. The movies need to make things look bigger than life, romantic, and far removed from the day-to-day reality of their audiences. That's why we pay to see them -- because the worlds they open to us are inaccessible by any other means. Television needs to create a sense of desire in its audiences, so that they buy the products being offered during the breaks. These products must be offered to us from above, and be bracketed by environments and stars who are exclusive and inaccessible.
 
 So a TV version of virtual reality will never look like something you
 
