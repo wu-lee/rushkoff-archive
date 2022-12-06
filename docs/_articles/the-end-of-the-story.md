@@ -149,35 +149,9 @@ It is as if going online somehow opens a person to a more chaotic sensibility. 5
 
 At the moment we realize that the computer medium is not just for reading and consuming, but for posting and participating, an entirely new set of responsibilities confronts us: what do we want to say and do, and what affect our words  and actions have on the consensual hallucination? Slowly but surely, the hierarchically structured databases, newsgroups, and file-sharing systems (ftp, USENET, gopher) are giving way to more freeform-style Internet browsers, that encourage users to chart their own, almost random paths through the world of computer networks.
 
-ee wa Wide Web lets people participate online in a manner much
+The World Wide Web lets people participate online in a manner much more consistent with the underlying network. Any person or institution can create a "home page" -- a bunch of data, images, text, and "links," or pointers to other pages throughout the network. Because these pages are linked to one another, users roam from one place to another, exploring the Web in the manner they would explore a natural environment: go to a tree, inspect its bark, see a bug, follow it to its nest. On the Web, one might start by accessing a computer in New York with a page someone created about Marshall McLuhan. He can click on a picture of the book Understanding Media, and get connected to another page containing the text of the book. On that page, he may find links to other media theorists, television museums, or the University of Toronto. A click of the mouse takes you to the new site. Exploring the Web requires a surfer's attitude towards data and ideas.
 
-more consistent with the underlying network. Any person or Minka
-
-create a "home page" -- 4 bunch of data, images, text, and "links," or
-
-pointers to other pages throughout the network. Because these pages are
-
-linked to one another, users roam from one place to another, exploring the
-
-Web in the manner they would explore a natural environment: go to a tree,
-
-inspect its bark, see a bug, follow it to its nest. On the Web, one might start
-
-by accessing a computer in New York with a page someone created about
-
-Marshall McLuhan. He can click on a picture of the book Understanding
-
-Media, and get connected to another page containing the text of the book.
-
-On that page, he may find links to other media theorists, television
-
-museums, or the University of Toronto. A click of the mouse takes you to
-
-the new site. Exploring the Web requires a surfer's attitude’ towards data and
-
-ideas.
-
-5\. FRUITOPIC LEVERAGE
+**5. FRUITOPIC LEVERAGE**
 
 Hardly immune to this growing chaotic urge, the traditional media is
 
