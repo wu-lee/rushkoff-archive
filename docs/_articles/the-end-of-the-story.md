@@ -175,31 +175,7 @@ Our newspapers tell us we are too stupid to go out online and find information f
 
 The accommodation and integration of the unfettered, natural will into public affairs is not a "que sera, sera" or a free market libertarian social scheme. It may accelerate a few things, and it may be fun for the anarchists, but, more than anything, it will nurture the development of a networked global culture -- world consciousness. Many great thinkers fear such a development because they see it as a reversal of human evolution back to the stage of the herd. Colonial organisms are great for plankton, but human beings are different, superior. If we are, indeed, superior, it is because we have the ability to be conscious of what we do. The plankton and minnows do not understand that they are part of reefs and schools. They simply behave. If human beings move into a more organismic relationship with one another, it will be by choice. We will participate consciously.
 
-This is why technology and media play such a crucial role in this next
-
-phase of our evolution, and why it is so important that we continue to raise
-
-children who are less afraid of our inventions than we are. Technology is the
-
-method by which we consciously rig up the communicative fibers of our
-
-eet
-
-la :
-
-: fal ch Prain. Whether we are engineering the genes of our offspring or
-
-least desis to enable call-waiting on our second phone line, we are at
-
-Even though 2 PaCIcIpanie 1) and one another's forward evolution.
-
-tile ene ai it takes on a life of its own at some point, technology still feels
-
-peu creation. We develop it willfully, which is why we feel it is
-
-upon us now to evaluate its purpose and efficacy in serving
-
-humanity and nature's goals.
+This is why technology and media play such a crucial role in this next phase of our evolution, and why it is so important that we continue to raise children who are less afraid of our inventions than we are. Technology is the method by which we consciously rig up the communicative fibers of our planetary brain. Whether we are engineering the genes of our offspring or simply choosing to enable call-waiting on our second phone line, we are at least indirectly participating in our own and one another's forward evolution. Even though it takes on a life of its own at some point, technology still feels like our creation. We develop it willfully, which is why we feel it is incumbent upon us now to evaluate its purpose and efficacy in serving humanity and nature's goals.
 
 Marshall McLuhan foresaw much of our media revolution, but always
 
