@@ -159,23 +159,7 @@ Always on the prowl for a new cult hit, and receptive to programming created by 
 
 Mainstream programs and commercials now imitate the style of this guerilla programming in the hope of attracting viewers and adding a sense of credibility. E.R., NYPD Blues, ATT commercials, and many other high budget productions intentionally use jump cuts, hand-held cameras and off-beat hosts to make their productions look viewer-generated rather than planned in lofty corporate boardrooms. Snapple's "homespun" media campaign features "real people" that write in about their lives to a sweetly plump spokeswoman, who is herself photographed with way too much headroom, much in style of amateur home video.
 
-America's mega-beer manufactures have launched fak
-
-e "microbrewery"
-
-g, as if the products and campaigns were the efforts of
-
-tiny companies -- remote high levera
-
-ge points in a chaotic system. The
-
-marketers know that if they look like the "big boys" they will fail in
-
-screenager-dominated mediaspace that no longer favors or respects the
-
-heavyweight. Meanwhile, the Programmers and advertisers who buck the
-
-trend fail miserably.
+America's mega-beer manufactures have launched fake "microbrewery" labels like Red Dog, as if the products and campaigns were the efforts of tiny companies -- remote high leverage points in a chaotic system. The marketers know that if they look like the "big boys" they will fail in screenager-dominated mediaspace that no longer favors or respects the heavyweight. Meanwhile, the programmers and advertisers who buck the trend fail miserably.
 
 beat hosts to make their produc
 
