@@ -157,19 +157,7 @@ Hardly immune to this growing chaotic urge, the traditional media is slowly emer
 
 Always on the prowl for a new cult hit, and receptive to programming created by people "just like us," we search out weird little programs that express highly personalized visions. A teenager named Jake produces "Squirt TV" out of his bedroom with a camcorder and sits on the edge of his bed irreverently chiding a rock star like Michael Stipe for shaving his head for his appearance on the MTV Awards: "Like we didn't know you were going bald, anyway!" Activists from around the nation gather their own camcorder footage and download satellite feed for compilation into alternative news shows like Deep Dish TV. South Park arises from the Internet as a censored program, only to become the biggest show on cable TV.
 
-» and Many other high
-
-se a a hand-held Cameras and off-
-
-tions look viewer-ge
-
-planned in lofty corporate boardrooms. Snapple's shomespua ae
-
-campaign features "real people" that write in about their lives to a sweetly
-
-plump spokeswoman, who is herself photographed with way too much
-
-headroom, much in Style of amateur home video.
+Mainstream programs and commercials now imitate the style of this guerilla programming in the hope of attracting viewers and adding a sense of credibility. E.R., NYPD Blues, ATT commercials, and many other high budget productions intentionally use jump cuts, hand-held cameras and off-beat hosts to make their productions look viewer-generated rather than planned in lofty corporate boardrooms. Snapple's "homespun" media campaign features "real people" that write in about their lives to a sweetly plump spokeswoman, who is herself photographed with way too much headroom, much in style of amateur home video.
 
 America's mega-beer manufactures have launched fak
 
