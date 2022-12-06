@@ -173,37 +173,7 @@ Our newspapers tell us we are too stupid to go out online and find information f
 
 **6. THE PARANOID RECIPROCAL**
 
-fettered, natural will into
-
-market libertarian social
-
-for the anarchists,
-
-t of a networked
-
-The accommodation and integration of the un
-
-public affairs is not a "que sera, sera" or a free
-
-scheme. It may accelerate a few things, and it may be fun
-
-but, more than anything, it will nurture the developmen
-
-global culture -- world consciousness. Many great thinkers fear such a
-
-development because they see it as a reversal of human evolution back to the
-
-stage of the herd. Colonial organisms are great for plankton, but human
-
-beings are different, superior. If we are, indeed, superior, it is because we
-
-have the ability to be conscious of what we do. The plankton and minnows
-
-do not understand that they are part of reefs and schools. They simply
-
-behave. If human beings move into a more organismic relationship with one
-
-another, it will be by choice. We will participate consciously.
+The accommodation and integration of the unfettered, natural will into public affairs is not a "que sera, sera" or a free market libertarian social scheme. It may accelerate a few things, and it may be fun for the anarchists, but, more than anything, it will nurture the development of a networked global culture -- world consciousness. Many great thinkers fear such a development because they see it as a reversal of human evolution back to the stage of the herd. Colonial organisms are great for plankton, but human beings are different, superior. If we are, indeed, superior, it is because we have the ability to be conscious of what we do. The plankton and minnows do not understand that they are part of reefs and schools. They simply behave. If human beings move into a more organismic relationship with one another, it will be by choice. We will participate consciously.
 
 This is why technology and media play such a crucial role in this next
 
