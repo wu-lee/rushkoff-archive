@@ -155,33 +155,7 @@ The World Wide Web lets people participate online in a manner much more consiste
 
 Hardly immune to this growing chaotic urge, the traditional media is slowly emerging from its own terrible two's into the more adolescent drive towards real participation. Camcorder tapes and public access television have changed the way television looks and behaves. We have come to trust the grainy, bumpy footage of Rodney King and Bosnia over the high gloss finish of staged press events.
 
-Always on the prowl for a new cult hit, and receptive to programming
-
-created by people "just like us," we search out weird little programs that
-
-express highly personalized visions. A teenager named Jake produces
-
-Squirt TV" out of his bedroom with a camcorder and sits on the edge of his
-
-bed irreverently chiding a rock star like Michael Stipe for shaving his head
-
-for his appearance on the MTV Awards: "Like we didn't know you were
-
-going bald, anyway!" Activists from around the nation gather their own
-
-camcorder footage and download satellite feed for compilation into
-
- 
-
-117
-
-alte iy
-
-hie news shows like Deep Dish TV. South Park arises from the
-
-as i
-
-. * censored program, only to become the biggest show on cable
+Always on the prowl for a new cult hit, and receptive to programming created by people "just like us," we search out weird little programs that express highly personalized visions. A teenager named Jake produces "Squirt TV" out of his bedroom with a camcorder and sits on the edge of his bed irreverently chiding a rock star like Michael Stipe for shaving his head for his appearance on the MTV Awards: "Like we didn't know you were going bald, anyway!" Activists from around the nation gather their own camcorder footage and download satellite feed for compilation into alternative news shows like Deep Dish TV. South Park arises from the Internet as a censored program, only to become the biggest show on cable TV.
 
 » and Many other high
 
