@@ -167,19 +167,7 @@ Why are the film and television industry intent on misrepresenting the chaotic q
 
 So a TV version of virtual reality will never look like something you could rig up in your own bedroom with an appliance you bought at Circuit City, nor will the cinematic depiction of the Internet ever offer you the opportunity to type in a few keystrokes and find yourself in Tokyo.
 
-Our established media outlets may be losing ground in the battle against
-
-co-operative, participatory media, but they are not going down without a |
-
-fight. It's as if the traditional mainstream i tal expression of |
-
-communications technology -- wants us to be afraid of participating 5° that |
-
-we never leave the safety of its nest. The editors and producers, steadfast in
-
-their belief that they can monopolize our airwaves and printing presses,
-
-probably have something to do with it, too.
+Our established media outlets may be losing ground in the battle against co-operative, participatory media, but they are not going down without a fight. It's as if the traditional mainstream media -- the parental expression of communications technology -- wants us to be afraid of participating so that we never leave the safety of its nest. The editors and producers, steadfast in their belief that they can monopolize our airwaves and printing presses, probably have something to do with it, too.
 
 Our newspapers tell us we are too stupid to
 
