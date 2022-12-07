@@ -177,21 +177,7 @@ The accommodation and integration of the unfettered, natural will into public af
 
 This is why technology and media play such a crucial role in this next phase of our evolution, and why it is so important that we continue to raise children who are less afraid of our inventions than we are. Technology is the method by which we consciously rig up the communicative fibers of our planetary brain. Whether we are engineering the genes of our offspring or simply choosing to enable call-waiting on our second phone line, we are at least indirectly participating in our own and one another's forward evolution. Even though it takes on a life of its own at some point, technology still feels like our creation. We develop it willfully, which is why we feel it is incumbent upon us now to evaluate its purpose and efficacy in serving humanity and nature's goals.
 
-Marshall McLuhan foresaw much of our media revolution, but always
-
-pele {0 associate technological progress with biological or cultural
-
-. ut how rock music made us deaf, and television damaged
-
-our eyes. Every technological innovation, according to McLuhan, has a
-
-briana oe toe a
-
-: ’ ‘ peed-up in communications," he warns,
-
-always bal a central authority to extend its operations to more distant
-
-margins.
+Marshall McLuhan foresaw much of our media revolution, but always felt the need to associate technological progress with biological or cultural decay. He pointed out how rock music made us deaf, and television damaged our eyes. Every technological innovation, according to McLuhan, has a reciprocal effect negating it. This way, everything stays the same or, more likely, slowly gets worse. "A speed-up in communications," he warns, "always enables a central authority to extend its operations to more distant margins."
 
 True, but, as any screenage hacker knows, it also enables those distant
 
