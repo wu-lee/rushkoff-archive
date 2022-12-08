@@ -207,33 +207,9 @@ The danger, however, is reducing a new and important tool for global communicati
 
 In order to take advantage of the opportunity before us, we must learn to see ourselves as masters rather than victims of our new communicative pathways. Luckily, interactive technologies like digital TV may teach media literacy despite themselves.
 
-  
+For example, at almost every talk I've given about networking technology, someone complains that the Web might be a new avenue for disinformation, especially by advertisers. How will a person know what to believe and what not to believe? Compounding the confusion, reporters sometimes research a story simply by visiting a company's Web site and transcribing prepared press materials. They quote the press releases nearly word for word in their news stories, leading those of us who have seen both the posted press release and the publicized article to become quite suspicious of the way news is being gathered in the information age.
 
- 
-
-talk I've given about networking
-
-hat the Web might be a new avenue fo,
-
-5\. How will a person know what to
-
-ding the confusion, reporters
-
-a company's Web site and
-
-tals. They quote the press releases near|
-
-g prepared press ce heading nea of us who have seen tt
-
-ord in their n icized article to become quite suspicious
-
-lease and the publ e
-
-e information age.
-
-/ ws is being gathered in th
-
-of the way ne co is that this is the way most reporters have always
+co is that this is the way most reporters have always
 
 What we fail to rea "
 
