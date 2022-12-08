@@ -215,15 +215,7 @@ What we fail to realize is that this is the way most reporters have always resea
 
 Unlike our kids, whose Sony Playstations teach them the joys of self-navigation, we yearn for guidance from above and restrictions on how and where we move. As those guiding authorities lose the ability to convince us of their moral high ground and intellectual superiority, we need to adjust our social institutions to support the sustenance of the non-hierarchical, user-generated reality that is fast approaching.
 
-_This means combating the fear of stupidity, vulnerability, innocence, and
-
-wi ama we are currently fomenting in our media, and learning how to instill
-
-idence i ili ey:
-
-con wee amigo ges ae es fr
-
-may seem. , however frightening or preposterous this
+This means combating the fear of stupidity, vulnerability, innocence, and evil that we are currently fomenting in our media, and learning how to instill confidence instead. We must become willing to take responsibility for the world we are dreaming up together, however frightening or preposterous this may seem.
 
 We are li
 
