@@ -211,37 +211,9 @@ For example, at almost every talk I've given about networking technology, someon
 
 What we fail to realize is that this is the way most reporters have always researched their stories. Before computer networks, it was accomplished more surreptitiously through mailed press releases or phone calls. Now that we are all becoming witnesses to the way information is disseminated, we are gaining a more, not less accurate picture of the ways disinformation is accomplished. The process is being revealed to us. The real problem is that the more convenient our communications technology gets, the more choice we have. The more choices we make, the more honest we get, and the fewer secrets we are allowed to keep.
 
-at almost every
+**7. WEIGHTLESS POLITICS**
 
-For example,
-
-technology. someone complains acer
-
-disinformation, especially by a - ise poun
-
-believe and what not to believe: soe iting
-
-sometimes research a story simply by
-
-transcribin
-
-word for w
-
-the posted press re
-
-7\. WEIGHTLESS POLITICS
-
-Unlike our kids, whose Sony Playstations teach them the joys of self-
-
-navigation, we yearn for guidance from above and restrictions on how and
-
-where we move. As those guiding authorities lose the ability to convince us
-
-of their moral high ground and intellectual superiority, we need to adjust our
-
-social institutions to support the sustenance of the non-hierarchical, user-
-
-generated reality that is fast approaching.
+Unlike our kids, whose Sony Playstations teach them the joys of self-navigation, we yearn for guidance from above and restrictions on how and where we move. As those guiding authorities lose the ability to convince us of their moral high ground and intellectual superiority, we need to adjust our social institutions to support the sustenance of the non-hierarchical, user-generated reality that is fast approaching.
 
 _This means combating the fear of stupidity, vulnerability, innocence, and
 
