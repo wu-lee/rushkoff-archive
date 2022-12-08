@@ -179,27 +179,7 @@ This is why technology and media play such a crucial role in this next phase of 
 
 Marshall McLuhan foresaw much of our media revolution, but always felt the need to associate technological progress with biological or cultural decay. He pointed out how rock music made us deaf, and television damaged our eyes. Every technological innovation, according to McLuhan, has a reciprocal effect negating it. This way, everything stays the same or, more likely, slowly gets worse. "A speed-up in communications," he warns, "always enables a central authority to extend its operations to more distant margins."
 
-True, but, as any screenage hacker knows, it also enables those distant
-
-margins to extend their operations back to the central authority. Imagine, for
-
-4 moment, a female sitting at her place of work, at the keyboard, with a
-
-headset, microphone, virtual reality goggles and, let's say, foot pedals. Do
-
-you see this person as victimized or empowered? Most socialists from
-
-McLuhan's school would see our thought-experiment test-subject as an
-
-exploited worker. Management, in its endless hunger for higher productivity,
-
-has enslaved one of the innocent proletariat in a web of wires and electrodes.
-
-Every possible sensory organ of this poor woman has been physically
-
-violated and condemned to hard labor, in a scene even more horrendous than
-
-a sweatshop.
+True, but, as any screenage hacker knows, it also enables those distant margins to extend their operations back to the central authority. Imagine, for a moment, a female sitting at her place of work, at the keyboard, with a headset, microphone, virtual reality goggles and, let's say, foot pedals. Do you see this person as victimized or empowered? Most socialists from McLuhan's school would see our thought-experiment test-subject as an exploited worker. Management, in its endless hunger for higher productivity, has enslaved one of the innocent proletariat in a web of wires and electrodes. Every possible sensory organ of this poor woman has been physically violated and condemned to hard labor, in a scene even more horrendous than a sweatshop.
 
 To a screenager, though, this individual could as easily be an empowered
 
