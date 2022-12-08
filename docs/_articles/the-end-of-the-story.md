@@ -225,23 +225,7 @@ Teachers threatened by technology attempt to restrict it, or even prohibit it's 
 
 Unlike a computer, a human teacher can be a partner in learning, and instead dedicate himself to giving his pupils the necessary criteria to judge their data's integrity, make connections between different facts, and formulate opinions and arguments of their own. The best of them will instill their pupils with the confidence and enthusiasm to express themselves as widely and articulately as possible.
 
-Much like the Internet subculture, rap and hip-hop culture were enabled
-
-by a willingness to exploit do-it-yourself technology. Using tape loops or
-
-simple digital recording equipment, rap musicians can "sample" and remix
-
-the riffs of their favorite artists, and then create their own lyrics as overdubs.
-
-The music evolves as new artists layer their own sounds and words over
-
-existing tracks. Each song amounts to a cultural record of everything that
-
-went before it. The rap lyrics themselves are codified, much like slave
-
-"spirituals” of the early 1800's, so that singers can exchange urban coping
-
-strategies without the overculture’s knowledge.
+Much like the Internet subculture, rap and hip-hop culture were enabled by a willingness to exploit do-it-yourself technology. Using tape loops or simple digital recording equipment, rap musicians can "sample" and remix the riffs of their favorite artists, and then create their own lyrics as overdubs. The music evolves as new artists layer their own sounds and words over existing tracks. Each song amounts to a cultural record of everything that went before it. The rap lyrics themselves are codified, much like slave "spirituals” of the early 1800's, so that singers can exchange urban coping strategies without the overculture’s knowledge.
 
 When the would-be censors do catch wind of what the kids are talking
 
