@@ -199,17 +199,7 @@ What McLuhan failed to foresee was that technology and cities alike would become
 
 Eventually, businesses established presence on the Web, encouraging people to visit their sites and learn about their goods and services. Many of these businesses are Web-related, offering software or advice for creating Web sites, or navigating the Internet. And again, as most urban planners now recognize, the most stable and thriving communities are built around business and commerce. They are not isolated suburbs, but small towns where people can gather naturally around the barber shops, corner stores, and banks where they conduct their daily business. On the World Wide Web, just as in the well-designed town square, work, entertainment, and the civil society are interdependent and ultimately indistinguishable.
 
-Digital television appears to be developing the other way. It is beginning
-
-as a business, fueled not by communities but by large corporations. Will
-
-business interests and installations slowly give way to community spirit and
-
-local conversation? Or, in the television environment, will businesses be
-
-able to make money and provide enduring employment in a way that the
-
-Internet simply hasn't?
+Digital television appears to be developing the other way. It is beginning as a business, fueled not by communities but by large corporations. Will business interests and installations slowly give way to community spirit and local conversation? Or, in the television environment, will businesses be able to make money and provide enduring employment in a way that the Internet simply hasn't?
 
 Many still wonder how people are going to make a living in the so-called
 
