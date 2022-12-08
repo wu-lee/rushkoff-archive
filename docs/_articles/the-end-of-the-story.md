@@ -221,21 +221,7 @@ We are like our ancestors who, only understanding gravity as a top-down proposit
 
 Teachers feel the impact of empowering technologies first. Computers challenge the teacher's role as the classroom's chief information provider. A single teacher's brain can't hold much more teachable data than a couple of CD ROM's, if that. When a kid can log onto an information service and gather facts about almost any subject, and at a depth beyond any single human being's capability to provide it to him, his teacher must stop seeing himself as the storehouse of knowledge.
 
-Teachers threatened by technology attempt to restrict it, or even prohibi
-
-e in the classroom, justifying their actions with bogus Se hon
-
-ers quell creativity or stunt social skills. This tactic sinned
-
-teacher's monopoly on data is doomed to failure Instead, like
-
-r owners reckoning with the advent of videocassettes teachers
-
-what they can offer that a computer cannot. Such teachers will
-
-realize that they have been liberated from the rote task of lyi
-
-‘nformation _- a machine can do that. ak af: SuRyInE
+Teachers threatened by technology attempt to restrict it, or even prohibit it's use in the classroom, justifying their actions with bogus claims about how computers quell creativity or stunt social skills. This tactic aimed at prolonging a teacher's monopoly on data is doomed to failure. Instead, like movie theater owners reckoning with the advent of videocassettes, teachers must discover what they can offer that a computer cannot. Such teachers will realize that they have been liberated from the rote task of supplying information -- a machine can do that.
 
 Unlike a computer, a human teacher can be a partner in learning, and
 
