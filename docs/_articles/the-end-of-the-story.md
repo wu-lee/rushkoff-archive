@@ -227,25 +227,7 @@ Unlike a computer, a human teacher can be a partner in learning, and instead ded
 
 Much like the Internet subculture, rap and hip-hop culture were enabled by a willingness to exploit do-it-yourself technology. Using tape loops or simple digital recording equipment, rap musicians can "sample" and remix the riffs of their favorite artists, and then create their own lyrics as overdubs. The music evolves as new artists layer their own sounds and words over existing tracks. Each song amounts to a cultural record of everything that went before it. The rap lyrics themselves are codified, much like slave "spirituals” of the early 1800's, so that singers can exchange urban coping strategies without the overculture’s knowledge.
 
-When the would-be censors do catch wind of what the kids are talking
-
-about, they are horrified. Time-Warner is regularly in the headlines for
-
-distributing music that, at least on the surface, degrades women and
-
-challenges the authority of police officers. The real and much more powerful
-
-threat of this music, however, is that it fosters a tight-knit subculture of kids
-
-who are willfully reprogramming themselves with ideas they feel are more
-
-appropriate to survival in the modern urban landscape. They are creating
-
-tribes bound together by new sets of values that, unfortunately, because they
-
-are necessarily disconnected from the values of their elders, often lack some
-
-of the tempered wisdom of an older civilization.
+When the would-be censors do catch wind of what the kids are talking about, they are horrified. Time-Warner is regularly in the headlines for distributing music that, at least on the surface, degrades women and challenges the authority of police officers. The real and much more powerful threat of this music, however, is that it fosters a tight-knit subculture of kids who are willfully reprogramming themselves with ideas they feel are more appropriate to survival in the modern urban landscape. They are creating tribes bound together by new sets of values that, unfortunately, because they are necessarily disconnected from the values of their elders, often lack some of the tempered wisdom of an older civilization.
 
 But can we blame them? By rejecting their efforts at community-making
 
