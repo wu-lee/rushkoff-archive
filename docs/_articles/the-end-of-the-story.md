@@ -217,15 +217,7 @@ Unlike our kids, whose Sony Playstations teach them the joys of self-navigation,
 
 This means combating the fear of stupidity, vulnerability, innocence, and evil that we are currently fomenting in our media, and learning how to instill confidence instead. We must become willing to take responsibility for the world we are dreaming up together, however frightening or preposterous this may seem.
 
-We are li
-
-the pl i y people "down" in Australia don't fall off
-
-ne pianet. Similarly, just because regul j
-
-civilization doesn't mean reality ial gular people like us are steering
-
-1S going to fall apart.
+We are like our ancestors who, only understanding gravity as a top-down proposition, couldn't figure out why people "down" in Australia don't fall off the planet. Similarly, just because regular people like us are steering civilization doesn't mean reality itself is going to fall apart.
 
 d of the Story
 
