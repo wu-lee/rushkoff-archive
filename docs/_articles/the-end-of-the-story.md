@@ -185,21 +185,7 @@ To a screenager, though, this individual could as easily be an empowered cyberna
 
 Either vision can also be applied to the DTV viewer. Is she augmented or imprisoned? It depends on her ability to distinguish between opportunity for expression and imposition of coercion -- and (probably to a lesser extent) the intentions of the technologies' creators. Victims see progress as a continuation of their own progression towards further victimization. They seek stasis, because at least their predicament will not get worse if it stays the same. They spend their energies doing what is necessary to stave off disaster.
 
-Empowered screenagers, on the other hand, see progress as an
-
-augmentation of their own journey towards empowerment and expansion.
-
-they enjoy in order to get to do it
-
-They spend their energies doing what us .
-
-some more. (This is what "to slack" really means.) Their jobs get easier and
-
-more fun when they've got better tools. They understand that enjoying work
-
-isn't a crime, and that turning creativity into a commodity is like getting paid
-
-for playing.
+Empowered screenagers, on the other hand, see progress as an augmentation of their own journey towards empowerment and expansion. They spend their energies doing what they enjoy in order to get to do it some more. (This is what "to slack" really means.) Their jobs get easier and more fun when they've got better tools. They understand that enjoying work isn't a crime, and that turning creativity into a commodity is like getting paid for playing.
 
 But they have also necessarily dropped the duality implicit in the word
 
