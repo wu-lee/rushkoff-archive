@@ -191,23 +191,7 @@ But they have also necessarily dropped the duality implicit in the word "employm
 
 But some jobs just aren't fun. Still, screenage movies like Clerks and TV shows like Friends glorify the apparently menial tasks of clerking at a video store or serving coffee. It's all in the attitude and relationships. Data entry and code crunching -- labors requiring more hands and eyes every day -- are hardly as creative as designing video games or creating network software. The young people involved in these seemingly rote tasks have found ways to make them more interesting.
 
-The best companies employing screenagers welcome feedback and ideas
-
-from their workers about making tasks more efficient and products less
-
-expensive. Young workers with great ideas quickly move up the ranks to
-
-become programmers and creative executives. Meanwhile, the kids working
-
-at terminals use company networks and the Internet to maintain chat
-
-windows and discussions with one another during work hours. McLuhan
-
-liked the "mild institutionalization" of the village, because "everyone could
-
-play many roles. Participation was high, and organization was low. This is
-
-the formula for stability in any type of organization."
+The best companies employing screenagers welcome feedback and ideas from their workers about making tasks more efficient and products less expensive. Young workers with great ideas quickly move up the ranks to become programmers and creative executives. Meanwhile, the kids working at terminals use company networks and the Internet to maintain chat windows and discussions with one another during work hours. McLuhan liked the "mild institutionalization" of the village, because "everyone could play many roles. Participation was high, and organization was low. This is the formula for stability in any type of organization."
 
 He laments the growth of the village into city-state, which forced people
 
