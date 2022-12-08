@@ -183,39 +183,7 @@ True, but, as any screenage hacker knows, it also enables those distant margins 
 
 To a screenager, though, this individual could as easily be an empowered cybernaut, for whom work and play are indistinguishable aspects of life. She may have won her VR goggles through hard work and perseverance, in spite of her boss's technophobia. She may even be working at home, as the designer of a dazzling new CD Rom game based on her own analysis of Jungian dream archetypes. She may even be fourteen years old. If she experiences herself as a creative participant in her employment rather than its helpless victim, then every tool at her disposal is another avenue for extending her mastery. Her nervous system -- her very awareness -- expands with every new implement she acquires.
 
-Either vision can also be applie
-
-imprisoned? It depends on her ability to di
-
-expression and imposition of coercion \~ an
-
-intentions of the technologies’ creators.
-
-continuation of their own progression towar
-
-uires.
-
-he augmented or
-
-d to the DTV viewer. Iss !
-
-stinguish between opportunity for
-
-d (probably to a lesser extent) the
-
-Victims see progress as a
-
-ds further victimization. They
-
-120 Digital TV
-
-seek stasis, because at least their predicament will not get worse if it stays
-
-g what is necessary to stave off
-
-the same. They spend their energies doin
-
-disaster.
+Either vision can also be applied to the DTV viewer. Is she augmented or imprisoned? It depends on her ability to distinguish between opportunity for expression and imposition of coercion -- and (probably to a lesser extent) the intentions of the technologies' creators. Victims see progress as a continuation of their own progression towards further victimization. They seek stasis, because at least their predicament will not get worse if it stays the same. They spend their energies doing what is necessary to stave off disaster.
 
 Empowered screenagers, on the other hand, see progress as an
 
