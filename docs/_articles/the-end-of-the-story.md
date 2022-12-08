@@ -203,19 +203,7 @@ Digital television appears to be developing the other way. It is beginning as a 
 
 Many still wonder how people are going to make a living in the so-called information age. We will do so by selling what we generate from our minds and on our own computers or enhanced televisions as text, image, and code. When the commodity we have been selling -- our physical labor — becomes obsolete (or at least less in demand), there had better be a new commodity to sell. Try creativity: Infinite supply, environmentally safe, culturally valuable, and even fun to make. If all our information were destined to be "free," then no one would be able to make any money with it, and we all really would be in need of some gainful employment, fast. The robots are already making our automobiles. The reason we don't need to worry is that the creation of wealth without the exploitation of physical resources has become a reality.
 
-The danger, however, is reducing a new and important tool for global
-
-communication into capitalism's savior. When the bottom line of a medium's
-
-development is the bottom line, it will tend to serve the needs of the Gross
-
-National Product much more than the needs of human beings. The current
-
-effort to commercialize the Web -- at the expense of its communitarian
-
-function -- gives ample witness to the sacrifice of all other values to singular
-
-concern of profit.
+The danger, however, is reducing a new and important tool for global communication into capitalism's savior. When the bottom line of a medium's development is the bottom line, it will tend to serve the needs of the Gross National Product much more than the needs of human beings. The current effort to commercialize the Web -- at the expense of its communitarian function -- gives ample witness to the sacrifice of all other values to singular concern of profit.
 
 In order to take advantage of the opportunity before us, we must learn to
 
