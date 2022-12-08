@@ -205,21 +205,9 @@ Many still wonder how people are going to make a living in the so-called informa
 
 The danger, however, is reducing a new and important tool for global communication into capitalism's savior. When the bottom line of a medium's development is the bottom line, it will tend to serve the needs of the Gross National Product much more than the needs of human beings. The current effort to commercialize the Web -- at the expense of its communitarian function -- gives ample witness to the sacrifice of all other values to singular concern of profit.
 
-In order to take advantage of the opportunity before us, we must learn to
-
-of our new communicative
-
-see ourselves as masters rather than victims
-
-pathways. Luckily, interactive technologies like digital TV may teach media
-
-literacy despite themselves.
+In order to take advantage of the opportunity before us, we must learn to see ourselves as masters rather than victims of our new communicative pathways. Luckily, interactive technologies like digital TV may teach media literacy despite themselves.
 
   
-
-Digital ry
-
-122
 
  
 
