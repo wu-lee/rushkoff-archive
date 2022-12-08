@@ -235,19 +235,7 @@ Will a fourteen-year-old kid playing Mortal Kombat over phone lines with another
 
 **8. CUSTER'S LAST STAND**
 
-It may very well be up to the developers of Digital TV to decide whether
-
-to support or resist our culture's efforts to take back control of its own
-
-mediaspace. Like an indigenous people surprising its colonizers, the
-
-denizens of the datasphere are fighting for the turf they call home. And they
-
-have the advantage of being natives. They understand how to navigate this
-
-weightless terrain, and seek to utilize it in a manner more consistent with
-
-nature. Everything, except perhaps capital, is on their side.
+It may very well be up to the developers of Digital TV to decide whether to support or resist our culture's efforts to take back control of its own mediaspace. Like an indigenous people surprising its colonizers, the denizens of the datasphere are fighting for the turf they call home. And they have the advantage of being natives. They understand how to navigate this weightless terrain, and seek to utilize it in a manner more consistent with nature. Everything, except perhaps capital, is on their side.
 
 The daily mergers of giant media conglomerates may not pose such a
 
