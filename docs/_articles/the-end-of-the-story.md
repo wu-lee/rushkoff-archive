@@ -219,15 +219,7 @@ This means combating the fear of stupidity, vulnerability, innocence, and evil t
 
 We are like our ancestors who, only understanding gravity as a top-down proposition, couldn't figure out why people "down" in Australia don't fall off the planet. Similarly, just because regular people like us are steering civilization doesn't mean reality itself is going to fall apart.
 
-d of the Story
-
-7\. The En of 134
-
-ther facts about almost any subject, and a .
-
-Fs being’s capability to provide it to him, Ais oe ain seat single
-
-himself as the storehouse of knowledge. op seeing
+Teachers feel the impact of empowering technologies first. Computers challenge the teacher's role as the classroom's chief information provider. A single teacher's brain can't hold much more teachable data than a couple of CD ROM's, if that. When a kid can log onto an information service and gather facts about almost any subject, and at a depth beyond any single human being's capability to provide it to him, his teacher must stop seeing himself as the storehouse of knowledge.
 
 Teachers threatened by technology attempt to restrict it, or even prohibi
 
