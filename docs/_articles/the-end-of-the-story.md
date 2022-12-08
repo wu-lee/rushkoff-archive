@@ -195,29 +195,7 @@ The best companies employing screenagers welcome feedback and ideas from their w
 
 He laments the growth of the village into city-state, which forced people to specialize and sacrifice their overall participation in local affairs. Similarly, he believed that technology forces further specialization and even makes simpler, craft-oriented specialties obsolete.
 
-What McLuhan failed to foresee was that technology and cities alike
-
-would become so complex that their linear, highly organized structure would
-
-give way. The World Wide Web is anything if not highly participatory and
-
-barely organized. Computers don't “oversimplify" human interaction, as
-
-leading technology critics like Jerry Manders argue; they make it much more
-
-complex -- almost organic. The tremendous stability of the current vanguard
-
-of computer community-making is the result of the rather random way it
-
-tive participant in the
-
-/. The End of the Storwv—
-
-sprung up. Whoever understood how to create a site and had access to the
-
-proper equipment could do s0- Like any people exploring a new frontier,
-
-they formed villages, alliances, and networks for mutual support.
+What McLuhan failed to foresee was that technology and cities alike would become so complex that their linear, highly organized structure would give way. The World Wide Web is anything if not highly participatory and barely organized. Computers don't “oversimplify" human interaction, as leading technology critics like Jerry Manders argue; they make it much more complex -- almost organic. The tremendous stability of the current vanguard of computer community-making is the result of the rather random way it sprung up. Whoever understood how to create a site and had access to the proper equipment could do so. Like any people exploring a new frontier, they formed villages, alliances, and networks for mutual support.
 
 Eventually, businesses established presence on the Web, encouraging
 
