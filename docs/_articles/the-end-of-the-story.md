@@ -189,19 +189,7 @@ Empowered screenagers, on the other hand, see progress as an augmentation of the
 
 But they have also necessarily dropped the duality implicit in the word "employment". They are no longer passively being employed by an external force or person. Everyone from a store clerk or software designer to a garbage collector or medical doctor is an active participant in the development of culture or maintenance of life.
 
-But some jobs just aren't fun. Still, screenage movies like Clerks and TV
-
-shows like Friends glorify the apparently menial tasks of clerking at a video
-
-store or serving coffee. It's all in the attitude and relationships. Data entry
-
-and code crunching -- labors requiring more hands and eyes every day -- are
-
-hardly as creative as designing video games or creating network software.
-
-The young people involved in these seemingly rote tasks have found ways to
-
-make them more interesting.
+But some jobs just aren't fun. Still, screenage movies like Clerks and TV shows like Friends glorify the apparently menial tasks of clerking at a video store or serving coffee. It's all in the attitude and relationships. Data entry and code crunching -- labors requiring more hands and eyes every day -- are hardly as creative as designing video games or creating network software. The young people involved in these seemingly rote tasks have found ways to make them more interesting.
 
 The best companies employing screenagers welcome feedback and ideas
 
