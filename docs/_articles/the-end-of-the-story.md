@@ -231,23 +231,9 @@ When the would-be censors do catch wind of what the kids are talking about, they
 
 But can we blame them? By rejecting their efforts at community-making wholesale, we drive them further away, and isolate ourselves from their quite healthy urge towards restoring a social fabric. Neither we, nor our kids, can go it alone. Only by abandoning the need for enforced social and economic hierarchy and division as well as the convenient barricades they offer, and trusting that a weightless world will develop naturally into real, if fluid, communities can we move out from our self-imposed parental control into true adulthood.
 
-Will a fourteen-year-old kid playing Mortal Kombat over phone lines
+Will a fourteen-year-old kid playing Mortal Kombat over phone lines with another boy 1000 miles away, or another exchanging hip-hop tapes with a "homey" from across town eradicate the past fifty years of community disintegration? Probably not. But by focussing on the experience of real connection to one another -- which has nothing to do with defining an up or down, yet everything to do with gaining one's bearings in an intrinsically weightless system -- we can instill ourselves with the necessary confidence to step out of the womb and into the unknown.
 
-with another boy 1000 miles away, or another exchanging hip-hop tapes
-
-with a "homey" from across town eradicate the past fifty years of community
-
-disintegration? Probably not. But by focussing on the experience of real
-
-connection to one another -- which has nothing to do with defining an up or
-
-down, yet everything to do with gaining one's bearings in an intrinsically
-
-weightless system -- we can instill ourselves with the necessary confidence
-
-to step out of the womb and into the unknown.
-
-8\. CUSTER'S LAST STAND
+**8. CUSTER'S LAST STAND**
 
 It may very well be up to the developers of Digital TV to decide whether
 
