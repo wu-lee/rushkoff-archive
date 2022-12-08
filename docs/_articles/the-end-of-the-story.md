@@ -181,31 +181,7 @@ Marshall McLuhan foresaw much of our media revolution, but always felt the need 
 
 True, but, as any screenage hacker knows, it also enables those distant margins to extend their operations back to the central authority. Imagine, for a moment, a female sitting at her place of work, at the keyboard, with a headset, microphone, virtual reality goggles and, let's say, foot pedals. Do you see this person as victimized or empowered? Most socialists from McLuhan's school would see our thought-experiment test-subject as an exploited worker. Management, in its endless hunger for higher productivity, has enslaved one of the innocent proletariat in a web of wires and electrodes. Every possible sensory organ of this poor woman has been physically violated and condemned to hard labor, in a scene even more horrendous than a sweatshop.
 
-To a screenager, though, this individual could as easily be an empowered
-
-distinguishable aspects of life. She
-
-cybernaut, for whom work and play are in fe. SI
-
-may have won her VR goggles through hard work and perseverance, in spite
-
-working at home, as the
-
-of her boss's technophobia. She may even be 5
-
-designer of a dazzling new CD Rom game based on her own analysis of
-
-Jungian dream archetypes. She may even be fourteen years old. If she
-
-experiences herself as a creative participant in her employment rather a
-
-its helpless victim, then every tool at her disposal is another avenue for
-
-\-- expands
-
-extending her mastery. Her nervous system -- her very awareness -- €XP
-
-with every new implement she acq
+To a screenager, though, this individual could as easily be an empowered cybernaut, for whom work and play are indistinguishable aspects of life. She may have won her VR goggles through hard work and perseverance, in spite of her boss's technophobia. She may even be working at home, as the designer of a dazzling new CD Rom game based on her own analysis of Jungian dream archetypes. She may even be fourteen years old. If she experiences herself as a creative participant in her employment rather than its helpless victim, then every tool at her disposal is another avenue for extending her mastery. Her nervous system -- her very awareness -- expands with every new implement she acquires.
 
 Either vision can also be applie
 
