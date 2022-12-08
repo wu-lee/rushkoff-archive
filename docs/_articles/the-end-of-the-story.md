@@ -187,15 +187,7 @@ Either vision can also be applied to the DTV viewer. Is she augmented or impriso
 
 Empowered screenagers, on the other hand, see progress as an augmentation of their own journey towards empowerment and expansion. They spend their energies doing what they enjoy in order to get to do it some more. (This is what "to slack" really means.) Their jobs get easier and more fun when they've got better tools. They understand that enjoying work isn't a crime, and that turning creativity into a commodity is like getting paid for playing.
 
-But they have also necessarily dropped the duality implicit in the word
-
-"employment". They are no longer passively being employed by an external
-
-force or person. Everyone from a store clerk or software designer to a
-
-garbage collector or medical doctor is an ac
-
-development of culture or maintenance of life.
+But they have also necessarily dropped the duality implicit in the word "employment". They are no longer passively being employed by an external force or person. Everyone from a store clerk or software designer to a garbage collector or medical doctor is an active participant in the development of culture or maintenance of life.
 
 But some jobs just aren't fun. Still, screenage movies like Clerks and TV
 
