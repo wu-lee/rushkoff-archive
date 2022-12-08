@@ -197,25 +197,7 @@ He laments the growth of the village into city-state, which forced people to spe
 
 What McLuhan failed to foresee was that technology and cities alike would become so complex that their linear, highly organized structure would give way. The World Wide Web is anything if not highly participatory and barely organized. Computers don't “oversimplify" human interaction, as leading technology critics like Jerry Manders argue; they make it much more complex -- almost organic. The tremendous stability of the current vanguard of computer community-making is the result of the rather random way it sprung up. Whoever understood how to create a site and had access to the proper equipment could do so. Like any people exploring a new frontier, they formed villages, alliances, and networks for mutual support.
 
-Eventually, businesses established presence on the Web, encouraging
-
-people to visit their sites and learn about their goods and services. Many of
-
-these businesses are Web-related, offering software or advice for creating
-
-Web sites, or navigating the I
-
-recognize, the most stable an
-
-business and commerce. They are no
-
-where people can gather naturally around the barber shops, corner stores,
-
-and banks where they conduct their daily business. On the World Wide Web,
-
-just as in the well-designed town square, work, entertainment, and the civil
-
-society are interdependent and ultimately indistinguishable.
+Eventually, businesses established presence on the Web, encouraging people to visit their sites and learn about their goods and services. Many of these businesses are Web-related, offering software or advice for creating Web sites, or navigating the Internet. And again, as most urban planners now recognize, the most stable and thriving communities are built around business and commerce. They are not isolated suburbs, but small towns where people can gather naturally around the barber shops, corner stores, and banks where they conduct their daily business. On the World Wide Web, just as in the well-designed town square, work, entertainment, and the civil society are interdependent and ultimately indistinguishable.
 
 Digital television appears to be developing the other way. It is beginning
 
@@ -228,12 +210,6 @@ local conversation? Or, in the television environment, will businesses be
 able to make money and provide enduring employment in a way that the
 
 Internet simply hasn't?
-
-nternet. And again, as most urban planners now
-
-d thriving communities are built around
-
-t isolated suburbs, but small towns
 
 Many still wonder how people are going to make a living in the so-called
 
