@@ -223,17 +223,7 @@ We are like our ancestors who, only understanding gravity as a top-down proposit
 
 Teachers threatened by technology attempt to restrict it, or even prohibit it's use in the classroom, justifying their actions with bogus claims about how computers quell creativity or stunt social skills. This tactic aimed at prolonging a teacher's monopoly on data is doomed to failure. Instead, like movie theater owners reckoning with the advent of videocassettes, teachers must discover what they can offer that a computer cannot. Such teachers will realize that they have been liberated from the rote task of supplying information -- a machine can do that.
 
-Unlike a computer, a human teacher can be a partner in learning, and
-
-instead dedicate himself to giving his pupils the necessary criteria to judge
-
-their data's integrity, make connections between different facts and
-
-formulate opinions and arguments of their own. The best of them will instill
-
-their pupils with the confidence and enthusiasm to express themselves as
-
-widely and articulately as possible.
+Unlike a computer, a human teacher can be a partner in learning, and instead dedicate himself to giving his pupils the necessary criteria to judge their data's integrity, make connections between different facts, and formulate opinions and arguments of their own. The best of them will instill their pupils with the confidence and enthusiasm to express themselves as widely and articulately as possible.
 
 Much like the Internet subculture, rap and hip-hop culture were enabled
 
