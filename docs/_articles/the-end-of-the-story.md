@@ -8,7 +8,6 @@ blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-published: false
 
 ---
 **Key words:** Interactive television, video games, media hacking, world wide web, empowerment, deconstruction, media literacy, Rushkoff, chaos, children, networked entertainment, digital TV
