@@ -11,17 +11,9 @@ sources: ''
 published: false
 
 ---
-h) Is the Internet American? Much of Europe seems to think so.
+**b) Is the Internet American? Much of Europe seems to think so.**
 
-To European cultures that believe their value lies in their past
-
-contributions, or to leaders and academics who feel their own authority
-
-rests in accomplishments of decades or centuries ago, the spread of the
-
-s Internet across the Atlantic is understandably threatening. Internet
-
-culture catalyzes change.
+To European cultures that believe their value lies in their past contributions, or to leaders and academics who feel their own authority rests in accomplishments of decades or centuries ago, the spread of the Internet across the Atlantic is understandably threatening. Internet culture catalyzes change.
 
 Although European intellectuals tell us they fear further domination
 
