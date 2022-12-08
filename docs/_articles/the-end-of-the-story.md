@@ -229,41 +229,7 @@ Much like the Internet subculture, rap and hip-hop culture were enabled by a wil
 
 When the would-be censors do catch wind of what the kids are talking about, they are horrified. Time-Warner is regularly in the headlines for distributing music that, at least on the surface, degrades women and challenges the authority of police officers. The real and much more powerful threat of this music, however, is that it fosters a tight-knit subculture of kids who are willfully reprogramming themselves with ideas they feel are more appropriate to survival in the modern urban landscape. They are creating tribes bound together by new sets of values that, unfortunately, because they are necessarily disconnected from the values of their elders, often lack some of the tempered wisdom of an older civilization.
 
-But can we blame them? By rejecting their efforts at community-making
-
-wholesale, We drive them further away; and isolate ourselves from their
-
-rds restoring a social fabric. Neither we, nor our kids,
-
-quite healthy urge towa
-
-Only by abandoning the need for enforced social and
-
-hy and division as well as the convenient barricades they
-
-it's US
-
-how comput
-
-rolonging 4
-
-movie theate
-
-must discover
-
-can go tt alone.
-
-economic hierarc
-
-oo”
-
-124 Digital py
-
-offer, and trusting that a weightless world will develop naturally into real, if
-
-fluid, communities can we move out from our self-imposed parental contro}
-
-into true adulthood.
+But can we blame them? By rejecting their efforts at community-making wholesale, we drive them further away, and isolate ourselves from their quite healthy urge towards restoring a social fabric. Neither we, nor our kids, can go it alone. Only by abandoning the need for enforced social and economic hierarchy and division as well as the convenient barricades they offer, and trusting that a weightless world will develop naturally into real, if fluid, communities can we move out from our self-imposed parental control into true adulthood.
 
 Will a fourteen-year-old kid playing Mortal Kombat over phone lines
 
