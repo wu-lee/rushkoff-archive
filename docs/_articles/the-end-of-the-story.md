@@ -239,8 +239,4 @@ It may very well be up to the developers of Digital TV to decide whether to supp
 
 The daily mergers of giant media conglomerates may not pose such a tremendous threat to the emergence of a truly interactive datasphere as we believed. No, they are more like a band of cowboys circling their wagons in the face of an imminent attack.
 
-If the would-be colonizers of Digital TV hope to survive for any length
-
-of time in the datasphere, they will either have to learn the local customs, or
-
-go to war with the people they claim to serve.
+If the would-be colonizers of Digital TV hope to survive for any length of time in the datasphere, they will either have to learn the local customs, or go to war with the people they claim to serve.
