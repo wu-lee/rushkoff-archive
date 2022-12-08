@@ -209,27 +209,7 @@ In order to take advantage of the opportunity before us, we must learn to see ou
 
 For example, at almost every talk I've given about networking technology, someone complains that the Web might be a new avenue for disinformation, especially by advertisers. How will a person know what to believe and what not to believe? Compounding the confusion, reporters sometimes research a story simply by visiting a company's Web site and transcribing prepared press materials. They quote the press releases nearly word for word in their news stories, leading those of us who have seen both the posted press release and the publicized article to become quite suspicious of the way news is being gathered in the information age.
 
-co is that this is the way most reporters have always
-
-What we fail to rea "
-
-researched their stories. Before computer networks, it was accomplished
-
-more surreptitiously through mailed press releases OF phone calls. Now that
-
-information is disseminated, we
-
-we are all becoming witnesses to the way iss
-
-are gaining a more, not less accurate picture of the ways disinformation js
-
-accomplished. The process is being revealed to us. The real problem is that
-
-the more convenient our communications technology gets, the more choice
-
-we have. The more choices we make, the more honest we get, and the fewer
-
-secrets we are allowed to keep.
+What we fail to realize is that this is the way most reporters have always researched their stories. Before computer networks, it was accomplished more surreptitiously through mailed press releases or phone calls. Now that we are all becoming witnesses to the way information is disseminated, we are gaining a more, not less accurate picture of the ways disinformation is accomplished. The process is being revealed to us. The real problem is that the more convenient our communications technology gets, the more choice we have. The more choices we make, the more honest we get, and the fewer secrets we are allowed to keep.
 
 at almost every
 
