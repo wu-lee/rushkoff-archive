@@ -13,9 +13,7 @@ published: false
 ---
 Democracy is a great thing. I suppose a book about the future is as good a place as any to imagine whether one might ever, truly, come to be -- and how.
 
-\-
-
-Developing our collective autonomy - our shared responsibility for our unfolding reality has been the great human challenge for ages and no doubt will continue to be one for ages to come. But thanks to a recent flurry of scientific, technological, and conceptual innova- tions, a unique opportunity for upgrad- ing democratic participation may, in fact, be available to us today. We might even be ready to engage in something much closer to democracy than we may have previously imagined.
+Developing our collective autonomy -- our shared responsibility for our unfolding reality -- has been the great human challenge for ages and no doubt will continue to be one for ages to come. But thanks to a recent flurry of scientific, technological, and conceptual innovations, a unique opportunity for upgrading democratic participation may, in fact, be available to us today. We might even be ready to engage in something much closer to democracy than we may have previously imagined.
 
 something very old from a new perspec- tive. Renaissance innovations, from cir- cumnavigation of the globe and calculus to perspective painting and the printing press, all involved increasing our con- cept of dimensionality, in one way or another. They increased our perspective on the stuff that we always had with us. This shift in perspective led to everything from the Protestant Reformation to the Enlightenment and republicanism.
 
