@@ -17,11 +17,7 @@ To European cultures that believe their value lies in their past contributions, 
 
 Although European intellectuals tell us they fear further domination of their media by American cultural iconography like Disney or Madonna, I believe this is merely a ruse designed to rile up their citizens into ethnocentric isolationism. Surely they understand that, unlike television or even movies, the Internet promotes participation more than it does passive absorption of content. By getting online, any culture gains the opportunity to spread its own iconography back to the rest of the world.
 
-1s When pressed on the issue, European academics admit that what
-
-they really fear is what their own unfettered populations might do with
-
-the power of media. \[ ... \]
+When pressed on the issue, European academics admit that what they really fear is what their own unfettered populations might do with the power of media. \[...\]
 
 I have faith that humans left to their own devices will not choose to
 
