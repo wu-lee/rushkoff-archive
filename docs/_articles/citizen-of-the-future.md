@@ -43,11 +43,7 @@ I can give you a few ways to tell if any particular innovation or opportunity fo
 
 First, you have to accept that the stories in our news media -- from the heated debates on _Meet the Press_ to glad-handing, "non-partisan" announcements in the Rose Garden -- often have very little to do with what is actually going on. They are commonly exploited as opportunities to contextualize something that will happen in the future (hype) or to recontextualize something that happened in the past (spin). The only way to judge the integrity of what politicians say or do is to measure the extent to which they are willing to disclose their actual points of view. The more a politician claims he or she is "right," rather than simply explaining and defending an arbitrary but heartfelt strategy, the less democratic he or she is being.
 
-xxx
-
-I can give you a few ways to tell if any icular innovation or opportunity for icipation that our leaders bestow
-
-Likewise, the more the political and legislative processes are mired by issues concerning flags, God, or national pride, the less likely they are to address the realities of governance. These are artifi- cial ways of uniting large masses of people - not mechanisms for the devel- opment and expression of a multiplicity of points of view.
+Likewise, the more the political and legislative processes are mired by issues concerning flags, God, or national pride, the less likely they are to address the realities of governance. These are artificial ways of uniting large masses of people -- not mechanisms for the development and expression of a multiplicity of points of view.
 
 Real democracy is a negotiation. It is a way of orchestrating the collective will, while protecting the rights of minorities and individuals. Although nature provides us with many models for how such organ- ic relationships can thrive - a coral reef, these say, or colony of slime mould organic networks are generally cruel to the weak. Government, and civilization itself, exists to improve upon nature by replac- ing cruelty with cooperation.
 
