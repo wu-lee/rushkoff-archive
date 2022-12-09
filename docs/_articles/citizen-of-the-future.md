@@ -21,13 +21,11 @@ Renaissances, on the other hand, seem to recognize the fraudulence of the novel.
 
 The 20th century may have brought us through a renaissance, too. Photographing the earth from space changed our relationship to its dimensionality; so did gaining the ability to destroy it with nuclear weapons. Perspective painting finds its modern corollary in holographs. Calculus allowed us to describe one dimension in the language of another, while fractals gave us the ability to describe fractional dimensions. The Gutenberg press opened the world of reading to the masses, while the computer and Internet opened the world of writing.
 
+In short, the original renaissance gave individuals the ability to interpret and redefine their relationship to the institutions, ideas, and texts that guided their cultures. Our more recent renaissance gives individuals the ability to co-author them. Just as we moved from being able to encircle the globe to being able to blow it up, we are moving from the experience of our citizenship as a right to bear witness toward the sense of responsibility to participate actively.
+
 Successive renaissances moved human beings from the roles of spectators to that of interpreters to that of creators. Each one increased the dimensionality of our orientation to the processes that steer civilization.
 
-able to blow it up, we are moving from the experience of our citizenship as a right to bear witness toward the sense of respon- sibility to participate actively.
-
 Our many renaissance innovations, if we can call them that, provide new frames through which we can come to understand the nature of democratic participation and collective cultural engineering.
-
-In short, the original renaissance gave individuals the ability to interpret and redefine their relationship to the institutions, ideas, and texts that guided their cultures. Our more recent renais- sance gives individuals the ability to co- author them. Just as we moved from being able to encircle the globe to being
 
 This is why so many people, on learning of the Internet, began to think of
 
