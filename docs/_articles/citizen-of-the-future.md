@@ -41,15 +41,9 @@ For representative democracies in search of a sustainable future, the best cours
 
 I can give you a few ways to tell if any particular innovation or opportunity for participation that our leaders bestow upon us is bringing us closer to participatory democracy.
 
+First, you have to accept that the stories in our news media -- from the heated debates on _Meet the Press_ to glad-handing, "non-partisan" announcements in the Rose Garden -- often have very little to do with what is actually going on. They are commonly exploited as opportunities to contextualize something that will happen in the future (hype) or to recontextualize something that happened in the past (spin). The only way to judge the integrity of what politicians say or do is to measure the extent to which they are willing to disclose their actual points of view. The more a politician claims he or she is "right," rather than simply explaining and defending an arbitrary but heartfelt strategy, the less democratic he or she is being.
+
 xxx
-
-\-
-
-First, you have to accept that the stories in our news media from the heated debates on Meet the Press to glad- handing, "non-partisan" announce- often have ments in the Rose Garden an elitist. of the public will
-
-on. They are commonly exploited as all, isn't it?
-
-opportunities to contextualize something that will happen in the future (hype) or to recontextualize something that happened in the past (spin). The only way to judge the integrity of what politicians say or do is to measure the extent to which they are willing to disclose their actual points of view. The more a politician claims he or she is "right," rather than simply explain- ing and defending an arbitrary but heart- felt strategy, the less democratic he or she is being.
 
 I can give you a few ways to tell if any icular innovation or opportunity for icipation that our leaders bestow
 
