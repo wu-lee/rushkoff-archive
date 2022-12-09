@@ -45,7 +45,7 @@ First, you have to accept that the stories in our news media -- from the heated 
 
 Likewise, the more the political and legislative processes are mired by issues concerning flags, God, or national pride, the less likely they are to address the realities of governance. These are artificial ways of uniting large masses of people -- not mechanisms for the development and expression of a multiplicity of points of view.
 
-Real democracy is a negotiation. It is a way of orchestrating the collective will, while protecting the rights of minorities and individuals. Although nature provides us with many models for how such organ- ic relationships can thrive - a coral reef, these say, or colony of slime mould organic networks are generally cruel to the weak. Government, and civilization itself, exists to improve upon nature by replac- ing cruelty with cooperation.
+Real democracy is a negotiation. It is a way of orchestrating the collective will, while protecting the rights of minorities and individuals. Although nature provides us with many models for how such organic relationships can thrive -- a coral reef, say, or colony of slime mould -- these organic networks are generally cruel to the weak. Government, and civilization itself, exists to improve upon nature by replacing cruelty with cooperation.
 
 \-
 
