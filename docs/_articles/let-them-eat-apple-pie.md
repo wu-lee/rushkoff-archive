@@ -19,10 +19,4 @@ Although European intellectuals tell us they fear further domination of their me
 
 When pressed on the issue, European academics admit that what they really fear is what their own unfettered populations might do with the power of media. \[...\]
 
-I have faith that humans left to their own devices will not choose to
-
-rape and pillage one another. The overwhelmingly positive social
-
-20 effects of the Internet so far demonstrate that most people would rather
-
-chat and commune than brainwash or retreat.
+I have faith that humans left to their own devices will not choose to rape and pillage one another. The overwhelmingly positive social effects of the Internet so far demonstrate that most people would rather chat and commune than brainwash or retreat.
