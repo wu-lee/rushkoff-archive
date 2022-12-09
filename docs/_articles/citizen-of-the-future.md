@@ -33,9 +33,9 @@ These are noble but misguided visions. Just as executives must not micromanage t
 
 Most visions and implementations of teledemocracy, so far, suffer from the worst symptoms of consumer culture: they focus on short-term ideals; they encourage impulsive, image-driven decision-making; and they aim to convince people that their mouse clicking is some kind of direct action. And anyone arguing against such schemes must be an enemy of the public will -- an elitist. Teledemocracy is a populist revival, after all, isn't it?
 
-\-
+Perhaps. But the system of representation on which most democracies were built was intended to buffer the negative effects of such populist revivals. Although they may not always live up to it, our representatives' role is to think beyond short-term interests of the majority. They are elected to protect the rights of minority interests -- the sorts of people and groups who are still too often cast as "special interest groups."
 
-upon us is bringing us closer to partici- patory democracy.
+xxx
 
 \-
 
@@ -44,8 +44,6 @@ First, you have to accept that the stories in our news media from the heated deb
 on. They are commonly exploited as all, isn't it?
 
 opportunities to contextualize something that will happen in the future (hype) or to recontextualize something that happened in the past (spin). The only way to judge the integrity of what politicians say or do is to measure the extent to which they are willing to disclose their actual points of view. The more a politician claims he or she is "right," rather than simply explain- ing and defending an arbitrary but heart- felt strategy, the less democratic he or she is being.
-
-Perhaps. But the system of repre- sentation on which most democracies were built was intended to buffer the negative effects of such populist revivals. Although they may not always live up to it, our representatives' role is to think bevond short-term interests of the majority. They are elected to protect the rights of minority interests - the sorts of people and groups who are still too often Cest as "special interest groups."
 
 The true promise of a network- hanced democracy lies not in some rm of Web-driven political marketing arvey, but in restoring and encouraging roader participation in some of the net- worked world's more interactive forums. ctivists of all stripes are gaining the reedom and facility to network and rganize across vast geographical, ational, racial, and even ideological dif- rences. Indeed, democracy itself may on outgrow the artificial boundaries of nation-states that first spawned it. For representative democracies in rch of a sustainable future, the best rse may well be a new emphasis on cation, where elected leaders engage h constituents and justify the deci- ms they have made on our behalf, her than simply soliciting our ment-to-moment opinions.
 
