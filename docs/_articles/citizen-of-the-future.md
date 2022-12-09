@@ -17,9 +17,7 @@ Developing our collective autonomy -- our shared responsibility for our unfoldin
 
 For the most part, democracies have been born out of revolutions. This is why, also for the most part, they haven't ended up functioning like democracies at all. Revolutions are just that -- circles. They aren't usually fought by people with the ability to allow for anything particularly new to emerge; revolutionaries simply want to fight against whoever is oppressing them. Maybe that's why they usually end up simply replacing them. Perhaps there is nothing truly new, under the sun, anyway. The pronouncements of Next Big Things -- as far as I can tell -- are more useful for riling up crowds than providing us with a cogent plan for the future.
 
-something very old from a new perspec- tive. Renaissance innovations, from cir- cumnavigation of the globe and calculus to perspective painting and the printing press, all involved increasing our con- cept of dimensionality, in one way or another. They increased our perspective on the stuff that we always had with us. This shift in perspective led to everything from the Protestant Reformation to the Enlightenment and republicanism.
-
-Renaissances, on the other hand, seem to recognize the fraudulence of the novel. Literally the "rebirth of old ideas in a new context," renaissances are sim- ply moments when we recontextualize
+Renaissances, on the other hand, seem to recognize the fraudulence of the novel. Literally the "rebirth of old ideas in a new context," renaissances are simply moments when we recontextualize something very old from a new perspective. Renaissance innovations, from circumnavigation of the globe and calculus to perspective painting and the printing press, all involved increasing our concept of dimensionality, in one way or another. They increased our perspective on the stuff that we always had with us. This shift in perspective led to everything from the Protestant Reformation to the Enlightenment and republicanism.
 
 142 Horizons Essay
 
