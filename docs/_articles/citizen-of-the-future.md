@@ -25,11 +25,9 @@ In short, the original renaissance gave individuals the ability to interpret and
 
 Our many renaissance innovations, if we can call them that, provide new frames through which we can come to understand the nature of democratic participation and collective cultural engineering.
 
+This is why so many people, on learning of the Internet, began to think of ways it could be used to enhance the participation of citizens in the affairs of their governments. The first and simplest visions were for something called "teledemocracy." To most people, this meant being able to vote in presidential and other elections through their home computers. Soon, even more elaborate visions emerged of citizens being able to vote on every issue coming before Congress -- even replacing elected officials with daily, national votes.
+
 Successive renaissances moved human beings from the roles of spectators to that of interpreters to that of creators. Each one increased the dimensionality of our orientation to the processes that steer civilization.
-
-This is why so many people, on learning of the Internet, began to think of
-
-ways it could be used to enhance the participation of citizens in the affairs of their governments. The first and sim- plest visions were for something called "teledemocracy." To most people, this meant being able to vote in presidential and other elections through their home computers. Soon, even more elaborate visions emerged of citizens being able to vote on every issue coming before Congress - even replacing elected offi- cials with daily, national votes.
 
 \-
 
