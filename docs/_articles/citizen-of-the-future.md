@@ -23,9 +23,9 @@ The 20th century may have brought us through a renaissance, too. Photographing t
 
 In short, the original renaissance gave individuals the ability to interpret and redefine their relationship to the institutions, ideas, and texts that guided their cultures. Our more recent renaissance gives individuals the ability to co-author them. Just as we moved from being able to encircle the globe to being able to blow it up, we are moving from the experience of our citizenship as a right to bear witness toward the sense of responsibility to participate actively.
 
-Successive renaissances moved human beings from the roles of spectators to that of interpreters to that of creators. Each one increased the dimensionality of our orientation to the processes that steer civilization.
-
 Our many renaissance innovations, if we can call them that, provide new frames through which we can come to understand the nature of democratic participation and collective cultural engineering.
+
+Successive renaissances moved human beings from the roles of spectators to that of interpreters to that of creators. Each one increased the dimensionality of our orientation to the processes that steer civilization.
 
 This is why so many people, on learning of the Internet, began to think of
 
