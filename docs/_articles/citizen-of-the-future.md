@@ -39,6 +39,8 @@ The true promise of a network-enhanced democracy lies not in some form of Web-dr
 
 For representative democracies in search of a sustainable future, the best course may well be a new emphasis on education, where elected leaders engage with constituents and justify the decisions they have made on our behalf, rather than simply soliciting our moment-to-moment opinions.
 
+I can give you a few ways to tell if any particular innovation or opportunity for participation that our leaders bestow upon us is bringing us closer to participatory democracy.
+
 xxx
 
 \-
@@ -79,13 +81,9 @@ all, isn't it?
 
 anyone
 
-upon us is bringing us closer to partici- patory democracy.
-
 First, you have to accept that the stories in our news media heated debates on Meet the Press to glad- from the handing, "non-partisan" announce ments in the Rose Garden - often have very little to do with what is actually going on. They are commonly exploited as opportunities to contextualize something that will happen in the future (hype) or to recontextualize something that happened in the past (spin). The only way to judge the integrity of what politicians say or do is to measure the extent to which they willing to disclose their actual points of view. The more a politician claims he or she is "right," rather than simply explain- ing and defending an arbitrary but heart- felt strategy, the less democratic he or she is being.
 
 Perhaps. But the system of repre- sentation on which most democracies Iwere built was intended to buffer the negative effects of such populist revivals. Although they may not always live up to it, our representatives' role is to think beyond short-term interests of the majority. They are elected to protect the rights of minority interests - the sorts of people and groups who are still too often cast as "special interest groups." 
-
-I can give you a few ways to tell if any particular innovation or opportunity for participation that our leaders bestow
 
 are
 
