@@ -31,13 +31,7 @@ This is why so many people, on learning of the Internet, began to think of ways 
 
 These are noble but misguided visions. Just as executives must not micromanage their staffs, the voting citizens of a country must not micromanage their elected executives. This is why the system of representative democracy was invented. We elect representatives who can spend all day studying issues and then voting on them more intelligently than we can because we have full-time jobs doing other things. Representative democracy is not a surrender of authority but a concession to efficiency and specialization.
 
-Most visions and implementations of teledemocracy, so far, suffer from the worst symptoms of consumer culture:
-
-they focus on short-term ideals; they encourage impulsive, image-driven decision-making; and they aim to con-
-
-people that their mouse clicking is some kind of direct action. And anyone arguing against such schemes must be an
-
-enemy
+Most visions and implementations of teledemocracy, so far, suffer from the worst symptoms of consumer culture: they focus on short-term ideals; they encourage impulsive, image-driven decision-making; and they aim to convince people that their mouse clicking is some kind of direct action. And anyone arguing against such schemes must be an enemy of the public will -- an elitist. Teledemocracy is a populist revival, after all, isn't it?
 
 \-
 
@@ -46,8 +40,6 @@ upon us is bringing us closer to partici- patory democracy.
 \-
 
 First, you have to accept that the stories in our news media from the heated debates on Meet the Press to glad- handing, "non-partisan" announce- often have ments in the Rose Garden an elitist. of the public will
-
-very little to do with what is actually going Teledemocracy is a populist revival, after
 
 on. They are commonly exploited as all, isn't it?
 
