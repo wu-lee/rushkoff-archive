@@ -21,17 +21,15 @@ Renaissances, on the other hand, seem to recognize the fraudulence of the novel.
 
 The 20th century may have brought us through a renaissance, too. Photographing the earth from space changed our relationship to its dimensionality; so did gaining the ability to destroy it with nuclear weapons. Perspective painting finds its modern corollary in holographs. Calculus allowed us to describe one dimension in the language of another, while fractals gave us the ability to describe fractional dimensions. The Gutenberg press opened the world of reading to the masses, while the computer and Internet opened the world of writing.
 
+Successive renaissances moved human beings from the roles of spectators to that of interpreters to that of creators. Each one increased the dimensionality of our orientation to the processes that steer civilization.
+
 In short, the original renaissance gave individuals the ability to interpret and redefine their relationship to the institutions, ideas, and texts that guided their cultures. Our more recent renaissance gives individuals the ability to co-author them. Just as we moved from being able to encircle the globe to being able to blow it up, we are moving from the experience of our citizenship as a right to bear witness toward the sense of responsibility to participate actively.
 
 Our many renaissance innovations, if we can call them that, provide new frames through which we can come to understand the nature of democratic participation and collective cultural engineering.
 
 This is why so many people, on learning of the Internet, began to think of ways it could be used to enhance the participation of citizens in the affairs of their governments. The first and simplest visions were for something called "teledemocracy." To most people, this meant being able to vote in presidential and other elections through their home computers. Soon, even more elaborate visions emerged of citizens being able to vote on every issue coming before Congress -- even replacing elected officials with daily, national votes.
 
-Successive renaissances moved human beings from the roles of spectators to that of interpreters to that of creators. Each one increased the dimensionality of our orientation to the processes that steer civilization.
-
-\-
-
-These are noble but misguided visions. Just as executives must not micromanage their staffs, the voting citi- zens of a country must not micromanage their elected executives. This is why the system of representative democracy was invented. We elect representatives who can spend all day studying issues and then voting on them more intelligently than we can because we have full-time jobs doing other things. Representative democracy is not a surrender of authority but a con- cession to efficiency and specialization.
+These are noble but misguided visions. Just as executives must not micromanage their staffs, the voting citizens of a country must not micromanage their elected executives. This is why the system of representative democracy was invented. We elect representatives who can spend all day studying issues and then voting on them more intelligently than we can because we have full-time jobs doing other things. Representative democracy is not a surrender of authority but a concession to efficiency and specialization.
 
 Most visions and implementations of teledemocracy, so far, suffer from the worst symptoms of consumer culture:
 
