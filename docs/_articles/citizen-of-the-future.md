@@ -21,7 +21,7 @@ Renaissances, on the other hand, seem to recognize the fraudulence of the novel.
 
 142 Horizons Essay
 
-The 20th century may have brought us through a renaissance, too. Photographing the earth from space changed our relationship to its dimen- sionality; so did gaining the ability to destroy it with nuclear weapons. Perspective painting finds its modern corollary in holographs. Calculus allowed us to describe one dimension in the lan- guage of another, while fractals gave us the ability to describe fractional dimen- sions. The Gutenberg press opened the world of reading to the masses, while the computer and Internet opened the world of writing.
+The 20th century may have brought us through a renaissance, too. Photographing the earth from space changed our relationship to its dimensionality; so did gaining the ability to destroy it with nuclear weapons. Perspective painting finds its modern corollary in holographs. Calculus allowed us to describe one dimension in the language of another, while fractals gave us the ability to describe fractional dimensions. The Gutenberg press opened the world of reading to the masses, while the computer and Internet opened the world of writing.
 
 Successive renaissances moved human beings from the roles of specta- tors to that of interpreters to that of cre- ators. Each one increased the dimen- sionality of our orientation to the processes that steer civilization.
 
