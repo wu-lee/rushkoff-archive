@@ -19,11 +19,9 @@ For the most part, democracies have been born out of revolutions. This is why, a
 
 Renaissances, on the other hand, seem to recognize the fraudulence of the novel. Literally the "rebirth of old ideas in a new context," renaissances are simply moments when we recontextualize something very old from a new perspective. Renaissance innovations, from circumnavigation of the globe and calculus to perspective painting and the printing press, all involved increasing our concept of dimensionality, in one way or another. They increased our perspective on the stuff that we always had with us. This shift in perspective led to everything from the Protestant Reformation to the Enlightenment and republicanism.
 
-142 Horizons Essay
-
 The 20th century may have brought us through a renaissance, too. Photographing the earth from space changed our relationship to its dimensionality; so did gaining the ability to destroy it with nuclear weapons. Perspective painting finds its modern corollary in holographs. Calculus allowed us to describe one dimension in the language of another, while fractals gave us the ability to describe fractional dimensions. The Gutenberg press opened the world of reading to the masses, while the computer and Internet opened the world of writing.
 
-Successive renaissances moved human beings from the roles of specta- tors to that of interpreters to that of cre- ators. Each one increased the dimen- sionality of our orientation to the processes that steer civilization.
+Successive renaissances moved human beings from the roles of spectators to that of interpreters to that of creators. Each one increased the dimensionality of our orientation to the processes that steer civilization.
 
 able to blow it up, we are moving from the experience of our citizenship as a right to bear witness toward the sense of respon- sibility to participate actively.
 
