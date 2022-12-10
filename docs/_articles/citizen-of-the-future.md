@@ -8,7 +8,6 @@ blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-published: false
 
 ---
 Democracy is a great thing. I suppose a book about the future is as good a place as any to imagine whether one might ever, truly, come to be -- and how.
