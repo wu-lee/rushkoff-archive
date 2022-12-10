@@ -18,5 +18,3 @@ But science's unearned commitment to materialism has led us into convoluted assu
 It's entirely more rational--and less steeped in storybook logic--to work with the possibility that time predates matter and that consciousness is less the consequence of a physical cause-and-effect reality than a precursor.
 
 By starting with Godlessness as a foundational principle of scientific reasoning, we make ourselves unnecessarily resistant to the novelty of human consciousness, its potential continuity over time, and the possibility that it has purpose.
-
-104
