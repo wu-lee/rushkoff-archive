@@ -8,7 +8,6 @@ blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-published: false
 
 ---
 We don't need to credit an all-seeing God with the creation of life and matter to suspect that something wonderfully strange is going on in the dimension we call reality. Most of us living in it feel invested with a sense of purpose. Whether this directionality is a genuine, preexisting condition of the universe, an illusion perpetrated by DNA, or something that will one day emerge from social interaction has yet to be determined. At the very least, this means our experience and expectations of life can no longer be dismissed as impediments to proper observation and analysis.
