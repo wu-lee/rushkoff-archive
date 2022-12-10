@@ -15,7 +15,7 @@ We don't need to credit an all-seeing God with the creation of life and matter t
 
 But science's unearned commitment to materialism has led us into convoluted assumptions about the origins of spacetime, in which time itself simply must be accepted as a by-product of the Big Bang, and consciousness (if it even exists) as a by- product of matter. Such narratives follow information on its continuing evolution toward complexity, the Singularity, and robot consciousness--a saga no less apocalyptic than the most literal interpretations of biblical prophecy.
 
-It's entirely more rational-and less steeped in storybook logic-to work with the possibility that time predates matter and that consciousness is less the consequence of a physical cause-and-effect reality than a precursor.
+It's entirely more rational--and less steeped in storybook logic--to work with the possibility that time predates matter and that consciousness is less the consequence of a physical cause-and-effect reality than a precursor.
 
 By starting with Godlessness as a foundational principle of scientific reasoning, we make ourselves unnecessarily resistant to the novelty of human consciousness, its potential continuity over time, and the possibility that it has purpose.
 
