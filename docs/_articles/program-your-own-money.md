@@ -27,17 +27,7 @@ Over the next four hundred years, the business of money slowly grew bigger than 
 
 As the banking industry grew bigger and less regulated, institutions consolidated, making the notion of a local lender obsolete, as well. Loans are centrally processed by bankers who have little knowledge of the companies or people to whom they are lending -- and little reason to learn about them, since they are simply packaging and selling the loans, anyway.
 
-DOUGLAS RUSHKOFF
-
-Tl house of cards had to fall eventually. The trul}' am . H' " 1az1n
-
-th ing is how long it laste_d. And\~ our attempts to p\~op it back u!
-
-ontinue to fail us, we might consider whether there 1s a bett
-
-c . . er \\vay
-
-to do business. I think there 1s.
+The house of cards had to fall eventually. The truly amazing thing is how long it lasted. And as our attempts to prop it back up continue to fail us, we might consider whether there is a better way to do business. I think there is.
 
 The beau\~· of this era-this networked, high-tech, and d . tralized world-is that we no longer have to do everything from the
 
