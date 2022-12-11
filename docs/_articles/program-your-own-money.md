@@ -37,19 +37,7 @@ Complementary currencies treat money as a utility, rather than an asset class. T
 
 In 1995, as recession rocked Japan, unemployment rose and currency became scarce. This made it particularly difficult for people to continue to take care of their elderly relatives, who often lived in distant areas. The Sawayaka Welfare Foundation developed a complementary currency by which a young person could earn credits for taking care of an elderly person, and then spend them on the care of their own relatives in distant towns. At last count, the alternative currency was accepted at 372 health centers throughout Japan, and all administered by a simple piece of software. Close to a thousand alternative currencies are now in use in Japan.
 
-In October 2008, as the U.S. credit crisis paralyzed business
-
-lending, companies started signing onto barter networks in droves.
-
-One system called ITEX, which allows businesses to trade merchandise, reported a 37 percent increase in registrations for the month
-
-of October alone. Utilizing more than 250 exchange services now
-
-available through the internet, companies can barter directly with
-
-each other, or earn U.S.--dollar-equivalent credits for the merchandise they supply to others. This bartering already accounts for $3
-
-billion of exchanges annually in the United States.
+In October 2008, as the U.S. credit crisis paralyzed business lending, companies started signing onto barter networks in droves. One system called ITEX, which allows businesses to trade merchandise, reported a 37 percent increase in registrations for the month of October alone. Utilizing more than 250 exchange services now available through the internet, companies can barter directly with each other, or earn U.S.-dollar-equivalent credits for the merchandise they supply to others. This bartering already accounts for $3 billion of exchanges annually in the United States.
 
 Complementary currencies hearken back to an earlier f01m of
 
