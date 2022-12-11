@@ -45,29 +45,7 @@ Local currencies actually lost value over time. The grain store needed to be pai
 
 That's right -- the cathedrals of Europe were not built with Vatican dollars, but local currency. The people of these towns were looking for ways to help their grandchildren profit off current wealth. Cathedrals attracted pilgrims and tourists, and have kept many towns profitable to this day.
 
-B\~- making local rnnencies illegal, monarchs were able to monopolize moner, and tilt investment and wealth toward the center. People could no longer earn money into existence-they would have to
-
-b<mow it from a cenmtl bank, at interest. While this kind of money
-
-worked great when it was allowed to function alongside a local cu
-
-1
-
-s
-
-renC\\, it was not particularly well suited for local transactions. It was
-
-just too expensive and too scarce. It did not reflect the needs or
-
-bounty of a town, but the needs and artificial scarcity of a market
-
-created by a monarch. Going into business meant borrowing from
-
-the central bank-and then paying it back, at interest. And where
-
-did the extra money come from? Someone else who borrowed it and
-
-would necessarily go bankrupt.
+By making local currencies illegal, monarchs were able to monopolize money, and tilt investment and wealth toward the center. People could no longer earn money into existence -- they would have to borrow it from a central bank, at interest. While this kind of money worked great when it was allowed to function alongside a local currency, it was not particularly well suited for local transactions. It was just too expensive and too scarce. It did not reflect the needs or bounty of a town, but the needs and artificial scarcity of a market created by a monarch. Going into business meant borrowing from the central bank -- and then paying it back, at interest. And where did the extra money come from? Someone else who borrowed it and would necessarily go bankrupt.
 
 Either that, or borrow more money. And thus, the requirement
 
