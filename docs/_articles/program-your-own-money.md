@@ -47,19 +47,7 @@ That's right -- the cathedrals of Europe were not built with Vatican dollars, bu
 
 By making local currencies illegal, monarchs were able to monopolize money, and tilt investment and wealth toward the center. People could no longer earn money into existence -- they would have to borrow it from a central bank, at interest. While this kind of money worked great when it was allowed to function alongside a local currency, it was not particularly well suited for local transactions. It was just too expensive and too scarce. It did not reflect the needs or bounty of a town, but the needs and artificial scarcity of a market created by a monarch. Going into business meant borrowing from the central bank -- and then paying it back, at interest. And where did the extra money come from? Someone else who borrowed it and would necessarily go bankrupt.
 
-Either that, or borrow more money. And thus, the requirement
-
-of a cenu-al bank-dominated economy for infinite expansion-often
-
-at the expense of the environment and labor. But most importantly,
-
-the new economic scheme was designed to drain wealth from the
-
-periphery-such as colonies, territories, and rural areas-and pay
-
-it back to the middle. And it's the way banks work to this day, each
-
-borrowing from a higher, more centralized autho1ity.
+Either that, or borrow more money. And thus, the requirement of a central bank-dominated economy for infinite expansion -- often at the expense of the environment and labor. But most importantly, the new economic scheme was designed to drain wealth from the periphery -- such as colonies, territories, and rural areas -- and pay it back to the middle. And it's the way banks work to this day, each borrowing from a higher, more centralized authority.
 
 Internet-enabled complementary currencies breathe life into the
 
