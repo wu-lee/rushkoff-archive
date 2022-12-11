@@ -19,35 +19,7 @@ With any luck, however, the future of business will be less dependent on banks a
 
 Yes, we are watching something melt down. But I'd argue that the thing that's dying is not business itself, but a financial parasite -- a speculative marketplace that no longer funds business but instead seeks to extract value from healthy commerce. More a funds vampire than an infuser of needed capital, the investment industry has been exposed as a drag on business. The future of commerce looks bright to me because it may be unencumbered by the weight of this nonproductive capital.
 
-This all began back in th R . . . h e ena1ssance h . arc y was looking f , w en a wanmg mon- or ways to preser . ve Its power in the face of a
-
-39
-
-•sinu merchant class. The merchants
-
-n o were becomin .
-
-PROGRAM YOUR OWN MONEY
-
-rhe royals. So the monarchs came up with . g ncher than . B . an idea· ch
-
-010nopohes. y granung one of these c • anered . new companie .
-
-P
-
-rovince over a particular industry or re . s exclusive . gion, monarchs
-
-their w1dymg loyalty-as well as a generot . earned . is portion of shares . the enterpnse. They began to write laws th f 10
-
-. at avored their chartered companies, such as preventing inhabitants f 1 . . o co omes from
-
-creaung any value for themselves; they had t h" . 0 s 1P raw resources
-
-back to the mother country, where they w .
-
-clothes or other finished goods.
-
-ere processed m to
+This all began back in the Renaissance, when a waning monarchy was looking for ways to preserve its power in the face of a rising merchant class. The merchants were becoming richer than the royals. So the monarchs came up with an idea: chartered monopolies. By granting one of these new companies exclusive province over a particular industry or region, monarchs earned their undying loyalty -- as well as a generous portion of shares in the enterprise. They began to write laws that favored their chartered companies, such as preventing inhabitants of colonies from creating any value for themselves; they had to ship raw resources back to the mother country, where they were processed into clothes or other finished goods.
 
 This model of business-by-extraction carn·ed O t fi ver o nance
 
