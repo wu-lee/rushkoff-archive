@@ -17,21 +17,7 @@ No, not in the short term. When money becomes more expensive, it is harder for m
 
 With any luck, however, the future of business will be less dependent on banks and the currency they lend into existence. The Fortune 500 will become something other than brand names on piles of debt, and business operations will be characterized more by what companies produce than by how much credit their "stories" can earn them on one of the stock exchanges.
 
-Yes, we are watching something melt down. But I'd argue that
-
-th\~ thing that's dying is not business itself, but a financial parasite. - a speculative marketplace that no longer f un d s b usmess .
-
-but instead seeks . to extract value from he a lth Y commerce. More a
-
-funds · . vampire than an infuser of n ee d e d capital . , the mvestment .
-
-mdustry has been exposed as a d rag on busine Th f f
-
-commerce looks b · h ss. e uture o
-
-ng t to me because it m b
-
-hy the weight of this d . ay e unencumbered . nonpro uctive capital
+Yes, we are watching something melt down. But I'd argue that the thing that's dying is not business itself, but a financial parasite -- a speculative marketplace that no longer funds business but instead seeks to extract value from healthy commerce. More a funds vampire than an infuser of needed capital, the investment industry has been exposed as a drag on business. The future of commerce looks bright to me because it may be unencumbered by the weight of this nonproductive capital.
 
 This all began back in th R . . . h e ena1ssance h . arc y was looking f , w en a wanmg mon- or ways to preser . ve Its power in the face of a
 
