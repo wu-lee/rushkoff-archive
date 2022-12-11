@@ -15,13 +15,7 @@ The credit crunch may actually be good for business.
 
 No, not in the short term. When money becomes more expensive, it is harder for most businesses to get the capital they need to conduct their most basic operations. Even successful companies borrow money to buy materials, pay employees, and cash in on invoices that have yet to be paid. Without the cash flow provided by banks, it is a lot harder for many companies to function -- much less expand.
 
-With any luck, however, the future of business will be less dependent on banks and the currency they lend into existence. The Fortune 500 will become something other than brand names on piles
-
-of debt, and business operations will be characterized more by
-
-what companies produce than by how much credit their "stories"
-
-can earn them on one of the stock exchanges.
+With any luck, however, the future of business will be less dependent on banks and the currency they lend into existence. The Fortune 500 will become something other than brand names on piles of debt, and business operations will be characterized more by what companies produce than by how much credit their "stories" can earn them on one of the stock exchanges.
 
 Yes, we are watching something melt down. But I'd argue that
 
