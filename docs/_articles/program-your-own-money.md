@@ -21,21 +21,7 @@ Yes, we are watching something melt down. But I'd argue that the thing that's dy
 
 This all began back in the Renaissance, when a waning monarchy was looking for ways to preserve its power in the face of a rising merchant class. The merchants were becoming richer than the royals. So the monarchs came up with an idea: chartered monopolies. By granting one of these new companies exclusive province over a particular industry or region, monarchs earned their undying loyalty -- as well as a generous portion of shares in the enterprise. They began to write laws that favored their chartered companies, such as preventing inhabitants of colonies from creating any value for themselves; they had to ship raw resources back to the mother country, where they were processed into clothes or other finished goods.
 
-This model of business-by-extraction carn·ed O t fi ver o nance
-
-as well. European towns had used local currencies for centuries.
-
-Farmers would bring their wheat to a grain store, which would in
-
-tum give them receipts for the amount of grain the store was keeping for them. These receipts served as local currency. The system
-
-was so efficient, and people were living so well, that people of this
-
-era were taller than at any time before the last few decades. By making local currency illegal, a monarch could force people to use his
-
-own more expensive "coin of the realm" instead. Instead of being
-
-earned into existence, this money was borrowed into existence.
+This model of business-by-extraction carried over to finance as well. European towns had used local currencies for centuries. Farmers would bring their wheat to a grain store, which would in tum give them receipts for the amount of grain the store was keeping for them. These receipts served as local currency. The system was so efficient, and people were living so well, that people of this era were taller than at any time before the last few decades. By making local currency illegal, a monarch could force people to use his own more expensive "coin of the realm" instead. Instead of being earned into existence, this money was _borrowed_ into existence.
 
 Over the next four hundred years, the business of money slowly
 
