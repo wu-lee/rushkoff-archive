@@ -39,13 +39,7 @@ In 1995, as recession rocked Japan, unemployment rose and currency became scarce
 
 In October 2008, as the U.S. credit crisis paralyzed business lending, companies started signing onto barter networks in droves. One system called ITEX, which allows businesses to trade merchandise, reported a 37 percent increase in registrations for the month of October alone. Utilizing more than 250 exchange services now available through the internet, companies can barter directly with each other, or earn U.S.-dollar-equivalent credits for the merchandise they supply to others. This bartering already accounts for $3 billion of exchanges annually in the United States.
 
-Complementary currencies hearken back to an earlier f01m of
-
-money-the local, grain-based currencies in wide use throughout
-
-Late Middle Ages Europe before Renaissance corporatism and centralized money schemes were invented by monarchs. Local currencies were earned-not borrowed-into existence. They reflected
-
-the abundance of the season's grain, and did not depend on artificial scarcity for their value.
+Complementary currencies hearken back to an earlier form of money -- the local, grain-based currencies in wide use throughout Late Middle Ages Europe before Renaissance corporatism and centralized money schemes were invented by monarchs. Local currencies were earned -- not borrowed -- into existence. They reflected the abundance of the season's grain, and did not depend on artificial scarcity for their value.
 
 Local currencies actually lost value over time. The grain store
 
