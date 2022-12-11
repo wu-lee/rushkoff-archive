@@ -33,21 +33,7 @@ The beauty of this era -- this networked, high-tech, and decentralized world -- 
 
 Moneys are programmed. They behave in certain ways because they have been embedded with certain biases. The United States mortgage and banking crisis of 2008, for example, was no more the fault of particular bankers' behaviors than the underlying biases of the centralized, monopoly currencies we use. This is why bailouts of those banks have not led to any broader economic recovery. At least that's the opinion of a growing population of citizens and businesses turning to the use of what they call "complementary currencies" -- alternative, net-enabled, bottom-up money systems that let them accomplish what money loaned out by the Fed just isn't letting them do anymore.
 
-Complementary currencies treat money as a utility, rather than
-
-an asset cla5s. Their hi.as is toward functionality instead of savings,
-
-tran.w :tion in \~tcad of speculation. And they are spreading quickly
-
-acr0 '>\~ Amnica-not just in the crunchy progressive NorthweSl
-
-(where pe<,plc kW(.: been working on local currencies for decades)
-
-but I lw dyin\~ i ndu\~trial towns of the rust belt, the inner city of the
-
-"' y, k · · ss ., <-w or metropoli tan area, and the nonlocal business-to-busine
-
-1 ran-,tct ifJns nf st rapped corporations themselves.
+Complementary currencies treat money as a utility, rather than an asset class. Their bias is toward functionality instead of savings, transaction instead of speculation. And they are spreading quickly across America -- not just in the crunchy progressive Northwest (where people have been working on local currencies for decades) but the dying industrial towns of the rust belt, the inner city of the New York metropolitan area, and the nonlocal business-to-business transactions of strapped corporations themselves.
 
 In i \~l<Jl'i, as recession rocked Japan, unemployment rose and
 
