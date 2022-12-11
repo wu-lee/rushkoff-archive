@@ -23,17 +23,7 @@ This all began back in the Renaissance, when a waning monarchy was looking for w
 
 This model of business-by-extraction carried over to finance as well. European towns had used local currencies for centuries. Farmers would bring their wheat to a grain store, which would in tum give them receipts for the amount of grain the store was keeping for them. These receipts served as local currency. The system was so efficient, and people were living so well, that people of this era were taller than at any time before the last few decades. By making local currency illegal, a monarch could force people to use his own more expensive "coin of the realm" instead. Instead of being earned into existence, this money was _borrowed_ into existence.
 
-Over the next four hundred years, the business of money slowly
-
-grew bigger than business itself. A central bank creates money and . ·1 charges interest to the next bank down the hne, and so on, untI
-
-it gets to the business that needs it to do something useful. Th\~
-
-problem is, more value is being extracted on each level than buSl-
-
-. l many institutions-too
-
-nesses can produce. There are simp Y too
+Over the next four hundred years, the business of money slowly grew bigger than business itself. A central bank creates money and charges interest to the next bank down the line, and so on, until it gets to the business that needs it to do something useful. The problem is, more value is being extracted on each level than businesses can produce. There are simply too many institutions -- too many lenders -- to be paid.
 
 many lenders-to be paid. . • . d less regulated, msutu- As the banking industry grew bigger an 1 . . f local lender obso ete,
 
