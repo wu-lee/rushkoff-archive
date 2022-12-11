@@ -41,21 +41,7 @@ In October 2008, as the U.S. credit crisis paralyzed business lending, companies
 
 Complementary currencies hearken back to an earlier form of money -- the local, grain-based currencies in wide use throughout Late Middle Ages Europe before Renaissance corporatism and centralized money schemes were invented by monarchs. Local currencies were earned -- not borrowed -- into existence. They reflected the abundance of the season's grain, and did not depend on artificial scarcity for their value.
 
-Local currencies actually lost value over time. The grain store
-
-needed to be paid, and some grain was always lost to moisture or
-
-rats. This meant people wanted to spend the money as quickly as
-
-possible, rather than holding onto it. So towns spent and reinvested
-
-their money constantly. People did preventative maintenance on
-
-their equipment, and paid their workers well. They worked less and
-
-ate better than we do today. People had so much exu·a wealth that
-
-they invested in their futures by building cathedrals.
+Local currencies actually lost value over time. The grain store needed to be paid, and some grain was always lost to moisture or rats. This meant people wanted to spend the money as quickly as possible, rather than holding onto it. So towns spent and reinvested their money constantly. People did preventative maintenance on their equipment, and paid their workers well. They worked less and ate better than we do today. People had so much extra wealth that they invested in their futures by building cathedrals.
 
 DOUGLAS RUSHKOFF
 
