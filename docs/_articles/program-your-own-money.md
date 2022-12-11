@@ -25,15 +25,7 @@ This model of business-by-extraction carried over to finance as well. European t
 
 Over the next four hundred years, the business of money slowly grew bigger than business itself. A central bank creates money and charges interest to the next bank down the line, and so on, until it gets to the business that needs it to do something useful. The problem is, more value is being extracted on each level than businesses can produce. There are simply too many institutions -- too many lenders -- to be paid.
 
-many lenders-to be paid. . • . d less regulated, msutu- As the banking industry grew bigger an 1 . . f local lender obso ete,
-
-t1ons consolidated, making the notion° a h rule d b bankers who ave 1
-
-as well. Loans are centrally processe Y lend- . le to whom they are
-
-knowledge of the companies or peop . th are simply . b them since ey tng-and little reason to learn a out '
-
-packaging and selling the loans, anyway.
+As the banking industry grew bigger and less regulated, institutions consolidated, making the notion of a local lender obsolete, as well. Loans are centrally processed by bankers who have little knowledge of the companies or people to whom they are lending -- and little reason to learn about them, since they are simply packaging and selling the loans, anyway.
 
 DOUGLAS RUSHKOFF
 
