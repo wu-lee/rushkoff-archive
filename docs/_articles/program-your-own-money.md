@@ -35,25 +35,7 @@ Moneys are programmed. They behave in certain ways because they have been embedd
 
 Complementary currencies treat money as a utility, rather than an asset class. Their bias is toward functionality instead of savings, transaction instead of speculation. And they are spreading quickly across America -- not just in the crunchy progressive Northwest (where people have been working on local currencies for decades) but the dying industrial towns of the rust belt, the inner city of the New York metropolitan area, and the nonlocal business-to-business transactions of strapped corporations themselves.
 
-In i \~l<Jl'i, as recession rocked Japan, unemployment rose and
-
-PROGRAM YOUR OWN MONEY 41
-
-currency became scarce. This made it particularly difficult for people to continue to take care of their elderly relatives, who often
-
-Jived in distant areas. The Sawayaka Welfare Foundation developed
-
-a complementary currency by which a young person could earn
-
-credits for taking care of an elderly person, and then spend them
-
-on the care of their own relatives in distant towns. At last count, the
-
-alternative currency was accepted at 372 health centers throughout
-
-Japan, and all administered by a simple piece of software. Close to
-
-a thousand alternative currencies are now in use in Japan.
+In 1995, as recession rocked Japan, unemployment rose and currency became scarce. This made it particularly difficult for people to continue to take care of their elderly relatives, who often lived in distant areas. The Sawayaka Welfare Foundation developed a complementary currency by which a young person could earn credits for taking care of an elderly person, and then spend them on the care of their own relatives in distant towns. At last count, the alternative currency was accepted at 372 health centers throughout Japan, and all administered by a simple piece of software. Close to a thousand alternative currencies are now in use in Japan.
 
 In October 2008, as the U.S. credit crisis paralyzed business
 
