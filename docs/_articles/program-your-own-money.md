@@ -29,19 +29,7 @@ As the banking industry grew bigger and less regulated, institutions consolidate
 
 The house of cards had to fall eventually. The truly amazing thing is how long it lasted. And as our attempts to prop it back up continue to fail us, we might consider whether there is a better way to do business. I think there is.
 
-The beau\~· of this era-this networked, high-tech, and d . tralized world-is that we no longer have to do everything from the
-
-center The laws and regulations requiring us to run our finan · · ces
-
-and resources through tremendous industrial age corporations are
-
-more obsolete than ever. And real people are beginning to catch
-
-on tO how inefficient and risky it is to conduct their transactions
-
-in this way. Thev are starting to trust the real world around them
-
-more than the mythologies created by the public relations depanmen t5 of distant corporations.
+The beauty of this era -- this networked, high-tech, and decentralized world -- is that we no longer have to do everything from the center. The laws and regulations requiring us to run our finances and resources through tremendous industrial age corporations are more obsolete than ever. And real people are beginning to catch on to how inefficient and risky it is to conduct their transactions in this way. They are starting to trust the real world around them more than the mythologies created by the public relations departments of distant corporations.
 
 \\1oneys are programmed. They behave in certain ways because
 
