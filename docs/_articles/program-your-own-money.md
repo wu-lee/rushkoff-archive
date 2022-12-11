@@ -43,17 +43,7 @@ Complementary currencies hearken back to an earlier form of money -- the local, 
 
 Local currencies actually lost value over time. The grain store needed to be paid, and some grain was always lost to moisture or rats. This meant people wanted to spend the money as quickly as possible, rather than holding onto it. So towns spent and reinvested their money constantly. People did preventative maintenance on their equipment, and paid their workers well. They worked less and ate better than we do today. People had so much extra wealth that they invested in their futures by building cathedrals.
 
-DOUGLAS RUSHKOFF
-
-That's right-the cathedrals ofEurope were not built with Va\[j_
-
-can dollars, but loca l rnrrency. The people of th ese towns Were
-
-looking for ways 10 help their grandchildren profit off current
-
-wealth. Cathedrals attracted pilgrims and tourists, and have kept
-
-many towns protilable t:o this day.
+That's right -- the cathedrals of Europe were not built with Vatican dollars, but local currency. The people of these towns were looking for ways to help their grandchildren profit off current wealth. Cathedrals attracted pilgrims and tourists, and have kept many towns profitable to this day.
 
 B\~- making local rnnencies illegal, monarchs were able to monopolize moner, and tilt investment and wealth toward the center. People could no longer earn money into existence-they would have to
 
