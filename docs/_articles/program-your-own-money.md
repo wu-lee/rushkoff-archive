@@ -49,27 +49,7 @@ By making local currencies illegal, monarchs were able to monopolize money, and 
 
 Either that, or borrow more money. And thus, the requirement of a central bank-dominated economy for infinite expansion -- often at the expense of the environment and labor. But most importantly, the new economic scheme was designed to drain wealth from the periphery -- such as colonies, territories, and rural areas -- and pay it back to the middle. And it's the way banks work to this day, each borrowing from a higher, more centralized authority.
 
-Internet-enabled complementary currencies breathe life into the
-
-df,Cen/ralized marketplace of real businesses. Our networks give us a
-
-way to verify transactions and develop trust. Second, perhaps more
-
-impon.anlly, they help us see the way many of the tools we use are
-
-the result of programs. Where availability of printing presses may
-
-have encouraged counterfeiting of official currencies, the availability
-
-of rnmput.ers and networks is encouraging the creation of altogether
-
-new ones. We are prO\\fog more likely to u·eat our money as software,
-
-and to 11-rite our own.
-
-p
-
-PROGRAM YOUR OWN MONEY 43
+Internet-enabled complementary currencies breathe life into the _decentralized_ marketplace of real businesses. Our networks give us a way to verify transactions and develop trust. Second, perhaps more importantly, they help us see the way many of the tools we use are the result of programs. Where availability of printing presses may have encouraged counterfeiting of official currencies, the availability of computers and networks is encouraging the creation of altogether new ones. We are proving more likely to treat our money as software, and to write our own.
 
 Local currencies have spread far beyond the experimental fringe
 
