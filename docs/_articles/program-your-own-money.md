@@ -31,27 +31,7 @@ The house of cards had to fall eventually. The truly amazing thing is how long i
 
 The beauty of this era -- this networked, high-tech, and decentralized world -- is that we no longer have to do everything from the center. The laws and regulations requiring us to run our finances and resources through tremendous industrial age corporations are more obsolete than ever. And real people are beginning to catch on to how inefficient and risky it is to conduct their transactions in this way. They are starting to trust the real world around them more than the mythologies created by the public relations departments of distant corporations.
 
-\\1oneys are programmed. They behave in certain ways because
-
-they have been embedded with certain biases. The United States
-
-mon.ga.ge and hanking crisi.s of 2008, for example, was no more the
-
-fault of panicular hankers' behaviors than the underlying biases of
-
-the centralized, monopoly currencies we use. This is why bailouts
-
-of those banks have not led to any broader economic recovery. At
-
-lea.\~t that's th e opinion of a growing population of citizens and
-
-hmine\~ses turn ing to the use of what they call "complementary
-
-currencies" - alternative, net-enabled, bottom-up money systems
-
-that let them accomplish what money loaned out by the Fed just
-
-isn't letting them do anymore.
+Moneys are programmed. They behave in certain ways because they have been embedded with certain biases. The United States mortgage and banking crisis of 2008, for example, was no more the fault of particular bankers' behaviors than the underlying biases of the centralized, monopoly currencies we use. This is why bailouts of those banks have not led to any broader economic recovery. At least that's the opinion of a growing population of citizens and businesses turning to the use of what they call "complementary currencies" -- alternative, net-enabled, bottom-up money systems that let them accomplish what money loaned out by the Fed just isn't letting them do anymore.
 
 Complementary currencies treat money as a utility, rather than
 
