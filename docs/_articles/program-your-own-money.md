@@ -53,17 +53,7 @@ Internet-enabled complementary currencies breathe life into the _decentralized_ 
 
 Local currencies have spread far beyond the experimental fringe to over four thousand U.S. towns at last count, because of both the new scarcity of dollars and the availability of software and tools. Beginning a local currency requires no store of capital -- it is as easy as visiting the websites for local economic transfer systems (LETS) or Time Dollars.
 
-In my own town, for example, there's a tiny organic cafe called
-
-Comfort that is seeking to expand.John, the owner, secured a second location for a sit-down restaurant, but doesn't have enough
-
-money to renovate the space. Although he has great credit, he
-
-cannot get a loan from any of the banks in town. Even though the
-
-bankers know him, they don't have lending authority from the
-
-conglomerates that own them. So what's John to do?
+In my own town, for example, there's a tiny organic cafe called Comfort that is seeking to expand. John, the owner, secured a second location for a sit-down restaurant, but doesn't have enough money to renovate the space. Although he has great credit, he cannot get a loan from any of the banks in town. Even though the bankers know him, they don't have lending authority from the conglomerates that own them. So what's John to do?
 
 John has turned to the community for help. He invented "Comfort Dollars" that people can buy at a discount of 20 percent. If
 
