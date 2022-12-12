@@ -63,19 +63,7 @@ Once we accept the fact that the money and banks we have grown accustomed to usi
 
 The financial meltdown will help many businesses realize that their priorities have been artificially skewed toward making bankers and investors happy -- and their own communities less so. As we start to finance locally or from our own nonlocal communities, our services will become more finely tuned toward them as well. We will get better at what we do, rather than obsessed with growth (to pay back lenders) or financing (to achieve that growth through acquisition).
 
-This is all good-at least for businesses that have any remaining
-
-connection to a community or core competency. It will be possible
-
-to scale companies appropriately rather than to infinite expansion.
-
-It will be easier to take and share profits rather than watch them
-
-be extracted by last year's lenders. It will favor local and connected
-
-businesses instead of big chains operated from afar by corporations
-
-behaving as if it were still the 1500s and they had a royal imprimatur on their business license.
+This is all good -- at least for businesses that have any remaining connection to a community or core competency. It will be possible to scale companies appropriately rather than to infinite expansion. It will be easier to take and share profits rather than watch them be extracted by last year's lenders. It will favor local and connected businesses instead of big chains operated from afar by corporations behaving as if it were still the 1500s and they had a royal imprimatur on their business license.
 
 The future of business-real business-is bright, as it has been
 
