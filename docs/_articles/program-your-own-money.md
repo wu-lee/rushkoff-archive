@@ -61,17 +61,7 @@ The Comfort Dollars scenario reveals just how much of the mess of the recent eco
 
 Once we accept the fact that the money and banks we have grown accustomed to using are not the only ways to generate capital, we liberate ourselves and our businesses from a finance industry that has enjoyed a monopoly over our commerce for far too long. They have not only abused our trust through corrupt self-dealing, but abused their privilege through systemic usury. Businesses are only obligated to support their employees, owners, and customers -- not an entire finance industry.
 
-The financial meltdown will help many businesses realize
-
-that their priorities have been artificially skewed toward making bankers and investors happy-and their own communities
-
-less so. As we start to finance locally or from our own nonlocal communities, our services will become more finely tuned
-
-toward them as well. We will get better at what we do, rather
-
-than obsessed with growth (to pay back lenders) or financing
-
-(to achieve that growth through acquisition).
+The financial meltdown will help many businesses realize that their priorities have been artificially skewed toward making bankers and investors happy -- and their own communities less so. As we start to finance locally or from our own nonlocal communities, our services will become more finely tuned toward them as well. We will get better at what we do, rather than obsessed with growth (to pay back lenders) or financing (to achieve that growth through acquisition).
 
 This is all good-at least for businesses that have any remaining
 
