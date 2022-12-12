@@ -65,10 +65,4 @@ The financial meltdown will help many businesses realize that their priorities h
 
 This is all good -- at least for businesses that have any remaining connection to a community or core competency. It will be possible to scale companies appropriately rather than to infinite expansion. It will be easier to take and share profits rather than watch them be extracted by last year's lenders. It will favor local and connected businesses instead of big chains operated from afar by corporations behaving as if it were still the 1500s and they had a royal imprimatur on their business license.
 
-The future of business-real business-is bright, as it has been
-
-for close to a millennium. It just might not be reflected in the
-
-Dow Jones Industrial Average for quite some time, if ever. That's
-
-because instead of earning money, we'll be creating value.
+The future of business -- real business -- is bright, as it has been for close to a millennium. It just might not be reflected in the Dow Jones Industrial Average for quite some time, if ever. That's because instead of earning money, we'll be creating value.
