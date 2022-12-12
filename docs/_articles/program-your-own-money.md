@@ -57,17 +57,7 @@ In my own town, for example, there's a tiny organic cafe called Comfort that is 
 
 John has turned to the community for help. He invented "Comfort Dollars" that people can buy at a discount of 20 percent. If you spend $1,000, you receive $1,200 in Comfort Dollars that can be spent at the restaurant. John gets the cash infusion he needs to complete his expansion -- and for cheaper than the bank would charge him. The local community gets a 20 percent discount on food they would be buying anyway, as well as the chance to invest in making their town better. This is a 20 percent return on investment, payable as fast as the investor and his family can eat.
 
-The Comfort Dollars scenario reveals just how much of the
-
-mess of the recent economic crisis resulted from the way we "outsourced" our finances to begin with. The real problem underlying
-
-the global financial meltdown had much less to do with low efficiency, bad labor, or poor innovation than it did with the decreased
-
-utility of the financial industry itself. Money has stopped working
-
-properly-at least in its capacity to lubricate transactions. The sad
-
-part is that money is working exactly as it was designed to.
+The Comfort Dollars scenario reveals just how much of the mess of the recent economic crisis resulted from the way we "outsourced" our finances to begin with. The real problem underlying the global financial meltdown had much less to do with low efficiency, bad labor, or poor innovation than it did with the decreased utility of the financial industry itself. Money has stopped working properly -- at least in its capacity to lubricate transactions. The sad part is that money is working exactly as it was designed to.
 
 Once we accept the fact that the money and banks we have
 
