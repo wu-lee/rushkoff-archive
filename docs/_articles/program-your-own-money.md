@@ -51,17 +51,7 @@ Either that, or borrow more money. And thus, the requirement of a central bank-d
 
 Internet-enabled complementary currencies breathe life into the _decentralized_ marketplace of real businesses. Our networks give us a way to verify transactions and develop trust. Second, perhaps more importantly, they help us see the way many of the tools we use are the result of programs. Where availability of printing presses may have encouraged counterfeiting of official currencies, the availability of computers and networks is encouraging the creation of altogether new ones. We are proving more likely to treat our money as software, and to write our own.
 
-Local currencies have spread far beyond the experimental fringe
-
-to over four thousand U.S. towns at last count, because of both the
-
-new scarcity of dollars and the availability of software and tools.
-
-Beginning a local currency requires no store of capital-it is as easy
-
-as visiting the websites for local economic transfer systems (LETS)
-
-or Time Dollars.
+Local currencies have spread far beyond the experimental fringe to over four thousand U.S. towns at last count, because of both the new scarcity of dollars and the availability of software and tools. Beginning a local currency requires no store of capital -- it is as easy as visiting the websites for local economic transfer systems (LETS) or Time Dollars.
 
 In my own town, for example, there's a tiny organic cafe called
 
