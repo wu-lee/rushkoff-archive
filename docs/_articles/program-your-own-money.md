@@ -55,19 +55,7 @@ Local currencies have spread far beyond the experimental fringe to over four tho
 
 In my own town, for example, there's a tiny organic cafe called Comfort that is seeking to expand. John, the owner, secured a second location for a sit-down restaurant, but doesn't have enough money to renovate the space. Although he has great credit, he cannot get a loan from any of the banks in town. Even though the bankers know him, they don't have lending authority from the conglomerates that own them. So what's John to do?
 
-John has turned to the community for help. He invented "Comfort Dollars" that people can buy at a discount of 20 percent. If
-
-you spend $1,000, you receive $1,200 in Comfort Dollars that can
-
-be spent at the restaurant. John gets the cash infusion he needs
-
-to complete his expansion-and for cheaper than the bank would
-
-charge him. The local community gets a 20 percent discount on
-
-food they would be buying anyway, as well as the chance to invest
-
-in making their town better. This is a 20 percent return on investment, payable as fast as the investor and his family can eat.
+John has turned to the community for help. He invented "Comfort Dollars" that people can buy at a discount of 20 percent. If you spend $1,000, you receive $1,200 in Comfort Dollars that can be spent at the restaurant. John gets the cash infusion he needs to complete his expansion -- and for cheaper than the bank would charge him. The local community gets a 20 percent discount on food they would be buying anyway, as well as the chance to invest in making their town better. This is a 20 percent return on investment, payable as fast as the investor and his family can eat.
 
 The Comfort Dollars scenario reveals just how much of the
 
