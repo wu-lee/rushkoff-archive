@@ -59,19 +59,7 @@ John has turned to the community for help. He invented "Comfort Dollars" that pe
 
 The Comfort Dollars scenario reveals just how much of the mess of the recent economic crisis resulted from the way we "outsourced" our finances to begin with. The real problem underlying the global financial meltdown had much less to do with low efficiency, bad labor, or poor innovation than it did with the decreased utility of the financial industry itself. Money has stopped working properly -- at least in its capacity to lubricate transactions. The sad part is that money is working exactly as it was designed to.
 
-Once we accept the fact that the money and banks we have
-
-grown accustomed to using are not the only ways to generate capital, we liberate ourselves and our businesses from a finance i
-
-ndustry
-
-that has enjoyed a monopoly over our commerce for far too long.
-
-They have not only abused our trust through corrupt self-dealing,
-
-but abused their privilege through systemic usury. Businesses are
-
-only obligated to support their employees, owners, and customers-not an entire finance industry.
+Once we accept the fact that the money and banks we have grown accustomed to using are not the only ways to generate capital, we liberate ourselves and our businesses from a finance industry that has enjoyed a monopoly over our commerce for far too long. They have not only abused our trust through corrupt self-dealing, but abused their privilege through systemic usury. Businesses are only obligated to support their employees, owners, and customers -- not an entire finance industry.
 
 The financial meltdown will help many businesses realize
 
