@@ -9,7 +9,6 @@ notes: '[https://forward.com/news/7638/download-interaction-to-upgrade-instituti
   "https://forward.com/news/7638/download-interaction-to-upgrade-institutionalized/")'
 refs: ''
 sources: ''
-published: false
 
 ---
 The emergence of the Internet a decade ago promised to do for media what Judaism did millennia earlier for religion: turn our understanding of the world from a vision received into a vision negotiated. Both cyberspace’s networkers and Israel’s God-wrestlers have sought to turn top-down affairs into participatory ones. Instead of passively listening to the stories of our programmers, they are empowered to write and share their own.
