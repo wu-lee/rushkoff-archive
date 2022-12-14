@@ -19,27 +19,7 @@ But that’s precisely the point: media is not a refuge. Never has been. We didn
 
 Once we know things like that, however, we can’t look at media content quite the same way. Magazines begin to feel less about the articles than the demographic niche they are delivering to their advertisers. Radio begins to sound like a string of commercials with a few bits of sports, weather, or news slipped in between to keep us listening. TV shows make sense only as environments fine-tuned to sell certain goods and lifestyles.
 
-Being able to see through media’s spell to the agendas driving it is a form of
-
-critical thin
-
-king. And it’s not always fun
-
-\-
-
-not for the audience, and certainly not for the
-
-programmer nor the sponsor paying him for our attention. Indeed, there’s an argument to
-
-be made for rejecting this whole subject area as too disruptive, too disillusioning, too
-
-antagonistic to the marketplace for anyone’s good. How are we supposed to grow the
-
-economy and sell more goods to more people in less time if everyone is busy
-
-deconstructing the media for its messaging techniques or, worse, the power structures
-
-behind it?
+Being able to see through media’s spell to the agendas driving it is a form of critical thinking. And it’s not always fun--not for the audience, and certainly not for the programmer nor the sponsor paying him for our attention. Indeed, there’s an argument to be made for rejecting this whole subject area as too disruptive, too disillusioning, too antagonistic to the marketplace for anyone’s good. How are we supposed to grow the economy and sell more goods to more people in less time if everyone is busy deconstructing the media for its messaging techniques or, worse, the power structures behind it?
 
 Every year in America, a new crop of students arrive at college, blissfully
 
