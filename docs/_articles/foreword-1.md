@@ -15,19 +15,7 @@ Media literacy was always a tough sell.
 
 After all, as most of us understood it, TV was supposed to be for entertainment--a respite from the drudgery of work or, worse, school. Just putting a word as severe as “literacy” next to “media” turns it from an escape into yet another chore. It brings to mind the educational programming of PBS, not the decadence of _I Love Lucy_, _Lucha Libre_, or even _Lost_. Media Literacy was for people who _read_ TV, not for those who want to _watch_ it. And if the subject somehow managed to deliver on its promise, it could render TV unwatchable forever more. The incomprehensible magic and storytelling replaced by the neutered crafts of technology and rhetoric, as well as the political economy fueling them. Instead of offering escape, the literalized media just extends the problems of the real world into that last refuge.
 
-But that’s precisely the point: media is not a refuge. Never has been. We didn’t
-
-get mass media because Jack Benny and Milton Berle were sitting in their cabanas in
-
-Hollywood wondering how they could bring th
-
-eir music and comedy to the world. No, it
-
-was invented to serve the needs of the new giants of industry, who wanted to reach an
-
-entire nation of consumers with their brand mythologies. Without a mass media, there
-
-would be no mass market.
+But that’s precisely the point: media is not a refuge. Never has been. We didn’t get mass media because Jack Benny and Milton Berle were sitting in their cabanas in Hollywood wondering how they could bring their music and comedy to the world. No, it was invented to serve the needs of the new giants of industry, who wanted to reach an entire nation of consumers with their brand mythologies. Without mass media, there would be no mass market.
 
 Once we know thi
 
