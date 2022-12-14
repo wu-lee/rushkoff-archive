@@ -21,17 +21,7 @@ Once we know things like that, however, we can’t look at media content quite t
 
 Being able to see through media’s spell to the agendas driving it is a form of critical thinking. And it’s not always fun--not for the audience, and certainly not for the programmer nor the sponsor paying him for our attention. Indeed, there’s an argument to be made for rejecting this whole subject area as too disruptive, too disillusioning, too antagonistic to the marketplace for anyone’s good. How are we supposed to grow the economy and sell more goods to more people in less time if everyone is busy deconstructing the media for its messaging techniques or, worse, the power structures behind it?
 
-Every year in America, a new crop of students arrive at college, blissfully
-
-unaware of the forces shaping the media they watch and use. That’s because the United
-
-States is the only developed Western nation without a mandated media literacy
-
-curriculum in
-
-elementary or secondary school. We just don’t do that sort of thing. Maybe
-
-that’s why we’re the biggest consumer economy on earth. Or vice versa.
+Every year in America, a new crop of students arrive at college, blissfully unaware of the forces shaping the media they watch and use. That’s because the United States is the only developed Western nation without a mandated media literacy curriculum in elementary or secondary school. We just don’t do that sort of thing. Maybe that’s why we’re the biggest consumer economy on earth. Or vice versa.
 
 But kids grow up perfectly happy this way, and often right into adulthood. If it
 
