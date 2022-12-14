@@ -17,33 +17,7 @@ After all, as most of us understood it, TV was supposed to be for entertainment-
 
 But that’s precisely the point: media is not a refuge. Never has been. We didn’t get mass media because Jack Benny and Milton Berle were sitting in their cabanas in Hollywood wondering how they could bring their music and comedy to the world. No, it was invented to serve the needs of the new giants of industry, who wanted to reach an entire nation of consumers with their brand mythologies. Without mass media, there would be no mass market.
 
-Once we know thi
-
-ngs like that, however, we can’t look at media content quite the
-
-same way. Magazines begin to feel less about the articles than
-
-the
-
-demographic niche
-
-they
-
-are
-
-delivering to their advertisers. Radio begins to sound like a string of
-
-commercials with a few bi
-
-ts of sports, weather, or news slipped in between to keep us
-
-listening. TV shows make sense only as environments fine
-
-\-
-
-tuned to sell certain goods and
-
-lifestyles.
+Once we know things like that, however, we can’t look at media content quite the same way. Magazines begin to feel less about the articles than the demographic niche they are delivering to their advertisers. Radio begins to sound like a string of commercials with a few bits of sports, weather, or news slipped in between to keep us listening. TV shows make sense only as environments fine-tuned to sell certain goods and lifestyles.
 
 Being able to see through media’s spell to the agendas driving it is a form of
 
