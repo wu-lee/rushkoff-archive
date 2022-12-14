@@ -9,7 +9,6 @@ notes: '[https://www.edge.org/response-detail/12012](https://www.edge.org/respon
   "https://www.edge.org/response-detail/12012")'
 refs: ''
 sources: ''
-published: false
 
 ---
 It seems to me we’ve surrendered the notion of the sacred to those who only mean to halt the evolution of culture. Things we call "sacred" are simply ideologies and truths so successfully institutionalized that they seem unquestionable. For example, the notion that sexual imagery is bad for young people to see — a fact never established by any psychological or anthropological study I’ve come across — is accepted as God-ordained fact, and used as a fundamental building block to justify censorship. (Meanwhile, countless sitcoms in which parents lie to one another are considered wholesome enough to earn "G" television ratings.)
