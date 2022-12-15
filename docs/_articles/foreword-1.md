@@ -25,33 +25,7 @@ Every year in America, a new crop of students arrive at college, blissfully unaw
 
 But kids grow up perfectly happy this way, and often right into adulthood. If it weren’t for all of us well-meaning but cynical media educators, so many people would be spared the development of critical faculties and the attendant reluctance to believe, shop, aspire--at least in that naive way--ever again. In other words, why should it be so very important for people to know that the voting on _American Idol_ is rigged, that automobile brands pay for placement on TV shows, or that dancers are hired for rock videos based less on their talent than the number of Instagram followers they can reach? If the middle class is happy this way, and they don’t vote too much, where’s the harm? If the system truly stops working for them, they’ll take to the streets soon enough. Marxism and Madmen just don’t mix, so why piss on what’s left of the American dream?
 
-It’s a blinde
-
-rs
-
-\-
-
-on argument espoused on talk radio to this day, and it does contain
-
-a grain of truth
-
-\-
-
-at least as far as the GNP, military conscription, and mega
-
-\-
-
-church
-
-enrollment are concerned. Like for the turncoat in the Matrix who decides to forget
-
-everything and
-
-return the illusion, the steak tastes real
-
-\-
-
-and maybe that’s good enough.
+It’s a blinders-on argument espoused on talk radio to this day, and it does contain a grain of truth--at least as far as the GNP, military conscription, and mega-church enrollment are concerned. Like for the turncoat in _The Matrix_ who decides to forget everything and return the illusion, the steak tastes real--and maybe that’s good enough.
 
 But no more. While ignorance may have been an option in the era of broadcast
 
