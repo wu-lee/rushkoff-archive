@@ -23,41 +23,7 @@ Being able to see through media’s spell to the agendas driving it is a form of
 
 Every year in America, a new crop of students arrive at college, blissfully unaware of the forces shaping the media they watch and use. That’s because the United States is the only developed Western nation without a mandated media literacy curriculum in elementary or secondary school. We just don’t do that sort of thing. Maybe that’s why we’re the biggest consumer economy on earth. Or vice versa.
 
-But kids grow up perfectly happy this way, and often right into adulthood. If it
-
-weren’t for all of us well
-
-\-
-
-meaning but cynical media educators, so many people would be
-
-spared the development of critical faculties and the attendant reluctance to believe, shop,
-
-aspire
-
-\-
-
-at least in that naive way
-
-\-
-
-ever again. In other words, why should it be so very
-
-important f
-
-or people to know that the voting on American Idol is rigged, that automobile
-
-brands pay for placement on TV shows, or that dancers are hired for rock videos based
-
-less on their talent than the number of Instagram followers they can reach? If the middle
-
-cl
-
-ass is happy this way, and they don’t vote too much, where’s the harm? If the system
-
-truly stops working for them, they’ll take to the streets soon enough. Marxism and
-
-Madmen just don’t mix, so why piss on what’s left of the American dream?
+But kids grow up perfectly happy this way, and often right into adulthood. If it weren’t for all of us well-meaning but cynical media educators, so many people would be spared the development of critical faculties and the attendant reluctance to believe, shop, aspire--at least in that naive way--ever again. In other words, why should it be so very important for people to know that the voting on _American Idol_ is rigged, that automobile brands pay for placement on TV shows, or that dancers are hired for rock videos based less on their talent than the number of Instagram followers they can reach? If the middle class is happy this way, and they don’t vote too much, where’s the harm? If the system truly stops working for them, they’ll take to the streets soon enough. Marxism and Madmen just don’t mix, so why piss on what’s left of the American dream?
 
 It’s a blinde
 
