@@ -41,33 +41,7 @@ Digital technologies cannot simply be read. They do not impose themselves on us 
 
 The choice between YouTube and Vimeo, Facebook and Twitter, Wordpress and Squarespace, Google and Bing, Apple and Linux, are choices between different architectures, business models, abilities, and limitations. In some cases, the distinction may be as ethereal as branding; in others, as fundamental as the ownership of one’s own creations, or the acquiescence to surveillance and predictive analysis. In still others, it can mean the difference between creating apps that enable and encourage peer-to-peer value exchange, and those that require transactions to go through a centralized, extractive authority.
 
-The platforms we use are embedded with values that inform more than how we
-
-see the world; they inform how we create the world. As participants in a digital media
-
-environmen
-
-t, our interaction with and dependence on media extends far beyond what we
-
-are choosing to read and watch. Digital media literacy means seeing the values embedded
-
-in the highly mediated world of social interaction, business transaction, and even
-
-healthcare
-
-. Amazon and Uber are as much media in a digital age as Xena and
-
-Knight
-
-Rider
-
-were in a broadcast one. The behaviors they encourage, the platform monopolies
-
-they create, and the financial destruction they leave in their wakes are now the province
-
-of media
-
-literacy. If not us, then whom?
+The platforms we use are embedded with values that inform more than how we see the world; they inform how we create the world. As participants in a digital media environment, our interaction with and dependence on media extends far beyond what we are choosing to read and watch. Digital media literacy means seeing the values embedded in the highly mediated world of social interaction, business transaction, and even healthcare. Amazon and Uber are as much media in a digital age as _Xena_ and _Knight Rider_ were in a broadcast one. The behaviors they encourage, the platform monopolies they create, and the financial destruction they leave in their wakes are now the province of media literacy. If not us, then whom?
 
 This is about so much more than entertainment. The structure of a television
 
