@@ -33,23 +33,7 @@ In a digital environment, we are no longer just the audience but the programmers
 
 Besides, instead of watching TV shows, young people today are spending more time shooting and posting their own programs to YouTube--and then watching those of their peers. Sure, they know what’s on in primetime, but that’s all just part of the same sea of video, and just as easily time-shifted. Likewise, they know what a professional site or sponsored Tweet looks like, but they’re just pages on the same web and messages in the same stream that they post to themselves.
 
-There’s an unintentional media literacy that comes along wit
-
-h learning to do all
-
-this oneself. You can’t look at a news report the same way once you’ve edited your own
-
-news story. Nor can you see a branded Facebook page the same way once you have
-
-solicited the very same Likes as it did from your friends for your ow
-
-n new profile picture.
-
-As content creators, most digital natives now read content as well as any 1980’s
-
-semiotician. They know how Disney creates a pop star like Ariana Grande, and they
-
-really don’t mind because they feel they are part of the same machine.
+There’s an unintentional media literacy that comes along with learning to do all this oneself. You can’t look at a news report the same way once you’ve edited your own news story. Nor can you see a branded Facebook page the same way once you have solicited the very same Likes as it did from your friends for your own new profile picture. As content creators, most digital natives now read content as well as any 1980s semiotician. They know how Disney creates a pop star like Ariana Grande, and they really don’t mind because they feel they are part of the same machine.
 
 But that’s not enough. For just as our reception of content was limited by our
 
