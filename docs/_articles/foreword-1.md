@@ -45,40 +45,4 @@ The platforms we use are embedded with values that inform more than how we see t
 
 This is about so much more than entertainment. The structure of a television network may dictate what sorts of sitcoms we see, but the structure of a digital network can dictate who we’re friends with, what our parents know about us, what we can earn money for, what the government knows about us, what mechanisms we use to vote, who informs us about the world, whether a robot or AI takes our job, or who controls the terms of the user agreement on our cochlear implant.
 
-Our
-
-society seems hell
-
-\-
-
-bent on creating an app for every desire, and a platform
-
-for every major challenge. And so our solutions come increasingly in the form of new
-
-media, which are then implemented with far too few questions about what values they
-
-bring along
-
-with them. As Frechette and Williams advocate, digital media literacy is the
-
-art and discipline of asking those questions. It is crucial that we follow their lead. Herein
-
-lie the first great probes into what it means to be literate in a digital age, and h
-
-ow
-
-educators can still take us there.
-
-Douglas Rushkoff
-
-Professor of Media Theory and Digital Economics,
-
-Queens College/CUNY, New York
-
-February 2015
-
-FOREWORD Douglas Rushkoff.docx
-
-5 of 6
-
-1 of 6
+Our society seems hell-bent on creating an app for every desire, and a platform for every major challenge. And so our solutions come increasingly in the form of new media, which are then implemented with far too few questions about what values they bring along with them. As Frechette and Williams advocate, digital media literacy is the art and discipline of asking those questions. It is crucial that we follow their lead. Herein lie the first great probes into what it means to be literate in a digital age, and how educators can still take us there.
