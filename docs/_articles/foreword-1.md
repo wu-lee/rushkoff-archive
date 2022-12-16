@@ -39,35 +39,7 @@ But that’s not enough. For just as our reception of content was limited by our
 
 Digital technologies cannot simply be read. They do not impose themselves on us solely through their content. They express themselves in the ways that they dictate what we create on them, and whom those creations serve. Facebook is not a neutral social networking platform any more than FOX News is a neutral television network. But understanding a technology’s biases is a dimensional leap beyond reading a piece of content.
 
-The choice betwe
-
-en YouTube and Vimeo, Facebook and Twitter, Wordpress and
-
-Squarespace, Google and Bing, Apple and Linux, are choices between different
-
-architectures, business models, abilities, and limitations. In some cases, the distinction
-
-may be as ethereal as branding
-
-; in others, as fundamental as the ownership of one’s own
-
-creations, or the acquiescence to surveillance and predictive analysis. In still others, it can
-
-mean the difference between creating apps that enable and encourage peer
-
-\-
-
-to
-
-\-
-
-peer value
-
-exchange, and t
-
-hose that require transactions to go through a centralized, extractive
-
-authority.
+The choice between YouTube and Vimeo, Facebook and Twitter, Wordpress and Squarespace, Google and Bing, Apple and Linux, are choices between different architectures, business models, abilities, and limitations. In some cases, the distinction may be as ethereal as branding; in others, as fundamental as the ownership of one’s own creations, or the acquiescence to surveillance and predictive analysis. In still others, it can mean the difference between creating apps that enable and encourage peer-to-peer value exchange, and those that require transactions to go through a centralized, extractive authority.
 
 The platforms we use are embedded with values that inform more than how we
 
