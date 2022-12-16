@@ -43,19 +43,7 @@ The choice between YouTube and Vimeo, Facebook and Twitter, Wordpress and Square
 
 The platforms we use are embedded with values that inform more than how we see the world; they inform how we create the world. As participants in a digital media environment, our interaction with and dependence on media extends far beyond what we are choosing to read and watch. Digital media literacy means seeing the values embedded in the highly mediated world of social interaction, business transaction, and even healthcare. Amazon and Uber are as much media in a digital age as _Xena_ and _Knight Rider_ were in a broadcast one. The behaviors they encourage, the platform monopolies they create, and the financial destruction they leave in their wakes are now the province of media literacy. If not us, then whom?
 
-This is about so much more than entertainment. The structure of a television
-
-network may dictate what sorts of sitcoms we see, but the structure of a digital network
-
-can dictate who we’re friends with, what our parents kno
-
-w about us, what we can earn
-
-money for, what the government knows about us, what mechanisms we use to vote, who
-
-informs us about the world, whether a robot or AI takes our job, or who controls the
-
-terms of the user agreement on our cochlear implant.
+This is about so much more than entertainment. The structure of a television network may dictate what sorts of sitcoms we see, but the structure of a digital network can dictate who we’re friends with, what our parents know about us, what we can earn money for, what the government knows about us, what mechanisms we use to vote, who informs us about the world, whether a robot or AI takes our job, or who controls the terms of the user agreement on our cochlear implant.
 
 Our
 
