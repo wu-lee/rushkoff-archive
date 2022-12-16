@@ -1,13 +1,13 @@
 ---
 title: Panicked over massive data breach? You should be
 subtitle: 
-date: '2014-12-01T16:56:02.000Z'
+date: 2014-12-01T16:56:02.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: false
+
 ---
 The Obama administration has admitted, painfully, that the recent hack of government agencies' personnel files may have put at least 21.5 million government background checks -- including those seeking top security clearance -- in the hands of Chinese hackers. It's as if our efforts to make ourselves safe by investigating people and storing that data have become our greatest vulnerability.
 
