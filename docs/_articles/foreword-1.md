@@ -35,15 +35,7 @@ Besides, instead of watching TV shows, young people today are spending more time
 
 There’s an unintentional media literacy that comes along with learning to do all this oneself. You can’t look at a news report the same way once you’ve edited your own news story. Nor can you see a branded Facebook page the same way once you have solicited the very same Likes as it did from your friends for your own new profile picture. As content creators, most digital natives now read content as well as any 1980s semiotician. They know how Disney creates a pop star like Ariana Grande, and they really don’t mind because they feel they are part of the same machine.
 
-But that’s not enough. For just as our reception of content was limited by our
-
-ignorance of its construction, our creation of content is now limited by our ignorance of
-
-the platforms on which we do it. Media literacy addressed our ability to read the m
-
-edia.
-
-Digital media literacy must address our ability to make it.
+But that’s not enough. For just as our reception of content was limited by our ignorance of its construction, our creation of content is now limited by our ignorance of the platforms on which we do it. Media literacy addressed our ability to read the media. Digital media literacy must address our ability to make it.
 
 Digital technologies cannot simply be read. They do not impose themselves on us
 
