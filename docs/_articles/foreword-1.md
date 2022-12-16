@@ -37,21 +37,7 @@ There’s an unintentional media literacy that comes along with learning to do a
 
 But that’s not enough. For just as our reception of content was limited by our ignorance of its construction, our creation of content is now limited by our ignorance of the platforms on which we do it. Media literacy addressed our ability to read the media. Digital media literacy must address our ability to make it.
 
-Digital technologies cannot simply be read. They do not impose themselves on us
-
-solely through their content. They express themselves in the ways that they dictate what
-
-we create on them,
-
-and whom those creations serve. Facebook is not a neutral social
-
-networking platform any more than FOX
-
-News is a neutral television network. But
-
-understanding a technology’s biases is a dimensional leap beyond reading a piece of
-
-content.
+Digital technologies cannot simply be read. They do not impose themselves on us solely through their content. They express themselves in the ways that they dictate what we create on them, and whom those creations serve. Facebook is not a neutral social networking platform any more than FOX News is a neutral television network. But understanding a technology’s biases is a dimensional leap beyond reading a piece of content.
 
 The choice betwe
 
