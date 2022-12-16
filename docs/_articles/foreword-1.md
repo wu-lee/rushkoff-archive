@@ -27,73 +27,9 @@ But kids grow up perfectly happy this way, and often right into adulthood. If it
 
 It’s a blinders-on argument espoused on talk radio to this day, and it does contain a grain of truth--at least as far as the GNP, military conscription, and mega-church enrollment are concerned. Like for the turncoat in _The Matrix_ who decides to forget everything and return the illusion, the steak tastes real--and maybe that’s good enough.
 
-But no more. While ignorance may have been an option in the era of broadcast
+But no more. While ignorance may have been an option in the era of broadcast media, it can’t work in a digital environment. The luxury of ignorance only works in a landscape where we are reading the media, not one in which we are _making_ the media. In the read-only media universe of television, we are already in the position of consumers. Sure, we can read deeply, deconstruct the imagery, and alter the cognitive frame through which we receive our media. But we’re still essentially consumers. That’s why they call the stuff on television “programming”: they’re not programming a schedule or a TV set, they’re programming _us_. We can pick which channel to watch, but we’re still the ones being programmed. In such a media environment, critical distance is still just an upgraded style of _reception_.
 
-media, it can’t work in a digital environment. The luxury of ignorance only works in a
-
-landscape where
-
-we are reading the media, not one in which we are
-
-making
-
-the media. In
-
-the read
-
-\-
-
-only media universe of television, we are already in the position of consumers.
-
-Sure, we can read deeply, deconstruct the imagery, and alter the cognitive frame through
-
-which
-
-we receive our media. But we’re still essentially consumers. That’s why they call
-
-the stuff on television “programming”: they’re not programming a schedule or a TV set,
-
-they’re programming
-
-us
-
-. We can pick which channel to watch, but we’re still the ones
-
-be
-
-ing programmed. In such a media environment, critical distance is still just an
-
-upgraded style of
-
-reception
-
-.
-
-In a digital environment, we are no longer just the audience but the programmers
-
-\-
-
-or at least the content creators. No, many of us may not reali
-
-ze it quite yet. The tools of
-
-new media are as simple and user
-
-\-
-
-friendly as a TV remote
-
-\-
-
-in many cases, easier.
-
-Posting an update on Facebook is simpler and more commonplace than recording a
-
-season of
-
-Game of Thrones
-
-on the DVR.
+In a digital environment, we are no longer just the audience but the programmers--or at least the content creators. No, many of us may not realize it quite yet. The tools of new media are as simple and user-friendly as a TV remote--in many cases, easier. Posting an update on Facebook is simpler and more commonplace than recording a season of _Game of Thrones_ on the DVR.
 
 Besides, instead of watch
 
