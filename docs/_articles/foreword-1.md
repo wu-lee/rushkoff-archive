@@ -31,29 +31,7 @@ But no more. While ignorance may have been an option in the era of broadcast med
 
 In a digital environment, we are no longer just the audience but the programmers--or at least the content creators. No, many of us may not realize it quite yet. The tools of new media are as simple and user-friendly as a TV remote--in many cases, easier. Posting an update on Facebook is simpler and more commonplace than recording a season of _Game of Thrones_ on the DVR.
 
-Besides, instead of watch
-
-ing TV shows, young people today are spending more
-
-time shooting and posting their own programs to YouTube
-
-\-
-
-and then watching those of
-
-their peers. Sure, they know what’s on in primetime, but that’s all just part of the same
-
-sea of video, and just as easi
-
-ly time
-
-\-
-
-shifted. Likewise, they know what a professional site
-
-or sponsored Tweet looks like, but they’re just pages on the same web and messages in
-
-the same stream that they post to themselves.
+Besides, instead of watching TV shows, young people today are spending more time shooting and posting their own programs to YouTube--and then watching those of their peers. Sure, they know what’s on in primetime, but that’s all just part of the same sea of video, and just as easily time-shifted. Likewise, they know what a professional site or sponsored Tweet looks like, but they’re just pages on the same web and messages in the same stream that they post to themselves.
 
 There’s an unintentional media literacy that comes along wit
 
