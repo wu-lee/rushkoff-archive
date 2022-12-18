@@ -9,7 +9,6 @@ notes: '[https://www.edge.org/3rd_culture/rushkoff/rushkoff_index.html](https://
   "https://www.edge.org/3rd_culture/rushkoff/rushkoff_index.html")'
 refs: ''
 sources: ''
-published: false
 
 ---
 Introduction by John Brockman
