@@ -1,13 +1,13 @@
 ---
 title: We'll Be Back
 subtitle: 
-date: '2009-08-24T04:00:00.000Z'
+date: 2009-08-24T04:00:00.000Z
 publication: _publications/publishers_weekly.md
 blurb: Why scaling down is good for publishing
 notes: 
 refs: 
 sources: 
-published: false
+
 ---
 The corporate consolidation of publishing over the past two decades has finally maxed out. Borders is verging on bankruptcy; Barnes & Noble is closing stores; and major media conglomerates are closing imprints and ejecting talent faster than they gobbled it up in the 1990s. While this makes for some bleak headlines in the short term, it bodes well for the future of a publishing industry that operates on a scale more appropriate to the medium we're all creating and selling.
 
