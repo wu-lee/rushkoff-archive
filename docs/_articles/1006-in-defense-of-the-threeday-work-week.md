@@ -1,13 +1,13 @@
 ---
 title: In Defense Of The Three-Day Work Week
 subtitle: 
-date: '2015-06-30T04:00:00.000Z'
+date: 2015-06-30T04:00:00.000Z
 publication: _publications/good.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: false
+
 ---
 Unemployment metrics have become the best proof that our economic recovery is incomplete. Free market advocates are using high unemployment figures to show that Keynesian-style government spending doesn’t really move the needle. Leftists use the same figures to argue that corporate capitalism has reached its endpoint: Investors make money in the stock market while real people earn less income, if they can find jobs at all. But what if joblessness were less of a bug than a feature of the new digital economy?
 
