@@ -1,13 +1,13 @@
 ---
 title: An End to Movements
 subtitle: 
-date: '2009-08-15T23:00:00.000Z'
+date: 2009-08-15T23:00:00.000Z
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: false
+
 ---
 The national healthcare movement was doomed from the start. TV clips of shouting matches at town halls and fear-mongering by cynical politicians may be lamentable, but we are witnessing something more profound than the collapse of civic discourse. The failure of a movement that could rightly claim over 70 percent public acceptance just a month ago, exposes the inherent failure of movements of any kind to effectively address our society's ills.
 
