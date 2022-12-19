@@ -1,7 +1,7 @@
 ---
 title: What Am I Working On?
 subtitle: 
-date: '2003-11-06T05:00:00.000Z'
+date: 2003-11-06T05:00:00.000Z
 publication: _publications/nokias_the_feature.md
 blurb: Lots of people have been emailing to find out what I'm working on right now.
   Honestly, I'm working on too much. Here's the main list - I'll break it down in
@@ -44,7 +44,7 @@ refs: '[{"text"=>"NYU''s Interactive Telecommunications Program", "original"=>"h
   "meta"=>{"title"=>"賢く借りるキャッシング審査・ローンを比較！", "keywords"=>["キャッシング", "借りる", "審査", "ローン"],
   "favicon"=>"http://www.thefeature.com/favicon.ico"}}]'
 sources: 
-published: false
+
 ---
 1\\. A new book on fun - doing things, particularly in one's profession or organization, for meaning rather than profit. Getting beyond survival as a motivation, if you're no longer truly fighting for survival - and this is made so hard in our culture.
 2\\. A new Frontline documentary, tentatively entitled Consumer Democracy. We start shooting today. It's about advertising, marketing, and public relations, and how they have come to shape American democracy.
