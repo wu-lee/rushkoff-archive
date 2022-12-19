@@ -1,14 +1,15 @@
 ---
-title: Thanks to the profit-driven motives of big businesses, the internet is cheaper
-  to use. So now it is our turn to exploit them, like they have exploited us
+title: Second Sight
 subtitle: 
-date: '2000-08-24T04:00:00.000Z'
+date: 2000-08-23 00:00:00 -0400
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: 
-notes: 
+notes: '[https://www.theguardian.com/technology/2000/aug/24/internetnews.onlinesupplement4](https://www.theguardian.com/technology/2000/aug/24/internetnews.onlinesupplement4
+  "https://www.theguardian.com/technology/2000/aug/24/internetnews.onlinesupplement4")'
 refs: 
 sources: 
 published: false
+
 ---
 Those of you who have followed this column for any length of time know that I resent the way business has taken over the internet. Since 1994, when the international research communications infrastructure was officially opened to business, I've critiqued what has appeared to me to be a degradation of the content, spirit, and mission of the interactive space.
 
