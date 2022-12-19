@@ -1,13 +1,13 @@
 ---
 title: Willing Dupes
 subtitle: 
-date: '2008-05-01T04:00:00.000Z'
+date: 2008-05-01T04:00:00.000Z
 publication: _publications/arthur.md
 blurb: "*from [Arthur Magazine No. 29/May 2008](http://www.arthurmag.com/store/index.php?ID=36)*\\n"
 notes: 
 refs: 
 sources: 
-published: false
+
 ---
 There's two kinds of people asking me about the economy lately: people with money wanting to know how to keep it “safe,” and people without money, wanting to know how to keep safe, themselves.
 
