@@ -1,13 +1,13 @@
 ---
 title: Leary's Last Trip
 subtitle: 
-date: '1996-08-01T04:00:00.000Z'
+date: 1996-08-01T04:00:00.000Z
 publication: _publications/esquire.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: false
+
 ---
 THAT'S PROBABLY THE WORST PLACE TO leave those," Timothy Leary barks at a beautiful young assistant. She clears a pile of videocassettes from the path of his oncoming electric wheelchair. He stops short. What are they, anyway?" The purple-haired girl reads off the labels.
 
