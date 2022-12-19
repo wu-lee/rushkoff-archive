@@ -1,13 +1,13 @@
 ---
 title: Like It or Not, We Jews Can’t Separate From Israel
 subtitle: 
-date: '2010-06-15T04:00:00.000Z'
+date: 2010-06-15T04:00:00.000Z
 publication: _publications/jewish_week.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: false
+
 ---
 I generally feel guilty about stuff. Sometimes I blame that on my being Jewish — other times I accept that it's just me. Maybe that’s why the latest round of somewhat justified Israel bashing, as well as the utterly unjustified Jew-bashing that’s going along with it, has been keeping me up at night. Try as I might, I don’t seem able to extricate myself from Israel anymore.
 
