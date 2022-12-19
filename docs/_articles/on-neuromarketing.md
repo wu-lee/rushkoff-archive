@@ -9,7 +9,6 @@ notes: '[https://arthurmag.com/2004/11/30/on-neuromarketing/](https://arthurmag.
   "https://arthurmag.com/2004/11/30/on-neuromarketing/")'
 refs: ''
 sources: ''
-published: false
 
 ---
 From [PBs’ Frontline/Douglas Rushkoff “The Persuaders” website](http://www.pbs.org/wgbh/pages/frontline/shows/persuaders/etc/neuro.html):
