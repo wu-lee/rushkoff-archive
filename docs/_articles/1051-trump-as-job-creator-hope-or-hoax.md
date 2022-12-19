@@ -1,13 +1,13 @@
 ---
 title: Trump as job creator -- hope or hoax?
 subtitle: 
-date: '2017-01-18T17:00:00.000Z'
+date: 2017-01-18T17:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: false
+
 ---
 The power of the tweet is in full force.
 
@@ -41,5 +41,3 @@ Trump is depending on those same sales tactics to win over a nation and Congress
 It may take a little borrowing and investment to kickstart an economy while also building the infrastructure that will be necessary once it takes off. If so, then the people are going to need to take a leap of faith.
 
 Just like any professional salesman, Trump's biggest job is to get America to take that leap with him. And he's hoping to convince us the only way a professional debtor and television pitchman knows how -- by staging a reality show in which America's biggest businesses are the unwilling supporting cast.
-
-
