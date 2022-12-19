@@ -1,7 +1,7 @@
 ---
 title: Walter's Wireless World
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
+date: 2008-10-16T00:00:00.000Z
 publication: _publications/nokias_the_feature.md
 blurb: What would Walter Ong have thought about the current evolution of mobile media,
   or, What Would Jesus Moblog?
@@ -13,7 +13,7 @@ refs: '[{"text"=>"extraordinary discussion", "original"=>"http://www.thefeature.
   Well", "original"=>"http://www.well.com/", "archive"=>"http://web.archive.org/web/20200731174223/https://www.well.com/"},
   {"text"=>"Electric Minds", "original"=>"http://gnutenberg.net/textz/text.php?text=rheingold_howard_my_experience_with_electric_minds&id=1009948415611"}]'
 sources: 
-published: false
+
 ---
 What would Walter Ong have thought about the current evolution of mobile media, or, What Would Jesus Moblog?
 
