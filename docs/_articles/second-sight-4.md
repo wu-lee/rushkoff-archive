@@ -9,7 +9,6 @@ notes: '[https://www.theguardian.com/technology/1999/nov/04/onlinesupplement13](
   "https://www.theguardian.com/technology/1999/nov/04/onlinesupplement13")'
 refs: ''
 sources: ''
-published: false
 
 ---
 Now that he has analysed more than 17,000 questionnaires about internet use filled out at America's ABC News web site over the past year, a psychologist named David Greenfield believes he has proof positive that the internet is addictive.
