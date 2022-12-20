@@ -10,7 +10,6 @@ notes: '[https://www.theguardian.com/technology/2000/sep/28/onlinesupplement.cen
   "https://www.theguardian.com/technology/2000/sep/28/onlinesupplement.censorship")'
 refs: ''
 sources: ''
-published: false
 
 ---
 Media is a consensus. It's one of the ways we establish what is going on in the world around us. That's why it's so important that the mediaspace remains open and free of censorship. We should all have a say in what it is we think is happening, and a chance to contribute to the conversation.
