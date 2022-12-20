@@ -9,7 +9,6 @@ notes: '[https://www.theguardian.com/books/2001/jun/07/bestbooks.politics](https
   "https://www.theguardian.com/books/2001/jun/07/bestbooks.politics")'
 refs: ''
 sources: ''
-published: false
 
 ---
 "My favourite books remind us that reality can and should be hacked. We usually change the world using the rules that currently exist, but we can also raise ourselves above the playing field and change the rules themselves. They are all arbitrary, having been written by people just like us. How does one become conscious of the way in which our world has been modelled, and empowered enough to rewrite the rules? By reading books like these."
