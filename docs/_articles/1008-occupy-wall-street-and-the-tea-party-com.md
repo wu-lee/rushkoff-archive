@@ -2,7 +2,7 @@
 title: Occupy Wall Street and the Tea Party compared
 subtitle: ''
 date: 2011-10-07 00:00:00 -0400
-publication: _publications/guardian.md
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Both are grassroots populist movements with a common anger at bailed-out banks,
   but where does the resemblance end?
 notes: "[https://www.theguardian.com/commentisfree/cifamerica/2011/oct/07/occupy-wall-street-tea-party](https://www.theguardian.com/commentisfree/cifamerica/2011/oct/07/occupy-wall-street-tea-party
