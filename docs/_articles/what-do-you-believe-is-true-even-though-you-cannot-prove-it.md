@@ -9,7 +9,6 @@ notes: '[https://www.edge.org/response-detail/10691](https://www.edge.org/respon
   "https://www.edge.org/response-detail/10691")'
 refs: ''
 sources: ''
-published: false
 
 ---
 I can't prove it more than anecdotally, but I believe evolution has purpose and direction. It appears obvious, yet absolutely unconfirmable, that matter is groping towards complexity. While the laws of nature—and time itself—require objects and life forms attain durability and sustainability for survival, it seems to me more a means to an end than an end in itself.
