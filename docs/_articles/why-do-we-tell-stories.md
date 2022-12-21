@@ -9,7 +9,6 @@ notes: '[https://www.edge.org/response-detail/11881](https://www.edge.org/respon
   "https://www.edge.org/response-detail/11881")'
 refs: ''
 sources: ''
-published: false
 
 ---
 Human beings can't help but understand their world in terms of narratives. Although the theory of evolution effectively dismantled our creationist myths over a century ago, most thinking humans still harbor an attachment to the notion that we were put here, with purpose, by something. New understandings of emergence, as well as new tools for perceiving the order underlying chaos, seem to the hold the promise for a widescale liberation from the constructed myths we use to organize our experience, as well as the dangers that over-dependence on such narratives bring forth. At least I hope so.
