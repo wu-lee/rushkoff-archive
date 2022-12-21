@@ -1,5 +1,5 @@
 ---
-publication: _publications/guardian.md
+publication: _publications/nyt_syndicate_guardian_of_london.md
 title: " Douglas Rushkoff's top 10 books on designer reality"
 subtitle: ''
 image: ''

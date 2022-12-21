@@ -1,13 +1,13 @@
 ---
 title: Signs of the Times
 subtitle: 
-date: '2002-07-25T04:00:00.000Z'
-publication: _publications/guardian.md
+date: 2002-07-25T04:00:00.000Z
+publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The AOL and Time Warner merger was doomed from the start
 notes: 
 refs: 
 sources: 
-published: true
+
 ---
 When AOL bought Time Warner, the New York Times asked me to write a comment piece. "What does it all mean?" my assigning editor asked.
 
