@@ -9,7 +9,6 @@ notes: '[https://www.edge.org/response-detail/11810](https://www.edge.org/respon
   "https://www.edge.org/response-detail/11810")'
 refs: ''
 sources: ''
-published: false
 
 ---
 A religion will increase in social value until a majority of its members actually believe in it—at which point the social damage it causes will increase exponentially as long as it is in existence.
