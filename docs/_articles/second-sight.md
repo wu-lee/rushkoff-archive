@@ -1,5 +1,5 @@
 ---
-publication: _publications/guardian.md
+publication: _publications/nyt_syndicate_guardian_of_london.md
 title: The Internet Is Not Killing off Conversation but Actively Encouraging It
 subtitle: ''
 image: ''

@@ -1,5 +1,5 @@
 ---
-publication: _publications/guardian.md
+publication: _publications/nyt_syndicate_guardian_of_london.md
 title: Ten Reasons To Be Happy at the End of the Net’s Worst Year
 subtitle: ''
 image: ''
