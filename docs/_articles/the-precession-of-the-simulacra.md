@@ -9,7 +9,6 @@ notes: '[https://www.edge.org/response-detail/10204](https://www.edge.org/respon
   "https://www.edge.org/response-detail/10204")'
 refs: ''
 sources: ''
-published: false
 
 ---
 Having discovered much too late in life that the many things I had taken for granted as pre-existing conditions of the universe were, in fact, creations and ideas of people, I found Baudrillard's "precession of the simulacra" to be an immensely valuable way of understanding just how disconnected from anything to do with reality we can become. 
