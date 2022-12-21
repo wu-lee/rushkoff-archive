@@ -9,7 +9,6 @@ notes: '[https://www.edge.org/memberbio/douglas_rushkoff](https://www.edge.org/m
   "https://www.edge.org/memberbio/douglas_rushkoff")'
 refs: ''
 sources: ''
-published: false
 
 ---
 I thought that it would change people. I thought it would allow us to build a new world through which we could model new behaviors, values, and relationships. In the 90's, I thought the experience of going online for the first time would change a person's consciousness as much as if they had dropped acid in the 60's.
