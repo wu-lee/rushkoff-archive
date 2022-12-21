@@ -1,5 +1,5 @@
 ---
-publication: _publications/guardian.md
+publication: _publications/nyt_syndicate_guardian_of_london.md
 title: Why Time is up for Warner
 subtitle: Douglas Rushkoff on the $300bn deal that's a merger in name only
 image: ''

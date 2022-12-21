@@ -1,5 +1,5 @@
 ---
-publication: _publications/guardian.md
+publication: _publications/nyt_syndicate_guardian_of_london.md
 title: 'Warning: This Film Contains Digital Images'
 subtitle: ''
 image: ''
