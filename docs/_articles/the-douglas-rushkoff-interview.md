@@ -11,20 +11,22 @@ sources: ''
 published: false
 
 ---
-Conducted in person by **Jeff Newelt**, October 2007  
+Conducted in person by **_Jeff Newelt_**, October 2007  
 Transcribed by **Steven Tice**
 
-Back in the mid-1990s first flowering of the Internet, every time a major "old media" outlet, say **The New York Times**, needed a "hip young expert" to explain things to them, as often or not, said expert was Douglas Rushkoff. Perhaps because he always gave good sound bites about the coming electronic revolution, or just because they knew where to find him, not a week seemed to go by when Rushkoff wasn't being extensively and prominently quoted somewhere.
+_Back in the mid-1990s first flowering of the Internet, every time a major "old media" outlet, say **The New York Times**, needed a "hip young expert" to explain things to them, as often or not, said expert was Douglas Rushkoff. Perhaps because he always gave good sound bites about the coming electronic revolution, or just because they knew where to find him, not a week seemed to go by when Rushkoff wasn't being extensively and prominently quoted somewhere._
 
-Finally, I saw an event listed that he was moderating. Being in the new media biz myself then--overseeing an electronic comics initiative at pioneering Silicon Alley house Byron Preiss Multimedia--I went to said event, ready to mock Douglas under my breath. Let's see if Mr. Sound Bite can hold his own live!
+_Finally, I saw an event listed that he was moderating. Being in the new media biz myself then--overseeing an electronic comics initiative at pioneering Silicon Alley house Byron Preiss Multimedia--I went to said event, ready to mock Douglas under my breath. Let's see if Mr. Sound Bite can hold his own live!_
 
-Well, it turns out, I have no memory of who else was on that panel, just of being highly impressed with this intelligent, opinionated, personable Rushkoff fellow. And who knew that, underneath the new media guy, was a longtime comics fan? Of course, Douglas has a zillion other interests, too, and you can read about them at his website: www.rushkoff.com.
+_Well, it turns out, I have no memory of who else was on that panel, just of being highly impressed with this intelligent, opinionated, personable Rushkoff fellow. And who knew that, underneath the new media guy, was a longtime comics fan? Of course, Douglas has a zillion other interests, too, and you can read about them at his website: www.rushkoff.com._
 
-And here's what Douglas's official bio says:
+_And here's what Douglas's official bio says:_
 
-"Douglas Rushkoff is a world-renowned cultural theorist and the author of ten books on media, society, and beliefs, including Media Virus, Coercion, Cyberia, and ScreenAgers. He wrote two novels-one about early 90's psychedelia called Ecstasy Club, and another about dot.com fascism, Exit Strategy.
+"Douglas Rushkoff is a world-renowned cultural theorist and the author of ten books on media, society, and beliefs, including **Media Virus, Coercion, Cyberia**, and **ScreenAgers**. He wrote two novels--one about early 90's psychedelia called **Ecstasy Club**, and another about dot.com fascism, **Exit Strategy**.
 
-"He's made two documentaries about marketing and the co-option of culture for PBS' Frontline, The Merchants of Cool and The Persuaders, and he teaches popular classes in media, interactivity, and narrative for NYU's Interactive Telecommunications Program and the MaybeLogic Academy. "Rushkoff doesn't dabble, but dives. He has worked as a theater director, a fight choreographer, Guardian of London columnist, a rabbi, and a keyboardist for PsychicTV, among other things.
+"He's made two documentaries about marketing and the co-option of culture for PBS' **Frontline, The Merchants of Cool** and **The Persuaders**, and he teaches popular classes in media, interactivity, and narrative for NYU's Interactive Telecommunications Program and the MaybeLogic Academy.
+
+"Rushkoff doesn't dabble, but dives. He has worked as a theater director, a fight choreographer, Guardian of London columnist, a rabbi, and a keyboardist for PsychicTV, among other things.
 
 "His very first comic, Club Zero-G was about kids who visit a shared consensual dreamspace when they're asleep- remembered only by one them. Misunderstood as a Matrix rip-off by an inexperienced reviewer, the graphic novel version won 'Worst Graphic Novel of 2004' from The Comics Journal. Appreciated by Jonathan Vankin, of Vertigo, as an original and successful narrative experiment, Club Zero-G got Rushkoff a pitch meeting. Testament, Rushkoff's first comic series, was the result of that pitch."
 
