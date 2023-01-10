@@ -9,7 +9,6 @@ notes: '[https://www.edge.org/response-detail/11778](https://www.edge.org/respon
   "https://www.edge.org/response-detail/11778")'
 refs: ''
 sources: ''
-published: false
 
 ---
 In his speech to Congress, Bush Ù perhaps unintentionally Ù presented the choice before us: we will either bring justice to the nations of our enemies, or bring our enemies to justice.
