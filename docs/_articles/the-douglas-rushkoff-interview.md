@@ -40,27 +40,27 @@ Enjoy!
 
 **DOUGLAS RUSHKOFF**: In comics you can combine ideas in a way you can't in an article, an essay, or even a nonfiction book. Prose is a deeply linear medium, you've got to have a clear subject and make an ordered, rational argument for it. You can attempt some verbal mash-up, à la William Burroughs, but that's working against the bias of text and books.
 
-Comics are collage. It's sequential storytelling. There's both
+Comics are collage. It's sequential storytelling. There's both word and picture. You can communicate through the juxtaposition of image to image, or image to word, word to word, dialogue to description, or even dialogue to picture. Unlike plain text, the comics medium is biased towards these clashes, toward these mixes. Towards time travel and cultural mixing.
 
-48 | WRITE NOW
+That's why doing comics is like doing Shakespeare. Nobody does a Shakespeare play in its original setting anymore. We perform Hamlet in an office tower or set Macbeth in the Nixon White House. We frame it so that the old myths and themes are relevant to a modern audience, and seen in a new light. There's spoken word and a visual frame: it's working on multiple levels.
 
-Make no mis
+_JN: Did you think of that analogy in retrospect, or when you were coming up with your approach to **Testament...**?_
 
-no mistake. The Greatest Story Ever Told continues right here!
+DR: I've always looked at comics as multimedia--as a precursor to the Internet. My first books tried to explain the Internet to people who had never touched it--who didn't believe or even care that it was coming. And it's hard to explain non-linear, hypertext experiences to people who've never been on drugs or something. But there were a lot of other emerging cultures providing easy analogies to the Internet experience--fantasy role-playing, rave music, snowboarding, dj performance. Cultures and art forms where things were juxtaposed, and communicating through their roughness or user's interactions.
 
-\-GRANT MORRISON
+Comics have always been open to these kinds of mixes-- biased toward these juxtapositions of themes, eras and realities. Its position in "low culture" is its strength, because people aren't necessarily expecting it to deliver all those formal requirements of, say, "the sonnet," or "the novel," or "the narrative nonfiction book."
 
-TESTAMENT
+JN: So the power of comics sneak-attacks you, like sticking medicine in a kid's ice cream or something...?
 
-word and picture. You can communi- cate through the juxtaposition of image to image, or image to word, word to word, dialogue to description, or even dialogue to picture. Unlike plain text, the comics medium is biased towards these clashes, toward these mixes. Towards time travel and cultural mixing. That's why doing comics is like doing Shakespeare. Nobody does a Shakespeare play in its original setting anymore. We perform Hamlet in an office tower or set Macbeth in the Nixon White House. We frame it so that the old myths and themes are relevant to a modern audience, and seen in a new light. There's spoken word and a visual frame: it's working on multiple levels.
+DR: Right. And, on top of that, because it's ostensibly a kids'
 
-JN: Did you think of that analogy in ret- rospect, or when you were coming up with your approach to Testament...? DR: I've always looked at comics as mul- timedia-as a precursor to the Internet. My first books tried to explain the Internet to people who had never
+I medium, you can pull a Pee Wee Herman: "Where am I going to tease and provoke culture about gay values and sexual innuendo, and where can I do that better than in a kids' show?" Bart Simpson and South Park allow for a cultural cri- tique and irreverent jamming you couldn't have had before on TV.
 
-Marshall McLuhan Award winner DOUGLAS RUSHKOFF
+JN: Creating comics must be like messing with a Petrie dish, creating a little universe that comes alive when read.
 
-& LIAM SHARP
+DR: Yes! Alive because it's a cultural Petrie dish. What is a "culture" but a growing, fecund thing? Fecund like manure- sh*t is great fertilizer! Comics are bottom-feeders in the best sense-reworking all of the cultural preoccupations, characters, situations, conspiracy theories that trickle down into its delightful cesspool of ideas. In comics, they can cross-polli-
 
-VERTIGO
+xxx
 
 nate, fertilize, and mutate. They rise again like a mutated monster-these wonderfully rich combinations of thoughts, ideas and imagery that you wouldn't see anywhere else can grow into new organisms.
 
@@ -73,20 +73,6 @@ Feb 0
 Cover to the first issue of Douglas Rushkoff and Liam Sharp's Testament, Art is by Liam.
 
 \[©2006 Douglas Rushkoff and Liam Sharp. All rights reserved.\]
-
-touched it-who didn't believe or even care that it was com- ing. And it's hard to explain non-linear, hypertext experiences to people who've never been on drugs or something. But there were a lot of other emerging cultures providing easy analogies to the Internet experience-fantasy role-playing, rave music, snowboarding, dj performance. Cultures and art forms where things were juxtaposed, and communicating through their roughness or user's interactions.
-
-Comics have always been open to these kinds of mixes- biased toward these juxtapositions of themes, eras and reali- ties. Its position in "low culture" is its strength, because peo- ple aren't necessarily expecting it to deliver all those formal requirements of, say, "the sonnet," or "the novel," or "the nar- rative nonfiction book."
-
-JN: So the power of comics sneak-attacks you, like sticking medicine in a kid's ice cream or something...?
-
-DR: Right. And, on top of that, because it's ostensibly a kids'
-
-I medium, you can pull a Pee Wee Herman: "Where am I going to tease and provoke culture about gay values and sexual innuendo, and where can I do that better than in a kids' show?" Bart Simpson and South Park allow for a cultural cri- tique and irreverent jamming you couldn't have had before on TV.
-
-JN: Creating comics must be like messing with a Petrie dish, creating a little universe that comes alive when read.
-
-DR: Yes! Alive because it's a cultural Petrie dish. What is a "culture" but a growing, fecund thing? Fecund like manure- sh*t is great fertilizer! Comics are bottom-feeders in the best sense-reworking all of the cultural preoccupations, characters, situations, conspiracy theories that trickle down into its delightful cesspool of ideas. In comics, they can cross-polli-
 
 JN: Did you have an agenda with Testament?
 
