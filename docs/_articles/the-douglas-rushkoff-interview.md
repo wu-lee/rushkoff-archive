@@ -28,19 +28,17 @@ _And here's what Douglas's official bio says:_
 
 "Rushkoff doesn't dabble, but dives. He has worked as a theater director, a fight choreographer, Guardian of London columnist, a rabbi, and a keyboardist for PsychicTV, among other things.
 
-"His very first comic, Club Zero-G was about kids who visit a shared consensual dreamspace when they're asleep- remembered only by one them. Misunderstood as a Matrix rip-off by an inexperienced reviewer, the graphic novel version won 'Worst Graphic Novel of 2004' from The Comics Journal. Appreciated by Jonathan Vankin, of Vertigo, as an original and successful narrative experiment, Club Zero-G got Rushkoff a pitch meeting. Testament, Rushkoff's first comic series, was the result of that pitch."
+"His very first comic, **Club Zero-G** was about kids who visit a shared consensual dreamspace when they're asleep--remembered only by one them. Misunderstood as a **Matrix** rip-off by an inexperienced reviewer, the graphic novel version won 'Worst Graphic Novel of 2004' from **The Comics Journal**. Appreciated by Jonathan Vankin, of Vertigo, as an original and successful narrative experiment, **Club Zero-G** got Rushkoff a pitch meeting. **Testament**, Rushkoff's first comic series, was the result of that pitch."
 
-As for me, I figure if Douglas is good enough for the Times, then who are we to say different? Douglas recently sat down with Jeff Newelt and talked about-among other things- comics, new media, religion, and his recent Vertigo title, Testament.
+As for me, I figure if Douglas is good enough for the **Times**, then who are we to say different? Douglas recently sat down with **Jeff Newelt** and talked about--among other things--comics, new media, religion, and his recent Vertigo title, **Testament**.
 
 Enjoy!
 
-\-DF
+**--DF**
 
-conver-
+**_JEFF NEWELT_**_: In your comic **Testament**, I notice a convergence of your favorite themes... "open source" Judaism, alternate forms of currency, media viruses, corporations, etc., etc. Why did you think a comic was the way to express your ideas?_
 
-JEFF NEWELT: In your comic Testament, I notice gence of your favorite themes... "open source" Judaism, alternate forms of currency, media viruses, corporations, etc., etc. Why did you think a comic was the way to express your ideas?
-
-DOUGLAS RUSHKOFF: In comics you can combine ideas in a way you can't in an article, an essay, or even a nonfiction book. Prose is a deeply linear medium, you've got to have a clear subject and make an ordered, rational argument for it. You can attempt some verbal mash-up, à la William Burroughs, but that's working against the bias of text and books.
+**DOUGLAS RUSHKOFF**: In comics you can combine ideas in a way you can't in an article, an essay, or even a nonfiction book. Prose is a deeply linear medium, you've got to have a clear subject and make an ordered, rational argument for it. You can attempt some verbal mash-up, à la William Burroughs, but that's working against the bias of text and books.
 
 Comics are collage. It's sequential storytelling. There's both
 
