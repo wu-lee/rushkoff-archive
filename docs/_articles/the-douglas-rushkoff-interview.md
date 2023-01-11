@@ -68,45 +68,23 @@ Comics give me a forum to look at the **_Bible_** as a media theorist would, whi
 
 **DR:** Well, she is responsible for screwing up the heavenly gods' whole Eden experiment. But yeah--she's ultimately the one who got screwed over, and something of the hero in my god world. She represents the feminine goddess energy, the spirit of abundance that agricultural societies worshipped. It is disdained in the **_Bible,_** which is really about the superiority of the ethical, nomadic tribes over the farming polytheists. The nomads were dealing with scarcity. The **_Bible_** was concerned with getting people to stop child sacrifice, but they ended up completely bashing the entirety of the religions that worshipped their gods in the abundance tradition. It was a mistake to completely repress the goddess side, though, and that's why I treat the Torah gods as antagonists by the end of the series. They were too scared of women, and kind of screwed up as a result.
 
-JN: Some might say you're taking some serious liberties with some pretty well established characters, these gods and Biblical heroes...
+**_JN:_** _Some might say you're taking some serious liberties with some pretty well established characters, these gods and Biblical heroes..._
 
-DIRECT SALES
+**DR:** I suppose some fundamentalists might be upset, because they read the **_Bible_** selectively. But the **_Bible_** characters in my stories really only do what they did in the original. Incest, murder... it's all there in black and white. And even my most outlandish interpretations are pretty well supported by historical or "Midrashic" (the history of interpretation) evidence. It's pretty solid **_Bible_** analysis, even if it tends towards some harsh judgments on these guys. The intellectual rabbis and priests are actually pretty interested in my perspectives.
 
-"Intriguing! Well worth the time to check out "
+What I really shudder at is how frightened the mainstream comics industry is of taking real risks with _their_ characters. TV shows today are more comfortable killing off favorite characters than comics are. Brian Azzarello kills off a main character in **_Loveless_**, everybody's up in arms, "How can you do that? You've killed the series!" And then I hear, "Well, that was an important asset," as if it was an actor that you've lost, it was an asset to your brand. The whole beauty of comics is the freedom it affords. This is a low budget industry and an iconic form; these are not real actors with jobs, these are imaginary beings. You should be able to f**k with them and kill them and change them... let them do things that are against the grain.
 
-AINT IT COOL NEWS
+The thing that amazes me about the comics audience is that everybody's crying out for something new, something bold, something that breaks the boundaries, but everyone complains if it doesn't also meet their expectations, and do so instantaneously. So I don't mind people critiquing that my characters are bad, and my situations are bad, and all that. If they didn't believe this, or didn't believe that, it's my bad. And I'll work on getting it better. When I get upset is when people say, "How can he wait until issue three to introduce a major character?" As if there's this formula where every major character has to be introduced in the first two issues...?
 
-TESTAMENT
+**_JN:_** _A superimposed shape..._
 
-DOUGLAS RUSHKOFF LIAM SHARP
+**DR:** A shape of such a formal type, of such a strict orthodoxy. Part of the problem is the way the comics are branded, and how those brands are received: "Okay, now, you're writing a Vertigo comic," and that means it's got to be "Vertigo-ish." Then you've either got to do the **_Fables_** thing, which is what people expected of **_Testament_**, that it was going to be another **_Fables_** series, except instead of using fairy stories, now it's **_Bible_** stories. Or you have to do the **_Y The Last Man_** thing, which is to set up a simple, compelling premise that you understand by the end of the first issue (what if you're the last man on earth) and then carry the basic mystery--that he's looking to get his girlfriend and find out why all the guys died--over the course of the whole series.
 
-DR: I suppose some fundamentalists might be upset, because they read the Bible selectively. But the Bible charac- ters in my stories really only do what they did in the original. Incest, murder... it's all there in black and white. And even my most outlandish interpretations are pretty well supported by historical or "Midrashic" (the history of interpretation) evidence. It's pretty solid Bible analysis, even if it tends towards some harsh judg- ments on these guys. The intellectual rabbis and priests are actually pretty interested in my perspectives.
+**_JN:_** _Was Jack Kirby an influence on **Testament?**_
 
-The best thing about Testament was that no two issues were alike, as it explored matters physical, metaphysical, and just plain weird. Here, the cover to #3, by
+**DR:** Originally, when \[Vertigo editor Jonathan\] Vankin called me and said, "Well, what do you want to do in comics?" I said, "Oh, I want to do **_The Eternals_**." _\[laughs\]_ And he's, like, "Oh, well, that's Marvel; No, we can't do that. Something else." So I figured if I can't have Kirby's gods \[**_The New Gods_** were also taken\] I might as well take this great and untapped system. There's a lot of people writing comics about God, or God vs. Satan, like **_Preacher_**... but no one's going into real **_Bible_** mythology. Who is Abraham? Who is the cousin and brother of Lot, and people f**king their daughters, and why is that in the **_Bible_**? Why not take the best myths ever, and work with them? Marvel doesn't own them (yet).
 
-Liam Sharp
-
-comics industry is of taking real risks with their characters. TV shows today are more comfortable killing off favorite characters than comics are. Brian Azzarello kills off a main character in Loveless, everybody's up in arms, "How can you do that? You've killed the series!" And then I hear, "Well, that was an important asset," as if it was an actor that you've lost, it was an asset to your brand. The whole beauty of comics is the freedom it affords. This is a low budget industry and an iconic form; these are not real actors with jobs, these
-
-are imaginary beings. You should be able to f**k with them and kill them and change them... let them do things that are against the grain.
-
-The thing that amazes me about the comics audience is that everybody's cry- ing out for something new, something bold, something that breaks the bound- aries, but everyone complains if it does- n't also meet their expectations, and do so instantaneously. So I don't mind peo- ple critiquing that my characters are bad, and my situations are bad, and all that. If they didn't believe this, or didn't believe that, it's my bad. And I'll work on getting it better. When I get upset is when people say, "How can he wait until issue three to introduce a major character?" As if there's this formula where every major character has to be
-
-\[Douglas Rushkoff and Liam Sharp. All rights reserved.\]
-
-What I really shudder at is how frightened the mainstream
-
-introduced in the first two issues...?
-
-JN: A superimposed shape...
-
-DR: A shape of such a formal type, of such a strict orthodoxy. Part of the problem is the way the comics are branded, and how those brands are received: "Okay, now, you're writing a Vertigo comic," and that means it's got to be "Vertigo-ish." Then you've either got to do the Fables thing, which is what people expected of Testament, that it was going to be anoth- er Fables series, except instead of using fairy stories, now it's Bible stories. Or you have to do the Y The Last Man thing, which is to set up a simple, compelling premise that you understand by the end of the first issue (what if you're the last man on earth) and then carry the basic mystery-that he's looking to get his girlfriend and find out why all the guys died-over the course of the whole series.
-
-JN: Was Jack Kirby an influence on Testament? DR: Originally, when \[Vertigo editor Jonathan\] Vankin called me and said, "Well, what do you want to do in comics?" I said, "Oh, I want to do The Eternals." \[laughs\] And he's, like, "Oh, well, that's Marvel; No, we can't do that. Something else." So I figured if I can't have Kirby's gods \[The New Gods were also taken\] I might as well take this great and untapped sys- tem. There's a lot of people writing comics about God, or God vs. Satan, like Preacher... but no one's going into real Bible mythology. Who is Abraham? Who is the cousin and brother of Lot, and people f**king their daughters, and why is that in the Bible? Why not take the best myths ever, and work with them? Marvel doesn't own them (yet).
-
-JN: In Testament you postulate that multiple characters in dif-
-
-ferent Biblical periods were "played" by different "actors" from the present day "cast." How did you keep track of who was who? Did you do massive charts?
+**_JN:_** _In **Testament** you postulate that multiple characters in different Biblical periods were "played" by different "actors" from the present day "cast." How did you keep track of who was who? Did you do massive charts?_
 
 DR: I'm a theater director, so I thought of it like a theater company. The modern characters are my players, and I can play them to type in the Bible, or cast them against type by putting them in the same the situation that the Bible charac- ter is confronting. So Jake's father Alan plays Abraham for a while. The Bible characters are the archetypes for modern characters and what they're going through. And what we learn is that the Bible characters are the gods' way of influencing the present. Had I gone longer, I was going to then have dif- ferent modern characters play the same Bible characters, and even go through the same Bible situations making different choices-and still keep it all consistent with Bible scholarship.
 
