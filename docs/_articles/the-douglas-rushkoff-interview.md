@@ -44,47 +44,29 @@ Comics are collage. It's sequential storytelling. There's both word and picture.
 
 That's why doing comics is like doing Shakespeare. Nobody does a Shakespeare play in its original setting anymore. We perform Hamlet in an office tower or set Macbeth in the Nixon White House. We frame it so that the old myths and themes are relevant to a modern audience, and seen in a new light. There's spoken word and a visual frame: it's working on multiple levels.
 
-_JN: Did you think of that analogy in retrospect, or when you were coming up with your approach to **Testament...**?_
+**_JN:_** _Did you think of that analogy in retrospect, or when you were coming up with your approach to **Testament...**?_
 
-DR: I've always looked at comics as multimedia--as a precursor to the Internet. My first books tried to explain the Internet to people who had never touched it--who didn't believe or even care that it was coming. And it's hard to explain non-linear, hypertext experiences to people who've never been on drugs or something. But there were a lot of other emerging cultures providing easy analogies to the Internet experience--fantasy role-playing, rave music, snowboarding, dj performance. Cultures and art forms where things were juxtaposed, and communicating through their roughness or user's interactions.
+**DR:** I've always looked at comics as multimedia--as a precursor to the Internet. My first books tried to explain the Internet to people who had never touched it--who didn't believe or even care that it was coming. And it's hard to explain non-linear, hypertext experiences to people who've never been on drugs or something. But there were a lot of other emerging cultures providing easy analogies to the Internet experience--fantasy role-playing, rave music, snowboarding, dj performance. Cultures and art forms where things were juxtaposed, and communicating through their roughness or user's interactions.
 
 Comics have always been open to these kinds of mixes-- biased toward these juxtapositions of themes, eras and realities. Its position in "low culture" is its strength, because people aren't necessarily expecting it to deliver all those formal requirements of, say, "the sonnet," or "the novel," or "the narrative nonfiction book."
 
-JN: So the power of comics sneak-attacks you, like sticking medicine in a kid's ice cream or something...?
+**_JN:_** _So the power of comics sneak-attacks you, like sticking medicine in a kid's ice cream or something...?_
 
-DR: Right. And, on top of that, because it's ostensibly a kids'
+**DR:** Right. And, on top of that, because it's ostensibly a kids' medium, you can pull a Pee Wee Herman: "Where am I going to tease and provoke culture about gay values and sexual innuendo, and where can I do that better than in a kids' show?" Bart Simpson and **_South Park_** allow for a cultural critique and irreverent jamming you couldn't have had before on TV.
 
-I medium, you can pull a Pee Wee Herman: "Where am I going to tease and provoke culture about gay values and sexual innuendo, and where can I do that better than in a kids' show?" Bart Simpson and South Park allow for a cultural cri- tique and irreverent jamming you couldn't have had before on TV.
+**_JN:_** _Creating comics must be like messing with a Petrie dish, creating a little universe that comes alive when read._
 
-JN: Creating comics must be like messing with a Petrie dish, creating a little universe that comes alive when read.
+**DR**: Yes! Alive because it's a _cultural_ Petrie dish. What is a "culture" but a growing, fecund thing? Fecund like manure--sh*t is great fertilizer! Comics are bottom-feeders in the best sense--reworking all of the cultural preoccupations, characters, situations, conspiracy theories that trickle down into its delightful cesspool of ideas. In comics, they can cross-pollinate, fertilize, and mutate. They rise again like a mutated monster--these wonderfully rich combinations of thoughts, ideas and imagery that you wouldn't see anywhere else can grow into new organisms.
 
-DR: Yes! Alive because it's a cultural Petrie dish. What is a "culture" but a growing, fecund thing? Fecund like manure- sh*t is great fertilizer! Comics are bottom-feeders in the best sense-reworking all of the cultural preoccupations, characters, situations, conspiracy theories that trickle down into its delightful cesspool of ideas. In comics, they can cross-polli-
+Comics give me a forum to look at the **_Bible_** as a media theorist would, while comparing it to situations, technologies and fiscal calamities that are going on today. So this seemingly staid, holy, redacted and permanent, set-in-stone book gets dragged down into this fertile ground of possibility. It's not just EC **_Bible Stories_**, anymore. It's a living, mutating set of myths. And that's what gets people the most upset, but it's also what gets people the most fascinated: "what if the **_Bible_** were alive?" Yeah, put something in comics and it becomes alive. That's why Grant \[Morrison\] is so interested in comics. You take a god that's the projection and imagery of all these people focusing on it, you take any object and put it in comics... it's _alive!_ That's what he means when he says comics are a "magical sigil": their creation is a ritual through which imagery can be beheld and disseminated. Conjured into existence.
 
-xxx
+**_JN:_** _Did you have an agenda with **Testament**?_
 
-nate, fertilize, and mutate. They rise again like a mutated monster-these wonderfully rich combinations of thoughts, ideas and imagery that you wouldn't see anywhere else can grow into new organisms.
+**DR:** I'm trying to do to the **_Bible_** what Jack Kirby tried to do to his universe. I'm trying to make these characters and situations come alive again by juxtaposing them with near-future scenarios that are actually happening. I'm trying to show that, in the best sense, the **_Bible_** was warning us about what's happening now: worshiping money, sacrificing our kids to false idols (like oil), taking a scarcity approach toward resources rather than an abundance approach. At the same time, though, I'm looking at how, well, the **_Bible_** didn't work, did it? If this is where we are, then its lessons weren't learned. And I'm finally suggesting that the reason it didn't work is because they tried to manage society through a one-pointedness. Monotheism is fine when it's universal, but it became something of an "accept our God or you're out" thing. The notion of a universal, abstract unknowable "God" got corrupted, and became a "this guy is everyone's God" mandate.
 
-Comics give me a forum to look at the Bible as a media theorist would, while comparing it to situations, technologies and fiscal calamities that are going on today. So this seemingly staid, holy, redacted and permanent, set-in-stone book gets dragged down into this fertile ground of possibility. It's not just EC Bible Stories, anymore. It's a living, mutating set of myths. And that's what gets people the most upset, but it's also what gets people the most fascinated: "what if the Bible were alive?" Yeah, put something in comics and it becomes alive. That's why Grant \[Morrison\] is so interested in comics. You take a god that's the projection and imagery of all these people focusing on it, you take any object and put it in comics... it's alive! That's what he means when he says comics are a "magical sigil": their creation is a ritual through which imagery can be beheld and disseminated. Conjured into existence.
+**_JN:_** _And you make it clear in **Testament**, by the "good light” you shine on the goddess Astarte, she seems to be the god that comes out the "cleanest"... this one-pointedness is related to a textual repression of the Feminine Goddess Energy, represented by Astarte.... What is this energy?_
 
-Feb 0
-
-2\.99
-
-Cover to the first issue of Douglas Rushkoff and Liam Sharp's Testament, Art is by Liam.
-
-\[©2006 Douglas Rushkoff and Liam Sharp. All rights reserved.\]
-
-JN: Did you have an agenda with Testament?
-
-DR: I'm trying to do to the Bible what Jack Kirby tried to do to his universe. I'm trying to make these characters and situa- tions come alive again by juxtaposing them with near-future scenarios that are actually happening. I'm trying to show that, in the best sense, the Bible was warning us about what's happening now: worshiping money, sacrificing our kids to false idols (like oil), taking a scarcity approach toward resources rather than an abundance approach. At the same time, though, I'm looking at how, well, the Bible didn't work, did it? If this is where we are, then its lessons weren't learned. And I'm finally suggesting that the reason it didn't work is because they tried to manage society through a one-pointed- ness. Monotheism is fine when it's universal, but it became something of an "accept our God or you're out" thing. The notion of a universal, abstract unknowable "God" got corrupt- ed, and became a "this guy is everyone's God" mandate.
-
-JN: And you make it clear in Testament, by the "good light” you shine on the goddess Astarte, she seems to be the god that comes out the "cleanest"... this one-pointedness is relat- ed to a textual repression of the Feminine Goddess Energy, represented by Astarte.... What is this energy?
-
-DR: Well, she is responsible for screwing up the heavenly gods' whole Eden experiment. But yeah-she's ultimately the one who got screwed over, and something of the hero in my god world. She represents the feminine goddess energy, the spirit of abundance that agricultural societies worshipped. It is disdained in the Bible, which is really about the superiority of
-
-DOUGLAS RUSHKOFF | 49
-
-the ethical, nomadic tribes over the farming polytheists. The nomads were dealing with scarcity. The Bible was concerned with getting people to stop child sacrifice, but they ended up com- pletely bashing the entirety of the reli- gions that worshipped their gods in the abundance tradition. It was a mistake to completely repress the goddess side, though, and that's why I treat the Torah gods as antagonists by the end of the series. They were too scared of women, and kind of screwed up as a result.
+**DR:** Well, she is responsible for screwing up the heavenly gods' whole Eden experiment. But yeah--she's ultimately the one who got screwed over, and something of the hero in my god world. She represents the feminine goddess energy, the spirit of abundance that agricultural societies worshipped. It is disdained in the **_Bible,_** which is really about the superiority of the ethical, nomadic tribes over the farming polytheists. The nomads were dealing with scarcity. The **_Bible_** was concerned with getting people to stop child sacrifice, but they ended up completely bashing the entirety of the religions that worshipped their gods in the abundance tradition. It was a mistake to completely repress the goddess side, though, and that's why I treat the Torah gods as antagonists by the end of the series. They were too scared of women, and kind of screwed up as a result.
 
 JN: Some might say you're taking some serious liberties with some pretty well established characters, these gods and Biblical heroes...
 
