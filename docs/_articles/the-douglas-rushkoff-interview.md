@@ -8,7 +8,6 @@ blurb: ''
 notes: Winter 2007 issue
 refs: ''
 sources: ''
-published: false
 
 ---
 Conducted in person by **_Jeff Newelt_**, October 2007  
