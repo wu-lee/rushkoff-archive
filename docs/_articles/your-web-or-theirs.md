@@ -32,6 +32,4 @@ But these generalizations were invented as a way of creating marketing messages 
 
 Our machines and networks are already in the process of being tuned to make us buy more things, regardless of whether we need or even want them. All this is being justified as a way to make our lives easier and more fun. At least it's bound to keep the Internet-speculation bubble afloat for another few years.
 
-While I won't presume to judge whether the computerization of mar- keting in the coming century is a good or a bad thing, I'd like to ask the designers of the automated consumption engine not to forget one potentially very impor- tant feature: a way to turn it off.
-
-SEE ALSO: KIDS
+While I won't presume to judge whether the computerization of marketing in the coming century is a good or a bad thing, I'd like to ask the designers of the automated consumption engine not to forget one potentially very important feature: a way to turn it off.
