@@ -14,11 +14,9 @@ published: false
 ---
 IF TODAY'S MARKETERS GET THEIR WAY, by the year 2010 we will no longer have a separate, classifiable human activity known as _shopping_. We won't think of ourselves as engaging in shopping any more than we now think of ourselves as engaging in circulating our blood, or complying with gravity. That's right: The object of the game for the next century's marketers will be to make the process of shopping and payment absolutely invisible.
 
-The communications infrastructure we know and love-the Internet-is just the testing ground for the completely self-reg-
+The communications infrastructure we know and love--the Internet--is just the testing ground for the completely self-regulating and self-sustaining marketing engine of tomorrow. Sticky Web sites will be remembered as the quaint and primitive equivalent of flypaper once the true power of e-commerce is effectively tapped.
 
-ulating and self-sustaining marketing engine of tomorrow. Sticky Web sites will be remembered as the quaint and primi- tive equivalent of flypaper once the true power of e-commerce is effectively tapped.
-
-The only reason the scenarios I'm about to depict have not yet been carried out is that advertisers and technologists have not yet joined forces. Ad folk are still des- perately attempting to justify their own existence in a mediaspace where adver- tising has no place, and technologists are too shortsighted to see past their own IPOS or exit strategies.
+The only reason the scenarios I'm about to depict have not yet been carried out is that advertisers and technologists have not yet joined forces. Ad folk are still desperately attempting to justify their own existence in a mediaspace where advertising has no place, and technologists are too shortsighted to see past their own IPOs or exit strategies.
 
 But as business plans evolve to match the sophistication of the technologies they justify, we will begin to see alliances between marketers and engineers. And
 
