@@ -9,7 +9,6 @@ blurb: This article isn't trying to sell you anything. Or is it? In the future, 
 notes: Dec. 1999 issue
 refs: ''
 sources: ''
-published: false
 
 ---
 IF TODAY'S MARKETERS GET THEIR WAY, by the year 2010 we will no longer have a separate, classifiable human activity known as _shopping_. We won't think of ourselves as engaging in shopping any more than we now think of ourselves as engaging in circulating our blood, or complying with gravity. That's right: The object of the game for the next century's marketers will be to make the process of shopping and payment absolutely invisible.
