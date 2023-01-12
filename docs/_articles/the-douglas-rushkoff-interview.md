@@ -86,93 +86,25 @@ The thing that amazes me about the comics audience is that everybody's crying ou
 
 **_JN:_** _In **Testament** you postulate that multiple characters in different Biblical periods were "played" by different "actors" from the present day "cast." How did you keep track of who was who? Did you do massive charts?_
 
-DR: I'm a theater director, so I thought of it like a theater company. The modern characters are my players, and I can play them to type in the Bible, or cast them against type by putting them in the same the situation that the Bible charac- ter is confronting. So Jake's father Alan plays Abraham for a while. The Bible characters are the archetypes for modern characters and what they're going through. And what we learn is that the Bible characters are the gods' way of influencing the present. Had I gone longer, I was going to then have dif- ferent modern characters play the same Bible characters, and even go through the same Bible situations making different choices-and still keep it all consistent with Bible scholarship.
+**DR:** I'm a theater director, so I thought of it like a theater company. The modern characters are my players, and I can play them to type in the **_Bible_**, or cast them against type by putting them in the same the situation that the **_Bible_** character is confronting. So Jake's father Alan plays Abraham for a while. The **_Bible_** characters are the archetypes for modern characters and what they're going through. And what we learn is that the **_Bible_** characters are the gods' way of influencing the present. Had I gone longer, I was going to then have different modern characters play the same **_Bible_** characters, and even go through the same **_Bible_** situations making _different_ choices--and still keep it all consistent with **_Bible_** scholarship.
 
-JN: How did Vertigo deal with all the nutty, and some would and will say, heretical stuff?
+**_JN:_** _How did Vertigo deal with all the nutty, and some would and will say, heretical stuff?_
 
-DR: They would ask, "Doug, are you really going to have Lot having sex with his daughters? Is it appropriate to take that kind of liberty with the Bible?" And I would just respond to the e-mail, "Okay, Genesis Chapter 24, Verse 11, Lot f**ks his daughters." As long as it was really in there and not just my bizarre interpretation, they were totally okay. I guess they wanted me to stay with the basic formula a little bit longer than I wanted to: modern story, flash to Bible allegory, modern story kind of completes itself, then Bible story completes itself.
+**DR:** They would ask, "Doug, are you really going to have Lot having sex with his daughters? Is it appropriate to take that kind of liberty with the **_Bible_**?" And I would just respond to the e-mail, "Okay, Genesis Chapter 24, Verse 11, Lot f**ks his daughters." As long as it was really in there and not just my bizarre interpretation, they were totally okay. I guess they wanted me to stay with the basic formula a little bit longer than I wanted to: modern story, flash to **_Bible_** allegory, modern story kind of completes itself, then **_Bible_** story completes itself.
 
-JN: And then the story busted free of that model.
+**_JN:_** _And then the story busted free of that model._
 
-DR: Right. Instead the series followed The "Rule of Three"-let it happen the same way twice, and then the third time show, "Uh-oh, the stories can diverge from the expected." Because
+**DR:** Right. Instead the series followed The "Rule of Three"--let it happen the same way twice, and then the third time show, "Uh-oh, the stories can diverge from the expected." Because my characters in the modern day have free will, and they don't have always do it the same way. That's the inciting event of the series: what will the gods do if we decide to do stuff differently? What happens if we break free from the **_Bible_**'s paradigm?
 
-Of every
+**_JN:_** _I know the series ended sooner than you'd planned. I've read the final scripts, and I'm guessing having to end things faster, might have given you, and thus the story, a greater urgency. The current of the story got faster and stronger towards the conclusion._
 
-thing in the Barten thou must fredy
+**DR:** It added a sense of urgency to it, yeah. It forced me to have the characters revolt sooner. I was going to have them revolt when the gods order them to kill every last person in Canaan. Which is what God did in the **_Bible_**, you know. And the Israelites got in trouble because they didn't kill everyone, they left a couple of hookers and a dog or something, so they got into all this trouble. Because the series needed to end sooner, I had them refuse to carry out the final plagues, which actually turned out to be more poignant...
 
-eat even from this
+**_JN:_** _It seems to me that there's been a tectonic cultural shift, where there's "Before Now" and there's "After Now," in terms of the respect being given comics in the media and general populace._
 
-tree of Eternal
+**DR:** There's been a tectonic shift, but it's more to do with Hollywood and television's desperate search for content. There's a thing going on in the business world; almost every industry out there is losing money, but almost every industry out there is pretending that it's also the next big thing. So industries are looking at the other industries as if those are the ones that are going to save them. The advertising industry is looking at the cell phone industry thinking, "Okay, that's where we're going to spread our messages--cell phones." Meanwhile, the cell phone industry is looking at the advertising industry to save _them_. The movie industry is looking at the comics industry while the comics industry is looking at the movie industry. You have Vertigo making comics of \[Darren Aronofsky's\] **_The Fountain_**, and you have Universal making movies from Marvel properties. On the one hand I'm excited that, yeah, the **Wall Street Journal, Playboy**, everybody cares about comics. On the other... most of our media is more obsessed with business than it is culture. The interviews are about "properties" instead of characters or issues.
 
-Like.
-
-Mmmm that
-
-Avtar te is & carver on Managed to insinuate herell into the darden
-
-This means
-
-mans parade must have one rule. Let's hope they can follow
-
-Fut of
-
-tha free of that Knowledge of Good and Cvil, you will not
-
-eat for as w
-
-As you do, you
-
-wa die.
-
-THAT'S CHEATING! NOW THEY'LL NEVER-
-
-I HAVE AX IDEA HOW WE AIGHT MOVE THINGS
-
-ALONG
-
-my characters in the modern day have free will, and they don't have always do it the same way. That's the inciting event of the series: what will the gods do if we decide to do stuff differently? What happens if we break free from the Bible's paradigm?
-
-JN: I know the series ended sooner than you'd planned. I've read the final scripts, and I'm guessing having to end things faster, might have given you, and thus the story, a greater urgency. The current of the story got faster and stronger towards the conclusion.
-
-DR: It added a sense of urgency to it, yeah. It forced me to have the characters revolt sooner. I was going to have them revolt when the gods order them to kill every last person in Canaan. Which is what God did in the Bible, you know. And the Israelites got in trouble because they didn't kill everyone, they left a couple of hookers and a dog or something, so they got into all this trouble. Because the series needed to end sooner, I had them refuse to carry out the final plagues, which actually turned out to be more poignant...
-
-JN: It seems to me that there's been a tectonic cultural shift, where there's "Before Now" and there's "After Now," in terms of the respect being given comics in the media and general populace.
-
-DR: There's been a tectonic shift, but it's more to do with Hollywood and television's desperate search for content. There's a thing going on in the business world; almost every industry out there is losing money, but almost every industry out there is pretending that it's also the next big thing. So industries are looking at the other industries as if those are the ones that are going to save them. The advertising industry is looking at the cell phone industry thinking, "Okay, that's where we're going to spread our messages-cell phones." Meanwhile, the cell phone industry is looking at the advertis- ing industry to save them. The movie industry is looking at the comics industry while the comics industry is looking at the
-
-The definitive Collection of Charles M. Schulz's
-
-comic strip masterpiece
-
-INTRODUCTION BY BILL
-
-MELENDEZ
-
-DAILIES & SUNDAYS
-
-1963
-
-TO
-
-1964
-
-THE COMPLETE
-
-PEANTS
-
-by
-
-SCHULZ
-
-The Seth-designed cover to a volume of Fantagraphics' cele- brated The Complete Peanuts collection, featuring Linus, whom Rushkoff believes is the true central character of the comic strip. To Rushkoff, Linus is "this sort of Nietzschean philosopher in the midst of this weird world."
-
-\[PEANUTS© 2005, United Feature Syndicate, Inc.\]
-
-52 WRITE NOW
-
-movie industry. You have Vertigo making comics of \[Darren Aronofsky's\] The Fountain, and you have Universal making movies from Marvel properties. On the one hand I'm excited that, yeah, the Wall Street Journal, Playboy, everybody cares about comics. On the other... most of our media is more obsessed with business than it is culture. The interviews are about "properties" instead of characters or issues.
-
-JN: I think another reason comics are getting more respect is the Web, because of instant access to links about comics and to web comics and exposure to comics without having to walk into a store and pick one up...
+**_JN:_** _I think another reason comics are getting more respect is the Web, because of instant access to links about comics and to web comics and exposure to comics without having to walk into a store and pick one up..._
 
 DR: Web comics are not comics. They are sequential narrative, but as long as we think of web comics as comics, we're not letting them be what they are. It's like thinking about automo- biles as horseless carriages. They are a different medium.
 
