@@ -15,11 +15,9 @@ published: false
 ---
 When Red Hat Inc., a Linux packager, recently entered the IPO ring, shareware enthusiasts weren't sure whether to reel in horror or celebrate. A free, open-source operating system, Linux owes its very existence to volunteers working outside the commercial sphere. Now that the software's leading distributor had joined forces with Goldman Sachs to offer common stock to NASDAQ speculators, it appeared at first glance that freeware's ultimate weapon against the Microsoft empire had been surrendered to the forces of capitalism.
 
-This development was espe- cially startling to those who consider Linux the paragon of the
+This development was especially startling to those who consider Linux the paragon of the internet's spirit of cooperation. Created by hundreds of programmers working in tandem online, the success of Linux sent a message to the increasingly business-focused net community: Collaborating toward common goals yields better technology than competing for market share.
 
-internet's spirit of cooperation. Created by hundreds of programmers working in tandem online, the success of Linux sent a message to the increasingly business-focused net commu- nity: Collaborating toward common goals yields better technology than competing for market share.
-
-The last few years of stunted development online have proven this to be true. Since the net went commercial, there hasn't been a single innovation worthy of the name. Except for speeds and feeds, the development of net- working technologies has come to a dead. stop. It may even be going backward.
+The last few years of stunted development online have proven this to be true. Since the net went commercial, there hasn't been a single innovation worthy of the name. Except for speeds and feeds, the development of networking technologies has come to a dead stop. It may even be going backward.
 
 A significant thing about Linux is that its development process harkens back to the good old days of the early seventies when using a computer meant learning to share. People didn't have computers of their own; there were no personal computers. At best, users had access to terminals that were linked to a mainframe housed in a government or uni- versity facility. As a result, almost all innova- tions in networking technology had to do with helping people cooperate.
 
