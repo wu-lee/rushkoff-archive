@@ -8,7 +8,6 @@ blurb: ''
 notes: Spring 2007
 refs: ''
 sources: ''
-published: false
 
 ---
 TEXT jeff newelt
