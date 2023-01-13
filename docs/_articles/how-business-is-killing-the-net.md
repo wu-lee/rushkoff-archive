@@ -10,7 +10,7 @@ blurb: Though entrepreneurs take credit for making the net flourish, the market 
 notes: |-
   Nov. 1999 issue
 
-  We only have access to the first page of the article. An earlier draft is on Dropbox (Old Articles for Archives / essays / shareware and mosquitos) but appears significantly different from the published article.
+  INCOMPLETE. We only have access to the first page of the article. An earlier draft is on Dropbox (Old Articles for Archives / essays / shareware and mosquitos) but appears significantly different from the published article.
 refs: ''
 sources: ''
 published: false
