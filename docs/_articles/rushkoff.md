@@ -16,23 +16,9 @@ SPECIAL TO THE JOURNAL
 
 Douglas Rushkoff, author of the controversial new book, "Nothing Sacred: The Truth About Judaism," will speak at Temple Israel on Thursday, June 5 at 7:30 p.m., during the evening Shavuot service.
 
-Rushkoff is one of
+Rushkoff is one of America's most popular culture critics. His commentaries air on CBS' Sunday Morning and NPR's All Things Considered, and he hosted a PBS Frontline documentary, The Merchants of Cool, about corporate America's marketing efforts toward teen-agers. He regularly appears on TV shows including Larry King Live and Politically Incorrect.
 
-Americas_ most popular . culture critics. His commentaries air on CBS'
-
-Su nday Mo r ning a n d
-
-NPR's All Things Considered, and he hosted a community. Rushkoff
-
-PBS Frontline documen- said that Jewish institutary, The Merchants of tions "appear frozen in
-
-Cool, about corporate their protective crouch, "
-
-America's marketing ef- desperately counting "'forts toward teen-agers. their remaining conHe regularly appears on stituents and wondering
-
-1V shows including Lany why young people are inKing Live and Politically termarrying and 'assimiIncorrect. lating' at such alarming
-
-In his new book, rates."
+In his new book, Rushkoff offers an analysis of the role of religion in America today that has already sparked heated debate both within and far beyond the Jewish community. Rushkoff said that Jewish institutions "appear frozen in their protective crouch, desperately counting their remaining constituents and wondering why young people are intermarrying and 'assimilating' at such alarming rates."
 
 Rushkoff offers an analy- With organized Jusis of the role of religion daism focused on its own
 
