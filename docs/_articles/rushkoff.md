@@ -11,19 +11,10 @@ sources: ''
 published: false
 
 ---
-BY MICHAEL W. SASSER
-
+BY MICHAEL W. SASSER  
 SPECIAL TO THE JOURNAL
 
-Douglas Rushkoff, author of the controversial
-
-new book, "Nothing Sacred: The Truth About Judaism," will speak at
-
-Temple Israel on Thursday, June 5 at 7:30 p.m.,
-
-during the evening
-
-Shavuot service.
+Douglas Rushkoff, author of the controversial new book, "Nothing Sacred: The Truth About Judaism," will speak at Temple Israel on Thursday, June 5 at 7:30 p.m., during the evening Shavuot service.
 
 Rushkoff is one of
 
@@ -51,7 +42,7 @@ already sparked heated substance of Judaism, ordebate both within and ganized Ju
 
 Jar .h.eyp.,11,d, tlJ\~ J \~)-vis h . , .. Co1'7JNUED Q N P,\\GE \~ , l t .\~ ·· ·\~ • 4 ,., .? " • <It • (' • • • " } \\ • • s! ;. ,6 e r 3 ,,.-. V _.,, .,,, -1 -,
 
-• •• "I I • · • • ..,, t t _: · . \~. ' .. 1 Jtr,.. • .- _. \~· • I ... ' - '- ,._ __ _ __ ·· t.:..---=-::.--.:.._-\~;..:"!·_ \~ :..\~ _:i::'f-+ ..:_·7·_\~-+-\~--r_-.:::-_:-t-:-\~2- 7:±:::-::;::=....;---:- ..,.... __ ...._ __ ----4 _,..._._ . .,,.,. • :t:-\~ -41- \~r-..,_.• - _____ ,..__ .,._ , ____ _.,_....,.,..____..,_ • -.:.+- _,. :.. .,.j,._, .. _. ............... .....,:....,.__,._.......,_... . -·--;-1 --.,------\~-=,,::...-\~ .:;;s-\~-.;;-;; J.: ..) L .:....::.+
+• •• "I I • · • • ..,, t t _: · . \~. ' .. 1 Jtr,.. • .- . \~· • I ... ' - '- ,._ __ _ __ ·· t.:..---=-::.--.:..-\~;..:"!·_ \~ :..\~ _:i::'f-+ ..:_·7·_\~-+-\~--r_-.:::-_:-t-:-\~2- 7:±:::-::;::=....;---:- ..,.... __ ...._ __ ----4 _,..._._ . .,,.,. • :t:-\~ -41- \~r-..,_.• - _____ ,..__ .,._ , ____ _.,_....,.,..___..,_ • -.:.+- _,. :.. .,.j,._, .. _. ............... .....,:....,.__,._.......,... . -·--;-1 --.,------\~-=,,::...-\~ .:;;s-\~-.;;-;; J.: ..) L .:....::.+
 
 \--\~------
 
