@@ -11,47 +11,13 @@ sources: ''
 published: false
 
 ---
-TEXT: jeff newelt
+TEXT jeff newelt
 
 _Testament_, by media theorist and culture critic Doug Rushkoff, is serialized as a monthly comic book from DC/Vertigo and then collected into a graphic novel every five or six issues--_Testament Volume Two: West of Eden_ was just recently released. The series ranks among the triumvirate of Neil Gaiman's _Sandman_, Grant Morrison's _Invisibles_ and Alan Moore's _Promethea_, and alongside Jack Kirby's '70s psychedelic cosmologies/comics, _The New Gods_ and the _Eternals_.
 
-"Originally, I wanted to do the Eternals," says
+"Originally, I wanted to do the Eternals," says Rushkoff. That was my first pitch--I wanted to play with a big universe like that. The Eternals wasn't available, but it turned out that the Bible still was. Rather amazing, given how much mythology it has to offer. I mean, the Bible is a bigger universe than even Jack Kirby's."
 
-Rushkoff. That was my first pitch-I wanted to
-
-play with a big universe like that. The Eternals
-
-wasn't available, but it turned out that the Bible
-
-still was. Rather amazing, given how much
-
-mythology it has to offer. I mean, the Bible is a
-
-bigger universe than even Jack Kirby's."
-
-Regatding the aforementioned trio, Rushkoff
-
-66
-
-TEXT jetf newelt
-
-says, "You're talking about the trippiest and most
-
-comic-specific uses of the medium in the past 20
-
-· years. That's the whole point of it, for me: to write a
-
-story that can only\~ told properly in this medium.
-
-That means pushing the medium itself-doing the
-
-unexpected with narrative and layout, in order to
-
-dimensionalize the whole experience. Every great
-
-comic needs to be the one that did something not
-
-just with comics, but to comics."
+Regarding the aforementioned trio, Rushkoff says, "You're talking about the trippiest and most comic-specific uses of the medium in the past 20 years. That's the whole point of it, for me: to write a story that can only be told properly in this medium. That means pushing the medium itself--doing the unexpected with narrative and layout, in order to dimensionalize the whole experience. Every great comic needs to be the one that did something not just with comics, but to comics."
 
 Rushkoff retelis the book of Genesis by way of
 
