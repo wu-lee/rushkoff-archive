@@ -19,84 +19,8 @@ _Testament_, by media theorist and culture critic Doug Rushkoff, is serialized a
 
 Regarding the aforementioned trio, Rushkoff says, "You're talking about the trippiest and most comic-specific uses of the medium in the past 20 years. That's the whole point of it, for me: to write a story that can only be told properly in this medium. That means pushing the medium itself--doing the unexpected with narrative and layout, in order to dimensionalize the whole experience. Every great comic needs to be the one that did something not just with comics, but to comics."
 
-Rushkoff retelis the book of Genesis by way of
+Rushkoff retells the book of Genesis by way of a sophisticated parallel narrative, half of which takes place in biblical times and the other half in the near future. For example, in _Testament_, we not only see Abraham and Isaac, but we also see Professor Alan Stern in the near future pushing his son to have a mandatory RFID (radio frequency identification) implanted. Ultimately, Professor Stern helps his son evade the requirement rather than sacrificing his freedom. There is a third narrative that runs perpendicular to the other two, with gods acting out of time and influencing goings-on from outside the panels. When they reach into the panels, their actions are perceived as elements or consuming emotions. A godly finger breaks ·one comic book panel to reach toward Abraham, transforming into the flame that lights the torch at the sacrificial altar beside him. Rushkoff edges into what some might deem subversive territory when the near-future parallel narrative starts to veer away from its biblical counterpart; he shows that Lot's wife doesn't always have to look back. "The point is that the story is still being written, it's not a closed book." Rushkoff explains.
 
-a sophisticated parallel narrative,
+Could Rushkoff imagine _Testament_ ever actually being taught in Hebrew school?
 
-h·alf of which
-
-takes place in biblical times and the other half
-
-in the near future. For example, in Testament, we
-
-not only see Abraham and Isaac,· but we also see
-
-Professor Ahm Stern in the near future pushing
-
-his son to have a mandatory RFID (radio frequ
-
-_
-
-en- 1
-
-cy identification)_ implanted. Ultimately, Professor
-
-Stern helps his son evade the requirement rather
-
-than sacrificing his freedom. There is a third
-
-narrative that runs perpendicular to the other
-
-two, with gods acting out of time and in'fluencing
-
-THE
-
-LO
-
-VE I
-
-SSUE
-
-goings-on from outside the panels. When they
-
-reach into the panels, their actions are perceived
-
-as elements or consuming emotions. A godly
-
-finger breaks ·one comic book panel to reach
-
-tQward Abraham, transforming into the flame
-
-that_ lights the torch at the sacrificial altar beside
-
-him. Rushkoff edges into what some might deem
-
-subversive territory when the near-future parallel
-
-narrative starts to veer away from its biblical
-
-counterpart; he shows that Lot's wife doesn't
-
-\~lways have to look back. "The point is that the
-
-story is still being written, it's not a closed book."
-
-Rushkoff explains.
-
-Could Rushkoff imagine Testament ever actually being taught in Hebrew school?
-
-"I know of a few rabbis' lists online where it's
-
-a regular topic of conversation, so that's another
-
-form of beit mid rash, where they're finding use
-
-for the book," he says. "But the sex and violence
-
-make it a bit inappropriate for officially teaching
-
-to kids."
-
-HEEBMAGA
-
-ZINE.COM
+"I know of a few rabbis' lists online where it's a regular topic of conversation, so that's another form of beit midrash, where they're finding use for the book," he says. "But the sex and violence make it a bit inappropriate for officially teaching to kids."
