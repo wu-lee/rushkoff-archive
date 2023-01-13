@@ -32,43 +32,9 @@ Rushkoff recognized that his message is not always well·received within the org
 
 "Like any institution that believes it is under terrible threat, many Jewish institutions have become obsessed with preserving themselves rather than the ideas or processes they were created to protect," Rushkoff said. "What use is a synagogue building if Judaism isn't practiced inside it? What use is philanthropy dedicated to Jewish continuity, if the only continuity it promotes is the fear of intermarriage?
 
-it in the . present. Judaism
+"We in the 21st century have such a primitive, flat, literal understanding of Judaism -- we are so very distanced from anything resembling Jewish-ness -- that we can't imagine something being passed on or continued that we can see or touch," Rushkoff added. "So if our kids want to start a _havura_ and debate Torah with their friends, we still see that as a loss because they're not going to synagogue. Officially, because they're not 'affiliated' with a synagogue, they count as 'lapsed Jews.'"
 
-"We in the 21st century happens now, not in some
-
-have such a primitive, future moment. The
-
-flat, literal understanding minute you are preparing
-
-of Judaism - we are so for some future God-like
-
-very distanced from any- moment is the minute
-
-thing resembling Jewish- that you can rationalize
-
-ness - that we can't imag- hurting someone else."
-
-ine something being Temple Israel's Robert
-
-passed on or continued Glazier, vice president of
-
-that we can see or touch," ·religious affairs, said he
-
-Rushkoff added. "So if believed that Rushkoff is
-
-our kids want to start a a natural to speak at the
-
-havura and debate Torah landmark Miami shul.
-
-with their friends, we still "Judaism is in a transisee that as a loss because tion period where things
-
-they're not going to syna- that worked for a long
-
-gogue. Officially, because time don't seem to work
-
-they're not 'affiliated' so well anymore," Glazier \\1 "·... with a synagogue, they said. "Some synagogues, ·
-
-count as 'lapsed Jews.'" including Temple Israel, Still, Rushkoff does not are trying to figure out ' · have a shortage of audi- what's next. Douglas real- .,
+ including Temple Israel, Still, Rushkoff does not are trying to figure out ' · have a shortage of audi- what's next. Douglas real- .,
 
 ences for his sometimes- izes this transition period
 
