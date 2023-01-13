@@ -11,37 +11,9 @@ sources: ''
 published: false
 
 ---
-\~pie TripDoug Rushkoff's Testqmen t
+TEXT: jeff newelt
 
-COMIX
-
-\-
-
-\-\~ -------
-
-Testament, by media theorist and culture critic Doug
-
-Rushkoff, is serialized as a
-
-monthly comic'book from
-
-DC/Vertigo and then collected
-
-into a graphic novel every
-
-five or six issues-Testament Volume Two: West
-
-of Eden was just recently released. The series
-
-ranks among the triumvirate of Neil Caiman's
-
-Sandman, Grant Morrison's Invisibles and Alan
-
-Moore's Promethea, and alongside Jack Kirby's
-
-'70s psychedelic cosmologies/comics, The New
-
-Gods and the Eternals.
+_Testament_, by media theorist and culture critic Doug Rushkoff, is serialized as a monthly comic book from DC/Vertigo and then collected into a graphic novel every five or six issues--_Testament Volume Two: West of Eden_ was just recently released. The series ranks among the triumvirate of Neil Gaiman's _Sandman_, Grant Morrison's _Invisibles_ and Alan Moore's _Promethea_, and alongside Jack Kirby's '70s psychedelic cosmologies/comics, _The New Gods_ and the _Eternals_.
 
 "Originally, I wanted to do the Eternals," says
 
