@@ -20,57 +20,11 @@ Rushkoff is one of America's most popular culture critics. His commentaries air 
 
 In his new book, Rushkoff offers an analysis of the role of religion in America today that has already sparked heated debate both within and far beyond the Jewish community. Rushkoff said that Jewish institutions "appear frozen in their protective crouch, desperately counting their remaining constituents and wondering why young people are intermarrying and 'assimilating' at such alarming rates."
 
-Rushkoff offers an analy- With organized Jusis of the role of religion daism focused on its own
+With organized Judaism focused on its own survival, rather than the substance of Judaism, organized Judaism turns off many Jews.
 
-in America today that has survival, rather than the
+"Some of our best people are doing Judaism at the ACLU, because they're finding it hard to do Judaism within Jewish organizations," Rushkoff said.
 
-already sparked heated substance of Judaism, ordebate both within and ganized Judaism turns off
-
-Jar .h.eyp.,11,d, tlJ\~ J \~)-vis h . , .. Co1'7JNUED Q N P,\\GE \~ , l t .\~ ·· ·\~ • 4 ,., .? " • <It • (' • • • " } \\ • • s! ;. ,6 e r 3 ,,.-. V _.,, .,,, -1 -,
-
-• •• "I I • · • • ..,, t t _: · . \~. ' .. 1 Jtr,.. • .- . \~· • I ... ' - '- ,._ __ _ __ ·· t.:..---=-::.--.:..-\~;..:"!·_ \~ :..\~ _:i::'f-+ ..:_·7·_\~-+-\~--r_-.:::-_:-t-:-\~2- 7:±:::-::;::=....;---:- ..,.... __ ...._ __ ----4 _,..._._ . .,,.,. • :t:-\~ -41- \~r-..,_.• - _____ ,..__ .,._ , ____ _.,_....,.,..___..,_ • -.:.+- _,. :.. .,.j,._, .. _. ............... .....,:....,.__,._.......,... . -·--;-1 --.,------\~-=,,::...-\~ .:;;s-\~-.;;-;; J.: ..) L .:....::.+
-
-\--\~------
-
-··
-
-\-----
-
-····
-
-\----·------···
-
-1·, -••••••• ---••••••••••• -•••• tiii\~-. the·. ideas and and to arm the\~se ves
-
-'Y RUSHKOFF processes they were ere- with the education and
-
-co
-
-NTt NuEo rnoM PA
-
-GE 1 ated to protect," Rushkoff experiences they need to
-
-said. "What use is a syna- \~ave these conye\~\~agogue building J\~d\~m tions," Rushkoff said. If I isn't practiced inside 1t? need to have a message, What use is philanthropy like some prophet qoes, dedicated to Jewish conti- then it would be that we
-
-nuity, if the only continu- must not prepare for the
-
-many Jews. "Some of our best peo- ple are doing Judaism at the ACLU, because
-
-they're findin\~ i_t hard_ to J!I do Judaism within JeWISh
-
-organizations," Rushkoff
-
-said. :t I Rushkoff - recently
-
-1 , named by one newspaper
-
-as the ''provocateur of Ju- daism" - argues that '1u- daism is not simply a religion to be believed in, but
-
-one to be considered, discussed, and evolved. Jewish texts and rituals are
-
-not closed, but open to
-
-commentary, disagreement, and even revision."
+Rushkoff -- recently named by one newspaper as the ''provocateur of Judaism" -- argues that "Judaism is not simply a religion to be believed in, but one to be considered, discussed, and evolved. Jewish texts and rituals are not closed, but open to commentary, disagreement, and even revision."
 
 Using computer software terminology, Rushkoff said that Judaism is a
 
