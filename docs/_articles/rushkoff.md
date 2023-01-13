@@ -26,33 +26,13 @@ With organized Judaism focused on its own survival, rather than the substance of
 
 Rushkoff -- recently named by one newspaper as the ''provocateur of Judaism" -- argues that "Judaism is not simply a religion to be believed in, but one to be considered, discussed, and evolved. Jewish texts and rituals are not closed, but open to commentary, disagreement, and even revision."
 
-Using computer software terminology, Rushkoff said that Judaism is a
+Using computer software terminology, Rushkoff said that Judaism is a medium for the development of an open source value system.
 
-medium for the development of an open source
+Rushkoff recognized that his message is not always well·received within the organized Jewish community, and he understood why.
 
-value system.
+"Like any institution that believes it is under terrible threat, many Jewish institutions have become obsessed with preserving themselves rather than the ideas or processes they were created to protect," Rushkoff said. "What use is a synagogue building if Judaism isn't practiced inside it? What use is philanthropy dedicated to Jewish continuity, if the only continuity it promotes is the fear of intermarriage?
 
-Rushkoff recognized
-
-that his message is not always wen·received within
-
-the organized Jewish
-
-community, and he understood why.
-
-"Like any institution
-
-that believes it is under
-
-terrible threat, many Jewish institutions have become obsessed with preserving themselves rather
-
-..... .......... ..,.... ..
-
-\---
-
-ity it promotes is th\~ fear Messianic Age, but enact
-
-of intermarriage? it in the . present. Judaism
+it in the . present. Judaism
 
 "We in the 21st century happens now, not in some
 
