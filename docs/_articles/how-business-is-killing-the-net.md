@@ -7,7 +7,10 @@ date: 1999-11-01 00:00:00 -0500
 blurb: Though entrepreneurs take credit for making the net flourish, the market has
   actually brought online innovation to a halt. The truth is that, as in life, the
   best things online are free
-notes: Nov. 1999 issue
+notes: |-
+  Nov. 1999 issue
+
+  We only have access to the first page of the article. An earlier draft is on Dropbox (Old Articles for Archives / essays / shareware and mosquitos) but appears significantly different from the published article.
 refs: ''
 sources: ''
 published: false
@@ -25,10 +28,8 @@ More to the point, the folks behind these innovations were less concerned with m
 
 Though today NASDAQ investors like to take credit for making the net flourish, in reality every major internet application we think of as coming from Redmond or Silicon Valley is just a fatter, clunkier, less efficient version of something first developed as shareware. Eudora, the email program that served as the model for Microsoft's Outlook Express, originated as freeware from the University of Illinois. Sure, the latest versions--backed by millions in development dollars--may be capable of displaying pictures within the message text, but that mostly serves the needs of online merchants wishing to graphically showcase their wares. For most of us, it only makes the downloading of spam take a whole lot longer.
 
-Internet Explorer is a sub-par rip-off of Netscape Navigator, which is merely the com- mercial version of Mosaic-a browser origi- nally developed by then University of Illinois
+Internet Explorer is a sub-par rip-off of Netscape Navigator, which is merely the commercial version of Mosaic--a browser originally developed by then University of Illinois student Marc Andreessen. The World Wide Web itself was established by an international consortium of scientists and researchers looking for a way to index and footnote each another's documents through hyperlinks. Today's browsers, which hog up to fifteen megs of hard drive space and countless more in RAM, don't do anything the shareware ones couldn't except through plug-ins--which, for the most part, were themselves shareware utilities before being bought by AOL, Microsoft or Netscape.
 
-student Marc Andreessen. The World Wide Web itself was established by an international consortium of scientists and researchers look- ing for a way to index and footnote each an- other's documents through hyperlinks. Today's browsers, which hog up to fifteen megs of hard drive space and countless more in RAM, don't do anything the shareware ones couldn't except through plug-ins-which, for the most part, were themselves shareware utilities before being bought by AOL, Microsoft or Netscape.
-
-Even RealAudio and other streaming media are shareware knock-offs. PC-based video- conferencing over the net was first devised by staff techies at Cornell University in the mid- eighties. CUSeeMe, distributed for free, made the great conceptual leap forward; everything since then has been merely an incremental improvement on this work-except that most of CUSeeMe's successors are broadcasting technologies and don't allow for two-way communication. Big improvement.
+Even RealAudio and other streaming media are shareware knock-offs. PC-based video- conferencing over the net was first devised by staff techies at Cornell University in the mid- eighties. CUSeeMe, distributed for free, made the great conceptual leap forward; everything since then has been merely an incremental improvement on this work--except that most of CUSeeMe's successors are broadcasting technologies and don't allow for two-way communication. Big improvement.
 
 The notion that computing gets better through competition rather than cooperation even permeates the conventional wisdom about how the internet came to be. The net's development has long been attributed to that other ruthless and fiercely competitive force: the military. The U.S. Department of Defense
