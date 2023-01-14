@@ -13,15 +13,9 @@ published: false
 ---
 We are really glad you're making the time and effort to attend the Reboot summit next month. Roger, Rachel and I have been working hard to develop a program that will give us the shared ground and open space necessary to engage in a meaningful set of conversations about Judaism and Jewishness.
 
-The weekend will offer us a variety of forums
+The weekend will offer us a variety of forums through which our own agendas can emerge, find expression, and even be debated.
 
-through which our own agendas can emerge, find
-
-expression, and even be debated.
-
-First, we'll use the occasion of Shabbat as a way of
-
-engaging with Jewish narrative and liturgy in a context that invites thought, scrutiny, and re-evaluation.
+First, we'll use the occasion of Shabbat as a way of engaging with Jewish narrative and liturgy in a context that invites thought, scrutiny, and re-evaluation.
 
 By beginning with a shared experience of Torah, in a
 
