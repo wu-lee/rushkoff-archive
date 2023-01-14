@@ -23,61 +23,13 @@ For our inquiry and discussions, we'll be employing a variety of different forma
 
 The shape of the weekend will move from the personal to the universal, covering all sorts of permutations in between. By beginning with our individual experiences of Judaism, finding common threads among us, and then extending these themes to their broader implications, we can begin to determine for ourselves what, if anything, distinguishes the sacred from the secular, the particular from the universal, and the Jewish from the, well, non-Jewish.
 
-All this "work" will be balanced out with an ample
+All this "work" will be balanced out with an ample assortment of opportunities for physical recreation, exploration of the natural landscape surrounding the resort, and socializing.
 
-assortment of opportunities for physical recreation, exploration of the natural landscape surrounding the resort, and socializing.
+A brief word about the term "Reboot." we chose this title for our summit not simply because the terms "renaissance," 'rebirth," and "renewal" have already been adopted by existing Jewish institutions and outreach efforts. My bias for new media terminology notwithstanding, I felt it was important that we have a way of reminding ourselves that this weekend marks a potential discontinuity. We are flipping off the switch and restarting the operating system. And we're using open source code, this time. We are allowing ourselves to imagine how we might reboot this whole religion, from scratch if need be, on our own terms.
 
-A brief word about the term "Reboot." we chose this
+Although we may be dealing with a several thosand-year-old tradition, our premise for the three days we'll be together is that we need not feel limited by any of the imposed or assumed restrictions with which we might normally regard Judaism or anything Jewish. This is an opportunity, in the spirit of divine conspiracy, to break any and all assumptions that are standing in the way of honest engagement with Judaism today.
 
-title for our summit not simply because the terms
-
-"renaissance," 'rebirth," and "renewal" have already
-
-been adopted by existing Jewish institutions and
-
-outreach efforts. My bias for new media terminology
-
-notwithstanding, I felt it was important that we
-
-have a way of reminding ourselves that this weekend
-
-marks a potential discontinuity. We are flipping off
-
-the switch and restarting the operating system.
-
-And we're using open source code, this time. We are
-
-allowing ourselves to imagine how we might reboot
-
-REBOOT SUMMIT 2002 4
-
-this whole religion, from scratch if need be, on our
-
-own terms.
-
-Although we may be dealing with a several thosandyear-old tradition, our premise forthe three daysVtJe'll be
-
-together is that we need not feel limited by any of the
-
-imposed or assumed restrictions with which we might
-
-normally regard Judaism or anything Jewish. This is
-
-an opportunity, in the spirit of divine conspiracy, to
-
-break any and \~ll assumptions that are standing in
-
-the way of honest engagement with Judaism today.
-
-More than anything else, it will be my job to facilitate
-
-an event where you feel free to say whatever may be
-
-on your mind or in your heart, however radical or conventiona\~ resistant or complacent it may sound to you.
-
-We're in this to get into this - like I said in my letter
-
-of invitation- no holds barred.
+More than anything else, it will be my job to facilitate an event where you feel free to say whatever may be on your mind or in your heart, however radical or conventional, resistant or complacent it may sound to you. We're in this to get into this - like I said in my letter of invitation - no holds barred.
 
 I can't emphasize enough that we are not being convened for Reboot; Reboot is being convened for us.
 
