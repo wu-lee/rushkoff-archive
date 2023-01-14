@@ -4,7 +4,11 @@ title: Step this way and escape the apocalypse
 subtitle: ''
 image: ''
 date: 2022-04-09 00:00:00 -0400
-blurb: ''
+blurb: When Douglas Rushkoff was flown to the US desert to talk about the future of
+  technology with five billionaires, it soon became clear that they had other ideas.
+  As this extract from his new book shows, what these super-rich 'preppers' wanted
+  was the means to survive the collapsing world they'd helped to create -- and to
+  leave the rest of us behind
 notes: ''
 refs: ''
 sources: ''
