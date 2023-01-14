@@ -17,51 +17,11 @@ The weekend will offer us a variety of forums through which our own agendas can 
 
 First, we'll use the occasion of Shabbat as a way of engaging with Jewish narrative and liturgy in a context that invites thought, scrutiny, and re-evaluation.
 
-By beginning with a shared experience of Torah, in a
+By beginning with a shared experience of Torah, in a fashion open not only to genuine inspiration but also to critical objectivity, we are hoping to provide a trigger for a set of diverse reactions. If a brief exposure to Judaism's core story does nothing more than remind of you of why you no longer find it relevant to your life, it will have served its purpose just as much as if it inspires you to delve deeper into Jewish content. Maybe even more so.
 
-fashion open not only to genuine inspiration but also
+For our inquiry and discussions, we'll be employing a variety of different formats, from group debates to impromptu gatherings in a library filled with resources to inform our thinking. We'll also use a methodology adapted from the "Open Space" techniques of Harrison Owen, which will allow each of us to determine the issues that need to be addressed and then take responsibility for their full, if inconclusive, consideration.
 
-to critical objectivity, we are hoping to provide a trigger
-
-for a set of diverse reactions. If a brief exposure to
-
-Judaism's core story does nothing more than remind
-
-of you of why you no longer find it relevant to your
-
-life, it will have served its purpose just as much as
-
-if it inspires you to delve deeper into Jewish
-
-content. Maybe even more so.
-
-For our inquiry and discussions, we'll be employing
-
-a variety of different formats, from group debates to
-
-impromptu gatherings in a library filled with resources
-
-to inform our thinking. We'll also use a methodology
-
-adapted from the "Open Space" techniques of Harrison
-
-Owen, which will allow each of us to determine the
-
-that ne\~d to \~ddressed and then take respons1b1lity for their full, 1f inconclusive, consideration.
-
-The shape of the weekend will move from the personal
-
-to the universal, covering all sorts of permutations
-
-in between. By beginning with our individual experiences of Judaism, finding common threads among
-
-us, and then extending these themes to their broader
-
-implications, we can begin to determine for ourselves what, if anything, distinguishes the sacred
-
-from the secular, the particular from the universal,
-
-and the Jewish from the, well, non-Jewish.
+The shape of the weekend will move from the personal to the universal, covering all sorts of permutations in between. By beginning with our individual experiences of Judaism, finding common threads among us, and then extending these themes to their broader implications, we can begin to determine for ourselves what, if anything, distinguishes the sacred from the secular, the particular from the universal, and the Jewish from the, well, non-Jewish.
 
 All this "work" will be balanced out with an ample
 
