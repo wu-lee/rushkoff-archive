@@ -33,6 +33,5 @@ More than anything else, it will be my job to facilitate an event where you feel
 
 I can't emphasize enough that we are not being convened for Reboot; Reboot is being convened for us.
 
-More soon,
-
+More soon,  
 DOUGLAS
