@@ -35,29 +35,15 @@ This was probably the wealthiest, most powerful group I had ever encountered. Ye
 
 Taking their cue from Tesla founder Elon Musk colonising Mars, Palantir's Peter Thiel reversing the ageing process, or artificial intelligence developers Sam Altman and Ray Kurzweil uploading their minds into supercomputers, they were preparing for a digital future that had less to do with making the world a better place than it did with transcending the human condition altogether. Their extreme wealth and privilege served only to make them obsessed with insulating themselves from the very real and present danger of climate change, rising sea levels, mass migrations, global pandemics, nativist panic and resource depletion. For them, the future of technology is about only one thing: escape from the rest of us.
 
-These people once showered the world with madly optimistic business plans for how technology might benefit human society. Now they've reduced technological progress to a video game that one of them wins by finding the escape hatch. Will it be Jeff Bezos migrating to space, Thiel to his New Zealand compound, or Mark Zuckerberg to his virtual metaverse? And these catastrophising billionaires are the presumptive winners of the digital economy - the supposed champions of the survival-of-the-fittest business landscape that's fuelling most of this speculation to begin with.
+These people once showered the world with madly optimistic business plans for how technology might benefit human society. Now they've reduced technological progress to a video game that one of them wins by finding the escape hatch. Will it be Jeff Bezos migrating to space, Thiel to his New Zealand compound, or Mark Zuckerberg to his virtual metaverse? And these catastrophising billionaires are the presumptive _winners_ of the digital economy -- the supposed champions of the survival-of-the-fittest business landscape that's fuelling most of this speculation to begin with.
 
-W
+What I came to realise was that these men are actually the losers. The billionaires who called me out to the desert to evaluate their bunker strategies are not the victors of the economic game so much as the victims of its perversely limited rules. More than anything, they have succumbed to a mindset where "winning" means earning enough money to insulate themselves from the damage they are creating by earning money in that way. It's as if they want to build a car that goes fast enough to escape from its own exhaust.
 
-hat I came to realise was that these men
+Yet this Silicon Valley escapism -- let's call it The Mindset -- encourages its adherents to believe that the winners can somehow leave the rest of us behind. Never before have our society's most powerful players assumed that the primary impact of their own conquests would be to render the world itself unliveable for everyone else. Nor have they ever before had the technologies through which to programme their sensibilities into the very fabric of our society. The landscape is alive with algorithms and intelligences actively encouraging these selfish and isolationist outlooks. Those sociopathic enough to embrace them are rewarded with cash and control over the rest of us. It's a self-reinforcing feedback loop. This is new.
 
-are actually the losers. The billionaires
+Amplified by digital technologies and the unprecedented wealth disparity they afford, The Mindset allows for the easy externalisation of harm to others, and inspires a corresponding longing for transcendence and separation from the people and places that have been abused.
 
-who called me out to the desert to evaluate their bunker strategies are not the victors of the economic game so much as the victims of its perversely limited rules. More than anything, they have succumbed to a mindset where "winning" means earning enough money to insulate themselves from the damage they are creating by earning money in that way. It's as if they want to build a car that goes fast enough to escape from its own exhaust.
-
-Yet this Silicon Valley escapism - let's call it The Mindset - encourages its adherents to believe that the winners can somehow leave the rest of us behind. Never before have our society's most powerful players assumed that the primary impact of their own conquests would be to render the world itself unliveable for everyone else. Nor have they ever before had the technologies through which to programme their sensibilities into the very fabric of our society. The landscape is alive with algorithms and intelligences actively encouraging these selfish and isolationist outlooks. Those sociopathic enough to embrace them are rewarded with cash and control over the rest of us. It's a self-reinforcing feedback loop. This is new.
-
-Amplified by digital technologies and the unprecedented wealth disparity they afford, The Mindset allows for the easy externalisation of harm to others, and inspires a corresponding longing for
-
-Continued on page 20
-
-4
-
-Continued from page 19
-
-transcendence and separation from the people and places that have been abused.
-
-Instead of just lording over us for ever, however, the billionaires at the top of these virtual pyramids actively seek the endgame. In fact, like the plot of a Marvel blockbuster, the very structure of The Mindset requires an endgame. Everything must resolve to a one or a zero, a winner or loser, the saved or the damned. Actual, imminent catastrophes from the climate emergency to mass migrations support the mythology, offering these would-be superheroes the opportunity to play out the finale in their own lifetimes. For The Mindset also includes a faith-based Silicon Valley certainty that they can develop a technology that will somehow break the laws of physics, economics and morality to offer them something even better than a way of saving the world: a means of escape from the apocalypse of their own making.
+Instead of just lording over us for ever, however, the billionaires at the top of these virtual pyramids actively seek the endgame. In fact, like the plot of a Marvel blockbuster, the very structure of The Mindset _requires_ an endgame. Everything must resolve to a one or a zero, a winner or loser, the saved or the damned. Actual, imminent catastrophes from the climate emergency to mass migrations support the mythology, offering these would-be superheroes the opportunity to play out the finale in their own lifetimes. For The Mindset also includes a faith-based Silicon Valley certainty that they can develop a technology that will somehow break the laws of physics, economics and morality to offer them something even better than a way of saving the world: a means of escape from the apocalypse of their own making.
 
 B
 
