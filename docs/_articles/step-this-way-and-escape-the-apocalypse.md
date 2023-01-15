@@ -45,57 +45,17 @@ Amplified by digital technologies and the unprecedented wealth disparity they af
 
 Instead of just lording over us for ever, however, the billionaires at the top of these virtual pyramids actively seek the endgame. In fact, like the plot of a Marvel blockbuster, the very structure of The Mindset _requires_ an endgame. Everything must resolve to a one or a zero, a winner or loser, the saved or the damned. Actual, imminent catastrophes from the climate emergency to mass migrations support the mythology, offering these would-be superheroes the opportunity to play out the finale in their own lifetimes. For The Mindset also includes a faith-based Silicon Valley certainty that they can develop a technology that will somehow break the laws of physics, economics and morality to offer them something even better than a way of saving the world: a means of escape from the apocalypse of their own making.
 
-B
-
-y the time I boarded my return flight to New York, my mind was reeling with the implications of
-
-The Mindset. What
-
-were its main tenets? Who were its true believers? What, if anything, could we do to resist it? Before I had even landed, I posted an article about my strange encounter - to surprising effect.
+By the time I boarded my return flight to New York, my mind was reeling with the implications of The Mindset. What were its main tenets? Who were its true believers? What, if anything, could we do to resist it? Before I had even landed, I posted an article about my strange encounter -- to surprising effect.
 
 Almost immediately, I began receiving inquiries from businesses catering to the billionaire prepper, all hoping I would make some introductions on their behalf to the five men I had written about. I heard from a real estate agent who specialises in disaster-proof listings, a company taking reservations for its third underground dwellings project, and a security firm offering various forms of "risk management".
 
-But the message that got my attention came from a former president of the American chamber of commerce in Latvia. JC Cole had witnessed the fall of the Soviet empire, as well as what it took to rebuild a working society almost from scratch. He had also served as landlord for the American and European Union embassies, and learned a whole lot about security systems and evacuation plans. "You certainly stirred up a bees' nest," he began his first email to me. "It's quite accurate - the wealthy hiding in their bunkers will have a problem with their security teams... I believe you are correct with your advice to 'treat those people really well, right now', but also the concept may be expanded and I believe there is a better system that would give much better results."
+But the message that got my attention came from a former president of the American chamber of commerce in Latvia. JC Cole had witnessed the fall of the Soviet empire, as well as what it took to rebuild a working society almost from scratch. He had also served as landlord for the American and European Union embassies, and learned a whole lot about security systems and evacuation plans. "You certainly stirred up a bees' nest," he began his first email to me. "It's quite accurate -- the wealthy hiding in their bunkers will have a problem with their security teams... I believe you are correct with your advice to 'treat those people really well, right now', but also the concept may be expanded and I believe there is a better system that would give much better results."
 
-He felt certain that the "event" - a grey swan, or predictable catastrophe triggered by our enemies, Mother Nature, or just by accident -was inevitable. He had done a Swot analysis-strengths, weaknesses, opportunities and threats - and concluded that preparing for
+He felt certain that the "event" -- a grey swan, or predictable catastrophe triggered by our enemies, Mother Nature, or just by accident -- was inevitable. He had done a Swot analysis -- strengths, weaknesses, opportunities and threats -- and concluded that preparing for calamity required us to take the very same measures as trying to prevent one. "By coincidence," he explained, "I am setting up a series of safe haven farms in the NYC area. These are designed to best handle an 'event' and also benefit society as semi-organic farms. Both within three hours' drive from the city -- close enough to get there when it happens."
 
-BELOW
+Here was a prepper with security clearance, field experience and food sustainability expertise. He believed the best way to cope with the impending disaster was to change the way we treat one another, the economy, and the planet right now -- while also developing a network of secret, totally self-sufficient residential farm communities for millionaires, guarded by Navy Seals armed to the teeth.
 
-The lounge in the Oppidum bunker.
-
-calamity required us to take the very same measures as trying to prevent one. "By coincidence," he explained, "I am setting up a series of safe haven farms in the NYC area. These are designed to best handle an 'event' and also benefit society as semi-organic farms. Both within three hours' drive from the city - close enough to get there when it happens."
-
-Here was a prepper with security clearance, field experience and food sustainability expertise. He believed the best way to cope with the impending disaster was to change the
-
-way we treat one another, the economy, and the planet right now - while also developing a network of secret, totally self-sufficient residential farm communities for
-
-LEFT
-
-Vivos hopes to fit its former US military bunkers with features such as swimming pools and gyms.
-
-Terravivos.com
-
-It's as if they
-
-millionaires, guarded by Navy Seals want to build a
-
-armed to the teeth.
-
-JC is currently developing
-
-two farms as part of his safe
-
-haven project. Farm one, outside Princeton, is his show model and
-
-car that goes fast enough to
-
-"works well as long as the thin blue escape from
-
-line is working". The second one, somewhere in the Poconos, has to remain a secret. "The fewer people
-
-its own exhaust
-
-who know the locations, the better," he explained, along with a link to the Twilight Zone episode in which panicked neighbours break into a family's bomb shelter during a nuclear scare. "The primary value of safe haven is operational security, nicknamed OpSec by the military. If/ when the supply chain breaks, the people will have no food delivered. Covid-19 gave us the wake-up call as people started fighting over toilet paper. When it comes to a shortage of food it will be vicious. That is why those intelligent enough to invest have to be stealthy."
+JC is currently developing two farms as part of his safe haven project. Farm one, outside Princeton, is his show model and "works well as long as the thin blue line is working". The second one, somewhere in the Poconos, has to remain a secret. "The fewer people who know the locations, the better," he explained, along with a link to the _Twilight Zone_ episode in which panicked neighbours break into a family's bomb shelter during a nuclear scare. "The primary value of safe haven is operational security, nicknamed OpSec by the military. If/when the supply chain breaks, the people will have no food delivered. Covid-19 gave us the wake-up call as people started fighting over toilet paper. When it comes to a shortage of food it will be vicious. That is why those intelligent enough to invest have to be stealthy."
 
 JC invited me down to New Jersey to see the real thing. "Wear boots," he said. "The ground is still wet." Then he asked: "Do you shoot?"
 
