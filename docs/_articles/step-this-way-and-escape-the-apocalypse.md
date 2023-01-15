@@ -71,36 +71,16 @@ So far, JC Cole has been unable to convince anyone to invest in American Heritag
 
 Many of those seriously seeking a safe haven simply hire one of several prepper construction companies to bury a prefab steel-lined bunker somewhere on one of their existing properties. Rising S Company in Texas builds and installs bunkers and tornado shelters for as little as $40,000 for an 8ft by 12ft emergency hideout all the way up to the $8.3m luxury series "Aristocrat", complete with pool and bowling lane. The enterprise originally catered to families seeking temporary storm shelters, before it went into the long-term apocalypse business. The company logo, complete with three crucifixes, suggests their services are geared more toward Christian evangelist preppers in red-state America than billionaire tech bros playing out sci-fi scenarios.
 
-\-
+There's something much more whimsical about the facilities in which most of the billionaires -- or, more accurately, aspiring billionaires -- actually invest. A company called Vivos is selling luxury underground apartments in converted cold war munitions storage facilities, missile silos, and other fortified locations around the world. Like miniature Club Med resorts, they offer private suites for individuals or families, and larger common areas with pools, games, movies and dining. Ultra-elite shelters such as the Oppidum in the Czech Republic claim to cater to the billionaire class, and pay more attention to the long-term psychological health of residents. They provide imitation of natural light, such as a pool with a simulated sunlit garden area, a wine vault, and other amenities to make the wealthy feel at home.
 
-There's something much more whimsical about the facilities in which most of the billionaires - or, more accurately, aspiring billionaires - actually invest. A company called Vivos is selling luxury underground apartments in converted cold war munitions
+On closer analysis, however, the probability of a fortified bunker actually protecting its occupants from the reality of, well, reality, is very slim. For one, the closed ecosystems of underground facilities are preposterously brittle. For example, an indoor, sealed hydroponic garden is vulnerable to contamination. Vertical farms with moisture sensors and computer-controlled irrigation systems look great in business plans and on the rooftops of Bay Area startups; when a palette of topsoil or a row of crops goes wrong, it can simply be pulled and replaced. The hermetically sealed apocalypse "grow room" doesn't allow for such do-overs.
 
-storage facilities, missile silos, and other fortified locations around the world. Like miniature Club Med resorts, they offer private suites for individuals or families, and larger common areas with pools, games, movies and dining. Ultra-elite shelters such as the Oppidum in the Czech Republic claim to cater to the billionaire class, and pay more attention to the long-term psychological health of residents. They provide imitation of natural light, such as a pool with a simulated sunlit garden area, a wine vault, and other amenities to make the wealthy feel at home.
-
-On closer analysis, however, the probability of a fortified bunker actually protecting its occupants from the reality of, well, reality, is very slim. For one, the closed ecosystems of underground facilities are preposterously brittle. For example, an indoor, sealed hydroponic garden is vulnerable to contamination. Vertical farms with moisture sensors and computer- controlled irrigation systems look great in business plans and on the rooftops of Bay Area startups; when
-
-a palette of topsoil or a row of crops goes wrong, it can simply be pulled and replaced. The hermetically sealed apocalypse "grow room" doesn't allow for such do-overs.
-
-f
-
-ust the known unknowns are enough to dash any reasonable hope of survival. But this doesn't seem to stop wealthy preppers from trying. The
-
-New York Times reported that real estate agents specialising in private islands were overwhelmed with inquiries during the Covid-19 pandemic. Prospective clients were even asking about whether there was enough land to do some agriculture in addition to installing a helicopter landing pad. But while a private island may be a good place to wait out a temporary plague, turning it into a self-sufficient, defensible ocean fortress is harder than it sounds. Small islands are utterly dependent on air and sea deliveries for basic staples. Solar panels and water filtration equipment need to be replaced and serviced at regular intervals. The billionaires who
-
-reside in such locales are more, not less, dependent on complex supply chains than those of us embedded in industrial civilisation.
+Just the _known_ unknowns are enough to dash any reasonable hope of survival. But this doesn't seem to stop wealthy preppers from trying. The _New York Times_ reported that real estate agents specialising in private islands were overwhelmed with inquiries during the Covid-19 pandemic. Prospective clients were even asking about whether there was enough land to do some agriculture in addition to installing a helicopter landing pad. But while a private island may be a good place to wait out a temporary plague, turning it into a self-sufficient, defensible ocean fortress is harder than it sounds. Small islands are utterly dependent on air and sea deliveries for basic staples. Solar panels and water filtration equipment need to be replaced and serviced at regular intervals. The billionaires who reside in such locales are more, not less, dependent on complex supply chains than those of us embedded in industrial civilisation.
 
 Surely the billionaires who brought me out for advice on their exit strategies were aware of these limitations. Could it have all been some sort of game? Five men sitting around a poker table, each wagering his escape plan was best?
 
 But if they were in it just for fun, they wouldn't have called for me. They would have flown out the author of a zombie apocalypse comic book. If they wanted to test their bunker plans, they'd have hired a security expert from Blackwater or the Pentagon. They seemed to want something more. Their language went far beyond questions of disaster preparedness and verged on politics and philosophy: words such as individuality, sovereignty, governance and autonomy.
 
-That's because it wasn't their actual bunker strategies I had been brought out to evaluate so much as the philosophy and mathematics they were using to justify their commitment to escape. They were working out what I've come to call the insulation equation: could they earn enough money to insulate themselves from the reality they were creating by earning money in this way? Was there any valid justification for striving to be so
+That's because it wasn't their actual bunker strategies I had been brought out to evaluate so much as the philosophy and mathematics they were using to justify their commitment to escape. They were working out what I've come to call the insulation equation: could they earn enough money to insulate themselves from the reality they were creating by earning money in this way? Was there any valid justification for striving to be so successful that they could simply leave the rest of us behind -- apocalypse or not?
 
-e successful that they could simply leave the rest of us behind - apocalypse or not?
-
-Or was this really their intention all along? Maybe the apocalypse is less something they're trying to escape than an excuse to realise
-
-The Mindset's true goal: to rise above mere mortals and execute the ultimate exit strategy.
-
-This is an edited extract from
-
-Survival of the Richest by Douglas Rushkoff, published by Scribe (£20). To order a copy for £17.40 go to guardianbookshop.com or call 020-3176 3837
+Or was this really their intention all along? Maybe the apocalypse is less something they're trying to escape than an excuse to realise The Mindset's true goal: to rise above mere mortals and execute the ultimate exit strategy.
