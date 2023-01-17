@@ -19,3 +19,5 @@ fields:
       format: markdown
   label: description
   description: A brief description of the category.
+pages:
+- docs/_categories/crypto.md
