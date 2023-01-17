@@ -3,11 +3,15 @@ title: Rushkoff Archive
 description: Douglas Rushkoff's Article Archive
 unpublished: false
 collections:
+  # Define our collections and their properties
   articles:
     output: true
   publications:
     output: true
+  categories:
+    output: true
 defaults:
+  # Set the default front-matter fields for various content types
   - scope:
       path: ''
       type: 'articles'
@@ -18,6 +22,11 @@ defaults:
       type: 'publications'
     values:
       layout: 'publication'
+  - scope:
+      path: ''
+      type: 'categories'
+    values:
+      layout: 'category'
 plugins:
   - jekyll-remote-theme
   - jekyll-feed

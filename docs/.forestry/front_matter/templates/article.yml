@@ -52,6 +52,16 @@ fields:
 - type: text
   name: sources
   label: sources
+- name: categories
+  type: list
+  config:
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: pages
+      section: categories
+  label: categories
 pages:
 - docs/_articles/1083-3d-printers-making-is-the-new-taking.md
 - docs/_articles/a-computer-ate-my-book.md

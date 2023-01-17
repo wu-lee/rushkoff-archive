@@ -21,6 +21,13 @@ sections:
   match: "**/*.md"
   templates:
   - publication
+- type: directory
+  path: docs/_categories
+  label: Categories
+  create: documents
+  match: "**/*.md"
+  templates:
+  - category
 upload_dir: docs/uploads
 public_path: "/uploads"
 front_matter_path: ''

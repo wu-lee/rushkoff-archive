@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article class="post">
+  <header class="post-header">
+    <div class="post-title">{{ page.title | escape }}</div>
+  </header>
+
+  {% if page.img %}
+  <div>
+    <a href="{{ page.url | relative_url }}">
+      <img class="category hero" src="{{ page.img | relative_url }}" alt="category image">
+    </a>
+  </div>
+  {% endif %}
+
+  <div class="post-text">
+    {{ content }}
+  </div>
+
+  {% include article-list.html category=page.path %}
+</article>

@@ -1,0 +1,37 @@
+{%- comment -%}
+<!--
+     This include accepts no parameters
+     
+     It is intended to next inside an <article class="post"> tag,
+     i.e. within a top-level/default layout.
+-->
+{%- endcomment -%}
+
+{% assign categories = site.categories | sort: 'date' | reverse %}
+
+<div class="post-list-wrapper">
+  <p class="badge">
+    {{ categories.size }} {% if categories.size == 1 %}category{% else %}categories{% endif %}.
+  </p>
+
+  {%- if categories.size > 0 -%}
+  <ul class="post-list">
+    {%- for category in site.categories -%}
+    {%-   assign count = 0 -%}
+    {%-   for article in site.articles -%}
+    {%-     if article.categories contains category.path -%}
+    {%-       assign count = count | plus: 1 -%}
+    {%-     endif -%}
+    {%-   endfor -%}
+    <li class="post-list-item">
+      <a class="post-link" href="{{ category.url | relative_url }}">
+        {{ category.title | escape }}
+      </a>
+      <span class="badge">
+        {{ count }} {% if count == 1 %}article{% else %}articles{% endif %}
+      </span>
+    </li>
+    {%- endfor -%}
+  </ul>
+  {%- endif -%}
+</div>

@@ -1,16 +1,19 @@
 {%- comment -%}
 <!--
-     This include accepts one parameter:
+     This include accepts two parameters (which combine by intersection)
    - publication: restrict articles those with this publication value
+   - category: restrict articles those with this category value
 
      It is intended to next inside markdown content, i.e. within a page layout.
 -->
 {%- endcomment -%}
 
+{% assign articles = site.articles | sort: 'date' | reverse %}
 {% if include.publication %}
-{%   assign articles = site.articles | where: "publication", include.publication | sort: 'date' | reverse %}
-{% else %}
-{%   assign articles = site.articles | sort: 'date' | reverse %}
+{%   assign articles = articles | where: "publication", include.publication %}
+{% endif %}
+{% if include.category %}
+{%   assign articles = articles | where: "categories", include.category %}
 {% endif %}
 
 <script
