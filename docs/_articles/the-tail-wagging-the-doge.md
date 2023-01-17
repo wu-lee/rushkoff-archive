@@ -10,6 +10,8 @@ notes: 'Source: [https://rushkoff.medium.com/the-tail-wagging-the-doge-f75cc0db5
 refs: ''
 sources: ''
 image: "/uploads/the-tail-wagging-the-doge.jpg"
+categories:
+- _categories/crypto.md
 
 ---
 One of the most common questions I’ve been getting this week is from young investors (they wouldn’t call themselves investors, but they are) wondering why their crypto holdings are going down as fast or faster than the stock market.
