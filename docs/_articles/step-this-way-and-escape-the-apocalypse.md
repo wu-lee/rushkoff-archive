@@ -3,7 +3,7 @@ publication: _publications/observer.md
 title: Step this way and escape the apocalypse
 subtitle: ''
 image: ''
-date: 2022-04-09 00:00:00 -0400
+date: 2022-04-09T00:00:00.000-04:00
 blurb: When Douglas Rushkoff was flown to the US desert to talk about the future of
   technology with five billionaires, it soon became clear that they had other ideas.
   As this extract from his new book shows, what these super-rich 'preppers' wanted
@@ -12,7 +12,6 @@ blurb: When Douglas Rushkoff was flown to the US desert to talk about the future
 notes: ''
 refs: ''
 sources: ''
-published: false
 
 ---
 As a humanist who writes about the impact of digital technology on our lives, I am often mistaken for a futurist. The people most interested in hiring me for my opinions about technology are usually less concerned with building tools that help people live better lives in the present than they are in identifying the Next Big Thing through which to dominate them in the future. I don't usually respond to their inquiries. Why help these guys ruin what's left of the internet, much less civilisation?
