@@ -16,49 +16,9 @@ published: false
 ---
 The digerati heir to Marshall McLuhan, media theorist, writer and novelist Douglas Rushkoff sprang to prominence in the mid-90s when his book Media Virus--describing how viral media works--was snapped up by marketers and advertising agencies struggling to communicate online.
 
-Rushkoff's latest thought-provoking book, Present
+Rushkoff's latest thought-provoking book, _Present Shock: When Everything Happens Now_, explains how the always-on nature of digital technology is changing our sense of time. One effect, according to Rushkoff, is narrative collapse--in an age of constant stimulation from a thousand sources all at once, no one is able to pay attention long enough for us to actually tell stories. We're moving away from the Aristotelian narrative arc of beginning, middle and end, towards the kind of open-ended play seen in video games like the hugely popular MMORPGs (Massively Multiplayer Online Role Playing Games) like _World of Warcraft_ or _Grand Theft Auto_.
 
-Shock: When Everything Happens Now, explains
-
-how the always-on nature of digital technology is
-
-changing our sense of time. One effect, according
-
-to Rushkoff, is narrative collapse-in an age of
-
-constant stimulation from a thousand sources
-
-all at once, no one is able to pay attention long
-
-enough for us to actually tell stories. We're
-
-moving away from the Aristotelian narrative arc
-
-of beginning, middle and end, towards the kind
-
-of open-ended play seen in video games like the
-
-hugely popular MMORPGs (Massively Multiplayer
-
-Online Role Playing Games) like World of Warcraft
-
-or Grand Theft Auto.
-
-For Rushkoff, in a cultural landscape characterised
-
-by continual feedback, the linear logic of cause
-
-and effect is being replaced by pattern recognition.
-
-Cultural literacy is increasingly about being able
-
-to learn the sequences of moves and buttons
-
-that trigger Ryu's fishing move in Street Fighter
-
-//, or developing the intuitive algorithms of hip
-
-references to identify next season's trends.
+For Rushkoff, in a cultural landscape characterised by continual feedback, the linear logic of cause and effect is being replaced by pattern recognition. Cultural literacy is increasingly about being able to learn the sequences of moves and buttons that trigger Ryu's fishing move in _Street Fighter II_, or developing the intuitive algorithms of hip references to identify next season's trends.
 
 Her\~ Rushkoff talks to Pitch Magazine about the
 
