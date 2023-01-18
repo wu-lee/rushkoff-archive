@@ -20,45 +20,11 @@ Rushkoff's latest thought-provoking book, _Present Shock: When Everything Happen
 
 For Rushkoff, in a cultural landscape characterised by continual feedback, the linear logic of cause and effect is being replaced by pattern recognition. Cultural literacy is increasingly about being able to learn the sequences of moves and buttons that trigger Ryu's fishing move in _Street Fighter II_, or developing the intuitive algorithms of hip references to identify next season's trends.
 
-Her\~ Rushkoff talks to Pitch Magazine about the
+Here Rushkoff talks to _Pitch Magazine_ about the implications of open-ended interactive storytelling, and the future of brands in our digital world.
 
-implications of open-ended interactive storytelling,
+**How do you see the logic of video games, this idea of a story that never ends, playing out on a wider social scale?**
 
-and the future of brands in our digital world.
-
-How do you see the logic of video games,
-
-this idea of a story that never ends, playing
-
-out on a wider social scale?
-
-When you're playing video games and moving
-
-choice-to-choice-to-choice, you end up less
-
-goal-oriented, less end-oriented and much more
-
-experientially-oriented, a bit more in whatever
-
-present moment you're in. It's really good for
-
-decoupling your emotions from the grand
-
-narrative of culture. A culture that is characterised
-
-by Game of Thrones-like open-ended, episodic
-
-or massive-ensemble, non-protagonist kind of
-
-stories, is going to be much harder to steer.
-
-On the other hand, people who are in that
-
-choice-to-choice-to-choice presentism of a video
-
-game can be really direction-less and in some
-
-ways more easily manipulated at each turn.
+When you're playing video games and moving choice-to-choice-to-choice, you end up less goal-oriented, less end-oriented and much more experientially-oriented, a bit more in whatever present moment you're in. It's really good for decoupling your emotions from the grand narrative of culture. A culture that is characterised by _Game of Thrones_-like open-ended, episodic or massive-ensemble, non-protagonist kind of stories, is going to be much harder to steer. On the other hand, people who are in that choice-to-choice-to-choice presentism of a video game can be really direction-less and in some ways more easily manipulated at each turn.
 
 For the individual, is navigating this space
 
