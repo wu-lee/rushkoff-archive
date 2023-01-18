@@ -35,7 +35,7 @@
     if (!text) return '';
     return text.toLowerCase()
                .replace(/\s+/g, ' ')
-               .replace(/\W+/g, '');
+               .replace(/[^\w ]+/g, '');
   }
   
   function filter(text, publicationId, categoryId) {
