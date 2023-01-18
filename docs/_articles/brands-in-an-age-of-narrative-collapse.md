@@ -1,5 +1,5 @@
 ---
-publication: _publications/art-toys.md
+publication: _publications/pitch-magazine.md
 title: Brands in an Age of Narrative Collapse
 subtitle: ''
 image: ''
