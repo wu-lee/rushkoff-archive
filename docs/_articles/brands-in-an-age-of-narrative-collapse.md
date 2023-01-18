@@ -4,7 +4,9 @@ title: Brands in an Age of Narrative Collapse
 subtitle: ''
 image: ''
 date: 2023-01-01 00:00:00 -0500
-blurb: ''
+blurb: With digital technology transforming our cultural landscape at an ever-increasing
+  rate, even the way we tell stories is changing claims media guru _Douglas Rushkoff_--with
+  fundamental implications for how brands navigate the future.
 notes: Placeholder date; have not been able to find even an approximate date
 refs: ''
 sources: ''
@@ -12,37 +14,7 @@ categories: []
 published: false
 
 ---
-Brands in an Age
-
-of Narrative Collapse
-
-With digital technology transforming our cultural landscape
-
-at an ever-increasing rate, even the way we tell stories is changing
-
-claims media guru Douglas Rushkoff-with fundamental
-
-implications for how brands navigate the future.
-
-The digerati heir to Marshall
-
-McLuhan, media theorist,
-
-writer and novelist Douglas
-
-Rushkoff sprang to prominence
-
-in the mid-90s when his book
-
-Media Virus-describing how
-
-viral media works-was
-
-snapped up by marketers and
-
-advertising agencies struggling
-
-to communicate online.
+The digerati heir to Marshall McLuhan, media theorist, writer and novelist Douglas Rushkoff sprang to prominence in the mid-90s when his book Media Virus--describing how viral media works--was snapped up by marketers and advertising agencies struggling to communicate online.
 
 Rushkoff's latest thought-provoking book, Present
 
