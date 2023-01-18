@@ -26,73 +26,15 @@ Here Rushkoff talks to _Pitch Magazine_ about the implications of open-ended int
 
 When you're playing video games and moving choice-to-choice-to-choice, you end up less goal-oriented, less end-oriented and much more experientially-oriented, a bit more in whatever present moment you're in. It's really good for decoupling your emotions from the grand narrative of culture. A culture that is characterised by _Game of Thrones_-like open-ended, episodic or massive-ensemble, non-protagonist kind of stories, is going to be much harder to steer. On the other hand, people who are in that choice-to-choice-to-choice presentism of a video game can be really direction-less and in some ways more easily manipulated at each turn.
 
-For the individual, is navigating this space
+**For the individual, is navigating this space about moving between different frames of reference without losing ourselves, our sense of identity?**
 
-about moving between different frames
+We're trying to do more than one thing at the same time, or we think we are. It's the idea of trying to ape the parallel processing ability of a computer chip, when you're actually an organic continuous being with only one point of focus. I wrote an article for the UK called "Which One of These Sneakers is Me." This kid was staring at a wall of sneakers and that's what he said to me. He gave me this whole thing about the different brand images and purposes. How we move from one identity to another is key for anybody in an age where you get to choose.
 
-of reference without losing ourselves,
+**What role brands can play in helping us navigate our choices?**
 
-our sense of identity?
+Well there are two things. On the one hand, if your brand is going to be mythological and invested with all these kinds of stories then it's going to be emotionally charged. Nike spent a lot of money on that. When you need motivation or an emotional connection to a symbol system, brands are good for that.
 
-We're trying to do more than one thing at the
-
-same time, or we think we are. It's the idea of
-
-trying to ape the parallel processing ability of a
-
-computer chip, when you're actually an organic
-
-continuous being with only one point of focus .
-
-I wrote an article for the UK called "Which One
-
-of These Sneakers is Me." This kid was staring
-
-at a wall of sneakers and that's what he said
-
-to me. He gave me this whole thing about the
-
-different brand images and purposes. How we
-
-move from one identity to another is key for
-
-anybody in an age where you get to choose.
-
-What role brands can play in helping us
-
-navigate our choices?
-
-Well there are two things. On the one hand, if your
-
-brand is going to be mythological and invested
-
-with all these kinds of stories then it's going to be
-
-emotionally charged. Nike spent a lot of money on
-
-that. When you need motivation or an emotional
-
-connection to a symbol system, brands are good
-
-for that.
-
-But the thing that really makes them work is if
-
-you know that behind the brand, the actual culture
-
-is doing the thing too. What used to charge a
-
-brand was the storytelling ability of the creative
-
-department of its advertising agency. That wasn't
-
-about the attributes. But now, I mean .. . what did
-
-an Apple ad become in the height of Apple? An
-
-Apple ad was Steve Jobs saying this is incredible,
-
-showing the thing itself.
+But the thing that really makes them work is if you know that behind the brand, the actual culture is doing the thing too. What used to charge a brand was the storytelling ability of the creative department of its advertising agency. That wasn't about the attributes. But now, I mean... what did an Apple ad become in the height of Apple? An Apple ad was Steve Jobs saying this is incredible, showing the thing itself.
 
 So what is the role of brand managers?
 
