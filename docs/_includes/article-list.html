@@ -9,12 +9,22 @@
 {%- endcomment -%}
 
 {% assign articles = site.articles | sort: 'date' | reverse %}
-{% if include.publication %}
+
+
+{% if include.publication # filter by publication %}
 {%   assign articles = articles | where: "publication", include.publication %}
 {% endif %}
-{% if include.category %}
-{%   assign articles = articles | where: "categories", include.category %}
+
+{% if include.category # filter by category %}
+{%   assign articles = articles | where_exp: "item", "item.categories contains include.category" %}
 {% endif %}
+
+
+{% assign publication_ids = articles | map: "publication" | uniq %}
+{% assign publications = site.publications | where_exp: "p", "publication_ids contains p.path" %}
+
+{% assign category_ids = articles | map: "categories" | flatten | uniq  %}
+{% assign categories = site.categories | where_exp: "c", "category_ids contains c.path" %}
 
 <script
   src="https://code.jquery.com/jquery-3.6.0.min.js"
@@ -28,11 +38,43 @@
   </p>
   
   {%- if articles.size > 0 -%}
-  <form class="search"><input type="text" class="search-input" placeholder="Search Titles"><button class="search-button" >Clear</button></form>
+  
+  <form class="search">
+    <div>
+      <input type="text" class="search-input-text" placeholder="Search Titles">
+      <button class="search-button" >Clear</button>
+    </div>
+    
+    {%- if publications.size > 1 # all articles have one publication -%}
+    <div>
+      <select class="search-input-publication" name="publications">
+        <option value="">All Publications</option>
+        {% for publication in publications | sort: "title" %}
+        <option value="{{ publication.path }}">{{ publication.title | escape }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    {%- endif -%}
+
+    {%- if categories.size > 0 # some articles have zero catergories -%}
+    <div>
+      <select class="search-input-category" name="categories">
+        <option value="">All Categories</option>
+        {% for category in categories | sort: "title" %}
+        <option value="{{ category.path }}">{{ category.title | escape }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    {%- endif -%}
+
+  </form>
+  
   <ul class="post-list" id="search-list">
     {%- for article in articles -%}
-    {% assign publication = site.publications | where: "path", article.publication | first %}
-    <li class="post-list-item">
+    {%    assign publication = publications | where: "path", article.publication | first %}
+    <li class="post-list-item"
+      _publication-id="{{ article.publication }}"
+      _category-ids="{{ article.categories | join(" ") }}">
       <div class="flex-align">
         
         {%- assign date_format = "%Y/%m/%d" -%}
@@ -50,7 +92,7 @@
           {% endif %}
         </span>
         
-        <span class="post-list-publication">
+        <span class="post-list-publication" _publication-id="{{ article.publication }}">
           {% if include.publication %}
           {%   unless article.published != false %}(unpublished){% endunless %}
           {% else %}
