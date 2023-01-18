@@ -36,123 +36,21 @@ Well there are two things. On the one hand, if your brand is going to be mytholo
 
 But the thing that really makes them work is if you know that behind the brand, the actual culture is doing the thing too. What used to charge a brand was the storytelling ability of the creative department of its advertising agency. That wasn't about the attributes. But now, I mean... what did an Apple ad become in the height of Apple? An Apple ad was Steve Jobs saying this is incredible, showing the thing itself.
 
-So what is the role of brand managers?
+**So what is the role of brand managers?**
 
-It's the same thing you would tell a good press
+It's the same thing you would tell a good press secretary of a politician. You can either be there to shield the public and the press from what's going on or if your guy is good he should be able to express what's going on. In some ways that's an anti-cynical, optimistic view. What I run into a lot is advertisers and brand managers who genuinely do not believe in what they're doing. I have way more people asking me how do I sell something I don't believe in than how do I communicate a product that I do.
 
-secretary of a politician. You can either be there
+**How do you think social media is going to change?**
 
-to shield the public and the press from what's
+One thing is Facebook operates under the premise that people value personal product recommendations more than ads, but once that is successfully corrupted by paying people to promote things to one another, then Facebook loses its advantage.
 
-going on or if your guy is good he should be
+Now people are understanding viral media rather than viral marketing, which is important... The sort of discontinuous communication, non locational, so you do something and kids in Minnesota see it. It's different from real time, real place. It's digital in essence. But I feel like the viral thing is big. And you know, dunking the Oreo cookie in the dark, that's viral media. The Oreo Twitter campaign has really fast turnaround now, the approval process is almost instantaneous so that they can seize on events. The lights went out in a football game in New Orleans and everybody was in the dark. Oreo sent out a tweet saying you can still dunk cookies in the dark and it was hailed as brilliant. It was really being praised because recency matters more than relevancy in that space. Now every brand has a person sitting ready to tweet and get a fast approval.
 
-able to express what's going on. In some ways
+They're pedal to the metal to get on the moment-to-moment thing, but that's their version of present shock. If people are only in the moment, then we have to be part of that moment, so how do we insinuate our brand into that.
 
-that's an anti-cynical, optimistic view. What I run
+**Is it about adopting a non-linear way of thinking?**
 
-into a lot is advertisers and brand managers who
-
-genuinely do not believe in what they're doing.
-
-I have way more people asking me how do I
-
-sell something I don't believe in than how do I
-
-communicate a product that I do.
-
-'' How we move from one identity to
-
-another is key for anybody in an age
-
-where you get to choose.
-
-''
-
-w
-
-How do you think social media is going
-
-to change?
-
-One thing is Facebook operates under the
-
-premise that people value personal product
-
-recommendations more than ads, but once that
-
-is successfully corrupted by paying people to
-
-promote things to one another, then Facebook
-
-loses its advantage.
-
-Now people are understanding viral media rather
-
-than viral marketing, which is important ... The sort
-
-of discontinuous communication, non locational,
-
-so you do something and kids in Minnesota see it.
-
-It's different from real time, real place. It's digital
-
-in essence. But I feel like the viral thing is big. And
-
-you know, dunking the Oreo cookie in the dark,
-
-that's viral media. The Oreo Twitter campaign has
-
-really fast turnaround now, the approval process
-
-is almost instantaneous so that they can seize
-
-on events. The lights went out in a football game
-
-in New Orleans and everybody was in the dark.
-
-Oreo sent out a tweet saying you can still dunk
-
-cookies in the dark and it was hailed as brilliant. It
-
-was really being praised because recency matters
-
-more than relevancy in that space. Now every
-
-brand has a person sitting ready to tweet and get
-
-a fast approval.
-
-They're pedal to the metal to get on the momentto-moment thing, but that's their version of
-
-present shock. If people are only in the moment,
-
-then we have to be part of that moment, so how
-
-do we insinuate our brand into that.
-
-Is it about adopting a non-linear way
-
-of thinking?
-
-Not getting lost is the trick. With non-linear
-
-processes, try to distinguish between the paranoid
-
-drawing connections between everything that's
-
-happening, and more skilled pattern recognition.
-
-One feels like drowning and the other feels like
-
-surfing. But yes, they're both alternatives to the
-
-good old fashioned cause and effect logic. I mean,
-
-the problem is, when you live in a culture that has
-
-feedback, each effect becomes the new cause
-
-and it just starts spinning.
+Not getting lost is the trick. With non-linear processes, try to distinguish between the paranoid drawing connections between everything that's happening, and more skilled pattern recognition. One feels like drowning and the other feels like surfing. But yes, they're both alternatives to the good old fashioned cause and effect logic. I mean, the problem is, when you live in a culture that has feedback, each effect becomes the new cause and it just starts spinning.
 
 Is pattern recognition like reading \~usic in
 
