@@ -52,24 +52,6 @@ They're pedal to the metal to get on the moment-to-moment thing, but that's thei
 
 Not getting lost is the trick. With non-linear processes, try to distinguish between the paranoid drawing connections between everything that's happening, and more skilled pattern recognition. One feels like drowning and the other feels like surfing. But yes, they're both alternatives to the good old fashioned cause and effect logic. I mean, the problem is, when you live in a culture that has feedback, each effect becomes the new cause and it just starts spinning.
 
-Is pattern recognition like reading \~usic in
+**Is pattern recognition like reading music in a way, different sequences happening on different levels at different rhythms, seeing a kind of composition between them?**
 
-8 way, different sequences happening o\~
-
-different levels at different rhythms, seeing
-
-a kind of composition between them? .
-
-Even simpler than music, it's resonance. Going
-
-back to someone like McLuhan, what we're
-
-talking about is getting away from the figure an_d
-
-toward the ground, away from the subject and into
-
-the landscape. The landscape is where all those
-
-resonances are happening.
-
-www.ooUGLASRUSHK0FF.C0M
+Even simpler than music, it's resonance. Going back to someone like McLuhan, what we're talking about is getting away from the figure and toward the ground, away from the subject and into the landscape. The landscape is where all those resonances are happening.
