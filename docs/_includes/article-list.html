@@ -40,33 +40,27 @@
   {%- if articles.size > 0 -%}
   
   <form class="search">
-    <div>
-      <input type="text" class="search-input-text" placeholder="Search Titles">
-      <button class="search-button" >Clear</button>
-    </div>
+    <input type="text" class="search-input search-input-text" placeholder="Search Titles">
     
     {%- if publications.size > 1 # all articles have one publication -%}
-    <div>
-      <select class="search-input-publication" name="publications">
-        <option value="">All Publications</option>
-        {% for publication in publications | sort: "title" %}
-        <option value="{{ publication.path }}">{{ publication.title | escape }}</option>
-        {% endfor %}
-      </select>
-    </div>
+    <select class="search-input search-input-publication" name="publications">
+      <option value="">All Publications</option>
+      {% for publication in publications | sort: "title" %}
+      <option value="{{ publication.path }}">{{ publication.title | escape }}</option>
+      {% endfor %}
+    </select>
     {%- endif -%}
 
     {%- if categories.size > 0 # some articles have zero catergories -%}
-    <div>
-      <select class="search-input-category" name="categories">
-        <option value="">All Categories</option>
-        {% for category in categories | sort: "title" %}
-        <option value="{{ category.path }}">{{ category.title | escape }}</option>
-        {% endfor %}
-      </select>
-    </div>
+    <select class="search-input search-input-category" name="categories">
+      <option value="">All Categories</option>
+      {% for category in categories | sort: "title" %}
+      <option value="{{ category.path }}">{{ category.title | escape }}</option>
+      {% endfor %}
+    </select>
     {%- endif -%}
 
+    <button class="search-input search-button" >Clear</button>
   </form>
   
   <ul class="post-list" id="search-list">
