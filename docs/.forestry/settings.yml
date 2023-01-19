@@ -28,6 +28,13 @@ sections:
   match: "**/*.md"
   templates:
   - category
+- type: directory
+  path: docs/_videos_elsewhere
+  label: Videos
+  create: documents
+  match: "**/*.md"
+  templates:
+  - video_elsewhere
 upload_dir: docs/uploads
 public_path: "/uploads"
 front_matter_path: ''

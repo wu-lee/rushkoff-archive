@@ -10,6 +10,10 @@ collections:
     output: true
   categories:
     output: true
+  categories:
+    output: true
+  videos_elsewhere:
+    output: true
 defaults:
   # Set the default front-matter fields for various content types
   - scope:
@@ -27,9 +31,15 @@ defaults:
       type: 'categories'
     values:
       layout: 'category'
+  - scope:
+      path: ''
+      type: 'videos_elsewhere'
+    values:
+      layout: 'videos_elsewhere'
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
 feed:
   collections:
     - articles
+    - videos_elsewhere
