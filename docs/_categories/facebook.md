@@ -1,5 +1,5 @@
 ---
 title: Facebook
-description: ''
 
 ---
+Zuckerberg's book of faces
