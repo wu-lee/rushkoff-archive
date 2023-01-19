@@ -16,7 +16,7 @@ Or:
 Requires Ruby 2.x or later.
 
 Note, there is currently a dump of the posts in YAML format under
-[docs/_articles/][1], included for inspection. This is a work in
+[src/_articles/][1], included for inspection. This is a work in
 progress.
 
 This dump additionally also serves as a basis for a [GitHub Pages][2]
@@ -33,7 +33,7 @@ you're on a Unix-like OS and have Git, Ruby, and Ruby's Bundler
 command installed:
 
 - Check out this repository locally: `git clone git@github.com:wu-lee/rushkoff-archive.git`
-- Change to the `docs` folder: `cd rushkoff-archive/docs`
+- Change to the `src` folder: `cd rushkoff-archive/src`
 - Install Jekyll: `bundle install`
 - Run Jekyll: `bundle exec jekyll serve`
 - This should print out the server address to use, typically http://127.0.0.1:4000. Open that in a browser.
@@ -41,6 +41,6 @@ command installed:
 
 
 
-[1]: ./docs/_articles
+[1]: ./src/_articles
 [2]: https://pages.github.com/
 [3]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll

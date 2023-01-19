@@ -10,5 +10,5 @@ fields:
   label: title
   description: A short human-readable title for the category
 pages:
-- docs/_categories/crypto.md
-- docs/_categories/facebook.md
+- src/_categories/crypto.md
+- src/_categories/facebook.md

@@ -8,34 +8,34 @@ sections:
   label: Pages
   create: all
 - type: directory
-  path: docs/_articles
+  path: src/_articles
   label: Articles
   create: all
   match: "**/*.md"
   templates:
   - article
 - type: directory
-  path: docs/_publications
+  path: src/_publications
   label: Publications
   create: all
   match: "**/*.md"
   templates:
   - publication
 - type: directory
-  path: docs/_categories
+  path: src/_categories
   label: Categories
   create: documents
   match: "**/*.md"
   templates:
   - category
 - type: directory
-  path: docs/_videos_elsewhere
+  path: src/_videos_elsewhere
   label: Videos
   create: documents
   match: "**/*.md"
   templates:
   - video_elsewhere
-upload_dir: docs/uploads
+upload_dir: src/uploads
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
