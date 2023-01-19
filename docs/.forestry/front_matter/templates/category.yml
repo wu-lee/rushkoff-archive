@@ -9,16 +9,6 @@ fields:
     min: 1
   label: title
   description: A short human-readable title for the category
-- name: description
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: true
-    schema:
-      format: markdown
-  label: description
-  description: A brief description of the category.
 pages:
 - docs/_categories/crypto.md
 - docs/_categories/facebook.md
