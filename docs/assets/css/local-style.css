@@ -95,3 +95,18 @@ form.search .search-button {
 img.feed {
   vertical-align: middle;
 }
+
+/* article images, videos */
+article .image {
+    margin-botton: 3rem;
+}
+
+/* adapted from https://stackoverflow.com/questions/11122249/scale-iframe-css-width-100-like-an-image */
+article .video {
+  width: 100%;
+  height: 100%;
+  margin: 0 auto 3rem auto;
+  background: #ccc
+}
+.h_iframe        {position: relative; padding-top: 56%;}
+.h_iframe iframe {position: absolute; top: 0; left: 0; width: 100%; height: 100%;}

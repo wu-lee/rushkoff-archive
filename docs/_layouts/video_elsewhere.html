@@ -1,0 +1,23 @@
+---
+layout: default
+---
+{% assign publication = site.publications | where: "path", page.publication | first %}
+<article class="post">
+  <header class="post-header">
+    <div class="post-title">{{ page.title | escape }}</div>
+    <p class="meta">
+      Published in <a href="{{ publication.url | relative_url }}">{{ publication.title }}</a> on {{ page.date | date: "%-d %B %Y" }}
+    </p>
+  </header>
+
+  
+  {% if page.video_url %}
+  <div class="video">
+    <div class="h_iframe">{{ page.video_url | embeddable }}</div>
+  </div>
+  {% endif %}
+
+  <div class="post-text">
+    {{ content }}
+  </div>
+</article>

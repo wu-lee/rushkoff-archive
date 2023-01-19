@@ -12,13 +12,11 @@ fields:
   label: date
   config:
     required: true
-- type: textarea
-  name: description
-  label: description
+- type: text
+  name: video_url
+  label: video_url
   config:
-    wysiwyg: true
-    schema:
-      format: markdown
+    required: true
 - type: textarea
   name: notes
   label: notes

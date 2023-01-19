@@ -35,7 +35,7 @@ defaults:
       path: ''
       type: 'videos_elsewhere'
     values:
-      layout: 'videos_elsewhere'
+      layout: 'video_elsewhere'
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
