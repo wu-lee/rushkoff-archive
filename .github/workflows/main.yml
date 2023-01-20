@@ -1,0 +1,56 @@
+---
+# This action from https://github.com/jeffreytse/jekyll-deploy-action
+#
+# This deploy action needs to be used instead of the usual GitHub
+# pages pipeline, because that only allows a whitelisted set of Ruby
+# Gems, and no custom code for plugins. See [1]
+#
+#
+# As we want to have some custom code for creating embed frames and
+# suchlike, we need to use this alternative.  See [2]
+#
+# Notes:
+# - This uses the GITHUB_TOKEN secret created for the workflow automatically
+#   by GitHub Actions. No custom Personal Access Token is needed,
+#   at the time of writing. See the jekyll-deploy-action repo for more information.
+#
+# [1]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll#plugins
+# [2]: https://stackoverflow.com/a/62730888
+# [3]: https://github.com/settings/tokens
+
+name: Build and Deploy to Github Pages
+
+on:
+  push:
+    branches:
+      - master  # Here source code branch is `master`, it could be other branch
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      # Use GitHub Actions' cache to cache dependencies on servers
+      - uses: actions/cache@v3
+        with:
+          path: vendor/bundle
+          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-gems-
+
+      # Use GitHub Deploy Action to build and deploy to Github
+      - uses: jeffreytse/jekyll-deploy-action@v0.4.0
+        with:
+          provider: 'github'
+          token: ${{ secrets.GITHUB_TOKEN }} # Use the default access token
+          repository: ''             # current repository
+          branch: 'gh-pages'         # branch to commit the built static site files onto
+          jekyll_src: './src'        # where the jekyll source is
+          jekyll_cfg: '_config.yml'  
+          jekyll_baseurl: '/rushkoff-archive'         # override the baseurl from from _config.yml
+          bundler_ver: '>=0'         # latest bundler version
+          cname: ''                  # don't use a cname
+          actor: ''                  # Use the GITHUB_ACTOR
+          pre_build_commands: ''     # No additional dependencies to install
+
