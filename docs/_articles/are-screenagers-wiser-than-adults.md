@@ -9,7 +9,6 @@ notes: June 14-16, 1996 issue
 refs: ''
 sources: ''
 categories: []
-published: false
 
 ---
 BEFORE AMERICA INSTALLS V-chips in every TV set and padlocks on all the Segas, we'd better take a good look at why kids devote so much energy to channel-surfing, cruising the Internet and playing Doom, as well as the _positive_ effects cybermania may have on them.
