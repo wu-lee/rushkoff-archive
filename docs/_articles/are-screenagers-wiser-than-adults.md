@@ -38,20 +38,10 @@ Even the most violent video games, like Doom and Mortal Kombat, may be serving a
 
 GIVE KIDS THE CONTROLS
 
-If nothing else, let's put to bed the myth that it's our kids who, left to their own devices, will inevitably seck out the most violent media. Our new generation of fledgling screenagers is not making the games currently on the shelves of Toys "R" Us. They were designed by adults using interface technology atiginally implemented for war simulation by the military. Once our kids grow into game designers themselves, we'll be able to make a more accurate assessment of the effect of all this mediated play oli their violent inclinations.
+If nothing else, let's put to bed the myth that it's our kids who, left to their own devices, will inevitably seek out the most violent media. Our new generation of fledgling screenagers is not making the games currently on the shelves of Toys "R" Us. They were designed by adults using interface technology originally implemented for war simulation by the military. Once our kids grow into game designers themselves, we'll be able to make a more accurate assessment of the effect of all this mediated play on their violent inclinations.
 
-The real challenge before us is to resist further insulating our kids. Instead, let's put the tools in the hands of our children unci see what they do with them. Whether it's game construction kits where kids can fashion their own adventures on the computer, or camcorders where they can make their own JV shows, kids should have the power and opportunity to design the enter- talment environments that sult their needs,
+The real challenge before us is to resist further insulating our kids. Instead, let's put the tools in the hands of our children and see what they do with them. Whether it's game construction kits where kids can fashion their own adventures on the computer, or camcorders where they can make their own TV shows, kids should have the power and opportunity to design the entertainment environments that suit their needs.
 
 This is where the efforts of truly concerned parents should go.
 
-We might be pleasantly sure prised by the generation we have spawned. They are, after all, the fat-
-
-Jaying the Future:
-
-est model of human being, rz
-
-Douglas Rushkoff is the author of the new book Playing the Fulun:: How Kids' Culture Can Teach Us to Thrive In an Age of Chaus (HKLIDE $25).
-
-LAWENZAN
-
-LODA
+We might be pleasantly surprised by the generation we have spawned. They are, after all, the latest model of human being.
