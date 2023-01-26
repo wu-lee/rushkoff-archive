@@ -13,27 +13,7 @@ categories: []
 published: false
 
 ---
-...................... o ... n. ....... t. .. h .. e ..
-
-L . :. E ....
-
-o· ... G .... E .............................................................................................. .
-
-The Bible actually may have been written in
-
-the wrong medium. I'm saying this as a media
-
-theorist - a guy who has written books and
-
-novels, taught university classes, and made
-
-documentaries about the impact of new
-
-technology on the way we relate to stories.
-
-And particularly on those stories we happen to
-
-really believe in.
+The Bible actually may have been written in the wrong medium. I'm saying this as a media theorist - a guy who has written books and novels, taught university classes, and made documentaries about the impact of new technology on the way we relate to stories. And particularly on those stories we happen to really believe in.
 
 If anything, ·working in what is still the
 
