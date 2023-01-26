@@ -18,37 +18,13 @@ Kids' fascination with new media is preparing them for the workplace and society
 
 Kids are natives to a mediaspace where the rest of us are mere immigrants. They were born into a world full of remote controls, joysticks and computer networks, and understand the language and customs of this world better than we ever could hope to. Just as immigrant parents look to their children to learn how to behave and even how to think, we should look to our children for cues on how to adapt to our new, some- times baffling, media environment.
 
-ads and sitcoms, we are held in the sponsors' spell and "programmed" with their agendas. But a kid who feels himself being coerced simply hits the remote, pulling himself out of pas sivity into an active relationship to the TV image. He surfs away before he's caught in the spell.
+RHYTHM OF THE FUTURE
 
-The flip side of his decreased toler- ance for passive programming--what we usually think of as a decreased attention span is actually an
+Most of us reflexively bemoan the channel-surfing habits of our children. Why can't they just watch one program all the way through? What's wrong with their attention spans? But instead of focusing on what children are losing, let's look at what they are gaining.
 
-Douglas Rushkoff's book on raising media- savey kids' is now ta stores this week.:
+Traditional programming appeals to our hearts and wallets by hypnotizing us into a passive stupor. Captive to the linear, emotional storylines of our ads and sitcoms, we are held in the sponsors' spell and "programmed" with their agendas. But a kid who feels himself being coerced simply hits the remote, pulling himself out of passivity into an active relationship to the TV image. He surfs away before he's caught in the spell.
 
-RHYTHM OF THE FUTURE Most of us reflexively bemoan the channel-surfing habits of our children. Why can't they just watch one program all the way through? What's wrong with their attention spans? But instead of focus. ing on what children are losing, let's look at what they are gaining.
-
-Traditional programming appeals to our hearts and wallets by hypnotiz ing us into a passive stupor. Captive to the lincar, emotional storylines of our
-
-18 119 WERK PNT)+ June 14-16. 199
-
-5 THINGS CYBERSMART KIDS KNOW
-
-increased atten- tion range. A child can watch and comprehend five or moro television
-
-programs at a
-
-time, deftly alter.
-
-nating between channcis just in
-
-'Kids have a
-
-time to catch the more mature key moments on relationship
-
-cach. How better
-
-to prepare for to media than a high-tech job adults do.' where he may
-
-have to browse e-mail, voice mail, the Internel and stock quotes at once?
+The flip side of his decreased tolerance for passive programming--what we usually think of as a decreased attention span--is actually an increased attention _range_. A child can watch and comprehend five or more television programs at a time, deftly alternating between channels just in time to catch the key moments on each. How better to prepare for a high-tech job where he may have to browse e-mail, voice mail, the Internet and stock quotes at once?
 
 Our children are already more mature media consumers than we are. By play ing video games, they increase their hand-eye coordination and interface comprehension. Winning a game is really just mastoring a new piece of software. More important, our kids are demystify- ing the television image for themselves. With joysticks in their hands, they have a fundamentally different appreciation for the picture on the screen: It can be changed. While adults perceive news piped into their homes as Indisputable fact, our kids know the truth: The image is up for grabs.
 
