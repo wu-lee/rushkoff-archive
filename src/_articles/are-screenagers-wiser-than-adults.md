@@ -14,11 +14,9 @@ published: false
 ---
 BEFORE AMERICA INSTALLS V-chips in every TV set and padlocks on all the Segas, we'd better take a good look at why kids devote so much energy to channel-surfing, cruising the Internet and playing Doom, as well as the _positive_ effects cybermania may have on them.
 
-Kids' fascination with new media is preparing them for the workpluce and society of tomorrow. If we try to learn from their example, we, too, might gain skills necessary to thrive in a highly tech- nological and chaotic future.
+Kids' fascination with new media is preparing them for the workplace and society of tomorrow. If we try to learn from their example, we, too, might gain skills necessary to thrive in a highly technological and chaotic future.
 
-Kids are natives to a modiaspace where the rest of us are more
-
-immigrants. They were born into a world full of remote controls, Joy- sticks and computer networks, and under. stand the language and customs of this world better than we ever could hope to. Just as Immigrant parents look to their children to learn how to behave and even how to think, we should look to our chil dren for cues on how to adapt to uur new, some- times baffling, media environment.
+Kids are natives to a mediaspace where the rest of us are mere immigrants. They were born into a world full of remote controls, joysticks and computer networks, and understand the language and customs of this world better than we ever could hope to. Just as immigrant parents look to their children to learn how to behave and even how to think, we should look to our children for cues on how to adapt to our new, some- times baffling, media environment.
 
 ads and sitcoms, we are held in the sponsors' spell and "programmed" with their agendas. But a kid who feels himself being coerced simply hits the remote, pulling himself out of pas sivity into an active relationship to the TV image. He surfs away before he's caught in the spell.
 
