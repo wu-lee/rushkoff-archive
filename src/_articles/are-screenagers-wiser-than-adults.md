@@ -26,71 +26,15 @@ Traditional programming appeals to our hearts and wallets by hypnotizing us into
 
 The flip side of his decreased tolerance for passive programming--what we usually think of as a decreased attention span--is actually an increased attention _range_. A child can watch and comprehend five or more television programs at a time, deftly alternating between channels just in time to catch the key moments on each. How better to prepare for a high-tech job where he may have to browse e-mail, voice mail, the Internet and stock quotes at once?
 
-Our children are already more mature media consumers than we are. By play ing video games, they increase their hand-eye coordination and interface comprehension. Winning a game is really just mastoring a new piece of software. More important, our kids are demystify- ing the television image for themselves. With joysticks in their hands, they have a fundamentally different appreciation for the picture on the screen: It can be changed. While adults perceive news piped into their homes as Indisputable fact, our kids know the truth: The image is up for grabs.
+Our children are already more mature media consumers than we are. By playing video games, they increase their hand-eye coordination and interface comprehension. Winning a game is really just mastering a new piece of software. More important, our kids are demystifying the television image for themselves. With joysticks in their hands, they have a fundamentally different appreciation for the picture on the screen: It can be changed. While adults perceive news piped into their homes as indisputable fact, our kids know the truth: The image is up for grabs.
 
 THE RICH MEANING OF VIDEO VIOLENCE
 
-Further empowering them, the aver age American teen's bedroom is as well-equipped as a state-of-the-art newsroom was 20 years ago. A com- puter, a modem and a TV give them Instant access to global information. By navigating the World Wide Web, they learn how to move through a discontin- tious realm of data and opinions, as well as how to distinguish between the two.
+Further empowering them, the average American teen's bedroom is as well-equipped as a state-of-the-art newsroom was 20 years ago. A computer, a modem and a TV give them instant access to global information. By navigating the World Wide Web, they learn how to move through a discontinuous realm of data and opinions, as well as how to distinguish between the two.
 
-Not surprisingly, our kids' favorite media content also is filled with coping strategies for the world all of us soon will inhabit. While parents can glean little more than violence from a show like Mighty Morphin' Power Rangers, It deals quite cloquently with some meaningful core issues. The underlying theme of the Power Rangers is evolution as a team sport. The young Rangers only reach full power when they mutate together into a giant, cooperatively controlled robot. The monsters they fight aro controlled by the evil Lord Zed, a victim of his own technological excesses who must remain connected to a complex life-support apps- ratus. He symbolizes the sad conse- quence of selfishly exploited technology. Even the most violent video games, Continued on next page
+Not surprisingly, our kids' favorite media content also is filled with coping strategies for the world all of us soon will inhabit. While parents can glean little more than violence from a show like _Mighty Morphin' Power Rangers_, it deals quite eloquently with some meaningful core issues. The underlying theme of the _Power Rangers_ is evolution as a team sport. The young Rangers only reach full power when they mutate together into a giant, cooperatively controlled robot. The monsters they fight are controlled by the evil Lord Zed, a victim of his own technological excesses who must remain connected to a complex life-support apparatus. He symbolizes the sad consequence of selfishly exploited technology.
 
-・ト
-
-ALMAS.
-
-www.:
-
-wwwwwww
-
-い
-
-\***
-
-..M...A
-
-\-X
-
-Cw....
-
-\-..
-
-www
-
-...
-
-www
-
-www.
-
-www...
-
-....
-
-www.
-
-www.
-
-wwwww.
-
-1\..
-
-www.
-
-www...
-
-"A"
-
-・・・
-
-Continued from previous page like Doom and Mortal Kombat, may be serving a higher purpose than adults may suspect. Social theorists sinee Aristotle have understood that ritualized violence relieves the need for the real stuff. (Even the Shuo Lin priests study kung fu along with their Buddhist texts.) So far, at least, we've been sble to invent games and programming sen sational enough to com pete with the slayings
-
-out the window or in
-
-'Ritualized violence relieves the
-
-need for the real stuff.'
-
-the armories we call public schools, To my mind, this means we are win- ning the war.
+Even the most violent video games, like Doom and Mortal Kombat, may be serving a higher purpose than adults may suspect. Social theorists sinee Aristotle have understood that ritualized violence relieves the need for the real stuff. (Even the Shao Lin priests study kung fu along with their Buddhist texts.) So far, at least, we've been able to invent games and programming sensational enough to compete with the slayings out the window or in the armories we call public schools. To my mind, this means we are winning the war.
 
 GIVE KIDS THE CONTROLS
 
