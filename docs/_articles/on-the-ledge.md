@@ -19,37 +19,11 @@ If anything, working in what is still the rather new space of networked computer
 
 I've found some less-than-receptive audiences for these observations. When I wrote a book presenting the Bible as an "open source" collaboration, I was blacklisted by fundamentalists of more than one religion. They just didn't want their story messed with -- even though I had been able to prove it was written with that very intent!
 
-Business people, religious people, educators,
+Business people, religious people, educators, and publishers are all equally threatened and confounded by the idea that real stuff is actually occurring in the gaps between the moments that pass for history.
 
-and publishers are all equally threatened and
+And that's when I discovered the perfect place to tell what I've come to believe is the _real_ story of the Bible: comics.
 
-confounded by the idea that real stuff is
-
-actually occurring in the gaps between the
-
-moments that pass for history.
-
-And that's when I discovered the perfect
-
-place to tell what I've come to believe is the
-
-real story of the Bible: comics.
-
-Now don't get the wrong idea. The Bible
-
-has been framed as a sanctimonious tome just
-
-to keep you from reading it! It's the ultimate
-
-handbook for psychic revolt, with temple
-
-prostitutes, incantations, incest, interdimensional travel and even ritualized anal rape.
-
-Think you're an accomplished magician?
-
-Check out the source code on reality hacking,
-
-and see if you can handle it.
+Now don't get the wrong idea. The Bible has been framed as a sanctimonious tome just to keep you from reading it! It's the ultimate handbook for psychic revolt, with temple prostitutes, incantations, incest, interdimensional travel and even ritualized anal rape. Think you're an accomplished magician? Check out the source code on reality hacking, and see if you can handle it.
 
 A comic is camouflage allowing me to
 
