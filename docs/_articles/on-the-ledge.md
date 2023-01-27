@@ -15,41 +15,9 @@ published: false
 ---
 The Bible actually may have been written in the wrong medium. I'm saying this as a media theorist - a guy who has written books and novels, taught university classes, and made documentaries about the impact of new technology on the way we relate to stories. And particularly on those stories we happen to really believe in.
 
-If anything, ·working in what is still the
+If anything, working in what is still the rather new space of networked computers has taught me that our relationship to narratives is stuck in a dangerous place. Sure, we watch TV and imagine ourselves as characters, but we have lost access to the gaps in the stories, the places where temporality, interpretation and sequence are up for grabs. We just get lost in the seamless reality and get taken along for a ride.
 
-rather new space of networked computers has
-
-taught me that our relationship to narratives
-
-is stuck in a dangerous place. Sure, we watch
-
-TV and imagine ourselves as characters, but
-
-we have lost access to the gaps in the stories,
-
-the places where temporality, interpretation
-
-and sequence are up for grabs. We just get
-
-lost in the seamless reality and get taken
-
-along for a ride.
-
-I've found some less-than-receptive
-
-audiences for these observations. When I wrote
-
-a book presenting the Bible as an "open
-
-source" collaboration, I was blacklisted by
-
-fundamentalists of more than one religion.
-
-They just didn't want their story messed with -
-
-. even though I had been able to prove it was
-
-written with that very intent!
+I've found some less-than-receptive audiences for these observations. When I wrote a book presenting the Bible as an "open source" collaboration, I was blacklisted by fundamentalists of more than one religion. They just didn't want their story messed with -- even though I had been able to prove it was written with that very intent!
 
 Business people, religious people, educators,
 
