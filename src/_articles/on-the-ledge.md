@@ -25,42 +25,8 @@ And that's when I discovered the perfect place to tell what I've come to believe
 
 Now don't get the wrong idea. The Bible has been framed as a sanctimonious tome just to keep you from reading it! It's the ultimate handbook for psychic revolt, with temple prostitutes, incantations, incest, interdimensional travel and even ritualized anal rape. Think you're an accomplished magician? Check out the source code on reality hacking, and see if you can handle it.
 
-A comic is camouflage allowing me to
+A comic is camouflage allowing me to expose the essential mythic battle underlying Western Civilization, and sequential narrative is a perfect way to tell a story that takes place in multiple universes at the same time -- including our own. It'll follow a band of cyber-alchemist revolutionaries, in a future just a day after tomorrow--when the draft is reinstated, and the mind virus known as the dollar requires military enforcement. It'll also take place in Bible time - exposing how this plot has been recurring for centuries.
 
-expose the essential mythic battle underlying
+For by insisting that we "believe" the Bible happened at some moment in distant history, the keepers of religion prevent us from realizing that the Bible is happening right now, in every moment. The narrative and its power transcend time. All we need is access and will.
 
-Western Civilization, and sequential narrative
-
-is a perfect way to tell a story that takes p\\ace
-
-in multiple universes at the same time -
-
-including our own. It'll follow a band of cyberalchemist revolutionaries, in a future iust a
-
-day after tomorrow-when the draft is
-
-reinstated, and the mind virus known as the
-
-dollar requires military enforcement. It'\\\\ also
-
-take place in Bible time - exposing how this
-
-plot has been recurring for centuries.
-
-For by insisting that we "believe" the Bible
-
-happened at some moment in distant history,
-
-the keepers of religion prevent us from
-
-realizing that the Bible is happening right now,
-
-in every moment. The narrative and its power
-
-transcend time. All we need is access and wi\\\\.
-
-Then reality itself will be at our disposal,
-
-and we'll be the superheroes.
-
-Douglas Rushkoff
+Then reality itself will be at our disposal, and _we'll_ be the superheroes.
