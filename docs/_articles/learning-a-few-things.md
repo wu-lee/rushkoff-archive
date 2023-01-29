@@ -10,7 +10,6 @@ notes: Unknown publication date. Date used is from Dropbox, which was the source
 refs: ''
 sources: ''
 categories: []
-published: false
 
 ---
 Things don’t learn. They can’t. That’s why we call them “things.” Or at least that’s how I’ve always felt most comfortable musing about the intelligence of inorganic matter. That is, until I fully considered the concepts being bandied about by the scientists in this book.
