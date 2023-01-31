@@ -32,6 +32,8 @@ R: I'm such a futurist sci-fi techno junkie because of how closely I've grown up
 
 D: The funny thing is, when we were first playing with the internet, we thought that the whole promise of it was collaborative reality creation. That media environment of television was really closed up--whoever made television was creating our reality. With the internet, we could now program it ourselves or make our own world and create our own characters and do whatever we want." Whether online or off, fantasy role-playing was the model for these new narrative experiences. Now it's become about single user experiences and feeding susceptible people extreme YouTube programming. The people making the content are just imitating the influencers whose money they want, and most people aren't making anything at all--so it kind of went the other way. I guess the real world is an easier place for people to model their consensus building. That's why whether it's Burning Man, or Occupy, or any of these 21st-century style gatherings work--they are bottom-up creativity through expression.
 
+xxx
+
 I ihouqht anyone who took zic1cl was
 
 1ust 901119 to b0 god ly, zind then I S3W
