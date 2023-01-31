@@ -10,8 +10,6 @@ collections:
     output: true
   categories:
     output: true
-  categories:
-    output: true
   videos_elsewhere:
     output: true
 defaults:
