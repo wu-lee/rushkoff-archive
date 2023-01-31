@@ -14,53 +14,9 @@ published: false
 ---
 THE YEAR WAS 2002 AND I WAS SITTING IN FRONT OF A GLOWING COMPUTER SCREEN AFTER SCHOOL, PUMPED UP ON ENOUGH DOCTOR-PRESCRIBED RITALIN TO KILL A RHINOCEROS WHILE SWITCHING BETWEEN CHAT ROOM WINDOWS, PHOTOSHOP, SIMCITY 2000, AND READING "CYBERIA: LIFE IN THE TRENCHES OF HYPERSPACE," MY OBLIVIOUS AND SHELTERED TEENAGE-SELF LEARNED ABOUT THE UNDERGROUND COUNTER-CULTURE BEHIND THE DANCE MUSIC I HAD BEEN DRIVING MY PARENTS NUTS WITH FOR THE PAST 7 YEARS. I LEARNED ABOUT THE CREATION OF THE INTERNET AND THE RISE OF NEW AGE OUT OF INDISUTRIAL AND THE GAIA HYPOTHESIS. FAST FORWARD 21 YEARS LATER, AND I HAD THE MOST EXTREME PLEASURE OF SPEAKING WITH THE AUTHOR OF CYBERIA HIMSELF--DOUGLAS RUSHKOFF. HIS MOST RECENT BOOK, "TEAM HUMAN," TAKES A LOOK AT WHERE WE'VE ENDED UP TODAY, AND HOW WE'VE GOTTEN THERE, AND HOW TO MOVE FORWARD...
 
-REAGAN: I disco
+REAGAN: I discovered you in my senior year of high school in 2002. My final senior paper for my Ethics of Science and Technology class posed the question, "Is cyberspace a pre-existing physical space we've tapped into through the use of computers much like we've tapped into observable space with the use of telescopes?" Your book "Cyberia: Life In The Trenches of Hyperspace" was one of the books I stumbled upon during my countless hours of research. Since then you've written other books like "Life, Inc.," where you traced the historical evolution of the corporation from the middle ages to present time, and most recently, you've just published your new book "Team Human," which addresses a number of topics pertaining to the anti-human agenda that's found its way into modern technology and society.
 
-vered you in my
-
-1\. senior year
-
-of high school in 2002.
-
-· My final senior paper for my Ethics
-
-of Scie
-
-n
-
-ce and Technology
-
-class
-
-posed the que
-
-stion, 'Is
-
-cyb
-
-erspace
-
-a pre-exi
-
-sting phy
-
-sical spa
-
-ce
-
-w
-
-e:ve
-
-tap
-
-p
-
-ed into throu
-
-h7the.u
-
-se of
+I grew up a techno-junkie. My first experience online was in the fifth grade in 1995, and I was immediately introduced to software piracy and hacking--I used to design art and macros for AOL hacker groups. So I'd like to ask, now that we have awareness concerning the pitfalls of social media, news media, our government, and an out of control, unsustainable consumer driven, overly competitive winner-takes-all society, do you have any ideas how to address these things? Being that technology has become so ingrained into the fabric of our lives, how do we imagine something outside of that?
 
 to address these things? Being that technology has become so ingrained into the fabric of our lives, how do we
 
