@@ -3,7 +3,7 @@ publication: _publications/space-cadet.md
 title: Team Human
 subtitle: ''
 image: ''
-date: 2019-07-01 04:00:00 +0000
+date: 2019-07-01T04:00:00.000+00:00
 blurb: ''
 notes: Summer 2019
 refs: ''
@@ -42,77 +42,19 @@ Programmers tell you stories about how they're working at Intel during the day a
 
 Rave said, "let's do that, but we're going to do it more scientifically and with digital technology." And then there was always this moment--I dunno if you get it with EDM now. Back then you'd get there at 10 or 11 at night, and there'd be gay kids and straight kids and white kids and black kids, and you'd take the right drugs and dance, and by--hit or miss--three or four in the morning, there'd be this moment where the group organism would manifest--and when it worked, it was 500 people all part of this coral reef organism thing.
 
-xxx
+R: It's a very transcendent experience in a way.
 
-I ihouqht anyone who took zic1cl was
+D: Transcendent and transient. You'd go to work the next morning, and it'd be tough to hold on to that.
 
-1ust 901119 to b0 god ly, zind then I S3W
+R: Coming back from Burning Man is a bit like that. You've been engaged in this whole other world for a week--sometimes longer--and reconfiguring back into the world outside of the Burn always takes a second. Have you been to Burning Man before?
 
-this documentary about the
+D: Yea--but back before what it's turned into. Part of Burning Man is no money, and everyone is creating the experience at that moment. I think what happened to Burning Man is what happened to TED. The original rules of TED were that you did not know if you were going to be on stage or not, and being on stage meant you had to share whatever was the top of your mind for 11 minutes. You couldn't prepare--no notes, no powerpoint--nothing. You get up there, and you just do it. The whole point from the beginning was that we're moving into the digital age where so much is written down and archived and prepared, so let's create some experiences that are truly living and spontaneous. Now it's become something else.
 
-AC/OC
+R: I just started going to Burning Man about three years ago, and this year will be my fourth. I have to say, it's helped me change my life in some significant ways, forcing me to become a better person to myself, and in turn, others. I do see a lot of participation out there still. There's definitely been some culture change in the past few years as it's become more popular and more people want to have this experience. I think at the core, Burning Man is still what it's been about since the beginning--a super transformative experience that encourages people to take a break from their regular routines and patterns to see a different way of operating in life, and hopefully, in doing so, bring it back with you into normal life.
 
-king lc;>t. and it's g_o_t all these kids
+D: I guess when I see Peter Thiel \[venture capitalist/co-founder PayPal\] or Eric Schmidt \[Executive Chairman Alphabet, Inc., Google's parent company\], and these people consider themselves full-on Burners, yet maintain such an extractive, exploitive, violent and controlling mindset, it makes me wonder. But it's the same thought I had when I was in my 20s and had LSD experiences. I thought anyone who took acid was just going to be godly, and then I saw this documentary about the AC/DC parking lot, and it's got all these kids eating acid and breaking beer bottles on their heads and I'm thinking, "gosh, did they take the same drugs that I did?" Different people have different experiences with these things.
 
-ating acid and breakm r bottles
-
-n their heads and I'm · ·ng, "gosh, ·d they take the same drugs that I 'd?" Different people have different
-
-experiences with these things.
-
-R: It's wild-my youngest cousin
-
-started experimenting with LSD with
-
-some friends of his when he was 17 or
-
-18\. He was running around with these high-society kids from elite politically connected families in Austin, Texas. I
-
-don't know if you remember the guy
-
-Dick Cheney shot in the face on the hunting accident, but his grandkid
-
-was one of my cousin's best friends ...
-
-Now. these kids would drop acid, go
-
-hunting in the woods with AK-47s, shoot up small animals, scare the shit
-
-out of their friends who were firsttime trippers, and I'm hearing them
-
-brag about this like it's
-
-n
-
-oth1r1\~1 lm
-
-thinking, "who the fuck are t he<t•
-
-kids? How are you havi
-
-ng tl,1 krnci ct
-
-experience where killing sonwtim,c1
-
-on psychedelics seems like a cool thing to do?" My younger cou•:;111 1s ru
-
-.... longer 3:Iive. Havmg \~uffered \~,,1,·r
-
-0 r"'
-
-> depression, he took his hfe whrn lw
-
-\~\~was 19. I can't imagine living zi l1f P
-
-where you've impnnted this krncl of
-
-crazy morbid experie
-
-nce mto yolll
-
-r1syche on
-
-\~\~ch a deep level
+R: It's wild--my youngest cousin started experimenting with LSD with some friends of his when he was 17 or 18. He was running around with these high-society kids from elite politically connected families in Austin, Texas. I don't know if you remember the guy Dick Cheney shot in the face on the hunting accident, but his grandkid was one of my cousin's best friends. Now, these kids would drop acid, go hunting in the woods with AK-47s, shoot up small animals, scare the shit out of their friends who were first-time trippers, and I'm hearing them brag about this like it's nothing. I'm thinking, "who the fuck are these kids? How are you having this kind of experience where killing something on psychedelics seems like a cool thing to do?" My younger cousin is no longer alive. Having suffered severe depression, he took his life when he was 19. I can't imagine living a life where you've imprinted this kind of crazy morbid experience into your psyche on such a deep level.
 
 D: That goes back to yolll or1grnal
 
