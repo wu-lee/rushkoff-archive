@@ -18,73 +18,11 @@ REAGAN: I discovered you in my senior year of high school in 2002. My final seni
 
 I grew up a techno-junkie. My first experience online was in the fifth grade in 1995, and I was immediately introduced to software piracy and hacking--I used to design art and macros for AOL hacker groups. So I'd like to ask, now that we have awareness concerning the pitfalls of social media, news media, our government, and an out of control, unsustainable consumer driven, overly competitive winner-takes-all society, do you have any ideas how to address these things? Being that technology has become so ingrained into the fabric of our lives, how do we imagine something outside of that?
 
-to address these things? Being that technology has become so ingrained into the fabric of our lives, how do we
+DOUGLAS: You may even want to flip that. Technology's gotten very good at making the imaginary appear more substantive than the real. The easy part of the answer to your question is we don't have to imagine something outside the technical. Reality itself is outside that. Touching another person or looking into their eyes or breathing the air or experiencing a child--any of those things will reconnect you to the real pretty damned fast. Pain also connects you to the real. No matter how online you are and someone cuts off your toe--you feel it right away. Just get food poisoning, and all of a sudden reality is back.
 
-imagi
+I do see the value when you use a word like imagination. There's value in painting pictures or visualizing reality for people in such a way that they're not afraid to experience it. Now, they watch TV or go online, and reality seems like fascism and Trump and poison water and all these things.
 
-ne something outside of that?
-
-DOUGI..:AS: You may even want to flip
-
-th
-
-at.
-
-Technology's gotten very good
-
-at
-
-m
-
-a
-
-king the imaginary appear more
-
-\-\\\~ J
-
-... _
-
-\~\~-:.
-
-'"
-
-.
-
-\--
-
-lialH Cl
-
-..
-
-O:lguesswlien!•,r :,,,11•1 llir•il
-
-tventur
-
-\~
-
-c
-
-a
-
-pitzil,· r l 1• 111 1d1·1
-
-PayPalJ
-
-or Ew ',1 1,r1;1rl1 Ii .1r•r 1111vr•
-
-Chairman f,lpt;:ii,n. I1w. r,r1rJqlc·\\
-
-!)arent comp.111/I :111d tlir •; 1• P"<JPI<'
-
-consic!Pi tl11'!i1'ct•lvr•:; ftdl (Jl) E1111wrc;,
-
-yet rn:1,"!c1111 :;1wh :rn 1•xl1;ict1v0, expl,,111·.,., ·-,11ilrnt ::rnd cont1oll111g
-
-1111•,ri t'\\ 1t 1n;1kr:; m1_' wonder But 1\\'s
-
-Ii,, ·;,11,w tliouyht I had whr>n I was
-
-111111y }Os and h,id LSD experiences
+Part of the original function of the news media was to scare people about what was going on outside their homes so that they stayed inside watching TV--and we knew this before the internet. If you put on any local news show it was always, "three black youths attack middle-class white person," and it was again and again and again and again--and in part that was to get people to watch the news. If they think there's some kind of danger, they're going to be more willing to tune in.
 
 I ihouqht anyone who took zic1cl was
 
