@@ -16,6 +16,12 @@ GIT
       jekyll (~> 4.0.0)
       jekyll-feed (~> 0.12)
 
+GIT
+  remote: https://github.com/wu-lee/youtube_rails
+  revision: 4bc84fc0201adba2ff3ccc58b6dc319a2dfc51f2
+  specs:
+    youtube_rails (1.2.3)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -77,7 +83,6 @@ GEM
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.8.0)
-    youtube_addy (1.0.4)
 
 PLATFORMS
   x86_64-linux
@@ -87,7 +92,7 @@ DEPENDENCIES
   jekyll-feed
   jekyll-remote-theme!
   jekyll-theme-monos!
-  youtube_addy (~> 1.0.4)
+  youtube_rails!
 
 BUNDLED WITH
    2.2.17
