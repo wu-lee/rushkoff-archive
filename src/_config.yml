@@ -12,6 +12,8 @@ collections:
     output: true
   videos_elsewhere:
     output: true
+  misc_elsewhere:
+    output: true
 defaults:
   # Set the default front-matter fields for various content types
   - scope:
@@ -34,6 +36,11 @@ defaults:
       type: 'videos_elsewhere'
     values:
       layout: 'video_elsewhere'
+  - scope:
+      path: ''
+      type: 'misc_elsewhere'
+    values:
+      layout: 'article'
 plugins:
   - jekyll-remote-theme
   - jekyll-feed

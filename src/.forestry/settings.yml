@@ -35,6 +35,13 @@ sections:
   match: "**/*.md"
   templates:
   - video_elsewhere
+- type: directory
+  path: src/_misc_elsewhere
+  label: Misc
+  create: documents
+  match: "**/*.md"
+  templates:
+  - misc_elsewhere
 upload_dir: src/uploads
 public_path: "/uploads"
 front_matter_path: ''
