@@ -1,10 +1,10 @@
 ---
-title: The Hidden Architecure of the Internet
+title: The Secret Architecture
 subtitle: 
-date: 2008-05-13T04:00:00.000Z
+date: 2000-05-01 04:00:00 +0000
 publication: _publications/red_herring.md
 blurb: The real space of cyberspace
-notes: Date given as March 2001 on CV
+notes: May 2000
 refs: 
 sources: 
 
