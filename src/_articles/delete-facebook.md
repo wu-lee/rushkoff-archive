@@ -20,15 +20,11 @@ Well I'm here to tell you: you can not only get through it, but your life and th
 
 I left Facebook in 2013, declaring on CNN that we are not the customers, we are the product. And now we have proof that this is true. Facebook was not breached or hacked by Cambridge Analytica. The Facebook platform was doing exactly what it was programmed to do--harvest our data, identify our psychological triggers, and then manipulate our behavior.
 
-And as users are finally realizing, neither Facebook nor the "compliance professionals" purchasing our data
+And as users are finally realizing, neither Facebook nor the "compliance professionals" purchasing our data from them care about our secrets or our sex lives. They care only about our raw data, from which they can infer our psychological vulnerabilities. So it's not simply that they can get us to buy a particular product or vote for one candidate or another. It's that the techniques they're using intentionally bypass our higher brain functions. They use imagery and language specifically designed to evade our logic and empathy and go straight to our reptilian survival instincts.
 
-from them care about our secrets or our sex lives. They care only about our raw data, from which they can infer our psychological vulnerabilities. So it's not simply that they can get us to buy a particular product or vote for one candidate or another. It's that the techniques they're using intentionally bypass our higher brain functions. They use imagery and language specifically designed to evade our logic and empathy and go straight to our reptilian survival instincts.
+Our neuroses--the ones that they can figure out with big data--our neuroses are like blind spots. And once identified by the social-media psychologists, they become access panels to the more impulsive parts of our brains. Facebook targets and triggers us through terror.
 
-Our neuroses-the ones that they can figure out with big data-our neu- roses are like blind spots. And once identified by the social-media psychol- ogists, they become access panels to the more impulsive parts of our brains. Facebook targets and triggers us through terror.
-
-JACEBOOK'S techniques don't appeal to our logic or our empathy, but to our deepest-held fears. The tactics
-
-are aimed directly at our brain stems-the parts of our brain that act and think like reptiles. Fight or flight. Kill or be killed.
+FACEBOOK'S techniques don't appeal to our logic or our empathy, but to our deepest-held fears. The tactics are aimed directly at our brain stems--the parts of our brain that act and think like reptiles. Fight or flight. Kill or be killed.
 
 And we've seen the impact of this technology on our social and political discourse. You know, we may have real things to be angry about, but when these are the only stimuli deliv- ered by our social media, we end up living in a state of perpetual paranoia and rage. No. It's not fun. And it's also a tremendous public health hazard and a threat to democracy. Democracy requires an informed, thinking public.
 
