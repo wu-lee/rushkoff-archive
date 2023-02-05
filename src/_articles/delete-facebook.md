@@ -16,13 +16,9 @@ HASTINGS, N.Y.
 
 THESE NON-STOP REVELATIONS that Facebook sold, released, or lost control of its data, have left many people wondering if they can leave the platform and still survive. After all, Facebook's become the principal social and communications platform for hundreds of millions of people.
 
-Well I'm here to tell you: you can not only get through it, but your life and the lives of everyone you know will get
+Well I'm here to tell you: you can not only get through it, but your life and the lives of everyone you know will get better.
 
-better.
-
-I left Facebook in 2013, declaring on CNN that we are not the customers, we are the product. And now we have proof that this is true. Facebook was not breached or hacked by Cambridge Analytica. The Facebook platform was doing exactly what it was programmed
-
-to do harvest our data, identify our psychological triggers, and then man- ipulate our behavior.
+I left Facebook in 2013, declaring on CNN that we are not the customers, we are the product. And now we have proof that this is true. Facebook was not breached or hacked by Cambridge Analytica. The Facebook platform was doing exactly what it was programmed to do--harvest our data, identify our psychological triggers, and then manipulate our behavior.
 
 And as users are finally realizing, neither Facebook nor the "compliance professionals" purchasing our data
 
