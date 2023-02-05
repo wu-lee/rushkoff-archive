@@ -26,23 +26,13 @@ Our neuroses--the ones that they can figure out with big data--our neuroses are 
 
 FACEBOOK'S techniques don't appeal to our logic or our empathy, but to our deepest-held fears. The tactics are aimed directly at our brain stems--the parts of our brain that act and think like reptiles. Fight or flight. Kill or be killed.
 
-And we've seen the impact of this technology on our social and political discourse. You know, we may have real things to be angry about, but when these are the only stimuli deliv- ered by our social media, we end up living in a state of perpetual paranoia and rage. No. It's not fun. And it's also a tremendous public health hazard and a threat to democracy. Democracy requires an informed, thinking public.
+And we've seen the impact of this technology on our social and political discourse. You know, we may have real things to be angry about, but when these are the only stimuli delivered by our social media, we end up living in a state of perpetual paranoia and rage. No. It's not fun. And it's also a tremendous public health hazard and a threat to democracy. Democracy requires an informed, thinking public.
 
-So whether you want to be a more responsible citizen, or simply a happi- er person, you owe it to yourself to get off Facebook any way you can. And I'm here to tell you: you can do it. You're going to be okay. It's not so bad. In fact, it's better.
+So whether you want to be a more responsible citizen, or simply a happier person, you owe it to yourself to get off Facebook any way you can. And I'm here to tell you: you can do it. You're going to be okay. It's not so bad. In fact, it's better.
 
-If Facebook's the only way your rel- atives can let you interact with them, then that's already a problem. I guess
+If Facebook's the only way your relatives can let you interact with them, then that's already a problem. I guess accepting this restriction on your relationships is acquiescing to a system that values pings more than contact. And you can still email, Skype, FaceTime, share photos through web pages, use iCloud, photostreams, Google groups, live hangouts.... If the teenagers in your life can't reach you through social media, then they'll ultimately use it less. And the less they use social media, the less they're likely to commit suicide--another great ancillary benefit of getting off Facebook. And a lot of them only get drawn in so they can reach you!
 
-EIGHTY ONE
-
-you can
-
-((Every minute off Facebook is a minute you can spend with another person, ((( forging healthy relationships, (((( free of Facebook's constant psychological abuse.
-
-accepting this restriction on your rela- tionships is acquiescing to a system that values pings more than contact. And
-
-still email, Skype, FaceTime, share photos through web pages, use iCloud, photostreams, Google groups, live hangouts.... If the teenagers in your life can't reach you through social media, then they'll ulti- mately use it less. And the less they use social media, the less they're like- ly to commit suicide another great ancillary benefit of getting off Facebook. And a lot of them only get drawn in so they can reach you!
-
-Every minute off Facebook is a minute you can choose to spend with another person, forging psychological- ly healthy relationships, instead of submitting to a company that is actively trying to undermine them. And best of all, you get to live life free of the constant psychological abuse inflicted by companies who mean to undermine your social relationships, and governments who mean to under- mine your faith in democracy-in our government, in human nature.
+Every minute off Facebook is a minute you can choose to spend with another person, forging psychologically healthy relationships, instead of submitting to a company that is actively trying to undermine them. And best of all, you get to live life free of the constant psychological abuse inflicted by companies who mean to undermine your social relationships, and governments who mean to undermine your faith in democracy--in our government, in human nature.
 
 You get to leave the dark place, and step back into the light of day.
 
