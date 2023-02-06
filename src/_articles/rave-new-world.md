@@ -38,16 +38,13 @@ I wouldn't say faulty as much as different. The beauty of digital music is that 
 That's the thing I hate about DJ pope figures. They want \[attendees\] to be relating to them, when the whole point is that they're not the figure, they're the ground. A rave where people understand that the music is more like snow that we're playing in, then the people are the subject. That's my EDM advice: For people to remember that the music is not the thing, it's part of an environment where an encounter between thousands of people can take place.
 
 **► You talk about the importance of awe. Obviously, blowing peoples' minds is something the electronic music world consciously attempts to achieve.  
-**Again, it's a matter of distinguishing between awe and spectacle. Spectacle is going to Vegas and seeing the lights and \[having an\] experience more about special effects and explosion- sensory overload. That, I would argue, is really hollow compared to the awe you get at two in the morning when you experience yourself as part of this collective colonial being. With or without drugs, when you have that, that's awe. That's when you can reconnect with that essential, collective human nature.
+**Again, it's a matter of distinguishing between awe and spectacle. Spectacle is going to Vegas and seeing the lights and \[having an\] experience more about special effects and explosion-sensory overload. That, I would argue, is really hollow compared to the awe you get at two in the morning when you experience yourself as part of this collective colonial being. With or without drugs, when you have that, that's awe. That's when you can reconnect with that essential, collective human nature.
 
-▸ I think the potential for that connection is a
+**► I think the potential for that connection is a major reason why the rave world, which can be written off as escapism or hedonism or just entertainment, is actually really important.**  
+Yeah, this kind of play is the hard work. We're living in a de-socialized, angry, fractious, divisive nation and world right now. Rave is hard to do, because you're dropping the barriers. You're experiencing intimacy; you're challenging the boundaries to find your ego in relation to everybody else. That's the obligation of the human organism at this point. If we don't do this, we're all going to die. It's kind of that stark.
 
-major reason why the rave world, which can be written off as escapism or hedonism or just entertainment, is actually really important. Yeah, this kind of play is the hard work. We're living in a de-socialized, angry, fractious, divisive nation and world right now. Rave is hard to do, because you're dropping the barriers. You're experiencing intimacy; you're challenging the boundaries to find your ego in relation to everybody else. That's the obligation of the human organism at this point. If we don't do this, we're all going to die. It's kind of that stark.
+**► The primary directive of Team Human is "find the others"--people with whom to be deeply human. The beauty of dance music is that, to a certain extent, it's a collection of people who have already found their people.**  
+Right, and the beauty of it is, in rave, when you find the others, you're finding everybody. It doesn't discriminate the way so many scenes do. The whole point of rave was for fat kids, skinny kids, kids who climb on rocks. It was for everyone--the nerds, the jocks, the black, the white, the gay, and the straight. And when you see that person in the street the next day, you wink at them.
 
-The primary directive of Team Human is "find the others"-people with whom to be deeply human. The beauty of dance music is that, to a certain extent, it's a collection of people who have already found their people.
-
-Right, and the beauty of it is, in rave, when you find the others, you're finding everybody. It doesn't discriminate the way so many scenes do. The whole point of rave was for fat kids, skinny kids, kids who climb on rocks. It was for everyone-the nerds, the jocks, the black, the white, the gay, and the straight. And when you see that person in the street the next day, you wink at them.
-
-▸ From a "team human" perspective, it seems vital to expand on that sense of shared experience. How do we do it?
-
+**► From a "team human" perspective, it seems vital to expand on that sense of shared experience. How do we do it?**  
 Try and have that sense of connection with people who weren't at the rave, and see what that's like.
