@@ -8,8 +8,8 @@ blurb: Algorithms, AI and surveillance capitalism are colonising the human mind,
   it’s time for us to resist by rising to the occasion of our own humanity, claims
   renowned author and media theorist Douglas Rushkoff. William Alderwick plugs in
   to the matrix
-notes: Date from [https://www.goodtroublemag.com/home/human-after-all-douglas-rushkoff](https://www.goodtroublemag.com/home/human-after-all-douglas-rushkoff
-  "https://www.goodtroublemag.com/home/human-after-all-douglas-rushkoff")
+notes: '[https://www.goodtroublemag.com/home/human-after-all-douglas-rushkoff](https://www.goodtroublemag.com/home/human-after-all-douglas-rushkoff
+  "https://www.goodtroublemag.com/home/human-after-all-douglas-rushkoff")'
 refs: ''
 sources: ''
 categories: []
