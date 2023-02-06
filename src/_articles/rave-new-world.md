@@ -18,13 +18,12 @@ Indeed, the early cyber and rave worlds--both communal, whimsical, transformativ
 
 But, as Rushkoff began predicting in the late '90s, an online world once promising boundless creativity and human connection has been co-opted by platforms used to sell us things through increasingly sophisticated and often-insidious methods. Many would argue this trajectory isn't dissimilar from electronic music culture, where once- underground raves have evolved into today's worldwide EDM juggernaut.
 
-Rushkoff's newest book, Team Human, published this past January, argues that in these uncertain times, renegotiating
+Rushkoff's newest book, Team Human, published this past January, argues that in these uncertain times, renegotiating our relationships with technology and embracing our collective humanity are the only sustainable paths forward. The book argues for more socialization, collaboration, and anything else that makes us feel deeply human. Luckily, there are still a lot of these things to be had at a 3 am rave.
 
-our relationships with technology and embracing our collective humanity are the only sustainable paths forward. The book argues for more socialization, collaboration, and anything else that makes us feel deeply human. Luckily, there are still a lot of these things to be had at a 3 am rave.
+Here, Rushkoff--a keynote speaker at Winter Music Conference 2019--discusses the evolution of rave, the future of humanity, and the overlap between the two.
 
-Here, Rushkoff-a keynote speaker at Winter Music Conference 2019-discusses the evolution of rave, the future of humanity, and the overlap between the two.
-
-► What were the primary differences between the rave scenes in the U.K. and San Francisco in those early days? In San Francisco, there were computers and people saying, "Let's make music at 120 beats per minute," which is the fetal heart rate. Both for better and for worse, it was using technology on people, thinking we can put people into this other state, and- between the technology, music, lights, and ecstasy-that we can encourage some kind of colonial group organism experience.
+**► What were the primary differences between the rave scenes in the U.K. and San Francisco in those early days?**  
+In San Francisco, there were computers and people saying, "Let's make music at 120 beats per minute," which is the fetal heart rate. Both for better and for worse, it was using technology on people, thinking we can put people into this other state, and- between the technology, music, lights, and ecstasy-that we can encourage some kind of colonial group organism experience.
 
 What I saw, though, was that because we didn't understand how powerful capitalism and the market and the bad guys were, we didn't know what to defend. We didn't know what about our scene made it so special. We defended some of the wrong things, and the same thing that happened to the internet happened to rave. It became about these $10,000, $20,000, $50,000 DJs going to Las Vegas and charging $100 cover fees, which is the opposite of our reclamation of public space for the party.
 
