@@ -9,7 +9,6 @@ notes: Fall 2018
 refs: ''
 sources: ''
 categories: []
-published: false
 
 ---
 HASTINGS, N.Y. 
