@@ -9,7 +9,6 @@ notes: March 2019
 refs: ''
 sources: ''
 categories: []
-published: false
 
 ---
 Considered one of the world's foremost public intellectuals, Douglas Rushkoff has authored 17 books chronicling media and technology in the digital age. He also accidentally wrote a guide to raving: 1994's Cyberia amalgamated Rushkoff's experiences in the early rave scenes of the U.K. and San Francisco--crusties, ecstasy, Big Heart City, all against the backdrop of emerging cyber culture--into a sort of playbook for upstart party people worldwide.
