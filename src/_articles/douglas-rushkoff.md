@@ -20,13 +20,9 @@ Never passive, Rushkoff obviously didn't listen to anyone who ever told him you 
 
 Recently Douglas was kind enough to answer a few questions for me about writing, including how he went from unpublished to getting a deal for a novel with every nonfiction deal.
 
-8 Authorship Spring 2000
+**AM: What was it like to get your first book deal? Did you have to go through a process or, did it come through making personal contacts?**
 
-RUSHKOFF
-
-AM: What was it like to get your first book deal? Did you have to go through a process or, did it come through making personal contacts?
-
-DR: It was a bit of a fluke, really. I don't even know which to call my first book. The first book of them all was called Free Rides. It was some- one else's idea - a Hollywood pro- ducer who liked my writing. He asked if I'd write the book; he gave me ten grand, and said we could split the proceeds 50/50 or 60/40. I didn't think he would get a deal for it, but he had a book agent connected to his film agent who sold the book to Dell.
+**DR:** It was a bit of a fluke, really. I don't even know which to call my first book. The first book of them all was called _Free Rides_. It was someone else's idea -- a Hollywood producer who liked my writing. He asked if I'd write the book; he gave me ten grand, and said we could split the proceeds 50/50 or 60/40. I didn't think he would get a deal for it, but he had a book agent connected to his film agent who sold the book to Dell.
 
 AM: What type of promotion did you find yourself having to do? Was the publisher good about helping promote the book?
 
