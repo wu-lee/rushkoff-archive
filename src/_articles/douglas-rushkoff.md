@@ -12,112 +12,108 @@ categories: []
 published: false
 
 ---
-FEATURE--DOUGLAS 
+Many would say that Douglas Rushkoff is living the author's dream. His books have been national bestsellers, he is a professor of Virtual Culture at New York University, an NPR commentator and more.
 
-Many would say that Douglas Rushkoff is living the author's dream. His books have been national bestsellers, he is a professor of Vir- tual Culture at New York University, 
+One morning in November 1996, Dou- glas awoke to a New York Times ar- ticle that described him as "a Gen-X guru who sold youth culture to media companies for upward of $7,500 an hour." While that wasn't exactly a true figure, his book Media Virus had
 
-an NPR commentator and more. 
+gotten him the work referred to in the
 
-One morning in November 1996, Dou- glas awoke to a New York Times ar- ticle that described him as "a Gen-X guru who sold youth culture to media companies for upward of $7,500 an hour." While that wasn't exactly a true figure, his book Media Virus had 
+Times. Work where he had told ma-
 
-gotten him the work referred to in the 
+jor corporations like Sony that they should develop a game console that would allow children to design their own video games. He had told cable provider, TCI, to make television more interactive and less mind numbing. However, his loyal supporters hadn't seen the true brilliance of his work. Instead they labeled him a sellout and traitor of freedom of thought. Yet his books sold by the thousands and speaking requests poured in.
 
-Times. Work where he had told ma- 
+Never passive, Rushkoff obviously didn't listen to anyone who ever told him you may only use ten percent of your brain. His light wit and open
 
-jor corporations like Sony that they should develop a game console that would allow children to design their own video games. He had told cable provider, TCI, to make television more interactive and less mind numbing. However, his loyal supporters hadn't seen the true brilliance of his work. Instead they labeled him a sellout and traitor of freedom of thought. Yet his books sold by the thousands and speaking requests poured in. 
+open de- meanor creates an aura that wel- comes the curious. His most recent nonfiction work, Coercion, reflects this, and also should be a part of ev- ery higher education communications curriculum. It is an amazing and scary
 
-Never passive, Rushkoff obviously didn't listen to anyone who ever told him you may only use ten percent of your brain. His light wit and open 
+look at the effects of media and com- mercialism on our society.
 
-open de- meanor creates an aura that wel- comes the curious. His most recent nonfiction work, Coercion, reflects this, and also should be a part of ev- ery higher education communications curriculum. It is an amazing and scary 
+Recently Douglas was kind enough to answer a few questions for me about writing, including how he went from unpublished to getting a deal for a novel with every nonfiction deal.
 
-look at the effects of media and com- mercialism on our society. 
+8 Authorship Spring 2000
 
-Recently Douglas was kind enough to answer a few questions for me about writing, including how he went from unpublished to getting a deal for a novel with every nonfiction deal. 
+RUSHKOFF
 
-8 Authorship Spring 2000 
+AM: What was it like to get your first book deal? Did you have to go through a process or, did it come through making personal contacts?
 
-RUSHKOFF 
+DR: It was a bit of a fluke, really. I don't even know which to call my first book. The first book of them all was called Free Rides. It was some- one else's idea - a Hollywood pro- ducer who liked my writing. He asked if I'd write the book; he gave me ten grand, and said we could split the proceeds 50/50 or 60/40. I didn't think he would get a deal for it, but he had a book agent connected to his film agent who sold the book to Dell.
 
-AM: What was it like to get your first book deal? Did you have to go through a process or, did it come through making personal contacts? 
+AM: What type of promotion did you find yourself having to do? Was the publisher good about helping promote the book?
 
-DR: It was a bit of a fluke, really. I don't even know which to call my first book. The first book of them all was called Free Rides. It was some- one else's idea - a Hollywood pro- ducer who liked my writing. He asked if I'd write the book; he gave me ten grand, and said we could split the proceeds 50/50 or 60/40. I didn't think he would get a deal for it, but he had a book agent connected to his film agent who sold the book to Dell. 
+know--is trying to get the publisher to use freelance publicists instead of staff.
 
-AM: What type of promotion did you find yourself having to do? Was the publisher good about helping promote the book? 
+MEDIA VIRUS
 
-know--is trying to get the publisher to use freelance publicists instead of staff. 
+REVISED AND UPDATED
 
-MEDIA VIRUS 
+DOUGLAS RUSHKOFF
 
-REVISED AND UPDATED 
+Aunter stres
 
-DOUGLAS RUSHKOFF 
+AM: What drove you to begin writing? What keeps you going? Do you think there is a future in it for you? Do you have anything coming up?
 
-Aunter stres 
+DR: What "drove" me to writing sounds so passive. I drove myself to writing. There's stuff I wanted to say, things I wanted to describe in writing that hadn't been described before. I think all writing is travel writing of one kind or another. I travel in head spaces, emotional places, and cultural places instead of exotic travel spots. But the basic job is the same: describe some- thing. Tell a story. Of course there is
 
-AM: What drove you to begin writing? What keeps you going? Do you think there is a future in it for you? Do you have anything coming up? 
+DR: at the time, Dell did nothing for the book. They sent out a few for review, but that was about it. They asked me to give them some pictures. There was no press. My first real book, though was Cyberia. I just wrote a 12-page proposal, the agent sold it in a couple of weeks--to Ban- tam. They cancelled it in 1992 (fear- ing that the Internet and rave music were passing fads) but then HarperSanFrancisco published it in 1994, with a huge tour and great publicity. The secret--if you want to continued on page 26
 
-DR: What "drove" me to writing sounds so passive. I drove myself to writing. There's stuff I wanted to say, things I wanted to describe in writing that hadn't been described before. I think all writing is travel writing of one kind or another. I travel in head spaces, emotional places, and cultural places instead of exotic travel spots. But the basic job is the same: describe some- thing. Tell a story. Of course there is 
+more future in it for me. I have writ- ten seven books so far, and I have another novel in the works.
 
-DR: at the time, Dell did nothing for the book. They sent out a few for review, but that was about it. They asked me to give them some pictures. There was no press. My first real book, though was Cyberia. I just wrote a 12-page proposal, the agent sold it in a couple of weeks--to Ban- tam. They cancelled it in 1992 (fear- ing that the Internet and rave music were passing fads) but then HarperSanFrancisco published it in 1994, with a huge tour and great publicity. The secret--if you want to continued on page 26 
+continued from page 8
 
-more future in it for me. I have writ- ten seven books so far, and I have another novel in the works. 
+COERCION
 
-continued from page 8 
+DR: What "drove" me to writing sounds so passive. I drove myself to writing. There's stuff I wanted to say, things I wanted to describe in writ- ing that hadn't been described be- fore. I think all wrting is travel writ- ing of one kind or another. I travel in head spaces, emotional places, and cultural places instead of exotic travel spots. But the basic job is the same: describe something. Tell a story. Of course, there is more future in it for me. I have written seven books so far, and I have another novel in the
 
-COERCION 
+works.
 
-DR: What "drove" me to writing sounds so passive. I drove myself to writing. There's stuff I wanted to say, things I wanted to describe in writ- ing that hadn't been described be- fore. I think all wrting is travel writ- ing of one kind or another. I travel in head spaces, emotional places, and cultural places instead of exotic travel spots. But the basic job is the same: describe something. Tell a story. Of course, there is more future in it for me. I have written seven books so far, and I have another novel in the 
+AM: I know you are an advocate of the potential freedom that new media like the internet brings people. Do you think writers can potentially capitalize on the ex- posure it can bring? And aside from research, do you think it has helped you as a writer?
 
-works. 
+DR: I guess you're interested in the business of writing, here. I think the Internet has helped me, but less in selling books or getting exposure than it has helped me answer my read- ers' questions, set up forums for them to discuss ideas, give students a way to do research, and give journalists the ability to inteview me. The prob-
 
-AM: I know you are an advocate of the potential freedom that new media like the internet brings people. Do you think writers can potentially capitalize on the ex- posure it can bring? And aside from research, do you think it has helped you as a writer? 
+lem, of course, is that since I "do" the Internet on the same machine where I write, it's as if all those ques- tions and queries are there in my face all the time. It's a constant struggle. I just want to write, but the Internet makes me feel like I owe something to everyone who happens to read my stuff.
 
-DR: I guess you're interested in the business of writing, here. I think the Internet has helped me, but less in selling books or getting exposure than it has helped me answer my read- ers' questions, set up forums for them to discuss ideas, give students a way to do research, and give journalists the ability to inteview me. The prob- 
+AM: A number of writers often ask me how they can get their fic- tion published. Many have pub- lished nonfiction, and feel trapped doing it. Correct me if I am wrong, but you published the novel Ec- stasy Club after you had done sev-
 
-lem, of course, is that since I "do" the Internet on the same machine where I write, it's as if all those ques- tions and queries are there in my face all the time. It's a constant struggle. I just want to write, but the Internet makes me feel like I owe something to everyone who happens to read my stuff. 
+eral nonfiction books, correct?
 
-AM: A number of writers often ask me how they can get their fic- tion published. Many have pub- lished nonfiction, and feel trapped doing it. Correct me if I am wrong, but you published the novel Ec- stasy Club after you had done sev- 
+DR: Usually, the way to get fiction published is to write it, and then hope an editor likes it. I was lucky, I sup- pose, in that I had a number of sucessful nonfiction books come out already. It gave me bargaining room. When a number of publishers were bidding against each other for one of my nonfiction books, I ended up go- ing with the publisher who agreed to publish my as-yet-to-be-written novel, as well. Now, in the U.S. anyway, I make whoever gets my next nonfic- tion book also agree to publish a novel. In the UK, on the other hand, every- one wants to publish my novels. The nonfiction is harder to sell there. I use nonfiction is harder to sell there. I use two different publishers now.
 
-eral nonfiction books, correct? 
+AM: Miramax optioned your novel; think we'll see thousands of young people flocking to the box office to see Ecstasy Club as
 
-DR: Usually, the way to get fiction published is to write it, and then hope an editor likes it. I was lucky, I sup- pose, in that I had a number of sucessful nonfiction books come out already. It gave me bargaining room. When a number of publishers were bidding against each other for one of my nonfiction books, I ended up go- ing with the publisher who agreed to publish my as-yet-to-be-written novel, as well. Now, in the U.S. anyway, I make whoever gets my next nonfic- tion book also agree to publish a novel. In the UK, on the other hand, every- one wants to publish my novels. The nonfiction is harder to sell there. I use nonfiction is harder to sell there. I use two different publishers now. 
+26 Authorship Spring 2000
 
-AM: Miramax optioned your novel; think we'll see thousands of young people flocking to the box office to see Ecstasy Club as 
+a movie?
 
-26 Authorship Spring 2000 
+DR: Why young people? I'd hope ev- but not in eryone runs to see it
 
-a movie? 
+\-
 
-DR: Why young people? I'd hope ev- but not in eryone runs to see it 
+flocks. Again, it sounds too sheeplike,
 
-\- 
+and too passive. It takes human will out of the equation. That's the real crime of passive voice.
 
-flocks. Again, it sounds too sheeplike, 
+Since this interview Miramax has re- leased the book from option. How- ever, several interesed film produc- ers have almost begun waging war to get their hands on this hot property.
 
-and too passive. It takes human will out of the equation. That's the real crime of passive voice. 
+Douglas Rushkoff, is the author of seven books. He is currently a professor of virtual culture at New York University. He lives in New York City.
 
-Since this interview Miramax has re- leased the book from option. How- ever, several interesed film produc- ers have almost begun waging war to get their hands on this hot property. 
+\*******
 
-Douglas Rushkoff, is the author of seven books. He is currently a professor of virtual culture at New York University. He lives in New York City. 
+\******
 
-\******* 
+THOUGHT FOR THE DAY
 
-\****** 
+\*****
 
-THOUGHT FOR THE DAY 
+\*********
 
-\***** 
+Critics and critiques are a part of writing but mostly the writer must consider the source of the com- ment and either grow or discard the observation.
 
-\********* 
+Here is what Sir Thomas More
 
-Critics and critiques are a part of writing but mostly the writer must consider the source of the com- ment and either grow or discard the observation. 
+said of critics.
 
-Here is what Sir Thomas More 
+"They seize upon your publica- tions, as a wrestler seizes upon his opponent's hair, and use them to drag you down, while they themselves remain quite invul- nerable, because of their barren pates--so there's nothing more for you to get hold of,
 
-said of critics. 
-
-"They seize upon your publica- tions, as a wrestler seizes upon his opponent's hair, and use them to drag you down, while they themselves remain quite invul- nerable, because of their barren pates--so there's nothing more for you to get hold of, 
-
-99 
+99
 
 From The Delights of Reading: Quotes, Notes, & Anecdotes by Otto L. Bettmann. Published by David R.Godine: Publisher: Inc, 1987
