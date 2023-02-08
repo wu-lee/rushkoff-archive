@@ -14,19 +14,9 @@ published: false
 ---
 Many would say that Douglas Rushkoff is living the author's dream. His books have been national bestsellers, he is a professor of Virtual Culture at New York University, an NPR commentator and more.
 
-One morning in November 1996, Dou- glas awoke to a New York Times ar- ticle that described him as "a Gen-X guru who sold youth culture to media companies for upward of $7,500 an hour." While that wasn't exactly a true figure, his book Media Virus had
+One morning in November 1996, Douglas awoke to a _New York Times_ article that described him as "a Gen-X guru who sold youth culture to media companies for upward of $7,500 an hour." While that wasn't exactly a true figure, his book _Media Virus_ had gotten him the work referred to in the _Times_. Work where he had told major corporations like Sony that they should develop a game console that would allow children to design their own video games. He had told cable provider, TCI, to make television more interactive and less mind numbing. However, his loyal supporters hadn't seen the true brilliance of his work. Instead they labeled him a sellout and traitor of freedom of thought. Yet his books sold by the thousands and speaking requests poured in.
 
-gotten him the work referred to in the
-
-Times. Work where he had told ma-
-
-jor corporations like Sony that they should develop a game console that would allow children to design their own video games. He had told cable provider, TCI, to make television more interactive and less mind numbing. However, his loyal supporters hadn't seen the true brilliance of his work. Instead they labeled him a sellout and traitor of freedom of thought. Yet his books sold by the thousands and speaking requests poured in.
-
-Never passive, Rushkoff obviously didn't listen to anyone who ever told him you may only use ten percent of your brain. His light wit and open
-
-open de- meanor creates an aura that wel- comes the curious. His most recent nonfiction work, Coercion, reflects this, and also should be a part of ev- ery higher education communications curriculum. It is an amazing and scary
-
-look at the effects of media and com- mercialism on our society.
+Never passive, Rushkoff obviously didn't listen to anyone who ever told him you may only use ten percent of your brain. His light wit and open demeanor creates an aura that welcomes the curious. His most recent nonfiction work, _Coercion_, reflects this, and also should be a part of every higher education communications curriculum. It is an amazing and scary look at the effects of media and commercialism on our society.
 
 Recently Douglas was kind enough to answer a few questions for me about writing, including how he went from unpublished to getting a deal for a novel with every nonfiction deal.
 
