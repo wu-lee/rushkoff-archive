@@ -24,25 +24,13 @@ Recently Douglas was kind enough to answer a few questions for me about writing,
 
 **DR:** It was a bit of a fluke, really. I don't even know which to call my first book. The first book of them all was called _Free Rides_. It was someone else's idea -- a Hollywood producer who liked my writing. He asked if I'd write the book; he gave me ten grand, and said we could split the proceeds 50/50 or 60/40. I didn't think he would get a deal for it, but he had a book agent connected to his film agent who sold the book to Dell.
 
-AM: What type of promotion did you find yourself having to do? Was the publisher good about helping promote the book?
+**AM: What type of promotion did you find yourself having to do? Was the publisher good about helping promote the book?**
 
-know--is trying to get the publisher to use freelance publicists instead of staff.
+**DR:** at the time, Dell did nothing for the book. They sent out a few for review, but that was about it. They asked me to give them some pictures. There was no press. My first real book, though was _Cyberia_. I just wrote a 12-page proposal, the agent sold it in a couple of weeks--to Bantam. They cancelled it in 1992 (fearing that the Internet and rave music were passing fads) but then HarperSanFrancisco published it in 1994, with a huge tour and great publicity. The secret--if you want to know--is trying to get the publisher to use freelance publicists instead of staff.
 
-MEDIA VIRUS
+**AM: What drove you to begin writing? What keeps you going? Do you think there is a future in it for you? Do you have anything coming up?**
 
-REVISED AND UPDATED
-
-DOUGLAS RUSHKOFF
-
-Aunter stres
-
-AM: What drove you to begin writing? What keeps you going? Do you think there is a future in it for you? Do you have anything coming up?
-
-DR: What "drove" me to writing sounds so passive. I drove myself to writing. There's stuff I wanted to say, things I wanted to describe in writing that hadn't been described before. I think all writing is travel writing of one kind or another. I travel in head spaces, emotional places, and cultural places instead of exotic travel spots. But the basic job is the same: describe some- thing. Tell a story. Of course there is
-
-DR: at the time, Dell did nothing for the book. They sent out a few for review, but that was about it. They asked me to give them some pictures. There was no press. My first real book, though was Cyberia. I just wrote a 12-page proposal, the agent sold it in a couple of weeks--to Ban- tam. They cancelled it in 1992 (fear- ing that the Internet and rave music were passing fads) but then HarperSanFrancisco published it in 1994, with a huge tour and great publicity. The secret--if you want to continued on page 26
-
-more future in it for me. I have writ- ten seven books so far, and I have another novel in the works.
+**DR:** What "drove" me to writing sounds so passive. I drove myself to writing. There's stuff I wanted to say, things I wanted to describe in writing that hadn't been described before. I think all writing is travel writing of one kind or another. I travel in head spaces, emotional places, and cultural places instead of exotic travel spots. But the basic job is the same: describe something. Tell a story. Of course there is more future in it for me. I have written seven books so far, and I have another novel in the works.
 
 continued from page 8
 
