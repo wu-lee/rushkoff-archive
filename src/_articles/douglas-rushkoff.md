@@ -42,36 +42,6 @@ Recently Douglas was kind enough to answer a few questions for me about writing,
 
 **AM: Miramax optioned your novel; think we'll see thousands of young people flocking to the box office to see _Ecstasy Club_ as a movie?**
 
-DR: Why young people? I'd hope ev- but not in eryone runs to see it
+**DR:** Why young people? I'd hope everyone runs to see it -- but not in flocks. Again, it sounds too sheeplike, and too passive. It takes human will out of the equation. That's the real crime of passive voice.
 
-\-
-
-flocks. Again, it sounds too sheeplike,
-
-and too passive. It takes human will out of the equation. That's the real crime of passive voice.
-
-Since this interview Miramax has re- leased the book from option. How- ever, several interesed film produc- ers have almost begun waging war to get their hands on this hot property.
-
-Douglas Rushkoff, is the author of seven books. He is currently a professor of virtual culture at New York University. He lives in New York City.
-
-\*******
-
-\******
-
-THOUGHT FOR THE DAY
-
-\*****
-
-\*********
-
-Critics and critiques are a part of writing but mostly the writer must consider the source of the com- ment and either grow or discard the observation.
-
-Here is what Sir Thomas More
-
-said of critics.
-
-"They seize upon your publica- tions, as a wrestler seizes upon his opponent's hair, and use them to drag you down, while they themselves remain quite invul- nerable, because of their barren pates--so there's nothing more for you to get hold of,
-
-99
-
-From The Delights of Reading: Quotes, Notes, & Anecdotes by Otto L. Bettmann. Published by David R.Godine: Publisher: Inc, 1987
+Since this interview Miramax has released the book from option. However, several interesed film producers have almost begun waging war to get their hands on this hot property.
