@@ -32,31 +32,15 @@ Recently Douglas was kind enough to answer a few questions for me about writing,
 
 **DR:** What "drove" me to writing sounds so passive. I drove myself to writing. There's stuff I wanted to say, things I wanted to describe in writing that hadn't been described before. I think all writing is travel writing of one kind or another. I travel in head spaces, emotional places, and cultural places instead of exotic travel spots. But the basic job is the same: describe something. Tell a story. Of course there is more future in it for me. I have written seven books so far, and I have another novel in the works.
 
-continued from page 8
+**AM: I know you are an advocate of the potential freedom that new media like the internet brings people. Do you think writers can potentially capitalize on the exposure it can bring? And aside from research, do you think it has helped you as a writer?**
 
-COERCION
+**DR:** I guess you're interested in the business of writing, here. I think the Internet has helped me, but less in selling books or getting exposure than it has helped me answer my readers' questions, set up forums for them to discuss ideas, give students a way to do research, and give journalists the ability to inteview me. The problem, of course, is that since I "do" the Internet on the same machine where I write, it's as if all those questions and queries are there in my face all the time. It's a constant struggle. I just want to write, but the Internet makes me feel like I owe something to everyone who happens to read my stuff.
 
-DR: What "drove" me to writing sounds so passive. I drove myself to writing. There's stuff I wanted to say, things I wanted to describe in writ- ing that hadn't been described be- fore. I think all wrting is travel writ- ing of one kind or another. I travel in head spaces, emotional places, and cultural places instead of exotic travel spots. But the basic job is the same: describe something. Tell a story. Of course, there is more future in it for me. I have written seven books so far, and I have another novel in the
+**AM: A number of writers often ask me how they can get their fiction published. Many have published nonfiction, and feel trapped doing it. Correct me if I am wrong, but you published the novel _Ecstasy Club_ after you had done several nonfiction books, correct?**
 
-works.
+**DR:** Usually, the way to get fiction published is to write it, and then hope an editor likes it. I was lucky, I suppose, in that I had a number of sucessful nonfiction books come out already. It gave me bargaining room. When a number of publishers were bidding against each other for one of my nonfiction books, I ended up going with the publisher who agreed to publish my as-yet-to-be-written novel, as well. Now, in the U.S. anyway, I make whoever gets my next nonfiction book also agree to publish a novel. In the UK, on the other hand, everyone wants to publish my novels. The nonfiction is harder to sell there. I use two different publishers now.
 
-AM: I know you are an advocate of the potential freedom that new media like the internet brings people. Do you think writers can potentially capitalize on the ex- posure it can bring? And aside from research, do you think it has helped you as a writer?
-
-DR: I guess you're interested in the business of writing, here. I think the Internet has helped me, but less in selling books or getting exposure than it has helped me answer my read- ers' questions, set up forums for them to discuss ideas, give students a way to do research, and give journalists the ability to inteview me. The prob-
-
-lem, of course, is that since I "do" the Internet on the same machine where I write, it's as if all those ques- tions and queries are there in my face all the time. It's a constant struggle. I just want to write, but the Internet makes me feel like I owe something to everyone who happens to read my stuff.
-
-AM: A number of writers often ask me how they can get their fic- tion published. Many have pub- lished nonfiction, and feel trapped doing it. Correct me if I am wrong, but you published the novel Ec- stasy Club after you had done sev-
-
-eral nonfiction books, correct?
-
-DR: Usually, the way to get fiction published is to write it, and then hope an editor likes it. I was lucky, I sup- pose, in that I had a number of sucessful nonfiction books come out already. It gave me bargaining room. When a number of publishers were bidding against each other for one of my nonfiction books, I ended up go- ing with the publisher who agreed to publish my as-yet-to-be-written novel, as well. Now, in the U.S. anyway, I make whoever gets my next nonfic- tion book also agree to publish a novel. In the UK, on the other hand, every- one wants to publish my novels. The nonfiction is harder to sell there. I use nonfiction is harder to sell there. I use two different publishers now.
-
-AM: Miramax optioned your novel; think we'll see thousands of young people flocking to the box office to see Ecstasy Club as
-
-26 Authorship Spring 2000
-
-a movie?
+**AM: Miramax optioned your novel; think we'll see thousands of young people flocking to the box office to see _Ecstasy Club_ as a movie?**
 
 DR: Why young people? I'd hope ev- but not in eryone runs to see it
 
