@@ -9,7 +9,6 @@ notes: Spring 2000
 refs: ''
 sources: ''
 categories: []
-published: false
 
 ---
 Many would say that Douglas Rushkoff is living the author's dream. His books have been national bestsellers, he is a professor of Virtual Culture at New York University, an NPR commentator and more.
