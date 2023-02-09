@@ -19,65 +19,11 @@ First off, computers don't make people read less; they make us read more. Most o
 
 Further. because Internet users need to type everything they wish to communicate, they have developed extremely subtle forms of written communication. I'm not just talking about 'emoticons' like the :). I believe that online interaction actually makes a person's writing better. People engaged in heated discussions in USENET groups or bulletin-board conferences - whether they're arguing about cold fusion or Courtney Love - are forced to spar with language. I can tell when I've received e-mail from people raised on the Internet because their sentences are dense with innuendo, compensating for the limited time and keystrokes they can devote to the task. Kids online today write much better than I did at their age.
 
-But just because !be written word is alive
+But just because the written word is alive and well, it doesn't necessarily mean that the printed page, bound to hundreds of others and glued into a cardboard cover, will survive, too. There are only so many media-hours in a day, the pessimists warn, and book-reading takes up too many for it to remain a viable format. Digital text retrieval systems yet-to-be invented will allow for the downloading of an entire text in seconds, and people will be able to read them on small electronic clipboards.
 
-and well. ii doesn ·1 necessarily mean that !he
+Perhaps. However. just when it appears that a new medium is going lo replace its predecessor, we tend to figure out the true value of the older. Experts thought that the videocassette would put the traditional movie house out of business. Instead, it turned the general public into amateur film historians, while giving cinema owners an idea of what they could offer us that videotapes can't: giant screens, THX sound, glamorous lobbies, and an evening out of the house.
 
-printed page. bound to hundreds of othen
-
-and glued in10 a cardboard cover, will
-
-survive. too. lbcre arc only so many mediahours in a day, the pessimists warn. and
-
-book-reading takes up too many for ii to
-
-remain a viable formal. Digital text retrieval
-
-systems yet-lo-be invented will allow for the
-
-downloading of an entire text in seconds, and
-
-people will be able 10 read !hem on small
-
-electronic clipboards.
-
-Perhaps. However. just when ii appears
-
-that a new medium is going lo replace its
-
-prcdcccssor. WC tend 10 figure oul the lrUC
-
-value of the older. Expens !hough! Iha! the
-
-vidcocasselle would pul the traditional movie
-
-house 001 of business. Instead, ii turned the
-
-general public into amalCUr film historians.
-
-while giving cinema ownen an idea of what
-
-they could offer us that videotapes can '1:
-
-giant screens. THX sound. glamorous
-
-lobbies. and an evening out oflhe house.
-
-A new medium replaces an old one only if
-
-it docs everything better. Computcr nctworlcs
-
-and CO-ROMS can do certain things better than
-
-books. They arc better for rapid retrieval of
-
-database information. and serve well as
-
-encyclopedias. dictionaries, newspaper
-
-libnirics. and catalogues where searching and
-
-other nonlinear ia.,ks arc the most important.
+A new medium replaces an old one only if it does everything better. Computer networks and CD-ROMS can do certain things better than books. They are better for rapid retrieval of database information, and serve well as encyclopedias, dictionaries, newspaper libraries, and catalogues where searching and other nonlinear tasks are the most important.
 
 Whal online text has dcmonstraled to us.
 
