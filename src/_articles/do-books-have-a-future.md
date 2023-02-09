@@ -25,91 +25,13 @@ Perhaps. However. just when it appears that a new medium is going lo replace its
 
 A new medium replaces an old one only if it does everything better. Computer networks and CD-ROMS can do certain things better than books. They are better for rapid retrieval of database information, and serve well as encyclopedias, dictionaries, newspaper libraries, and catalogues where searching and other nonlinear tasks are the most important.
 
-Whal online text has dcmonstraled to us.
+What online text has demonstrated to us, though, is that books are more than repositories for information. They are objects, and they are meant to be experienced as such. The usual function of a dictionary is to provide the meaning of a word. The function of a book is to provide a reading experience. It is more than a transmission of data: it is a transmission of essence.
 
-!hough. is that books arc more than
+Not that computers don't transmit their own sort of essence, too. CD-ROM games like _Myst_ proved so successful because they captured something essential about the seemingly random, user-directed navigational path of a computer world. _Myst_ was a funhouse-style experience where, freed from the linear constraints of literary fiction, the storytellers could let the users wander around a deserted island and discover clues for themselves. This style was dictated by the particularly free-form quality of the computer-game medium.
 
-repositories for information. lbcy arc objects.
+Books offer a different kind of experience. This experience has as much to do with the pages and ink as it does with the words themselves. A book has totemic value. Like a photograph or a piece of jewellery, the impression of ink on paper creates a physical connection with its author.
 
-and they arc meant to be experienced as such.
-
-The usual function of a dictionary is to
-
-provide the meaning of a word. 1bc function
-
-of a book is 10 provide a reading experience.
-
-II is more than a 1ran5mission of dala: it is a
-
-transmission of essence.
-
-Not !hat computers don ·1 transmit their
-
-own sort of essence. too. CD-ROM games like
-
-Myst proved so successful because !hey
-
-capcured something essential about the
-
-seemingly random. user-directed navigational
-
-path of a compu1er world. Myst was a
-
-funhouse-stylc experience where. freed from
-
-the linear constraints of literary fiction, the
-
-storytellers could let the usen wander around
-
-a descned island and discover clues for
-
-lhcmselves. This style was dicwed by the
-
-particularly free-form quality of the
-
-computer-game medium.
-
-Books offer a different kind of
-
-experience. This experience has as much to
-
-do wilh the pages and ink as ii docs with the
-
-words themselves. A book has totemic value.
-
-Like a photograph or a piece of jewellery, lhc
-
-impression of ink on paper creates a physical
-
-connection wilh its author.
-
-This is why the publishing industry, in
-
-response 10 the advcn1 of digital text. has
-
-begun to emphasize the design and
-
-production of the books lhcmsclvcs. Most
-
-publishers use acid-free 'archival' quality
-
-paper, and devote more time and energy 10
-
-!he choice of typeface and cover an.
-
-Likewise. we authors arc being forced lo
-
-realize 1ha1 our books had better
-
-communicate something more lhan a web
-
-page docs. too. We have to understand what
-
-ii is a book can do, and either fulfil !hat
-
-purpose or quit cutting down trccs for no
-
-good reason.
+This is why the publishing industry, in response to the advent of digital text, has begun to emphasize the design and production of the books themselves. Most publishers use acid-free 'archival' quality paper, and devote more time and energy to the choice of typeface and cover art. Likewise. we authors are being forced to realize that our books had better communicate something more than a web page does, too. We have to understand what it is a book can do, and either fulfil that purpose or quit cutting down trees for no good reason.
 
 Computers and !he lntcmel may have
 
