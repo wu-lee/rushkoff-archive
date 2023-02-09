@@ -15,71 +15,9 @@ published: false
 ---
 Will computers make books obsolete? Of course not. No. They won't. Or so I keep telling myself. I'm embarking on yet another book tour in my now four-year-old career as a published author (there was a book back in 1990, but that one doesn't count). l've been able to witness, first-hand, the way computers and the Internet have influenced the book world's reading habits, buying patterns, production cycles, and marketing decisions. While these technologies have had a somewhat negative impact on certain aspects of the publishing industry, they will only help the book, authors and readers in the long run.
 
-....., ..... ec111on
+First off, computers don't make people read less; they make us read more. Most of the kids I know who are lucky (or wealthy) enough to be online have astonishing literacy skills. No matter how visual the world wide web might get in its interface, so far it's still a word-based medium when you follow anything through or try to glean any real information.
 
-atllemwprtce.
-
-Any book ,n print ,n the UK or the
-
-USA ,s available through trtlefinder.
-
-Call +44 (0)1 ll 490 9906
-
-publishing industry, !hey will only help lhc
-
-book, authors and readers in lhc long run.
-
-Flf'Sl off, computers don 'I make people
-
-read less; they make us read more. Most of
-
-the kids I know who are lucky ( or wealthy)
-
-enough to be onlinc have astonishing literacy
-
-slcills. No matter how visual !he world wide
-
-web might get in its inletfacc. so far it's still
-
-a word-based medium when you follow
-
-anything through or try to glean any real
-
-information.
-
-Funhcr. because Intemcl users need 10
-
-type everything !hey wish 10 communicate,
-
-!hey have developed extremely subtle forms
-
-of wriru:n communication. I'm DOI just
-
-lalking about 'cmoticons' like the :). I
-
-believe that online inteniclion acrually makes
-
-a penon 's writing better. People engaged in
-
-heated discussions in USENET groups or
-
-bulletin-board conferences - whether !hey·re
-
-arguing about cold fusion or Counncy Love
-
-\- are forced to spar with language . I can tell
-
-when I've received e-mail from people
-
-raised 00 !he lntemct because !heir sentences
-
-8" dense with innuendo, compensating for
-
-lhc limited time and keysttokes they can
-
-dcvocc to !be wk. Kids online today write
-
-much bec1cr 1ban I did at lhcir age.
+Further. because Internet users need to type everything they wish to communicate, they have developed extremely subtle forms of written communication. I'm not just talking about 'emoticons' like the :). I believe that online interaction actually makes a person's writing better. People engaged in heated discussions in USENET groups or bulletin-board conferences - whether they're arguing about cold fusion or Courtney Love - are forced to spar with language. I can tell when I've received e-mail from people raised on the Internet because their sentences are dense with innuendo, compensating for the limited time and keystrokes they can devote to the task. Kids online today write much better than I did at their age.
 
 But just because !be written word is alive
 
