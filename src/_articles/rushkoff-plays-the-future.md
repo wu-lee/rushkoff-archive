@@ -20,6 +20,8 @@ READING DOUGLAS RUSHKOFF'S MEDIA VIRUS! ROCKED MY WORLD. Published in the middle
 
 **Douglas Rushkoff:** That's why I began my book with "Looks like this is the end" -- just to get it over with right away. The only way out of the fundamentalist Christian nightmare scenario of apocalypse is to believe in evolution and that we are changing states. "Novelty is the new status quo." And if you don't believe we can evolve beyond our problems, sure it's over.
 
+xxx
+
 FB: But whether or not there actually is one, apocalypse เ is an abiding idea.
 
 DR: That's because for each of us, individually, it is a reality. Each of us dies. But if we are all just members of some group organism, then the real question becomes "Does this whole thing end?" I say no, because I believe in evolution. Life wins because it can adapt. My way to explore that is by observing the culture of children, because they are the new growth. If you want to see the health of a tree or forest, you look for the new growth.
