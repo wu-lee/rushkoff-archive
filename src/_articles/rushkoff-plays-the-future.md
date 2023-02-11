@@ -44,15 +44,15 @@ READING DOUGLAS RUSHKOFF'S MEDIA VIRUS! ROCKED MY WORLD. Published in the middle
 
 **DR:** The essence of "tele-vision" is remote viewing -- seeing things from a distance. In the end, the power of television is the process of television itself. Star Trek, Beavis and Butt-head and Mystery Science Theater 3000 are the most evolved forms of TV because they are about just this. Captain Kirk sits on a bridge watching television, and we watch television over his shoulder. MST 3000 is about a guy using technology -- talking robots -- to create a sense of camaraderie while he's actually alone in a spaceship watching bad television -- just as the child at home alone is using his TV to get a sense of camaraderie. He also knows on a social level that there are other kids in their rooms doing the same thing.
 
-—
+**FB: It used to be one nation under God, now it's one planet under television!**
 
-just as the
+**DR:** I know it looks like I see media and TV as some kind of deity, but I see them more as remedial help for a civilization that has lost the ability to see itself, love itself and communicate with itself. We attach all these wires and mirrors to convince ourselves of abilities that we already have. I think I could look through your eyes or someone else's eyes if we had those parts of our brains activated. We wouldn't need cameras. One of the problems is we have no sense of community, no real compassion to enact this sight.
 
-FB: It used to be one nation under God, now it's one planet under television! DR: I know it looks like I see media and TV as some kind of deity, but I see them more as remedial help for a civilization that has lost the ability to see itself, love itself and communicate with itself. We attach all these wires and mirrors to convince ourselves of abilities that we already have. I think I could look through your eyes or someone else's eyes if we had those parts of our brains activated. We wouldn't need cameras. One of the problems is we have no sense of community, no real com- passion to enact this sight.
+**FB: Doesn't television provide that sense of community?**
 
-FB: Doesn't television provide that sense of community?
+**DR:** Sure you have your nongeographical surrogate community of Babylon 5 viewers, X-Files fans and massive, unifying media events like O.J., but we haven't grown beyond the body yet, and while the mind can relate to an infinite number of other resonating minds, the body needs to relate to some other number of bodies in its proximity. That's why suburbia is so dysfunctional. People, just like the television series, are "lost in space," lost in a nightmare of loneliness.
 
-DR: Sure you have your nongeographical surrogate community of Babylon 5 viewers, X-Files fans and massive, unifying media events like O.J., but we haven't grown beyond the body yet, and while the mind can relate to an infinite number of other resonating minds, the body needs to relate to some other number of bodies in its proximity. That's why suburbia is so dysfunctional. People, just like the television series, are "lost in space," lost in a nightmare of loneliness.
+xxx
 
 FB: Television talk shows are breaking down that isolation. These shows are often attacked as voyeuristic, but voyeurism is a very healthy thing — it's just another word for curiosity. DR: People are good. There's nothing to be ashamed of. What have I done to be ashamed of? And the loss of privacy is great when my neighbor finds out that I masturbate. He does, too. If we're going to do this global community thing I'm talking about, there's gonna be a hell of a loss of privacy. They scare us with that, but that's one of the best parts about it.
 
