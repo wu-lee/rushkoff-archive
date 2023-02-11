@@ -28,23 +28,15 @@ READING DOUGLAS RUSHKOFF'S MEDIA VIRUS! ROCKED MY WORLD. Published in the middle
 
 **DR:** Today's kids are natives in areas like new media, where adults are just immigrants. We must look to them for cues about how to act, how to think and what to say. The whole trick to not just surviving but thriving in a chaotic age is learning to recognize patterns. Seeing patterns allows us to \[adapt\] to the new terrain, and it's what kids get by channel surfing, watching rock videos and playing with computers.
 
-xxx
+**FB: You talk about the evolution of the global organism. One of the things that I have begun to notice is that while we are hardwired by the mediasphere's network of televisions, telephones, modems and computers, these are merely the external engineering manifestations of an interconnectedness that already exists. We are already connected and wired together metaphysically as a tribe.**
 
-FB: You talk about the evolution of the global organ- ism. One of the things that I have begun to notice is that while we are hardwired by the mediasphere's network of televisions, telephones, modems and computers, these are merely the external engineer- ing manifestations of an interconnectedness that already exists. We are already connected and wired together metaphysically as a tribe.
+**DR:** I don't use the word "tribal" because it's too retro, counter-evolutionary. I've been calling it "global organism" or "new community." We used to live as tribes of interdependent hunter-gatherers in caves 'round the campfire. That was our hive state -- a cooperative single-organism entity. But we weren't conscious of our individuality, too. Then we gradually reached specialization, single consciousness and ego. The next step is to come back together, maintaining both individual and group consciousness.
 
-DR: I don't use the word "tribal" because it's too retro, counter-evolutionary. I've been calling it "global organism" or "new community." We used to live as tribes of interdepen- dent hunter-gatherers in caves 'round the campfire. That was our hive state - a cooperative single-organism entity. But we weren't conscious of our individuality, too. Then we gradually reached specialization, single consciousness and ego. The next step is to come back together, maintaining both individual and group consciousness.
+**FB: What will the group being be like?**
 
-FB: What will the group being be like?
+**DR:** I could never predict, but it's going to be much more radical, yet much more subtle than we imagine. We are moving into a unique period, a "meta" age where we pull back and see ourselves as the artist painting at the easel, and see him as part of yet another painting. What I love about the group organism is that it is so camp. I talk about camp a lot at the end of the book. Camp is totally self-conscious distance. Camp is vogueing something, framing it. Something like RuPaul!
 
-DR: I could never predict, but it's going to be much more radical, yet much more subtle than we imagine. We are
-
-SCREENAGE
-
-DOUGLAS RUSHKOFF PLAYS THE FUTURE.
-
-moving into a unique period, a "meta" age where we pull back and see ourselves as the artist painting at the easel, and see him as part of yet another painting. What I love about the group organism is that it is so camp. I talk about camp a lot at the end of the book. Camp is totally self-conscious distance. Camp is vogueing something, framing it. Something like RuPaul!
-
-FB: You dedicated Media Virus! to your parents for letting you watch as much television as you wanted. You are pro-television in a culture that demonizes it and holds it responsible for all of society's ills. I have come to believe that TV does have a tremendous impact on us, but not in the ways we fear it does. Television does not make us more violent. It may reduce our attention span, but as you say, "Short attention span equals broad attention range." So what are the secrets of the magic box?
+**FB: You dedicated _Media Virus!_ to your parents for letting you watch as much television as you wanted. You are pro-television in a culture that demonizes it and holds it responsible for all of society's ills. I have come to believe that TV does have a tremendous impact on us, but not in the ways we fear it does. Television does not make us more violent. It may reduce our attention span, but as you say, "Short attention span equals broad attention range." So what are the secrets of the magic box?**
 
 DR: Television is our psychic meeting space. Because the media is our culture's collective dream space, I'm always arguing for as much violence, sex and perversion in the media as we want. If you go to a shrink, he is not going to tell you to stop having certain kinds of dreams. He's going to try and help you use your dreams to figure out where you are. If you suppress the dreams of an individual, he will go into psychosis. If we suppress the dreams of our culture, people will start believing that they are being abducted by aliens or move into cults.
 
