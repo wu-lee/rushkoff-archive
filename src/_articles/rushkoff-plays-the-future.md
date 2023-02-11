@@ -38,6 +38,8 @@ READING DOUGLAS RUSHKOFF'S MEDIA VIRUS! ROCKED MY WORLD. Published in the middle
 
 **FB: You dedicated _Media Virus!_ to your parents for letting you watch as much television as you wanted. You are pro-television in a culture that demonizes it and holds it responsible for all of society's ills. I have come to believe that TV does have a tremendous impact on us, but not in the ways we fear it does. Television does not make us more violent. It may reduce our attention span, but as you say, "Short attention span equals broad attention range." So what are the secrets of the magic box?**
 
+xxx
+
 DR: Television is our psychic meeting space. Because the media is our culture's collective dream space, I'm always arguing for as much violence, sex and perversion in the media as we want. If you go to a shrink, he is not going to tell you to stop having certain kinds of dreams. He's going to try and help you use your dreams to figure out where you are. If you suppress the dreams of an individual, he will go into psychosis. If we suppress the dreams of our culture, people will start believing that they are being abducted by aliens or move into cults.
 
 FB: I love the title Screenagers because it seems to me that the glass screen medi- ates so much of our experience, whether we are watching television, in front of our computer screens, staring out the window, peering through our car wind- shields, wearing shades or looking in the mirror. We are all screenagers, and glass frames and filters our experience.
