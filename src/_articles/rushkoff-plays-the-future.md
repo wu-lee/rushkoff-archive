@@ -52,28 +52,10 @@ READING DOUGLAS RUSHKOFF'S MEDIA VIRUS! ROCKED MY WORLD. Published in the middle
 
 **DR:** Sure you have your nongeographical surrogate community of Babylon 5 viewers, X-Files fans and massive, unifying media events like O.J., but we haven't grown beyond the body yet, and while the mind can relate to an infinite number of other resonating minds, the body needs to relate to some other number of bodies in its proximity. That's why suburbia is so dysfunctional. People, just like the television series, are "lost in space," lost in a nightmare of loneliness.
 
-xxx
+**FB: Television talk shows are breaking down that isolation. These shows are often attacked as voyeuristic, but voyeurism is a very healthy thing — it's just another word for curiosity.**
 
-FB: Television talk shows are breaking down that isolation. These shows are often attacked as voyeuristic, but voyeurism is a very healthy thing — it's just another word for curiosity. DR: People are good. There's nothing to be ashamed of. What have I done to be ashamed of? And the loss of privacy is great when my neighbor finds out that I masturbate. He does, too. If we're going to do this global community thing I'm talking about, there's gonna be a hell of a loss of privacy. They scare us with that, but that's one of the best parts about it.
+**DR:** People are good. There's nothing to be ashamed of. What have I done to be ashamed of? And the loss of privacy is great when my neighbor finds out that I masturbate. He does, too. If we're going to do this global community thing I'm talking about, there's gonna be a hell of a loss of privacy. They scare us with that, but that's one of the best parts about it.
 
-—
+**FB: The idea in the book that will be the hardest for people to accept -- especially critics -- is your fundamental populism. Unlike most other cultural critics and social commentators, you believe that people are good, equally intelligent, sensitive and able to comprehend what you have written.**
 
-especially
-
-FB: The idea in the book that will be the hardest for people to accept critics is your fundamental populism. Unlike most other cultural critics and social commentators, you believe that people are good, equally intelligent, sensitive and able to comprehend what you have written.
-
-DR: I believe that my readers are as smart as I am and have all had, in one form or another, all the ideas in the book, which exists more as a kind of tuning fork. My book is written in defiance of the nonevolved notion that a few educated, compassionate people need to make the decisions for the rest of us and shepherd us through these chaotic times. The challenge is to realize that we are all capable of handling the tremendous empowerment that technology gives us. ★
-
-3 Y
-
-FENTON 3 AILEY/PHOTOGRAPH
-
-BY JULIAN
-
-,
-
-0
-
-1
-
-0
+**DR:** I believe that my readers are as smart as I am and have all had, in one form or another, all the ideas in the book, which exists more as a kind of tuning fork. My book is written in defiance of the nonevolved notion that a few educated, compassionate people need to make the decisions for the rest of us and shepherd us through these chaotic times. The challenge is to realize that we are all capable of handling the tremendous empowerment that technology gives us. ★
