@@ -28,6 +28,8 @@ READING DOUGLAS RUSHKOFF'S MEDIA VIRUS! ROCKED MY WORLD. Published in the middle
 
 **DR:** Today's kids are natives in areas like new media, where adults are just immigrants. We must look to them for cues about how to act, how to think and what to say. The whole trick to not just surviving but thriving in a chaotic age is learning to recognize patterns. Seeing patterns allows us to \[adapt\] to the new terrain, and it's what kids get by channel surfing, watching rock videos and playing with computers.
 
+xxx
+
 FB: You talk about the evolution of the global organ- ism. One of the things that I have begun to notice is that while we are hardwired by the mediasphere's network of televisions, telephones, modems and computers, these are merely the external engineer- ing manifestations of an interconnectedness that already exists. We are already connected and wired together metaphysically as a tribe.
 
 DR: I don't use the word "tribal" because it's too retro, counter-evolutionary. I've been calling it "global organism" or "new community." We used to live as tribes of interdepen- dent hunter-gatherers in caves 'round the campfire. That was our hive state - a cooperative single-organism entity. But we weren't conscious of our individuality, too. Then we gradually reached specialization, single consciousness and ego. The next step is to come back together, maintaining both individual and group consciousness.
