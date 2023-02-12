@@ -14,13 +14,15 @@ published: false
 ---
 Did you ever wonder what happened to those computer nerds who spent years glued to their CRTS? You'll probably end up working with one--if you aren't already. "The screenagers are here, and they will take _no_ prisoners," says Douglas Rushkoff, author of _Playing the Future_ and a leading consultant and lecturer on technology. Weaned on computers, video games and cable TV, younger Generation Xers--whom Rushkoff prefers to call "screenagers"--have evolved into highly adaptable, multitasking humanoids. "Screenagers will teach you how to prosper in the information age, if you let them," says Rushkoff, 34. "But if you're intimidated by them, they'll steamroll you." We decided to ask Rushkoff what we can learn from these young guns.
 
+**How can we boomers safely exist with screenagers, without wanting to vaporize them?**
+
+The key is to make the screenagers feel like participants rather than a threat to the status quo. They can't believe in job security, so their only satisfaction comes from feeling like part of the company organism. Listen to their suggestions and ask them to explain their technical skills to you. In return, try to share your experience with them. Above all, don't attack them--even if they repulse you. Boomers should regard screenagers with admiration. They're the new model of human being.
+
+**Why, exactly, do they handle technology and chaos so much better than we do?**
+
+Thirtysomethings grew up with shows like _Bonanza_ that made us interpret our world in terms of predictable beginnings, middles and endings. Screenagers, on the contrary, think more like _Pulp Fiction_. The Internet and MTV have taught them to find meaning in complex messages and, most important, to _recognize patterns_. Screenagers love _Mystery Science Theater 3000_--a late-night show in which a man and two robots cut up movies with rapid, left-field wisecracks. One of the robots might see a guy swinging his arm in an old karate movie and start humming the theme to _My Three Sons_. This ability to make wild, nonlinear inferences is a key to making sense of chaos.
+
 xxx
-
-How can we boomers safely exist with screen- agers, without wanting to vaporize them?
-
-The key is to make the screenagers feel like participants rather than a threat to the status quo. They can't believe in job security, so their only satisfaction comes from feeling like part of the company organism. Listen to their sug- gestions and ask them to explain their techni- cal skills to you. In return, try to share your experience with them. Above all, don't attack them even if they repulse you. Boomers should regard screenagers with admiration. They're the new model of human being. Why, exactly, do they handle technology and chaos so much better than we do?
-
-Thirtysomethings grew up with shows like Bonanza that made us interpret our world in terms of predictable beginnings, middles and endings. Screenagers, on the contrary, think more like Pulp Fiction. The Internet and MTV have taught them to find meaning in complex messages and, most important, to recognize patterns. Screenagers love Mystery Science Theater 3000-a late-night show in which a man and two robots cut up movies with rapid, left-field wisecracks. One of the robots might see a guy swinging his arm in an old karate movie and start humming the theme to My Three Sons. This ability to make wild, nonlinear inferences is a key to making sense of chaos.
 
 We all grew up with television, so don't we already have this media training?
 
