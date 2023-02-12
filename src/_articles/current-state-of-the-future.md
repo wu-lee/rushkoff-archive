@@ -56,6 +56,8 @@ I'd agree that kids are turning away from paternal-style news shows (like the To
 
 **Rushkoff:** Generation X? Oy. That's a ten-thousand word question, Jay. All I can tell you here is that every generation makes a unique contribution to cultural evolution.
 
+xxx
+
 GenX's was to realize that market segmentation artificial- ly and even dangerously over- simplifies the social function- ing of a varied group of people.
 
 They were the first genera- tion to understand the lan- guage of the media as natives would, which is why it was so ironic to watch the marketers attempt to seduce them using media tools.
