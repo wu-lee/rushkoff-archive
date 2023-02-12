@@ -37,6 +37,8 @@ For the new global corporations and media conglomerates, media itself became the
 
 This love affair between people and the tools of media led to some unexpected consequences. As these devices became inexpensive enough to reach the hands of individuals, we began to see real people using media to enact social change. And they did so with purpose.
 
+xxx
+
 Chinese students protesting their nation- al leadership announced their stand off with the military in Tienamen Square by sending faxes around the world. The beating of an African American, by white policemen in Los Angeles is recorded on a home camcorder, images of the brutality are broadcast globally and lead to riots in a dozen American cities. An Internet site maintained by an unknown gos- sip columnist named Matt Drudge releases information suppressed by mainstream maga- zines: that an American President had a sexual affair with a young intern. As a result, Bill Clinton was impeached by Congress.
 
 Interactive devices changed the media from a one-way broadcast to a community event. People began sharing information and insights across racial, national, and religious boundaries. Electronic bulletin boards allowed people to share information about anything that interested them-from recipes for cheesecake to formulas for alternative cancer treatments.
