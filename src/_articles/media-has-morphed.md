@@ -29,17 +29,13 @@ For a time, publishing barons like William Randolph Hearst maintained an iron gr
 
 But then something odd happened. Media had become so pervasive that it could no longer be absolutely controlled. Uncensored television broadcasts of the atrocities in the Vietnam War were seen at dinnertime in homes throughout the U.S., fueling anti-war protests. The first picture of the Earth taken from outer space--ostensibly a triumph of American technological ingenuity--became an icon for the hippies, and launched an environmental movement.
 
-xxx
+Images from CNN to MTV reached people formerly isolated behind the Iron Curtain, and raised lifestyle expectations, making those totalitarian regimes impossible to maintain. In a sense, Madonna crashed the Berlin Wall.
 
-Images from CNN to MTV reached peo- ple formerly isolated behind the Iron Curtain, and raised lifestyle expectations, making those totalitarian regimes impossible to main-
-
-tain. In a sense, Madonna crashed the Berlin Wall.
-
-None of these democratizing features of the global media gave those in the commer- cial area any cause for alarm. Though the cre- ation of a global media forced firms to forge global partnerships, it was a small price to pay for reaching the whole world.
+None of these democratizing features of the global media gave those in the commercial area any cause for alarm. Though the creation of a global media forced firms to forge global partnerships, it was a small price to pay for reaching the whole world.
 
 For the new global corporations and media conglomerates, media itself became the most desired product of all. In Eastern Europe and Asia, televisions became status symbols. In the West, people bought every new media device that hit the market.
 
-This love affair between people and the tools of media led to some unexpected conse- quences. As these devices became inexpen- sive enough to reach the hands of individuals, we began to see real people using media to enact social change. And they did so with pur- pose.
+This love affair between people and the tools of media led to some unexpected consequences. As these devices became inexpensive enough to reach the hands of individuals, we began to see real people using media to enact social change. And they did so with purpose.
 
 Chinese students protesting their nation- al leadership announced their stand off with the military in Tienamen Square by sending faxes around the world. The beating of an African American, by white policemen in Los Angeles is recorded on a home camcorder, images of the brutality are broadcast globally and lead to riots in a dozen American cities. An Internet site maintained by an unknown gos- sip columnist named Matt Drudge releases information suppressed by mainstream maga- zines: that an American President had a sexual affair with a young intern. As a result, Bill Clinton was impeached by Congress.
 
