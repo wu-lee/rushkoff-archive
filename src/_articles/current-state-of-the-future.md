@@ -60,8 +60,8 @@ GenX's was to realize that market segmentation artificially and even dangerously
 
 They were the first generation to understand the language of the media as natives would, which is why it was so ironic to watch the marketers attempt to seduce them using media tools.
 
-There's no need or reality in trying to separate out what's unique about the 90s from the 60s. Time is continuous, and renaissance's take more than a decade to happen. There is something "inherently differ- ent" about 1995 from 1993. The rest is just degrees.
+There's no need or reality in trying to separate out what's unique about the 90s from the 60s. Time is continuous, and renaissance's take more than a decade to happen. There is something "inherently different" about 1995 from 1993. The rest is just degrees.
 
-Unless you live in a cave or on the lip of a meteorite crater. a sea of information engulfs your world daily. And where charlatans are as common as the advice they give. Douglas Rushkoff navigates the geogra- phy of tomorrow with the skill of a finely tuned compass.
+Unless you live in a cave or on the lip of a meteorite crater, a sea of information engulfs your world daily. And where charlatans are as common as the advice they give, Douglas Rushkoff navigates the geography of tomorrow with the skill of a finely tuned compass.
 
 Choose your guides wisely.
