@@ -56,11 +56,9 @@ I'd agree that kids are turning away from paternal-style news shows (like the To
 
 **Rushkoff:** Generation X? Oy. That's a ten-thousand word question, Jay. All I can tell you here is that every generation makes a unique contribution to cultural evolution.
 
-xxx
+GenX's was to realize that market segmentation artificially and even dangerously oversimplifies the social functioning of a varied group of people.
 
-GenX's was to realize that market segmentation artificial- ly and even dangerously over- simplifies the social function- ing of a varied group of people.
-
-They were the first genera- tion to understand the lan- guage of the media as natives would, which is why it was so ironic to watch the marketers attempt to seduce them using media tools.
+They were the first generation to understand the language of the media as natives would, which is why it was so ironic to watch the marketers attempt to seduce them using media tools.
 
 There's no need or reality in trying to separate out what's unique about the 90s from the 60s. Time is continuous, and renaissance's take more than a decade to happen. There is something "inherently differ- ent" about 1995 from 1993. The rest is just degrees.
 
