@@ -44,29 +44,17 @@ The following interview about television, independent magazines, and the changin
 
 **Bristow:** Switching from television to other types of media, it appears there are many more ways for people to get information? Young people, especially, seem to be turning to independent magazines and indie TV for their 'news'?
 
-xxx
+**Rushkoff:** There's both more indie stuff, and more ways for the info to get disseminated. There are more distribution channels for independent thought.
 
-ing away from paternal-style news shows (like the Tom Brokaw or Dan Rather, tradi- tional evening news shows) and are opting for ones where their own opinions can be expressed, like (Internet) news groups or 'zines or even MTV.
+I'd agree that kids are turning away from paternal-style news shows (like the Tom Brokaw or Dan Rather, traditional evening news shows) and are opting for ones where their own opinions can be expressed, like (Internet) news groups or 'zines or even MTV.
 
-Bristow: Some people, or the especially groups Establishment press and media - dismiss indie magazines.
+**Bristow:** Some people, or groups — especially the Establishment press and media — dismiss indie magazines.
 
-Rushkoff: 'Zines are cool; however, you can't trust their facts as facts, because they don't fact check and sometimes they make-up stuff. But for new thought and propositions. they're the best. The Underground
+**Rushkoff:** 'Zines are cool; however, you can't trust their facts as facts, because they don't fact check and sometimes they make-up stuff. But for new thought and propositions, they're the best. The Underground (or Independents') agendas and free speech bother the incumbent regimes. The fears of the incumbents are novelty and uncertainty. Unpredictability. More media makes more motion, and more motion yields more chaotic change. Sure, it makes them scared, so they're trying to get back in front of the cart again.
 
-Rushkoff: There's both more indie stuff, and more ways for the info to get disseminated. There are more distribution channels for independent thought.
+**Bristow:** And finally a term that is probably as accurate as it is despised, Generation X. Is it realistic to speak of a distinct group of people who are different from groups — or generations — who went before? And how much is true in the comparison that the 90s will produce as much change as the 60s?
 
-I'd agree that kids are turn-
-
-(or Inde- pendents') agendas and free speech the bother
-
-incumbent regimes. The fears of the incumbents are novelty and uncertain- ty. Unpredictability. More media makes more motion, and more motion yields more chaotic change. Sure, it makes them scared, so they're trying to get back in front of the cart again.
-
-Bristow: And finally a term that is probably as accurate as it is despised. Generation X. Is it realistic to speak of a distinct group of people who are differ- ent from groups - or genera-
-
-\-
-
-tions who went before? And how much is true in the com- parison that the 90s will pro- duce as much change as the 60s?
-
-Rushkoff: Generation X? Oy. That's a ten-thousand word question. Jay. All I can tell you here is that every generation makes a unique contribution to cultural evolution.
+**Rushkoff:** Generation X? Oy. That's a ten-thousand word question, Jay. All I can tell you here is that every generation makes a unique contribution to cultural evolution.
 
 GenX's was to realize that market segmentation artificial- ly and even dangerously over- simplifies the social function- ing of a varied group of people.
 
