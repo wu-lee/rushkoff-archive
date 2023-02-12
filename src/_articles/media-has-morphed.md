@@ -17,13 +17,13 @@ published: false
 ---
 Those of you called "media professionals" like to think of yourselves as defining the leading edge of world culture. And why not? You conceive, create, sponsor or broadcast the images that are seen around the globe. Whether you make _Baywatch_, Nike commercials or news programs, you are responsible for the stories, pictures and ideas that shape the way millions, perhaps billions of people think and feel.
 
-xxx
-
 Or so you like to believe.
 
-For media is no longer a one-way affair. Thanks to interactivity, the people you used to call your audience have become the chief cre- ators of content. The highly polished program- ming you make is just one of many choices available to consumers who can just as easily go on the Internet, play video games or even make their own media.
+For media is no longer a one-way affair. Thanks to interactivity, the people you used to call your audience have become the chief creators of content. The highly polished programming you make is just one of many choices available to consumers who can just as easily go on the Internet, play video games or even make their own media.
 
 What does it mean to be responsible media professionals in a media space where you are no longer in charge? And how do you make a living by doing so?
+
+xxx
 
 What I'd like to pose is that the only way to profit from and participate in the interactive media space is to let go of the reins. By relin- quishing your control over the media you make, you will become the real leaders of this industry in the 21st Century.
 
