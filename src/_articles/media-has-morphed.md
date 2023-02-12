@@ -47,23 +47,19 @@ The children growing up in this interactive environment became a marketer's nigh
 
 They played video games with Nintendo joysticks--not such a revolutionary act on the surface, perhaps. But a child who uses a television set as a toy doesn't have the same reverence for the television image as we did. That child knows what it is like to have control over the pixel. The image has been demystified.
 
-xxx
+Finally, the computer keyboard and mouse turn the television monitor into a portal for a youngster's self-expression. Young people grow up communicating through a screen that looks no different from the TV set. If they do choose to sit quietly and watch one of our programs, they do so voluntarily--with full knowledge that they can express themselves through that monitor, too. To them, it's like listening to the radio through a telephone handset.
 
-Finally, the computer keyboard and mouse turn the television monitor into a por-
+Understandably, perhaps, the first reaction of those who previously enjoyed a monopoly over the media was to reverse these steps. An interactive mediaspace was a hard place to maintain control, so it needed to be contained.
 
-JUNTER CURRENT
+Their first tactic was to mislabel this revolution in interactivity as an "information age." An information age places the emphasis on content--stuff that can be bought and sold. That's a whole lot more palatable than is communication to the men and women whose business depends on selling media rather than simply empowering human beings to speak with one another.
 
-tal for a youngster's self-expression. Young people grow up communicating through a screen that looks no different from the TV set. If they do choose to sit quietly and watch one of our programs, they do so voluntarily-with full knowledge that they can express them- selves through that monitor, too. To them, it's like listening to the radio through a telephone handset.
-
-Understandably, perhaps, the first reac- tion of those who previously enjoyed a monopoly over the media was to reverse these steps. An interactive mediaspace was a hard place to maintain control, so it needed to be contained.
-
-Their first tactic was to mislabel this revo- lution in interactivity as an "information age." An information age places the emphasis on content-stuff that can be bought and sold. That's a whole lot more palatable than is com- munication to the men and women whose business depends on selling media rather than simply empowering human beings to speak with one another.
-
-Next, they looked for a way to convert the Internet-a many-to-many media-into a good, old-fashioned broadcast channel. They seized on a very particular Internet application called the World Wide Web, and invested everything they could to make it the domi- nant Internet interface. Why? Because unlike most Internet applications, the Web stays basi- cally still. It looks pretty much like TV or an electronic magazine. There's no way to talk back to it-other than to type in a credit card number and press the "buy" button.
+Next, they looked for a way to convert the Internet--a many-to-many media--into a good, old-fashioned broadcast channel. They seized on a very particular Internet application called the World Wide Web, and invested everything they could to make it the dominant Internet interface. Why? Because unlike most Internet applications, the Web stays basically still. It looks pretty much like TV or an electronic magazine. There's no way to talk back to it--other than to type in a credit card number and press the "buy" button.
 
 Last, something had to be done about the interactive mindset that had infected media consumers. This is the stage we're in now. We talk of creating "sticky" websites that catch Internet users as if they were flies.
 
-If you keep going in this direction, you will reduce the promise of a global communi- cations infrastructure into a worldwide elec- tronic strip mall. And, ironically, you will reduce our potential profits in the process.
+If you keep going in this direction, you will reduce the promise of a global communications infrastructure into a worldwide electronic strip mall. And, ironically, you will reduce our potential profits in the process.
+
+xxx
 
 The way to benefit from and even enjoy the tremendous change in our industry is to develop a long-term view. The object of the game is not to make fast cash and drop out- it's to succeed in the long run. Slow and steady still wins the race, no matter how accelerated the computer chip.
 
