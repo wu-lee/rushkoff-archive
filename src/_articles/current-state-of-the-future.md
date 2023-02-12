@@ -32,47 +32,25 @@ The following interview about television, independent magazines, and the changin
 
 **Bristow:** If television gives us motion, texture, and image — like the nonlinear programming of MTV or Much Music — does this mean we experience this type of programming at a subliminal level or does it impact us more directly?
 
+**Rushkoff:** I don't think that the MTV cut-and-paste style is subliminal in any sense. It's open and direct. It makes subliminal programming less effective, not more, because every edit is an opportunity to break from the trance. The real forefathers of the technique are guys like (Beatnik generation writers) William S. Burroughs and Brion Gysin. It's not a fluke that post-modern and self-conscious editing would proliferate in the post-modern age.
+
+**Bristow:** Concerning the VCR, which married movies with the television format, or the remote control, which afforded the viewer a degree of control over the incoming programming — which one has impacted the television-viewer relationship more?
+
+**Rushkoff:** The remote control changed things more. It ended the era of passive programming. With the remote, the viewer could alienate themselves from the image and the hypnosis (of watching only one continuous stream of images).
+
+**Bristow:** How will television change in the near future?
+
+**Rushkoff:** There will be two types of television, piped television and ordered television. One will be increasingly commercial, public networky television, with 10 to 20 big net- works. The second will be catalogues of networks, where a food channel or shopping channel, for example, will sell archives of info and products directly to the viewer.
+
+**Bristow:** Switching from television to other types of media, it appears there are many more ways for people to get information? Young people, especially, seem to be turning to independent magazines and indie TV for their 'news'?
+
 xxx
 
-Rushkoff: I don't think that the MTV cut-and-paste style is sublimi- nal in any sense. It's open and direct. It makes subliminal programming less effective, not more, because every edit is an opportunity to break from the trance. The real forefathers of the technique are guys like (Beatnik generation writers) William S. Burroughs and Brion Gysin. It's not a fluke that post-modern and self-conscious editing would prolif- erate in the post-modern age.
-
-Bristow: Concerning the VCR, which married movies with the tele- vision format, or the remote control, which afforded the viewer a degree of control over the incoming pro- gramming
-
-—
-
-which one has impacted the fele- vision-viewer rela- tionship more?
-
-Rushkoff: The remote control changed things more. It ended the era of passive pro- gramming.. With the remote, the viewer could
-
-SEE PAGE 18
-
-18
-
-OF THE
-
-CURRENT STATE FUTURE
-
-FROM PAGE 17
-
-alienate themselves from the image and the hypnosis (of watching only one continuous stream of images).
-
-Bristow: How will television change in the near future?
-
-Rushkoff: There will be two types of television, piped televi- sion and ordered television. One will be increasingly com- mercial, public networky tele- vision, with 10 to 20 big net- works. The second will be cata- logues of networks, where a food channel or shopping channel, for example, will sell archives of info and products directly to the viewer.
-
-Bristow: Switching from tele-
-
 ing away from paternal-style news shows (like the Tom Brokaw or Dan Rather, tradi- tional evening news shows) and are opting for ones where their own opinions can be expressed, like (Internet) news groups or 'zines or even MTV.
-
-\-
 
 Bristow: Some people, or the especially groups Establishment press and media - dismiss indie magazines.
 
 Rushkoff: 'Zines are cool; however, you can't trust their facts as facts, because they don't fact check and sometimes they make-up stuff. But for new thought and propositions. they're the best. The Underground
-
-... every generation makes a unique contribution to cultural evolution. GenX . . . were the first generation to understand the language of the media..."
-
-vision to other types of media, it appears there are many more ways for people to get informa- tion? Young people, especially. seem to be turning to indepen- dent magazines and indie TV for their 'news'?
 
 Rushkoff: There's both more indie stuff, and more ways for the info to get disseminated. There are more distribution channels for independent thought.
 
