@@ -18,19 +18,13 @@ As we enter the last half of the last decade of the last century of this millenn
 
 The future is a topic of anxiety and intrigue, partly because it is an unknown, and partly because it is somewhere we are all headed together. Today, more than ever, fiction and folly walk hand in hand toward the future: gurus on the Internet claim to have found the Grand Wisdom; infomercial psychics are predicting the apocalyptic return of Elvis, both of which inevitably coincide with the demise of mankind. In contrast to the wackos of every denomination that infringe upon our future-drunk psyches, one cultural future-guide offers sensible propositions.
 
+Douglas Rushkoff is an American in his early 30s, currently living in New York City. His voice of uncommon sense rises above the confusing babble of techno-talk gibberish, and is therefore, someone more people could do with listening to.
+
+He has written three books: the _Gen X Reader_ is a fascinating collection of young writers and cultural enthusiasts: _Cyberia — Life in the Trenches of Hyperspace_ is self-explanatory; and _Media Virus — Hidden Agendas in Popular Culture_ explores the living nature of society's interrelation with its technology.
+
+In print, Rushkoff is on the understandable side of technological visionaries like Marshall McLuhan, and the legal side of cultural desperadoes like Hunter S. Thompson. In January of 1995. he spoke at a University of Manitoba forum on the future and issues surrounding Generation X.
+
 xxx
-
-Douglas Rushkoff is an American in his early 30s, currently living
-
-in New York City. His voice of uncommon sense rises above
-
-the confusing
-
-babble of techno-talk gibberish, and is therefore, someone more people could do with listening to.
-
-He has written three books: the Gen X Reader is a fascinating collec- tion of young writers and cultural enthusiasts: Cyberia - Life in the Trenches of Hyperspace is self- explanatory: and Media Virus - Hidden Agendas in Popular Culture explores the living nature of society's interrelation with its technology.
-
-In print. Rushkoff is on the understandable side of technological visionaries like Marshall McLuhan, and the legal side of cultural desper- adoes like Hunter S. Thompson. In January of 1995. he spoke at a University of Manitoba forum on the future and issues surrounding Generation X.
 
 The following interview about television, independent magazines, and the changing cultural landscape was conducted via E-mail.
 
