@@ -37,17 +37,17 @@ For the new global corporations and media conglomerates, media itself became the
 
 This love affair between people and the tools of media led to some unexpected consequences. As these devices became inexpensive enough to reach the hands of individuals, we began to see real people using media to enact social change. And they did so with purpose.
 
-xxx
+Chinese students protesting their national leadership announced their stand off with the military in Tienamen Square by sending faxes around the world. The beating of an African American, by white policemen in Los Angeles is recorded on a home camcorder, images of the brutality are broadcast globally and lead to riots in a dozen American cities. An Internet site maintained by an unknown gossip columnist named Matt Drudge releases information suppressed by mainstream magazines: that an American President had a sexual affair with a young intern. As a result, Bill Clinton was impeached by Congress.
 
-Chinese students protesting their nation- al leadership announced their stand off with the military in Tienamen Square by sending faxes around the world. The beating of an African American, by white policemen in Los Angeles is recorded on a home camcorder, images of the brutality are broadcast globally and lead to riots in a dozen American cities. An Internet site maintained by an unknown gos- sip columnist named Matt Drudge releases information suppressed by mainstream maga- zines: that an American President had a sexual affair with a young intern. As a result, Bill Clinton was impeached by Congress.
-
-Interactive devices changed the media from a one-way broadcast to a community event. People began sharing information and insights across racial, national, and religious boundaries. Electronic bulletin boards allowed people to share information about anything that interested them-from recipes for cheesecake to formulas for alternative cancer treatments.
+Interactive devices changed the media from a one-way broadcast to a community event. People began sharing information and insights across racial, national, and religious boundaries. Electronic bulletin boards allowed people to share information about anything that interested them--from recipes for cheesecake to formulas for alternative cancer treatments.
 
 The media's essential nature had changed from a place to consume prepared programming to a way to communicate.
 
-The children growing up in this interac- tive environment became a marketer's night- mare. Media makers called them "generation X," because they didn't respond to advertising messages the way their elders did. They used remote controls to "channel surf" away from programming they didn't like. So much for commercials.
+The children growing up in this interactive environment became a marketer's nightmare. Media makers called them "generation X," because they didn't respond to advertising messages the way their elders did. They used remote controls to "channel surf" away from programming they didn't like. So much for commercials.
 
-They played video games with Nintendo joysticks-not such a revolutionary act on the surface, perhaps. But a child who uses a televi- sion set as a toy doesn't have the same rever- ence for the television image as we did. That child knows what it is like to have control over the pixel. The image has been demystified.
+They played video games with Nintendo joysticks--not such a revolutionary act on the surface, perhaps. But a child who uses a television set as a toy doesn't have the same reverence for the television image as we did. That child knows what it is like to have control over the pixel. The image has been demystified.
+
+xxx
 
 Finally, the computer keyboard and mouse turn the television monitor into a por-
 
