@@ -32,12 +32,6 @@ The short attention span is a misconception. Screenagers have _immense_ powers o
 
 A screenager can watch nine TV shows simultaneously, and he can work on three different projects while talking on the phone. This is multitasking, and it's a pivotal capability for thriving in the chaos. To develop this ability, you need to fine-tune your attention filter. Try to watch three or four TV shows at once, and always open your E-mail in the order you want--not in the order received. Resist the need to have all the answers before you go on.
 
-xxx
+**What else can we do to gain the skills of the screenagers?**
 
-What else can we do to gain the skills of the screenagers?
-
-Always go for the experience, the journey. Not conclusions. Not winning. For example, we played Chutes and Ladders, a biblical allegory in which you rolled the dice and either won or lost. The object in Doom, however, is not to win but to keep the experience going as long as possible. It's about getting as far as you can. Where adults will say a good game is easy to win, screen- agers will say and I've heard this a million times-it's hard to die. Do you see the difference? That's why screenagers love never-ending chaos. They're in it for the struggle. And you want them on your side.
-
-CONTRIBUTORS: RON GERACI, GREG GUTFELD, CARRIE HAVRANEK, GEORGE HOBICA, JOE KITA, KRISTINA DE KOSZMOVSZKY, BRUCE MIRKEN, P. MYATT MURPHY, RYAN PAPIR, KAY PRESTO, CAROL ANN SHAHEEN, CARRIE SILBERMAN
-
-Francine Fleischer
+Always go for the experience, the journey. Not conclusions. Not winning. For example, we played Chutes and Ladders, a biblical allegory in which you rolled the dice and either won or lost. The object in _Doom_, however, is not to win but to keep the experience going as long as possible. It's about getting as far as you can. Where adults will say a good game is easy to win, screenagers will say--and I've heard this a million times--_it's hard to die_. Do you see the difference? That's why screenagers love never-ending chaos. They're in it for the struggle. And you want them on your side.
