@@ -23,15 +23,13 @@ For media is no longer a one-way affair. Thanks to interactivity, the people you
 
 What does it mean to be responsible media professionals in a media space where you are no longer in charge? And how do you make a living by doing so?
 
+What I'd like to pose is that the only way to profit from and participate in the interactive media space is to let go of the reins. By relinquishing your control over the media you make, you will become the real leaders of this industry in the 21st Century.
+
+For a time, publishing barons like William Randolph Hearst maintained an iron grip on their media empires. The communications departments at universities taught students the principles of "mass media." Mass media was the study of how to control populations through the use of mainstream programming. By the 1960s, it appeared that the media's absolute control over society was inevitable.
+
+But then something odd happened. Media had become so pervasive that it could no longer be absolutely controlled. Uncensored television broadcasts of the atrocities in the Vietnam War were seen at dinnertime in homes throughout the U.S., fueling anti-war protests. The first picture of the Earth taken from outer space--ostensibly a triumph of American technological ingenuity--became an icon for the hippies, and launched an environmental movement.
+
 xxx
-
-What I'd like to pose is that the only way to profit from and participate in the interactive media space is to let go of the reins. By relin- quishing your control over the media you make, you will become the real leaders of this industry in the 21st Century.
-
-For a time, publishing barons like William Randolph Hearst maintained an iron grip on their media empires. The communications
-
-departments at universities taught students the principles of "mass media." Mass media was the study of how to control populations through the use of mainstream programming. By the 1960s, it appeared that the media's absolute control over society was inevitable.
-
-But then something odd happened. Media had become so pervasive that it could no longer be absolutely controlled. Uncensored television broadcasts of the atrocities in the Vietnam War were seen at din- nertime in homes throughout the U.S., fueling anti-war protests. The first picture of the Earth taken from outer space-ostensibly a triumph of American technological ingenuity- became an icon for the hippies, and launched an environmental movement.
 
 Images from CNN to MTV reached peo- ple formerly isolated behind the Iron Curtain, and raised lifestyle expectations, making those totalitarian regimes impossible to main-
 
