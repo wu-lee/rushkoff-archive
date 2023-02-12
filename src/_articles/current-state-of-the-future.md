@@ -14,9 +14,11 @@ published: false
 ---
 Core's **Jay Bristow** interviews **Douglas Rushkoff**, author of _The Gen-X Reader, Cyberia — Life in the Trenches of Hyperspace_ and _Media Virus — Hidden Agendas in Popular Culture._
 
-s we enter the last half of the last decade of the last centu- ry of this millennium. everyone is trying to inter- pret the wild vortex of our time, and not too many people are making sense.
+As we enter the last half of the last decade of the last century of this millennium, everyone is trying to interpret the wild vortex of our time, and not too many people are making sense.
 
-The future is a topic of anxiety and intrigue, partly because it is an unknown, and partly because it is somewhere we are all headed together. Today, more than ever, fic- tion and folly walk hand in hand toward the future: gurus on the Internet claim to have found the Grand Wisdom; infomercial psychics are predicting the apocalyptic return of Elvis, both of which inevitably coincide with the demise of mankind. In contrast to the wackos of every denomination that infringe upon our future-drunk psyches, one cultural future-guide offers sensible propositions.
+The future is a topic of anxiety and intrigue, partly because it is an unknown, and partly because it is somewhere we are all headed together. Today, more than ever, fiction and folly walk hand in hand toward the future: gurus on the Internet claim to have found the Grand Wisdom; infomercial psychics are predicting the apocalyptic return of Elvis, both of which inevitably coincide with the demise of mankind. In contrast to the wackos of every denomination that infringe upon our future-drunk psyches, one cultural future-guide offers sensible propositions.
+
+xxx
 
 Douglas Rushkoff is an American in his early 30s, currently living
 
