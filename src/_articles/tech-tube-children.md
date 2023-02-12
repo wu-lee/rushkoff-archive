@@ -9,7 +9,6 @@ notes: October 1996
 refs: ''
 sources: ''
 categories: []
-published: false
 
 ---
 Did you ever wonder what happened to those computer nerds who spent years glued to their CRTS? You'll probably end up working with one--if you aren't already. "The screenagers are here, and they will take _no_ prisoners," says Douglas Rushkoff, author of _Playing the Future_ and a leading consultant and lecturer on technology. Weaned on computers, video games and cable TV, younger Generation Xers--whom Rushkoff prefers to call "screenagers"--have evolved into highly adaptable, multitasking humanoids. "Screenagers will teach you how to prosper in the information age, if you let them," says Rushkoff, 34. "But if you're intimidated by them, they'll steamroll you." We decided to ask Rushkoff what we can learn from these young guns.
