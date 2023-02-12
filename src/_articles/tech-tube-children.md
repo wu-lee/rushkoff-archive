@@ -22,17 +22,17 @@ The key is to make the screenagers feel like participants rather than a threat t
 
 Thirtysomethings grew up with shows like _Bonanza_ that made us interpret our world in terms of predictable beginnings, middles and endings. Screenagers, on the contrary, think more like _Pulp Fiction_. The Internet and MTV have taught them to find meaning in complex messages and, most important, to _recognize patterns_. Screenagers love _Mystery Science Theater 3000_--a late-night show in which a man and two robots cut up movies with rapid, left-field wisecracks. One of the robots might see a guy swinging his arm in an old karate movie and start humming the theme to _My Three Sons_. This ability to make wild, nonlinear inferences is a key to making sense of chaos.
 
+**We all grew up with television, so don't we already have this media training?**
+
+Not like the screenagers. Growing up with hundreds of channels, interactive video games and especially the remote control has made screenagers much more media-literate. Unlike us, screenagers zap away before they get suckered into a state of anxiety for the benefit of advertisers. People laugh at me when I say that _Beavis and Butt-head_ teaches media literacy. Beavis and Butt-head rip apart rock videos, and kids learn to ridicule media's attempt to suck them in. Screenagers prefer to use television as a portal to the world, a remote view they can change at whim. If you want to learn to use television like they do, perpetually click through 40 or 50 stations for a week or so. Stop only for a few seconds. Develop your ability to see patterns in incongruent things.
+
+**We thought our ability to stay focused for more than 10 seconds was our big advantage.**
+
+The short attention span is a misconception. Screenagers have _immense_ powers of concentration. Could you play SimCity for 10 hours straight? They process information much differently than we do. Their linear attention span has evolved into a nonlinear attention _range_.
+
+A screenager can watch nine TV shows simultaneously, and he can work on three different projects while talking on the phone. This is multitasking, and it's a pivotal capability for thriving in the chaos. To develop this ability, you need to fine-tune your attention filter. Try to watch three or four TV shows at once, and always open your E-mail in the order you want--not in the order received. Resist the need to have all the answers before you go on.
+
 xxx
-
-We all grew up with television, so don't we already have this media training?
-
-Not like the screenagers. Growing up with hundreds of channels, interactive video games and especially the remote control has made screenagers much more media-literate. Unlike us, screenagers zap away before they get suckered into a state of anxiety for the benefit of advertisers. People laugh at me when I say that Beavis and Butt-head teaches media literacy. Beavis and Butt-head rip apart rock videos, and kids learn to ridicule media's attempt to suck them in. Screenagers prefer to use television as a portal to the world, a remote view they can change at whim. If you want to learn to use television like they do, perpetually click through 40 or 50 stations for a week or so. Stop only for a few seconds. Develop your ability to see patterns in incon- gruent things.
-
-We thought our ability to stay focused for more than 10 seconds was our big advantage.
-
-The short attention span is a misconception. Screenagers have immense powers of con- centration. Could you play SimCity for 10 hours straight? They process information much differently than we do. Their linear attention span has evolved into a nonlinear attention range.
-
-A screenager can watch nine TV shows simultaneously, and he can work on three dif- ferent projects while talking on the phone. This is multitasking, and it's a pivotal capa- bility for thriving in the chaos. To develop this ability, you need to fine-tune your attention fil- ter. Try to watch three or four TV shows at once, and always open your E-mail in the order you want-not in the order received.. Resist the need to have all the answers before you go on.
 
 What else can we do to gain the skills of the screenagers?
 
