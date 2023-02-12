@@ -24,21 +24,15 @@ He has written three books: the _Gen X Reader_ is a fascinating collection of yo
 
 In print, Rushkoff is on the understandable side of technological visionaries like Marshall McLuhan, and the legal side of cultural desperadoes like Hunter S. Thompson. In January of 1995. he spoke at a University of Manitoba forum on the future and issues surrounding Generation X.
 
-xxx
-
 The following interview about television, independent magazines, and the changing cultural landscape was conducted via E-mail.
 
-Bristow: What did people want from television in 1965? In 1995? And what did they get?
+**Bristow:** What did people want from television in 1965? In 1995? And what did they get?
 
-Rushkoff: In the 60s people turned to TV for programming - much as we go shopping for music albums today. You pick your pro- gramming and then sit back and receive. In the 60s people expected their TV to give them stories - begin- nings, middles, and endings - with morals. Tension and relief, with a lesson. In the 90s. TV is about texture and, literally, tele-vision or remote viewing. We turn to TV to see stuff that's out of physical sight, and to experience motion, texture, and image devoid of any
+**Rushkoff:** In the 60s people turned to TV for programming — much as we go shopping for music albums today. You pick your programming and then sit back and receive. In the 60s people expected their TV to give them stories — beginnings, middles, and endings — with morals. Tension and relief, with a lesson. In the 90s, TV is about texture and, literally, tele-vision or remote viewing. We turn to TV to see stuff that's out of physical sight, and to experience motion, texture, and image devoid of any real meaning or moral structure.
 
-real meaning or moral structure. Bristow: If television gives
+**Bristow:** If television gives us motion, texture, and image — like the nonlinear programming of MTV or Much Music — does this mean we experience this type of programming at a subliminal level or does it impact us more directly?
 
-us motion, tex-
-
-·
-
-ture, and image like the nonlinear programming of MTV or Much Music does this mean we experi- ence this type of programming at a subliminal level or does it impact us more directly?
+xxx
 
 Rushkoff: I don't think that the MTV cut-and-paste style is sublimi- nal in any sense. It's open and direct. It makes subliminal programming less effective, not more, because every edit is an opportunity to break from the trance. The real forefathers of the technique are guys like (Beatnik generation writers) William S. Burroughs and Brion Gysin. It's not a fluke that post-modern and self-conscious editing would prolif- erate in the post-modern age.
 
