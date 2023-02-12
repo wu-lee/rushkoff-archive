@@ -9,7 +9,6 @@ notes: only known date is 1995
 refs: ''
 sources: ''
 categories: []
-published: false
 
 ---
 Core's **Jay Bristow** interviews **Douglas Rushkoff**, author of _The Gen-X Reader, Cyberia — Life in the Trenches of Hyperspace_ and _Media Virus — Hidden Agendas in Popular Culture._
