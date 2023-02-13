@@ -3,9 +3,9 @@ publication: _publications/san-francisco-chronicle.md
 title: Rushkoff Plays the Future
 subtitle: ''
 image: ''
-date: 1996-06-27 04:00:00 +0000
+date: 1996-06-27T04:00:00.000+00:00
 blurb: ''
-notes: ''
+notes: also appeared in June 1996 issue of Paper
 refs: ''
 sources: ''
 categories: []
