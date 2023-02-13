@@ -1,0 +1,116 @@
+{%- comment -%}
+<!--
+     This include accepts two parameters (which combine by intersection)
+   - publication: restrict items those with this publication value
+   - category: restrict items those with this category value
+
+     It is intended to next inside markdown content, i.e. within a page layout.
+-->
+{%- endcomment -%}
+
+{% assign items = include.items | sort: 'date' | reverse %}
+
+
+{% if include.publication # filter by publication %}
+{%   assign items = items | where: "publication", include.publication %}
+{% endif %}
+
+{% if include.category # filter by category %}
+{%   assign items = items | where_exp: "item", "item.categories contains include.category" %}
+{% endif %}
+
+
+{% assign publication_ids = items | map: "publication" | uniq %}
+{% assign publications = site.publications | where_exp: "p", "publication_ids contains p.path" %}
+
+{% assign category_ids = items | map: "categories" | flatten | uniq  %}
+{% assign categories = site.categories | where_exp: "c", "category_ids contains c.path" %}
+
+<script
+  src="https://code.jquery.com/jquery-3.6.0.min.js"
+  integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+  crossorigin="anonymous"></script>
+<script src="{{ '/assets/js/search.js' | relative_url }}"></script>
+<noscript><style>form.search { display: none; }</style></noscript>
+<div class="post-list-wrapper">
+  <p class="badge">
+    {{ items.size }} {% if items.size == 1 %}item{% else %}items{% endif %}.
+  </p>
+  
+  {%- if items.size > 0 -%}
+  
+  <form class="search">
+    <input type="text" class="search-input search-input-text" placeholder="Search Titles">
+
+    {%- unless include.publication -%}
+    {%- if publications.size > 0 # some items can have zero publication -%}
+    <select class="search-input search-input-publication" name="publications">
+      <option value="">All Publications</option>
+      {% for publication in publications | sort: "title" %}
+      <option value="{{ publication.path }}">{{ publication.title | escape }}</option>
+      {% endfor %}
+    </select>
+    {%- endif -%}
+    {%- endunless -%}
+
+    {%- unless include.category -%}
+    {%- if categories.size > 0 # some items have zero catergories -%}
+    <select class="search-input search-input-category" name="categories">
+      <option value="">All Categories</option>
+      {% for category in categories | sort: "title" %}
+      <option value="{{ category.path }}">{{ category.title | escape }}</option>
+      {% endfor %}
+    </select>
+    {%- endif -%}
+    {%- endunless -%}
+
+    <button class="search-input search-button" >Clear</button>
+  </form>
+  
+  <ul class="post-list" id="search-list">
+    {%- for item in items -%}
+    {%    assign publication = publications | where: "path", item.publication | first %}
+    <li class="post-list-item"
+      _publication-id="{{ item.publication }}"
+      _category-ids="{{ item.categories | join(" ") }}">
+      <div class="flex-align">
+        {% assign item_collection = site.collections | where: "label", item.collection | first %} 
+        <span class="post-type">{{ item_collection.item_desc }}</span>
+        
+        {%- assign date_format = "%Y/%m/%d" -%}
+        <span class="post-date">{{ item.date | date: date_format }}</span>
+        
+        <span class="post-list-title">
+          {% if item.published != false %}
+          <a class="post-link" href="{{ item.url | relative_url }}">
+            {{ item.title | escape }}
+          </a>
+          
+          {% else %}
+          {{   item.title | escape }}
+          
+          {% endif %}
+        </span>
+        
+        <span class="post-list-publication" _publication-id="{{ item.publication }}">
+          {% if include.publication %}
+          {%   unless item.published != false %}(unpublished){% endunless %}
+          {% else %}
+          {%   if publication %}
+          (<a href="{{ publication.url | relative_url }}" class="post-link">{{ publication.title | escape -}}</a>
+          {%-    unless item.published != false -%}; unpublished{%- endunless -%})
+          {%   else %}
+          (no publication{%-    unless item.published != false -%}; unpublished{%- endunless -%})
+          {%   endif %}
+          {% endif %}
+        </span>
+      </div>
+      {% if item.subtitle %}
+      <div class="post-list-subtitle">{{ item.subtitle | escape }}</div>
+      {% endif %}
+      
+    </li>
+    {%- endfor -%}
+  </ul>
+  {%- endif -%}
+</div>

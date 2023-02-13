@@ -8,6 +8,7 @@
 {%- endcomment -%}
 
 {% assign categories = site.categories | sort: 'date' | reverse %}
+{% assign items = site.articles | concat: site.videos_elsewhere | concat: site.misc_elsewhere %}
 
 <div class="post-list-wrapper">
   <p class="badge">
@@ -18,8 +19,8 @@
   <ul class="post-list">
     {%- for category in site.categories -%}
     {%-   assign count = 0 -%}
-    {%-   for article in site.articles -%}
-    {%-     if article.categories contains category.path -%}
+    {%-   for item in items -%}
+    {%-     if item.categories contains category.path -%}
     {%-       assign count = count | plus: 1 -%}
     {%-     endif -%}
     {%-   endfor -%}
@@ -28,7 +29,7 @@
         {{ category.title | escape }}
       </a>
       <span class="badge">
-        {{ count }} {% if count == 1 %}article{% else %}articles{% endif %}
+        {{ count }} {% if count == 1 %}item{% else %}items{% endif %}
       </span>
     </li>
     {%- endfor -%}

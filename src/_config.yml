@@ -5,14 +5,19 @@ unpublished: false
 collections:
   # Define our collections and their properties
   articles:
+    item_desc: Article
     output: true
   publications:
+    item_desc: Publication
     output: true
   categories:
+    item_desc: Category
     output: true
   videos_elsewhere:
+    item_desc: Video
     output: true
   misc_elsewhere:
+    item_desc: Misc
     output: true
 defaults:
   # Set the default front-matter fields for various content types
