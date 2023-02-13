@@ -20,13 +20,15 @@ READING DOUGLAS RUSHKOFF'S MEDIA VIRUS! ROCKED MY WORLD. Published in the middle
 
 **Douglas Rushkoff:** That's why I began my book with "Looks like this is the end" -- just to get it over with right away. The only way out of the fundamentalist Christian nightmare scenario of apocalypse is to believe in evolution and that we are changing states. "Novelty is the new status quo." And if you don't believe we can evolve beyond our problems, sure it's over.
 
+**FB: But whether or not there actually is one, apocalypse is an abiding idea.**
+
+**DR:** That's because for each of us, individually, it is a reality. Each of us dies. But if we are all just members of some group organism, then the real question becomes "Does this whole thing end?" I say no, because I believe in evolution. Life wins because it can adapt. My way to explore that is by observing the culture of children, because they are the new growth. If you want to see the health of a tree or forest, you look for the new growth.
+
+**FB: There's this whole idea in our society that kids are vulnerable, inexperienced, dependent, useless. But then kids are the ones who know how to program the VCR.**
+
+**DR:** Today's kids are natives in areas like new media, where adults are just immigrants. We must look to them for cues about how to act, how to think and what to say. The whole trick to not just surviving but thriving in a chaotic age is learning to recognize patterns. Seeing patterns allows us to \[adapt\] to the new terrain, and it's what kids get by channel surfing, watching rock videos and playing with computers.
+
 xxx
-
-FB: But whether or not there actually is one, apocalypse is an abiding idea.
-
-DR: That's because for each of us, individually, it is a reality. Each of us dies. But if we are all just members of some group organism, then the real question becomes "Does this whole thing end?" I say no, because I believe in evolution. Life wins because it can adapt. My way to explore that is by observing the culture of children, because they are the new growth. If you want to see the health of a tree or forest, you look for the new growth.
-
-FB: There's this whole idea in our society that kids are vulnerable, inexperienced, dependent, useless. But then kids are the ones who know how to program the VCR. DR: Today's kids are natives in areas like new media, where adults are just immigrants. We must look to them for cues about how to act, how to think and what to say. The whole trick to not just surviving but thriving in a chaotic age is learning to recog- nize patterns. Seeing patterns allows us to \[adapt\] to the new terrain, and it's what kids get by channel surfing, watching rock videos and playing with computers.
 
 FB: You talk about the evolution of the global organ- ism. One of the things that I have begun to notice is that while we are hardwired by the mediasphere's network of televisions, telephones, modems and computers, these are merely the external engineer- ing manifestations of an interconnectedness that already exists. We are already connected and wired together metaphysically as a tribe.
 
