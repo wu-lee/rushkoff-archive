@@ -3,7 +3,7 @@ publication: _publications/paper.md
 title: Screenage
 subtitle: Douglas Rushkoff Plays the Future
 image: ''
-date: 1996-06-01 04:00:00 +0000
+date: 1996-06-01T04:00:00.000+00:00
 blurb: ''
 notes: June 1996
 refs: ''
@@ -16,11 +16,11 @@ By Fenton Bailey
 
 READING DOUGLAS RUSHKOFF'S MEDIA VIRUS! ROCKED MY WORLD. Published in the middle of O.J. mania, it argued that our media world is a living, breathing Gaian entity within which stories are viruses with lives of their own. Instead of damning television and the media, it sang their praises with an optimism beyond even that of McLuhan and Toffler. I then went back to his first book on media culture, _Cyberia_, which showcased a collection of psychedelic computer ravers, people who seemed to suggest that we could choose our experience, design our own reality. For Rushkoff, this was the seed of his central idea that we are evolving as a species into something else, an idea that comes to fruition in his sixth and most dazzling book, _Playing the Future_ (Harper Collins), subtitled "How Kids' Culture Can Teach Us to Thrive in an Age of Chaos."
 
+**Fenton Bailey: In earlier drafts, _Playing the Future_ was called _Screenagers_ and subtitled "How Our Children Will Avert Apocalypse." In the twilight of the 20th century, the millennium is beginning to have a gravitational pull on our consciousness. There are a growing number of doomsday cults, alien abductions, the threat of a slate-wiping plague and a slew of world's-end prophecies. Apocalypse looms!**
+
+**Douglas Rushkoff:** That's why I began my book with "Looks like this is the end" -- just to get it over with right away. The only way out of the fundamentalist Christian nightmare scenario of apocalypse is to believe in evolution and that we are changing states. "Novelty is the new status quo." And if you don't believe we can evolve beyond our problems, sure it's over.
+
 xxx
-
-Fenton Bailey: In earlier drafts, Playing the Future was called Screenagers and subtitled "How Our Children Will Avert Apocalypse." In the twilight of the 20th century, the millen- nium is beginning to have a gravitational pull on our con- sciousness. There are a growing number of doomsday cults, alien abductions, the threat of a slate-wiping plague and a slew of world's-end prophecies. Apocalypse looms!
-
-Douglas Rushkoff: That's why I began my book with "Looks like this is the end" - just to get it over with right away. The only way out of the fundamentalist Christian nightmare scenario of apocalypse is to believe in evolution and that we are changing states. "Novelty is the new status quo." And if you don't believe we can evolve beyond our problems, sure it's over.
 
 FB: But whether or not there actually is one, apocalypse is an abiding idea.
 
