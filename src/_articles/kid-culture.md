@@ -23,15 +23,15 @@ Their older brothers and sisters are seeing the world without ever leaving their
 
 Raising a kid today is a bit like dwelling in the Twilight Zone. Kids have zoomed headfirst into the cyber age, leaving many of their parents behind in the dust.
 
-xxx
-
-That today's kids are so at home in a modern culture that embraces the World Wide Web, Nin- tendo, body piercing and "Beavis and Butt-Head" is amazing to their dazed parents. And more than a little scary.
+That today's kids are so at home in a modern culture that embraces the World Wide Web, Nintendo, body piercing and "Beavis and Butt-Head" is amazing to their dazed parents. And more than a little scary.
 
 Ask Douglas Rushkoff.
 
-A single 35-year-old with no kids of his own, he seems a tad old to be so at home with kids' cul- ture. But he's familiar with both the intricate plots of "The Mighty Morphin Power Rangers" and the lure of cyberspace.
+A single 35-year-old with no kids of his own, he seems a tad old to be so at home with kids' culture. But he's familiar with both the intricate plots of "The Mighty Morphin Power Rangers" and the lure of cyberspace.
 
-Rushkoff, a contributing editor for Virtual City magazine, is the author of the recently published "Playing the Future: How Kids' Culture Can Teach Us to Thrive in an Age of Chaos" (Harper- Collins, $25).
+Rushkoff, a contributing editor for Virtual City magazine, is the author of the recently published "Playing the Future: How Kids' Culture Can Teach Us to Thrive in an Age of Chaos" (Harper-Collins, $25).
+
+xxx
 
 He's out to explain kids' culture to bewildered parents and to ease fears about the dangers of what lies ahead.
 
