@@ -31,19 +31,15 @@ A single 35-year-old with no kids of his own, he seems a tad old to be so at hom
 
 Rushkoff, a contributing editor for Virtual City magazine, is the author of the recently published "Playing the Future: How Kids' Culture Can Teach Us to Thrive in an Age of Chaos" (Harper-Collins, $25).
 
-xxx
-
 He's out to explain kids' culture to bewildered parents and to ease fears about the dangers of what lies ahead.
 
-Today's kids feel isolat- ed, he explains. And much of their culture can be linked to their attempts to connect, to establish a sense of community, to make sense of our rapidly changing world.
+Today's kids feel isolated, he explains. And much of their culture can be linked to their attempts to connect, to establish a sense of community, to make sense of our rapidly changing world.
 
-To most adults, it's like that Christopher Reeve movie 'Village of the Damned."" Rushkoff says. "These alien children come and they're super, super smart.... We've got a little bit of that feeling with our kids
+"To most adults, it's like that Christopher Reeve movie 'Village of the Damned,'" Rushkoff says. "These alien children come and they're super, super smart.... We've got a little bit of that feeling with our kids now.
 
-now.
+"They seem like Superkids. At the same time, they seem somewhat disillusioned at the culture they've been born into, they also seem super smart and super able. Almost threateningly so."
 
-"They seem like Superkids. At the same time, they seem somewhat dis- illusioned at the culture they've
-
-been born into, they also seem super smart and super able. Almost threateningly so."
+xxx
 
 Parents and kids:
 
