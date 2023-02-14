@@ -101,64 +101,12 @@ Kids in some sense have a longer attention span than adults. I challenge any par
 
 DH: Do kids today look down on adults who aren't computer literate and who aren't as up to date on the current technology?
 
-RUSHKOFF: Surprisingly no. The only thing that they get upset about is how afraid parents are for them. how much parents want to
+RUSHKOFF: Surprisingly no. The only thing that they get upset about is how afraid parents are for them, how much parents want to guard them, how much parents believe the cover of Time magazine when it tells them that their children are going to be drawn into cyber pornography. The kids realize that it's the mainstream media trying to scare kids away from the Internet because the mainstream media is going to lose its exclusive hold on them. The kids are upset that we adults fall for these scare tactics.
 
-punt, ut vis... "Beavis and Butt-Head" to "The Power RangersTM
+If you look at a show like "Barney" -- which most adults hate and most little kids like -- I think Barney is really directly addressing their questions That show is really teaching kids how to deal with adults who seem like dinosaurs to them. The only adult in the program is Barney, a dinosaur. That's us. He's obsequious, and he's patronizing.
 
-toys like Gak and activities like fantasy role-play ing or going on the Internet.
-
-DH: There's some concern about kids getting addicted to some of the things you just talked about such as watching TV or spending time on the Internet. What do you say to that?
-
-RUSHKOFF: When we look at kids watching TV. we tend to think that they're watching it the same way we did. that they're looking at the image, that they identify with the character and they attempt at some later point to emulate that character's behavior - in other words. that they're using television like a drug, sucking the content in like we did when we were lads. But lads aren't watching television any. more: they're watching THE telev.
-
-Sion in a sense
-
-What they're doing is watching the way that TV is put together the way different shows say the same things or the way newscasts
-
-So I think that
-
-when they're watching TV they're observing America's media-making, they're observing America's self-image.
-
-that the kids who are raised in a penod of this much change will be even more foreign and more threatening to parents.
-
-kids' culture today- when you DH: Why is it that so much of look at things like body piercing. for example- adults squirm?
-
-\-
-
-seems to make
-
-RUSHKOFF: We look at the things our lads are doing and they al intimacy, but that's all they are. are extreme expressions of cultur-
-
-coach potatoes - sitting and play. We complain that our kids are ing with Nintendo. Sega and watch. ing TV all day. Well, they've react. ed to that culturally with piercing, with new primitivism. Kids are try. ing to experience nature and the body in the midst of the cyber age. Yes, it's an extreme expression. But when you look underneath it you see it is an extreme expression of a very healthy urge. And if any. thing. the reason it looks so extreme at times is because that urge has been so denied over time.
-
-do the same stories at the same time So I think that when they're watching TV they're observing America's media-making, they're observing America's self-image.
-
-If it looks like they're addicted to these things. it's because they've been starved as our whole cul- ture has for contact with other people and for some perspective on our experience. We've been living with blinders on for almost a cou- ple thousand years by now So when technologies arise that give us the chance to see things differ. ently and. most importantly, to express our opinions, and share who we are with other people. there's going to be a lot of people flocking to those activities until they get their fill initially
-
-DH: Do you really think the Internet provides a perspective on our experience? And further. more. do you think that's what kids are doing there?
-
-RUSHKOFF: In terms of per spective. it does that for sure because rather than just having to hear one kind of coverage of an event in the real world, they can hear 50 or 100 different points of
-
-set
-
-But the main thing kids are get- ting on the Internet is a sense of community
-
-DH: Many adults are con- cerned about the seemingly short attention span of today's kids. You're not. Can you elabo. rate?
-
-RUSHKOFF: Most adults have what could be called a longer attention span than their children. And that's because we are well- behaved media consumers. The well-behaved long attention span of the adult has been abused by pro- grammers for a long time. They call this stuff programming for a reason. And the way you get pro- grammed by TV is you get put into a state of tension by the television program. as much tension as you can tolerate. and then they give you the answer - which is always translatable into a product pur. chase or an ideology or a moral of some kind.
-
-Kids refuse to be put into that state of tension by the media because they know, whether con- sciously or not. that that tension is being used to exploit them. So what they do when they're watch- ing a program and feel themselves being drawn into the hypnotic tent. they zap out of it.
-
-Kids in some sense have a longer attention span than adults I chal- lenge any parent to ask a 9-year- old kid who watches "Power Rangers" why the Green Ranger is now the White Ranger. They will be treated to a 45-minute treatise on how this happened. And it hap pened over a period of two or three years. If the parent can sit through the entire explanation. they'll see that their kad has managed to fol. low a plot over a time longer than most soap operas
-
-DH: Do kids today look down on adults who aren't computer literate and who aren't as up to date on the current technology?
-
-RUSHKOFF: Surprisingly no The only thing that they get upset about is how afraid parents are for them, how much parents want to guard them. how much parents believe the cover of Time magazine when it tells them that their chil- dren are going to be drawn into cyber pornography The lads real- ize that it's the mainstream media trying to scare ads away from the Internet because the mainstream media is going to lose its exclusive hold on them. The kids are upset that we adults fall for these scare tactics.
-
-If you look at a show like "Bar- ney"- which most adults hate and most little kids like I think Bar- ney is really directly addressing their questions That show is really teaching kids how to deal with adults who seem like dinosaurs to them. The only adult in the pro- gram is Barney, a dinosaur That's us He's obsequious, and he's patronizing
-
-But on the other hand, what the kids realize is that Barney can teach them some facts. He can teach them some numbers. He can help organize their games a little bit So I think that kids are learning to be tolerant of our clumsy attempts to move through the cul- ture that they are part of
+But on the other hand, what the kids realize is that Barney can teach them some facts. He can teach them some numbers. He can help organize their games a little bit. So I think that kids are learning to be tolerant of our clumsy attempts to move through the culture that they are part of.
 
 DH: Overall, you sound very encouraged about the future.
 
-RUSHKOFF: I really am It comes from. I think, taking a good. hard, critical and wary look at their activities and finding under each one of them. no matter how gross and perverse they seem. the same urge toward local and global com munity understanding And that is the supreme adaptive challenge to a society attempting to evolve past the end of the 20th century
+RUSHKOFF: I really am. It comes from, I think, taking a good. hard, critical and wary look at their activities and finding under each one of them, no matter how gross and perverse they seem, the same urge toward local and global community understanding. And that is the supreme adaptive challenge to a society attempting to evolve past the end of the 20th century.
