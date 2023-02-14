@@ -19,11 +19,11 @@ Daily Herald Staff Writer
 
 Today's kids are mastering the intricacies of a computer mouse at the same age their moms were first putting crayon to coloring book.
 
+Their older brothers and sisters are seeing the world without ever leaving their bedrooms. They're doing their term papers without cracking the cover of a dictionary. They're e-mailing pals in cities they've never visited, zapping demons in cyber worlds their parents can barely comprehend.
+
+Raising a kid today is a bit like dwelling in the Twilight Zone. Kids have zoomed headfirst into the cyber age, leaving many of their parents behind in the dust.
+
 xxx
-
-Their older brothers and sisters are seeing the world without ever leaving their bed- rooms. They're doing their term papers without cracking the cover of a dictionary. They're e-mail- ing pals in cities they've never visited, zapping demons in cyber worlds their parents can barely comprehend.
-
-Raising a lad today is a bit like dwelling in the Twilight Zone. Kids have zoomed headfirst into the cyber age, leaving many of their parents behind in the dust.
 
 That today's kids are so at home in a modern culture that embraces the World Wide Web, Nin- tendo, body piercing and "Beavis and Butt-Head" is amazing to their dazed parents. And more than a little scary.
 
