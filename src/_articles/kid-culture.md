@@ -81,27 +81,23 @@ RUSHKOFF: It is sad indeed. But what is sad is not the fact that kids are reachi
 
 DH: How has all this technology, culture etc. affected the parent-child dynamic in this country?
 
+RUSHKOFF. It's interesting. Children have always represented the new prototype of human being to the parent. Parents have always been both slightly overprotective of and slightly afraid of their children. The world has always been changing. Older people are always threatened by the change. And younger people always tend to embody that change and incorporate the new values first. In that sense, there's nothing new.
+
+But today, because of the magnitude of change that we're all experiencing, we're really moving through a great hinge moment in human history where technology for the first time is being used to express nature and to express complexity rather than to try to stifle it and quell it. It just so happens that the kids who are raised in a period of this much change will be even more foreign and more threatening to parents.
+
+DH: Why is it that so much of kids' culture today -- when you look at things like body piercing, for example -- seems to make adults squirm?
+
+RUSHKOFF: We look at the things our kids are doing and they are _extreme_ expressions of cultural intimacy, but that's all they are.
+
+We complain that our kids are coach potatoes -- sitting and playing with Nintendo, Sega and watching TV all day. Well, they've reacted to that culturally with piercing, with new primitivism. Kids are trying to experience nature and the body in the midst of the cyber age. Yes, it's an extreme expression. But when you look underneath it you see it is an extreme expression of a very healthy urge. And if anything, the reason it looks so extreme at times is because that urge has been so denied over time.
+
+DH: Many adults are concerned about the seemingly short attention span of today's kids. You're not. Can you elaborate?
+
+RUSHKOFF: Most adults have what could be called a longer attention span than their children. And that's because we are well-behaved media consumers. The well-behaved long attention span of the adult has been abused by programmers for a long time. They call this stuff programming for a reason. And the way you get programmed by TV is you get put into a state of tension by the television program, as much tension as you can tolerate, and then they give you the answer -- which is always translatable into a product purchase or an ideology or a moral of some kind.
+
+Kids refuse to be put into that state of tension by the media because they know, whether consciously or not, that that tension is being used to exploit them. So what they do when they're watching a program and feel themselves being drawn into the hypnotic tent, they zap out of it.
+
 xxx
-
-RUSHKOFF. It's interesting
-
-Children have always represented the new prototype of human being to the parent. Parents have always been both slightly overprotective of and slightly afraid of their children. The world has always been chang. ing. Older people are always threatened by the change. And younger people always tend to em. body that change and incorporate the new values first. In that sense, there's nothing new.
-
-But today, because of the magni- tude of change that we're all expe- riencing, we're really moving through a great hinge moment in human history where technology for the first time is being used to express nature and to express complexity rather than to try to sti- de it and quell it. It just so happens that the kids who are raised in a period of this much change will be even more foreign and more threatening to parents.
-
-DH: Why is it that so much of kids' culture today when you look at things like body piercing, for example - seems to make adults squirm?
-
-RUSHKOFF: We look at the things our kids are doing and they are extreme expressions of cultur al intimacy, but that's all they are.
-
-—
-
-We complain that our kids are coach potatoes sitting and play- ing with Nintendo. Sega and watch- ing TV all day. Well, they've react- ed to that culturally with piercing, with new primitivism. Kids are try- ing to experience nature and the body in the midst of the cyber age. Yes, it's an extreme expression. But when you look underneath it you see it is an extreme expression of a very healthy urge. And if any- thing, the reason it looks so extreme at times is because that urge has been so denied over time.
-
-DH: Many adults are con- cerned about the seemingly short attention span of today's kids. You're not. Can you elabo- rate?
-
-RUSHKOFF: Most adults have what could be called a longer attention span than their children. And that's because we are well- behaved media consumers. The well-behaved long attention span of the adult has been abused by pro- grammers for a long time. They call this stuff programming for a reason. And the way you get pro- grammed by TV is you get put into a state of tension by the television program, as much tension as you can tolerate, and then they give you the answer - which is always translatable into a product pur- chase or an ideology or a moral of some kind.
-
-Kids refuse to be put into that state of tension by the media because they know, whether con- sciously or not, that that tension is being used to exploit them. So what they do when they're watch- ing a program and feel themselves being drawn into the hypnotic tent, they zap out of it.
 
 Kids in some sense have a longer attention span than adults. I chal- lenge any parent to ask a 9-year- old kid who watches "Power Rangers" why the Green Ranger is now the White Ranger. They will be treated to a 15-minute treatise on how this happened. And it hap- pened over a period of two or three years. If the parent can sit through the entire explanation, they'll see that their kid has managed to fol- low a plot over a time longer than most soap operas.
 
