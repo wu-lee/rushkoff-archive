@@ -97,9 +97,7 @@ RUSHKOFF: Most adults have what could be called a longer attention span than the
 
 Kids refuse to be put into that state of tension by the media because they know, whether consciously or not, that that tension is being used to exploit them. So what they do when they're watching a program and feel themselves being drawn into the hypnotic tent, they zap out of it.
 
-xxx
-
-Kids in some sense have a longer attention span than adults. I chal- lenge any parent to ask a 9-year- old kid who watches "Power Rangers" why the Green Ranger is now the White Ranger. They will be treated to a 15-minute treatise on how this happened. And it hap- pened over a period of two or three years. If the parent can sit through the entire explanation, they'll see that their kid has managed to fol- low a plot over a time longer than most soap operas.
+Kids in some sense have a longer attention span than adults. I challenge any parent to ask a 9-year-old kid who watches "Power Rangers" why the Green Ranger is now the White Ranger. They will be treated to a 45-minute treatise on how this happened. And it happened over a period of two or three years. If the parent can sit through the entire explanation, they'll see that their kid has managed to follow a plot over a time longer than most soap operas.
 
 DH: Do kids today look down on adults who aren't computer literate and who aren't as up to date on the current technology?
 
