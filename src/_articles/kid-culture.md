@@ -67,15 +67,23 @@ If it looks like they're addicted to these things, it's because they've been sta
 
 DH: Do you really think the Internet provides a perspective on our experience? And furthermore, do you think that's what kids are doing there?
 
+RUSHKOFF: In terms of perspective, it does that for sure because rather than just having to hear one kind of coverage of an event in the real world, they can hear 50 or 100 different points of view.
+
+But the main thing kids are getting on the Internet is a sense of community.
+
+I know to adults it looks weird and very narrow and very technical and very cold, but the Internet is the closest thing to community that kids have right now. They don't have social halls and places to hang out. And usually their parents are scared for them to go hang out in those places anyway. Especially kids who are raised out in the suburbs are raised isolated from one another. Their counterparts in the city are trying to forge community by creating street gangs and doing some really awful stuff. At least the kids with the money for electronic means of community can experiment in community and begin to express who they are to each other in the seeming safety of the electronic realm.
+
+And then hopefully, with any luck, they'll begin to do the same things in real life, start to express who they are to real people when they're in the flesh and realize it's great to have friends.
+
+DH: It probably saddens the average adult to hear you think of socialization as something that is not face to face.
+
+RUSHKOFF: It is sad indeed. But what is sad is not the fact that kids are reaching out to each other electronically. What's sad -- and it's OK to be sad for a moment, but we've got to move on -- is that we've brought our culture to a point that that has become necessary.
+
+DH: How has all this technology, culture etc. affected the parent-child dynamic in this country?
+
 xxx
 
-RUSHKOFF: In terms of per- spective. it does that for sure because rather than just having to hear one kind of coverage of an event in the real world, they can hear 50 or 100 different points of
-
-new.
-
-But the main thing kids are get- ting on the Internet is a sense of community
-
-...
+RUSHKOFF. It's interesting
 
 Children have always represented the new prototype of human being to the parent. Parents have always been both slightly overprotective of and slightly afraid of their children. The world has always been chang. ing. Older people are always threatened by the change. And younger people always tend to em. body that change and incorporate the new values first. In that sense, there's nothing new.
 
@@ -140,22 +148,6 @@ RUSHKOFF: In terms of per spective. it does that for sure because rather than ju
 set
 
 But the main thing kids are get- ting on the Internet is a sense of community
-
-I know to adults it looks weird and very narrow and very technical and very cold. but the Internet is the closest thing to community that kids have right now They don't have social halls and places to hang out. And usually their parents are scared for them to go hang out in those places anyway Especially kids who are raised out in the sub- arns are raised isolated from one another Their counterparts in the city are trying to forge community by creating street gangs and doing some really awful stuff. At least the kids with the money for electronic means of community can experi- ment in community and begin to express who they are to each other in the seeming safety of the elec tronic realm
-
-And then hopefully, with any luck. they'll begin to do the same things in real life. start to express who they are to real people when they re in the flesh and realize it's great to have friends.
-
-DH: It probably saddens the average adult to hear you think of socialization as something that is not face to face.
-
-RUSHKOFF: It is sad indeed. But what is sad is not the fact that kids are reaching out to each other electronically What's sad and it's OK to be sad for a moment, but
-
-We ve got to move on - is that we've brought our culture to a point that that has become neces-
-
-sary
-
-DH: How has all this technolo- . culture etc. affected the par ent-child dynamic in this coun Irv
-
-RUSHKOFF. It's interesting
 
 DH: Many adults are con- cerned about the seemingly short attention span of today's kids. You're not. Can you elabo. rate?
 
