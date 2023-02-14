@@ -39,71 +39,21 @@ Today's kids feel isolated, he explains. And much of their culture can be linked
 
 "They seem like Superkids. At the same time, they seem somewhat disillusioned at the culture they've been born into, they also seem super smart and super able. Almost threateningly so."
 
+Rushkoff's not worried. Sure, he says, today's kids have less national and institutional allegiance than their parents and grandparents. But that's not all bad, he says.
+
+"What they get for that is increasing tolerance and openness to people from Bosnia or Russia or Ethiopia or the inner city," he says. "You talk to anyone... the task at hand, if we're going to thrive in the future, is to somehow forge a global, cooperative future."
+
+And our kids are going to lead us there, Rushkoff says.
+
+In a recent phone interview, Rushkoff talked about kids' culture, their attraction to new media and how technology is changing the parent-child dynamic.
+
+Here is an edited transcript:
+
+DAILY HERALD: How do you define "kids' culture"?
+
+DOUGLAS RUSHKOFF: I consider kids' culture to be anything directly addressing our cultural anxieties through play. What I'm saying is there is a distinction between kids' culture and childhood behaviors. There are childhood activities that have always been around and then there's this unique contribution that kids today are making to culture at large.
+
 xxx
-
-Parents and kids:
-
-Tell us how technology has affected your family
-
-Rushkoff's not worried. Sure, he says, today's kids have less
-
-national and institutional
-
-Cyberspace has become the latest frontier for Amencan youth. But as kids embrace this brave new world, they're quickly leaving their parents behind.
-
-Far behind.
-
-In fact, parents are quick to ask their kids for computer advice and companies are hiring whiz kids kids being the operative word here to ease their entry into the 21st
-
-\-
-
-century.
-
-\-
-
-That's why we're interested in examining how today's kids have plunged into the world
-
-\-and of computers and on-line services
-
-\-
-
-333
-
-Cairy Herald illustrationJamie Hollar
-
-allegiance than their parents and grandparents. But that's not all bad, he says.
-
-"What they get for that is increasing tolerance and openness to people from Bosnia or Russia or
-
-Ethiopia or the inner city. he says. You talk to anyone... the task at hand, if we're going to thrive in
-
-the future. is to somehow forge a global. cooperative future."
-
-And our kids are going to lead us there. Rushkod says. In a recent phone inter- view, Rushkoff talked about
-
-kids' culture, their attraction to new media and how tech- nology is changing the par- ent-child dynamic.
-
-claimed this high-tech turf as their own. And we want to know how all this has affected family relationships in this country.
-
-Are you, as parents, concerned about your children's foray into cyberspace? How do you regulate a teen's use of a technology many adults can barely understand? Have on-line services become a problem in your home? Have children become too dependent on their computers? Or are the Internet, chat rooms and overall computer proficiency necessary tools for moving toward the future?
-
-We'd like to hear from parents and kids about this timely topic. Call Lisa Friedman Miner at (847) 427-4520 or e-mail her at Iminer@daily- herald.com. Be sure to leave a name and a daytime phone number where you can be reached.
-
-Here is an edited tran- script:
-
-DAILY HERALD: How do you define "kids' cul- ture"?
-
-DOUGLAS RUSHKOFF: I consider kids' culture to be anything directly addressing our cul-
-
-See KIDS on Page ?
-
-LUCE
-
-KIDS: Making a unique contribution to culture
-
-Continued from Page 1
-
-tural anxieties through play. What Im saying is there is a distinction between kids culture and child- hood behaviors There are child. hood activities that have always been around and then there's this unique contribution that kads today are making to culture at large.
 
 DH: For example?
 
