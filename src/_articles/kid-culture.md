@@ -53,31 +53,21 @@ DAILY HERALD: How do you define "kids' culture"?
 
 DOUGLAS RUSHKOFF: I consider kids' culture to be anything directly addressing our cultural anxieties through play. What I'm saying is there is a distinction between kids' culture and childhood behaviors. There are childhood activities that have always been around and then there's this unique contribution that kids today are making to culture at large.
 
-xxx
-
 DH: For example?
 
-RUSHKOFF: For example. they're breaking free of the addic- tion to simplistic endings and they're becoming much more toler- ant to the generally open-ended quality of life and the complexities of the modern experience. The spe- cific ways or the specific activities that give them this new-found power would be television - from Beavis and Butt-Head" to "The Power Rangers" toys like Gak and activities like fantasy role-play- ing or going on the Internet.
+RUSHKOFF: For example, they're breaking free of the addiction to simplistic endings and they're becoming much more tolerant to the generally open-ended quality of life and the complexities of the modern experience. The specific ways or the specific activities that give them this new-found power would be television - from "Beavis and Butt-Head" to "The Power Rangers" -- toys like Gak and activities like fantasy role-playing or going on the Internet.
 
 DH: There's some concern about kids getting addicted to some of the things you just talked about such as watching TV or spending time on the Internet. What do you say to that?
 
-RUSHKOFF: When we look at kads watching TV, we tend to think that they're watching it the same way we did, that they're looking at the image, that they identify with the character and they attempt at some later point to emulate that character's behavior - in other words. that they're using television like a drug, sucking the content in like we did when we were kids. But kads aren't watching television any- more: they're watching THE televi-
+RUSHKOFF: When we look at kids watching TV, we tend to think that they're watching it the same way we did, that they're looking at the image, that they identify with the character and they attempt at some later point to emulate that character's behavior -- in other words, that they're using television like a drug, sucking the content in like we did when we were kids. But kids aren't watching television anymore; they're watching THE television in a sense.
 
-sion in a sense.
+What they're doing is watching the way that TV is put together -- the way different shows say the same things or the way newscasts do the same stories at the same time. So I think that when they're watching TV they're observing America's media-making, they're observing America's self-image.
 
-What they're doing is watching the way that TV is put together the way different shows say the same things or the way newscasts
+If it looks like they're addicted to these things, it's because they've been starved -- as our whole culture has -- for contact with other people and for some perspective on our experience. We've been living with blinders on for almost a couple thousand years by now. So when technologies arise that give us the chance to see things differently and, most importantly, to express our opinions, and share who we are with other people, there's going to be a lot of people flocking to those activities until they get their fill initially.
 
-So I think that
+DH: Do you really think the Internet provides a perspective on our experience? And furthermore, do you think that's what kids are doing there?
 
-when they're watching TV they're observing America's media-making, they're observing America's self-image.
-
-do the same stories at the same time. So I think that when they're watching TV they're observing America's media-making, they're observing America's self-image.
-
-—
-
-If it looks like they're addicted to these things. it's because they've been starved - as our whole cul- ture has for contact with other people and for some perspective on Our experience. We've been living with blinders on for almost a cou- ple thousand years by now. So when technologies anse that give us the chance to see things differ- ently and, most importantly, to express our opinions, and share who we are with other people. there's going to be a lot of people flocking to those activities until they get their fill initially.
-
-DH: Do you really think the Internet provides a perspective on our experience? And further- more. do you think that's what kids are doing there?
+xxx
 
 RUSHKOFF: In terms of per- spective. it does that for sure because rather than just having to hear one kind of coverage of an event in the real world, they can hear 50 or 100 different points of
 
