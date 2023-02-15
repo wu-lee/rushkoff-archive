@@ -11,3 +11,8 @@ gem "jekyll-theme-monos", github: "wu-lee/jekyll-theme-monos"
 gem "jekyll-feed"
 gem "jekyll-remote-theme", github: "benbalter/jekyll-remote-theme"
 gem "youtube_rails", github: "wu-lee/youtube_rails"
+
+group :development do
+  gem "webrick", "~> 1.8"
+end
+
