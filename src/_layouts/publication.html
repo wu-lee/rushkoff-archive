@@ -18,5 +18,6 @@ layout: default
     {{ content }}
   </div>
 
-  {% include article-list.html publication=page.path %}
+  {% assign items = site.articles | concat: site.videos_elsewhere | concat: site.misc_elsewhere %}
+  {% include collections-list.html items=items publication=page.path %}
 </article>
