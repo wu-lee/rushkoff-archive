@@ -19,14 +19,13 @@ header.post-header .meta a {
 }
 
 /* Add a larger margin and a rule to post-lists */
-.post-list-wrapper {
+.post-list-content {
   margin-top: 2em;
 }
-ul.post-list {
+.post-list-wrapper {
   margin-top: 0;
 	border-top: 1px solid #ccc;
 }
-
 
 /* Align article post-list dates and publications vertically */
 ul.post-list .flex-align {
