@@ -11,11 +11,11 @@
 {% assign items = include.items | sort: 'date' | reverse %}
 
 
-{% if include.publication # filter by publication %}
+{% if include.publication and include.publication != 'OMIT' # filter by publication %}
 {%   assign items = items | where: "publication", include.publication %}
 {% endif %}
 
-{% if include.category # filter by category %}
+{% if include.category and include.category != 'OMIT' # filter by category %}
 {%   assign items = items | where_exp: "item", "item.categories contains include.category" %}
 {% endif %}
 
@@ -42,7 +42,7 @@
   <form class="search">
     <input type="text" class="search-input search-input-text" placeholder="Search Titles">
 
-    {%- unless include.publication -%}
+    {%- unless include.publication or include.publication == 'OMIT' -%}
     {%- if publications.size > 0 # some items can have zero publication -%}
     <select class="search-input search-input-publication" name="publications">
       <option value="">All Publications</option>
@@ -53,7 +53,7 @@
     {%- endif -%}
     {%- endunless -%}
 
-    {%- unless include.category -%}
+    {%- unless include.category or include.category == 'OMIT' -%}
     {%- if categories.size > 0 # some items have zero catergories -%}
     <select class="search-input search-input-category" name="categories">
       <option value="">All Categories</option>
@@ -76,9 +76,11 @@
       <div class="flex-align">
         {% assign item_collection = site.collections | where: "label", item.collection | first %} 
         <i class="post-type fa fa-li {{ item_collection.icon_class}}" title="{{ item_collection.item_desc }}"></i>
-        
+
+        {% if include.date != 'OMIT' %}
         {%- assign date_format = "%Y/%m/%d" -%}
         <span class="post-date">{{ item.date | date: date_format }}</span>
+        {% endif %}
         
         <span class="post-list-title">
           {% if item.published != false %}
@@ -91,19 +93,21 @@
           
           {% endif %}
         </span>
-        
+
+        {% if include.publication != 'OMIT' %}
         <span class="post-list-publication" _publication-id="{{ item.publication }}">
           {% if include.publication %}
-          {%   unless item.published != false %}(unpublished){% endunless %}
+          {%   if item.published == false %}(unpublished){% endif %}
           {% else %}
           {%   if publication %}
           (<a href="{{ publication.url | relative_url }}" class="post-link">{{ publication.title | escape -}}</a>
           {%-    unless item.published != false -%}; unpublished{%- endunless -%})
           {%   else %}
-          (no publication{%-    unless item.published != false -%}; unpublished{%- endunless -%})
+          (no publication{%- if item.published == false -%}; unpublished{%- endif -%})
           {%   endif %}
           {% endif %}
         </span>
+        {% endif %}
       </div>
       {% if item.subtitle %}
       <div class="post-list-subtitle">{{ item.subtitle | escape }}</div>

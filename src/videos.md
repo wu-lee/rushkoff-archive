@@ -4,4 +4,4 @@ layout: page
 ---
 This is the full list of videos
 
-{% include video-list.html %}
+{% include collections-list.html items=site.videos_elsewhere %}
