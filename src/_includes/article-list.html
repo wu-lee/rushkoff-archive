@@ -63,13 +63,15 @@
     <button class="search-input search-button" >Clear</button>
   </form>
   
-  <ul class="post-list" id="search-list">
+  <ul class="post-list fa-ul" id="search-list">
+    {% assign item_collection = site.collections | where: "label", "articles" | first %} 
     {%- for article in articles -%}
     {%    assign publication = publications | where: "path", article.publication | first %}
     <li class="post-list-item"
       _publication-id="{{ article.publication }}"
       _category-ids="{{ article.categories | join(" ") }}">
       <div class="flex-align">
+        <i class="post-type fa fa-li {{ item_collection.icon_class }}" title="{{ item_collection.item_desc }}"></i>
         
         {%- assign date_format = "%Y/%m/%d" -%}
         <span class="post-date">{{ article.date | date: date_format }}</span>

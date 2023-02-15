@@ -67,7 +67,7 @@
     <button class="search-input search-button" >Clear</button>
   </form>
   
-  <ul class="post-list" id="search-list">
+  <ul class="post-list fa-ul" id="search-list">
     {%- for item in items -%}
     {%    assign publication = publications | where: "path", item.publication | first %}
     <li class="post-list-item"
@@ -75,7 +75,7 @@
       _category-ids="{{ item.categories | join(" ") }}">
       <div class="flex-align">
         {% assign item_collection = site.collections | where: "label", item.collection | first %} 
-        <span class="post-type">{{ item_collection.item_desc }}</span>
+        <i class="post-type fa fa-li {{ item_collection.icon_class}}" title="{{ item_collection.item_desc }}"></i>
         
         {%- assign date_format = "%Y/%m/%d" -%}
         <span class="post-date">{{ item.date | date: date_format }}</span>

@@ -15,11 +15,14 @@
   </p>
 
   {%- if publications.size > 0 -%}
-  <ul class="post-list">
+  <ul class="post-list fa-ul">
+    {% assign item_collection = site.collections | where: "label", "publications" | first %} 
     {%- for publication in site.publications -%}
     {%- assign articles = site.articles | where: 'publication', publication.path -%}
     {%- if articles.size > 0 -%}
     <li class="post-list-item">
+      <i class="post-type fa fa-li {{ item_collection.icon_class}}" title="{{ item_collection.item_desc }}"></i>
+      
       <a class="post-link" href="{{ publication.url | relative_url }}">
         {{ publication.title | escape }}
       </a>

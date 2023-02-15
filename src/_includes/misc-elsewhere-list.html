@@ -46,11 +46,13 @@
     <button class="search-input search-button" >Clear</button>
   </form>
   
-  <ul class="post-list" id="search-list">
+  <ul class="post-list fa-ul" id="search-list">
+    {% assign item_collection = site.collections | where: "label", "misc_elsewhere" | first %} 
     {%- for misc_elsewhere_doc in misc_elsewhere_docs -%}
     <li class="post-list-item"
       _category-ids="{{ misc_elsewhere_doc.categories | join(" ") }}">
-      <div class="flex-align">
+      <div class="flex-align"> 
+        <i class="post-type fa fa-li {{ item_collection.icon_class}}" title="{{ item_collection.item_desc }}"></i>
         
         {%- assign date_format = "%Y/%m/%d" -%}
         <span class="post-date">{{ misc_elsewhere_doc.date | date: date_format }}</span>

@@ -6,18 +6,23 @@ collections:
   # Define our collections and their properties
   articles:
     item_desc: Article
+    icon_class: fa fa-newspaper-o
     output: true
   publications:
     item_desc: Publication
+    icon_class: fa fa-university
     output: true
   categories:
     item_desc: Category
+    icon_class: fa fa-tag
     output: true
   videos_elsewhere:
     item_desc: Video
+    icon_class: fa fa-film
     output: true
   misc_elsewhere:
     item_desc: Misc
+    icon_class: fa fa-asterisk
     output: true
 defaults:
   # Set the default front-matter fields for various content types
