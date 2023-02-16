@@ -32,22 +32,4 @@ Viewers of nearly every obsessive stripe, on the other hand, flock to this frami
 
 **Brechtian alienation:** The sounds of guns and guard dogs pursue escaping female convicts. "Sounds like the Foley artists are chasing us! Move it!"
 
-xxx
-
-But maybe the last selfreferential laugh is on the
-
-viewers themselves, who,
-
-like the janitor alone in his
-
-spaceship, . content themselves with the company of
-
-media-generated buddies on
-
-a Saturday night when
-
-there's no one else around
-
-willing to muse on the semiotics of Roger Corman.
-
-\-DoucLAS RusHKOFF
+But maybe the last self-referential laugh is on the viewers themselves, who, like the janitor alone in his spaceship, content themselves with the company of media-generated buddies on a Saturday night when there's no one else around willing to muse on the semiotics of Roger Corman.
