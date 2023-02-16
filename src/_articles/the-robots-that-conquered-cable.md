@@ -3,7 +3,7 @@ publication: _publications/esquire.md
 title: The Robots That Conquered Cable
 subtitle: ''
 image: ''
-date: 1994-11-01 05:00:00 +0000
+date: 1994-11-01T05:00:00.000+00:00
 blurb: ''
 notes: Nov. 1994
 refs: ''
@@ -14,83 +14,11 @@ published: false
 ---
 NERDLY CHANNEL-surfers are not the only ones responsible for making Comedy Central's _Mystery Science Theater 3000_ the cult hit of cable television. The three silhouetted characters sitting Loony Tunes-style in a theater between us and some pretty awful B movies are serving up some of the most astute media critique and pure, cheesy camp on television today.
 
+The premise is relatively simple: In the not-so-distant future (next Sunday A.D., to be precise), a janitor at a high-tech company, hated by his bosses, gets shot into space, where he is forced to watch bad movies. To combat loneliness, he uses spare parts to construct two witty robot companions who make wisecracks during the torturous screenings.
+
+Viewers of nearly every obsessive stripe, on the other hand, flock to this framing device quite voluntarily. _MST3K_ has its own national convention and, count 'em, four separate newsgroups on the Internet dedicated to discussing the show's finer points--such as which robot has a better singing voice. Appealing to an audience ranging from schlock junkies scanning for the next inside joke about Godzilla to self-made media theorists delighting in the nuances of metatheatrical bracketing, the show has managed to mix (or is it muddle?) a wide range of comedic styles:
+
 xxx
-
-The premise is relatively
-
-simple: In the not-so-distant
-
-future (next Sunday A.D., to
-
-be precise), a janitor at a
-
-high-tech company, hated by
-
-•- ,..
-
-,: __ .c. :<·,. .:.._.,·-.r __ flf\~ (.•.:: •:".
-
-·,
-
-. !.\\ - .. -\~-' " .-.. , ... t
-
-jok\~ \~\~ut·Godzilla to selfmade media theorists delightirig i\~ the nuances of
-
-metatheatrical bracketing, the
-
-show has managed to mix
-
-(or is it muddle?) a wide
-
-range of comedic styles:
-
-Sci-ti fanaticism: A Japanese monster reptile's theme
-
-song is given lyrics: "Gamera
-
-his bosses, gets shot into
-
-space, where he is forced
-
-to watch bad movies. To
-
-combat loneliness, he uses
-
-spare parts to construct two
-
-witty robot companions
-
-who make wisecracks during the torturous screenings.
-
-Semioticians of schlock: The captive trio of JJST :JK is
-
-capth:ating a gl'owingcult with their eclectic media rail.
-
-Viewers of nearly every
-
-obsessive stripe, on the other
-
-hand, flock to this framing
-
-device quite voluntarily.
-
-MST 3 K has its own national
-
-convention and, count 'em,
-
-four separate newsgroups on
-
-the Internet dedicated to discussing the show's finer
-
-points-such as which robot
-
-has a better singing voice.
-
-Appealing to an audience
-
-ranging from schlock junkies
-
-scanning for the next inside
 
 44 · ESQUI RE · NOVEMBER 1994
 
