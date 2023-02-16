@@ -24,59 +24,15 @@ Viewers of nearly every obsessive stripe, on the other hand, flock to this frami
 
 **Nerd cliché:** During a brief intermission, the two robots argue heatedly over the relative merits of DOS Windows and Macintosh operating systems.
 
+**Boomer nostalgia:** Mad scientist Bela Lugosi enters his lab, removes his suit jacket, and dons his lab coat as a robot sings, to the tune of Mr. Rogers's opening theme, "It's a beautiful day in the laboratory...."
+
+**A nod to the intelligentsia:** A woman throws down a magazine in disgust as the janitor speaks her thoughts: "I hate Hugh Sidey!"
+
+**TV trivia:** The painfully long opening sequence of a spy film follows a woman's legs as she walks through British streets. "Watch this: They'll pan up and it's gonna be John Cleese."
+
+**Brechtian alienation:** The sounds of guns and guard dogs pursue escaping female convicts. "Sounds like the Foley artists are chasing us! Move it!"
+
 xxx
-
-Boomer nostalgia: Mid
-
-scientist Bela Lugosi enters
-
-his lab, removes his suit
-
-jacket, and dons his lab coat
-
-as a robot sings, to the tune
-
-of Mr. Rogers's opening
-
-theme, "It's a beautiful day
-
-in the laboratory .... "
-
-A nod to the intelligentsia:
-
-A woman throws down a
-
-magazine in disgust as the
-
-janitor speaks her thoughts:
-
-"I hate Hugh Sidey!"
-
-TV trivia: The painfully
-
-long opening sequence of a
-
-spy film follows a woman's
-
-legs as she walks through
-
-British streets. "Watch this:
-
-They'll pan up and it's gonna
-
-be John Cleese."
-
-Brechtian alienation: The
-
-sounds of guns and guard
-
-dogs pursue escaping female
-
-convicts. "Sounds like the
-
-Foley ;mists are chasing us!
-
-Move it!"
 
 But maybe the last selfreferential laugh is on the
 
