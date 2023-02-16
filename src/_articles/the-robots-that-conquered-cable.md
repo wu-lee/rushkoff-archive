@@ -18,29 +18,13 @@ The premise is relatively simple: In the not-so-distant future (next Sunday A.D.
 
 Viewers of nearly every obsessive stripe, on the other hand, flock to this framing device quite voluntarily. _MST3K_ has its own national convention and, count 'em, four separate newsgroups on the Internet dedicated to discussing the show's finer points--such as which robot has a better singing voice. Appealing to an audience ranging from schlock junkies scanning for the next inside joke about Godzilla to self-made media theorists delighting in the nuances of metatheatrical bracketing, the show has managed to mix (or is it muddle?) a wide range of comedic styles:
 
+**Sci-fi fanaticism:** A Japanese monster reptile's theme song is given lyrics: "Gamera is really neat. / He is filled with turtle meat!"
+
+**Broadway camp:** The Andrew Lloyd Webber Grill is invented to burn the self-derivative composer's scores.
+
+**Nerd cliché:** During a brief intermission, the two robots argue heatedly over the relative merits of DOS Windows and Macintosh operating systems.
+
 xxx
-
-44 · ESQUI RE · NOVEMBER 1994
-
-is really neat. / He is filled
-
-with turtle meat!"
-
-Broadway camp: The Andrew Lloyd Webber Grill is
-
-invented to burn the self-derivative composer's scores.
-
-Nerd cliche: During a
-
-brief intermission, the two
-
-robots argue heatedly over
-
-the relative merits of DOS
-
-Windows and Macintosh
-
-operating systems.
 
 Boomer nostalgia: Mid
 
