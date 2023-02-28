@@ -12,17 +12,9 @@ categories: []
 published: false
 
 ---
-Ever since he linked super-sl1cky trends with the genetic concept
+Ever since he linked super-sticky trends with the genetic concept of "memes" in his book _Media Virus_, Doug Rushkoff's rep as a top pop pundit has been scarily out of control. His new book, Get Back in the Box: Innovation from the Inside Out is full of advice for floundering corporate innovators trying to think outside the box: get back in it.
 
-of ·memes 1n his book Media Virus Doug Rushkoff's rep as J top
-
-pop pund1I has bcm1 scarily 0111 of control His new tiook. Get Buck
-
-111 Ille Box /nnova/1011 from /lie Inside Out 1s full of advice for flmm·
-
-dcm,g corporate 11,novalors lry1ny lo lh1nk ouls1de Ille box qel
-
-back 1n 11
+xxx
 
 Ir, fact Gel Back picks up where Rushkoff' s prev1ou<; book:, lf'fl oil
 
