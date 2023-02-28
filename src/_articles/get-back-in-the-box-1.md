@@ -14,31 +14,11 @@ published: false
 ---
 Ever since he linked super-sticky trends with the genetic concept of "memes" in his book _Media Virus_, Doug Rushkoff's rep as a top pop pundit has been scarily out of control. His new book, Get Back in the Box: Innovation from the Inside Out is full of advice for floundering corporate innovators trying to think outside the box: get back in it.
 
+In fact, _Get Back_ picks up where Rushkoff's previous books left off, describing the media and business as a bazaar where individuals, cultures and institutions create, share, and propagate each other's values. Now Rushkoff is putting his spin on corporate innovation with a new question: Is fun the key to business success?
+
+Most people in business think of innovation as something new, different, and outside the scope of what they've done before. Real innovation is actually mining deeper into your true sources of competency and expertise to find new ore that you then bring up to the surface and apply.
+
 xxx
-
-Ir, fact Gel Back picks up where Rushkoff' s prev1ou<; book:, lf'fl oil
-
-describing Ille media and b11s111ess JS J tJ;i;a;ir wl1Pfl' 111 cfiwh1;1lr,
-
-cultures Jr,d 1nslllul1or1s create, share. amf prop,llJ.Jlc' 1•;1111 oll11•r :;
-
-values Now Rushkoff 1s pulling his spin on corprnillt• 11111ov,1l I1J11
-
-w1lh a new quesllon Is fun lhe key to bus111P'.,', s11i:i:1",' :1
-
-2-ll\~ \~rt.All ,•,••'i\~()',r.
-
-Mosl people 111 lJus,ness 11 1,11k ol 1111 1ov<Ji1011 .i-,
-
-something new d,llercnt. and outs,do 111, , sco1\~• 01
-
-what they·ve done beloro Rec1I ,nnovallon 1s ,lclu
-
-ally mI11Ing deeper inlo your 11ue sources of com
-
-petency and expertise to lind new ore thJI you
-
-then bring up lo the surtace and apply
 
 You·ve got to love wha1 you do to 1nnov;i1e II s
 
