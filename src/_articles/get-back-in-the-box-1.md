@@ -9,7 +9,6 @@ notes: Winter 05-06 issue
 refs: ''
 sources: ''
 categories: []
-published: false
 
 ---
 Ever since he linked super-sticky trends with the genetic concept of "memes" in his book _Media Virus_, Doug Rushkoff's rep as a top pop pundit has been scarily out of control. His new book, Get Back in the Box: Innovation from the Inside Out is full of advice for floundering corporate innovators trying to think outside the box: get back in it.
