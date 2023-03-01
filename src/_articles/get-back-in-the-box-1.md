@@ -18,35 +18,13 @@ In fact, _Get Back_ picks up where Rushkoff's previous books left off, describin
 
 Most people in business think of innovation as something new, different, and outside the scope of what they've done before. Real innovation is actually mining deeper into your true sources of competency and expertise to find new ore that you then bring up to the surface and apply.
 
+You've got to love what you do to innovate. It's not about extrinsic rewards. "Compensation" is a horrible word for payment because what are you getting compensated for? The pain of work!
+
+The problem with the former understanding of innovation is that it's anathema to expertise or continuity. It's seen as turning a page, or stepping into a whole new world. That's only desirable if you hate what you're doing.
+
+People who experience innovation as an abundant resource have no problem sharing what they've learned with anybody, collaborating with people who are supposed to be their competition, and letting in all sorts of influences. They understand that their employees and customers are the great experts in everything they're doing.
+
 xxx
-
-You·ve got to love wha1 you do to 1nnov;i1e II s
-
-not about extrinsic rewards -Compensat1011 1s a
-
-horrible word lor payment because wnaI ar P vou
-
-getting compensated for? The pain ol 1
-
-The problem with the formei under..tar,d,r(, '
-
-1nnova11on 1s that 11's anathema to expcn se °' ,
-
-llnu1ty II s seen as turn,ng a page or s:ecc: ,1 a whole new world Thm s onty des:r.,'.J',
-
-h.:i1e what you're doing
-
-GET BACK
-
-IN THE
-
-BOX
-
-Innovation from
-
-the Ins ide Out
-
-DOUG LAS RUSHKOFF
 
 People who experience 1n/'l0',al,()(l as an aO>.lldant resource have no pmblern S-'lcl' ng ,,, .. ai
 
