@@ -18,61 +18,13 @@ Most religious cults attract the disgruntled, disillusioned members of more orga
 
 Likewise, the members of my cult had become disenchanted with the increasingly inscrutable world of the PC. Many of us have already sold our souls to the devil, surrendering our Macintoshes for the seemingly global compatibility of Windows. Quickly caught up in an endless cycle of upgrades, we became slaves to our machines. Colossal programs ate our RAM and our paychecks. They seemed "easier" to use, but distanced us from the workings of our machines. And the more opaque they got, the less we understood about what we were doing. We were lost.
 
+The tiny Palm Pilot, reminiscent of the Nintendo Gameboy, is essentially a text-only computer with, at best, two megs of RAM. There's no hard drive, nor even a place for a floppy disk. You enter text by writing or tapping a little picture of a keyboard with a stylus. It's not nearly as convenient as a genuine laptop, nor as featured, or as ergonomic. So why the cult?
+
+I didn't understand it myself until I put my demo unit into its cradle so it could "synchronize" its data with the records and files on my huge desktop PC. With a friendly bleep, the Palm Pilot wrestled my entire computer to the mat, sucked out the data and bleeped its thanks.
+
+Better still, the Palm Pilot's simple and transparent operating system has encouraged thousands of young software developers to create programs for it--often distributed for free. They are pushing the Palm Pilot to its limits, creating Web browsers, guitar tuners, alarm clocks and hundreds of other applications for the platform--all available in an easy download from the Internet (at sites like www.pilot-gear.com or www.pilotfaq.com).
+
 xxx
-
-The tiny Palm Pilot, reminiscent of the
-
-Nintendo Gameboy, is essentially a text-
-
-only computer with, at best, two megs of
-
-RAM. There's no hard drive, nor even a
-
-place for a floppy disk. You enter text by
-
-writing or tapping a little picture of a key-
-
-board with a stylus. It's not nearly as con-
-
-venient as a genuine laptop, nor as fea-
-
-tured, or as ergonomic. So why the cult?
-
-I didn't understand it myself until I put
-
-my demo unit into its cradle so it could
-
-"synchronize" its data with the records
-
-and files on my huge desktop PC. With a
-
-friendly bleep, the Palm Pilot wrestled my
-
-entire computer to the mat, sucked out the
-
-data and bleeped its thanks.
-
-Better still, the Palm Pilot's simple and
-
-transparent operating system has encour-
-
-aged thousands of young software devel-
-
-opers to create programs for it-often dis-
-
-tributed for free. They are pushing the
-
-Palm Pilot to its limits, creating Web
-
-browsers, guitar tuners, alarm clocks and
-
-hundreds of other applications for the plat-
-
-form-all available in an easy download
-
-from the Internet (at sites like www.pilot-
-
-gear.com or www.pilotfaq.com).
 
 It was while downloading a Palm Pilot
 
