@@ -9,7 +9,6 @@ notes: June 1998
 refs: ''
 sources: ''
 categories: []
-published: false
 
 ---
 I never thought I was the type of person who would join a cult, but I did. It's not a cult of personality, but one of technology. It's the cult of the Palm Pilot--a simple hand-held computer and operating system that accounts for over 60 percent of the global "personal digital assistant"--or PDA--market.
