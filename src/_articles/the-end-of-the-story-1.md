@@ -44,14 +44,10 @@ _"Mystery Science Theater 3000"_ teaches an even more advanced lesson in media l
 
 In recapitulated media, the audience's moment of reward is shifted away from the hero's daring escape, and onto the viewer's own ability to orient himself in an increasingly complex mediaspace. Instead of experiencing vicarious relief from tension and absorbing the associated message, the screenager gets the joy of making momentary sense and associations in a chaotic culture. He gets his bearings.
 
-xxx
-
 Of course the problem for programmers is that this brand of media makes viewers more aware, not less. Just as surely as "video killed the radio star," Beavis and Butthead killed the rock video.
 
-Sponsors might not like us screenagers as much as the hypnotized audiences they enjoyed in the past. But they've already lost
-
-us.
+Sponsors might not like us screenagers as much as the hypnotized audiences they enjoyed in the past. But they've already lost us.
 
 They bred our ironic distance from the TV by abusing their privilege as the medium's exclusive purveyors, and programming their audiences into a consumerist frenzy whose devastating cultural effects haven't even fully played themselves out. Their only choice now is to provide us with television that addresses our anxiety in confronting a world as dauntingly chaotic as ours has become.
 
-And, in a meta-ironic justice, those who choose to do so will get great ratings..
+And, in a meta-ironic justice, those who choose to do so will get great ratings.
