@@ -24,89 +24,15 @@ I didn't understand it myself until I put my demo unit into its cradle so it cou
 
 Better still, the Palm Pilot's simple and transparent operating system has encouraged thousands of young software developers to create programs for it--often distributed for free. They are pushing the Palm Pilot to its limits, creating Web browsers, guitar tuners, alarm clocks and hundreds of other applications for the platform--all available in an easy download from the Internet (at sites like www.pilot-gear.com or www.pilotfaq.com).
 
+It was while downloading a Palm Pilot e-mail program, in fact, that the essence of the cult made itself apparent to my unworthy senses. The whole program downloaded in less than two seconds. I was sure I had made a mistake, but no. And, frankly, it does just about everything that the latest version of Microsoft's gargantuan e-mail program does.
+
+That's when it hit me: I've been spending thousands of dollars and hours nursing and upgrading a monstrosity that doesn't really do anything more for me than a hand-held PDA. Sure, it's nice to have a keyboard, and I like a big monitor, but the machine and its operating system have gotten so unwieldy that no layperson knows how to program for it anymore--only the high priests do. The Palm Pilot exposed the inefficiency of my desktop and the nightmare that Windows has become.
+
+Now, hundreds of thousands of people are waking up from the same dream and forming grassroots communities around this new, accessible platform with the passion and zealotry of the original Mac-heads. Many Web-site designers have begun the process of simplifying their interfaces so that they can be accessed from the primitive but spunky little browsers that run on the Pilot. In short, the Palm Pilot is forcing us to reassess our priorities in computing and networking. I, for one, am better for it.
+
+Microsoft, however, is aware of this new threat and is releasing its own version of a palm computer. Though it may look and feel like a Palm Pilot, I say it's time we draw our line in the sand. If its track record is any indication, Microsoft's entry into the palm computing market will only serve to increase our dependence on the Windows system.
+
 xxx
-
-It was while downloading a Palm Pilot
-
-e-mail program, in fact, that the essence
-
-of the cult made itself apparent to my
-
-unworthy senses. The whole program
-
-downloaded in less than two seconds. I
-
-was sure I had made a mistake, but no.
-
-And, frankly, it does just about everything
-
-that the latest version of Microsoft's gar-
-
-gantuan e-mail program does.
-
-That's when it hit me: I've been spend-
-
-ing thousands of dollars and hours nursing
-
-and upgrading a monstrosity that doesn't
-
-really do anything more for me than a hand-
-
-held PDA. Sure, it's nice to have a keyboard,
-
-and I like a big monitor, but the machine and
-
-its operating system have gotten so
-
-unwieldy that no layperson knows how to
-
-program for it anymore-only the high
-
-priests do. The Palm Pilot exposed the inef-
-
-ficiency of my desktop and the nightmare
-
-that Windows has become.
-
-Now, hundreds of thousands of people
-
-are waking up from the same dream and
-
-forming grassroots communities around
-
-this new, accessible platform with the pas-
-
-sion and zealotry of the original Mac-heads.
-
-Many Web-site designers have begun the
-
-process of simplifying their interfaces so
-
-that they can be accessed from the primi-
-
-tive but spunky little browsers that run on
-
-the Pilot. In short, the Palm Pilot is forcing
-
-us to reassess our priorities in computing
-
-and networking. I, for one, am better for it.
-
-Microsoft, however, is aware of this new
-
-threat and is releasing its own version of a
-
-palm computer. Though it may look and feel
-
-like a Palm Pilot, I say it's time we draw our
-
-line in the sand. If its track record is any indi-
-
-cation, Microsoft's entry into the palm com-
-
-puting market will only seNe to increase our
-
-dependence on the Windows system.
 
 But keep the faith. If we demonstrate
 
