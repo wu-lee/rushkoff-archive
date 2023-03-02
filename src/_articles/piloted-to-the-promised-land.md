@@ -12,63 +12,13 @@ categories: []
 published: false
 
 ---
-never thought I was the type of per-
+I never thought I was the type of person who would join a cult, but I did. It's not a cult of personality, but one of technology. It's the cult of the Palm Pilot--a simple hand-held computer and operating system that accounts for over 60 percent of the global "personal digital assistant"--or PDA--market.
 
-i son who would join a cult, but I did.
+Most religious cults attract the disgruntled, disillusioned members of more organized religions. Alienated by the institutionalization of spirituality, they flock to smaller groups where their relationship to God seems more direct and the nature of the universe demystified.
 
-It's not a cult of personality, but one
+Likewise, the members of my cult had become disenchanted with the increasingly inscrutable world of the PC. Many of us have already sold our souls to the devil, surrendering our Macintoshes for the seemingly global compatibility of Windows. Quickly caught up in an endless cycle of upgrades, we became slaves to our machines. Colossal programs ate our RAM and our paychecks. They seemed "easier" to use, but distanced us from the workings of our machines. And the more opaque they got, the less we understood about what we were doing. We were lost.
 
-of technology. It's the cult of the
-
-Palm Pilot-a simple hand-held com-
-
-puter and operating system that accounts
-
-for over 60 percent of the global "personal
-
-digital assistant"-or PDA-market.
-
-Most religious cults attract the dis-
-
-gruntled, disillusioned members of more
-
-organized religions. Alienated by the insti-
-
-tutionalization of spirituality, they flock to
-
-smaller groups where their relationship to
-
-God seems more direct and the nature of
-
-the universe demystified.
-
-Likewise, the members of my cult had
-
-become disenchanted with the increasing-
-
-ly inscrutable world of the PC. Many of us
-
-have already sold our souls to the devil,
-
-surrendering our Macintoshes for the
-
-seemingly global compatibility of
-
-Windows. Quickly caught up in an endless
-
-cycle of upgrades, we became slaves to
-
-our machines. Colossal programs ate . our
-
-RAM and our paychecks. They seemed .
-
-"easier" to use, but distanced us from the
-
-workings of our machines. And the more
-
-opaque they got, the less we understood
-
-about what we were doing. We were lost.
+xxx
 
 The tiny Palm Pilot, reminiscent of the
 
