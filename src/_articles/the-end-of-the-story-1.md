@@ -14,11 +14,11 @@ published: false
 ---
 We call the stuff on television programming for a reason. No, television programmers are not programming television sets or evening schedules; they're programming the viewers. Whether they are convincing us to buy a product, vote for a candidate, adopt an ideology, or simply confirm a moral platitude, the underlying reason for making television is to hold onto our attention and then sell us a bill of goods.
 
-xxx
-
 Since the time of the Bible and Aristotle through today's over-determined three-act action movies, the best tool at the programmer's disposal has been the story. But thanks to technologies like the remote, the joystick and the mouse, it just doesn't work anymore.
 
 The traditional story works by bringing the audience into a state of tension. The storyteller creates a character we like, and gets us to identify with the hero's plight. Then the character is put into jeopardy of one sort or another. As the character moves up the incline plane towards crisis, the audience follows him vicariously, while taking on his anxiety as their own. Helplessly we follow him into danger, disease or divorce, and just when we can't take any more tension without bursting, our hero finds a way out. He finds a moral, a product, an agenda, or a strategy that rescues him, and us his audience, from the awful anxiety.
+
+xxx
 
 The higher the level of tension the programmer has been able to create, the more preposterous the hero's twist can get. Shirley Maclaine is only granted a minor insight in "Terms of Endearment" while Arnold Schwarzenegger has the luxury of breathing on Mars in "Total Recall." But whatever solution the character finds, the audience must swallow it, too. Along with or filmmaker's it, we swallow the sponsor agenda. This is what it means to "enter- tain"-literally "to hold within"- and it only works on a captive audience. In the old days
 
