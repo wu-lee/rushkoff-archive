@@ -32,26 +32,4 @@ Now, hundreds of thousands of people are waking up from the same dream and formi
 
 Microsoft, however, is aware of this new threat and is releasing its own version of a palm computer. Though it may look and feel like a Palm Pilot, I say it's time we draw our line in the sand. If its track record is any indication, Microsoft's entry into the palm computing market will only serve to increase our dependence on the Windows system.
 
-xxx
-
-But keep the faith. If we demonstrate
-
-our commitment to the Palm Pilot,
-
-Microsoft will have to submit to our bidding.
-
-Get ready for the onslaught of standardiza-
-
-tion assaults. Even if we lose and the Palm
-
-Pilot is wiped out by what will surely be a
-
-smore colorful and better-marketed PDA. let
-
-us not forget this brief moment in comput-
-
-ing history when real people understood the
-
-code. And remember: every great cult gains
-
-strength through its very persecution .
+But keep the faith. If we demonstrate our commitment to the Palm Pilot, Microsoft will have to submit to our bidding. Get ready for the onslaught of standardization assaults. Even if we lose and the Palm Pilot is wiped out by what will surely be a smore colorful and better-marketed PDA, let us not forget this brief moment in computing history when real people understood the code. And remember: every great cult gains strength through its very persecution.
