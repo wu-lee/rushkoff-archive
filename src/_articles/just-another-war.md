@@ -1,0 +1,283 @@
+---
+publication: _publications/exposure.md
+title: Just Another War
+subtitle: ''
+image: ''
+date: 1990-04-01 05:00:00 +0000
+blurb: ''
+notes: April/May 1990
+refs: ''
+sources: ''
+categories: []
+published: false
+
+---
+xxx
+
+W•·r,• lnot st 1·
+
+.
+
+oppe, _m rush-hour traffic
+
+ontlwSnnt· 1\\1 • F \~, on1ca reeway last week
+
+1 would n,,,.,.,. h • I h ' 11· k " a\\'e 110111·et I e spartan '•11 W • graffitim ti , 1 · 1 . 1 l e , lllco nBl\\'d . overpass: "The
+
+. arOn Drugs lsJustAnothcr War." Whal I took
+
+a tfirsttoL11, .
+
+11 I I ' lro-pol s ogan s owlv hcgan to make
+
+mort• SPnsc as I considered the ·realities of thP
+
+Bush 11dminislration 's so-called "war on drugs.''
+
+and the a ll-purpose role it now plays in our defense policies, budgt't decisions. social programs
+
+and ,lisinformation strategies.
+
+When examined
+
+objecti\\'el)' . the
+
+war on drugs appears just as- or
+
+even more--ludicrous than any of
+
+the other wars we
+
+have waged since
+
+Vietnam. Its purpose has nothing
+
+to do with keeping
+
+toxi c substances
+
+out of the bloodstreams of our citizens. It has e\\'erything to do with
+
+s ustai ning the
+
+mi•th of a namable
+
+enemy to United
+
+States security.
+
+I
+
+,A
+
+We love things
+
+with names. Since
+
+World War II. we
+
+ha\\'e had the convenience of a militarist i c-1 oo king
+
+Communist bloc
+
+to call our enemy.
+
+We used Communism as an excuse
+
+to create the CIA,
+
+which put into
+
+place a right-wing
+
+infrastru c tur e
+
+capable of surviving even two or
+
+three liberal presidenci es. The
+
+Agency's original
+
+official purpose
+
+was to gather information about potential outbreaks of Communist activity or aggression . Now that Eastern
+
+Eumpe has herniated and the Cold War has
+
+ended - al least in its ability to fright en the
+
+American people into paranoia - the Bush
+
+administration and its National Security Council
+
+need a new hate-inspiring foreign invader. They
+
+hav,: ,•vcn found one that can ' t talk back: drugs,
+
+Drugs are not an 1•ncmy in themselves. They urc
+
+inanimult• objects. They ha\\'e no will of their own.
+
+A war on drugs is like a war ugainst wuter liccu ns,•
+
+it ,lrowns peoplt•. lightning l11·•·aus1• it sh,wks
+
+p1'01,le . or kni v,•s b1·1·aus1· th••)' stah p1•011l1•. TIii'
+
+'fu\~ rortrls ore merrl y ,ul,•s un,I distribution
+
+0
+
+BY DOUGLAS RUSHKOFF
+
+· f a •kt-I tha t ori"i- enterprises. They sa t1 s y H m •
+
+natecl riirht he re on American soil. A war on
+
+addicts i:a war against the uml,·rprivilegt>d youth
+
+of America and the psychnlogicall\\' ill ntt"mhcrs of
+
+the middlt· and upp1·r classes. II makes no spnsP
+
+\- unless it is viewed in the conh·xt of the ongoing
+
+propaganda war being wagPd on tlw American
+
+pcoplt> hy tlwir own governnwnt .
+
+j
+
+J
+
+I
+
+George Bush first declared battle in his No\\'ember '89TV address. He held up a bag of crack and
+
+told us that it was purchased in the park across
+
+the street from the White House. He did not tell
+
+us the event was staged. The Drug Enforcement
+
+Agency expended quite a bit of effort to find a
+
+drug dealer who would tra\\'el to Lafayette Park to
+
+make the drop. People don 't deal drugs there.
+
+But Bush 's spccchwriters wanted to make a clramatic poinl . Tlwytlid: thewarondrugsisadrama
+
+stag1•1l for the lwnPfit of tlw Administration·s ,lisinformution c·ampaign. It is a sham.
+
+It is an t•x,·usc to fund wars in r.ountrit•s wr can
+
+l'ull "druµ t•xporh•rs."' It is 1111 1•x1·us1• to pad th,·
+
+military hudget, C\\'Cn thou"h the Def en D " se epartment _a_s recently as last year told us that there was
+
+no m1htary answer to the drug problem. II is an
+
+excuse to blame nations and people we do not like.
+
+L1k<' all excuses. it is a way of drawing attention
+
+away from ou r own indiscre ti ons.
+
+It is more than roincidental that the drug of
+
+choicf' on Ameri ca·s streets was heroin wJ1t-. n we
+
+wrre funding an illegal war in Southeast Asia. and
+
+that it changed to t·ocaine when we be•an ft 1· " 1ncmg
+
+an illegal war in
+
+Central America.
+
+We know the same
+
+planes that carried arms to Central America were
+
+used to carry cocaine back to th,•
+
+United States on
+
+their return trip .
+
+The Costa Riean
+
+go\\'ernment has
+
+eonclucl ed th a t
+
+our CIA bureau
+
+chiefs helped-at
+
+leas! bi· looking
+
+the other wai· -
+
+direr! the flow of
+
+c ocaine up
+
+through Central
+
+America. " . e befriend drug kingpins like Noriega
+
+"'·lwn it is ronvrnient. and declare
+
+war on them fo r
+
+being drug kingpins wh en thev
+
+mi\~bf'have.
+
+Meanwhile. here
+
+at home. the only
+
+prog rams that
+
+stand a ehance of
+
+arresting the drug
+
+problem - education. housing,
+
+health care. even
+
+drug rehabilita -
+
+tion - are being
+
+cut. The wealthy
+
+don·t even have to
+
+fee l so bad about
+
+cutting these programs. because the only people who stand to
+
+profit by them are ·'drugged-out"· slum-dwellers.
+
+The war on drugs gi\\'es us all an opportunity to
+
+hat e the guys who rip the radios out of our da shboards. and to feel less guilty when we dri ve
+
+through bad neighborhoods. As long as the middleclass identifies with the rich and f,,,•ls ,·onlt•mpt
+
+for the poor. prejudice. fear. and s<·lf-intt•re,t" ill
+
+rule social poliey.
+
+The war on drUf!!- i:- wor\~c• than .. ju:-- t anothf' r
+
+war. \~- II is a dangJ·rous luHt '\\ . It pc•qu•tuah .. s a forl'ign poliry that .-lc•pt .. nrl!- on irnagirwd enrmi('s in
+
+orrlt•r lo \~111"\\'in·. whil1· su\~tainin\~ a 1lomr-!-ti r
+
+aml,ian,•t• of hatrP,I a111I blanw.
