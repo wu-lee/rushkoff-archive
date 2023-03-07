@@ -14,83 +14,11 @@ published: false
 ---
 Were I not stopped in rush-hour traffic on the Santa Monica Freeway last week, I would never have noticed the spartan black graffiti on the Lincoln Blvd. overpass: "The War On Drugs Is Just Another War." What I took at first to be a pro-pot slogan slowly began to make more sense as I considered the realities of the Bush administration's so-called "war on drugs," and the all-purpose role it now plays in our defense policies, budget decisions, social programs and disinformation strategies.
 
+When examined objectively, the war on drugs appears just as--or even more--ludicrous than any of the other wars we have waged since Vietnam. Its purpose has nothing to do with keeping toxic substances out of the bloodstreams of our citizens. It has everything to do with sustaining the myth of a namable enemy to United States security.
+
+We love things with names. Since World War II, we have had the convenience of a militaristic-looking Communist bloc to call our enemy. We used Communism as an excuse to create the CIA, which put into place a right-wing infrastructure capable of surviving even two or three liberal presidencies. The Agency's original official purpose was to gather information about potential outbreaks of Communist activity or aggression. Now that Eastern Europe has herniated and the Cold War has ended--at least in its ability to frighten the American people into paranoia--the Bush administration and its National Security Council need a new hate-inspiring foreign invader. They have even found one that can't talk back: drugs.
+
 xxx
-
-When examined
-
-objecti\\'el)' . the
-
-war on drugs appears just as- or
-
-even more--ludicrous than any of
-
-the other wars we
-
-have waged since
-
-Vietnam. Its purpose has nothing
-
-to do with keeping
-
-toxi c substances
-
-out of the bloodstreams of our citizens. It has e\\'erything to do with
-
-s ustai ning the
-
-mi•th of a namable
-
-enemy to United
-
-States security.
-
-I
-
-,A
-
-We love things
-
-with names. Since
-
-World War II. we
-
-ha\\'e had the convenience of a militarist i c-1 oo king
-
-Communist bloc
-
-to call our enemy.
-
-We used Communism as an excuse
-
-to create the CIA,
-
-which put into
-
-place a right-wing
-
-infrastru c tur e
-
-capable of surviving even two or
-
-three liberal presidenci es. The
-
-Agency's original
-
-official purpose
-
-was to gather information about potential outbreaks of Communist activity or aggression . Now that Eastern
-
-Eumpe has herniated and the Cold War has
-
-ended - al least in its ability to fright en the
-
-American people into paranoia - the Bush
-
-administration and its National Security Council
-
-need a new hate-inspiring foreign invader. They
-
-hav,: ,•vcn found one that can ' t talk back: drugs,
 
 Drugs are not an 1•ncmy in themselves. They urc
 
