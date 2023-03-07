@@ -12,31 +12,9 @@ categories: []
 published: false
 
 ---
+Were I not stopped in rush-hour traffic on the Santa Monica Freeway last week, I would never have noticed the spartan black graffiti on the Lincoln Blvd. overpass: "The War On Drugs Is Just Another War." What I took at first to be a pro-pot slogan slowly began to make more sense as I considered the realities of the Bush administration's so-called "war on drugs," and the all-purpose role it now plays in our defense policies, budget decisions, social programs and disinformation strategies.
+
 xxx
-
-W•·r,• lnot st 1·
-
-.
-
-oppe, _m rush-hour traffic
-
-ontlwSnnt· 1\\1 • F \~, on1ca reeway last week
-
-1 would n,,,.,.,. h • I h ' 11· k " a\\'e 110111·et I e spartan '•11 W • graffitim ti , 1 · 1 . 1 l e , lllco nBl\\'d . overpass: "The
-
-. arOn Drugs lsJustAnothcr War." Whal I took
-
-a tfirsttoL11, .
-
-11 I I ' lro-pol s ogan s owlv hcgan to make
-
-mort• SPnsc as I considered the ·realities of thP
-
-Bush 11dminislration 's so-called "war on drugs.''
-
-and the a ll-purpose role it now plays in our defense policies, budgt't decisions. social programs
-
-and ,lisinformation strategies.
 
 When examined
 
