@@ -18,67 +18,13 @@ When examined objectively, the war on drugs appears just as--or even more--ludic
 
 We love things with names. Since World War II, we have had the convenience of a militaristic-looking Communist bloc to call our enemy. We used Communism as an excuse to create the CIA, which put into place a right-wing infrastructure capable of surviving even two or three liberal presidencies. The Agency's original official purpose was to gather information about potential outbreaks of Communist activity or aggression. Now that Eastern Europe has herniated and the Cold War has ended--at least in its ability to frighten the American people into paranoia--the Bush administration and its National Security Council need a new hate-inspiring foreign invader. They have even found one that can't talk back: drugs.
 
+Drugs are not an enemy in themselves. They are inanimate objects. They have no will of their own. A war on drugs is like a war against water because it drowns people, lightning because it shocks people, or knives because they stab people. The drug cartels are merely sales and distribution enterprises. They satisfy a market that originated right here on American soil. A war on addicts is a war against the underprivileged youth of America and the psychologically ill members of the middle and upper classes. It makes no sense--unless it is viewed in the context of the ongoing propaganda war being waged on the American people by their own government.
+
+George Bush first declared battle in his November '89 TV address. He held up a bag of crack and told us that it was purchased in the park across the street from the White House. He did not tell us the event was staged. The Drug Enforcement Agency expended quite a bit of effort to find a drug dealer who would travel to Lafayette Park to make the drop. People don't deal drugs there. But Bush's speechwriters wanted to make a dramatic point. They did: the war on drugs is a drama staged for the benefit of the Administration's disinformation campaign. It is a sham.
+
+It is an excuse to fund wars in countries we can call "drug exporters." It is an excuse to pad the military budget, even though the Defense Department as recently as last year told us that there was no military answer to the drug problem. It is an excuse to blame nations and people we do not like. Like all excuses, it is a way of drawing attention away from our own indiscretions.
+
 xxx
-
-Drugs are not an 1•ncmy in themselves. They urc
-
-inanimult• objects. They ha\\'e no will of their own.
-
-A war on drugs is like a war ugainst wuter liccu ns,•
-
-it ,lrowns peoplt•. lightning l11·•·aus1• it sh,wks
-
-p1'01,le . or kni v,•s b1·1·aus1· th••)' stah p1•011l1•. TIii'
-
-'fu\~ rortrls ore merrl y ,ul,•s un,I distribution
-
-0
-
-BY DOUGLAS RUSHKOFF
-
-· f a •kt-I tha t ori"i- enterprises. They sa t1 s y H m •
-
-natecl riirht he re on American soil. A war on
-
-addicts i:a war against the uml,·rprivilegt>d youth
-
-of America and the psychnlogicall\\' ill ntt"mhcrs of
-
-the middlt· and upp1·r classes. II makes no spnsP
-
-\- unless it is viewed in the conh·xt of the ongoing
-
-propaganda war being wagPd on tlw American
-
-pcoplt> hy tlwir own governnwnt .
-
-j
-
-J
-
-I
-
-George Bush first declared battle in his No\\'ember '89TV address. He held up a bag of crack and
-
-told us that it was purchased in the park across
-
-the street from the White House. He did not tell
-
-us the event was staged. The Drug Enforcement
-
-Agency expended quite a bit of effort to find a
-
-drug dealer who would tra\\'el to Lafayette Park to
-
-make the drop. People don 't deal drugs there.
-
-But Bush 's spccchwriters wanted to make a clramatic poinl . Tlwytlid: thewarondrugsisadrama
-
-stag1•1l for the lwnPfit of tlw Administration·s ,lisinformution c·ampaign. It is a sham.
-
-It is an t•x,·usc to fund wars in r.ountrit•s wr can
-
-l'ull "druµ t•xporh•rs."' It is 1111 1•x1·us1• to pad th,·
 
 military hudget, C\\'Cn thou"h the Def en D " se epartment _a_s recently as last year told us that there was
 
