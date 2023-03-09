@@ -10,6 +10,7 @@ notes: Dec. 1999 issue
 refs: ''
 sources: ''
 categories:
+- _categories/periodicals.md
 - _categories/technology-internet.md
 - _categories/magazines.md
 
