@@ -1,13 +1,15 @@
 ---
 title: Yahoo Wins the Web
 subtitle: 
-date: '2012-07-19T04:00:00.000Z'
+date: 2012-07-19T04:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 (CNN) -- This week's announcement that Yahoo is hiring away Google exec Marissa Mayer as its latest CEO has been met by both Wall Street and the tech industry by yawns and worse.
 
