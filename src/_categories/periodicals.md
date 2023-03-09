@@ -1,5 +1,4 @@
 ---
 title: Periodicals
-published: false
 
 ---
