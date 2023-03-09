@@ -1,12 +1,15 @@
 ---
 title: You CAN Take It With You!
 subtitle: 
-date: 2003-10-26T17:00:00.000Z
+date: 2003-10-26T17:00:00.000+00:00
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/technology-internet.md
+- _categories/periodicals.md
 
 ---
 Number portability is finally set to arrive in the United States. Providers are bracing themselves for the biggest change in their industry since ‘mobile’ meant car phone.
