@@ -3,13 +3,15 @@ publication: _publications/medium.md
 title: Will Star Fleet Ever Launch the USS George Floyd?
 subtitle: Why sci-fi shows should start naming spaceships after social justice heroes.
 image: "/uploads/1_updykqemxkdkxm6njsie_a.jpeg"
-date: 2021-10-15 00:00:00 -0400
+date: 2021-10-15T00:00:00.000-04:00
 blurb: How about Star Trek build the USS George Floyd? Or the Science Vessel Greta
   Thunberg? What about the Alicia Garza Institute of Intergalactic Peace?
 notes: 'Source: [https://rushkoff.medium.com/will-star-fleet-ever-launch-the-uss-george-floyd-b6bbafef43c9](https://rushkoff.medium.com/will-star-fleet-ever-launch-the-uss-george-floyd-b6bbafef43c9
   "https://rushkoff.medium.com/will-star-fleet-ever-launch-the-uss-george-floyd-b6bbafef43c9")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 It’s cool that William Shatner, now 90, [got to go to space for real](https://uk.news.yahoo.com/william-shatner-blasts-space-blue-152639514.html?guce_referrer=ahr0chm6ly93d3cuz29vz2xllmnvbs8&guce_referrer_sig=aqaaamcdqrukbji5sq-relm1kn8r2eeflihkk3g2wphdzdy9ubag0au2ms3af8oipoyk3eol5ui62vnllowdwt3j2lnlwynxggkff7msxjjjb0djtczl58fz2epcd7dzrajmv_t9cmdzma98mbcvtitdfmskol8wk_jwyckndtdorijt). But as James T. Kirk crossed over from Star Trek’s fictional U.S.S. Starship Enterprise to Jeff Bezos’s real-world Blue Origin, I couldn’t help but wonder what would happen if we started crossing things over the other way. What if instead of bringing fictional TV heroes into space, we better represented our real world heroes in television’s science fiction futures?
