@@ -3,12 +3,15 @@ publication: _publications/medium.md
 title: Yearning for Proof
 subtitle: The real incentive for blockchains
 image: "/uploads/0_1hjzkw47k3s82wmk.jpg"
-date: 2022-04-10 00:00:00 -0400
+date: 2022-04-10T00:00:00.000-04:00
 blurb: ''
 notes: 'Source: [https://onezero.medium.com/yearning-for-proof-82d178672a78](https://onezero.medium.com/yearning-for-proof-82d178672a78
   "https://onezero.medium.com/yearning-for-proof-82d178672a78")'
 refs: ''
 sources: ''
+categories:
+- _categories/technology-internet.md
+- _categories/websites-blogs.md
 
 ---
 I’ve made no secret of my skepticism about the blockchain as a solution for our economic woes. Yes, the economy is tilted, corrupt, and easily gamed — but the solution is likely social, not technological. While national, debt-based central currencies create terrible incentives, abstractions, and growth mandates, moving our transactions to a decentralized ledger maintained by wealthy hackers may not truly be any better. And most people know this, deep down.
