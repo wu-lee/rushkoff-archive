@@ -10,6 +10,7 @@ fields:
   label: title
   description: A short human-readable title for the category
 pages:
+- src/_categories/book-chapters.md
 - src/_categories/crypto.md
 - src/_categories/facebook.md
 - src/_categories/periodicals.md
