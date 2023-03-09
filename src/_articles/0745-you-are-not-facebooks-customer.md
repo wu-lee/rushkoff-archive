@@ -1,13 +1,15 @@
 ---
 title: You Are Not Facebook's Customer
 subtitle: 
-date: 2011-09-23T04:00:00.000Z
+date: 2011-09-23T04:00:00.000+00:00
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
 categories:
+- _categories/technology-internet.md
+- _categories/websites-blogs.md
 - _categories/facebook.md
 
 ---
