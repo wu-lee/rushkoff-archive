@@ -1,7 +1,7 @@
 ---
 title: Will ISPs Begin Spying on Users?
 subtitle: 
-date: '2012-07-06T04:00:00.000Z'
+date: 2012-07-06T04:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -15,7 +15,9 @@ refs: '[{"text"=>"your Internet service provider may begin monitoring your accou
   {"text"=>"subsequent comments", "original"=>"http://news.cnet.com/8301-31001_3-57397452-261/riaa-chief-isps-to-start-policing-copyright-by-july-1/?tag=mncol;topStories"},
   {"text"=>"Murdoch newspapers could successfully bribe Scotland Yard.", "original"=>"http://topics.nytimes.com/top/reference/timestopics/organizations/n/news_of_the_world/index.html"}]'
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 (CNN) -- This month, if everything goes according to schedule, your Internet service provider may begin monitoring your account, just to make sure you aren't doing anything wrong with it -- like sharing copyrighted movie or music files. While we might all agree that copyright holders need to be protected, we may not all be equally happy about all of our communications being checked for violations. People and businesses who are not doing anything illegal may still have some things they wish to hide from their Internet access providers.
 
