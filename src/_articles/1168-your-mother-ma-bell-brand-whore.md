@@ -1,13 +1,16 @@
 ---
 title: 'Your Mother: Ma Bell, Brand Whore?'
 subtitle: 
-date: '2004-05-21T16:00:00.000Z'
+date: 2004-05-21T16:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/technology-internet.md
+- _categories/periodicals.md
+
 ---
 AT&T's MVNO deal with Sprint points to a new telecom infrastructure strategy.
 
