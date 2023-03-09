@@ -8,7 +8,6 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/technology-internet.md
 - _categories/periodicals.md
 
 ---
