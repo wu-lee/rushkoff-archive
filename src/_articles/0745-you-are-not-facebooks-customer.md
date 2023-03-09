@@ -8,9 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/technology-internet.md
-- _categories/websites-blogs.md
-- _categories/facebook.md
+- _categories/periodicals.md
 
 ---
 The ire and angst accompanying Facebook's most recent tweaks to its interface are truly astounding. The complaints rival the irritation of AOL's dial-up users back in the mid-'90s, who were getting too many busy signals when they tried to get online. The big difference, of course, is that AOL's users were paying customers. In the case of Facebook, which we don't even pay to use, we aren't the customers at all.
