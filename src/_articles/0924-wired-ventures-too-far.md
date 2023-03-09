@@ -1,14 +1,16 @@
 ---
 title: Wired Ventures Too Far
 subtitle: 
-date: '1997-02-01T05:00:00.000Z'
+date: 1997-02-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The humbling of Wired Magazine, and why we should welcome them back into the
   real world
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Wired Magazine and its parent company, Wired Ventures, were once the crown jewel of the Silicon Empire. The editors of this magazine earnestly believed they were the heralds of the coming digital civilization, and hundreds of corporate CEO's took them at their word. As much concerned with hype as content, Wired's publishers positioned themselves as the exclusive purveyors of computer culture to the rest of the world. And everyone seemed to buy it - until now.
 
