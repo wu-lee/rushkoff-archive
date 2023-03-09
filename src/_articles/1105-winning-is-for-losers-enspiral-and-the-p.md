@@ -1,13 +1,15 @@
 ---
 title: 'Winning Is for Losers: Enspiral and the Politics of Consent'
 subtitle: 
-date: '2018-11-07T17:00:00.000Z'
+date: 2018-11-07T17:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 I receive more than 100 emails a day from people with great ideas for social change, new democratic platforms, eco-villages, and alternative currencies. Some of them have already written eloquent white papers, created gorgeous renderings, or plotted out cyclic revenue streams that seem to challenge the laws of perpetual motion. These are well-meaning people, with great educations and skills, turning their attention to the most pressing “wicked problems” of our age.
 
