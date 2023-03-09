@@ -11,5 +11,6 @@ fields:
   description: A short human-readable title for the category
 pages:
 - src/_categories/book-chapters.md
+- src/_categories/fiction-miscellaneous.md
 - src/_categories/periodicals.md
 - src/_categories/scholarship.md
