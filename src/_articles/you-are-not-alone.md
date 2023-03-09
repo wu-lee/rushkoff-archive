@@ -9,7 +9,6 @@ notes: 2004 from CV
 refs: ''
 sources: ''
 categories:
-- _categories/television-media.md
 - _categories/book-chapters.md
 
 ---
