@@ -1,15 +1,16 @@
 ---
 title: World Conquest through Bottom Up Media
 subtitle: 
-date: '2003-04-02T17:00:00.000Z'
+date: 2003-04-02T17:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
----
+categories:
+- _categories/periodicals.md
 
+---
 So how do the owners of handheld wireless devices take over the world? Easy. By using them.
 
 Perhaps it more a testament to the sorry state of democracy in the United States than to any ‘renaissance shift’ that cell phones offer a genuine opportunity to restore the public will to national affairs. Our mishandled, if not miscounted, presidential election put the fate of the highest office in the land in the hands of the Supreme Court, who gleefully expanded its own powers in order to do so. The next set of congressional elections featured such anti-democratic tactics as handing out flyers in poor neighborhoods announcing that the election would be held on the wrong day, or that all traffic tickets would have to be paid to officials waiting outside the voting booth.
@@ -41,4 +42,3 @@ A bottom-up media might not change our political problems overnight, but it woul
 Bottom-up media, fueled by the proliferation of personal wireless technology, is the only media worthy of today’s renaissance society.
 
 Douglas Rushkoff lectures about media, society, and change at conferences and universities around the world.
-
