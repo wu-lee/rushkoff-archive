@@ -1,16 +1,14 @@
 ---
 title: your.name.here
 subtitle: 
-date: 1996-12-01T05:00:00.000Z
+date: 1996-12-01T05:00:00.000+00:00
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Paul Garrin's alternate network of nameservers ROCKS
 notes: 
 refs: 
 sources: 
 categories:
-- _categories/technology-internet.md
 - _categories/periodicals.md
-- _categories/magazines.md
 
 ---
 What's in a name? When it comes to the Internet, more than meets the eye. A few select companies are making millions of dollars selling official Web site names to people and organizations around the world, and countless others are hoping to cash in buy "prospecting" names they think someone else might want to use in the future.
