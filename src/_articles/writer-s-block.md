@@ -3,11 +3,13 @@ publication: _publications/breakthrough-proven-strategies-to-overcome-creative-b
 title: Writer's Block
 subtitle: ''
 image: ''
-date: 2012-09-12 00:00:00 -0400
+date: 2012-09-12T00:00:00.000-04:00
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 I don't believe in writer's block.
