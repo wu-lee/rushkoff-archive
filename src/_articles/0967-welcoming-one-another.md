@@ -1,13 +1,15 @@
 ---
 title: Welcoming One Another
 subtitle: 
-date: '2003-04-25T04:00:00.000Z'
+date: 2003-04-25T04:00:00.000Z
 publication: _publications/jewish_week.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 So just who is allowed to participate in the conversation that is Judaism, anyway? Is it a blood test, a history of contributions to the right philanthropies, or a working knowledge of the Talmud that earns one a place at the table?
 
