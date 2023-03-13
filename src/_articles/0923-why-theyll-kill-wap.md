@@ -1,13 +1,15 @@
 ---
 title: Why They'll Kill Wap
 subtitle: 
-date: '2001-04-01T05:00:00.000Z'
+date: 2001-04-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The Good Old Days of Text-Only Websites
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Okay, I'll let you in on a secret. There's currently a way to access an Internet as fast, convenient, and uncluttered as it was in the old days before banner ads, animated gifs, and cookie attacks. It's the streamlined, text-only world of WAP -- a scaled-down World Wide Web meant to be accessed only by cellular phones and pda's.
 
