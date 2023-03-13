@@ -1,7 +1,7 @@
 ---
 title: Why I Am Learning to Code and You Should, Too
 subtitle: 
-date: '2012-01-16T05:00:00.000Z'
+date: 2012-01-16T05:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -41,7 +41,9 @@ refs: '[{"text"=>"Codecademy", "original"=>"http://www.codecademy.com/#!/exercis
   Start with HTML, CSS, JavaScript, SQL, Python, Data Science, and more. ", "images"=>[{"url"=>"https://images.codecademy.com/social/logo-codecademy-social.png"}]},
   "favicon"=>"https://www.codecademy.com/favicon.ico"}}]'
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 (CNN) -- This week, New York's Mayor Michael Bloomberg tweeted his intent to learn computer code by the end of the year. He joined about 300,000 other people who have signed up at CodeYear to receive free interactive programming lessons each week from the Codecademy, a web-based tutorial. I am greatly relieved.
 
