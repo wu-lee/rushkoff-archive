@@ -1,13 +1,15 @@
 ---
 title: Twelve Steps to Sustainable Business
 subtitle: 
-date: '2017-12-15T17:00:00.000Z'
+date: 2017-12-15T17:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Nobody cares about how we got here. They just want solutions for how to get out of the trap. CEOs are struggling to create value for corporations programmed only to accumulate more capital, drain local economies, and externalize the costs.
 

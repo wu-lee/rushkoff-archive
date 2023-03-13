@@ -1,12 +1,14 @@
 ---
 title: Twitter Is Not a Failure
 subtitle: 
-date: 2016-02-18T05:00:00.000Z
+date: 2016-02-18T05:00:00.000+00:00
 publication: _publications/atlantic.md
 blurb: 
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 To listen to Wall Street tell the story, Twitter is an abject failure. The stock is down more than 50 percent since co-founder Jack Dorsey took over as CEO last year. User growth and revenue prospects have stagnated, and investors see little chance of a major turnaround.
