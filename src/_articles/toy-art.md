@@ -3,11 +3,13 @@ publication: _publications/art-toys.md
 title: Toy Art
 subtitle: ''
 image: ''
-date: 2010-09-01 00:00:00 -0400
+date: 2010-09-01T00:00:00.000-04:00
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 My friend Andrew had always known about this kind of stuff before I did. He took me on the N-Judah into San Francisco's "real" Chinatown (the Inner Sunset district - not that tourist trap downtown) and into an inconspicuous, fairly ratty store with comic books, video games, playing cards, and books - all in Japanese.
