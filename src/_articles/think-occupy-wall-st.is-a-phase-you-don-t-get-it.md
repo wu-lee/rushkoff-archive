@@ -1,14 +1,16 @@
 ---
 title: Think Occupy Wall St. Is a Phase? You Don’t Get It
 subtitle: ''
-date: 2011-10-05 00:00:00 -0400
+date: 2011-10-05T00:00:00.000-04:00
 publication: _publications/cnn.md
 blurb: ''
 notes: Pasted from https://www.cnn.com/2011/10/05/opinion/rushkoff-occupy-wall-street/index.html
   , edited for formatting
 refs: ''
 sources: ''
-image: /uploads/think-occupy-wall-st.is-a-phase-you-don-t-get-it.jpg
+image: "/uploads/think-occupy-wall-st.is-a-phase-you-don-t-get-it.jpg"
+categories:
+- _categories/periodicals.md
 
 ---
 Like the spokesmen for Arab dictators feigning bewilderment over protesters’ demands, mainstream television news reporters finally training their attention on the growing Occupy Wall Street protest movement seem determined to cast it as the random, silly blather of an ungrateful and lazy generation of weirdos. They couldn’t be more wrong and, as time will tell, may eventually be forced to accept the inevitability of their own obsolescence.

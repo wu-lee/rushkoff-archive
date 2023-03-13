@@ -3,12 +3,14 @@ publication: _publications/holland-herald.md
 title: Think Like a Geek
 subtitle: ''
 image: ''
-date: 2007-10-01 00:00:00 -0400
+date: 2007-10-01T00:00:00.000-04:00
 blurb: In this _Holland Herald_ exclusive, Douglas Rushkoff explains why outsourcing
   is out and embracing your inner nerd is what it's all about
 notes: October 2007
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 What distinguishes you from your competition? Your brand? Your customer database? Your distribution? Your product? I beg to differ. In the long run, the only thing that distinguishes your business from anyone else's is your smarts.
