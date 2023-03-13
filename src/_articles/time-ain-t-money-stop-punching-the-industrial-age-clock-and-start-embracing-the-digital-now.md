@@ -4,7 +4,7 @@ title: 'Time Ain''t Money: Stop Punching the Industrial Age Clock, and Start Emb
   the Digital Now'
 subtitle: ''
 image: ''
-date: 2013-04-10 00:00:00 -0400
+date: 2013-04-10T00:00:00.000-04:00
 blurb: ''
 notes: |-
   Source: [http://web.archive.org/web/20130415120832/http://changethis.com/manifesto/104.01.PresentShock/pdf/104.01.PresentShock.pdf](http://web.archive.org/web/20130415120832/http://changethis.com/manifesto/104.01.PresentShock/pdf/104.01.PresentShock.pdf "http://web.archive.org/web/20130415120832/http://changethis.com/manifesto/104.01.PresentShock/pdf/104.01.PresentShock.pdf")
@@ -12,6 +12,8 @@ notes: |-
   Date: [https://www.porchlightbooks.com/blog/changethis/2013/time-ain-t-money-stop-punching-the-industrial-age-clock-and-start-embracing-the-digital-now-](https://www.porchlightbooks.com/blog/changethis/2013/time-ain-t-money-stop-punching-the-industrial-age-clock-and-start-embracing-the-digital-now- "https://www.porchlightbooks.com/blog/changethis/2013/time-ain-t-money-stop-punching-the-industrial-age-clock-and-start-embracing-the-digital-now-")
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 Living in the digital media environment changes a whole lot more than the technologies through which we do business; it has changed our relationship to time, and this is having profound effects on our businesses, our economy, and our customers. 
