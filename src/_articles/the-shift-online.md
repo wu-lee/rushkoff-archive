@@ -3,11 +3,13 @@ publication: _publications/solstice-shift-magical-blend-s-synergistic-guide-to-t
 title: The Shift Online
 subtitle: ''
 image: ''
-date: 1997-01-01 00:00:00 -0500
+date: 1997-01-01T00:00:00.000-05:00
 blurb: ''
 notes: ''
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 Although I like to think of myself as "clued in" to the motions of nature, they seem to evade me. But that's finally beginning to change. I write mostly about technology and its effects on culture and spirituality. I see technology as a real extension of nature--an expression of the evolutionary drive towards complexity and consciousness. It wasn't always this way. As originally implemented, technology was developed to deny the underlying patterns of nature. We invented electric lights to deny the blackness of night and the rhythm of daybreak. Heat and air conditioning allowed us to deny the climactic cycle of the seasons. Irrigation helped us conquer the patterns of weather. We fly in planes to break the laws of distance and break multiple time zones in just a few hours, throwing our bodies out of their own circadian rhythms. We invent pills from dexedrine to melatonin to convince our bodies otherwise, then wonder why we feel so out of touch. In this scenario, nature is the enemy and human technology keeps it at bay.
