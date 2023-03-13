@@ -1,13 +1,15 @@
 ---
 title: These Streets Were Made for Talking
 subtitle: 
-date: '2004-06-01T16:00:00.000Z'
+date: 2004-06-01T16:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Using utterly backwards-compatible technologies, a new mobile service lets city streets tell their histories to anyone with a cell phone.
 
