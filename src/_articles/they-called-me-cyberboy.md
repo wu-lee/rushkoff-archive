@@ -3,11 +3,13 @@ publication: _publications/time-digital.md
 title: They Called Me Cyberboy
 subtitle: ''
 image: ''
-date: 1997-01-01 00:00:00 -0500
+date: 1997-01-01T00:00:00.000-05:00
 blurb: ''
 notes: Date listed in different places as 1996, 1997, or April 12 2009
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 Not so long ago, I could freak people out by talking about cyberculture. It was fun. They'd laugh nervously when I'd say they'd be using email someday. They'd call me "cyberboy" and mean it as an insult. I felt like a renegade.
