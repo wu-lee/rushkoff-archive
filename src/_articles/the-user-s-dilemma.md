@@ -3,11 +3,13 @@ publication: _publications/follow-for-now-vol.2-more-interviews-with-friends-and
 title: The User's Dilemma
 subtitle: ''
 image: ''
-date: 2010-10-08 00:00:00 -0400
+date: 2010-10-08T00:00:00.000-04:00
 blurb: ''
 notes: Date given on first page; book published in 2021
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 For over two decades. Douglas Rushkoff has been dragging us all out near the horizon, trying to show us glimpses of our own future. Though he's written books on everything from counterculture and video games to advertising and Judaism, he's always maintained a media theorist's bent: one part Marshall McLuhan, one part Neil Postman, and one part a mix of many significant others. _Program or Be Programmed: Ten Commands for a Digital Age_ (O/R Books, 2010) finds him back at the core of what he does. Simply put, this little book, running just shy of 150 pages, is the missing manual for our wild, wired world.
