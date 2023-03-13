@@ -1,13 +1,15 @@
 ---
 title: We Are Not the Virus. We Are the Kamikazes.
 subtitle: 
-date: '2020-04-20T16:00:00.000Z'
+date: 2020-04-20T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 understand why environmentalists have concluded that Covid-19 is nature’s way of repelling human activity. If we’re going to keep mucking around with Earth’s biodiversity, climate, topsoil, oceans, and air, eventually nature’s going to respond. In this view, the virus is nature’s own antibodies, repelling human invasion.
 

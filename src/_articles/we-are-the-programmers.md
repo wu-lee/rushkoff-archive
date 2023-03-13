@@ -3,12 +3,14 @@ publication: _publications/adbusters.md
 title: We Are the Programmers
 subtitle: ''
 image: ''
-date: 2000-11-10 00:00:00 -0500
+date: 2000-11-10T00:00:00.000-05:00
 blurb: ''
 notes: "Date from Dropbox.  \nText from [http://web.archive.org/web/20101128032028/http://rushkoff.com/articles/articles-and-essays/we-are-the-programmers/](http://web.archive.org/web/20101128032028/http://rushkoff.com/articles/articles-and-essays/we-are-the-programmers/
   \"http://web.archive.org/web/20101128032028/http://rushkoff.com/articles/articles-and-essays/we-are-the-programmers/\")"
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 It all began with the remote control.

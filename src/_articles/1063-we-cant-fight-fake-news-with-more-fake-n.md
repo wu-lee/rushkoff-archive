@@ -1,14 +1,16 @@
 ---
 title: We Can’t Fight Fake News with More Fake News
 subtitle: 
-date: '2021-06-01T16:00:00.000Z'
+date: 2021-06-01T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
-image: /uploads/1063-we-cant-fight-fake-news-with-more-fake-n.jpeg
+image: "/uploads/1063-we-cant-fight-fake-news-with-more-fake-n.jpeg"
+categories:
+- _categories/periodicals.md
+
 ---
 Every piece, no matter how short, offers the writer an opportunity to cross the line — to exaggerate, fabricate, or cherry pick facts in a way that ever-so-slightly misrepresents reality for what feels like the greater good. Whether writing an extended essay about the conflict in the Middle East, or a single tweet about Covid policies, there’s always a moment where we can choose to press on the truth just a little too hard. It scores an easy hit, generates more reaction, and maybe even gets us to the next rung of social media celebrity.
 
