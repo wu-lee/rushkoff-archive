@@ -4,12 +4,14 @@ title: What Are the Pressing Scientific Issues for the Nation and the World, and
   Is Your Advice on How I Can Begin to Deal With Them?
 subtitle: ''
 image: ''
-date: 2003-01-01 00:00:00 -0500
+date: 2003-01-01T00:00:00.000-05:00
 blurb: ''
 notes: '[https://www.edge.org/response-detail/11712](https://www.edge.org/response-detail/11712
   "https://www.edge.org/response-detail/11712")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 A modest super-fund to explore alternative, non-resource-based energy sources could solve a great majority of the world's problems. But it would need to be accompanied by an equally serious look at our commodities-based economic model. Our chief obstacle to sustainable energy technology might not be scientific at all, but economic. What would happen to the oil industry if we no longer needed oil?
