@@ -4,13 +4,15 @@ title: What? Your Assets at Coinbase are Not Safe?
 subtitle: The coming crypto crash may take down more than the tokens, but this is
   actually good for the blockchain
 image: "/uploads/0_zp_l4iekwldgm4ew.jpg"
-date: 2022-05-11 00:00:00 -0400
+date: 2022-05-11T00:00:00.000-04:00
 blurb: I feel bad for these investors if they get screwed, but maybe it’s the only
   way for people to learn what the blockchain is and isn’t for.
 notes: 'Source: [https://rushkoff.medium.com/what-your-assets-at-coinbase-are-not-safe-3ad20708a888](https://rushkoff.medium.com/what-your-assets-at-coinbase-are-not-safe-3ad20708a888
   "https://rushkoff.medium.com/what-your-assets-at-coinbase-are-not-safe-3ad20708a888")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 Retail crypto investors, already reeling from recent losses, were additionally shocked this week to learn that should Coinbase or one of the other exchanges go bankrupt, [the assets in their accounts may not be safe](https://fortune.com/2022/05/11/coinbase-bankruptcy-crypto-assets-safe-private-key-earnings-stock/). In a worst-case scenario, investors who keep their tokens at Coinbase would have to line up with all the other creditors to get whatever portion of their investments is left.
