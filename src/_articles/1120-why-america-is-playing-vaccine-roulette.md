@@ -1,13 +1,15 @@
 ---
 title: Why America Is Playing Vaccine Roulette
 subtitle: 
-date: '2019-07-31T16:00:00.000Z'
+date: 2019-07-31T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 I got shingles last week. I went to sleep scratching what I thought was a particularly nasty bug bite, and woke up with what felt like a thousand of them — only they burned right down to the bone. Too much stress, I told myself. Too many appointments and emails and commitments, competing for my nervous system’s attention.
 
@@ -48,5 +50,3 @@ Meanwhile, in many cases, declining a vaccine puts the entire community at risk.
 Sometimes it seems like our society has been paralyzed by a faulty immune response to the vaccination issue itself. Like a runaway internet meme, vaccines trigger our nation’s currently troubled relationships with science and authority, facts and social media, and individual liberty and collective welfare.
 
 Just as our bodies learn to recognize a virus once and then remain immune for a lifetime, we must learn to recognize the cultural code embedded in the vaccination wars, and engage honestly and openly with one another about the fears — real and fake. The notion of herd immunity (that a certain percentage of the population needs to be vaccinated to protect the group) applies equally well to ideas. Inoculating ourselves with some hard science would allow us to expose ourselves to thoughtful questions without doing real damage.
-
-
