@@ -1,13 +1,15 @@
 ---
 title: The Wireless Background
 subtitle: 
-date: '2003-08-23T16:00:00.000Z'
+date: 2003-08-23T16:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 In the Great Blackout of 2003, it was the landlines that worked, and the cell phones that failed.
 
