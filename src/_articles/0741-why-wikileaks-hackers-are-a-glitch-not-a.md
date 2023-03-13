@@ -1,7 +1,7 @@
 ---
 title: Why Wikileaks Hackers Are a Glitch, Not a Cyberwar
 subtitle: 
-date: '2010-12-10T00:00:00.000Z'
+date: 2010-12-10T00:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -19,7 +19,9 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   and went. Visa, PayPal, MasterCard and Amazon report no significant damage, and
   business goes on as usual. The corporations acting to cut off WikiLeaks remain safe.
   Although many are unsettled by the […]", "dateLastCrawled"=>"2020-05-02T18:53:00.0000000Z"}]'
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Like a momentary glitch on a flat-panel display, the attacks by hackers calling themselves "Anonymous" came and went. Visa, PayPal, MasterCard and Amazon report no significant damage, and business goes on as usual. The corporations acting to cut off WikiLeaks remain safe.
 

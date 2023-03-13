@@ -1,13 +1,15 @@
 ---
 title: Why You Don’t Have to Feel Too Sick About What Happened Last Night
 subtitle: 
-date: 2020-09-30T16:00:00.000Z
+date: 2020-09-30T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-image: /uploads/1058-why-you-dont-have-to-feel-too-sick-about.jpeg
+image: "/uploads/1058-why-you-dont-have-to-feel-too-sick-about.jpeg"
+categories:
+- _categories/periodicals.md
 
 ---
 I admit, it was a hard night. I’ve finally reached the point in my career where I get to live-tweet a debate on behalf of a publication. But now that I’ve gotten here, presidential politics has deteriorated beyond recognition. Tuesday night was a sick, depressing spectacle closer to late-stage Jerry Springer than civic discourse.
