@@ -3,12 +3,14 @@ publication: _publications/nyt_syndicate_guardian_of_london.md
 title: 'Warning: This Film Contains Digital Images'
 subtitle: ''
 image: ''
-date: 2000-05-31 00:00:00 -0400
+date: 2000-05-31T00:00:00.000-04:00
 blurb: ''
 notes: '[https://www.theguardian.com/technology/2000/jun/01/onlinesupplement8](https://www.theguardian.com/technology/2000/jun/01/onlinesupplement8
   "https://www.theguardian.com/technology/2000/jun/01/onlinesupplement8")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 I thought it was just me. About half an hour into the Ridley Scott action picture Gladiator, I got a strange sort of headache. It began somewhere behind my eyes, and quickly travelled back into my brain. I had a vague memory of the sensation, and as the burly characters hacked at one another inside a computer-rendered Roman Coliseum, I realised when I had experienced this same headache before: travelling to Jar-Jar Binks's underwater home city in Star Wars, The Phantom Menace.
