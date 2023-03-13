@@ -3,7 +3,7 @@ publication: _publications/nonprofit-quarterly.md
 title: 'The Sustainability Prerogative: Nonprofits in the Future of our Economy'
 subtitle: ''
 image: ''
-date: 2017-04-25 00:00:00 -0400
+date: 2017-04-25T00:00:00.000-04:00
 blurb: ''
 notes: |-
   Source: [https://nonprofitquarterly.org/douglas-rushkoff-non-profit-sustainability/](https://nonprofitquarterly.org/douglas-rushkoff-non-profit-sustainability/ "https://nonprofitquarterly.org/douglas-rushkoff-non-profit-sustainability/")
@@ -11,6 +11,8 @@ notes: |-
   Image: nonprofitquarterly.org/wp-content/uploads/2016/04/google-bus-e1461764855795.jpg
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 _Douglas Rushkoff’s best-selling books on media and popular culture, including_ [Present Shock](http://www.rushkoff.com/books/present-shock/)_, have been translated to over thirty languages. He is Professor of Media Theory and Digital Economics at CUNY/Queens, technology and media commentator for CNN, digital literacy advocate for_ [_Codecademy.com_](https://www.codecademy.com/ja/rushkoff) _and a lecturer on media, technology, culture, and economics around the world._
