@@ -1,13 +1,15 @@
 ---
 title: Tinseltown 2.0
 subtitle: 
-date: '2005-02-23T17:00:00.000Z'
+date: 2005-02-23T17:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 University of Southern California's Interactive Media Division takes on mobile technology
 
@@ -36,4 +38,3 @@ For Bleecker, this means marrying technological innovation with social change. "
 Student work so far has focused on the relationship of location, mobility and narrative. For example, Will Carter's "Location33" leads its participants on various paths through the Culver City neighborhood, where "nodes scattered around the area contain musical fragments that when linked together, form a song." The interdepartmental effort, "Pathalog," employs GPS and centralized information storage to offer users relevant data based on their recorded paths through the city. In my favorite so far, a collaborative effort called Tracking Agama an urban ethnographer 'bot' takes users on a mystery tour through the city, as he gradually slips into lunacy.
 
 Unlike the other projects, Tracking Agama takes Los Angeles itself into account, and marries local reality with universal principles in the way Bleecker and Ito's mobile philosophies would suggest. If it's an indication of where the program is headed, Los Angeles may just establish itself as the nexus of yet another entertainment industry -- and give its many denizens something to do while sitting motionless in their mobiles.
-
