@@ -1,12 +1,14 @@
 ---
 title: Why Mark Zuckerberg thinks a President Elizabeth Warren would 'suck'
 subtitle: 
-date: 2019-10-01T13:27:00.000Z
+date: 2019-10-01T13:27:00.000+00:00
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 If there's one thing that seems to scare Mark Zuckerberg to the bone, it's the threat of a functional government that represents the interests of its citizens. To him, government appears to be the faceless bureaucracy that slaps him on the wrist with a $5 billion fine when his company spies too much or too illegally on his users.
