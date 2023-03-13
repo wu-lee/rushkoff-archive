@@ -1,7 +1,7 @@
 ---
 title: Why Reining in Google Is Good for Us
 subtitle: 
-date: '2012-05-04T04:00:00.000Z'
+date: 2012-05-04T04:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -49,7 +49,9 @@ refs: '[{"text"=>"challenging", "original"=>"http://www.nytimes.com/2012/04/28/t
   "original"=>"http://www.sabine.k12.la.us/zhs/Webintro/gopher.html", "meta"=>{"title"=>"Error
   404 - Page Not Found", "favicon"=>"http://www.sabine.k12.la.us/favicon.ico"}}]'
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 *Google is in the cross hairs as the Federal Trade Commission and European Commission are challenging the firm's monopoly.*
 

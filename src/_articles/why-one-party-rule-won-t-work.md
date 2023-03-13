@@ -3,12 +3,14 @@ publication: _publications/medium.md
 title: Why One Party Rule Won’t Work
 subtitle: The problem with my proposal for a new centrist Democratic Party
 image: "/uploads/0_szzwfesgchj-erng.jpg"
-date: 2022-02-06 00:00:00 -0500
+date: 2022-02-06T00:00:00.000-05:00
 blurb: ''
 notes: 'Source: [https://rushkoff.medium.com/why-one-party-rule-wont-work-84eee45c47c5](https://rushkoff.medium.com/why-one-party-rule-wont-work-84eee45c47c5
   "https://rushkoff.medium.com/why-one-party-rule-wont-work-84eee45c47c5")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 Yesterday, I wrote up [a thought experiment](https://rushkoff.medium.com/adjusting-to-one-party-rule-3083d2d07f14) for how the Democratic Party could attempt to preserve the legislative process after Republicans’ [officially ](https://int.nyt.com/data/documenttools/rnc-censure-resolution/58226d40412e4f18/full.pdf)determined their own more centrist members had committed “sabotage,” and defended the Capitol riots as “legitimate public discourse.” I deleted it because I think people were taking my proposal a bit too seriously.
