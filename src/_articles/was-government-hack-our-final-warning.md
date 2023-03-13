@@ -9,6 +9,8 @@ notes: 'Source: https://rushkoff.com/cnn-was-government-hack-our-final-warning/ 
 refs: ''
 sources: ''
 image: ''
+categories:
+- _categories/periodicals.md
 
 ---
 Was this the big one?
