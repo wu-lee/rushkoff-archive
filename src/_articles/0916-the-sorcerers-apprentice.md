@@ -1,13 +1,15 @@
 ---
 title: The Sorcerer's Apprentice
 subtitle: 
-date: '1998-05-01T04:00:00.000Z'
+date: 1998-05-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Why technology has no real life of its own.
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 There's a terrific moment in Walt Disney's Fantasia -- you know the one I mean. Mickey Mouse, playing the Sorcerer's Apprentice, is charged with sweeping up the workshop. He figures he can make his task a little easier by reading out a spell from his master's book, activating the broom to carry a bucket and clean by itself. Mickey gleefully directs the broom with a wave of his arms.
 
