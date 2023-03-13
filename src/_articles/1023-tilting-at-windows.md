@@ -1,12 +1,14 @@
 ---
 title: Tilting at Windows
 subtitle: 
-date: 1998-06-04T04:00:00.000Z
+date: 1998-06-04T04:00:00.000+00:00
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: 
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 No matter how much we Americans might love to hate Bill Gates, we can't help but have mixed feelings about the US Justice Department and the two dozen or so states suing Microsoft for violating anti-trust laws.
