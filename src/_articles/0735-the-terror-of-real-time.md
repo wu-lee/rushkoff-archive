@@ -1,13 +1,15 @@
 ---
 title: The Terror of 'Real Time'
 subtitle: 
-date: '2013-04-22T04:00:00.000Z'
+date: 2013-04-22T04:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 So is this the "new normal"? That's the question I keep hearing as people try to comprehend the tragedy at the Boston Marathon and its chaotic aftermath. The answer is yes -- in more ways than you might think.
 
