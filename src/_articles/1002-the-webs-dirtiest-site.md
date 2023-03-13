@@ -1,7 +1,7 @@
 ---
 title: The Web's Dirtiest Site
 subtitle: 
-date: '2009-08-11T04:00:00.000Z'
+date: 2009-08-11T04:00:00.000Z
 publication: _publications/daily_beast.md
 blurb: When AT&T recently blocked access to a hugely popular hackers' Web site, 4chan.org,
   many of us Internet old-timers froze in place. It was like one of those bad Westerns,
@@ -11,7 +11,9 @@ blurb: When AT&T recently blocked access to a hugely popular hackers' Web site, 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 The 4Chan community—a diehard, if ever-changing assortment of the Net's most-desperate, most-anonymous, and most-wanted, well, punks—smelled censorship, top-down control, and an evil corporation trying to keep down the world's last squat for hackers. They went batshit. The site's founder posted a note telling his minion's to write and complain to AT&T, and the dog whistle having been heard, a posse called "Project AT&T," quickly formed, dedicated to revenge.
 
