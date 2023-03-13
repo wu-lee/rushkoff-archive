@@ -1,13 +1,15 @@
 ---
 title: Upgrade Cycles
 subtitle: 
-date: '1997-12-01T05:00:00.000Z'
+date: 1997-12-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Learning to Say Enough
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 We're supposed to be in favor of innovation. It's a form of evolution. Then why is every new version of software or upgrade of processor feeling like such a drag?
 
