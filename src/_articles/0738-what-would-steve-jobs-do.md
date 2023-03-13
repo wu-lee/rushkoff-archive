@@ -1,13 +1,15 @@
 ---
 title: What Would Steve Jobs Do?
 subtitle: 
-date: '2011-11-11T00:00:00.000Z'
+date: 2011-11-11T00:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 **(CNN)** -- When does a cult become a religion? When the cult leader dies. Only then do L. Ron Hubbard's Dianetics practitioners become the religion of Scientology, the followers of Joseph Smith become full-fledged Mormons, or -- by the same logic -- a few anti-establishment apostles become Christianity.
 

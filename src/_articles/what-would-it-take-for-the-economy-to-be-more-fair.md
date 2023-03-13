@@ -9,6 +9,8 @@ notes: Pasted from https://www.theatlantic.com/business/archive/2015/12/economy-
 refs: ''
 sources: ''
 image: "/uploads/what-would-it-take-for-the-economy-to-be-more-fair.jpg"
+categories:
+- _categories/periodicals.md
 
 ---
 People talk about “the economy” all the time. The economy is growing. The economy is falling apart. The economy is strong.
