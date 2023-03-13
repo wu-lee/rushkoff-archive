@@ -1,13 +1,15 @@
 ---
 title: What happens when anyone can code? We’re about to find out
 subtitle: 
-date: '2016-06-10T16:00:00.000Z'
+date: 2016-06-10T16:00:00.000Z
 publication: _publications/digital_trends.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 We may be moving into an era when everyone can make computer programs, even though they don’t know how to code — at least not in the way we think about coding today.
 
@@ -47,5 +49,3 @@ Maybe most of all, in a world where coding has become a rare and valuable skill,
 That experience alone may be more important than any of the apps we create. It changes the way we perceive the digital landscapes in which we are spending so much of our lives. Right now, it’s all just other people’s software. But with the right tools, it could easily be the ones we envision for ourselves.
 
 I’m ready for that.
-
-
