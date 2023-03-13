@@ -1,15 +1,16 @@
 ---
 title: Walter's Wireless World
 subtitle: 
-date: '2003-12-21T17:00:00.000Z'
+date: 2003-12-21T17:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
----
+categories:
+- _categories/periodicals.md
 
+---
 What would Walter Ong have thought about the current evolution of mobile media, or, What Would Jesus Moblog?
 
 Last month, Howard Rheingold initiated an extraordinary discussion in this space about how Marshall McLuhan might have approached mobile media, and asking us to apply some of the great thinker's Laws of Media to the wireless arena.
