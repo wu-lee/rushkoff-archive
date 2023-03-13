@@ -1,13 +1,15 @@
 ---
 title: We Wish to Inform You That Your Death Is Highly Profitable
 subtitle: 
-date: '2020-03-25T16:00:00.000Z'
+date: 2020-03-25T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Have you heard the good news? Donald Trump is suggesting our freeze on businesses as a measure to curb coronavirus may end as soon as Monday. Yes, allowing people to go back to work could lead to more widespread infection, but the deaths of a few hundred thousand — if not a few million — more of us is a small price to pay for rescuing the American economy from collapse. In the president’s words, “we can’t have the cure be worse than the problem itself.”
 
