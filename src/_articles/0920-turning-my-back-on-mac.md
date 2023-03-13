@@ -1,13 +1,15 @@
 ---
 title: Turning My Back on Mac
 subtitle: 
-date: '1997-05-01T04:00:00.000Z'
+date: 1997-05-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The day I sold my mac...
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 I feel like a traitor.
 
