@@ -3,11 +3,13 @@ publication: _publications/homeland-gameshow.md
 title: 'The UFO Phenomenon: Douglas Rushkoff'
 subtitle: ''
 image: ''
-date: 2005-10-01 00:00:00 -0400
+date: 2005-10-01T00:00:00.000-04:00
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 Track 1: A Personal Opinion of the UFO Phenomenon
