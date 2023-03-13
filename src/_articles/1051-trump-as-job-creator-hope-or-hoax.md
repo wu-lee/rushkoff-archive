@@ -1,12 +1,14 @@
 ---
 title: Trump as job creator -- hope or hoax?
 subtitle: 
-date: 2017-01-18T17:00:00.000Z
+date: 2017-01-18T17:00:00.000+00:00
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 The power of the tweet is in full force.

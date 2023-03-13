@@ -1,13 +1,15 @@
 ---
 title: Trump Believes the Law Itself Is Corruption
 subtitle: 
-date: '2019-11-25T16:56:02.000Z'
+date: 2019-11-25T16:56:02.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 As a kid, I used to wonder if civilization is really just the process by which older, weaker people prevent younger, stronger ones from taking over. By the time the younger ones figure it all out, they’re old enough to need the protection of civilization’s rules themselves.
 
