@@ -3,12 +3,14 @@ publication: _publications/the-edge.md
 title: What Do You Believe Is True Even Though You Cannot Prove It?
 subtitle: ''
 image: ''
-date: 2005-01-01 00:00:00 -0500
+date: 2005-01-01T00:00:00.000-05:00
 blurb: ''
 notes: '[https://www.edge.org/response-detail/10691](https://www.edge.org/response-detail/10691
   "https://www.edge.org/response-detail/10691")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 I can't prove it more than anecdotally, but I believe evolution has purpose and direction. It appears obvious, yet absolutely unconfirmable, that matter is groping towards complexity. While the laws of nature—and time itself—require objects and life forms attain durability and sustainability for survival, it seems to me more a means to an end than an end in itself.
