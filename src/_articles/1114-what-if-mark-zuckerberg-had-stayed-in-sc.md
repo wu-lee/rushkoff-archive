@@ -1,13 +1,15 @@
 ---
 title: What If Mark Zuckerberg Had Stayed in School?
 subtitle: 
-date: '2019-03-21T16:00:00.000Z'
+date: 2019-03-21T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 This month, Facebook founder Mark Zuckerberg has announced yet another new direction for his famously bad-acting company. Now, he says, the platform once responsible for the Cambridge Analytica election fiasco and countless other personal invasions will become the poster child for privacy and encryption. Maybe after all the evasions, missteps, and pivots, Zuckerberg is finally learning from his experiences.
 
