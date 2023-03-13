@@ -1,13 +1,15 @@
 ---
 title: 'We Won: Get Used to It'
 subtitle: 
-date: '2018-10-04T16:00:00.000Z'
+date: 2018-10-04T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Back in 2000, I was invited to appear at Richard Metzger’s famous counterculture festival, DisinfoCon, along with luminaries of the alternative scene like Joe Coleman, Robert Anton Wilson, The Girls of Karen Black, Marilyn Manson, Grant Morrison, Kembra Pfahler, and more. It was a crazy, boisterous, artsy, psychedelic, and rebellious celebration of the weird, the occult, and the odd, all presented under the tagline, “everything you know is wrong.”
 
