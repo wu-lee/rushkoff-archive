@@ -1,12 +1,14 @@
 ---
 title: Why I Left My Publisher in Order to Publish a Book
 subtitle: 
-date: 2010-09-29T23:00:00.000Z
+date: 2010-09-29T23:00:00.000+00:00
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 I'm getting more questions about my latest book than about any other I’ve written. And this is before the book is even out—before anyone has even read the galleys.

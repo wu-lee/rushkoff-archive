@@ -1,13 +1,15 @@
 ---
 title: Why I'm Not Moving to Canada
 subtitle: 
-date: '2006-07-01T04:00:00.000Z'
+date: 2006-07-01T04:00:00.000Z
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Looks like things are going to get worse here in the United States before they get better.
 
