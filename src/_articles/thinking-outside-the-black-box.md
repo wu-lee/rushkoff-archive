@@ -3,13 +3,15 @@ publication: _publications/medium.md
 title: Thinking Outside the Black Box
 subtitle: What the algorithms can’t see may be the most human thing about us
 image: "/uploads/1_wtoj6moe4lr-wwa8ogjvnq.jpeg"
-date: 2019-01-09 00:00:00 -0500
+date: 2019-01-09T00:00:00.000-05:00
 blurb: Facebook’s clumsy efforts to mirror us back to ourselves offer a peek into
   the black boxes that are increasingly coming to dominate our society.
 notes: '[https://medium.com/team-human/the-real-value-of-facebook-19d1d6cb3003](https://medium.com/team-human/the-real-value-of-facebook-19d1d6cb3003
   "https://medium.com/team-human/the-real-value-of-facebook-19d1d6cb3003")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 It feels like we’ve finally reached “peak Facebook.”
