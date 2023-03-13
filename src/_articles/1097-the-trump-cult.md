@@ -1,13 +1,15 @@
 ---
 title: The Trump Cult?
 subtitle: 
-date: '2018-08-17T16:00:00.000Z'
+date: 2018-08-17T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 On October 23, 1863, when the expected apocalypse failed to occur, an estimated 100,000 followers of breakaway Christian prophet William Miller descended from their rooftops in what the mainstream media assumed would be disgrace and embarrassment. “When the world stubbornly refused to come to an end last Spring,” a condescending Pennsylvania Statesmen mused, “notwithstanding the ingenious and elegant calculations of Mr. Miller, we indulged in the hope that the whole affair would be laid on the table, or indefinitely postponed.”
 
@@ -75,4 +77,3 @@ We’re not there, yet, of course. Likely because Trump himself doesn’t seem t
 But of course one man’s messiah is another’s satan, just as one man’s guru is another’s charlatan. Even progressive Americans have watched enough Homeland and Oliver Stone movies to fear that almost anything we fear about our government may well be true. Even some of what Trump is saying.
 
 Ultimately, we can all agree on one thing: At least one half of us are in a cult, being told a pack of lies and marching toward oblivion.
-

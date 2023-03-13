@@ -3,12 +3,14 @@ publication: _publications/the-edge.md
 title: '"The Thing That I Call Doug"'
 subtitle: A Talk with Douglas Rushkoff
 image: ''
-date: 1999-10-25 00:00:00 -0400
+date: 1999-10-25T00:00:00.000-04:00
 blurb: ''
 notes: '[https://www.edge.org/3rd_culture/rushkoff/rushkoff_index.html](https://www.edge.org/3rd_culture/rushkoff/rushkoff_index.html
   "https://www.edge.org/3rd_culture/rushkoff/rushkoff_index.html")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 Introduction by John Brockman
