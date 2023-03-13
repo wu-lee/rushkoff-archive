@@ -3,12 +3,14 @@ publication: _publications/arthur.md
 title: Three More Hamburgers Until You Can Go Home and Watch TV
 subtitle: ''
 image: ''
-date: 2002-12-22 00:00:00 -0500
+date: 2002-12-22T00:00:00.000-05:00
 blurb: ''
 notes: '[https://arthurmag.com/2002/12/22/three-more-hamburgers-until-you-can-go-home-and-watch-tv/](https://arthurmag.com/2002/12/22/three-more-hamburgers-until-you-can-go-home-and-watch-tv/
   "https://arthurmag.com/2002/12/22/three-more-hamburgers-until-you-can-go-home-and-watch-tv/")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 A bunch of you have asked, so here’s a copy of something close to the script that was used for the narration for the CBS Sunday Morning piece I did that ran last week. As you can see, TV makes for a more skeletal analysis. But the pictures do help.
