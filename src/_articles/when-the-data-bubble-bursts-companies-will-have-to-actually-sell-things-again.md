@@ -3,7 +3,7 @@ publication: _publications/fast-company.md
 title: When The Data Bubble Bursts, Companies Will Have To Actually Sell Things Again
 subtitle: ''
 image: ''
-date: 2016-05-13 00:00:00 -0400
+date: 2016-05-13T00:00:00.000-04:00
 blurb: We’re pushing the limits of how much of our economy can exist just collecting
   and selling data to better target ads. Once people realize that’s a losing game,
   we’ll have to get back to a real economy.
@@ -11,6 +11,8 @@ notes: 'Source: [https://www.fastcompany.com/3059722/when-the-data-bubble-bursts
   "https://www.fastcompany.com/3059722/when-the-data-bubble-bursts-companies-will-have-to-actually-sell-things-again")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 How can a company with no revenues still make money? It’s not a trick question. The answer is at the very foundation of the digital economy: advertising.
