@@ -1,14 +1,16 @@
 ---
 title: The Russia Hack Is Not About You
 subtitle: 
-date: '2014-08-06T04:00:00.000Z'
+date: 2014-08-06T04:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: '[{"text"=>"1.2 billion usernames and passwords have been compromised", "original"=>"http://money.cnn.com/2014/08/05/technology/security/russian-hackers-theft/index.html?hpt=hp_t2",
   "archive"=>"http://web.archive.org/web/20190104111836/https://money.cnn.com/2014/08/05/technology/security/russian-hackers-theft/index.html?hpt=hp_t2"}]'
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 **(CNN)** -- Most people's first response on hearing that [1.2 billion usernames and passwords have been compromised](http://money.cnn.com/2014/08/05/technology/security/russian-hackers-theft/index.html?hpt=hp_t2) by a group of Russian hackers? We check our own most important accounts for evidence of misuse, and change our passwords. If a week or two goes by with nothing out of the ordinary happening on our credit cards, we breathe a sigh of relief and go back to life as normal.
 
