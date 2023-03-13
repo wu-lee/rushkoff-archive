@@ -1,14 +1,16 @@
 ---
 title: Why the CDC Should Never Have Gotten Involved in Manufacturing Consent
 subtitle: 
-date: '2021-08-06T16:00:00.000Z'
+date: 2021-08-06T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
-image: /uploads/1070-why-the-cdc-should-never-have-gotten-inv.jpg
+image: "/uploads/1070-why-the-cdc-should-never-have-gotten-inv.jpg"
+categories:
+- _categories/periodicals.md
+
 ---
 I’ve been reading the critique. Everyone seems to hate the CDC these days. After telling vaccinated people in May that we can go maskless, they reversed course last week, instructing everyone to mask up wherever the virus is spreading rapidly.
 
