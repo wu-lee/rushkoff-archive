@@ -3,12 +3,14 @@ publication: _publications/medium.md
 title: We Are Not All Journalists
 subtitle: Social media is work. So how about taking a day off?
 image: "/uploads/0_0ui5_-k3hdz4d37h.jpg"
-date: 2021-11-24 00:00:00 -0500
+date: 2021-11-24T00:00:00.000-05:00
 blurb: ''
 notes: 'Source: [https://forge.medium.com/we-are-not-all-journalists-5d028d235959](https://forge.medium.com/we-are-not-all-journalists-5d028d235959
   "https://forge.medium.com/we-are-not-all-journalists-5d028d235959")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 I was at a convenience store the other night, and watched some kids come in who had just escaped from a party they didn’t really like. As soon as they were inside, though, they pulled out their phones and started watching social media reports from the kids who had stayed.
