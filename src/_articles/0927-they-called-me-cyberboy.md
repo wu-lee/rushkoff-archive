@@ -1,12 +1,14 @@
 ---
 title: They Called Me Cyberboy
 subtitle: 
-date: 1996-01-01 00:00:00 -0500
+date: 1996-01-01T00:00:00.000-05:00
 publication: _publications/time.md
 blurb: 
 notes: Date given as 1996 on CV
 refs: 
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 Not so long ago, I could freak people out by talking about cyberculture. It was fun. They'd laugh nervously when I'd say they'd be using email someday. They'd call me "cyberboy" and mean it as an insult. I felt like a renegade.
