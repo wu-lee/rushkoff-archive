@@ -1,13 +1,15 @@
 ---
 title: To Tell the Truth
 subtitle: 
-date: '2005-06-01T04:00:00.000Z'
+date: 2005-06-01T04:00:00.000Z
 publication: _publications/arthur.md
 blurb: Technologies of Persuasion
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 I'm teaching a course at New York University this coming Fall semester, called “Technologies of Persuasion: Marketing, Politics, and Propaganda in a Digital Age.” And, beyond the title, I didn’t really have anything particular in mind when I pitched the idea to my superiors; only that I was getting sick and tired of students coming to our Interactive Telecommunications Program with little motivation other than to apply new technologies to marketing.
 
