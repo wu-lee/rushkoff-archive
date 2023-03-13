@@ -1,13 +1,15 @@
 ---
 title: Too Clear for Comfort
 subtitle: 
-date: '2006-10-09T05:00:00.000Z'
+date: 2006-10-09T05:00:00.000Z
 publication: _publications/discover.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Like much of America, I, too, wanted my HDTV. Who wouldn't? In a society where bigger is better and seeing is believing, 42 inches of high-definition plasma should be about all any of us needs to make sense of the world from the safety of our living rooms.
 

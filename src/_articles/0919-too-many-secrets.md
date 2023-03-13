@@ -1,13 +1,15 @@
 ---
 title: Too Many Secrets
 subtitle: 
-date: '1996-12-01T05:00:00.000Z'
+date: 1996-12-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Thoughts on Cryptography, Privacy, and Secrets
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 There are secrets, and there are secrets about secrets. Meta-secrets.
 
