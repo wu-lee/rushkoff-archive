@@ -1,13 +1,15 @@
 ---
 title: This Time, It’s Personal
 subtitle: 
-date: '2019-04-03T16:00:00.000Z'
+date: 2019-04-03T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 For the past couple years, I’ve been complaining rather emphatically about the way digital technology has been used to desocialize us — how platforms like Facebook and YouTube turn us against one another by emphasizing our differences and encouraging us to behave like threatened reptiles.
 
