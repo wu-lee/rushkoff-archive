@@ -1,12 +1,15 @@
 ---
 title: Why Uber’s Bid for Platform Monopoly is Dangerous
 subtitle: ''
-date: 2015-10-17 00:00:00 -0400
+date: 2015-10-17T00:00:00.000-04:00
 publication: _publications/medium.md
 blurb: ''
 notes: Pasted from https://rushkoff.medium.com/my-problem-with-uber-all-along-has-been-that-it-s-optimized-for-some-really-specific-utility-but-4bcbeb863903
 refs: ''
 sources: ''
+image: ''
+categories:
+- _categories/periodicals.md
 
 ---
 My problem with Uber all along has been that it’s optimized for a really specific utility, but at the expense of others. It’s a bit like online universities, which offer courses isolated from the fabric of education or a learning community. That’s the nature of any digital business: you get what you program for, but lose everything else — and sometimes it doesn’t come back.

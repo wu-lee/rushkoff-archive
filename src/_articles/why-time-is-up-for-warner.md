@@ -3,12 +3,14 @@ publication: _publications/nyt_syndicate_guardian_of_london.md
 title: Why Time is up for Warner
 subtitle: Douglas Rushkoff on the $300bn deal that's a merger in name only
 image: ''
-date: 2000-01-19 00:00:00 -0500
+date: 2000-01-19T00:00:00.000-05:00
 blurb: '[https://www.theguardian.com/technology/2000/jan/20/onlinesupplement10](https://www.theguardian.com/technology/2000/jan/20/onlinesupplement10
   "https://www.theguardian.com/technology/2000/jan/20/onlinesupplement10")'
 notes: ''
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 No matter how spirited the press conference, or how high the combined worth of the resulting entity - upwards of $300bn - the proposed merger of America Online and [Time Warner](https://www.theguardian.com/media/time-warner) is as desperate a measure for both partners as it is intelligent.
