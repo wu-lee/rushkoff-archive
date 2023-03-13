@@ -1,13 +1,15 @@
 ---
 title: To Have or Have Not
 subtitle: 
-date: '1997-08-01T04:00:00.000Z'
+date: 1997-08-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: What the Increase in Public Accessibility Means
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 In America, the Internet has always been thought of as something you buy. You purchase a computer, stick it in your home somewhere, choose an online service, and then find a fourteen-year-old to set it up for you. The biggest hurdle in getting online has been the fear associated with typing in your credit card number over non-secured phone lines (as if the carbon copy you signed at that restaurant last night is any safer - it isn't).
 
