@@ -1,13 +1,15 @@
 ---
 title: The Wireless Blackout
 subtitle: 
-date: 2008-03-31T04:00:00.000Z
+date: 2008-03-31T04:00:00.000+00:00
 publication: _publications/nokias_the_feature.md
 blurb: In the Great Blackout of 2003, it was the landlines that worked, and the cell
   phones that failed.
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 In the Great Blackout of 2003, it was the landlines that worked, and the cell phones that failed.
