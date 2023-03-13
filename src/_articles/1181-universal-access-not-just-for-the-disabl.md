@@ -1,13 +1,15 @@
 ---
 title: 'Universal Access: Not Just for the Disabled'
 subtitle: 
-date: '2005-01-12T17:00:00.000Z'
+date: 2005-01-12T17:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Paying attention to one group's disabilities enhances usability for everyone else.
 
@@ -32,4 +34,3 @@ On a less invasive and potentially more immediate level, the BrainPort, develope
 Wicab's promotional material reveals a lot about the way such technologies tend to evolve: "Proven applications include normal balance control for disabled vestibular patients, vision for the blind, and a whole new dimension in video games." Tackling inner ear disease brings us a better Super Mario.
 
 Moreover, while direct-to-brain interfaces have the potential to make communications technologies more accessible to people with a broad range of disabilities, they only reinforce the need for us to incorporate universal accessibility strategies sooner than later. After all, you wouldn't want to tab mentally through 20 menus while holding down Menu-Left Arrow just to check your SMS messages while you're seeing with your tongue.
-
