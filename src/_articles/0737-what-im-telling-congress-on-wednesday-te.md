@@ -1,7 +1,7 @@
 ---
 title: 'What I''m Telling Congress on Wednesday: Teach Kids Code'
 subtitle: 
-date: '2012-12-10T00:00:00.000Z'
+date: 2012-12-10T00:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -34,7 +34,9 @@ refs: '[{"text"=>"Computer Science Education Week", "original"=>"http://www.csed
   "site"=>"@wired", "creator"=>"@wired"}, "title"=>"Estonia Reprograms First Graders
   as Web Coders | WIRED", "favicon"=>"http://www.wired.com/favicon.ico"}}]'
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 **(CNN)** -- This week is [Computer Science Education Week](http://www.csedweek.org/), which is being observed around the United States with events aimed at highlighting the promise -- and paucity -- of digital education. The climax of the festivities, for me anyway, will be the opportunity to address members of Congress and their staffers on Wednesday in Washington about the value of digital literacy. I've been an advocate of digital culture for the past 20 years, and this feels like the culmination of a lifetime of arguing.
 
