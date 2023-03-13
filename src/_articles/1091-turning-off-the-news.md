@@ -1,13 +1,15 @@
 ---
 title: Turning Off the “News”
 subtitle: 
-date: '2021-09-10T16:00:00.000Z'
+date: 2021-09-10T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Thanks to recent flooding in my part of the country, I’ve been too busy digging myself and my neighbors out the mud to watch the news or scroll through Twitter. Not surprisingly, I am better for it.
 

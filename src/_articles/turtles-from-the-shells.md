@@ -3,12 +3,14 @@ publication: _publications/new-inquiry.md
 title: Turtles From the Shells
 subtitle: ''
 image: "/uploads/douglas-1.jpg"
-date: 2013-03-11 00:00:00 -0400
+date: 2013-03-11T00:00:00.000-04:00
 blurb: ''
 notes: 'Source: [https://thenewinquiry.com/turtles-from-the-shells/](https://thenewinquiry.com/turtles-from-the-shells/
   "https://thenewinquiry.com/turtles-from-the-shells/")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 **_The end of the world really did happen, just like the Mayans said; but not in the way we thought_**
