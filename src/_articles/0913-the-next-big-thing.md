@@ -1,13 +1,15 @@
 ---
 title: The Next Big Thing
 subtitle: 
-date: '2008-04-17T04:00:00.000Z'
+date: 2008-04-17T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: February 1999
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 "What's with this Internet?" an old friend called to ask me late one night last week. "I mean I know it's a big deal and all," she admitted, "but this is crazy!"
 

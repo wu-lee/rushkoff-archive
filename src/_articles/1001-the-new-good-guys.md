@@ -1,7 +1,7 @@
 ---
 title: The New Good Guys
 subtitle: 
-date: '2009-11-23T00:00:00.000Z'
+date: 2009-11-23T00:00:00.000Z
 publication: _publications/daily_beast.md
 blurb: 'Discussions between Microsoft and Rupert Murdoch''s News Corp. for a structure
   where the former''s search engine (Bing) would pay for exclusive rights to the latter’s
@@ -22,7 +22,9 @@ refs: '[{"text"=>"threat", "original"=>"http://www.thedailybeast.com/articles/20
   "site"=>"@thedailybeast", "creator"=>"", "images"=>[{"url"=>"https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_97,w_174,x_0,y_0/dpr_2.0/c_limit,w_600/f_jpg/fl_lossy,q_auto/v1493134279/articles/2009/11/09/murdoch-to-google-search-this/rushkoff-rupert-murdoch_61742_kcpcy1"}]},
   "favicon"=>"http://www.thedailybeast.com/static/media/favicon.b30a79ed.ico"}}]'
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Defying the logic that everything is more valuable the higher it climbs on Google's search rankings, Rupert Murdoch is making good on his [threat](http://www.thedailybeast.com/articles/2009/11/09/murdoch-to-google-search-this.html) to pull out of Google searchability, altogether. Instead, he wants to be paid for his properties to show up in search results. And Microsoft CEO Steve Ballmer may be desperate enough for a competitive advantage against Google to take Murdoch up on the deal, and offer it to other media companies with content people really want to find.
 
