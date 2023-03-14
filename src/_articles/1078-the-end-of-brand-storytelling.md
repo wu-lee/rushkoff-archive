@@ -1,13 +1,15 @@
 ---
 title: The End of Brand Storytelling
 subtitle: 
-date: '2014-08-01T16:00:00.000Z'
+date: 2014-08-01T16:00:00.000Z
 publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Let me tell you a story. Actually, let me spare you the story, especially when it comes to brand marketing. Don’t you feel better? I certainly would. Just the anticipation of having to sit through a company’s story fills me with dread. Not a lot, but enough to make me turn the page, change the channel, or click on a different link.
 
@@ -24,4 +26,3 @@ On the other end of the spectrum are epic sagas like “Breaking Bad” and �
 For brand storytellers to enter this new paradigm, marketers have to stop telling stories to their constituencies and invite their constituencies to build a story with them; not the story of your brand but the story of your actual product and processes. The successful app company invites users to share what they’ve actually created with the app. The food company’s story is no longer about a Green Giant but about the original recipes shared by chefs using their products on social media. These are the sorts of contributions that are tweeted, retweeted, liked and followed, earning your customers—and your company—the social currency you’re both looking for.
 
 Branded storytelling no longer involves purchasing media time to tell your saga, but rather offering up your product as the medium about which—and even through which—to create new stories together.
-
