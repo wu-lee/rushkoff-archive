@@ -1,13 +1,15 @@
 ---
 title: Suicide Bombs as Viral Media
 subtitle: 
-date: '2005-07-01T04:00:00.000Z'
+date: 2005-07-01T04:00:00.000Z
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 More than any command structure, terrorist organization or ideology, there's an underlying mechanism propelling the recent spate of suicide attacks in London. It's called a media virus.
 
