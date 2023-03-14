@@ -3,12 +3,14 @@ publication: _publications/medium.md
 title: The Future of Work — Part 2
 subtitle: Collaboration is the human employee’s secret weapon
 image: "/uploads/0_thtcdweikhuem49e.jpg"
-date: 2021-09-24 00:00:00 -0400
+date: 2021-09-24T00:00:00.000-04:00
 blurb: ''
 notes: 'Source: [https://marker.medium.com/the-future-of-work-part-two-f7f532ccc6b6](https://marker.medium.com/the-future-of-work-part-two-f7f532ccc6b6
   "https://marker.medium.com/the-future-of-work-part-two-f7f532ccc6b6")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 _This is the second of a two-part series on the future of work. You can read part one_ [_here_](https://rushkoff.medium.com/the-future-of-work-part-one-d51ebc64e1ea)_._
