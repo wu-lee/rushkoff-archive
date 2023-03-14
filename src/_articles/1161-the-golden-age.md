@@ -1,15 +1,16 @@
 ---
 title: The Golden Age
 subtitle: 
-date: '2004-02-18T17:00:00.000Z'
+date: 2004-02-18T17:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
----
+categories:
+- _categories/periodicals.md
 
+---
 Don't take your handheld for granted. This sorry decade may just be remembered as the 'golden age' of wireless devices.
 
 Sure, it's easy to poke fun at the design gaffs and interface inconsistencies on our current cell phones and PDA's. But what if this is as good as it gets?
@@ -35,4 +36,3 @@ None of us knows for sure what's going to replace the microchip, but I've got a 
 I don't think it's too early to call this moment a zenith. We're not in the tube stage, anymore - the equivalent of banging on the top of the set to get the squiggly lines to go away. That was the era of the 'brick phone.' (Whatever happened to Oki, anyway?) No, I suspect we're in that second stage: the early transistor period, the V-8 engine era - the one that goes by too quickly for us to appreciate just how close to their own R&D our devices live. Mass produced, maybe, but quasi-prototypes, all the same.
 
 To me, this makes them classics.
-

@@ -1,12 +1,14 @@
 ---
 title: The GOP Has Ditched Democracy
 subtitle: 
-date: 2018-11-05T17:00:00.000Z
+date: 2018-11-05T17:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 Do we have to accept the sad premise that people are just too dumb, too uninformed, and too easily fooled to vote intelligently or even rationally? Most of the political class, from both sides of the aisle, seem to think so.
