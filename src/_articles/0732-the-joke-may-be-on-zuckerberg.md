@@ -1,7 +1,7 @@
 ---
 title: The Joke May Be on Zuckerberg
 subtitle: 
-date: '2013-04-17T04:00:00.000Z'
+date: 2013-04-17T04:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -25,7 +25,9 @@ refs: '[{"text"=>"Mark Zuckerberg''s announcement", "original"=>"http://hothardw
   leaving because a Forbes writer...", "images"=>[{"url"=>"https://cdn.vox-cdn.com/thumbor/puTx8VZzr6CswSkYdRfaQtRiPvY=/0x51:1020x625/1600x900/cdn.vox-cdn.com/assets/2023319/mark-zuckerberg-theverge-stock-1_1020.jpg"}],
   "site"=>"verge"}, "favicon"=>"https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395351/android-chrome-192x192.0.png"}}]'
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Facebook's latest defense of the mental distraction it creates for its users? It's not a bug, it's a feature!
 
