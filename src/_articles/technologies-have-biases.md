@@ -3,11 +3,13 @@ publication: _publications/this-will-make-you-smarter.md
 title: Technologies Have Biases
 subtitle: ''
 image: ''
-date: 2012-02-14 00:00:00 -0500
+date: 2012-02-14T00:00:00.000-05:00
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 People like to think of technologies and media as neutral and that only their use or content determines their effect. Guns don't kill people, after all; people kill people. But guns are much more biased toward killing people than, say, pillows--even though many a pillow has been utilized to smother an aging relative or adulterous spouse.
