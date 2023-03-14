@@ -3,12 +3,14 @@ publication: _publications/nyt_syndicate_guardian_of_london.md
 title: The Internet Is Not Killing off Conversation but Actively Encouraging It
 subtitle: ''
 image: ''
-date: 2000-06-28 00:00:00 -0400
+date: 2000-06-28T00:00:00.000-04:00
 blurb: The internet is not killing off conversation but actively encouraging it
 notes: '[https://www.theguardian.com/technology/2000/jun/29/onlinesupplement13](https://www.theguardian.com/technology/2000/jun/29/onlinesupplement13
   "https://www.theguardian.com/technology/2000/jun/29/onlinesupplement13")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 However vehemently today's web enthusiasts proclaim that "content is king", I suspect very few have stopped to consider just what this stuff called content really is. If it's anything at all.
