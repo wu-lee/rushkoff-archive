@@ -3,13 +3,15 @@ publication: _publications/nyt_syndicate_guardian_of_london.md
 title: Terror takes aim at the net
 subtitle: ''
 image: ''
-date: 2001-09-19 00:00:00 -0400
+date: 2001-09-19T00:00:00.000-04:00
 blurb: When freedom is under threat, it's time to network, says New Yorker Douglas
   Rushkoff
 notes: '[https://www.theguardian.com/technology/2001/sep/20/internetnews.onlinesupplement3](https://www.theguardian.com/technology/2001/sep/20/internetnews.onlinesupplement3
   "https://www.theguardian.com/technology/2001/sep/20/internetnews.onlinesupplement3")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 The attack on the World Trade Tower is no more an attack on the global economy than it is an attack on the global network. That's right: the internet we've argued over for the past 10 years has been targeted. Given the quality of a lot of what I've read online since the attack, it's hard to be too upset. The internet is at war with itself, when it should be coming to terms with its real enemies.

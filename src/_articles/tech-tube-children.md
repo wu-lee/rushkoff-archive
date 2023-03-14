@@ -3,12 +3,13 @@ publication: _publications/men-s-health.md
 title: Tech-tube children
 subtitle: ''
 image: ''
-date: 1996-10-01 04:00:00 +0000
+date: 1996-10-01T04:00:00.000+00:00
 blurb: The kids who love Sega and Beavis are growing up, and they want your job
 notes: October 1996
 refs: ''
 sources: ''
-categories: []
+categories:
+- _categories/periodicals.md
 
 ---
 Did you ever wonder what happened to those computer nerds who spent years glued to their CRTS? You'll probably end up working with one--if you aren't already. "The screenagers are here, and they will take _no_ prisoners," says Douglas Rushkoff, author of _Playing the Future_ and a leading consultant and lecturer on technology. Weaned on computers, video games and cable TV, younger Generation Xers--whom Rushkoff prefers to call "screenagers"--have evolved into highly adaptable, multitasking humanoids. "Screenagers will teach you how to prosper in the information age, if you let them," says Rushkoff, 34. "But if you're intimidated by them, they'll steamroll you." We decided to ask Rushkoff what we can learn from these young guns.
