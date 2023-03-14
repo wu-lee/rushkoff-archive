@@ -1,13 +1,15 @@
 ---
 title: The Light at the End of the Reality Tunnel
 subtitle: 
-date: '2006-12-27T00:00:00.000Z'
+date: 2006-12-27T00:00:00.000Z
 publication: _publications/arthur.md
 blurb: "(Originally published in [Arthur No. 25/Winter 02006](http://www.arthurmag.com/store/index.php?ID=31))"
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 This has been a very bizarre couple of weeks for me. I changed literary agents, did a bookstore discussion/debate with former *Arthur* columnist Daniel Pinchbeck, learned of Robert Anton Wilson's dire end-of-life financial predicament, and then left my wife and 21-month-old daughter to fly to Germany (where I am right now, stuck in an airport thanks to a canceled flight) to give a talk to a big magazine conglomerate about what makes their publications relevant in a mediaspace fast migrating online.
 
