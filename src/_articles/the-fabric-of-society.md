@@ -3,12 +3,14 @@ publication: _publications/medium.md
 title: The Fabric of Society
 subtitle: How haggling holds us all together
 image: "/uploads/1_tuosfdfzailjjsf2r03amg.jpeg"
-date: 2022-03-30 00:00:00 -0400
+date: 2022-03-30T00:00:00.000-04:00
 blurb: ''
 notes: 'Source: [https://rushkoff.medium.com/the-fabric-of-society-e8e25915096a](https://rushkoff.medium.com/the-fabric-of-society-e8e25915096a
   "https://rushkoff.medium.com/the-fabric-of-society-e8e25915096a")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 I was running late for class last week, so I hopped in the car and drove to the closest parking lot I could find to the CUNY Journalism School, which turned out to be up on the roof of the Port Authority bus terminal. As soon as I arrived up there and saw the sky and the parked cars, I realized I’d been there before.
