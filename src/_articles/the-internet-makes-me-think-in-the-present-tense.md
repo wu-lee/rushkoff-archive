@@ -3,12 +3,14 @@ publication: _publications/the-edge.md
 title: The Internet Makes Me Think in the Present Tense
 subtitle: ''
 image: ''
-date: 2010-01-01 00:00:00 -0500
+date: 2010-01-01T00:00:00.000-05:00
 blurb: ''
 notes: '[https://www.edge.org/response-detail/11430](https://www.edge.org/response-detail/11430
   "https://www.edge.org/response-detail/11430")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 How does the Internet change the way I think? It puts me in the present tense. It's as if my cognitive resources are shifted from my hard drive to my RAM. That which is happening right now is valued, and everything in the past or future becomes less relevant.
