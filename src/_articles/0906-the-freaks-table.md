@@ -1,13 +1,15 @@
 ---
 title: The Freak's Table
 subtitle: 
-date: '2001-01-01T05:00:00.000Z'
+date: 2001-01-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Now that the Internet isn't about dot.com, look who's come out of the woodwork!
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 One of the greatest side-effects of the dot.com bust has got to be the revitalized interest in cool, weird, and artsy technologies. Wall Street will always be Wall Street, and devotees of the NASDAQ pyramid will continue to understand technologies in terms of their speculative potential. But real human beings with more human concerns have gotten over the tech-spec narrative, and begun to poke around the datasphere in search of something fun to do.
 

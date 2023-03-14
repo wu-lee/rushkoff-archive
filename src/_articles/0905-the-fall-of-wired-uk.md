@@ -1,13 +1,15 @@
 ---
 title: The Fall of Wired UK
 subtitle: 
-date: '1997-02-01T05:00:00.000Z'
+date: 1997-02-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Why Wired UK Never Really Existed
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 By pulling the plug on the United Kingdom version of its neon hi-tech monthly, Wired magazine has done more than cancel a publication. It has admitted yet another defeat in its campaign to equate the digital revolution with American-style right-wing libertarianism and to dominate discussions about futurism and cultural ideology with members of its own, highly-regarded posse.
 
