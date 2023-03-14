@@ -1,12 +1,14 @@
 ---
 title: Stimulus, Ass-Backwards
 subtitle: 
-date: 2009-04-16T04:00:00.000Z
+date: 2009-04-16T04:00:00.000+00:00
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 I've been trying to figure out exactly why President Obama’s approach to the economic crisis upsets me so much, so regularly, and I think I figured it out.
