@@ -1,7 +1,7 @@
 ---
 title: The net strikes back
 subtitle: 
-date: 2000-02-14T05:00:00.000Z
+date: 2000-02-14T05:00:00.000+00:00
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Hackers Remind Us That The Internet Isn't A Safe, Suburban Mall Constructed
   Just For Corporate America
@@ -9,6 +9,8 @@ notes: '[https://www.theguardian.com/technology/2000/feb/14/hacking.security](ht
   "https://www.theguardian.com/technology/2000/feb/14/hacking.security")'
 refs: 
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 I know it's wrong. I'm not supposed to get my thrills this way. Still, the recent spate of hacker attacks on major American corporate Web sites brings a smile to my face - and to the faces of almost everyone I speak to about it.

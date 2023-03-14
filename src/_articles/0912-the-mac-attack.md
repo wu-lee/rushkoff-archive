@@ -1,13 +1,15 @@
 ---
 title: The Mac Attack
 subtitle: 
-date: '1997-05-01T04:00:00.000Z'
+date: 1997-05-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Response to My Decision to Leave Mac
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Am I in the doghouse, or what? So far, I have received over 300 angry emails from angry Mac loyalists, damning me to eternal hell for announcing in my last column that I had deserted Apple and bought a Windows machine.  
 The letters - including a few from Apple employees -- raised some great points, but before I can bring myself to respond to them, I have to respond to the flood itself.
