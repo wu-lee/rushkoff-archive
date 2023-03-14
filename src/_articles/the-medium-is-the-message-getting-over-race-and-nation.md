@@ -3,11 +3,13 @@ publication: _publications/what-israel-means-to-me.md
 title: 'The Medium is the Message: Getting Over Race and Nation'
 subtitle: ''
 image: ''
-date: 2007-08-01 00:00:00 -0400
+date: 2007-08-01T00:00:00.000-04:00
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 I love religions. I think they're great great things—as long as no one actually believes in them.
