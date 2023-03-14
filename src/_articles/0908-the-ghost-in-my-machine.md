@@ -1,13 +1,15 @@
 ---
 title: The Ghost in My Machine
 subtitle: 
-date: '1998-09-01T04:00:00.000Z'
+date: 1998-09-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The end of my association with Windows PC's.
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 It looks like I'll have to throw out my computer. Or at least donate it to some institution I don't really care for. Maybe if I take it apart and give away the components, the hex on the machine itself will be broken.
 

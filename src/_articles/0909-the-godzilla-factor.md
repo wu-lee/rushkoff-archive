@@ -1,13 +1,15 @@
 ---
 title: The Godzilla Factor
 subtitle: 
-date: '1998-07-01T04:00:00.000Z'
+date: 1998-07-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Why the movie, and the New Economy, failed.
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 How was Wired magazine to have known that "Godzilla" would prove to be such a flop? With a three month lead-time, America's pre-eminent futurists are bound to make a few wrong guesses. Putting Godzilla on their June cover, in anticipation that the over-budgeted lizard flick would live up to its hype, probably seemed like a good bet.
 
