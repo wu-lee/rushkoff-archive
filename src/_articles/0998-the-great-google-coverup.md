@@ -1,7 +1,7 @@
 ---
 title: The Great Google Coverup?
 subtitle: 
-date: '2010-01-13T05:00:00.000Z'
+date: 2010-01-13T05:00:00.000Z
 publication: _publications/daily_beast.md
 blurb: Google's actions just don't add up. In response to what they say they suspect
   was a Chinese government-supported cyberattack, including hacking into the Gmail
@@ -13,7 +13,9 @@ blurb: Google's actions just don't add up. In response to what they say they sus
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 My fear—for Google and for us—is that the reason they know it's the Chinese government behind these attacks is because Google gave them the key.
 
