@@ -1,13 +1,15 @@
 ---
 title: The Kids Are Back
 subtitle: 
-date: '1998-11-01T05:00:00.000Z'
+date: 1998-11-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Hotline Reinvents the Internet
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 So, am I, like, the last kid on the block to get my Hotline server up and running? It sure seems so. Not since I logged onto the Internet for the first time, back in 1988, and encountered the already-populated chat rooms, bulletin boards, and hacker groups, have I been so overwhelmed by the rate at which a community can grow into an entire world -- without anyone in the over-ground, workaday reality ever finding out.
 
