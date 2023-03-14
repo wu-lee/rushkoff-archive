@@ -1,13 +1,15 @@
 ---
 title: The Dark Side of Reality TV
 subtitle: 
-date: '2007-05-23T04:00:00.000Z'
+date: 2007-05-23T04:00:00.000Z
 publication: _publications/discover.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 We thought they had ended over 40 years ago, but Stanley Milgram's infamous psychology experiments are back—in a crueler and more public form than he ever devised.
 
