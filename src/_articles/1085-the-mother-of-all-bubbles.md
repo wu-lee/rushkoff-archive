@@ -1,13 +1,15 @@
 ---
 title: The Mother of All Bubbles
 subtitle: 
-date: '2014-02-04T16:56:02.000Z'
+date: 2014-02-04T16:56:02.000Z
 publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Want to know the best indicator that we've entered the final phase of a startup bubble? It's the massive success ofShark Tank, the ABC reality hit in which entrepreneurs compete for investment from the likes of Mark Cuban, Barbara Corcoran, and Steven Tisch. The money's real but the show's all in fun - or so I thought, until it began rebroadcasting on business channel CNBC. 
 
@@ -42,4 +44,3 @@ That’s because the shift to digital has changed the capital requirements of bu
 In a sense, the real business of internet startups has become decoupled from the financial frenzy of Angel investing around it. Startups are bound to do what they do: keep starting up. Some will take a lot of capital and blow it. Others will succeed, with or without a stockpile of unnecessary resources. The bubble will pop, and they’ll keep on going - unless they’ve taken in too much money from their investors. 
 
 So if you do end up on the wrong side of the coming “bubble bubble,” think twice before you blame the young startup entrepreneurs who pitched you. After all, on the TV show, it’s the investors who are the sharks in the tank. 
-
