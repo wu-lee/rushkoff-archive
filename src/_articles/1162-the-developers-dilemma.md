@@ -1,13 +1,15 @@
 ---
 title: The Developer's Dilemma
 subtitle: 
-date: '2004-03-09T17:00:00.000Z'
+date: 2004-03-09T17:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 The inability to create a great cell-phone software course may tell us a lot about the plight of independent developers in a development-hostile environment.
 

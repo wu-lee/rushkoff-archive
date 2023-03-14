@@ -3,7 +3,7 @@ publication: _publications/harper-s-magazine.md
 title: The Digital Revolution Eats Its Own
 subtitle: ''
 image: ''
-date: 2000-01-01 00:00:00 -0500
+date: 2000-01-01T00:00:00.000-05:00
 blurb: ''
 notes: |-
   Source: [https://indexarticles.com/arts/harpers-magazine/the-digital-revolution-eats-its-own/](https://indexarticles.com/arts/harpers-magazine/the-digital-revolution-eats-its-own/ "https://indexarticles.com/arts/harpers-magazine/the-digital-revolution-eats-its-own/")
@@ -11,6 +11,8 @@ notes: |-
   Date: January 2000 per [https://harpers.org/archive/2000/01/the-digital-revolution-eats-its-own/](https://harpers.org/archive/2000/01/the-digital-revolution-eats-its-own/ "https://harpers.org/archive/2000/01/the-digital-revolution-eats-its-own/")
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 From an interview with Douglas Rushkoff on Edge (www.edge.org), a Web site edited by John Brockman. Rushkoff’s most recent book is Coercion, published in September by Riverhead Books.
