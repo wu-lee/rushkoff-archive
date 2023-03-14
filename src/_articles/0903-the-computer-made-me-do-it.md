@@ -1,13 +1,15 @@
 ---
 title: The Computer Made Me Do It
 subtitle: 
-date: '1999-06-01T04:00:00.000Z'
+date: 1999-06-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Media-Bashing in America
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 It's media-bashing time again in America. In the ever-lingering wake of the Columbine High School tragedy and failed efforts to enact meaningful gun control legislation that might prevent further murders, Congress is setting its sights on a more phantom menace: "violent" video games. If the cultural conservatives get their way, a law will be passed banning the sale of simulated shoot 'em ups to minors.
 
