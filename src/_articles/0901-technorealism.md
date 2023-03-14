@@ -1,13 +1,15 @@
 ---
 title: Technorealism
 subtitle: 
-date: '1998-03-01T05:00:00.000Z'
+date: 1998-03-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Why I Signed on to the Controversial Middle-Ground
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 I signed on to a cause a few weeks ago: a crusade for rational thinking   about technology and its role in human affairs.
 
