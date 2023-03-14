@@ -1,13 +1,15 @@
 ---
 title: The Epidemic of Civic Amnesia Is Spreading to Liberals
 subtitle: 
-date: '2018-11-14T17:00:00.000Z'
+date: 2018-11-14T17:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 I was at a dinner party the other night when a well-to-do woman I know, an ardent Hillary supporter in the last election, put down her wine glass and said to no one in particular, “Maybe 150 years is long enough.”
 
