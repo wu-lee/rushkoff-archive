@@ -1,13 +1,15 @@
 ---
 title: Their Ridicule Means We Are Winning
 subtitle: 
-date: '2019-02-20T17:00:00.000Z'
+date: 2019-02-20T17:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 It’s easy to underestimate the significance of what’s been happening this year. That’s just the way mainstream media pundits and politicians want it.
 

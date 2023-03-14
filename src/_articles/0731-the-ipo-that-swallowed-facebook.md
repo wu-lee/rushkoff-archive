@@ -1,13 +1,15 @@
 ---
 title: The IPO That Swallowed Facebook
 subtitle: 
-date: '2012-05-15T04:00:00.000Z'
+date: 2012-05-15T04:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Facebook advocates are touting the company's initial public offering this week -- the biggest ever for an Internet company-- as if it will save the net, the economy and the American way. Its detractors see the final chapter in the rise and fall of a smart but solipsistic Harvard dropout, and predict the inevitable decline of Facebook's stock will spell the end to innovation in social media. Internet Bubble 2.0.
 
