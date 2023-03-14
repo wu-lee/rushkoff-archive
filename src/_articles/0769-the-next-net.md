@@ -1,7 +1,7 @@
 ---
 title: The Next Net
 subtitle: 
-date: 2011-01-03T05:00:00.000Z
+date: 2011-01-03T05:00:00.000+00:00
 publication: _publications/shareable.md
 blurb: 
 notes: 
@@ -65,6 +65,8 @@ refs: '[{"text"=>"Glenn Zucman.", "original"=>"http://www.flickr.com/photos/artb
   "width"=>600, "height"=>251}]}, "twitter_card"=>{"card"=>"summary_large_image"},
   "favicon"=>"https://www.shareable.net/wp-content/uploads/2019/03/shareable-favicon.png"}}]'
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 The moment the “net neutrality” debate began was the moment the net neutrality debate was lost. For once the fate of a network –  its fairness, its rule set, its capacity for social or economic reformation – is in the hands of policymakers and the corporations funding them – that network loses its power to effect change. The mere fact that lawmakers and lobbyists now control the future of the net should be enough to turn us elsewhere.

@@ -3,12 +3,14 @@ publication: _publications/medium.md
 title: The Online Economy Is Breaking Businesses, and Stealing Our Time and Energy
 subtitle: ''
 image: ''
-date: 2016-04-09 00:00:00 -0400
+date: 2016-04-09T00:00:00.000-04:00
 blurb: ''
 notes: '[https://rushkoff.medium.com/the-online-economy-is-breaking-businesses-and-stealing-our-time-and-energy-d62382048a64](https://rushkoff.medium.com/the-online-economy-is-breaking-businesses-and-stealing-our-time-and-energy-d62382048a64
   "https://rushkoff.medium.com/the-online-economy-is-breaking-businesses-and-stealing-our-time-and-energy-d62382048a64")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 Transcript from an interview on _BigThink_ about _Throwing Rocks at the Google Bus_ (Portfilio, 2016)
