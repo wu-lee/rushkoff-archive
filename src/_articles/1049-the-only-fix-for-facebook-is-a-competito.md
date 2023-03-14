@@ -1,12 +1,14 @@
 ---
 title: The only fix for Facebook is a competitor that puts users first
 subtitle: 
-date: 2018-04-11T07:57:00.000Z
+date: 2018-04-11T07:57:00.000+00:00
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 Anyone expecting bombshell revelations from Mark Zuckerberg's testimony before Congress may have been disappointed by repetitive questions and circular responses. But that doesn't mean we learned nothing important.
