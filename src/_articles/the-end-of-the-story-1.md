@@ -3,12 +3,13 @@ publication: _publications/telemedium-the-journal-of-media-literacy.md
 title: The End of the Story
 subtitle: How the TV Remote Killed Traditional Structure
 image: ''
-date: 1997-09-01 04:00:00 +0000
+date: 1997-09-01T04:00:00.000+00:00
 blurb: ''
 notes: Fall 1997
 refs: ''
 sources: ''
-categories: []
+categories:
+- _categories/scholarship.md
 
 ---
 We call the stuff on television programming for a reason. No, television programmers are not programming television sets or evening schedules; they're programming the viewers. Whether they are convincing us to buy a product, vote for a candidate, adopt an ideology, or simply confirm a moral platitude, the underlying reason for making television is to hold onto our attention and then sell us a bill of goods.
