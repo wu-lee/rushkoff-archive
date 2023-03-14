@@ -3,12 +3,14 @@ publication: _publications/nyt_syndicate_guardian_of_london.md
 title: Stockbrokers seek a Net profit
 subtitle: ''
 image: ''
-date: 1999-01-21 00:00:00 -0500
+date: 1999-01-21T00:00:00.000-05:00
 blurb: ''
 notes: '[https://www.theguardian.com/technology/1999/jan/21/onlinesupplement4](https://www.theguardian.com/technology/1999/jan/21/onlinesupplement4
   "https://www.theguardian.com/technology/1999/jan/21/onlinesupplement4")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 "What's with this Internet?" an old friend called to ask me late one night last week. "I mean I know it's a big deal and all," she admitted, "but this is crazy!"

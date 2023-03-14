@@ -3,11 +3,13 @@ publication: _publications/2sexe.md
 title: STD Etiquette
 subtitle: ''
 image: ''
-date: 1999-07-30 00:00:00 -0400
+date: 1999-07-30T00:00:00.000-04:00
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 STD Etiquette
