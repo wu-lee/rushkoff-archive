@@ -3,11 +3,13 @@ publication: _publications/this-will-change-everything.md
 title: The Discovery of Intelligent Life Somewhere Else
 subtitle: ''
 image: ''
-date: 2009-12-22 00:00:00 -0500
+date: 2009-12-22T00:00:00.000-05:00
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 We're talking about changing _everything_--not just our abilities, relationships, politics, economy, religion, biology, language, mathematics, history, or future but all of these things at once. The only single event I can see shifting pretty much everything at once is our first encounter with intelligent extraterrestrial life.

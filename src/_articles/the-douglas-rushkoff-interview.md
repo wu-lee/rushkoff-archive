@@ -3,11 +3,13 @@ publication: _publications/write-now.md
 title: The Douglas Rushkoff Interview
 subtitle: ''
 image: ''
-date: 2007-12-01 00:00:00 -0500
+date: 2007-12-01T00:00:00.000-05:00
 blurb: ''
 notes: Winter 2007 issue
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 Conducted in person by **_Jeff Newelt_**, October 2007  
