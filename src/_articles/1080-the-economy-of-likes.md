@@ -1,13 +1,15 @@
 ---
 title: 'The Economy of Likes '
 subtitle: 
-date: '2014-06-01T16:00:00.000Z'
+date: 2014-06-01T16:00:00.000Z
 publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 So in spite of its interactive patina, the digital economy continues the industrial practice of preventing real people from participating in the growth economy – at least as its beneficiaries. We still get to work and we still end up living and socializing on a landscape that feels much more like business than pleasure. There’s just no money. 
 
@@ -123,5 +125,4 @@ As a result, companies depending on big data must necessarily reduce the spontan
 
 Even if we can predict many future needs based on big data analysis of previous consumer choices, this leads to a limited, consumer-driven innovation cycle. What about the invention of new products? Game changers? These don't come from refining our analysis of existing consumer trends, but from stoking the human ingenuity of our innovators. Without an internal source of innovation, a company loses any competitive advantage over its peers. It is only as good as the data science firm it has hired - which may be the very same one that its competitors are using. In any event, everyone's buying data from the same brokers, and using essentially the same analytics techniques. The only long term winners in this scheme are the big data firms, themselves. 
 
-Paranoia just feeds the system. Becoming more suspicious of the data miners - as we do with each new leak of government spying or social media manipulation - only increases the value of data already being sold. The more restrictive we are with what we share, the more valuable it becomes, and the bigger the market that can be made. We might just as easily go the other way -  give away so much data that the data brokers have nothing left to sell. At least that would put them all in the same boat as the rest of us. 
-
+Paranoia just feeds the system. Becoming more suspicious of the data miners - as we do with each new leak of government spying or social media manipulation - only increases the value of data already being sold. The more restrictive we are with what we share, the more valuable it becomes, and the bigger the market that can be made. We might just as easily go the other way -  give away so much data that the data brokers have nothing left to sell. At least that would put them all in the same boat as the rest of us.
