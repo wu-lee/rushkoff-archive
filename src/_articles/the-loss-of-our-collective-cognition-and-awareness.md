@@ -3,11 +3,13 @@ publication: _publications/what-should-we-be-worried-about.md
 title: The Loss of Our Collective Cognition and Awareness
 subtitle: ''
 image: ''
-date: 2014-02-11 00:00:00 -0500
+date: 2014-02-11T00:00:00.000-05:00
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 We should be worried about the decline of the human nervous system. We should be worried that something—likely environmental but possibly more subtle than that—is hampering our ability to parent new human beings with coherently functioning perceptual apparatuses. We should worry about what this means not just for our society's economic future but for the future of our collective cognition and awareness as a species.

@@ -1,13 +1,15 @@
 ---
 title: 'The Lollapalooza Syndrome: When Meatspace and Cellspace are Redundant'
 subtitle: 
-date: '2003-08-26T16:00:00.000Z'
+date: 2003-08-26T16:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 A mass gathering of wireless generation members doesn't necessarily mean a massive use of wireless technologies. On the contrary, the most wirelessly literate may know best when to switch off and enjoy the party.
 
