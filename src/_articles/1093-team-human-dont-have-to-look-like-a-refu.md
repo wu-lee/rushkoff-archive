@@ -1,13 +1,15 @@
 ---
 title: 'Team Human: Don''t have to look like a refugee'
 subtitle: 
-date: '2018-06-20T16:00:00.000Z'
+date: 2018-06-20T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Whenever you’re confused by something Trump is doing, remember: he’s less a politician than a propagandist. Don’t look to the policy for the logic driving his actions — look at the pictures.
 
