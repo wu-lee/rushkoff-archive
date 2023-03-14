@@ -1,13 +1,15 @@
 ---
 title: The Real Value of Facebook
 subtitle: 
-date: '2019-01-09T17:00:00.000Z'
+date: 2019-01-09T17:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 It feels like we’ve finally reached “peak Facebook.”
 

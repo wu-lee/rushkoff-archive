@@ -3,12 +3,14 @@ publication: _publications/the-edge.md
 title: The Rejection of Science Itself
 subtitle: ''
 image: ''
-date: 2015-12-26 00:00:00 -0500
+date: 2015-12-26T00:00:00.000-05:00
 blurb: ''
 notes: 'Source: [https://www.edge.org/annual-question/2016/response/26666](https://www.edge.org/annual-question/2016/response/26666
   "https://www.edge.org/annual-question/2016/response/26666")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 Annual Question:
