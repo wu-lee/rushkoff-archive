@@ -1,13 +1,15 @@
 ---
 title: The Future of Psychology
 subtitle: 
-date: '1997-05-01T04:00:00.000Z'
+date: 1997-05-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Part two of the way technology effects psychology
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Imagine a whole society going into therapy. No, not thousands of neurotic New Yorkers sitting on couches, but an entire culture seeking psychological counseling. It might not be so outlandish a possibility.
 
