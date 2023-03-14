@@ -3,14 +3,16 @@ publication: _publications/tikkun.md
 title: The Promise and Peril of Internet Democracy
 subtitle: ''
 image: ''
-date: 2004-01-01 00:00:00 -0500
+date: 2004-01-01T00:00:00.000-05:00
 blurb: ''
 notes: ''
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
-There's perhaps nothing more irksome to progressive-mmded Americans than the current administration's contention that it represents a revival of our nation's populist civic tradition--especially when the nght-wing's popularity seems more orchestrated by radio hosts armed with talking points supplied by Republican thmk tanks than energized by any genuine groundswell of public opinion. Yet the Left's exploitation of the Internet and other apparently more citizen-driven media networks may prove no more authentic, and--in the wake of Howard Dean's waning candidacy--entirely less effective than we previously had hoped.
+There's perhaps nothing more irksome to progressive-minded Americans than the current administration's contention that it represents a revival of our nation's populist civic tradition--especially when the nght-wing's popularity seems more orchestrated by radio hosts armed with talking points supplied by Republican thmk tanks than energized by any genuine groundswell of public opinion. Yet the Left's exploitation of the Internet and other apparently more citizen-driven media networks may prove no more authentic, and--in the wake of Howard Dean's waning candidacy--entirely less effective than we previously had hoped.
 
 Still, the promise of a properly orchestrated bottom-up media campaign is so tremendous, and the downside of its mishandling so very perilous for the future of participatory democracy, that it behooves us to take an honest look at the current state of Internet-enabled democracy.
 

@@ -1,13 +1,15 @@
 ---
 title: The Privileged Have Entered Their Escape Pods
 subtitle: 
-date: '2020-09-01T16:00:00.000Z'
+date: 2020-09-01T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Many of us don’t like who we have become in this pandemic but feel little freedom to choose otherwise. Officially, we may be wearing our masks to protect others, but it sure does feel appropriate to hide our faces when we’re engaging in so many self-interested, survivalist activities in the light of day — leveraging whatever privilege we may enjoy to stock and equip our homes so they can serve as makeshift bunkers, workplaces, private schools, and hermetically sealed entertainment centers.
 
@@ -54,4 +56,3 @@ I can’t help but see the dismantling of the Post Office as a last-ditch attemp
 No, of course we’ll never get there. Climate, poverty, disease, and famine don’t respect the “guardian boundary” play space defined by the Oculus VR’s user preferences. Just as the billionaires can never, ever truly leave humanity behind, none of us can climb back into the womb. When times are hard, sure, take what peace and comfort you can afford. Use whatever tech you can get your hands on to make your kid’s online education work a bit better. Enjoy the glut of streaming media left over from the heyday of the Netflix-Amazon-HBO wars.
 
 But don’t let this passing — yes, passing — crisis fool you into buying technology’s false promise of escaping from humanity to play video games alone in perpetuity. Our Covid-19 isolation is giving us a rare opportunity to see where this road takes us and to choose to use our technologies to take a very different one.
-
