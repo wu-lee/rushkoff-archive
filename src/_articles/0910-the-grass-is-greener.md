@@ -1,13 +1,15 @@
 ---
 title: The Grass Is Greener
 subtitle: 
-date: '1997-03-01T05:00:00.000Z'
+date: 1997-03-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Why filmmakers lust for what they think is interadctivity, and vis versa
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 I just got back from an international film festival, where I just delivered a lecture to independent movie makers about the influence of interactive technologies on cinema. I suppose I shouldn't have been surprised by their initial horror; filmmakers have long dreaded the emergence of do-it-yourself devices that threaten their monopoly on storytelling media. But what surprised me the most was the nearly fetishistic attraction they also held for multimedia, and their burning compulsion to incorporate it into their work by any means necessary.
 
