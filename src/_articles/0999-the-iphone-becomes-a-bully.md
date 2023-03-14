@@ -1,7 +1,7 @@
 ---
 title: The iPhone Becomes a Bully
 subtitle: 
-date: '2010-03-02T05:00:00.000Z'
+date: 2010-03-02T05:00:00.000Z
 publication: _publications/daily_beast.md
 blurb: Okay, I'll admit that when I turned on my brand new Google Android Nexus phone
   yesterday morning, I was pleasantly surprised to see the now-familiar sliding \"unlock\"
@@ -11,7 +11,9 @@ blurb: Okay, I'll admit that when I turned on my brand new Google Android Nexus 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 But I didn't expect Apple to go suing the Taiwanese handset manufacturer HTC over the lifting of this now-standard unlocking routine, and about a dozen other iPhone innovations Steve Jobs claims to have patented. “We can sit by and watch competitors steal our patented inventions, or we can do something about it. We've decided to do something about it,” the Apple CEO said in a press release on Apple's blog. “We think competition is healthy, but competitors should create their own original technology, not steal ours.”
 
