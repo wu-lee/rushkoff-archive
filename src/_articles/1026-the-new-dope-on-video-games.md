@@ -1,12 +1,14 @@
 ---
 title: The New Dope On Video Games
 subtitle: 
-date: 1998-09-05T04:00:00.000Z
+date: 1998-09-05T04:00:00.000+00:00
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: 
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 I was at a cocktail party recently when I heard the terrifying news. A notice in Scientific American reported that video games change brain chemistry.
