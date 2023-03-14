@@ -1,13 +1,15 @@
 ---
 title: " The Growth Trap"
 subtitle: 
-date: '2016-03-01T17:00:00.000Z'
+date: 2016-03-01T17:00:00.000Z
 publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Grass grows, trees grow, even whole forests grow. But they don't grow forever. So why do we ask our businesses to do the same? 
 
@@ -37,4 +39,4 @@ It's a lot harder to turn a growth business into a steady state one than to star
 
 Or if your shareholders are resistant, consider buying back the company with private equity - as Michael Dell did, most famously, in order to restructure his computer company for the era of cloud computing. Finally, you can adopt the truly digital mindset and rewrite your company's core code: consider becoming a B "benefit" corp, or a "flexible purpose corp," structures that allow you to pursue goals other than short-term shareholder value alone. Growth of share price comes to matter less than serving customers, compensating workers, connecting with communities, and - yes- bringing long-term prosperity to shareholders, even if they don't know that's what they want. 
 
-But most important, it comes down to thinking less about the total value of your company, than the value it creates. 
+But most important, it comes down to thinking less about the total value of your company, than the value it creates.
