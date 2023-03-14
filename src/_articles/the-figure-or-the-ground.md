@@ -3,11 +3,13 @@ publication: _publications/what-to-think-about-machines-that-think.md
 title: The Figure or the Ground?
 subtitle: ''
 image: ''
-date: 2015-10-06 00:00:00 -0400
+date: 2015-10-06T00:00:00.000-04:00
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 Thinking about machines that think may constitute a classic reversal of figure and ground, medium and message. It sets us up to think about the next stage of intelligence as something happening in a computer somewhere--an awareness that will be born and then housed on the tremendous servers being built by Information Age corporations for this purpose. "There it is," we'll declare, and point: "The intelligent machine."
