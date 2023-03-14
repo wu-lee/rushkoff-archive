@@ -3,11 +3,13 @@ publication: _publications/political-perspectives.md
 title: The Politics of Presence
 subtitle: How Online Activity Informs Offline Activism
 image: ''
-date: 2015-01-01 00:00:00 -0500
+date: 2015-01-01T00:00:00.000-05:00
 blurb: ''
 notes: 'Date: 2015'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 Back in the late 1990’s, I became interested in the potential of interactive and networking technologies to enhance the potential for democratic and civic participation. I wrote a short book entitled Open Source Democracy (Rushkoff 1998), in which I outlined what I saw as the opportunity for deeper levels of public intervention in not just electoral politics, but ongoing civic affairs.
