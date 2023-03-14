@@ -3,12 +3,13 @@ publication: _publications/exposure.md
 title: Theater
 subtitle: ''
 image: ''
-date: 1990-04-01 05:00:00 +0000
+date: 1990-04-01T05:00:00.000+00:00
 blurb: ''
 notes: April/May 1990
 refs: ''
 sources: ''
-categories: []
+categories:
+- _categories/periodicals.md
 
 ---
 "I am a degenerate in my tastes. Freddy Krueger is my hero," exclaims Alejandro Jodorowsky, director of Santa Sangre, in an interview with Cinefantastique. Jodorowsky, who considers himself "one of the last three artists working in the film medium," was inspired to write the story for the film after a series of personal meetings with a Mexican mass murderer who had killed 30 women and buried them in his garden, but is now in his 60's, out of prison, and married with children. What we get on screen is a kaleidoscopic portrait of a circus boy who witnesses his father dismember his mother. Twenty years later, he escapes from the insane asylum to be with her and function as her arms.
