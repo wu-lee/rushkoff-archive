@@ -1,13 +1,15 @@
 ---
 title: The Moviefone Syndrome
 subtitle: 
-date: '1999-08-01T04:00:00.000Z'
+date: 1999-08-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: How Convenience Becomes Coercion
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Blame us "early adopters." We're the ones who enjoy using new technologies before they hit the mainstream.. But, in doing so, we end up turning something fun into something mandatory. And then it just isn't any fun anymore. In fact, it's downright debilitating.
 
