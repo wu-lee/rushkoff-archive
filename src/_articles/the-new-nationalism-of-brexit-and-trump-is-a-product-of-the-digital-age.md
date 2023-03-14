@@ -3,7 +3,7 @@ publication: _publications/fast-company.md
 title: The New Nationalism Of Brexit And Trump Is A Product Of The Digital Age
 subtitle: TV may have been about global unity, but the Internet inspires the opposite.
 image: ''
-date: 2016-07-07 00:00:00 -0400
+date: 2016-07-07T00:00:00.000-04:00
 blurb: We are not advancing toward some new global society, but instead retreating
   back to nationalism.
 notes: "Source: [https://www.fastcompany.com/3061574/the-new-nationalism-of-brexit-and-trump-is-a-product-of-the-digital-age](https://www.fastcompany.com/3061574/the-new-nationalism-of-brexit-and-trump-is-a-product-of-the-digital-age
@@ -12,6 +12,8 @@ notes: "Source: [https://www.fastcompany.com/3061574/the-new-nationalism-of-brex
   \"https://images.fastcompany.net/image/upload/w_937,ar_16:9,c_fill,g_auto,f_auto,q_auto,fl_lossy/fc/3061574-poster-p-1-the-nationalism-that-has-brought-us-brexit-and-trump-is-a-symptom-of-the-digital-age.webp\")"
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 Most of us thought digital technology would connect the whole world in new ways. The Internet was supposed to break down those last boundaries between what are essentially synthetic nation states and herald a new, global community of peers.

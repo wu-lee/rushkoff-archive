@@ -1,7 +1,7 @@
 ---
 title: The New Whistleblowers
 subtitle: 
-date: '2012-03-24T04:00:00.000Z'
+date: 2012-03-24T04:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -12,7 +12,9 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   "snippet"=>"Back when I was a kid, they were called \"whistle-blowers\": employees
   of corrupt companies or government agencies, who went to the press with shocking
   stories of criminality or abuse.", "dateLastCrawled"=>"2020-06-22T05:13:00.0000000Z"}]'
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Back when I was a kid, they were called "whistle-blowers": employees of corrupt companies or government agencies, who went to the press with shocking stories of criminality or abuse.
 
