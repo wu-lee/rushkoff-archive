@@ -1,7 +1,7 @@
 ---
 title: Suicide Bombs as Viral Media II
 subtitle: 
-date: '2005-07-24T04:00:00.000Z'
+date: 2005-07-24T04:00:00.000Z
 publication: _publications/arthur.md
 blurb: Although I've got very little spare time for blogging right now, I thought
   it important to share a brief reflection on what I perceive to be the underlying
@@ -10,7 +10,9 @@ blurb: Although I've got very little spare time for blogging right now, I though
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Yes, these are "networked" events - but not in the sense that the cells are directly linked in a command and control communications network. Cells are not coordinated this way, with "sleepers" waiting for phone calls and taking action. It's not a matter of phone trees, email commands, or direct links between some guys in London, some other ones in Egypt, and a central server disseminating commands from Pakistan.
 
