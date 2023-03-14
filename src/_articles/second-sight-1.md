@@ -3,12 +3,14 @@ publication: _publications/nyt_syndicate_guardian_of_london.md
 title: Ten Reasons To Be Happy at the End of the Net’s Worst Year
 subtitle: ''
 image: ''
-date: 2000-12-20 00:00:00 -0500
+date: 2000-12-20T00:00:00.000-05:00
 blurb: ''
 notes: '[https://www.theguardian.com/technology/2000/dec/21/internetnews.onlinesupplement2](https://www.theguardian.com/technology/2000/dec/21/internetnews.onlinesupplement2
   "https://www.theguardian.com/technology/2000/dec/21/internetnews.onlinesupplement2")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 Many of you are probably looking back on the year 2000 as a bad one for the internet. So how could the following optimistic appraisal of the internet's health at what seems like its nadir be anything but cynical gloating? Because, dear reader, and I mean this from the bottom of my solstice celebrating soul, happy days are here again.
