@@ -1,13 +1,15 @@
 ---
 title: 'The Next Billion: Multilingual Users and Mobile Telephony'
 subtitle: 
-date: '2005-01-26T17:00:00.000Z'
+date: 2005-01-26T17:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Why the mobile industry needs to learn the world's struggling languages.
 
@@ -42,4 +44,3 @@ Nokia seems to have taken a step toward addressing the Chinese dilemma with its 
 Plausibly, if services for some of the larger minority language groups are developed first, any economic barriers would further diminish with each successive language. But this project needs to begin somewhere, and soon. One of the primary reasons minority language communities are disappearing so rapidly now is precisely because global businesses so readily dismiss them. So let's not forget that language and culture are the true content of mobile phones. And, moreover, it's going to be in the mobile industry's interests to invest in these communities and the active, continued use of these languages. After all, why use an interactive device if it can't really express who you are?
 
 Indeed, cell phones may only become universal when their makers acknowledge the particular people using them.
-
