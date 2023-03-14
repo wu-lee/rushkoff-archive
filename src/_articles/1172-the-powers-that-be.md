@@ -1,13 +1,15 @@
 ---
 title: The Powers That Be
 subtitle: 
-date: '2004-07-13T16:00:00.000Z'
+date: 2004-07-13T16:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 The wireless industry's biggest problem could become the world's biggest solution.
 
