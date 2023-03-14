@@ -3,12 +3,14 @@ publication: _publications/medium.md
 title: The Age of Apocalypto
 subtitle: Everything doesn’t have to end.
 image: "/uploads/1_e4uulxp9widnbukva3dmnw.jpeg"
-date: 2022-01-12 00:00:00 -0500
+date: 2022-01-12T00:00:00.000-05:00
 blurb: ''
 notes: 'Source: [https://rushkoff.medium.com/the-age-of-apocalypto-3e78cfe4a10c](https://rushkoff.medium.com/the-age-of-apocalypto-3e78cfe4a10c
   "https://rushkoff.medium.com/the-age-of-apocalypto-3e78cfe4a10c")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 I tried to warn us about what was coming: the collective psychopathology of a society so addicted to its narratives that we would rather the whole thing just end than continue on in its unresolved way.

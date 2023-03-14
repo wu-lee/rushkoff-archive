@@ -1,13 +1,15 @@
 ---
 title: That’s Inter-tainment
 subtitle: 
-date: '2005-03-09T17:00:00.000Z'
+date: 2005-03-09T17:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 How mobile can -- and should -- change the way we think about entertaining ourselves and each other.
 
@@ -38,4 +40,3 @@ While it may be more challenging to develop business models for user-generated s
 I think so. And this means developing new approaches to mobile experiences, and finally evolving a two-thousand-year-old understanding of showing people a good time. The new rule of thumb, so to speak, may be to create experiences that do not contain the user but rather give the user a way out. Landlines are not radios, and cell phones are not Gameboys.
 
 Wireless intertainment doesn't involve people interacting with data; it's about people interacting with the world or, at best, with one another. It's time for the entertainer to end his song and dance, and make room for the next era of players. The industry winners will be the ones who stop thinking about creating the whole show, and learn simply to set the stage.
-
