@@ -1,13 +1,15 @@
 ---
 title: The Perils of 646
 subtitle: 
-date: '2000-01-01T05:00:00.000Z'
+date: 2000-01-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Why My Area Code Doesn't Work
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Has your telephone company assigned you one of those new area codes? Don't take it. Kick and scream if you have to, make any excuse you can come up with -- or be willing to accept the consequences. They're not pretty.
 
