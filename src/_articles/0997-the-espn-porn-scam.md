@@ -1,7 +1,7 @@
 ---
 title: The ESPN Porn Scam
 subtitle: 
-date: '2009-07-22T04:00:00.000Z'
+date: 2009-07-22T04:00:00.000Z
 publication: _publications/daily_beast.md
 blurb: On the Internet, there's no currency more readily accepted—and exploitable—than
   a few pixels of porn. This week's leak of a video, apparently taped illegally, of
@@ -31,7 +31,9 @@ refs: '[{"text"=>"how it works", "original"=>"http://www.youtube.com/watch?v=H4q
   "players"=>[{"url"=>"https://www.youtube.com/embed/H4qbLKy32rI", "width"=>640, "height"=>360}]},
   "favicon"=>"http://www.youtube.com/yts/img/favicon_144-vfliLAfaB.png"}}]'
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 But the Andrews video has also fueled the spread of highly toxic computer viruses, and quite probably financial thievery and terrorism, by hackers who know the real law of the Internet: The closer an Internet user is to a set of videotaped breasts, the more likely he (and 99% of those who fall into this trap are male) will be to click on whatever he's told to.
 
