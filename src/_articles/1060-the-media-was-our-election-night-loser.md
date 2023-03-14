@@ -1,14 +1,16 @@
 ---
 title: The Media Was Our Election Night Loser
 subtitle: 
-date: '2020-11-04T17:00:00.000Z'
+date: 2020-11-04T17:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
-image: /uploads/1060-the-media-was-our-election-night-loser.png
+image: "/uploads/1060-the-media-was-our-election-night-loser.png"
+categories:
+- _categories/periodicals.md
+
 ---
 For days, if not weeks, our media pundits have been telling us not to expect a winner on election night. The left demanded patience and voiced their concerns that Trump would prematurely declare victory and turn to the courts for support.
 
