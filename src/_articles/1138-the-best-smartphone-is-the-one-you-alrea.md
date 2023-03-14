@@ -1,13 +1,15 @@
 ---
 title: The best smartphone is the one you already own
 subtitle: 
-date: '2016-09-24T16:00:00.000Z'
+date: 2016-09-24T16:00:00.000Z
 publication: _publications/digital_trends.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Now that Apple has disappointed early adopters with a mere incremental iPhone upgrade, and Samsung has done even worse by releasing exploding Galaxy Note 7s, the preposterous futility of the smartphone wars should be coming apparent. Those people who are trading in perfectly usable phones for the latest models are the suckers.
 A brand new smartphone is anything but a status symbol.  It simply means you’ve been fooled into valuing a shiny new object over its impact on labor, the environment, or even your own time. And it’s not entirely your own fault.
@@ -44,6 +46,3 @@ And the more of us stick with the phones we have, the more pressure we will exer
 Our numbers matter. If we flocked to the new phones, we support a technology landscape that favors change for change’s sake over stability, ease of use, open development, environmental sustainability, and basic human rights.
 
 Love the phone you’re with.
-
-
-
