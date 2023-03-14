@@ -3,12 +3,14 @@ publication: _publications/the-edge.md
 title: Succumbing To Narrative, Or Writing Our Own
 subtitle: ''
 image: ''
-date: 2001-01-01 00:00:00 -0500
+date: 2001-01-01T00:00:00.000-05:00
 blurb: ''
 notes: '[https://www.edge.org/response-detail/11778](https://www.edge.org/response-detail/11778
   "https://www.edge.org/response-detail/11778")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 In his speech to Congress, Bush Ù perhaps unintentionally Ù presented the choice before us: we will either bring justice to the nations of our enemies, or bring our enemies to justice.
