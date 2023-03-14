@@ -3,11 +3,13 @@ publication: _publications/this-idea-must-die.md
 title: The Atheism Prerequisite
 subtitle: ''
 image: ''
-date: 2015-02-17 00:00:00 -0500
+date: 2015-02-17T00:00:00.000-05:00
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 We don't need to credit an all-seeing God with the creation of life and matter to suspect that something wonderfully strange is going on in the dimension we call reality. Most of us living in it feel invested with a sense of purpose. Whether this directionality is a genuine, preexisting condition of the universe, an illusion perpetrated by DNA, or something that will one day emerge from social interaction has yet to be determined. At the very least, this means our experience and expectations of life can no longer be dismissed as impediments to proper observation and analysis.
