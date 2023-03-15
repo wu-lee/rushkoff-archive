@@ -1,13 +1,15 @@
 ---
 title: Sex, Lies and Videophones
 subtitle: 
-date: '2004-05-12T16:00:00.000Z'
+date: 2004-05-12T16:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 New services allow users to fake the background sounds and appearance of their locations -- all because interactive media really wants us to be more honest.
 

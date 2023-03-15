@@ -2,14 +2,16 @@
 title: Sending Out an S.O.S. - What the Storm Taught Me About People, Power, and the
   Commons
 subtitle: 
-date: '2012-11-05T05:00:00.000Z'
+date: 2012-11-05T05:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: '[{"text"=>"Eatocracy: Anthony Bourdain says help NYC restaurants: Eat out,
   tip big", "original"=>"http://eatocracy.cnn.com/2012/11/05/anthony-bourdain-nyc-restaurants-after-sandy/?hpt=op_t1"}]'
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 "Rethinking grid dependence in new climate reality."
 
