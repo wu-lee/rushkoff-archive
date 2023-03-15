@@ -8,7 +8,8 @@ blurb: ''
 notes: also appeared in June 1996 issue of Paper
 refs: ''
 sources: ''
-categories: []
+categories:
+- _categories/periodicals.md
 
 ---
 By Fenton Bailey
