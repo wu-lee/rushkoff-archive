@@ -3,12 +3,14 @@ publication: _publications/time.md
 title: Startups Are Not As Disruptive As They Appear
 subtitle: ''
 image: ''
-date: 2016-03-10 00:00:00 -0500
+date: 2016-03-10T00:00:00.000-05:00
 blurb: ''
 notes: 'Source: [https://time.com/4253743/startups-are-not-as-disruptive-as-they-appear/](https://time.com/4253743/startups-are-not-as-disruptive-as-they-appear/
   "https://time.com/4253743/startups-are-not-as-disruptive-as-they-appear/")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 We first got excited about web startups because they didn’t have to follow the script. Two kids in a dorm room could develop a platform that would change the world with little or no capital behind them. More than disrupting a particular industry, these companies had the potential to disrupt business itself, and we–the common people–would all be better and richer for it.
