@@ -3,13 +3,15 @@ publication: _publications/medium.md
 title: Program or Be Programmed
 subtitle: Ten years ago, I realized media literacy meant something different
 image: "/uploads/1_savwwixgsvnfewvo1cwwsa.jpeg"
-date: 2022-04-20 00:00:00 -0400
+date: 2022-04-20T00:00:00.000-04:00
 blurb: That’s why the original commands we give our computers are so important. Whatever
   values we embed will be the values they achieve.
 notes: 'Source: [https://rushkoff.medium.com/program-or-be-programmed-633fb8f045f3](https://rushkoff.medium.com/program-or-be-programmed-633fb8f045f3
   "https://rushkoff.medium.com/program-or-be-programmed-633fb8f045f3")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 As media theorist [John Culkin first observed](http://www.medialit.org/reading-room/john-culkin-sj-man-who-invented-media-literacy-1928-1993), we shape our technologies at the moment of their conception, but from that point forward they shape us. We humans designed the telephone, but from then on the telephone influenced how we communicated, conducted business, and conceived of the world. We also invented the automobile, but then rebuilt our cities around automotive travel and our geopolitics around fossil fuels.
