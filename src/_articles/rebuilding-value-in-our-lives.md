@@ -3,11 +3,13 @@ publication: _publications/superconsciousness.md
 title: Rebuilding Value in Our Lives
 subtitle: ''
 image: ''
-date: 2009-12-01 00:00:00 -0500
+date: 2009-12-01T00:00:00.000-05:00
 blurb: ''
 notes: Winter 2009
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 It was Christmas Eve when award-winning author and documentarian Douglas Rushkoff was mugged in front of his "hip" Park Slope neighborhood apartment in Brooklyn while taking out his trash. He immediately did what any responsible neighbor would do: Warn his fellow residents as to the location and description of the assailant through the neighborhood's email list.
