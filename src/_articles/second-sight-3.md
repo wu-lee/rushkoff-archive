@@ -3,12 +3,14 @@ publication: _publications/nyt_syndicate_guardian_of_london.md
 title: Second Sight
 subtitle: ''
 image: ''
-date: 2001-07-12 00:00:00 -0400
+date: 2001-07-12T00:00:00.000-04:00
 blurb: ''
 notes: '[https://www.theguardian.com/technology/2001/jul/12/internetnews.onlinesupplement2](https://www.theguardian.com/technology/2001/jul/12/internetnews.onlinesupplement2
   "https://www.theguardian.com/technology/2001/jul/12/internetnews.onlinesupplement2")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 The internet is for amateurs. No, that's not an insult, but high praise. "Amateurs," by definition, do what they do for the love of it. Because it's fun, social, enriching, transformational, evolutionary or even just beautiful. Now that the investors see the net as more of a lame duck than a cash cow, the only ones left out here (or the only ones that should be) are us amateurs.
