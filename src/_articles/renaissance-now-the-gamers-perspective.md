@@ -3,11 +3,13 @@ publication: _publications/handbook-of-computer-game-studies.md
 title: Renaissance Now! The Gamers’ Perspective
 subtitle: ''
 image: ''
-date: 2005-01-01 00:00:00 -0500
+date: 2005-01-01T00:00:00.000-05:00
 blurb: ''
 notes: Based on scan from Unified Field Summit
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 The frightening news is that we are living in a story. The reassuring part is that it's a story we re writing, ourselves.
