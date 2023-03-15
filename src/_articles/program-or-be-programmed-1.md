@@ -3,11 +3,13 @@ publication: _publications/de-wereld-volgens-ampersix.md
 title: Program or Be Programmed
 subtitle: ''
 image: ''
-date: 2010-01-01 00:00:00 -0500
+date: 2010-01-01T00:00:00.000-05:00
 blurb: ''
 notes: "2010"
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 FACEBOOK
