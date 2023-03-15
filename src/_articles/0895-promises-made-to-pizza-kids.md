@@ -1,13 +1,15 @@
 ---
 title: Promises Made to Pizza Kids
 subtitle: 
-date: '2000-11-01T05:00:00.000Z'
+date: 2000-11-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Don't blame idealistic hackers for your own failed business plans.
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Another month, another conference. This one, hosted by a respected Internet business consultancy firm, chose what has become the default theme for our once-booming industry's events: what to do after the crash.
 
