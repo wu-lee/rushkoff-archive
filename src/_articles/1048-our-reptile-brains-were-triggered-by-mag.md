@@ -1,12 +1,14 @@
 ---
 title: Our reptile brains were triggered by MAGA hat video
 subtitle: 
-date: 2019-01-22T13:51:00.000Z
+date: 2019-01-22T13:51:00.000+00:00
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 A viral video has once again confirmed everyone's preconceptions about human nature, the state of our politics and even "kids nowadays."
