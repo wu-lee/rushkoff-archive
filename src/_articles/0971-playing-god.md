@@ -1,13 +1,15 @@
 ---
 title: Playing God
 subtitle: 
-date: '2001-12-01T05:00:00.000Z'
+date: 2001-12-01T05:00:00.000Z
 publication: _publications/yahoo_internet_life.md
 blurb: The Net and Fundamentalism
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 I saw a bumper sticker on a minivan in Wisconsin last week that read: "In case of rapture, this car will be empty!" I suppose that means that my car shall remain occupied. But I am less troubled by the supposed inevitability of my damnation than the delight with which those Milwaukee passengers seemed to be anticipating Armageddon. They're looking forward to the apocalypse!
 

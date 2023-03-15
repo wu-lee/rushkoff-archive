@@ -1,13 +1,15 @@
 ---
 title: Pivoting Inward
 subtitle: 
-date: '2015-04-01T16:00:00.000Z'
+date: 2015-04-01T16:00:00.000Z
 publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Back when I was growing up in the 1970’s, Radio Shack was always one of my favorite stores. I was an electronics geek, fascinated by crystal radio kits, diodes and capacitors. A blank circuit board and pile of transistors was an invitation to make pretty much anything one could imagine: a walkie-talkie, a battery tester, a lie detector. If there were plans, I could follow them. If there were no plans, well, there was Larry at the New Rochelle Radio Shack who could point me in the right direction. 
 
@@ -24,4 +26,3 @@ There’s a big lesson in this for anyone in business. Most companies still thin
 Instead of competing with the cell phone shops, Radio Shack should have doubled down on its own expertise and reputation. The geeks may have been temporarily disrupted by the computer age, but they are back. Radio Shack could have been the local hub for hi-tech knowledge and creativity - the place to build a 3D printer, take an Aduino class, program a Raspberry Pi, get the parts for a robot, or develop new drones. Radio Shack should have been earning headlines about whether they are going too far by arming hobbyists with too much technological power - not about whether they can move enough smart phones to please short-term shareholder interests.
 
 Ironically, perhaps, Radio Shack’s demise isn’t the story of how the Web destroyed another retail business. We could always buy parts from catalogues, but went to Radio Shack for the culture, the convenience, and the expertise. No, the real story here is that a great company pivoted away from both its expertise and the market opportunity of a lifetime. Looks like someone else will have to pivot into its place. 
-
