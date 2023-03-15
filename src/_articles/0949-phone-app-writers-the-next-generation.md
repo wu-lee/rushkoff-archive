@@ -1,7 +1,7 @@
 ---
 title: 'Phone App Writers: The Next Generation'
 subtitle: 
-date: 2008-10-16T00:00:00.000Z
+date: 2008-10-16T00:00:00.000+00:00
 publication: _publications/feature.md
 blurb: Last year, it was Dodgeball. What do this year's students have in store for
   the mobile phone?
@@ -52,6 +52,8 @@ refs: '[{"text"=>"Interactive Telecommunications Program", "original"=>"http://i
   with a cameraphone.", "images"=>[{"url"=>"https://farm4.staticflickr.com/3914/15118079089_489aa62638_b.jpg"}]},
   "title"=>"Find your inspiration. | Flickr", "favicon"=>"https://combo.staticflickr.com/pw/images/favicons/favicon-196.png"}}]'
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 Last year, it was Dodgeball. What do this year's students have in store for the mobile phone?

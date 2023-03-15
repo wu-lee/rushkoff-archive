@@ -1,13 +1,15 @@
 ---
 title: Phones as Hackable Platforms
 subtitle: 
-date: '2004-11-24T17:00:00.000Z'
+date: 2004-11-24T17:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Marko Ahtisaari wants the wireless industry to embrace its users as developers.
 
@@ -34,4 +36,3 @@ Following Ahtisaari's logic, the most appealing sorts of phones and wireless dev
 What about security, you ask? Whose security? Hacker-users understand the risks of mucking about with their technology. The only thing at stake the security of ill-conceived business plans that lock users out of their own phones. These short-sighted restrictions are the chief obstacle to the culture of innovation Ahtisaari envisions. To think of how many deeply interesting mobile hacks have been lost to this proprietary paranoia makes me shudder.
 
 After all, worst case, if some of these hacks actually work, it will still be up to the industry to develop and roll out more durable versions of these ideas, that are capable of taking the abuse of a mass market of paying users. That's what industries are for.
-
