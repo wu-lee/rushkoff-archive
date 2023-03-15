@@ -3,11 +3,13 @@ publication: _publications/reboot.md
 title: Reboot Summit 2002
 subtitle: ''
 image: ''
-date: 2002-01-01 00:00:00 -0500
+date: 2002-01-01T00:00:00.000-05:00
 blurb: ''
 notes: ''
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 We are really glad you're making the time and effort to attend the Reboot summit next month. Roger, Rachel and I have been working hard to develop a program that will give us the shared ground and open space necessary to engage in a meaningful set of conversations about Judaism and Jewishness.
