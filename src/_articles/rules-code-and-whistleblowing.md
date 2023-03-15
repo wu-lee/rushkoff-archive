@@ -3,12 +3,14 @@ publication: _publications/medium.md
 title: Rules, Code, and Whistleblowing
 subtitle: On Facebook’s need for human intervention
 image: "/uploads/1_gtl3tsfoq3z98pznarzrxq.jpeg"
-date: 2021-10-05 00:00:00 -0400
+date: 2021-10-05T00:00:00.000-04:00
 blurb: What Facebook needs is some human intervention.
 notes: 'Source: [https://onezero.medium.com/rules-code-and-whistleblowing-6796a2039af5](https://onezero.medium.com/rules-code-and-whistleblowing-6796a2039af5
   "https://onezero.medium.com/rules-code-and-whistleblowing-6796a2039af5")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 As I watched Facebook whistleblower Frances Haugen’s Senate testimony today, I found myself oddly encouraged by the proceedings.
