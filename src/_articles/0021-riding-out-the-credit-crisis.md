@@ -1,13 +1,15 @@
 ---
 title: Riding Out the Credit Crisis
 subtitle: 
-date: '2008-05-01T04:00:00.000Z'
+date: 2008-05-01T04:00:00.000Z
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 There's two kinds of people asking me about the economy lately: people with money wanting to know how to keep it “safe,” and people without money, wanting to know how to keep safe, themselves.
 
