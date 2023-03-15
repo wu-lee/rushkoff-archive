@@ -1,13 +1,15 @@
 ---
 title: RTMark
 subtitle: 
-date: '1999-04-01T05:00:00.000Z'
+date: 1999-04-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The ultimate friend of media pranks may just be a prank, too.
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 I think I finally understand the method behind the madness of a hysterically funny but surprisingly effective Website named RTMark (www.rtmark.com) . Pronounced "ArtMark," the name is a loose acronym for \\`\\`registered trademark'' and a fitting title for this tongueincheek social action investment scheme.
 
