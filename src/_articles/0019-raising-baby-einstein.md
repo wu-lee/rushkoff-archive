@@ -1,7 +1,7 @@
 ---
 title: Raising Baby Einstein
 subtitle: 
-date: '2007-12-01T05:00:00.000Z'
+date: 2007-12-01T05:00:00.000Z
 publication: _publications/arthur.md
 blurb: Now, instead of repairing the neighborhood sidewalks, we purchase Bugaboos—the
   $800 stroller equivalent of an SUV, complete with shock absorbers, to traverse the
@@ -9,7 +9,9 @@ blurb: Now, instead of repairing the neighborhood sidewalks, we purchase Bugaboo
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 I thought parenthood would be an opportunity to unplug on a certain level. To disconnect from the consumerist pathology of the market and engage in the most intimate and natural process available to human beings. There's something going on between father, mother, and baby that no expert, no marketer, and no website can touch. Isn't there?
 
