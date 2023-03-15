@@ -1,13 +1,15 @@
 ---
 title: So Went the Salon
 subtitle: 
-date: '1997-05-01T04:00:00.000Z'
+date: 1997-05-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The decline of the online community.
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 I used to think that conferencing was the Internet's true purpose. Log on from anywhere in the world, pick a subject, and jack into a conversation. These weren't the real-time chats and pick-up rooms of America Online, but what are known as "asynchronous" conversations that, like chess played through the mail, can carry on for weeks or months. A user would log into a USENET group or bulletin board conference, read the responses already there, and then add his or her own thoughts.
 
