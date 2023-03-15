@@ -1,13 +1,15 @@
 ---
 title: See No Evil
 subtitle: 
-date: '2001-01-01T05:00:00.000Z'
+date: 2001-01-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: A Self-Censored Internet
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Media is a consensus. It's one of the ways we establish what's going on in the world around us. That's why it's so important that the mediaspace remain open and free of censorship. We should all have a say in what it is we think is happening, and a chance to contribute to the conversation. The Internet provided us with just such an opportunity -- particularly because it was free of the kinds of legal and business pressures that restrict more mainstream and broadcast media.
 

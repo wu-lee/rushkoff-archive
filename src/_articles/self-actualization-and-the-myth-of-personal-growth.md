@@ -1,13 +1,15 @@
 ---
 title: Self-Actualization and the Myth of Personal Growth
 subtitle: How the counterculture surrendered communal well-being to individual enlightenment
-date: 2021-02-11 00:00:00 -0500
+date: 2021-02-11T00:00:00.000-05:00
 publication: _publications/medium.md
 blurb: ''
 notes: Pasted from https://medium.com/team-human/self-actualization-and-the-myth-of-personal-growth-67c12e5310f3
 refs: ''
 sources: ''
-image: /uploads/self-actualization-and-the-myth-of-personal-growth.jpeg
+image: "/uploads/self-actualization-and-the-myth-of-personal-growth.jpeg"
+categories:
+- _categories/periodicals.md
 
 ---
 Many Westerners have come to understand the problems inherent in a society obsessed with growth and have struggled to assert a more timeless set of spiritual sensibilities. But, almost invariably, such efforts get mired in our ingrained notions of personal growth, progress, and optimism.
