@@ -1,7 +1,7 @@
 ---
 title: One Man, One Tweet
 subtitle: 
-date: '2009-06-16T04:00:00.000Z'
+date: 2009-06-16T04:00:00.000Z
 publication: _publications/daily_beast.md
 blurb: I posted a piece I like late last night to the Daily Beast - where I've just
   become a columnist - about social networking in Iran.
@@ -25,7 +25,9 @@ refs: '[{"text"=>"Daily Beast", "original"=>"http://www.thedailybeast.com/blogs-
   "images"=>[{"url"=>"https://img.thedailybeast.com/image/upload/fl_lossy,q_auto/placeholder_euli9k"}]},
   "favicon"=>"http://www.thedailybeast.com/static/media/favicon.b30a79ed.ico"}}]'
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 > Most observers of the Twitter-fueled revolution rightly point out that this activity is at its most effective when it actually mobilizes real humans, puts bodies on the street, and gives dissidents the opportunity to organize successful retreats. Digital dissidence alone is easy, and easy to ignore.  
 >   
