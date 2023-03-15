@@ -3,12 +3,14 @@ publication: _publications/nyt_syndicate_guardian_of_london.md
 title: Second Sight
 subtitle: ''
 image: ''
-date: 2001-03-21 00:00:00 -0500
+date: 2001-03-21T00:00:00.000-05:00
 blurb: ''
 notes: '[https://www.theguardian.com/technology/2001/mar/22/onlinesupplement4](https://www.theguardian.com/technology/2001/mar/22/onlinesupplement4
   "https://www.theguardian.com/technology/2001/mar/22/onlinesupplement4")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 In the beginning, it seemed that the decision to grant the public open access to the internet would herald a new era of teledemocracy, political activism and a reinstatement of the collective will in public affairs.
