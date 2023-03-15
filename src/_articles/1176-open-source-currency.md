@@ -1,13 +1,15 @@
 ---
 title: Open Source Currency
 subtitle: 
-date: '2004-10-13T16:00:00.000Z'
+date: 2004-10-13T16:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Or, how mobile phones can break the money monopoly.
 

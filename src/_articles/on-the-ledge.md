@@ -3,13 +3,14 @@ publication: _publications/testament.md
 title: On the Ledge
 subtitle: ''
 image: ''
-date: 2006-02-01 00:00:00 -0500
+date: 2006-02-01T00:00:00.000-05:00
 blurb: ''
 notes: This column appeared in every comic published by Vertigo with a February 2006
   cover date, as a promotional item.
 refs: ''
 sources: ''
-categories: []
+categories:
+- _categories/periodicals.md
 
 ---
 The Bible actually may have been written in the wrong medium. I'm saying this as a media theorist - a guy who has written books and novels, taught university classes, and made documentaries about the impact of new technology on the way we relate to stories. And particularly on those stories we happen to really believe in.
