@@ -3,12 +3,14 @@ publication: _publications/arthur.md
 title: On Neuromarketing
 subtitle: ''
 image: ''
-date: 2004-11-30 00:00:00 -0500
+date: 2004-11-30T00:00:00.000-05:00
 blurb: ''
 notes: '[https://arthurmag.com/2004/11/30/on-neuromarketing/](https://arthurmag.com/2004/11/30/on-neuromarketing/
   "https://arthurmag.com/2004/11/30/on-neuromarketing/")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 From [PBs’ Frontline/Douglas Rushkoff “The Persuaders” website](http://www.pbs.org/wgbh/pages/frontline/shows/persuaders/etc/neuro.html):

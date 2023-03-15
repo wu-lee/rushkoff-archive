@@ -1,13 +1,15 @@
 ---
 title: One World, First World
 subtitle: 
-date: '1996-10-01T04:00:00.000Z'
+date: 1996-10-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Is the Internet a First-World-Only phenomenon?
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 I'm no cynic. I love the idea of human evolution, and I love to believe that technology has a role in it. As the interactive mediaspace extends around the globe, eradicating obsolete national and ideological boundaries, I get a thrill. I like going online and feeling what it's like to access servers, cultures, and people on the other side of the planet.
 
