@@ -1,13 +1,15 @@
 ---
 title: Rock the (Wireless) Vote.com
 subtitle: 
-date: '2004-03-22T17:00:00.000Z'
+date: 2004-03-22T17:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Does politics by thumb - via the culture of MTV - enhance democracy, or reduce it to a marketing survey?
 
@@ -38,5 +40,3 @@ Our wireless handheld technologies allow us to get important information, instan
 I fear that the solicitation through cell phones of instant responses to complex issues - worse, in a context of cool, hip marketing - will do more damage to America's democratic process than good. Just as television, in many ways, reduced the politically debate to a beauty contest, the cell phone may drag public debate into an even more binary over-simplification than it already is.
 
 Time will tell. Meanwhile, I've signed up for the new service, and will share my perspectives on the wireless campaigns as they develop, or don't.
-
-

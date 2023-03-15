@@ -3,12 +3,14 @@ publication: _publications/medium.md
 title: Rise to the Occasion
 subtitle: No hot takes. Just take action.
 image: "/uploads/0_2yyve17h1sdheqo7.jpg"
-date: 2022-05-04 00:00:00 -0400
+date: 2022-05-04T00:00:00.000-04:00
 blurb: 'The dismay and despair you are feeling has one surefire cure: solidarity.'
 notes: 'Source: [https://rushkoff.medium.com/rise-to-the-occasion-cd2b7c147d80](https://rushkoff.medium.com/rise-to-the-occasion-cd2b7c147d80
   "https://rushkoff.medium.com/rise-to-the-occasion-cd2b7c147d80")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 Sometimes it’s hard to write into the news cycle. I don’t like to write hot takes on things, no matter how closely related they may be to my areas of expertise. I didn’t even write about Elon Musk’s proposed purchase of Twitter because, well, I don’t really care.
