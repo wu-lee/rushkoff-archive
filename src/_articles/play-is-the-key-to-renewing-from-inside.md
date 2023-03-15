@@ -8,6 +8,8 @@ notes: 'Source: https://www.kessels-smit.com/files/Douglas_Rushkoff_-_Develop_2-
 refs: ''
 sources: ''
 image: ''
+categories:
+- _categories/periodicals.md
 
 ---
 _What do playing and doing business have in common?_ 
