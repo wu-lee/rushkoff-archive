@@ -1,12 +1,14 @@
 ---
 title: 'Recycling Money: Why Double-Dipping Is Good Business'
 subtitle: 
-date: 2015-08-01T16:56:02.000Z
+date: 2015-08-01T16:56:02.000+00:00
 publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 Wouldn’t you like to earn the same dollar twice? It may sound crazy - or even illegal - but it’s actually the secret to success in the new normal: invest and spend in people and enterprises who will end up giving you back the money, one way or the other. 

@@ -1,13 +1,15 @@
 ---
 title: Reconsidering Bitcoin
 subtitle: 
-date: '2013-11-01T16:00:00.000Z'
+date: 2013-11-01T16:00:00.000Z
 publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 The famous Winklevoss twins are back. In case you missed the movie The Social Network, they’re the Harvard frat boys who first hired Mark Zuckerberg to develop a social network before getting shut out of Facebook, themselves. They were right about the future of social networking, even if they weren’t the ones to implement it, and they made millions in the followup lawsuit. And now - again from the sidelines - they’re placing a bet on another emerging digital technology: Bitcoin. 
 
@@ -35,4 +37,4 @@ The irony here, however, is that if Bitcoin succeeds as an investment vehicle it
 
 Meanwhile, if Bitcoin actually succeeds as a transactional alternative to bank issued cash, it will be because it avoided the inflationary spiral that afflicts regular, debt-based money. That also means it would be better spent than saved. 
 
-Either way, in the long run, the speculators lose. 
+Either way, in the long run, the speculators lose.
