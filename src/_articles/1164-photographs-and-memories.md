@@ -1,15 +1,16 @@
 ---
 title: Photographs and Memories
 subtitle: 
-date: '2004-04-06T16:00:00.000Z'
+date: 2004-04-06T16:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
----
+categories:
+- _categories/periodicals.md
 
+---
 The cameraphone represents the latest step in a long evolution away from elevating and preserving moments, to capturing and disposing of them.
 
 Like everyone else on this side of the financially solvent and technology proficient divide, I'm pleased as punch to have a digital camera on my new Sony Ericsson cell phone. Not that I've even got a working access contract for it, but I'm already looking forward to the way it will replace the Canon Digital Elph that I once considered so very portable.

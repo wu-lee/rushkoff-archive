@@ -3,12 +3,13 @@ publication: _publications/paper.md
 title: Piloted to the Promised Land
 subtitle: The Palm Pilot Cut
 image: ''
-date: 1998-06-01 04:00:00 +0000
+date: 1998-06-01T04:00:00.000+00:00
 blurb: ''
 notes: June 1998
 refs: ''
 sources: ''
-categories: []
+categories:
+- _categories/periodicals.md
 
 ---
 I never thought I was the type of person who would join a cult, but I did. It's not a cult of personality, but one of technology. It's the cult of the Palm Pilot--a simple hand-held computer and operating system that accounts for over 60 percent of the global "personal digital assistant"--or PDA--market.
