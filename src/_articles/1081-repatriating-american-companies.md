@@ -1,13 +1,15 @@
 ---
 title: Repatriating American Companies
 subtitle: 
-date: '2014-02-01T17:00:00.000Z'
+date: 2014-02-01T17:00:00.000Z
 publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 I got a call from the CEO of what he called “an American television brand,” asking me to help him bring his company’s communications strategy into the 21st Century. “I want to get us on the social networks. Be less dependent on advertising and become a truly transparent company.” 
 
@@ -47,4 +49,3 @@ Worse, for every company thinking it can outsmart global capitalism by leverag
 The smartest companies in America are already bringing their manufacturing back home. Apple, GM, and even FritoLays are celebrating domestic production the way that homespun brands like LL Bean and Ben and Jerry’s used to. Besides the halo it earns them from an employment-challenged population, it gives them an opportunity to build a culture from the inside out, and to focus on core competencies for the longterm rather than short-term balance sheet maneuvers. 
 
 Most of all, the reason to repatriate your competencies is to stay close to the products and processes that are the lifeblood of your work. That smell of the factory floor on your way up to the office reminds you not just of where you came from, but what is at the heart of your work and your culture. Its what you do. 
-
