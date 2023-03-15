@@ -1,13 +1,15 @@
 ---
 title: Playing Undead
 subtitle: 
-date: '1995-04-01T05:00:00.000Z'
+date: 1995-04-01T05:00:00.000Z
 publication: _publications/swing.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 "All hail his royal highness, the noble primogen of the Tremere, Lord Julius," announces a herald as the last of the vampire clans arrives at the Elysium. It's 10:00 on a cold, wet, moonless night in San Francisco, yet nearly 75 Goth-clad bloodsuckers have gathered at the Arts Pavilion, a huge, circular, outdoor atrium butressed by ornate gargoyled columns, to conduct their weekly conclave.
 
