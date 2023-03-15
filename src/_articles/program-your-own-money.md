@@ -3,11 +3,13 @@ publication: _publications/what-comes-after-money.md
 title: Program Your Own Money
 subtitle: ''
 image: ''
-date: 2011-09-27 00:00:00 -0400
+date: 2011-09-27T00:00:00.000-04:00
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 The credit crunch may actually be good for business.
