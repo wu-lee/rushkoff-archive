@@ -1,13 +1,15 @@
 ---
 title: Predictions, Anyone?
 subtitle: 
-date: '1998-12-01T05:00:00.000Z'
+date: 1998-12-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Predictions and Anti-predictions for the Coming Decade
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 As a writer who openly and on record detests futurists of almost all breeds, I thought it might be fitting to close out 1998 with a list of predictions of my own. As you'll see, each of these 10 prophecies for 1999 is part of a pair equal and, in most cases, opposite counter-prophecies. For the more things change, the more they stay the same.
 
