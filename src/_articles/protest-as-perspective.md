@@ -8,6 +8,8 @@ notes: 'Source: https://www.cognitiveliberty.org/ccle1/9jcl/Rushkoff_protest.htm
 refs: ''
 sources: ''
 image: ''
+categories:
+- _categories/scholarship.md
 
 ---
 So often we hear people using the word “revolution” to describe the current overwhelming cultural shift fostered by technology and new media. However overwhelming it might be, can we really describe the current transition as a revolution? For me, the word “revolution” evokes images of a violent upheaval and guillotined heads. There’s certainly very little progress implied by revolution; it’s simply someone spinning around in circles.  
