@@ -1,13 +1,15 @@
 ---
 title: NSA Phone Snooping, a New Kind of Creepy
 subtitle: 
-date: '2013-06-06T04:00:00.000Z'
+date: 2013-06-06T04:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 I'm finding hard to get too worked up over yesterday's revelation that the National Security Agency has been authorized by the secret Foreign Intelligence Surveillance Court to collect all our call data from Verizon. Hasn't everyone already assumed this? Everything we do in the digital realm - from surfing the web to sending an email to conducting a credit card transaction to, yes, making a phone call - creates a data trail. And if that trail exists, chances are someone is using it - or will be soon enough.
 
