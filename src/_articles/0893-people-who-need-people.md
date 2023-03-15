@@ -1,13 +1,15 @@
 ---
 title: People Who Need People
 subtitle: 
-date: '1998-03-01T05:00:00.000Z'
+date: 1998-03-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: How the Dwarf Beat Leonardo
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Now, personally, I've got nothing against Leonardo DiCaprio. Still, I can't help but delight in his devastating loss for *People* Magazine's annual "Most Beautiful People" award to a man called "Hank, the Angry Drunken Dwarf." By a margin of about ten to one, visitors to *People*'s website voted for the essentially unknown diminutive demon over the angelic adolescent and a few dozen of his fabulous fellows.
 

@@ -3,11 +3,13 @@ publication: _publications/what-makes-a-man-22-writers-imagine-the-future.md
 title: Picture Perfect
 subtitle: ''
 image: ''
-date: 2004-03-30 00:00:00 -0500
+date: 2004-03-30T00:00:00.000-05:00
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 It was back around the fourth grade. Before any of us even knew what a homosexual was. Well, some of my classmates probably knew, but I didn't—which is part of what made me so vulnerable to the damning accusation.
@@ -112,4 +114,4 @@ Yes, I think I've found "the one," precisely because she's the one who's forced 
 
 What I've come to realize is that being a man means giving up the false security of defining my masculinity against an obsolete and crudely drawn notion of the feminine. Being a man has nothing to do with _not_ being a woman, and everything to do with being a person who makes his own choices in real life. When you lose the screenplay you may also lose the approval of the crowd, but you'll be more than compensated with the joy of autonomy. 
 
-It may be a little tougher to live life this way, but hell—someone's got to be a real man. 
+It may be a little tougher to live life this way, but hell—someone's got to be a real man.
