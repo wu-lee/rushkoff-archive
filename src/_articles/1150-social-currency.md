@@ -1,13 +1,15 @@
 ---
 title: Social Currency
 subtitle: 
-date: '2006-09-12T16:00:00.000Z'
+date: 2006-09-12T16:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 No matter how colorful you make it, content will never be king in a wireless world. It’s not the content that matters – it’s the contact.
 

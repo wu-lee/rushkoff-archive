@@ -1,13 +1,15 @@
 ---
 title: 'SMS Activism: Don''t Call Us, We''ll Call You'
 subtitle: 
-date: '2005-06-08T16:00:00.000Z'
+date: 2005-06-08T16:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Mobile-enabled politics are still far from true networked solidarity -- and may do unaffiliated activists more harm than good.
 
