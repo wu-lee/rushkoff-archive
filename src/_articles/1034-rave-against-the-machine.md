@@ -1,13 +1,15 @@
 ---
 title: Rave Against The Machine
 subtitle: 
-date: 1999-11-01T05:00:00.000Z
+date: 1999-11-01T05:00:00.000+00:00
 publication: _publications/this.md
 blurb: Rave culture once promised something truly extraordinary, capable of transforming
   the world... The spirit is gone.
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 IT WAS ALL THUMP AND BLEEP. SIMPLE ANALOG computer sounds that, amplified to discotheque volume, somehow suggested a new future for the human race. A thousand kids, wearing no style in particular, dancing sexily, rhythmically, or even just spasmodically, committed themselves to pushing through until dawn and beyond. Maybe it was the drugs. Or maybe they were on to something.
