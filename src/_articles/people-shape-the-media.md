@@ -3,11 +3,13 @@ publication: _publications/debating-democracy.md
 title: People Shape the Media
 subtitle: ''
 image: ''
-date: 1999-01-01 00:00:00 -0500
+date: 1999-01-01T00:00:00.000-05:00
 blurb: ''
 notes: "1999"
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 Most social theorists consider the media a dungheap of cultural waste. They believe that the media, having nothing better to do, keeps chewing on the same predigested matter. There's so much time to fill on so many stations, and only a few real stories to tell. This is a simplistic view of media only shared by philosophers who grew up before television. They view media and even technology, for that matter, as somehow outside the realm of the natural. To them media can only display or comment on something real. They cannot acknowledge that the media is something real itself.... This generation even objects to the word "media" being used as a singular noun. The media, to these people, are merely the channels through which we communicate: TV, print, bumper stickers, telegraph.
