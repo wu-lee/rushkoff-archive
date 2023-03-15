@@ -3,11 +3,13 @@ publication: _publications/disinformation-the-interviews.md
 title: Open Source Reality
 subtitle: ''
 image: ''
-date: 2002-11-01 00:00:00 -0500
+date: 2002-11-01T00:00:00.000-05:00
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 Douglas Rushkoff is one of the most widely read media critics to emerge from America in the past ten years. His thoughtful books, newspaper columns, magazine articles, television appearances and NPR¹⁴ commentaries are intended to demystify for the man on the street the various ways we’re all manipulated by the media, popular culture and especially by commerce. _New Perspectives Quarterly_ called him “the heir to Marshall McLuhan” and like McLuhan Rushkoff’s briefed government agencies, CEOs and heads of state. His _Coercion: Why We Listen to What “They” Say_ earned him the reputation as the “go to” guy when the media needs a sharp talking head expert on matters of advertising and youth culture, and his role as correspondent for PBS's¹⁵ highly regarded _The Merchants of Cool_ documentary cemented this mark.

@@ -1,13 +1,15 @@
 ---
 title: Operation Mindfuck 2.0
 subtitle: 
-date: '2019-04-24T16:00:00.000Z'
+date: 2019-04-24T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Propaganda used to mean getting people to believe stuff. Now it means getting them to question what they believe or whether there’s any truth at all. However disorienting this is, it may not be all bad.
 
