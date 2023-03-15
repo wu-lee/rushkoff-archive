@@ -1,14 +1,16 @@
 ---
 title: Plunging Into the Abyss
 subtitle: 
-date: '2021-07-21T16:00:00.000Z'
+date: 2021-07-21T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
-image: /uploads/1068-plunging-into-the-abyss.jpg
+image: "/uploads/1068-plunging-into-the-abyss.jpg"
+categories:
+- _categories/periodicals.md
+
 ---
 Itcomes in waves. A friend here, a co-worker there, getting curious about one conspiracy theory or another until they follow one too many trailheads, and end up over the edge. It’s a casualty of living in disorienting times, we tell ourselves. It will eventually pass.
 
@@ -57,4 +59,3 @@ Indeed, Qanon gives people as guilty as the rest of us an excuse to feel superio
 Those of us back here in reality must work together to enact a Gentle Awakening for our friends and loved ones who have gotten addicted to this video game. There is no man behind the curtain, no secret cabal controlling our destinies, no marvelous or nefarious plan driving Covid, vote counting, or global affairs. They need to awaken to something way way more frightening than politicians eating children: shit just happens, no one is in charge, and chaos reigns. There really is no scapegoat — never was. The only way through is to find ways of coming together, instead.
 
 One step, and one day at a time.
-
