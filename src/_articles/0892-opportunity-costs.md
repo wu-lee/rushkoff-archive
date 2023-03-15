@@ -1,13 +1,15 @@
 ---
 title: Opportunity Costs
 subtitle: 
-date: '2008-05-09T04:00:00.000Z'
+date: 2008-05-09T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: March 1997
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 There are people who would have us believe that our computers could destroy the planet. No, not by taking control of the nuclear arsenals or enslaving humanity, but by sapping our resources and literally polluting us to death. They may be right.
 
