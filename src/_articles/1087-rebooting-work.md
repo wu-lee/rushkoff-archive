@@ -1,12 +1,14 @@
 ---
 title: Rebooting Work
 subtitle: 
-date: 2016-01-04 00:00:00 -0500
+date: 2016-01-04T00:00:00.000-05:00
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 Digital and robotic technologies offer us both a bounty of productivity as well as welcome relief from myriad repeatable tasks. Unfortunately, as our economy is currently configured, both of these seeming miracles are also big problems. How do we maintain market prices in a world with surplus productivity? And, even more to the point, how do we employ people when robots are taking all the jobs?
