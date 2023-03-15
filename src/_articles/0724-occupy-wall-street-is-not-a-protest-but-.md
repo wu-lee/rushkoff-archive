@@ -1,7 +1,7 @@
 ---
 title: Occupy Wall Street Is Not a Protest but a Prototype
 subtitle: 
-date: '2011-10-26T00:00:00.000Z'
+date: 2011-10-26T00:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -70,7 +70,9 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   boys banging on drums comprise the bulk of the imagery we see of the Occupy Wall
   Street movement. Stock brokers look on, police man the barricades, and what appears
   to be a […]", "dateLastCrawled"=>"2020-06-19T02:46:00.0000000Z"}]'
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 The more familiar something looks, the less threatening it seems. This is why images of funny-looking college students marching up Broadway or shirtless boys banging on drums comprise the bulk of the imagery we see of the Occupy Wall Street movement. Stock brokers look on, police man the barricades, and what appears to be a traditional protest movement carries on another day, week, or month.
 

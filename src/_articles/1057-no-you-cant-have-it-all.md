@@ -1,12 +1,14 @@
 ---
 title: No, you can't have it all
 subtitle: 
-date: 2015-10-20T16:00:00.000Z
+date: 2015-10-20T16:00:00.000+00:00
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 Technology has always been about choice: Fire allowed us to choose to live in colder climates. Electric lighting offered us the choice to read at night. Drugs give us the freedom to choose stressful, self-destructive lifestyles.
