@@ -1,7 +1,7 @@
 ---
 title: Privacy Bill Won't Mean Marketers Can't Find You
 subtitle: 
-date: '2011-04-14T04:00:00.000Z'
+date: 2011-04-14T04:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -13,7 +13,9 @@ refs: '[{"text"=>"John Kerry and John McCain proposed this week", "original"=>"h
   opt-in, opt-out business.", "favicon"=>"http://www.cnn.com/favicon.ico"}}, {"text"=>"Commercial
   Privacy Bill of Rights", "original"=>"http://kerry.senate.gov/imo/media/doc/Commercial%20Privacy%20Bill%20of%20Rights%20Text.pdf"}]'
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 With their "Commercial Privacy Bill of Rights Act of 2011," John Kerry and John McCain proposed this week to limit the sale and sharing of our sensitive information between companies. It's a quaint idea, even a good one, but overestimates government's ability to reverse the way marketers have worked for almost a century.
 
