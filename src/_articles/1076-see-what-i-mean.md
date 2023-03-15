@@ -1,13 +1,15 @@
 ---
 title: See What I Mean?
 subtitle: 
-date: '2015-12-01T17:00:00.000Z'
+date: 2015-12-01T17:00:00.000Z
 publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 The first people I knew who were truly captivated by the net were Deadheads. These West Coast tripsters saw connected machines as the technology through which they could finally share hallucinatory spaces together. As psychedelics champion Terence McKenna once explained to me, virtual reality would be a place where “you can quite literally see what I mean.” 
 
@@ -33,4 +35,4 @@ KVS founder Alan Yelsey thinks the big difference here is that we finally have t
 
 Could the future of the net look less like a stream of text or video updates and more like a dance floor with a spectacular light show emanating from the dancers themselves? See what I mean? 
 
-Sounds crazy. More like the ravings of a kid on ecstasy than the prognostication of a respected media theorist. Then again, so did the Internet. 
+Sounds crazy. More like the ravings of a kid on ecstasy than the prognostication of a respected media theorist. Then again, so did the Internet.
