@@ -1,13 +1,15 @@
 ---
 title: Screw growth. It’s time to reprogram the digital economy for people
 subtitle: 
-date: '2016-03-03T17:00:00.000Z'
+date: 2016-03-03T17:00:00.000Z
 publication: _publications/digital_trends.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 The digital economy isn’t working out quite like it was supposed to.
 The promise was that we were all going to get to work fewer hours, from home, in our pajamas, on creative pursuits, while our computers and networks did the heavy lifting. Instead, however, we find ourselves automated out of gainful employment, less secure in our futures, and glued 24/7 to screens that are extracting value from us — whether or not we’re even on the job.
