@@ -3,13 +3,15 @@ publication: _publications/open-source-democracy.md
 title: Open Source Democracy
 subtitle: ''
 image: ''
-date: 2003-01-01 00:00:00 -0500
+date: 2003-01-01T00:00:00.000-05:00
 blurb: ''
 notes: 'Source:  [http://www.demos.co.uk/opensourcedemocracy_pdf_media_public.aspx](http://www.demos.co.uk/opensourcedemocracy_pdf_media_public.aspx
   "http://www.demos.co.uk/opensourcedemocracy_pdf_media_public.aspx") (via Wayback
   Machine)'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 **1. Introduction**
