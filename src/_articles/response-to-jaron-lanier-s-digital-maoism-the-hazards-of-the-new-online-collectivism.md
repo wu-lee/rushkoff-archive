@@ -3,7 +3,7 @@ publication: _publications/the-edge.md
 title: 'Response to Jaron Lanier’s Digital Maoism: The Hazards of the New Online Collectivism'
 subtitle: ''
 image: ''
-date: 2006-06-08 00:00:00 -0400
+date: 2006-06-08T00:00:00.000-04:00
 blurb: ''
 notes: |-
   Source: [https://www.edge.org/conversation/jaron_lanier-digital-maoism-the-hazards-of-the-new-online-collectivism](https://www.edge.org/conversation/jaron_lanier-digital-maoism-the-hazards-of-the-new-online-collectivism "https://www.edge.org/conversation/jaron_lanier-digital-maoism-the-hazards-of-the-new-online-collectivism")
@@ -11,6 +11,8 @@ notes: |-
   Date from CV
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 Despite comparing Wikipedia with the likes of American Idol, this is a more reasoned and hopeful argument than it appears at first glance. Lanier is not condemning collective, bottom-up activity as much as trying to find ways to check its development. In short, it's an argument for the mindful intervention of individuals in the growth and acceleration of this hive-mind thing called collective intelligence.

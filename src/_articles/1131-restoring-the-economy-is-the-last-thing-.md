@@ -1,13 +1,15 @@
 ---
 title: Restoring the Economy Is the Last Thing We Should Want
 subtitle: 
-date: '2020-04-27T16:00:00.000Z'
+date: 2020-04-27T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 'Blah the Black of Black '
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Everyone wants to know when we’re going to get the economy started up again, and just how many lives we’re willing to surrender before we do. We’ve all been made to understand the dilemma: The sooner we “open up” American and get back to our jobs, the more likely we spread Covid-19, further overwhelming hospitals and killing more people. Yet the longer we wait, the more people will suffer and die in other ways.
 
@@ -50,5 +52,3 @@ That’s the way an economy is supposed to work. Just like the circulatory syste
 The restoration of local, bottom-up production and commerce based in mutual prosperity is also a chance for Trump and Bernie supporters to realize they’re on the same side. Freed of top-down political ideologies and frameworks, we can get down to the actual work of growing food, patching roofs, healing wounds, and teaching arithmetic. Local resilience need not be left or right.
 
 It’s just a way to return to health.
-
-
