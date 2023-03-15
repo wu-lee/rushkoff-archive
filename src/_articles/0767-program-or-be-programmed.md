@@ -1,7 +1,7 @@
 ---
 title: Program or Be Programmed
 subtitle: 
-date: 2010-10-07T04:00:00.000Z
+date: 2010-10-07T04:00:00.000+00:00
 publication: _publications/shareable.md
 blurb: 
 notes: 
@@ -57,6 +57,8 @@ refs: '[{"text"=>"Program or be Programmed: Ten Commands for the Digital Age", "
   for Digital Age, by Douglas Rushkoff - OR Books", "site"=>"@orbooks", "images"=>[{"url"=>"https://www.orbooks.com/wp-content/uploads/2010/08/Program-web.jpg"}],
   "creator"=>"@orbooks"}, "favicon"=>"https://www.orbooks.com/wp-content/uploads/2019/04/orlogo-300x300.png"}}]'
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 An excerpt from Douglas Rushkoff's latest book, *[Program or be Programmed: Ten Commands for the Digital Age](http://www.orbooks.com/our-books/program/).*
