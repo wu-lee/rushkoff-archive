@@ -1,7 +1,7 @@
 ---
 title: Occupy Debt
 subtitle: 
-date: '2012-11-14T00:00:00.000Z'
+date: 2012-11-14T00:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -63,7 +63,9 @@ refs: '[{"text"=>"Most recently,", "original"=>"http://www.nytimes.com/2012/11/1
   {"text"=>"Why not bail out the actual people?", "original"=>"http://www.forbes.com/sites/timworstall/2012/11/10/links-10-nov-finally-an-occupy-wall-street-idea-we-can-all-get-behind-the-rolling-jubilee/",
   "meta"=>{"title"=>"Security Violation (403)", "favicon"=>"http://www.forbes.com/favicon.ico"}}]'
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Much like President Obama, the Occupy movement is alive and well and entering its second term, thank you very much. It's no longer about squatting in public parks, getting on the news, or -- in some cases -- getting arrested. No, instead this decentralized, bottom-up, anti-Wall Street effort is taking aim at your medical, student and other loans: It aims to relieve your debt.
 

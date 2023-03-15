@@ -1,7 +1,7 @@
 ---
 title: Occupy Wall Street and the Tea Party compared
 subtitle: ''
-date: 2011-10-07 00:00:00 -0400
+date: 2011-10-07T00:00:00.000-04:00
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Both are grassroots populist movements with a common anger at bailed-out banks,
   but where does the resemblance end?
@@ -10,6 +10,8 @@ notes: "[https://www.theguardian.com/commentisfree/cifamerica/2011/oct/07/occupy
   \ \n(Rushkoff section only)"
 refs: 
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 As America swells with Occupy Wall Street protests, pundits and politicians are still pretending to be confused by the whole thing. But the movement is as coherent an articulation of our economic problem as any I have seen in my lifetime. Unlike the Tea Party, who see themselves as the customers of government, people in the Occupy Wall Street movement understand that we are the government. Stated most simply, we are trying to run a 21st-century society on a 13th-century economic operating system. It just doesn't work.

@@ -4,11 +4,13 @@ title: On Building Tech That Better Serves Humanity - Tiffany Shlain Talks With 
   Rushkoff
 subtitle: ''
 image: ''
-date: 2019-10-26 00:00:00 -0400
+date: 2019-10-26T00:00:00.000-04:00
 blurb: ''
 notes: ''
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 From: Tiffany  
