@@ -3,7 +3,7 @@ publication: _publications/silicon-alley-reporter.md
 title: Media Has Morphed
 subtitle: ''
 image: ''
-date: 2000-02-01 05:00:00 +0000
+date: 2000-02-01T05:00:00.000+00:00
 blurb: The way to benefit from and even enjoy the tremendous change in our industry
   is to develop a long-term view. The object of the game is not to make fast cash
   and drop out--it's to succeed in the long run. Slow and steady still wins the race,
@@ -11,7 +11,8 @@ blurb: The way to benefit from and even enjoy the tremendous change in our indus
 notes: issue 31, Feb. 2000
 refs: ''
 sources: ''
-categories: []
+categories:
+- _categories/periodicals.md
 
 ---
 Those of you called "media professionals" like to think of yourselves as defining the leading edge of world culture. And why not? You conceive, create, sponsor or broadcast the images that are seen around the globe. Whether you make _Baywatch_, Nike commercials or news programs, you are responsible for the stories, pictures and ideas that shape the way millions, perhaps billions of people think and feel.
