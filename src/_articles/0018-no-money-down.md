@@ -1,13 +1,15 @@
 ---
 title: No Money Down
 subtitle: 
-date: '2008-05-01T04:00:00.000Z'
+date: 2008-05-01T04:00:00.000Z
 publication: _publications/arthur.md
 blurb: Rushkoff on the rigged credit system*from Arthur Magazine No. 31, Oct 2008*
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 I poked my head up from writing my book a couple of months ago to engage with *Arthur* readers about the subject I was working on: the credit crunch and what to do about it \\[see [“Riding Out the Credit Crisis”](http://www.arthurmag.com/magpie/?p=3149) in Arthur No. 29/May 2008\\]. I got more email about that piece than anything I have written since a column threatening to defect from the Mac community back in the Quadra days.
 

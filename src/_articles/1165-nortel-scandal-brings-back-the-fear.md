@@ -1,13 +1,15 @@
 ---
 title: Nortel Scandal Brings Back the Fear
 subtitle: 
-date: '2004-04-30T16:00:00.000Z'
+date: 2004-04-30T16:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Just last week, it looked like a Fed rate hike or the cooling of China's markets were Wall Street's biggest worries. Now, corporate malfeasance has roared back into the headlines.
 
