@@ -1,13 +1,15 @@
 ---
 title: New Pseudoscience Patina, Same Snake Oil
 subtitle: 
-date: '2007-06-20T04:00:00.000Z'
+date: 2007-06-20T04:00:00.000Z
 publication: _publications/discover.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 As the saying goes, opposites attract, as when an electron races to a positively charged ion, or the north pole of a magnet pulls the south pole of another. But try telling that to proponents of The Secret, the latest in a long line of spiritual systems aimed at selling personal prosperity through faulty scientific reasoning.
 

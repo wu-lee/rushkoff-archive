@@ -1,13 +1,15 @@
 ---
 title: Networks Without the Net
 subtitle: 
-date: '2004-09-22T16:00:00.000Z'
+date: 2004-09-22T16:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Software for the next generation of wireless networks may forgo access to the Internet, and give users access to one another.
 
