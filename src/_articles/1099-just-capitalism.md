@@ -1,13 +1,15 @@
 ---
 title: Just Capitalism
 subtitle: 
-date: '2018-09-18T16:00:00.000Z'
+date: 2018-09-18T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 What if investors could make the same or even better returns from the stock market index funds by focusing on companies doing social good? When I learned that a group of multimillionaires-from Deepak Chopra to Ariana Huffington-had developed a stock fund with Goldman Sachs called Just Capital to do just that, I was about to celebrate until I looked at the top holdings: polluting chipmakers like Intel and Texas Instruments, obesity enablers from Pepsi to Yum Brands, surveillance firms like Alphabet, and propagandists including NewsCorp.
 

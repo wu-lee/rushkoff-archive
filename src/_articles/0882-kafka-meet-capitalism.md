@@ -1,13 +1,15 @@
 ---
 title: Kafka, Meet Capitalism
 subtitle: 
-date: '2001-04-01T05:00:00.000Z'
+date: 2001-04-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: My struggle with getting DSL service from a Telco.
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 How much of the saga do you need to hear to recognize it as your own?
 
