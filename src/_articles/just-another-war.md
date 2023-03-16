@@ -3,12 +3,13 @@ publication: _publications/exposure.md
 title: Just Another War
 subtitle: ''
 image: ''
-date: 1990-04-01 05:00:00 +0000
+date: 1990-04-01T05:00:00.000+00:00
 blurb: ''
 notes: April/May 1990
 refs: ''
 sources: ''
-categories: []
+categories:
+- _categories/periodicals.md
 
 ---
 Were I not stopped in rush-hour traffic on the Santa Monica Freeway last week, I would never have noticed the spartan black graffiti on the Lincoln Blvd. overpass: "The War On Drugs Is Just Another War." What I took at first to be a pro-pot slogan slowly began to make more sense as I considered the realities of the Bush administration's so-called "war on drugs," and the all-purpose role it now plays in our defense policies, budget decisions, social programs and disinformation strategies.

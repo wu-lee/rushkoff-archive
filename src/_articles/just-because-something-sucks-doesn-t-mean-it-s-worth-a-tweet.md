@@ -3,13 +3,15 @@ publication: _publications/medium.md
 title: Just Because Something Sucks, Doesn’t Mean it’s Worth a Tweet
 subtitle: Granting slack is a better choice than venting rage
 image: "/uploads/0_4b_d-bvtyynsaiqf.jpg"
-date: 2021-06-14 00:00:00 -0400
+date: 2021-06-14T00:00:00.000-04:00
 blurb: We simply must stop interpreting every action everyone takes through the lens
   of grievance and victimization.
 notes: 'Source: [https://onezero.medium.com/just-because-something-sucks-doesnt-mean-it-s-worth-a-tweet-5ee243c15d92](https://onezero.medium.com/just-because-something-sucks-doesnt-mean-it-s-worth-a-tweet-5ee243c15d92
   "https://onezero.medium.com/just-because-something-sucks-doesnt-mean-it-s-worth-a-tweet-5ee243c15d92")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 You’d think the declining infection rates, incremental lifting of mask restrictions, and signs of a more social, physical, and prosperous stretch ahead would do a lot to raise spirits, lighten the mood, and reduce the high level of belligerence that has characterized the public discussion. Yet every time I peek at my social media feeds, it feels as if people are only getting more irate, more triggered, and more entrenched in their positions.
