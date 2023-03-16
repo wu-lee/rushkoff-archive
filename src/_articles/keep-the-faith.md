@@ -3,13 +3,15 @@ publication: _publications/medium.md
 title: Keep the Faith
 subtitle: Why it’s better for humans to believe in something
 image: "/uploads/0_n8ahwmqyfa0olpsd.jpg"
-date: 2022-02-25 00:00:00 -0500
+date: 2022-02-25T00:00:00.000-05:00
 blurb: Maybe machines will consider the possibility that we know something they don’t,
   and keep us around if only on the off-chance we do.
 notes: 'Source: [https://rushkoff.medium.com/keep-the-faith-302700a441b3](https://rushkoff.medium.com/keep-the-faith-302700a441b3
   "https://rushkoff.medium.com/keep-the-faith-302700a441b3")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 I’m not a man of faith as it’s commonly understood, but I am starting to wonder if we’re getting to a moment where we human beings need to assert just a bit of sacred mystery to the goings on in this dimensional neighborhood we call reality.

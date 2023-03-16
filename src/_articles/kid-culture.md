@@ -3,14 +3,15 @@ publication: _publications/chicago-herald.md
 title: Kid culture
 subtitle: ''
 image: ''
-date: 1996-07-25 04:00:00 +0000
+date: 1996-07-25T04:00:00.000+00:00
 blurb: Today's child is computer-savvy, sophisticated, somewhat isolated, possibly
   disillusioned, says writer Douglas Rushkoff. But he wants to ease parents' fears
   about all this
 notes: ''
 refs: ''
 sources: ''
-categories: []
+categories:
+- _categories/periodicals.md
 
 ---
 BY LISA FRIEDMAN MINER  
