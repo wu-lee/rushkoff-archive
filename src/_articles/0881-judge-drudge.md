@@ -1,13 +1,15 @@
 ---
 title: Judge Drudge
 subtitle: 
-date: '1998-03-01T05:00:00.000Z'
+date: 1998-03-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The Drudge Reports beats the mainstream in timing, and integrity.
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 "Maybe somebody now can stop the insanity!" Time magazine's Margaret Carlson exclaimed on national television just a few short weeks ago, when Internet scandal sheet Drudge Report was still under widespread attack from the mainstream media for posting a rumor about White House advisor Sidney Blumenthal beating his wife.
 
