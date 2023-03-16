@@ -1,13 +1,15 @@
 ---
 title: 'Music In, Music Out: The Garage Band Ethos in a Cellular World'
 subtitle: 
-date: '2005-01-26T17:00:00.000Z'
+date: 2005-01-26T17:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 The future of mobile music lies in creating tunes, not just downloading them.
 
