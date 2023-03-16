@@ -1,7 +1,7 @@
 ---
 title: Manning Verdict Won't End Government Transparency in a Digital Age
 subtitle: 
-date: '2013-07-30T04:00:00.000Z'
+date: 2013-07-30T04:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -97,7 +97,9 @@ refs: '[{"text"=>"235th anniversary", "original"=>"http://dissenter.firedoglake.
   "id"=>"409128287"}}, "images"=>[{"url"=>"https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2010/11/25/1290684760029/UN-secretary-general-Ban--007.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctYWdlLTIwMTAucG5n&s=222280746098d17404e661d376b6f818"}],
   "site"=>"@guardian", "card"=>"summary_large_image"}, "favicon"=>"https://assets.guim.co.uk/images/favicons/46bd2faa1ab438684a6d4528a655a8bd/32x32.ico"}}]'
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 **(CNN)** -- Pfc. Bradley Manning, who provided classified government documents to Wikileaks detailing, among other things, America's undisclosed policies on torture, was found guilty of espionage on Tuesday. The verdict comes on the [235th anniversary](http://dissenter.firedoglake.com/2013/07/29/bradley-manning-to-be-convicted-on-a-day-of-significance-in-whistleblower-history/) of the passage of America's first whistle-blower protection law, approved by the Continental Congress after two Navy officers were arrested and harassed for having reported the torture of British prisoners.
 

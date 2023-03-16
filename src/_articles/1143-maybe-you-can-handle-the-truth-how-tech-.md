@@ -1,13 +1,15 @@
 ---
 title: 'Maybe you can handle the truth: How tech has dulled our taste for tall tales'
 subtitle: 
-date: '2015-10-28T16:00:00.000Z'
+date: 2015-10-28T16:00:00.000Z
 publication: _publications/digital_trends.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Digital culture seems up in arms about the ways the new Steve Jobs movie diverges from factual history. Unlike the film, nothing ever failed in an Apple demo, Jobs didn’t get into fights with people before going on stage, Wozniak never said any of the things his character does in the movie, and engineers simply don’t work and speak the way they do in the movie.
 For people who knew Jobs or Apple well – or have even read Walter Isaacson’s book – the poetic license taken by the film feels like an inaccuracy being entered into the historical record. In that sense, it’s worse than a time-travel inconsistency in the Star Trek universe.
@@ -46,6 +48,3 @@ To Sorkin’s credit, it was the villain in his first great play who argued that
 But as members of the digital generation, we have learned to interact with the worlds behind the screen. We have become the masters of the most powerful technologies humankind has ever known, and eaten from the tree of the knowledge. Indeed, we have bitten into the apple.
 
 And for that, we have the real Steve Jobs to thank.
-
-
-
