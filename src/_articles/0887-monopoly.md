@@ -1,13 +1,15 @@
 ---
 title: Mega media is mediocre
 subtitle: 
-date: 2000-02-09 00:00:00 -0500
+date: 2000-02-09T00:00:00.000-05:00
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Douglas Rushkoff explains why he's not afraid of media monopolies
 notes: '[https://www.theguardian.com/technology/2000/feb/10/onlinesupplement6](https://www.theguardian.com/technology/2000/feb/10/onlinesupplement6
   "https://www.theguardian.com/technology/2000/feb/10/onlinesupplement6")'
 refs: 
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 The hubbub in concerned circles these days is that AOL-TimeWarner, and now Time-Warner-Elektra mergers herald a dangerous trend. The dark enemy at the heart of this nightmare scenario? Media Monopoly.

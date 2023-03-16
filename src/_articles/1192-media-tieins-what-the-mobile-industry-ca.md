@@ -1,15 +1,16 @@
 ---
 title: 'Media Tie-Ins: What the Mobile Industry Can Learn from Ovaltine'
 subtitle: 
-date: '2004-10-19T16:00:00.000Z'
+date: 2004-10-19T16:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
----
+categories:
+- _categories/periodicals.md
 
+---
 The stories, games, and characters driving youth culture can also drive the uptake of communications technologies.
 
 In the 1930s, the Ovaltine company stormed US markets riding one of the most wildly successful promotional alliances of all time. As sponsor of the popular kids' adventure series Radio Orphan Annie, Ovaltine offered a series of Annie-related premiums available exclusively to those listeners who redeemed the coupons they found inside the lids of Ovaltine jars. If your parents were raised in America, chances are they still remember the line of Radio Orphan Annie Secret Society decoder pins that still stand as one of the most successful promotions in media history.
@@ -33,4 +34,3 @@ As might be expected, Japan's mobile industry is further along in its effort to 
 Bandai, the Japanese toy company that invented our contemporary notion of cross-promotion by developing TV shows with toy tie-ins already in mind, has been adding merchandising opportunities to an existing cartoon hit, Precure, and its associated game, Card Commun. Now, the game system also features an inexpensive clamshell mobile device that scans cards and allows for simple P2P communications. No surprise that a very similar device is also used by the girls on the show to transform themselves into monster-battling super heroes.
 
 In both cases, as well as in the most successful strategies yet to come, wireless devices proliferate by making themselves indispensable to the total enjoyment of an existing pop culture phenomenon -- rather than trying to become one themselves.
-
