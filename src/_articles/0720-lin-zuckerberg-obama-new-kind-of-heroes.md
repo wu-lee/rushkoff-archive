@@ -1,7 +1,7 @@
 ---
 title: 'Lin, Zuckerberg, Obama: New Kind of Heroes?'
 subtitle: 
-date: '2012-02-22T05:00:00.000Z'
+date: 2012-02-22T05:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -12,7 +12,9 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   \"Linsanity\" surrounding the New York Knicks'' surprise phenom at point guard may
   be motivated by something bigger than sports. Yes, Jeremy Lin is a terrific athlete,
   whose almost accidental ...", "dateLastCrawled"=>"2020-04-29T23:48:00.0000000Z"}]'
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 (CNN) -- The "Linsanity" surrounding the New York Knicks' surprise phenom at point guard may be motivated by something bigger than sports. Yes, Jeremy Lin is a terrific athlete, whose almost accidental discovery by the Knicks and little-engine-that-could perseverance make for great radio commentary and pop cultural mythology.
 
