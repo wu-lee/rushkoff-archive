@@ -1,13 +1,15 @@
 ---
 title: Lies the Jumbotron Told Me
 subtitle: 
-date: '2018-08-16T16:00:00.000Z'
+date: 2018-08-16T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 What used to make me valuable as a technology theorist was my access to new and weird stuff and my ability to make it seem less strange and foreign. Email? It’s just like writing letters. Hypertext? It’s like “choose your own adventure.” Chaos math? Like a weather system.
 
