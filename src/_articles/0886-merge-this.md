@@ -1,13 +1,15 @@
 ---
 title: Merge This
 subtitle: 
-date: '2001-01-01T05:00:00.000Z'
+date: 2001-01-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: An Acquisition by Any Other Name
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 No matter how spirited the press conference, or how high the combined worth of the resulting entity - upwards of $300 billion - the proposed merger of America Online and Time Warner is as desperate a measure for both partners as it is intelligent. Each company bailed the other out, and just in time.
 
