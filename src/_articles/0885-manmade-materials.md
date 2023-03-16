@@ -1,13 +1,15 @@
 ---
 title: Manmade Materials
 subtitle: 
-date: '1998-10-01T04:00:00.000Z'
+date: 1998-10-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Is Anything Not Natural?
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 When I was about eight years old I would lie at my father's feet as we watched the magic box called television, dad in his big recliner and me on the shag rug. From my vantage point on the floor, I could look up at the bottoms of my father's bedroom slippers. Molded into the plastic soles were the words: "Man-made Materials."
 

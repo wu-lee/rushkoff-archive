@@ -1,13 +1,15 @@
 ---
 title: 'Mark Pesce: Evolution by SMS'
 subtitle: 
-date: '2005-05-11T16:00:00.000Z'
+date: 2005-05-11T16:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 "LiveRecord is a bare-faced attempt to create another, more powerful form of mobile crack."
 
@@ -53,4 +55,3 @@ So LiveRecord allows you make note of your "moments of quality": that is, a grea
 TheFeature: Is someone building it out?
 
 Pesce: What happens next is up to you; the code has been released under the GPL.
-
