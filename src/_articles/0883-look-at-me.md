@@ -1,13 +1,15 @@
 ---
 title: Look at Me
 subtitle: 
-date: '2001-03-01T05:00:00.000Z'
+date: 2001-03-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The Other Side of Internet Voyeurism
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Do reality TV and webcams indicate the future of media? Shows like Survivor, its countless clones, and the thousands of voyeuristic web sites springing up online all point to an alarming trend: we have become more interested in watching real people than crafted entertainments like television drama and movies.
 
