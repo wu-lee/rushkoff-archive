@@ -3,7 +3,7 @@ publication: _publications/iou-new-writing-on-money.md
 title: Local Money
 subtitle: ''
 image: ''
-date: 2010-01-01 00:00:00 -0500
+date: 2010-01-01T00:00:00.000-05:00
 blurb: ''
 notes: |-
   Source: scan
@@ -11,6 +11,8 @@ notes: |-
   2010 per CV
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 In my town, the tiny organic café called Comfort decided to expand to a second, larger location. John, the chef and owner, had been renovating the new space for a year, but - thanks to the credit crisis - was unable to raise the cash required to finish and finally open. With currency unavailable from traditional, centralized money-lending banks, he turned instead to his community, to us, for support. Granted, this is a small town. Pretty much everybody goes to Comfort - the only restaurant of its kind on the small strip - and we all have a stake in its success. Any extension of Comfort would bring more activity, vitality, and commerce to a tiny downtown (commercially devastated in the 1970s by the chain stores and malls on the auto-friendly main strip).
