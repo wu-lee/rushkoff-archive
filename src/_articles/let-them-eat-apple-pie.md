@@ -3,11 +3,13 @@ publication: _publications/the-new-top-line.md
 title: Let Them Eat Apple Pie
 subtitle: Cultural Imperialism and the Internet
 image: ''
-date: 1999-08-01 00:00:00 -0400
+date: 1999-08-01T00:00:00.000-04:00
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 **b) Is the Internet American? Much of Europe seems to think so.**
