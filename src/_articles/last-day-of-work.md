@@ -3,11 +3,13 @@ publication: _publications/the-tomorrow-project-bestselling-authors-describe-dai
 title: Last Day of Work
 subtitle: ''
 image: ''
-date: 2011-01-01 00:00:00 -0500
+date: 2011-01-01T00:00:00.000-05:00
 blurb: ''
 notes: "2011"
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 I'm finally doing it. Clocking out for the last time.
