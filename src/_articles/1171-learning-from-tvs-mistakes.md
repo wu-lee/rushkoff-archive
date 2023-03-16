@@ -1,15 +1,16 @@
 ---
 title: Learning From TV's Mistakes
 subtitle: 
-date: '2004-06-15T16:00:00.000Z'
+date: 2004-06-15T16:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
----
+categories:
+- _categories/periodicals.md
 
+---
 Today's advertising crisis needn't threaten mobile content at all. In fact, the mobile industry can exploit the coming shift in media buying patterns to establish itself firmly in the emerging landscape.
 
 The word is out: advertising doesn't work anymore, and the world's biggest brands are looking for new ways to hawk their products. This doesn't mean that no one will be left to pay for professionally developed media -- only that the boundary between products and programs is growing decidedly less discreet.
@@ -61,4 +62,3 @@ Even when social contact is not the immediate goal, mobile devices can offer exp
 Car rental companies could offer map programs, city guides and emergency contacts for traveling executives. Fast-food chains can offer calorie diaries, games that let kids assemble burgers or practice sustainable agriculture. Trendy clothing designers can offer games where girls pass secrets. A sport shoe company can alert member customers of impromptu appearances of its sports legend spokesmodels.
 
 Mobile platforms offer companies a way to extend the experience of their brand beyond the media and into the real world. Mobile companies will have to be creative enough to think up some of these experiences or partner, quickly, with people who can.
-
