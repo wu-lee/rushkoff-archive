@@ -3,13 +3,15 @@ publication: _publications/medium.md
 title: 'Move Along: The Car Crash is Fake'
 subtitle: Real Americans Don’t Give a Shit About the Culture Wars
 image: "/uploads/0_mvdb_hmhucoack2g.jpg"
-date: 2022-01-02 00:00:00 -0500
+date: 2022-01-02T00:00:00.000-05:00
 blurb: Life is hard enough without television anchors and talk show hosts imploring
   us to question the good faith efforts of everyone, everywhere, to simply get by.
 notes: 'Source: [https://rushkoff.medium.com/move-along-the-car-crash-is-fake-cf9e327913c6](https://rushkoff.medium.com/move-along-the-car-crash-is-fake-cf9e327913c6
   "https://rushkoff.medium.com/move-along-the-car-crash-is-fake-cf9e327913c6")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 I have let myself get too worked up for too long about the culture wars on Twitter and its extensions on cable TV. They are not based in reality, but rhetoric. So this year, I’m ignoring them.
