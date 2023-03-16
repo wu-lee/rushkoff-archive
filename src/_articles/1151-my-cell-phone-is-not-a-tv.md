@@ -1,15 +1,16 @@
 ---
 title: My Cell Phone is Not a TV
 subtitle: 
-date: '2003-11-15T17:00:00.000Z'
+date: 2003-11-15T17:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
----
+categories:
+- _categories/periodicals.md
 
+---
 The wireless industry’s insistence on bringing the wrong media to our cell phones may cost us – and them – the whole game.
 
 Sure – I can imagine bizarre circumstances under which I’d be glad for my cell phone to display broadcast television or stream digital files from cinema libraries. But not very many. And certainly not enough to sacrifice the promise of wireless telephony to yet more misguided efforts to suck profit out of the wrong end of my handheld.
@@ -37,4 +38,3 @@ Cell phones are almost ubiquitous. But the reason they have not made land lines 
 While you may think it’s silly to imagine a day when the company’s switchboard is routing nothing but wireless-to-wireless communications – and is itself a wireless component – to me it is the obvious and quite attainable next step. The natural evolution of this medium. It is, quite simply, a better solution than running conduit and copper through our architecture and urban landscape. A no-brainer, and the real profit potential for any wireless company.
 
 Instead of competing with one another to offer entertainment that’s doomed to fail on the wrong devices, they must get back in the business they seem to find too unsexy for their investor pitches: helping us communicate.
-
