@@ -1,13 +1,15 @@
 ---
 title: My First Real Downgrade
 subtitle: 
-date: '1997-08-01T04:00:00.000Z'
+date: 1997-08-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: How Spam Nuked My Ability to Cybercommute
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Never, ever, respond to an email advertisement again. You'll be doing yourself and the rest of us trying to work or play on the Internet a big favor.
 
