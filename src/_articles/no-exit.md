@@ -8,6 +8,8 @@ notes: 'Source: https://www.iftf.org/future-now/article-detail/no-exit/'
 refs: ''
 sources: ''
 image: "/uploads/no-exit.png"
+categories:
+- _categories/periodicals.md
 
 ---
 In John Carpenter’s B-movie classic, “They Live”, donning a pair of special glasses allowed humans to see the hidden programming in the media all around them. Messages from alien overlords, such as Art is Terrorism or simply Obey were revealed to be hidden in billboards and magazine covers.
