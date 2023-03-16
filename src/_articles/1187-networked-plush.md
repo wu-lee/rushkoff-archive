@@ -1,13 +1,15 @@
 ---
 title: Networked Plush
 subtitle: 
-date: '2005-04-27T16:00:00.000Z'
+date: 2005-04-27T16:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Inserting a cell phone or an Airport in a fuzzy doll just won't cut it. It's time for toys to network.
 

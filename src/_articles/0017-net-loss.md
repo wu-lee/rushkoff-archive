@@ -1,14 +1,16 @@
 ---
 title: Net Loss
 subtitle: 
-date: '2007-04-05T04:00:00.000Z'
+date: 2007-04-05T04:00:00.000Z
 publication: _publications/arthur.md
 blurb: "*(intended for publication in the cancelled Arthur Vol. 1, No. 26 \\\\[March
   2007\\\\])*"
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 I'm a bit down on the Internet these days.
 
