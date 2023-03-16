@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Fatal Google Obsession
 subtitle: 
-date: '2009-07-14T04:00:00.000Z'
+date: 2009-07-14T04:00:00.000Z
 publication: _publications/daily_beast.md
 blurb: In announcing this week that it will be releasing a free, online version of
   its popular Office suite in 2010, Microsoft did something good for customers—especially
@@ -14,7 +14,9 @@ blurb: In announcing this week that it will be releasing a free, online version 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 It’s an extremely dangerous game for Microsoft, which is effectively amputating its most profitable businesses in order to retain its share of the market.
 
