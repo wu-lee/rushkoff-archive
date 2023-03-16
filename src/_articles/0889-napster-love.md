@@ -1,13 +1,15 @@
 ---
 title: Napster Love
 subtitle: 
-date: '2000-05-01T04:00:00.000Z'
+date: 2000-05-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: How Napster amounts to little more than a consumer revolt.
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Like the many who've installed the program, I, too, became addicted to Napster. At least for a moment.
 
