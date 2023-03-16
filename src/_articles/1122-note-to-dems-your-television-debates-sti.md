@@ -1,13 +1,15 @@
 ---
 title: 'Note to Dems: Your Television Debates Stink'
 subtitle: 
-date: '2019-09-10T16:00:00.000Z'
+date: 2019-09-10T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Thursday’s installment of the Democratic Party’s multinetwork debate fiasco promises more than just another night of bad television; it’s a lesson in bad democracy.
 

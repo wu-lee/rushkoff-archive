@@ -1,13 +1,15 @@
 ---
 title: 'No secrets, no shame: How technology forces honesty'
 subtitle: 
-date: '2016-07-18T16:00:00.000Z'
+date: 2016-07-18T16:00:00.000Z
 publication: _publications/digital_trends.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 I once saw a human lie detector perform at a conference – one of those guys who can call a dozen people up on stage and match them up with the objects that belong to them, or even “deduce ” their email passwords. He wasn’t doing magic, of course, but simply reading the cues and tells we all give one another all the time. As any gate investigator on Israel’s national airline knows – and its security record attests – our bodies give us away.
 
@@ -49,5 +51,3 @@ Besides, everybody already knows.
 Sounds more certain than “guess,” and I think this is what these lie detectors would claim to be doing?
 
 The piece rests heavily on the premise that everyone intuitively recognizes a liar, but that’s going to be contentious. Maybe we could flesh it out more. How do you explain “everyone knowing” when we have con men taking people for thousands of dollars, spouses cheating on each other, etc? Clearly, people still get burned by liars. My guess for an explanation: They know but they want to believe otherwise. If that’s the case, let’s plug it in there to explain.
-
-
