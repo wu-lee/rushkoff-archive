@@ -1,12 +1,14 @@
 ---
 title: Let It Die
 subtitle: 
-date: 2009-03-15T04:00:00.000Z
+date: 2009-03-15T04:00:00.000+00:00
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 With any luck, the economy will never recover.
