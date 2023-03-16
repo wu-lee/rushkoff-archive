@@ -3,12 +3,14 @@ publication: _publications/shareable.md
 title: 'Loomio: The Occupy Inspired App for Consensus Decision Making'
 subtitle: ''
 image: "/uploads/blog_top-image_loomio.png"
-date: 2014-03-19 00:00:00 -0400
+date: 2014-03-19T00:00:00.000-04:00
 blurb: ''
 notes: 'Source: [https://www.shareable.net/infographic-the-why-how-of-community-land-trusts/](https://www.shareable.net/infographic-the-why-how-of-community-land-trusts/
   "https://www.shareable.net/infographic-the-why-how-of-community-land-trusts/")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 The best thing about Occupy Wall Street wasn't what it argued politically or accomplished legislatively, but what it modeled for us: a new way of engaging with issues, resolving conflict, and reaching consensus. It was a style of engagement that seemed like it could only happen in person, between young people willing to sit in a cold park all night until they could come to an agreement over an issue.
