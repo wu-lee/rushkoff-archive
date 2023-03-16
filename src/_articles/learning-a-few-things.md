@@ -3,13 +3,14 @@ publication: _publications/when-things-learn.md
 title: Learning a Few Things
 subtitle: ''
 image: ''
-date: 2002-04-15 00:00:00 -0400
+date: 2002-04-15T00:00:00.000-04:00
 blurb: ''
 notes: Unknown publication date. Date used is from Dropbox, which was the source for
   this article.
 refs: ''
 sources: ''
-categories: []
+categories:
+- _categories/book-chapters.md
 
 ---
 Things don’t learn. They can’t. That’s why we call them “things.” Or at least that’s how I’ve always felt most comfortable musing about the intelligence of inorganic matter. That is, until I fully considered the concepts being bandied about by the scientists in this book.
