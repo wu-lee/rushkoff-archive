@@ -1,14 +1,16 @@
 ---
 title: It Won’t Be Easy to Break Free From Trump’s Media Chaos
 subtitle: 
-date: '2021-01-20T05:00:00.000Z'
+date: 2021-01-20T05:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
-image: /uploads/1061-it-wont-be-easy-to-break-free-from-trump.jpeg
+image: "/uploads/1061-it-wont-be-easy-to-break-free-from-trump.jpeg"
+categories:
+- _categories/periodicals.md
+
 ---
 Admit it. Twitter isn’t quite as sensational without its leading troll, President Donald Trump. Online disinformation — perhaps the most compelling content available on social networks — is down 73% since he was banned. Not even the response to an armed attack on the Capitol or the fake news about antifa and Black Lives Matter having instigated it as a false flag event have been enough to stir up the social media landscape to previous frenzied levels of activity. And if social media is already suffering in the post-Trump era, imagine how boring cable news is going to be without its leading villain?
 
