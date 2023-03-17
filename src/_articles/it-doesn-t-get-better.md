@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: It Doesn't Get Better?
 subtitle: When middle school bullies rule the world
 image: "/uploads/0_jvwdtpegj5iipiz9.jpg"
-date: 2022-05-21 00:00:00 -0400
+date: 2022-05-21T00:00:00.000-04:00
 blurb: We adults may have lost the ability to tell our kids that our adult lives are
   better than their tortured adolescence. But by respecting the example they are setting,
   we can strive to be more like them, ourselves.
@@ -11,6 +11,8 @@ notes: 'Source: [https://rushkoff.medium.com/it-doesnt-get-better-156f3ed184a2](
   "https://rushkoff.medium.com/it-doesnt-get-better-156f3ed184a2")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 I found myself actually bothered by Elon Musk’s tweets today. For the most part, I’ve ignored him the same way I ignore most of what happens on that platform. I check out my own highly curated list of users for links to interesting articles I may have missed, and try not to get fooled into reading the provocations from people looking for attention.
