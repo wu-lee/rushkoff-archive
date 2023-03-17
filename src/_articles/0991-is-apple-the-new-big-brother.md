@@ -1,7 +1,7 @@
 ---
 title: Is Apple the New Big Brother?
 subtitle: 
-date: '2009-08-11T04:00:00.000Z'
+date: 2009-08-11T04:00:00.000Z
 publication: _publications/daily_beast.md
 blurb: 'Has the company that famously satirized the stultifying primacy of IBM-compatible
   computers in its Orwellian commercial for the 1984 Super Bowl finally emerged as
@@ -14,7 +14,9 @@ blurb: 'Has the company that famously satirized the stultifying primacy of IBM-c
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 It was supposed to be Bill Gates who turned out to be Satan.
 

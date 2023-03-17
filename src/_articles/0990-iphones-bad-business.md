@@ -1,7 +1,7 @@
 ---
 title: iPhone's Bad Business
 subtitle: 
-date: '2009-09-18T04:00:00.000Z'
+date: 2009-09-18T04:00:00.000Z
 publication: _publications/daily_beast.md
 blurb: 'What a difference a little update makes. Users of Apple''s iPhone models 3G
   and earlier got a rude awakening at work this past week: Their phones no longer
@@ -9,7 +9,9 @@ blurb: 'What a difference a little update makes. Users of Apple''s iPhone models
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 It seems the culprit is the latest software update, 3.1, which—to make it simple—has forced Apple to now admit that it never really was compatible with Microsoft Exchange's encryption protocols. Before, it simply acted like it was compatible, without ever doing the processor-intensive number-crunching to actually encrypt the Exchange data that it downloaded, as it promised it was doing. The iPhone worked with Exchange, that much is true. But it did so by pretending to do something it couldn't. Or now won't.
 
