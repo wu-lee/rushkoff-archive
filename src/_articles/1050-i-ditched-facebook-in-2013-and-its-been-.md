@@ -1,12 +1,14 @@
 ---
 title: I ditched Facebook in 2013, and it's been fine
 subtitle: 
-date: 2018-03-21T22:30:00.000Z
+date: 2018-03-21T22:30:00.000+00:00
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/periodicals.md
 
 ---
 You can ditch Facebook. It's OK. You will survive. And not only will you get through it, but your life will get better.
