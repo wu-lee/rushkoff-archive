@@ -1,13 +1,15 @@
 ---
 title: How to Fix the Internet With a Single Regulation
 subtitle: 
-date: '2020-01-09T17:00:00.000Z'
+date: 2020-01-09T17:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 In 2016, the United Nations declared access to the internet to be a basic human right, right up there with shelter, food, and water. And while many of us may have access to an internet, none of us has access to the internet. That’s because it isn’t one uniform entity.
 
