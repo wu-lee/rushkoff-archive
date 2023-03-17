@@ -1,13 +1,15 @@
 ---
 title: How We All Became Russia’s ‘Useful Idiots’
 subtitle: 
-date: '2018-12-05T17:00:00.000Z'
+date: 2018-12-05T17:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 The New York Times recently ran one of the most compelling and informative documentaries I’ve seen since Adam Curtis’ mind-blowing Century of the Self series. “Operation Infektion,” as it’s called, is a tragically, egregiously underpublicized and difficult to access trio of 15-minute videos — either lost to the ineptitude of the Times web staff or simply buried in the torrent of other daily news and treasonous revelations.
 
