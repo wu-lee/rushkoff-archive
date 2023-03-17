@@ -3,7 +3,7 @@ publication: _publications/fast-company.md
 title: How The Tech Boom Terminated California’s Economy
 subtitle: ''
 image: ''
-date: 2009-07-10 00:00:00 -0400
+date: 2009-07-10T00:00:00.000-04:00
 blurb: 'While the pundits point to real estate speculation and bank insolvencies as
   the chief cause of California–and the nation’s–financial distress, these are both
   direct results of the late 90’s explosion of computer innovation and Internet proliferation.
@@ -12,6 +12,8 @@ notes: 'Source: [https://www.fastcompany.com/1307504/how-tech-boom-terminated-ca
   "https://www.fastcompany.com/1307504/how-tech-boom-terminated-californias-economy")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 However comforting it might be to blame Southern California’s movie industry for unleashing Governor Terminator on the state’s economy, the real seeds of the current crisis were sewn further north, in the seemingly prosperous corporate parks of Silicon Valley. In fact, the dot.com boom and subsequent, inevitable bust are the real causes of our economic malaise. For while Californians were hit first, hardest and most directly by the rise of dot.com-style capitalism, the rest of us are soon to follow.
