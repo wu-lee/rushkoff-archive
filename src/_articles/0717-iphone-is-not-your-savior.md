@@ -1,7 +1,7 @@
 ---
 title: iPhone Is Not Your Savior
 subtitle: 
-date: '2012-09-12T04:00:00.000Z'
+date: 2012-09-12T04:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -31,7 +31,9 @@ refs: '[{"text"=>"boost our nation''s GDP", "original"=>"http://www.reuters.com/
   "archive"=>"http://web.archive.org/web/20191009063129/https://www.forbes.com/sites/terokuittinen/2012/05/01/is-the-omgpop-acquisition-haunting-zynga/",
   "meta"=>{"title"=>"Security Violation (403)", "favicon"=>"http://www.forbes.com/favicon.ico"}}]'
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 **(CNN)** -- Last time around, humanity's savior came in the form of a human messiah. This time, if technology analysts, bankers and venture capitalists are to be believed, it will take the form of a handheld computer otherwise known as a smartphone.
 
