@@ -1,13 +1,15 @@
 ---
 title: Internet Psychology
 subtitle: 
-date: '1997-05-01T04:00:00.000Z'
+date: 1997-05-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Cause or Cure
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Is the Internet a source of psychological problems, or does it provide a cure? For every book or article I read about the detrimental effects of spending time online, I now see another listing sites where people can turn for psychological counseling.
 

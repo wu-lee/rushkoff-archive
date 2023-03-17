@@ -1,7 +1,7 @@
 ---
 title: Internet Is Easy Prey for Governments
 subtitle: 
-date: '2011-02-08T05:00:00.000Z'
+date: 2011-02-08T05:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -12,7 +12,9 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   all that the revolution in Egypt tells us about the power of networked media to
   promote bottom-up change, it even more starkly reveals the limits of our internet
   tools and the ease with which ...", "dateLastCrawled"=>"2020-07-18T04:38:00.0000000Z"}]'
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 For all that the revolution in Egypt tells us about the power of networked media to promote bottom-up change, it even more starkly reveals the limits of our internet tools and the ease with which those holding power can take them away.
 
