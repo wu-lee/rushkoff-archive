@@ -3,11 +3,13 @@ publication: _publications/we-know-what-you-want.md
 title: Introduction
 subtitle: ''
 image: ''
-date: 2005-02-01 00:00:00 -0500
+date: 2005-02-01T00:00:00.000-05:00
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 These are challenging times for conscious people. More challenging than I usually allow myself to believe.

@@ -3,11 +3,13 @@ publication: _publications/confidence-or-the-appearance-of-confidence.md
 title: Interview With Genesis P-Orridge
 subtitle: ''
 image: ''
-date: 2014-04-01 00:00:00 -0400
+date: 2014-04-01T00:00:00.000-04:00
 blurb: ''
 notes: "Title from CV  \nDate from Amazon"
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 "THE BOTTOM LINE IS THAT THE HUMAN SPECIES HAS TO REALIZE THE HUMAN BODY REALLY IS JUST A CHEAP SUITCASE."
