@@ -8,6 +8,8 @@ notes: 'Source: https://www.cnn.com/2013/12/19/opinion/rushkoff-google-robotics/
 refs: ''
 sources: ''
 image: "/uploads/is-google-redefining-don-t-be-evil.jpg"
+categories:
+- _categories/periodicals.md
 
 ---
 _“Do the right thing; don’t be evil_

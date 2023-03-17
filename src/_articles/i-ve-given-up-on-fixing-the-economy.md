@@ -3,13 +3,15 @@ publication: _publications/echo.md
 title: I’ve Given Up on Fixing the Economy
 subtitle: ''
 image: ''
-date: 2016-04-01 00:00:00 -0400
+date: 2016-04-01T00:00:00.000-04:00
 blurb: The monetary system was designed not to help people create and exchange value,
   but rather to extract value from anyone hoping to  transact. It was not designed
   to promote circulation, but to serve as a drag on circulation.
 notes: April 2016
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 I've given up on fixing the economy. The economy is not broken. It's simply unjust. There's a difference.
