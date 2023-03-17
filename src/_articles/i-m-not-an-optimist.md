@@ -3,13 +3,15 @@ publication: _publications/medium.md
 title: I’m Not an Optimist
 subtitle: And that’s more than okay
 image: "/uploads/1_lfttxqhhy4yuaae3x-ipsg.jpeg"
-date: 2022-03-17 00:00:00 -0400
+date: 2022-03-17T00:00:00.000-04:00
 blurb: Whatever I think about our likelihood of evading global catastrophe, the steps
   I would take to prevent it are the same ones I would take to prepare for it.
 notes: 'Source: [https://rushkoff.medium.com/im-not-an-optimist-45e263df7fc1](https://rushkoff.medium.com/im-not-an-optimist-45e263df7fc1
   "https://rushkoff.medium.com/im-not-an-optimist-45e263df7fc1")'
 refs: ''
 sources: ''
+categories:
+- _categories/periodicals.md
 
 ---
 I spent much of life, and my career, looking on the bright side of things. Technology, media, and our newfound power to express ourselves in a digital age once gave me great hope for the future of the human collective. What could we do? What _would_ we do? My books and articles were correspondingly optimistic about our ability to dig ourselves out of the environmental and economic messes we were creating for ourselves and, disproportionately, for the global poor.
