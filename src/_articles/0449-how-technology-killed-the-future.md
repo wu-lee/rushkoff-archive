@@ -1,13 +1,15 @@
 ---
 title: How Technology Killed the Future
 subtitle: 
-date: '2014-01-15T05:00:00.000Z'
+date: 2014-01-15T05:00:00.000Z
 publication: _publications/politico.md
 blurb: Presidents—and the rest of us—can't get anything done anymore.
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 The crises arrive from everywhere, and all at once. The responses do, too. New allegations about NSA eavesdropping, for instance, pop up on Twitter before the White House has had a chance to fully spin the last set. A Cabinet secretary is presumed ripe for firing over a botched health care website even before the site’s problems are fully diagnosed. The pauses between an event and a response to it—the space in which public opinion was once gauged—is gone, and now the feedback is indistinguishable from the initial action. The verdict, the takeaway, the very meaning behind what is happening is more elusive than ever before. We cobble together narratives and hunt for conclusions. Millions of social media posts per minute are parsed and analyzed as if those vast bits of opinion, conjecture and fancy somehow coalesce into a story.
 
