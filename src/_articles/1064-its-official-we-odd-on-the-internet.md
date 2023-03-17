@@ -1,14 +1,16 @@
 ---
 title: 'It’s Official: We OD’d on the Internet'
 subtitle: 
-date: '2021-06-08T16:00:00.000Z'
+date: 2021-06-08T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
-image: /uploads/1064-its-official-we-odd-on-the-internet.jpeg
+image: "/uploads/1064-its-official-we-odd-on-the-internet.jpeg"
+categories:
+- _categories/periodicals.md
+
 ---
 When I was in high school, I was in a play where I got to smoke cigarettes. I say “got to” because back then I was something of a nerd (before nerds were cool) and loved the idea of jocks and other popular kids spying the foil lining of my artfully positioned Marlboro softpack sticking out of my jeans jacket pocket.
 

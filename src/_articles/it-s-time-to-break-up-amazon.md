@@ -8,7 +8,9 @@ blurb: With its mega-acquisition of Whole Foods, the retail behemoth moves to su
 notes: Pasted from https://www.fastcompany.com/40432885/its-time-to-break-up-amazon
 refs: ''
 sources: ''
-image: /uploads/it-s-time-to-break-up-amazon.jpg
+image: "/uploads/it-s-time-to-break-up-amazon.jpg"
+categories:
+- _categories/periodicals.md
 
 ---
 “Amazon just bought Whole Foods,” my friend texted me seconds after the announcement of [the proposed acquisition](https://news.fastcompany.com/report-amazon-is-buying-whole-foods-4040976). “It’s over. The world.”
