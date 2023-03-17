@@ -3,11 +3,13 @@ publication: _publications/what-are-you-optimistic-about.md
 title: Human Beings Are Different From Their Ancestral Species
 subtitle: ''
 image: ''
-date: 2007-10-30 00:00:00 -0400
+date: 2007-10-30T00:00:00.000-04:00
 blurb: ''
 notes: Date from Goodreads
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 Now that we've gotten false notions of 'God' out of the way, we come up against the question from which he insulated us: If human beings are not the 'chosen species,' then are we at least capable of transcending nature, from which we emerged?

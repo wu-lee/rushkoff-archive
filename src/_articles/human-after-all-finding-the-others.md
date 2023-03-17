@@ -3,7 +3,7 @@ publication: _publications/good-trouble.md
 title: 'Human After All: Finding The Others'
 subtitle: ''
 image: ''
-date: 2020-05-21 04:00:00 +0000
+date: 2020-05-21T04:00:00.000+00:00
 blurb: Algorithms, AI and surveillance capitalism are colonising the human mind, and
   it’s time for us to resist by rising to the occasion of our own humanity, claims
   renowned author and media theorist Douglas Rushkoff. William Alderwick plugs in
@@ -12,7 +12,8 @@ notes: '[https://www.goodtroublemag.com/home/human-after-all-douglas-rushkoff](h
   "https://www.goodtroublemag.com/home/human-after-all-douglas-rushkoff")'
 refs: ''
 sources: ''
-categories: []
+categories:
+- _categories/periodicals.md
 
 ---
 “Well, honestly, and I can tell you this ’cos I can’t tell the London _Times_ this, but _Team Human_ is a media virus, a collective sigil, neurolinguistic reprogramming. The other books I wrote are information, they’re data and I create narrative around them. I’m telling stories about things. _Team Human_ is almost a piece of literary software. It’s meant as an experience through which people can embed their brain with a programme that will help them resist the manipulative algorithms, platforms and systems that are out there. It’s a piece of cultural medicine.”
