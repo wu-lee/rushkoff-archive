@@ -1,13 +1,15 @@
 ---
 title: It's All Conjecture
 subtitle: 
-date: '2008-05-09T04:00:00.000Z'
+date: 2008-05-09T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: December 1996
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 All it took was one big flashy article calling me a "high-paid futurist" in the New York Times Business section to spoil my last week of 1996.
 

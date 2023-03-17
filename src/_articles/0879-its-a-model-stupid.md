@@ -1,13 +1,15 @@
 ---
 title: It's a Model, Stupid
 subtitle: 
-date: '2000-04-01T05:00:00.000Z'
+date: 2000-04-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Telling the Map From the Territory
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Computers are modeling systems. Good ones. So good, in fact, that it's easy to forget the worlds they create are not worlds at all, but models.
 
