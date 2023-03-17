@@ -1,13 +1,15 @@
 ---
 title: I Am Your Father Luke
 subtitle: 
-date: '1997-03-01T05:00:00.000Z'
+date: 1997-03-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Why Luke should have accepted Darth's first offer
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 The release of the Star Wars "Special Edition" has left me in a funk.
 
