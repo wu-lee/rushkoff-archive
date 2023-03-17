@@ -1,14 +1,14 @@
 ---
 title: The IPO That Swallowed Facebook
+date: 2012-05-15 04:00:00 Z
 subtitle: 
-date: '2012-05-15T04:00:00.000Z'
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Facebook advocates are touting the company's initial public offering this week -- the biggest ever for an Internet company-- as if it will save the net, the economy and the American way. Its detractors see the final chapter in the rise and fall of a smart but solipsistic Harvard dropout, and predict the inevitable decline of Facebook's stock will spell the end to innovation in social media. Internet Bubble 2.0.
 
 Of course, none of this is true. Such hyperbole is more about our traditional media's need for simple stories than anything happening at Facebook or on Wall Street. These are the judgments of financial analysts who don't even know what API stands for (application program interface), and technology analysts who never heard of the Greenshoe option (the provision for an underwriter to oversell).

@@ -1,14 +1,14 @@
 ---
 title: 'Universal Access: Not Just for the Disabled'
+date: 2005-01-12 17:00:00 Z
 subtitle: 
-date: '2005-01-12T17:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Paying attention to one group's disabilities enhances usability for everyone else.
 
 "It's wonderful! I can finally tell when my phone is about to die," Joanne Becker exclaimed ecstatically as her cell dutifully -- and audibly -- announced its battery level, making her an instant convert to the Mobile Speak accessibility program. Sure, as the software's product manager, Becker might be biased. Then again, she is also completely blind, making it difficult to contain her joy at finally being able to use features in her cell phone that most of us take for granted, like seeing the signal level, reading the caller ID, or scrolling through menus.

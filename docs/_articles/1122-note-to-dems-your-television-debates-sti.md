@@ -1,14 +1,14 @@
 ---
 title: 'Note to Dems: Your Television Debates Stink'
+date: 2019-09-10 16:00:00 Z
 subtitle: 
-date: '2019-09-10T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Thursday’s installment of the Democratic Party’s multinetwork debate fiasco promises more than just another night of bad television; it’s a lesson in bad democracy.
 
 It’s almost as if media conglomerates and party officials responsible for the debates are strategically preventing candidates from discussing important issues or demonstrating political effectiveness. The whole process has almost nothing to do with the grasp of issues or executive competency. Instead, it has everything to do with the demise of the television medium.

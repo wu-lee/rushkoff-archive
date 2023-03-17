@@ -1,7 +1,8 @@
 ---
 title: Tinseltown 2.0
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: University of Southern California's Interactive Media Division takes on mobile
   technology.
@@ -23,8 +24,8 @@ refs: '[{"text"=>"Interactive Media Division", "original"=>"http://interactive.u
   "meta"=>{"title"=>"patholog.org is coming soon", "favicon"=>"http://www.patholog.org/favicon.ico"}},
   {"text"=>"Tracking Agama", "original"=>"http://trackingagama.net/", "archive"=>"http://web.archive.org/web/20181105212528/http://trackingagama.net/"}]'
 sources: 
-published: false
 ---
+
 University of Southern California's Interactive Media Division takes on mobile technology.
 
   

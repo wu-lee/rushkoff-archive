@@ -1,13 +1,12 @@
 ---
 title: My Cell Phone is Not a TV
+date: 2003-11-15 17:00:00 Z
 subtitle: 
-date: '2003-11-15T17:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
 
 The wireless industry’s insistence on bringing the wrong media to our cell phones may cost us – and them – the whole game.

@@ -1,14 +1,14 @@
 ---
 title: Now, outsourcing bug bites the US
+date: 2006-01-01 05:00:00 Z
 subtitle: 
-date: 2006-01-01T05:00:00.000Z
 publication: _publications/economic_times.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 It is in the name of innovation that America's biggest and brightest technology companies are outsourcing their most seemingly mundane processes to companies in places like and Delhi. What they fail to realise, however, is that the nations to which they are sending this work are not simply the beneficiaries of employment for mid-skilled labour; they are the future winners in the global contest for innovation leadership.
 
 In short, America is keeping the jobs that unskilled, uneducated, and uninspired people can perform, and giving away the ones that encourage or demand thinking, self-improvement, and inventiveness. Rather than imitate or emulate America's reluctance to learn technology from the inside out, the nations currently being asked to do what appears to be the technology industry's grunt work must realise that, soon, they will be the only ones who understand how any of this stuff really works, and the ones holding the true keys to any future innovation.

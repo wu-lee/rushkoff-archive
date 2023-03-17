@@ -1,14 +1,14 @@
 ---
 title: The Internet Is Acid, and America Is Having a Bad Trip
+date: 2018-09-04 16:00:00 Z
 subtitle: 
-date: '2018-09-04T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 t’s been 25 years since I first turned the manuscript of my first book, Cyberia: Life in the Trenches of Hyperspace, to the publisher. Well, 27 years if you count the first publisher, which canceled the book because they thought the internet would be “over” by the time the book was to be released in 1993.
 
 Cyberia wasn’t really a book about the net so much as a whole conflux of new approaches to navigating the world. It wasn’t just a technological revolution, but a cultural renaissance involving everything from quantum physics and chaos math to fantasy role-playing games and hypertext. Cyberia, as I called this emerging movement, found its expression in comics, video games, the Gaia hypothesis, rave music, and virtual reality; books like The Tao of Physics, The Dancing Wu Li Masters, or Gödel, Escher, Bach; the lectures of Terence McKenna, Ralph Abraham, and Willis Harman.

@@ -1,14 +1,14 @@
 ---
 title: Let It Grow
+date: 1999-11-01 05:00:00 Z
 subtitle: ''
-date: 1999-11-01T05:00:00.000Z
 publication: _publications/adbusters.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 It's not easy being a marketer these days, especially a teen marketer. Budgets are down, the promises heralded by Internet commerce have all but vanished, and the kids themselves–those very kids who you are hoping to attract–hate you and everything you're trying to do to them. There are more than 32 million teenagers in the United States, spending $100 billion on themselves every year, and directly influencing the spending of another $50 billion by their parents. And, unlike most consumers, teens spend their money almost exclusively on luxury purchases such as music, designer clothes and movie tickets–purchases that have almost nothing to do with product attributes or intrinsic value, and everything to do with branding. This makes teens your holy grail: the ultimate target market. It's also why there are so many of you out there, desperately competing for their attention and their loyalty. You put an average of 3,000 television and print advertisements in front of the American teenager each day. It's a crowded media space. How can you make your brands appear cooler than anyone else's?
 
 For most of you, the answer rests with research. You hire high-priced, young anthropologists armed with Polaroid cameras to follow teens around and document their activities, their piercings and their tattoos. Problem is, once you identify a new style or trend, you seize upon it and then pump it out across the breadth of the broadcast universe. Then it's no longer cool, but ubiquitous. So the kids move onto something else, and the cycle begins again.

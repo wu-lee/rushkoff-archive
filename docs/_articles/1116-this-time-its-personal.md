@@ -1,14 +1,14 @@
 ---
 title: This Time, It’s Personal
+date: 2019-04-03 16:00:00 Z
 subtitle: 
-date: '2019-04-03T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 For the past couple years, I’ve been complaining rather emphatically about the way digital technology has been used to desocialize us — how platforms like Facebook and YouTube turn us against one another by emphasizing our differences and encouraging us to behave like threatened reptiles.
 
 This is indeed lamentable, but in many ways, it’s nothing new. Our media and technologies have been undermining our social bonds for centuries. So, what’s different now? Is this digital alienation the same thing amplified, or is something else going on? Only when we understand how tech has been working all along can we begin to reckon with what’s different about the digital landscape in which we’re living.

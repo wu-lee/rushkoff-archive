@@ -1,14 +1,14 @@
 ---
 title: Coronavirus Is Making Me Believe in the Power of the Internet Again
+date: 2020-03-16 16:00:00 Z
 subtitle: 
-date: '2020-03-16T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Had South by Southwest not been canceled, I would have been giving a talk there this morning about fake news. I think they wanted me to get all worked up about the danger of deepfake videos, but I was having a hard time freaking myself out.
 
 It seemed to me that deepfakes would eventually restore the primacy of trusted news agencies and journalists. The less we can trust the veracity of videos, the more we must depend on those whose responsibility it is to determine the provenance and context of everything. If anything, the more accustomed we become to the idea that video pictures have no more claim to truth than text or speech, the less power these constructed images will have over us.

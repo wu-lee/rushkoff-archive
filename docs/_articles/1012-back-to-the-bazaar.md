@@ -1,14 +1,14 @@
 ---
 title: Back to the Bazaar
+date: 2011-01-03 05:00:00 Z
 subtitle: 
-date: 2011-01-03T05:00:00.000Z
 publication: _publications/one_plus.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 THE BAZAAR MAY HAVE BEEN THE MOST IDEAL, IMPROMPTU AND PERFECTLY MANDATORY MEETING OF ALL TIME. These late-Middle Ages market days were social and business gatherings where people were as likely to discuss politics, religion and local gossip as they were the price of grain or the quality of meat at the last stall. I expect people remembered and valued the quality of social and intellectual connections as much or more than the actual booty traded—though the trading is what brought everyone to market in the first place.
 
 Today, in the era of TED and TEDx (and their many imitators), we find conferences desperate to prove their pure intentions. We gather not so much to do business, but to elevate our conversations, enrich our minds and improve our practices. And while these high-minded goals are worthy of our time, money and attention, they will not turn a gathering into a must-attend event. 

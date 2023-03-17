@@ -1,14 +1,14 @@
 ---
 title: Gated Communities Online
+date: 1997-07-01 04:00:00 Z
 subtitle: 
-date: '1997-07-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Member-only areas, and the social costs.
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Throughout the United States, huge billboards with a large Netscape-style pointing finger herald the launch of Microsoft Network. Well, actually the re-launch of Microsoft Network, or MSN.
 
 The service was originally conceived as a subscriber-only, direct dial-up online access provider like America Online and Compuserve, where paying subscribers use special software packaged with Win95 to access member-only services like news, sports, email, and bulletin boards, as well a gateway to the Internet in general. When Microsoft management realized that the Web and its dominant browser software, Netscape, were quickly devouring the online world, they completely re-conceived their network strategy.

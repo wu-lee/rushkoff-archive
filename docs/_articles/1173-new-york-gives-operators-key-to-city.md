@@ -1,14 +1,14 @@
 ---
 title: New York Gives Operators Key to City
+date: 2004-07-30 16:00:00 Z
 subtitle: 
-date: '2004-07-30T16:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 The city's lampposts will provide more than just light, thanks to a new deal with a number of wireless companies.
 
 In an agreement reported to be worth $25 million a year to the city, New York has agreed to allow a consortium of six wireless industry companies install much-needed transmitters on lamp posts throughout the five boroughs.

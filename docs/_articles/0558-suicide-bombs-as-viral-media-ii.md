@@ -1,7 +1,7 @@
 ---
 title: Suicide Bombs as Viral Media II
+date: 2005-07-24 04:00:00 Z
 subtitle: 
-date: '2005-07-24T04:00:00.000Z'
 publication: _publications/arthur.md
 blurb: Although I've got very little spare time for blogging right now, I thought
   it important to share a brief reflection on what I perceive to be the underlying
@@ -10,8 +10,8 @@ blurb: Although I've got very little spare time for blogging right now, I though
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Yes, these are "networked" events - but not in the sense that the cells are directly linked in a command and control communications network. Cells are not coordinated this way, with "sleepers" waiting for phone calls and taking action. It's not a matter of phone trees, email commands, or direct links between some guys in London, some other ones in Egypt, and a central server disseminating commands from Pakistan.
 
 What we're witnessing is viral contagion - the beginnings of what some hope will spawn an epidemic of suicide attacks. These would not be conducted by "foreigners" crossing borders with plastic explosives kits, but locals, spontaneously acting in concert with others around the globe. It's a scary thought to those who only understand simple cause and effect, but this isn't magic or supernatural at all.

@@ -1,14 +1,15 @@
 ---
 title: 'Teachers vs. machines: computers in the classroom'
+date: 1997-04-11 04:00:00 Z
+published: false
 subtitle: 
-date: '1997-04-11T04:00:00.000Z'
 publication: _publications/washington_times.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: false
 ---
+
 When I was in junior high school, teachers would show us 16-mm films about frogs, foreign cultures and the force of friction.
 
 These films were once-a-week treats for all of us. The teacher got a free baby sitter and an opportunity to grade some papers. We kids got to take a nap, pass around notes or space out at the colors on the screen and the sound of the projector motor.

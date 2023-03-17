@@ -1,14 +1,14 @@
 ---
 title: Remember the Sabbath
+date: 1999-12-01 05:00:00 Z
 subtitle: 
-date: '1999-12-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: An Argument in Favor of A Day Off
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I saw a television advertisement the other day, in which a young executive conducts a business meeting over a cellular phone - while standing at a urinal. When it comes time to zip up, he cradles his cell-phone on his shoulder and goes on talking. But then the phone slips out from under his chin, and tumbles - splash - you guess where. The answer to this dilemma, according to the ad, is a new "hands-free" cellular phone service.
 
 The real answer, of course, is not to bring one's business into the bathroom.

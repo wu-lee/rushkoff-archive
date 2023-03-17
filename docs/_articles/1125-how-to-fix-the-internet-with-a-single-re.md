@@ -1,14 +1,14 @@
 ---
 title: How to Fix the Internet With a Single Regulation
+date: 2020-01-09 17:00:00 Z
 subtitle: 
-date: '2020-01-09T17:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 In 2016, the United Nations declared access to the internet to be a basic human right, right up there with shelter, food, and water. And while many of us may have access to an internet, none of us has access to the internet. That’s because it isn’t one uniform entity.
 
 Thanks to surveillance and customizations technologies, each of us gets our own internet. Your Google search results are different than mine. Your feeds show different posts and ads than mine — even if we subscribe to the same sources. Your news apps deliver different news to you than mine, prioritized differently, and from a different political perspective.

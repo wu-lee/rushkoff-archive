@@ -1,15 +1,15 @@
 ---
-publication: _publications/bookmark-now-writing-in-unreaderly-times.md
 title: A Computer Ate My Book
+date: 2005-01-01 05:00:00 Z
+publication: _publications/bookmark-now-writing-in-unreaderly-times.md
 subtitle: ''
 image: ''
-date: 2005-01-01 00:00:00 -0500
 blurb: ''
-notes: "2005"
+notes: '2005'
 refs: ''
 sources: ''
-
 ---
+
 Books have souls. Or so romantics like me tend to think. Neither the Internet nor computers really threaten the book as an art form. But if we're to believe the latest rumblings from publishing industry journals, author's panels, and librarians' conferences around the world, the book business is in terrible danger. And so are magazines, newspapers, and anything else printed on a page.
 
 According to the defenders of literate culture and their high-priced sociologists, Americans are reading less and, as a result, thinking less. The preponderance of electronic media, from the Internet to interactive gaming, has apparently seduced would-be readers away from their books, to all of our peril.

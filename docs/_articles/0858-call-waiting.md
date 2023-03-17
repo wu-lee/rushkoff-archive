@@ -1,14 +1,14 @@
 ---
 title: Call Waiting
+date: 1998-10-01 04:00:00 Z
 subtitle: 
-date: '1998-10-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Technology & Truth
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 "I'm getting a call, hold on," my friend explained before clicking off our phone conversation to check on the possibility of another.
 
 He was the one who had called me -- just seconds earlier, in fact. After hearing his voice on the machine (which I use as a filtration device) I figured our friendship dictated that I interrupt my work and pick up for him. Besides, he knows me well enough to assume I would be screening my calls, as I always do. If I didn't pick up, he'd know I had made the conscious choice not to speak to him. So, out of a sense of genuine duty and a fear of getting caught, I lifted the receiver. But before I even found out what he wanted, he had put me on hold.

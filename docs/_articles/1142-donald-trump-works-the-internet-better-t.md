@@ -1,15 +1,15 @@
 ---
 title: Donald Trump works the Internet better than you do (whether he knows it or
   not)
+date: 2015-12-01 17:00:00 Z
 subtitle: 
-date: '2015-12-01T17:00:00.000Z'
 publication: _publications/digital_trends.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Earlier this month, Donald Trump spewed a string of enraged non sequiturs for two hours straight on a stage in Fort Dodge, Iowa.
 He suggested castration or the death penalty as the only appropriate remedy for the self-admittedly “pathological” Ben Carson. He claimed the U.S. plans to accept 250,000 Syrian refugees even though the Obama administration put that number at 10,000, citing “a pretty good source.” 
 

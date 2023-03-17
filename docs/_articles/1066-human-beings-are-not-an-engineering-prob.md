@@ -1,15 +1,15 @@
 ---
 title: Human Beings are Not an Engineering Problem
+date: 2021-07-07 16:00:00 Z
 subtitle: 
-date: '2021-07-07T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
-image: /uploads/1066-human-beings-are-not-an-engineering-prob.jpg
+image: "/uploads/1066-human-beings-are-not-an-engineering-prob.jpg"
 ---
+
 Robert Anton Wilson lived on the frontlines of the war for our reality. Like a latter-day Socrates by way of Paul Krassner, he was a revolutionary philosopher satirist who sought to preserve the wiggle room between human beings and our underlying assumptions about the world. Facts are fewer and far between than we have been led to believe. Death may be certain, but certainty is itself a kind of death.
 
 I first met Bob after my very first book reading — more of a talk, really — at the Capitola Book Cafe. He was, of course, one of my psychedelic heroes, and by then he was already struggling with the painful onset of post-polio syndrome. Watching him endure a hard metal folding chair the front row all to hear me speak was both gratifying and humbling.

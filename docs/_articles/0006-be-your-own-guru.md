@@ -1,14 +1,14 @@
 ---
 title: Be Your Own Guru
+date: 2005-08-01 04:00:00 Z
 subtitle: 
-date: '2005-08-01T04:00:00.000Z'
 publication: _publications/arthur.md
 blurb: "*Originally published in [Arthur No. 17 (July 2005)](http://store.arthurmag.com/product/arthur-issue-17)*"
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 My good friend Jody Radzik—the guy who first introduced me to raves, actually—started up a blog this year. Jody is about the most loving and optimistic person I've ever known. That’s why I was surprised that instead of touting a new spiritual or cultural phenomenon, Radzik had decided to bash one.
 
 [Guruphiliac.com](http://guruphiliac.blogspot.com/) is dedicated to exposing the profoundly manipulative legions of grifters preying on the spiritually hopeful, as well as those teachers who simply go around letting people think they’re God, one guru at a time. It’s is an entertaining website, to be sure (for those of us who enjoy watching false messiahs unmasked) but it’s also important ongoing work. And the more I think about it, the more guru-bashing is starting to look like a form of optimism, in itself.

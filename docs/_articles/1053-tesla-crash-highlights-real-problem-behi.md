@@ -1,14 +1,14 @@
 ---
 title: Tesla crash highlights real problem behind self-driving cars
+date: 2016-06-01 16:00:00 Z
 subtitle: 
-date: 2016-06-01T16:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 We think of automobiles as American as baseball, apple pie, and hotdogs - or at least that's what the car advertisers have gotten us to believe.
 
 But as the National Highway Traffic Safety Administration's investigation into a fatal self-driving car accident should remind us, the automobile's centrality to the American way of life was an expensive and political battle with nearly uncountable human casualties.

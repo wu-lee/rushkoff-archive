@@ -1,14 +1,14 @@
 ---
 title: Farewell
+date: 2001-08-01 04:00:00 Z
 subtitle: 
-date: '2001-08-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Cyberculture is More than a Story
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Everything really is going to be just fine. Not spectacular, but not disastrous, either. The handholding I've been doing for the past five years can end. It's time to free up this newspaper space for some news.
 
 I began writing these pieces about the internet back in 1992, when most of you hadn't yet tried email (most never thought you would) and the World Wide Web didn't even exist. I had always been interested in new cultural phenomena, and the networked reality suggested by the linking of computers and telephone lines was too good a story to leave to journalists.

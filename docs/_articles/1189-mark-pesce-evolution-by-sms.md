@@ -1,14 +1,14 @@
 ---
 title: 'Mark Pesce: Evolution by SMS'
+date: 2005-05-11 16:00:00 Z
 subtitle: 
-date: '2005-05-11T16:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 "LiveRecord is a bare-faced attempt to create another, more powerful form of mobile crack."
 
 "We're all experts in the things that give us pleasure. We are compelled by our essential nature as social beings to share these moments. They help make life worth living. And now, in the age of the mobile, those moments are constantly at hand. Better living, through quality. The allure of the quality moments offered up by mobile digital social networks will make SMS seem like a weak opening act. "

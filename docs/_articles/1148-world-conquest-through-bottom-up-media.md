@@ -1,13 +1,12 @@
 ---
 title: World Conquest through Bottom Up Media
+date: 2003-04-02 17:00:00 Z
 subtitle: 
-date: '2003-04-02T17:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
 
 So how do the owners of handheld wireless devices take over the world? Easy. By using them.

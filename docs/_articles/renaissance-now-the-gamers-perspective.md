@@ -1,15 +1,15 @@
 ---
-publication: _publications/handbook-of-computer-game-studies.md
 title: Renaissance Now! The Gamers’ Perspective
+date: 2005-01-01 05:00:00 Z
+publication: _publications/handbook-of-computer-game-studies.md
 subtitle: ''
 image: ''
-date: 2005-01-01 00:00:00 -0500
 blurb: ''
 notes: Based on scan from Unified Field Summit
 refs: ''
 sources: ''
-
 ---
+
 The frightening news is that we are living in a story. The reassuring part is that it's a story we re writing, ourselves.
 
 Alas, though, most of us don't even know it--or are afraid to accept it. Never before did we have so much access to the tools of storytelling--yet few of us are willing to participate in their creation. Gamers might be today's most likely candidates to helm what I hope will be a renaissance in our relationship to stories as well as the reality they mean to describe and influence.

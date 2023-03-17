@@ -1,17 +1,17 @@
 ---
-publication: _publications/nyt_syndicate_guardian_of_london.md
 title: Terror takes aim at the net
+date: 2001-09-19 04:00:00 Z
+publication: _publications/nyt_syndicate_guardian_of_london.md
 subtitle: ''
 image: ''
-date: 2001-09-19 00:00:00 -0400
 blurb: When freedom is under threat, it's time to network, says New Yorker Douglas
   Rushkoff
 notes: '[https://www.theguardian.com/technology/2001/sep/20/internetnews.onlinesupplement3](https://www.theguardian.com/technology/2001/sep/20/internetnews.onlinesupplement3
   "https://www.theguardian.com/technology/2001/sep/20/internetnews.onlinesupplement3")'
 refs: ''
 sources: ''
-
 ---
+
 The attack on the World Trade Tower is no more an attack on the global economy than it is an attack on the global network. That's right: the internet we've argued over for the past 10 years has been targeted. Given the quality of a lot of what I've read online since the attack, it's hard to be too upset. The internet is at war with itself, when it should be coming to terms with its real enemies.
 
 I have watched as people on politically progressive mailing lists - from Nettime to my own media-squat - have wrestled with the introduction of such a glaring discontinuity into their conceptual narratives. Everyone is attempting to "make sense" of the World Trade Centre tragedy. Unfortunately, as in any moment when things do not make any real sense, many people are reaching for conspiracy theories, or retreating into one brand of blind fundamentalism or another.

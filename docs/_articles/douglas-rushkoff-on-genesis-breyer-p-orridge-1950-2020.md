@@ -1,15 +1,15 @@
 ---
 title: Douglas Rushkoff on Genesis Breyer P-Orridge (1950-2020)
+date: 2020-03-14 04:00:00 Z
 subtitle: ''
-date: 2020-03-14 00:00:00 -0400
 publication: _publications/boingboing.md
 blurb: ''
 notes: Pasted from https://boingboing.net/2020/03/14/douglas-rushkoff-on-genesis-br.html
 refs: ''
 sources: ''
-image: /uploads/douglas-rushkoff-on-genesis-breyer-p-orridge-1950-2020.jpg
-
+image: "/uploads/douglas-rushkoff-on-genesis-breyer-p-orridge-1950-2020.jpg"
 ---
+
 It was 1993. I was working on my book Media Virus, and about to return home to LA from San Francisco, when Timothy Leary called to ask if I could make room for a "friend in need" who needed a ride. That friend turned out to be Genesis P-Orridge.
 
 I had known of Gen through his music and reputation alone, and was frankly a little afraid to meet him. If the "coyote" boys I knew in the Temple of Psychick Youth were modeling themselves after him, I could only imagine how fierce Gen might be. But when I pulled into the parking garage where we supposed to meet, and saw the diminutive Genesis P-Orridge standing there with his two gorgeous young daughters and all their suitcases, my perception of him changed entirely.

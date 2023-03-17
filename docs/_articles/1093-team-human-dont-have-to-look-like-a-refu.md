@@ -1,14 +1,14 @@
 ---
 title: 'Team Human: Don''t have to look like a refugee'
+date: 2018-06-20 16:00:00 Z
 subtitle: 
-date: '2018-06-20T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Whenever you’re confused by something Trump is doing, remember: he’s less a politician than a propagandist. Don’t look to the policy for the logic driving his actions — look at the pictures.
 
 This week, progressives are confused and outraged by the imagery coming out of Texas showing immigrant children being separated from their parents and held in detention centers. Babies crying, chain-link fence, mothers restrained by ICE agents, teens warehoused in decommissioned Walmarts. Surely this is enough to bring down the Trump administration, or lead evangelicals and others to appreciate the hard-heartedness of his treatment of the huddled masses.

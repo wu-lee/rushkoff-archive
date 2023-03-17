@@ -1,7 +1,8 @@
 ---
 title: Nortel Scandal Brings Back the Fear
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: Just last week, it looked like a Fed rate hike or the cooling of China's markets
   were Wall Street's biggest worries. Now, corporate malfeasance has roared back into
@@ -9,8 +10,8 @@ blurb: Just last week, it looked like a Fed rate hike or the cooling of China's 
 notes: 
 refs: 
 sources: 
-published: false
 ---
+
 Just last week, it looked like a Fed rate hike or the cooling of China's markets were Wall Street's biggest worries. Now, corporate malfeasance has roared back into the headlines.
 
   

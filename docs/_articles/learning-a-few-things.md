@@ -1,17 +1,17 @@
 ---
-publication: _publications/when-things-learn.md
 title: Learning a Few Things
+date: 2002-04-15 04:00:00 Z
+publication: _publications/when-things-learn.md
 subtitle: ''
 image: ''
-date: 2002-04-15 00:00:00 -0400
 blurb: ''
 notes: Unknown publication date. Date used is from Dropbox, which was the source for
   this article.
 refs: ''
 sources: ''
 categories: []
-
 ---
+
 Things don’t learn. They can’t. That’s why we call them “things.” Or at least that’s how I’ve always felt most comfortable musing about the intelligence of inorganic matter. That is, until I fully considered the concepts being bandied about by the scientists in this book.
 
 My interest in technology has always leaned toward the fantastical. The first time I posted to a FIDO-NET bulletin board or threw on a pair of primitive VR goggles was like being transported into a different world. It was an alternative universe, where the limitless possibilities of a vision quest or lucid dream were now suddenly on tap.

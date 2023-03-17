@@ -1,15 +1,15 @@
 ---
 title: 'Bart Simpson: Prince Of Irreverence'
+date: 2004-01-01 05:00:00 Z
 subtitle: 
-date: '2004-01-01T05:00:00.000Z'
 publication: _publications/anthologies.md
 blurb: 'Published in *Leaving Springfield: The Simpsons and the Possibility of Oppositional
   Culture*, Edited by John Alberti (Wayne State University Press, 2004)'
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 The Simpsons are the closest thing in America to a national media literacy program. By pretending to be a kids' cartoon, the show gets away with murder - that is, the virtual murder of our most coercive media iconography and techniques. For what began as an entertaining interstitial material for an alternative network variety show has revealed itself, in the 21st Century, as nothing short of a media revolution.
 
 Maybe that's the very reason the Simpsons worked so well. The Simpsons were born to provide the Tracey Ullman show with a way of cutting to commercial breaks. Their very function as a form of media was to bridge the discontinuity inherent to broadcast television. They existed to pave over the breaks. But rather than dampening the effects of these gaps in the broadcast stream, they heightened them. They acknowledged the jagged edges and recombinant forms behind the glossy patina of American television, and by doing so, initiated its deconstruction.

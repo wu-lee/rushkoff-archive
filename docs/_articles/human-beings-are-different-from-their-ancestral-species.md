@@ -1,15 +1,15 @@
 ---
-publication: _publications/what-are-you-optimistic-about.md
 title: Human Beings Are Different From Their Ancestral Species
+date: 2007-10-30 04:00:00 Z
+publication: _publications/what-are-you-optimistic-about.md
 subtitle: ''
 image: ''
-date: 2007-10-30 00:00:00 -0400
 blurb: ''
 notes: Date from Goodreads
 refs: ''
 sources: ''
-
 ---
+
 Now that we've gotten false notions of 'God' out of the way, we come up against the question from which he insulated us: If human beings are not the 'chosen species,' then are we at least capable of transcending nature, from which we emerged?
 
 Our most natural inclination should be to kill each other, one way or another. From plankton to pachyderms, the myth of nature as a sustainable and loving collaborative is about as absurd as that of a Creator. Unless we prove different from every other species, we will continue to compete with the rest of the planet's inhabitants for a disproportionate share of its resources – and with one another for the spoils of this ongoing war. That's just life.

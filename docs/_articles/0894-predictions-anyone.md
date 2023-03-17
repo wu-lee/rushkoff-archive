@@ -1,14 +1,14 @@
 ---
 title: Predictions, Anyone?
+date: 1998-12-01 05:00:00 Z
 subtitle: 
-date: '1998-12-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Predictions and Anti-predictions for the Coming Decade
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 As a writer who openly and on record detests futurists of almost all breeds, I thought it might be fitting to close out 1998 with a list of predictions of my own. As you'll see, each of these 10 prophecies for 1999 is part of a pair equal and, in most cases, opposite counter-prophecies. For the more things change, the more they stay the same.
 
 Prediction One: The Y2K computer glitch will impair only the most peripheral and seldom-used systems. One or two power outages will occur in many countries, a few smaller banks will close for up to 48 hours, and improperly dated email will get lost in the wrong parts of users' Eudora lists. Almost no one will notice any significant inconvenience to their daily functioning.

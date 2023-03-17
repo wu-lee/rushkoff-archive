@@ -1,14 +1,14 @@
 ---
 title: Judge Drudge
+date: 1998-03-01 05:00:00 Z
 subtitle: 
-date: '1998-03-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The Drudge Reports beats the mainstream in timing, and integrity.
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 "Maybe somebody now can stop the insanity!" Time magazine's Margaret Carlson exclaimed on national television just a few short weeks ago, when Internet scandal sheet Drudge Report was still under widespread attack from the mainstream media for posting a rumor about White House advisor Sidney Blumenthal beating his wife.
 
 The mainstream media were anxious to stamp out this threat to their monopoly over news journalism, and savagely pilloried the 30-year-old independent who had the guts to release information to the public that they did not. As Blumenthal, with White House assistance, launched a $30 million defamation lawsuit against Drudge, the news media nearly unanimously cheered. They distanced themselves from Drudge and his Internet rumor-mill, and printed stories about how their young, amateurish nemesis reported sex rumors as fact.

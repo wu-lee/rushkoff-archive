@@ -1,14 +1,14 @@
 ---
 title: Donald Trump is a media virus, but we’re the ones spreading him
+date: 2016-12-17 17:00:00 Z
 subtitle: 
-date: '2016-12-17T17:00:00.000Z'
 publication: _publications/digital_trends.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 We’ll likely never touch the man, sit in the same room, or establish rapport with him. But he has nonetheless infected all of us quite intimately — some of us willingly, and some less so. That’s because he is less invasive as a person than he is as a virus. Yes, Donald Trump is a media virus, in the truest sense of the term.
 
 I should know. I’m the guy who came up with the notion of a “viral media” back in 1994 when I coined the term for my book Media Virus: Hidden Agendas in Popular Culture. Back then, I was using the expression less as a metaphor than as functional description for the way ideas could spread in our newly interactive mediaspace, which suddenly included fax machines, camcorders, cable TV, email, and a budding World Wide Web.

@@ -1,14 +1,14 @@
 ---
 title: Most VR Is Total Bullshit
+date: 2019-08-26 16:00:00 Z
 subtitle: 
-date: '2019-08-26T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 "This is going to change everything,” Timothy Leary told me as he took off his bulky headset and pulled an electronic glove from his right hand. It was the early 1990s, at a rave club in San Francisco. The famed psychologist and popularizer of psychedelic drugs had ventured into virtual reality for the first time, and he was reeling. At last, a technology capable of taking humanity to the next stage of consciousness and communication.
 
 In those early days, virtual reality was respected. Feared, even. Full immersion was a portal to the great unknown — a reality that could become indistinguishable from real life, and maybe swallow you up. Experiencing virtual reality (VR) was to going online like what LSD was to smoking marijuana: the full on, total experience of digital autonomy. Liftoff. But VR in those days wasn’t about immersion so much as expression. We imagined creating simulations of our dreams for others to experience; expressing ourselves to our friends with no words at all; or constructing worlds with completely different rules through which we could model new social norms.

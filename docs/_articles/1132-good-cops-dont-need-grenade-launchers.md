@@ -1,14 +1,14 @@
 ---
 title: Good Cops Don’t Need Grenade Launchers
+date: 2020-06-05 16:00:00 Z
 subtitle: 
-date: '2020-06-05T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 By day, the officers appear highly empathetic, kneeling and praying alongside members of the community. By night, they drive armored vehicles, don riot gear, shoot rubber bullets, and resort to tear gas as they corral and trample generally peaceful protestors who have opted to exercise their constitutional right to assembly.
 
 It’s well known in sociology and criminology circles, alike, that it’s the first style of policing — the protect and serve kind — which works to stem violence by opening channels of communication and even undermining institutional racism. The second, more militaristic style of policing leads to more injuries and deaths on both sides. The argument that police need to be better armed to protect themselves and the rest of us has been thoroughly debunked; we know that the more military gear cops have, the worse the outcomes. Yet there they are, using military-style maneuvers to trap peaceful demonstrators in parks or on bridges, then pelting them with flash bombs and pepper balls.

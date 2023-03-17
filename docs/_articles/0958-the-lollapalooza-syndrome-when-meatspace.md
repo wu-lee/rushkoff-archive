@@ -1,7 +1,8 @@
 ---
 title: 'The Lollapalooza Syndrome: When Meatspace and Cellspace Are Redundant'
+date: 2003-08-26 04:00:00 Z
+published: false
 subtitle: 
-date: '2003-08-26T04:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: A mass gathering of wireless generation members doesn't necessarily mean a
   massive use of wireless technologies. On the contrary, the most wirelessly literate
@@ -10,8 +11,8 @@ notes:
 refs: '[{"text"=>"HipNTasty", "original"=>"http://www.hipntasty.com/", "archive"=>"http://web.archive.org/web/20190622224244/http://hipntasty.com/",
   "meta"=>{"favicon"=>"data:image/x-icon;,"}}]'
 sources: 
-published: false
 ---
+
 The best thing about having been, at least at one point in my life, cool enough to be invited to parties at Timothy Leary's house, is that I got to meet some pretty spectacular people face to face. On the very same summer afternoon out on his patio of his Beverly Hills home nearly ten years ago, I met Oliver Stone, Yoko Ono, Trent Reznor and, the one person with whom I stayed in touch, Jane's Addiction front man Perry Farrell.
 
 We got talking that afternoon about kids, media, and technology, and vowed that we would create things (he, music; me, books) to help them usher in a more interactive and conscious age.

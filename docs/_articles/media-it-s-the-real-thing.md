@@ -1,9 +1,9 @@
 ---
-publication: _publications/new-perspectives-quarterly.md
 title: 'Media: It’s the Real Thing'
+date: 1994-06-01 04:00:00 Z
+publication: _publications/new-perspectives-quarterly.md
 subtitle: ''
 image: ''
-date: 1994-06-01 00:00:00 -0400
 blurb: Have we become a Talk Show Nation with an "idiot culture?" Or, is the Great
   Yawn about to do in the Society of the Spectacle? While Beavis and Butthead may
   annoy the PBS parents, don't the kids that watch it just shine it on? Ironically
@@ -13,8 +13,8 @@ blurb: Have we become a Talk Show Nation with an "idiot culture?" Or, is the Gre
 notes: Summer 1994
 refs: ''
 sources: ''
-
 ---
+
 MARSHALL McLUHAN ONLY THEORIZED ABOUT THE MEDIA CIVILIZATION THAT AN ENTIRE GENERATION HAS NOW LIVED IN ON A DAILY BASIS SINCE THEY WERE FIRST PLACED IN FRONT OF THE TV TO GIVE MOM AND DAD A BREATHER. DOUGLAS RUSHKOFF, AUTHOR OF THE INSIGHTFUL AND IRREVERENT _Cyberia: Life in the Trenches of Hyperspace_ (BALLANTINE, 1994) AND EDITOR OF THE _GenX Reader_ (1993), HAS EMERGED FROM THAT GENERATION AS THE BRILLIANT HEIR TO McLUHAN. A TV HEAD WHO CAN WRITE, HE IS THE FIRST MAJOR MEDIA THEORIST TO COME FROM THE PRIMORDIAL SOUP OF THE DATASPHERE INSTEAD OF THE HALLOWED STACKS OF THE UNIVERSITY LIBRARY.
 
 THE FOLLOWING IS AN ADAPTED EXCERPT FROM RUSHKOFF'S FORTHCOMING BOOK _Media Virus! Hidden Agendas in Popular Culture_ TO BE PUBLISHED IN OCTOBER BY BALLANTINE PRESS.

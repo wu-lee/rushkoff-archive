@@ -1,15 +1,15 @@
 ---
-publication: _publications/what-makes-a-man-22-writers-imagine-the-future.md
 title: Picture Perfect
+date: 2004-03-30 05:00:00 Z
+publication: _publications/what-makes-a-man-22-writers-imagine-the-future.md
 subtitle: ''
 image: ''
-date: 2004-03-30 00:00:00 -0500
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-
 ---
+
 It was back around the fourth grade. Before any of us even knew what a homosexual was. Well, some of my classmates probably knew, but I didn't—which is part of what made me so vulnerable to the damning accusation.
 
 I had just endured another one of those difficult mid-year moves from one public school district to another. It was a move up, as far as my parents were concerned, from the marginally upper-middle-class sections of Queens and then Larchmont to the indisputably upper-middle-class zip code of Scarsdale, where the school taxes rivaled the tuition at Andover. The relocation had just about tapped out my dad's income, so we stuck with clothes from Sears for those first couple of years while everyone else at school was already wearing those polos with the alligator on the tit, genuine Pumas or Adidas, and winter coats called "snorkels" with fake fur around the hood.

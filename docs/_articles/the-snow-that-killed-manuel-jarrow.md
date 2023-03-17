@@ -1,15 +1,15 @@
 ---
-publication: _publications/disco-biscuits-new-fiction-from-the-chemical-generation.md
 title: The Snow That Killed Manuel Jarrow
+date: 1998-01-01 05:00:00 Z
+publication: _publications/disco-biscuits-new-fiction-from-the-chemical-generation.md
 subtitle: ''
 image: ''
-date: 1998-01-01 00:00:00 -0500
 blurb: ''
-notes: "1998"
+notes: '1998'
 refs: ''
 sources: ''
-
 ---
+
 "So it's, like, cool, this doesn't hurt," he said. "It's a free ride from now on."
 
 "Is it really?"

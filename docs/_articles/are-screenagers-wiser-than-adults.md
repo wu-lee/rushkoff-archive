@@ -1,16 +1,16 @@
 ---
-publication: _publications/usa-weekend.md
 title: Are 'Screenagers' Wiser Than Adults?
+date: 1996-06-14 04:00:00 Z
+publication: _publications/usa-weekend.md
 subtitle: ''
 image: ''
-date: 1996-06-14 00:00:00 -0400
 blurb: ''
 notes: June 14-16, 1996 issue
 refs: ''
 sources: ''
 categories: []
-
 ---
+
 BEFORE AMERICA INSTALLS V-chips in every TV set and padlocks on all the Segas, we'd better take a good look at why kids devote so much energy to channel-surfing, cruising the Internet and playing Doom, as well as the _positive_ effects cybermania may have on them.
 
 Kids' fascination with new media is preparing them for the workplace and society of tomorrow. If we try to learn from their example, we, too, might gain skills necessary to thrive in a highly technological and chaotic future.

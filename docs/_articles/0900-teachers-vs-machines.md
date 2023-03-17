@@ -1,14 +1,14 @@
 ---
 title: Teachers vs Machines
+date: 1996-12-01 05:00:00 Z
 subtitle: 
-date: '1996-12-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Why teachers needn't be afraid of computers in their classrooms
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 When I was in junior high school, teachers would show us 16mm films about frogs, foreign cultures, and the force of friction. These films were once-a-week treats for all of us. The teacher got a free babysitter and an opportunity to grade some papers. We kids got to take a nap, pass around notes, or space out at the colors on the screen and the sound of the projector motor.
 
 Once the movie was over, the teacher would raise the shades and we'd return to business as usual. We never even discussed the huge mechanism that had taken charge of our classroom for the hour, its effect on us, or the intentions of the people who made the film that we watched.

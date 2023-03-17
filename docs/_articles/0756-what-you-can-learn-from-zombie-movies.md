@@ -1,14 +1,14 @@
 ---
 title: What You Can Learn From Zombie Movies
+date: 2007-08-10 04:00:00 Z
 subtitle: 
-date: '2007-08-10T04:00:00.000Z'
 publication: _publications/discover.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 The undead are everywhere these days. The popular summer movie 28 Weeks Later pits them against the U.S. military. The comic series Marvel Zombies has them eating the Silver Surfer. The video game Dead Rising lets players attack them with weapons ranging from hockey pucks to shower heads. A recent CBS pilot, Babylon Fields, imagines what would happen if the undead tried to integrate back into their former lives.
 
 No other horror creatures invite quite the same breadth of paranoid speculation as zombies, perhaps because they embody such a pure, reflective sense of terror: animated corpses dependent on living flesh for survival. No wolf mythology, no castles, no capes, no fangs; just dead people eating flesh. In short, except for the “being dead” part, they're just like us. I’d venture this accounts for their popularity over decades of cinema, as well as their more recent migration to other popular media. Zombie movies force us to figure out what, if anything, differentiates us from the monsters on the screen.

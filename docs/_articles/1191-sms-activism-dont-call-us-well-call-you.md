@@ -1,14 +1,14 @@
 ---
 title: 'SMS Activism: Don''t Call Us, We''ll Call You'
+date: 2005-06-08 16:00:00 Z
 subtitle: 
-date: '2005-06-08T16:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Mobile-enabled politics are still far from true networked solidarity -- and may do unaffiliated activists more harm than good.
 
 Although invented in the thrall of the great Enlightenment and its celebration of individual human autonomy, modern democracy has never truly been about the rights and thoughts of the individual. It's about the mass. Candidates don't accumulate votes one by one, but bloc by bloc. They speak to potential supports as the members of affiliations or tribes: autoworkers, Zionist Jews, soccer moms or NASCAR dads. The trick is to say or do something that flips a whole constituency over into one's column.

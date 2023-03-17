@@ -1,7 +1,7 @@
 ---
 title: Privacy Bill Won't Mean Marketers Can't Find You
+date: 2011-04-14 04:00:00 Z
 subtitle: 
-date: '2011-04-14T04:00:00.000Z'
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -13,8 +13,8 @@ refs: '[{"text"=>"John Kerry and John McCain proposed this week", "original"=>"h
   opt-in, opt-out business.", "favicon"=>"http://www.cnn.com/favicon.ico"}}, {"text"=>"Commercial
   Privacy Bill of Rights", "original"=>"http://kerry.senate.gov/imo/media/doc/Commercial%20Privacy%20Bill%20of%20Rights%20Text.pdf"}]'
 sources: 
-published: true
 ---
+
 With their "Commercial Privacy Bill of Rights Act of 2011," John Kerry and John McCain proposed this week to limit the sale and sharing of our sensitive information between companies. It's a quaint idea, even a good one, but overestimates government's ability to reverse the way marketers have worked for almost a century.
 
 While data collection online or through our cell phone activities may be new, data collection is as old as commercial record keeping. Direct marketers of the junk-mail era used public records such as driver's licenses, home deeds, mortgages and school registrations to learn about us. They purchased more information from magazines about their subscribers, department stores about their credit card holders and, yes, obstetricians about their expecting patients.

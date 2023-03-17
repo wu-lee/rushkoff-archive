@@ -1,16 +1,16 @@
 ---
 title: What Would It Take for the Economy to Be More Fair?
+date: 2015-12-30 05:00:00 Z
 subtitle: Experts on business, labor, and corporate governance offer their reasons
   for optimism and pessimism going into 2016.
-date: 2015-12-30T00:00:00.000-05:00
 publication: _publications/atlantic.md
 blurb: ''
 notes: Pasted from https://www.theatlantic.com/business/archive/2015/12/economy-fairness-rules/421809/
 refs: ''
 sources: ''
 image: "/uploads/what-would-it-take-for-the-economy-to-be-more-fair.jpg"
-
 ---
+
 People talk about “the economy” all the time. The economy is growing. The economy is falling apart. The economy is strong.
 
 What are people talking about when they talk about the economy? Billions and billions of transactions, the jobs that people have and how they are compensated for them, all the things that people make and consume.

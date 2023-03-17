@@ -1,16 +1,16 @@
 ---
 title: Sending Out an S.O.S. - What the Storm Taught Me About People, Power, and the
   Commons
+date: 2012-11-05 05:00:00 Z
 subtitle: 
-date: '2012-11-05T05:00:00.000Z'
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: '[{"text"=>"Eatocracy: Anthony Bourdain says help NYC restaurants: Eat out,
   tip big", "original"=>"http://eatocracy.cnn.com/2012/11/05/anthony-bourdain-nyc-restaurants-after-sandy/?hpt=op_t1"}]'
 sources: 
-published: true
 ---
+
 "Rethinking grid dependence in new climate reality."
 
 That was my sole tweet in the aftermath of Sandy, sent after four long nights with my wife and daughter in our cold, dark living room, cut off from the infrastructure -- and the people -- that normally keep us going.

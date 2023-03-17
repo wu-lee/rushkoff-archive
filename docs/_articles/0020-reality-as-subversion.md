@@ -1,14 +1,14 @@
 ---
 title: Reality as Subversion
+date: 2005-06-01 04:00:00 Z
 subtitle: 
-date: '2005-06-01T04:00:00.000Z'
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I had a weird vision the other day.
 
 Having brought our newborn back from the hospital just days before, my wife and I weren't getting much sleep. I lied on the bed next to the baby and slipped into one of those theta wave trances you can reach on the way to a magick spell, visionquest, or psychedelic trip.

@@ -1,15 +1,15 @@
 ---
 title: Rave Against The Machine
+date: 1999-11-01 05:00:00 Z
 subtitle: 
-date: 1999-11-01T05:00:00.000Z
 publication: _publications/this.md
 blurb: Rave culture once promised something truly extraordinary, capable of transforming
   the world... The spirit is gone.
 notes: 
 refs: 
 sources: 
-
 ---
+
 IT WAS ALL THUMP AND BLEEP. SIMPLE ANALOG computer sounds that, amplified to discotheque volume, somehow suggested a new future for the human race. A thousand kids, wearing no style in particular, dancing sexily, rhythmically, or even just spasmodically, committed themselves to pushing through until dawn and beyond. Maybe it was the drugs. Or maybe they were on to something.
 
 My first exposure to rave culture, back in 1988, was perhaps the most significant dose of pure possibility I had experienced since my psychedelic initiation 10 years earlier. Too young to have any direct contact with whatever the 1960S may have heralded, I was convinced we had stumbled upon something truly novel: a social scene capable of transforming the greater world around it.

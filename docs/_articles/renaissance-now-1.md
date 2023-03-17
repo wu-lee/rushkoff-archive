@@ -1,9 +1,9 @@
 ---
-publication: _publications/rushkoff.com.md
 title: Renaissance Now?
+date: 2002-06-13 04:00:00 Z
+publication: _publications/rushkoff.com.md
 subtitle: ''
 image: ''
-date: 2002-06-13 00:00:00 -0400
 blurb: ''
 notes: |-
   [https://rushkoff.com/renaissance-now/](https://rushkoff.com/renaissance-now/ "https://rushkoff.com/renaissance-now/")
@@ -11,8 +11,8 @@ notes: |-
   Date from citation in "Blogs and the Communications Renaissance" from Uses of Blogs
 refs: ''
 sources: ''
-
 ---
+
 I first posted the embryo of this idea on a bbs called the Well back in 1991 or so. I was wondering, at the time, if recent advances in math, physics, technology and culture constituted a new renaissance. The conversation went on for over a year, and became the basis – or at least an the adjunct – for my book, Cyberia. (I had intended to include the whole thing in the new edition of the book, but the publisher preferred to add a few essays and articles, instead.)
 
 I still find myself coming back to this notion of renaissance – whether I’m speaking about open source culture or religion. And I don’t just mean renaissance in the way we commonly think about it today (as some historical movement in art and architecture) but as a full-on shift in our experience of dimensionality. And it seems a useful concept – particularly in the current political climate, where narrative and postponement are beings used as tactics to avoid allowing us to take charge of our reality in the present tense.

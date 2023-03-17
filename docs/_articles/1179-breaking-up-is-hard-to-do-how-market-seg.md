@@ -1,14 +1,14 @@
 ---
 title: 'Breaking Up Is Hard to Do: How Market Segmentation Could Erode A Mobile Culture'
+date: 2004-11-24 17:00:00 Z
 subtitle: 
-date: '2004-11-24T17:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 "I know I'm wasting half my advertising dollars — I just don't know which half."
 
 Most credit the advertising industry's greatest paradox to John Wannamaker, king of American retail in the early 1900s. It was a simpler age of course, yet that statement summarizes today's dilemma of advertising in a landscape of clutter. How do you reach a potential customer, and how do you know he'll be listening to you when you do?

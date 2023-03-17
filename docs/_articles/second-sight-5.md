@@ -1,17 +1,17 @@
 ---
-publication: _publications/nyt_syndicate_guardian_of_london.md
 title: Second Sight
+date: 2001-08-09 04:00:00 Z
+published: false
+publication: _publications/nyt_syndicate_guardian_of_london.md
 subtitle: ''
 image: ''
-date: 2001-08-09 00:00:00 -0400
 blurb: ''
 notes: '[https://www.theguardian.com/technology/2001/aug/09/socialsciences.onlinesupplement](https://www.theguardian.com/technology/2001/aug/09/socialsciences.onlinesupplement
   "https://www.theguardian.com/technology/2001/aug/09/socialsciences.onlinesupplement")'
 refs: ''
 sources: ''
-published: false
-
 ---
+
 When the Court of Appeals sent the Microsoft case and the Justice Department's proposed "break up" remedy back to the lower courts for a fix, everyone - at least everyone in the press and punditry pen - seemed to think it marked a victory for Bill Gates. His company would now remain whole and, even if he were eventually punished, his web browser would have even more time to establish itself as the standard. I still get email asking why I haven't spoken out against the decision.
 
 I haven't criticised the Court of Appeals' decision because it was right.

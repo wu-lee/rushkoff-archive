@@ -1,7 +1,7 @@
 ---
 title: 'Lin, Zuckerberg, Obama: New Kind of Heroes?'
+date: 2012-02-22 05:00:00 Z
 subtitle: 
-date: '2012-02-22T05:00:00.000Z'
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -12,8 +12,8 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   \"Linsanity\" surrounding the New York Knicks'' surprise phenom at point guard may
   be motivated by something bigger than sports. Yes, Jeremy Lin is a terrific athlete,
   whose almost accidental ...", "dateLastCrawled"=>"2020-04-29T23:48:00.0000000Z"}]'
-published: true
 ---
+
 (CNN) -- The "Linsanity" surrounding the New York Knicks' surprise phenom at point guard may be motivated by something bigger than sports. Yes, Jeremy Lin is a terrific athlete, whose almost accidental discovery by the Knicks and little-engine-that-could perseverance make for great radio commentary and pop cultural mythology.
 
 But there's something deeper at play here: Lin is iconic of a new kind of hero for the 21st century. And he is not alone.

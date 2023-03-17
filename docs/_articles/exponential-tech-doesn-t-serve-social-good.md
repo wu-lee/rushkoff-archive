@@ -1,18 +1,18 @@
 ---
-publication: _publications/medium.md
 title: Exponential Tech Doesn’t Serve Social Good
+date: 2021-10-01 04:00:00 Z
+publication: _publications/medium.md
 subtitle: Why create solutions ‘at scale’ if operating at scale is itself the main
   problem?
 image: "/uploads/1_6ozsfp16duyhirypawhwog.jpeg"
-date: 2021-10-01 00:00:00 -0400
 blurb: How do we break through the noise and bring all those many decentralized organizations
   together into the one, single centralized decentralized network?
 notes: 'Source: [https://onezero.medium.com/exponential-tech-doesnt-serve-social-good-c6263dc5ab66](https://onezero.medium.com/exponential-tech-doesnt-serve-social-good-c6263dc5ab66
   "https://onezero.medium.com/exponential-tech-doesnt-serve-social-good-c6263dc5ab66")'
 refs: ''
 sources: ''
-
 ---
+
 We all want to do good. Well, a great many of us want to do good. We recognize that the climate is in peril, corporations are dangerously extractive, wealth disparity is at all-time highs, our kids are self-destructively addicted to social media, politics has descended into a reality TV show with paranoid features, and that civilization itself has only about another 20 years before some combination of the above threats makes life unrecognizable or even unsustainable.
 
 The good news, at least according to the majority of invitations I get to [participate in conferences](https://unfinished.com/) and with organizations, is that there’s an app or technology or network or platform or, most often these days, a token that can fix some or all of this. The latest frame around the technosolutionist frenzy is called web 3.0, which has come to mean the decentralized sort of internet characterized by TOR networks (basically, Napster and BitTorrent where everything is hosted everywhere) and the blockchain (a new form of automated ledger).

@@ -1,14 +1,14 @@
 ---
 title: Sex, Lies and Videophones
+date: 2004-05-12 16:00:00 Z
 subtitle: 
-date: '2004-05-12T16:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 New services allow users to fake the background sounds and appearance of their locations -- all because interactive media really wants us to be more honest.
 
 I remember a great Mad magazine satire from the 1970's, in which they lampooned the long-promised invention of landline camera phones. It was a series of panels showing a portable set of roll-down shades that could be placed behind you while you spoke, creating the illusion that you were in a different location. A businessman could show his wife he was at the office when he was actually trysting at his secretary's apartment or gambling at the racetrack.

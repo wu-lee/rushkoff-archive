@@ -1,14 +1,14 @@
 ---
 title: We'll Be Back
+date: 2009-08-24 04:00:00 Z
 subtitle: 
-date: 2009-08-24T04:00:00.000Z
 publication: _publications/publishers_weekly.md
 blurb: Why scaling down is good for publishing
 notes: 
 refs: 
 sources: 
-
 ---
+
 The corporate consolidation of publishing over the past two decades has finally maxed out. Borders is verging on bankruptcy; Barnes & Noble is closing stores; and major media conglomerates are closing imprints and ejecting talent faster than they gobbled it up in the 1990s. While this makes for some bleak headlines in the short term, it bodes well for the future of a publishing industry that operates on a scale more appropriate to the medium we're all creating and selling.
 
 Publishing is a sustainable industry--and a great one at that. The book business, however, was never a good fit for today's corporate behemoths. The corporations that went on spending sprees in the 1980s and '90s were not truly interested in the art of publishing. These conglomerates, from Time Warner to Vivendi, are really just holding companies. They service their shareholders by servicing debt more rapidly than they accrue it. Their businesses are really just the stories they use to garner more investment capital. In order to continue leveraging debt, they need to demonstrate growth. The problem is that media, especially books, can't offer enough organic growth--people can only read so many books from so many authors.

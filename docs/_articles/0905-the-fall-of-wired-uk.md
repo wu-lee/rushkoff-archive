@@ -1,14 +1,14 @@
 ---
 title: The Fall of Wired UK
+date: 1997-02-01 05:00:00 Z
 subtitle: 
-date: '1997-02-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Why Wired UK Never Really Existed
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 By pulling the plug on the United Kingdom version of its neon hi-tech monthly, Wired magazine has done more than cancel a publication. It has admitted yet another defeat in its campaign to equate the digital revolution with American-style right-wing libertarianism and to dominate discussions about futurism and cultural ideology with members of its own, highly-regarded posse.
 
 A propaganda effort that has proved quite effective on both the business and hi-tech communities of the US, Wired's Ventures' strategy of coercion through a combination of hype and intimidation just didn't work on England's digital enthusiasts, who were already poised to resist what they see as rampant cultural imperialism from American media conglomerates. Making matters worse, Wired originally chose to team up with The Guardian of London which, though not radically leftist, employs writers and appeals to readers who might not be willing accept all the gifts of Western capitalism sight unseen. The resulting rift was never successfully healed.

@@ -1,14 +1,14 @@
 ---
 title: Microsoft Marches On
+date: 1998-06-25 04:00:00 Z
 subtitle: 
-date: '1998-06-25T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 The state and Federal officials accusing Microsoft of anti-competitive practices have found themselves in a precarious battle with two fronts. The Federal courts, as evidenced by Tuesday's appellate decision freeing Microsoft to bundle its Web browsing software with the Windows operating system, will need to be convinced that the company's newly integrated products violate any antitrust laws at all. And the court of public opinion will soon want proof that this enforcement of free-market capitalism will somehow make for a better digital future.  
 
 More important, the prosecutors do not realize they have been drawn into a phantom battle. While they think they are preventing Microsoft from using its Windows monopoly to gain control over other areas, they are merely fighting for concessions that soon won't matter to Bill Gates at all.  

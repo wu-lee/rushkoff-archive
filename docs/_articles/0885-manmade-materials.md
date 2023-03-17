@@ -1,14 +1,14 @@
 ---
 title: Manmade Materials
+date: 1998-10-01 04:00:00 Z
 subtitle: 
-date: '1998-10-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Is Anything Not Natural?
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 When I was about eight years old I would lie at my father's feet as we watched the magic box called television, dad in his big recliner and me on the shag rug. From my vantage point on the floor, I could look up at the bottoms of my father's bedroom slippers. Molded into the plastic soles were the words: "Man-made Materials."
 
 I pondered that phrase for years. What, exactly, is a man-made material? Where did "man" get the stuff he "made" it from? And if he got from somewhere and merely melted it down with something else, then this wasn't a man-made material at all. It was merely man-combined natural materials. I came to the conclusion that nothing is man-made. Everything is natural, in one way or another. Bees make honey, beavers build dams, spiders weave webs, and man makes plastic-soled bedroom slippers, TV's, computers, and internets.

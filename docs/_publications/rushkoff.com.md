@@ -1,5 +1,5 @@
 ---
 title: Rushkoff.com
 url: ''
-
 ---
+

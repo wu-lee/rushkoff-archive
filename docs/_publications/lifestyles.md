@@ -1,5 +1,5 @@
 ---
 title: Lifestyles
 url: ''
-
 ---
+

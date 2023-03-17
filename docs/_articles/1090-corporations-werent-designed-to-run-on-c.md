@@ -1,14 +1,14 @@
 ---
 title: Corporations Weren’t Designed to Run on Code
+date: 2016-03-02 17:00:00 Z
 subtitle: 
-date: '2016-03-02T17:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Plants grow, people grow, even whole forests, jungles, and coral reefs grow — but eventually, they stop. This doesn’t mean they’re dead. They’ve simply reached a level of maturity where health is not about getting bigger, but about sustaining vitality. There may be a turnover of cells, organisms, and even entire species, but the whole system learns to maintain itself over time, without the obligation to grow.
 
 Companies deserve to work this way as well. They should be allowed to get to an appropriate size and then stay there, or even get smaller if the marketplace changes for a while. But in the current business landscape, that’s just not permitted. Corporations in particular are duty bound to grow by any means necessary. There’s no such thing as “big enough.” Like a shark that must move in order to breathe, corporations must grow in order to survive. This requirement is in their very DNA or, better, the code we programmed into them when we invented them; seeing as how that was close to 1,000 years ago, corporations have had a pretty long and successful run as the dominant business entity.

@@ -1,15 +1,15 @@
 ---
-publication: _publications/wrestling-with-zion.md
 title: Rally 'Round the Flag
+date: 2003-10-13 04:00:00 Z
+publication: _publications/wrestling-with-zion.md
 subtitle: ''
 image: ''
-date: 2003-10-13 00:00:00 -0400
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-
 ---
+
 When I was a kid attending services at Larchmont Temple, a classical Reform synagogue that boasted Joan Rivers as a regular member, my mind would wander from the monotoned responsive readings to pretty much anything else available. I played simple games in which I mentally listed the many logical inconsistencies in the service—from the professional organ player and chorus to the way the Torah was paraded around like one of those idols toward which we're supposed to be so wary.
 
 But, growing up as I did during the most well fought and well publicized of the Israeli wars, what I always ended up pondering the longest and most intently were those two flags on either side of the stage. (Yeah, I know now it's called the _bima_, but I still have a hard time understanding what use it has other than distancing the costumed rabbi and cantor from the congregation that they should be a part of, and putting some big donors on display. So the word "stage” stands.)

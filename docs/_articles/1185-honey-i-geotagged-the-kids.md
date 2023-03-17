@@ -1,14 +1,14 @@
 ---
 title: Honey, I Geotagged the Kids
+date: 2005-03-23 17:00:00 Z
 subtitle: 
-date: '2005-03-23T17:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 How collaborative cartography could enable us to map our shared worlds -- and why the wireless industry probably won't go for it.
 
 "Everything that people do has a geospatial component. We do everything somewhere. Even thinking," says Rich Gibson, self-taught computer geek and co-author, along with Schuyler Erle and Jo Walsh, of O'Reilly's forthcoming book Mapping Hacks, who believes that allowing normal people to manage, present and create media with a geospatial component will revolutionize and democratize the process and practice of cartography. Although, historically, cartography was a highly political, read-only medium for all but a select few, now, thanks to our new tools, we all have the potential to make our own maps. Cartography has become a read/write medium.

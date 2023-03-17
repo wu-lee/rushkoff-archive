@@ -1,14 +1,14 @@
 ---
 title: How Centuries of Black Strength Created a Blueprint for Economic Recovery
+date: 2020-07-06 16:00:00 Z
 subtitle: 
-date: '2020-07-06T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 There is no level of reparation that could ever make up for the devastating impact of white cruelty on African Americans. But long before any such repair was even being floated in mainstream culture, Black Americans were busy repairing things for themselves. In fact, white oppression in America has always been matched by an even greater ingenuity and resilience from Black communities. The more Black people were shunned and segregated from the rest of the American society, the more they were forced to invent the kinds of circular economic and local reinvestment strategies the rest of us are discovering only now.
 
 The fact that Black lives are finally coming to matter in America does not introduce some new encumbrance on anyone. On the contrary, dating back to at least the 1700s, Black Americans developed and deployed robust approaches to mutual aid and cooperative economics. We can all learn from the Black experience right now as we look toward sustaining ourselves during lockdown and remaking our economy without the benefit of a functioning federal government.

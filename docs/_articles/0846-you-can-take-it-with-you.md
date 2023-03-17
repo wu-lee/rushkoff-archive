@@ -1,7 +1,8 @@
 ---
 title: You Can Take It With You!
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: Number portability is finally set to arrive in the United States. Providers
   are bracing themselves for the biggest change in their industry since 'mobile' meant
@@ -9,8 +10,8 @@ blurb: Number portability is finally set to arrive in the United States. Provide
 notes: 
 refs: 
 sources: 
-published: false
 ---
+
 Number portability is finally set to arrive in the United States. Providers are bracing themselves for the biggest change in their industry since 'mobile' meant car phone.
 
   

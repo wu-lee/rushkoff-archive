@@ -1,14 +1,15 @@
 ---
 title: Sex, Lies, and the World Wide Web
+date: 1998-09-25 04:00:00 Z
+published: false
 subtitle: 
-date: '1998-09-25T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: false
 ---
+
 Bill Clinton’s impeachment, if and when it comes, will not herald a crisis of Constitution but a crisis of media. Brilliant exploitation of television may have won this president his office, but he must blame his downfall on an inability to resist the impact of another, newer medium: the Internet.
 
 Indeed, the moment that secured Clinton’s first bid for the presidency against incumbent George Bush was a perfectly executed TV talk show manoeuvre. During the famous “Oprah-style” debate, a black woman questioned Bush about his personal relationship to the experiences of the impoverished. He didn’t understand the question.

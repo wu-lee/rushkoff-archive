@@ -1,14 +1,14 @@
 ---
 title: Business Is Good
+date: 2006-02-01 05:00:00 Z
 subtitle: 
-date: '2006-02-01T05:00:00.000Z'
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Business is not the enemy. Not in itself, anyway.
 
 There's an often unexpressed, underlying assumption these days about the way power in America works. An extension of what used to be called "crude Marxism," the idea is that Bush and the NeoCons are brilliant propagandists, yet merely marionettes in a drama puppeteered by the true power elite: corporations.

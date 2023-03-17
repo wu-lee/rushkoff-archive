@@ -1,14 +1,14 @@
 ---
 title: Merge This
+date: 2001-01-01 05:00:00 Z
 subtitle: 
-date: '2001-01-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: An Acquisition by Any Other Name
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 No matter how spirited the press conference, or how high the combined worth of the resulting entity - upwards of $300 billion - the proposed merger of America Online and Time Warner is as desperate a measure for both partners as it is intelligent. Each company bailed the other out, and just in time.
 
 To be sure, celebrations are in order. A company that did not exist two decades ago, in an industry that did not exist two decades ago, has succeeded in absorbing the century's biggest and most influential media conglomerate. Despite widespread predictions to the contrary, America Online founder Steve Case proved that his subscription-only, dumbed-down, parallel universe to the Internet could do more than almost any Web company: it could be extremely profitable. Expanding on its philosophy that people will pay for good content, America Online now has unlimited and exclusive access to the film, television, and print properties of Time Warner.

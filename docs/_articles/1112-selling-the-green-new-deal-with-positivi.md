@@ -1,14 +1,14 @@
 ---
 title: Selling the Green New Deal With Positivity
+date: 2019-02-18 16:56:02 Z
 subtitle: 
-date: 2019-02-18 11:56:02 -0500
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 We’ve been taking the wrong approach to communicating about climate change. I get that the situation is dire. Really dire. But it goes way beyond the fact that every year is the hottest year on record, sea levels are rising, drought is forcing millions into refugee status, the Great Barrier Reef is almost dead, the oceans are 26 percent more acidic than preindustrial levels, our topsoil will be gone in less than 60 years, and we’re already at least 1.5 degrees Celsius toward the two degrees said to herald a real catastrophe. That’s all bad. The reality is actually worse.
 
 By any rational analysis, civilization as we know it is on the brink of true disaster. And despite their outward messaging, even climate-denying, anti-scientific, messianic nations like the United States are quietly preparing for the coming storm. No, they’re not looking at how to mitigate climate change, but how to prepare for its inevitability. We’re building walls — not to keep out today’s immigrants, but to block tomorrow’s climate refugees. We’re being trained by our president and other leaders in the dark art of seeing people from other nations as less than human — a trick that will make it easier to watch as flooding and other climate catastrophes wipe out millions. “At least it’s them and not us,” we’ll be able to tell ourselves. This sort of alienation verging on sociopathy takes time to develop. But we’re working on it.

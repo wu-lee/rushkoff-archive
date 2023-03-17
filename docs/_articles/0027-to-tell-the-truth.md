@@ -1,14 +1,14 @@
 ---
 title: To Tell the Truth
+date: 2005-06-01 04:00:00 Z
 subtitle: 
-date: '2005-06-01T04:00:00.000Z'
 publication: _publications/arthur.md
 blurb: Technologies of Persuasion
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I'm teaching a course at New York University this coming Fall semester, called “Technologies of Persuasion: Marketing, Politics, and Propaganda in a Digital Age.” And, beyond the title, I didn’t really have anything particular in mind when I pitched the idea to my superiors; only that I was getting sick and tired of students coming to our Interactive Telecommunications Program with little motivation other than to apply new technologies to marketing.
 
 I figured I’d call the course “persuasion,” just like some course I saw in the Communications Department catalogue, in order to fool the would-be marketers into taking it. Then, a few weeks in, after it becomes impossible to “drop” the course, reveal my true intent: to apply some critical analysis of the role that marketing and influence techniques have played in both online and offline society.

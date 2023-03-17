@@ -1,14 +1,14 @@
 ---
 title: NSA Phone Snooping, a New Kind of Creepy
+date: 2013-06-06 04:00:00 Z
 subtitle: 
-date: '2013-06-06T04:00:00.000Z'
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I'm finding hard to get too worked up over yesterday's revelation that the National Security Agency has been authorized by the secret Foreign Intelligence Surveillance Court to collect all our call data from Verizon. Hasn't everyone already assumed this? Everything we do in the digital realm - from surfing the web to sending an email to conducting a credit card transaction to, yes, making a phone call - creates a data trail. And if that trail exists, chances are someone is using it - or will be soon enough.
 
 This particular style of privacy invasion looks a bit different from those old TV movies where FBI agents sit in a van listening in on phone calls and recording them on reel-to-reel tape recorders. The government isn't interested in the content of our phone calls - our conversations - so much as who is calling whom and when, or what has become known as "meta-data."  Your life and pursuits are less important than the statistical profile of the way you use your digital devices. This is the world of big data.

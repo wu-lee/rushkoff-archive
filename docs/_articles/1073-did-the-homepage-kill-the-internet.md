@@ -1,15 +1,15 @@
 ---
 title: Did the Homepage Kill the Internet?
+date: 2021-08-26 16:00:00 Z
 subtitle: 
-date: '2021-08-26T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
-image: /uploads/1073-did-the-homepage-kill-the-internet.jpg
+image: "/uploads/1073-did-the-homepage-kill-the-internet.jpg"
 ---
+
 One of things I really loved about the early net was how open and free it felt. Before the internet was even the internet, Al Gore was talking about the possibility of an “information superhighway” connecting educators and researchers with one another as well as one another’s work. We never thought in terms of destinations. It was more about the journey, the search, and the connections.
 
 The “places” online, if you could even call them that, were just repositories of files. One of the first times I was on the net, I was looking for some song lyrics. I did some Gopher searches (simple, command-line stuff) and ended up downloading the files I needed from a server in Tel Aviv. There was no sense of place. I didn’t go there.

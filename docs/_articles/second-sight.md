@@ -1,16 +1,16 @@
 ---
-publication: _publications/nyt_syndicate_guardian_of_london.md
 title: The Internet Is Not Killing off Conversation but Actively Encouraging It
+date: 2000-06-28 04:00:00 Z
+publication: _publications/nyt_syndicate_guardian_of_london.md
 subtitle: ''
 image: ''
-date: 2000-06-28 00:00:00 -0400
 blurb: The internet is not killing off conversation but actively encouraging it
 notes: '[https://www.theguardian.com/technology/2000/jun/29/onlinesupplement13](https://www.theguardian.com/technology/2000/jun/29/onlinesupplement13
   "https://www.theguardian.com/technology/2000/jun/29/onlinesupplement13")'
 refs: ''
 sources: ''
-
 ---
+
 However vehemently today's web enthusiasts proclaim that "content is king", I suspect very few have stopped to consider just what this stuff called content really is. If it's anything at all.
 
 Take any well-branded cereal, for instance - one of those packages of sugar-coated corn meal with a recognisable cartoon character mascot on the box. What's the content there: the cereal, or the cartoon character?

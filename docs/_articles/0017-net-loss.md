@@ -1,15 +1,15 @@
 ---
 title: Net Loss
+date: 2007-04-05 04:00:00 Z
 subtitle: 
-date: '2007-04-05T04:00:00.000Z'
 publication: _publications/arthur.md
 blurb: "*(intended for publication in the cancelled Arthur Vol. 1, No. 26 \\\\[March
   2007\\\\])*"
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I'm a bit down on the Internet these days.
 
 Sure, a lot of it has to do with that obsequiously pandering Time magazine cover—the one with the little mirror on it telling us all that each of us is the “person of the year.” That is, each of us connected to the Internet and throwing our photos and personal consumer histories up on the web for everyone to see. We’re supposedly undergoing a revolution because now, instead of paying for movie tickets, we can pay for computers, hard drives and access time—often to the very same media conglomerate we think we’re ripping off.

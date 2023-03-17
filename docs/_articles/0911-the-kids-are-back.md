@@ -1,14 +1,14 @@
 ---
 title: The Kids Are Back
+date: 1998-11-01 05:00:00 Z
 subtitle: 
-date: '1998-11-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Hotline Reinvents the Internet
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 So, am I, like, the last kid on the block to get my Hotline server up and running? It sure seems so. Not since I logged onto the Internet for the first time, back in 1988, and encountered the already-populated chat rooms, bulletin boards, and hacker groups, have I been so overwhelmed by the rate at which a community can grow into an entire world -- without anyone in the over-ground, workaday reality ever finding out.
 
 A teenager from Australia named Adam Hinkley said the requisite "let there be light" for this thriving network of networks to be brought into existence. Tired with the way that Web browsers had become the default standard for navigating the Internet, exchanging files, and even conducting chats, Hinkley sought to create a simpler, more elegant set of tools to do the Internet's non-browsing functions. (That's right, there's a whole lot of stuff to do out there besides clicking through Web pages.)

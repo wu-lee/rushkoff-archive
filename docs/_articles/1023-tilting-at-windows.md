@@ -1,14 +1,14 @@
 ---
 title: Tilting at Windows
+date: 1998-06-04 04:00:00 Z
 subtitle: 
-date: 1998-06-04T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 No matter how much we Americans might love to hate Bill Gates, we can't help but have mixed feelings about the US Justice Department and the two dozen or so states suing Microsoft for violating anti-trust laws.
 
 Fresh from their unsatisfying victory-with-no-spoils over the tobacco industry last season, our attorneys-general are anxious to take down another perceived enemy of the people, as publicly as possible. On TV and to the press, they explain how Microsoft's 'anti-competitive' practices must be curbed in order to promote innovation and preserve consumer choice. But by the logic of the marketplace - the only logic left in American politics and, arguably, our value system - government intervention is itself anti-competitive. When winners and losers are judged only by their profits, the ends justify any means. Although Microsoft uses every weapon in its arsenal to win the 'browser war', this is all in the spirit of competition. Playing a bit dirty - or a bit fast, loose, or close to the chest with standards and compatibility - is merely the kind of 'extreme' competition we can expect from an industry founded by hackers and accelerating at this many megahertz per second. Predatory business practices are not anti-competitive; they are hyper-competitive. Or so the thinking goes, at this, the great bull market's endgame.

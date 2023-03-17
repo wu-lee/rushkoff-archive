@@ -1,15 +1,15 @@
 ---
 title: The AntiVax MetaConspiracy
+date: 2021-07-28 16:00:00 Z
 subtitle: 
-date: '2021-07-28T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
-image: /uploads/1069-the-antivax-metaconspiracy.jpeg
+image: "/uploads/1069-the-antivax-metaconspiracy.jpeg"
 ---
+
 I’ve been trying to wrap my head around the misinformation campaigns driving vaccine refusal in America, and how to blunt or perhaps even “tweak” their impact. It’s hard, because a lot of it is just plain wacky. Many of the scenarios are compellingly dramatic, but don’t make logical sense. Still, if we put all these narratives in an even bigger conspiratorial context, we start to get some interesting possibilities.
 
 We need to ask the meta-questions: who is being targeted by these stories and who stands to benefit if these people are sick or dead?

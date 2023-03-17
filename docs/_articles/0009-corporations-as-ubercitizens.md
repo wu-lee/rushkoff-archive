@@ -1,14 +1,14 @@
 ---
 title: Corporations as Uber-Citizens
+date: 2010-01-30 00:00:00 Z
 subtitle: 
-date: 2010-01-30T00:00:00.000Z
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 Last week's Supreme Court ruling was positive in one respect: it made law out of what was already happening. While corporations earned “personhood” back in the 1860s when a (likely bribed) court clerk added this language into the margins of another court decision, they never quite had the rights of citizenship before. They already write our laws (through lobbies) elect our leaders (with money) and create public opinion (with money and PR). (If you’re interested in how and why that happened, please read my book [Life Inc](http://rushkoff.com/books/life-incorporated/).) But they have always tended to do so by working around government’s efforts to limit their influence.
 
 It was a losing game for a government by the people, of course, because almost no one gets into office without the kind of corporate assistance they need to pay back if they want to get into office again. Meanwhile, while corporations have enjoyed the benefits of personhood for over a century, they don’t suffer the main pitfalls: chiefly, death—but also despair, fatigue, and the need to feed their kids. They could outrun or at least outlast any effort to curb their influence. That’s how the railroads got to trample States’ rights to their own land, how GE got out of cleaning the Hudson River, and so on. They just wait, make a little progress, and then wait some more.

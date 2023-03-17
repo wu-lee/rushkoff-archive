@@ -1,15 +1,16 @@
 ---
 title: 'Your Mother: Ma Bell, Brand Whore?'
+date: 2004-05-21 04:00:00 Z
+published: false
 subtitle: 
-date: '2004-05-21T04:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: AT&T's MVNO deal with Sprint points to a new telecom infrastructure strategy.
 notes: 
 refs: '[{"text"=>"sell Sprint wireless services under the AT&T brand", "original"=>"http://www.thefeature.com/article?articleid=100647",
   "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}}]'
 sources: 
-published: false
 ---
+
 AT&T has had its share of disgraces since the US Department of Justice forced them to break up into eight "Baby Bells" back in 1984. Long distance competition from young upstarts like Sprint and MCI; a meager cable TV effort ultimately sold off to Comcast; a technologically plagued and then financially troubled cell phone service, spun out and eventually sold off to Cingular; and, most recently - on April Fool's Day of all times - being dropped from the Dow.
 
 So it came as something of a surprise to those of us who grew up with AT&T as one of the most powerful companies and brands in our world to learn of their deal to [sell Sprint wireless services under the AT&T brand](http://www.thefeature.com/article?articleid=100647) this fall, as soon as the current AT&T Wireless removes the blue logos from its stores and phones to become part of Cingular. (One condition of the AT&T Wireless spinoff in 2001 was that that AT&T couldn't sell its own wireless services under the AT&T banner. The Cingular deal lifts this restriction, letting AT&T get back in the wireless game with its own services under its own brand name.)

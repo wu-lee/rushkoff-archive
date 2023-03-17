@@ -1,15 +1,15 @@
 ---
-publication: _publications/what-comes-after-money.md
 title: Program Your Own Money
+date: 2011-09-27 04:00:00 Z
+publication: _publications/what-comes-after-money.md
 subtitle: ''
 image: ''
-date: 2011-09-27 00:00:00 -0400
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-
 ---
+
 The credit crunch may actually be good for business.
 
 No, not in the short term. When money becomes more expensive, it is harder for most businesses to get the capital they need to conduct their most basic operations. Even successful companies borrow money to buy materials, pay employees, and cash in on invoices that have yet to be paid. Without the cash flow provided by banks, it is a lot harder for many companies to function -- much less expand.

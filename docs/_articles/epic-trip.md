@@ -1,15 +1,15 @@
 ---
-publication: _publications/heeb.md
 title: Epic Trip
+date: 2007-03-01 05:00:00 Z
+publication: _publications/heeb.md
 subtitle: Doug Rushkoff's Testament
 image: ''
-date: 2007-03-01 00:00:00 -0500
 blurb: ''
 notes: Spring 2007
 refs: ''
 sources: ''
-
 ---
+
 TEXT jeff newelt
 
 _Testament_, by media theorist and culture critic Doug Rushkoff, is serialized as a monthly comic book from DC/Vertigo and then collected into a graphic novel every five or six issues--_Testament Volume Two: West of Eden_ was just recently released. The series ranks among the triumvirate of Neil Gaiman's _Sandman_, Grant Morrison's _Invisibles_ and Alan Moore's _Promethea_, and alongside Jack Kirby's '70s psychedelic cosmologies/comics, _The New Gods_ and the _Eternals_.

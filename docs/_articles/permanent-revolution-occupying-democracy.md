@@ -1,15 +1,15 @@
 ---
-publication: _publications/sociological-quarterly.md
 title: 'Permanent Revolution: Occupying Democracy'
+date: 2013-03-01 05:00:00 Z
+publication: _publications/sociological-quarterly.md
 subtitle: ''
 image: ''
-date: 2013-03-01 00:00:00 -0500
 blurb: ''
 notes: Spring 2013
 refs: ''
 sources: ''
-
 ---
+
 Back in the late 1990s, I became interested in the potential of interactive and networking technologies to enhance the potential for democratic and civic participation. I wrote a short book entitled _Open Source Democracy_ (Rushkoff 1998) in which I outlined what I saw as the opportunity for deeper levels of public intervention not just in electoral politics, but in ongoing civic affairs.
 
 At the time most visions of electronically enabled democracy were still stuck in what we might call the Ross Perot phase: use the net to let people vote or participate in what the third-party presidential candidate called "electronic town halls" (Simon 1992). Perot envisioned citizens watching television programs that informed them about the issues and then voting yes or no to proposals through their remote controls.

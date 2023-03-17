@@ -1,14 +1,14 @@
 ---
 title: All God's Children, They Got Vings
+date: 2009-04-12 04:00:00 Z
 subtitle: 
-date: '2009-04-12T04:00:00.000Z'
 publication: _publications/paper.md
 blurb: The New Kabbalah
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 The web site flashes images of a fetus, the mysterious face on the surface of Mars, and a ball of fire. Beneath the images, promises of the mysteries lying in wait for all comers:
 
 The Origins of Humanity! Spiritual Energy! Reincarnation! Parallel Universes! Resurrection of the Dead!

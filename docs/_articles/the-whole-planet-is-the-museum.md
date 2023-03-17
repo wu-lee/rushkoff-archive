@@ -1,9 +1,9 @@
 ---
-publication: _publications/arthur.md
 title: The Whole Planet Is the Museum!
+date: 2003-01-01 05:00:00 Z
+publication: _publications/arthur.md
 subtitle: ''
 image: ''
-date: 2003-01-01 00:00:00 -0500
 blurb: "**Author-theorist Douglas Rushkoff takes tea and talks shop with veteran mindboggler/conceptualist/artist/visionary
   Genesis P-Orridge, best known for his work as co-founder of seminal industrial outfit
   Throbbing Gristle and leader of neo-primitive-shamanic ravists Psychic TV**"
@@ -13,8 +13,8 @@ notes: |-
   Text copied from [https://arthurmag.com/2010/10/28/douglas-rushkoff-and-genesis-p-orridge-conversation-2003/](https://arthurmag.com/2010/10/28/douglas-rushkoff-and-genesis-p-orridge-conversation-2003/ "https://arthurmag.com/2010/10/28/douglas-rushkoff-and-genesis-p-orridge-conversation-2003/")
 refs: ''
 sources: ''
-
 ---
+
 _I met Genesis in the early ’90s in the Bay Area. He needed a lift to Timothy Leary’s house in Beverly Hills, and I needed an interview for a book I was writing about viral media. We spent about six hours in the car together, trying to impress one another with our strangest thoughts while Gen’s two daughters fought in the back seat._
 
 _We’ve been friends ever since._

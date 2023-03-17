@@ -1,18 +1,18 @@
 ---
-publication: _publications/medium.md
 title: What? Your Assets at Coinbase are Not Safe?
+date: 2022-05-11 04:00:00 Z
+publication: _publications/medium.md
 subtitle: The coming crypto crash may take down more than the tokens, but this is
   actually good for the blockchain
 image: "/uploads/0_zp_l4iekwldgm4ew.jpg"
-date: 2022-05-11 00:00:00 -0400
 blurb: I feel bad for these investors if they get screwed, but maybe it’s the only
   way for people to learn what the blockchain is and isn’t for.
 notes: 'Source: [https://rushkoff.medium.com/what-your-assets-at-coinbase-are-not-safe-3ad20708a888](https://rushkoff.medium.com/what-your-assets-at-coinbase-are-not-safe-3ad20708a888
   "https://rushkoff.medium.com/what-your-assets-at-coinbase-are-not-safe-3ad20708a888")'
 refs: ''
 sources: ''
-
 ---
+
 Retail crypto investors, already reeling from recent losses, were additionally shocked this week to learn that should Coinbase or one of the other exchanges go bankrupt, [the assets in their accounts may not be safe](https://fortune.com/2022/05/11/coinbase-bankruptcy-crypto-assets-safe-private-key-earnings-stock/). In a worst-case scenario, investors who keep their tokens at Coinbase would have to line up with all the other creditors to get whatever portion of their investments is left.
 
 The company insists they only made this disclosure because of a new SEC regulation: “we included a new risk factor based on an SEC requirement called SAB 121, which is a newly required disclosure for public companies that hold crypto assets for third parties” CEO Brian Armstrong [tweeted](https://twitter.com/brian_armstrong/status/1524233885860515841?s=20&t=unCRUXT7-mCmFZnCVTymKg). He assured people that only a “black swan” event could even trigger such conversations, but he admits that bankruptcy courts could decide to treat its customers’ crypto investments as part of the company’ assets.

@@ -1,14 +1,14 @@
 ---
 title: The Sabbath Revolt
+date: 2009-04-11 04:00:00 Z
 subtitle: 
-date: '2009-04-11T04:00:00.000Z'
 publication: _publications/adbusters.md
 blurb: Printed in Adbusters No. 34, 1999
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 When I was a kid, we lived in a relatively modest neighborhood and shared one barbecue pit at the end of the block. Every weekend, anyone could go down there and make some hotdogs. Parents would even cook for one another's kids. When we got a bit wealthier, we moved out to the suburbs. There, each family had its own barbecue in the backyard. Instead of barbecuing with the neighbors, we competed with them. "The Jones's have sirloin, so we better get filet mignon!"
 
 Sure, in the suburban sprawl schema, the Weber Grill company gets to sell a whole lot more barbecues, but our experience of community is surrendered to the needs of the marketplace.

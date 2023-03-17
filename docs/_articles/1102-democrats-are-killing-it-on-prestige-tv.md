@@ -1,14 +1,14 @@
 ---
 title: Democrats Are Killing It on Prestige TV
+date: 2018-10-26 16:00:00 Z
 subtitle: 
-date: '2018-10-26T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I was channel surfing the other night and came upon a shot of Hillary Clinton in some sort of conversation with Madeleine Albright and Colin Powell. They were talking about the dangers of nationalism — how it’s like a virus that destroys the bonds that keep the world safe. Diversity was the key to security. And I remember wondering: What sort of TV program is actually letting this sort of lofty, idealistic conversation take place?
 
 Then the camera cut to Téa Leoni, and I realized what was going on. This was the CBS series Madame Secretary — not the news at all, but television drama, perhaps the only place left where we can witness discussions of this depth and sense of purpose. And the scene wasn’t simply cut together from existing news footage. The former secretaries of state were on the show, in character, reading scripted lines about the inclusive nature of real democracy and the danger of letting our vigilance wane.

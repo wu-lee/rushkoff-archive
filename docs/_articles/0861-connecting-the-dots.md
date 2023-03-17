@@ -1,14 +1,14 @@
 ---
 title: Connecting the Dots
+date: 1996-12-01 05:00:00 Z
 subtitle: 
-date: '1996-12-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: TWA flight 808, CIA Crack sales, and Internet-style Conspiracy Theory
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Is the Internet really a forum capable of exposing our governments' deepest, darkest secrets, or is it just a hotbed for conspiracy theorists and the dissemination of their most paranoid delusions to an uncritical audience?
 
 Officials from the FBI, Secret Service, and US Navy are still busy denying assertions by former Kennedy administration Press Secretary and TV reporter Pierre Salinger that TWA flight 800 was actually shot down by a US Navy missile. According to Salinger, he received a document proving this to be the case from a French intelligence agent who got the incriminating paperwork from a U.S. Secret Service agent. Last Friday, he admitted that the document has been available on the Internet since July 30. \\[http://www.iglou.com/homepages/mkennedy/twa.html\\]

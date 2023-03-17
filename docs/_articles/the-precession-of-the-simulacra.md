@@ -1,16 +1,16 @@
 ---
-publication: _publications/the-edge.md
 title: The Precession of the Simulacra
+date: 2012-01-01 05:00:00 Z
+publication: _publications/the-edge.md
 subtitle: ''
 image: ''
-date: 2012-01-01 00:00:00 -0500
 blurb: ''
 notes: '[https://www.edge.org/response-detail/10204](https://www.edge.org/response-detail/10204
   "https://www.edge.org/response-detail/10204")'
 refs: ''
 sources: ''
-
 ---
+
 Having discovered much too late in life that the many things I had taken for granted as pre-existing conditions of the universe were, in fact, creations and ideas of people, I found Baudrillard's "precession of the simulacra" to be an immensely valuable way of understanding just how disconnected from anything to do with reality we can become. 
 
 The main idea is that there's the real world, there's the maps we use to describe that world, and then all this other activity that occurs on the map—sometimes with little regard for the territory it is supposed to represent. There's the real world, there's the representation of the world, and there's the mistaking of this simulation for reality. 

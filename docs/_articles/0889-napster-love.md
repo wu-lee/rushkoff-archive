@@ -1,14 +1,14 @@
 ---
 title: Napster Love
+date: 2000-05-01 04:00:00 Z
 subtitle: 
-date: '2000-05-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: How Napster amounts to little more than a consumer revolt.
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Like the many who've installed the program, I, too, became addicted to Napster. At least for a moment.
 
 Very basically, here's how it works. The audio information on the CD's that I play on my stereo can be stored very efficiently on my computer in a file format known as MP3. Each song is a separate file, that I can choose to play right on my computer, or on a portable MP3 device - something much like a walkman, but with no cassette.

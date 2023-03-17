@@ -1,14 +1,14 @@
 ---
 title: The Next Big Thing
+date: 2008-04-17 04:00:00 Z
 subtitle: 
-date: '2008-04-17T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: February 1999
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 "What's with this Internet?" an old friend called to ask me late one night last week. "I mean I know it's a big deal and all," she admitted, "but this is crazy!"
 
 By "this," she meant the recent spate of new Internet stock offerings, where securities issued in the morning at nine or ten dollars per share are worth ten times more by the end of the day. As a result, these tiny companies, with fewer than a couple of hundred employees, with no real assets to speak of, and no earnings whatsoever, end up achieving "market caps" (the total value of all their stock) equivalent to that of major airlines and defense contractors ˜ companies that employ thousands, earn billions, and own planes, boats, factories, and real estate.

@@ -1,14 +1,14 @@
 ---
 title: 'Life Dollars: Finding Currency In Community'
+date: 2010-09-01 04:00:00 Z
 subtitle: 
-date: 2010-09-01T04:00:00.000+00:00
 publication: _publications/futurist.md
 blurb: 
 notes: Sep/Oct 2010 issue
 refs: 
 sources: 
-
 ---
+
 The recent financial meltdown may not be punishment for our sins, but it is at least in part the result of our widespread obsession with financial value over values of any other sort.
 
 As corporations gain ever more control over our economy, government, and culture, it is only natural for us to blame them for the helplessness we now feel over the direction of our personal and collective destinies. But it is both too easy and utterly futile to point the finger of blame at corporations or the robber barons at their helms--not even those handcuffed CEOs gracing the cover of the business section. Not even mortgage brokers, credit-card executives, or the Federal Reserve.

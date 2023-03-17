@@ -1,15 +1,15 @@
 ---
 title: Why the CDC Should Never Have Gotten Involved in Manufacturing Consent
+date: 2021-08-06 16:00:00 Z
 subtitle: 
-date: '2021-08-06T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
-image: /uploads/1070-why-the-cdc-should-never-have-gotten-inv.jpg
+image: "/uploads/1070-why-the-cdc-should-never-have-gotten-inv.jpg"
 ---
+
 I’ve been reading the critique. Everyone seems to hate the CDC these days. After telling vaccinated people in May that we can go maskless, they reversed course last week, instructing everyone to mask up wherever the virus is spreading rapidly.
 
 One day, we’re told we’re almost completely immune to the virus, and the next we find out the “new” variant (really a few months old) actually spreads among immunized people as readily as chicken pox. At the same time, CDC Director Rochelle Walensky, MD, tells us the only real reason for vaccinated people to wear masks is to protect the unvaccinated. “It’s a pandemic of the unvaccinated,” she explained — a line apparently deemed rhetorically fit enough for the president to repeat at his press conference.

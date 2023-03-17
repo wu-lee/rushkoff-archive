@@ -1,7 +1,7 @@
 ---
 title: Apple's Mac Killer Unveiled
+date: 2010-01-27 05:00:00 Z
 subtitle: 
-date: '2010-01-27T05:00:00.000Z'
 publication: _publications/daily_beast.md
 blurb: Beyond the hype, style, and speculation, the truth is that the iPad is really
   just another tablet device. A really big PDA, where a touchscreen does what a laptop's
@@ -9,8 +9,8 @@ blurb: Beyond the hype, style, and speculation, the truth is that the iPad is re
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 What makes the iPad so new and different, of course, is that instead of you having to find a bootleg copy of Apple's OS X operating system and install it illegally on an existing netbook or tablet PC, now you get to have a real Mac system pre-installed on a super-lightweight device that's fully capable of running it.
 
 Except, of course, you won't. The iPad—contrary to the way most people thought about it—is not a tablet computer running the Apple operating system. It’s more like a very big iPhone, running the iPhone operating system. As Jobs explained at the unveiling Wednesday afternoon, netbooks don't do computing as well as computers, so why make one? Instead, the iPad means to fill the middle space between a phone and a laptop, and to be really good at that. Like a really big iPod Touch.

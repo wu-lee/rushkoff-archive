@@ -1,7 +1,7 @@
 ---
 title: Child Porn Is a Poor Basis for Net Policy
+date: 2012-06-19 04:00:00 Z
 subtitle: 
-date: '2012-06-19T04:00:00.000Z'
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -41,8 +41,8 @@ refs: '[{"text"=>"and attorneys general,", "original"=>"http://kuow.org/program.
   {"text"=>"ill-informed law SB 6251", "original"=>"http://apps.leg.wa.gov/billinfo/summary.aspx?bill=6251",
   "archive"=>"http://web.archive.org/web/20160324192530/http://apps.leg.wa.gov/billinfo/summary.aspx?bill=6251"}]'
 sources: 
-published: true
 ---
+
 (CNN) -- Underage sex trafficking is an awful thing, on that we can all agree. But the growing clamor by individual U.S. states for the shutdown of Village Voice Media's web-based advertising site, Backpage.com, is panicky, scattershot, legally suspect and potentially just as dangerous.
 
 Backpage.com is a personals website with a special "adult" section containing a wealth of listings for escort services. Like the back pages of most alternative local news weeklies, or for that matter the Yellow Pages of the phone book, the website contains ads and pictures that make no pretense about what is being offered. These are ads for prostitutes.

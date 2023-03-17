@@ -1,14 +1,14 @@
 ---
 title: Stimulus, Ass-Backwards
+date: 2009-04-16 04:00:00 Z
 subtitle: 
-date: 2009-04-16T04:00:00.000Z
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 I've been trying to figure out exactly why President Obama’s approach to the economic crisis upsets me so much, so regularly, and I think I figured it out.
 
 His impulse—perhaps as someone with more faith in the power of centralized, top-down decision-making than I have—is to fix our economic problems by supporting existing institutions. In the president’s view, the best approach now is to pump some necessary short-term assets into flagging institutions to help them make it through the rough patches in the economic road, and then get them to pay it back to the government once times are better. That’s the approach he’s taken to the banks, the automotive industry, and even the insurance industry.

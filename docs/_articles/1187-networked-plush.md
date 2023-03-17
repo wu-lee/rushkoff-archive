@@ -1,14 +1,14 @@
 ---
 title: Networked Plush
+date: 2005-04-27 16:00:00 Z
 subtitle: 
-date: '2005-04-27T16:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Inserting a cell phone or an Airport in a fuzzy doll just won't cut it. It's time for toys to network.
 
 It seems only yesterday when a touch-activated vibrator in an Elmo doll was enough to launch a "tickle-me" culture, and keep the likes of Toys R Us going for another Christmas season. Today, however, in the post-Furby universe of electronics-enhanced plush toys, it takes more than a few technological capabilities, however novel, to make a successful play experience -- or play for the market.

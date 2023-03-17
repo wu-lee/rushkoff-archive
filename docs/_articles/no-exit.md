@@ -1,15 +1,15 @@
 ---
 title: No Exit
+date: 2018-06-01 04:00:00 Z
 subtitle: When Everything Becomes a Shopping Mall
-date: 2018-06-01T00:00:00.000-04:00
 publication: _publications/future-now.md
 blurb: When media is ambient, it's no longer part of the environment-- it is the environment.
 notes: 'Source: https://www.iftf.org/future-now/article-detail/no-exit/'
 refs: ''
 sources: ''
 image: "/uploads/no-exit.png"
-
 ---
+
 In John Carpenter’s B-movie classic, “They Live”, donning a pair of special glasses allowed humans to see the hidden programming in the media all around them. Messages from alien overlords, such as Art is Terrorism or simply Obey were revealed to be hidden in billboards and magazine covers.
 
 See, it wasn’t the ads people knew about that were the problem, but the ones embedded in the landscape. They were nested in the very fabric of reality—so much so, that they were rendered invisible to the naked eye.

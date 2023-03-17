@@ -1,14 +1,14 @@
 ---
 title: To Have or Have Not
+date: 1997-08-01 04:00:00 Z
 subtitle: 
-date: '1997-08-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: What the Increase in Public Accessibility Means
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 In America, the Internet has always been thought of as something you buy. You purchase a computer, stick it in your home somewhere, choose an online service, and then find a fourteen-year-old to set it up for you. The biggest hurdle in getting online has been the fear associated with typing in your credit card number over non-secured phone lines (as if the carbon copy you signed at that restaurant last night is any safer - it isn't).
 
 But what about people who don't have credit cards? Or who don't have the money to buy a computer, new or used? Or who don't have a phone line in their home? Or who don't even have a home at all?

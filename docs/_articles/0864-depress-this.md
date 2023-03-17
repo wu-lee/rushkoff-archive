@@ -1,14 +1,14 @@
 ---
 title: Depress This
+date: 1998-09-01 04:00:00 Z
 subtitle: 
-date: '1998-09-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Study shows Internet use is depressing. So is real life.
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Maybe the news that the Internet makes people depressed shouldn't have taken us by surprise. It's what concerned cyber-reactionaries have been telling us since the beginning: the Internet renders us incapable of forming real relationships, isolates us in an empty electronic simulation, and destroys family bonds. Now, the well-meaning killjoys have some science to back their conjecture.
 
 As front page news stories have announced to the world, researchers at Carnegie Mellon University determined that people who spend even a few hours a week online experience higher levels of depression and loneliness than those who don't.

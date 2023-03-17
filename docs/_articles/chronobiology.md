@@ -1,16 +1,16 @@
 ---
-publication: _publications/the-edge.md
 title: Chronobiology
+date: 2017-01-01 05:00:00 Z
+publication: _publications/the-edge.md
 subtitle: ''
 image: ''
-date: 2017-01-01 00:00:00 -0500
 blurb: ''
 notes: '[https://www.edge.org/response-detail/27083](https://www.edge.org/response-detail/27083
   "https://www.edge.org/response-detail/27083")'
 refs: ''
 sources: ''
-
 ---
+
 The time-is-money ethos of the Industrial Age and wage labor, combined with the generic quality of computerized time-keeping and digital calendars has all but disconnected us from the temporal rhythms on which biological life has oriented itself for millennia. Like all organisms, the human body has evolved to depend on the cyclical ebbs and flows of light, weather, and even the gravitational pull of the moon in order to function effectively.
 
 But our culture and its technologies are increasingly leading us to behave as if we can defy these cycles—or simply ignore them completely. We fly ten time zones in as many hours, drink coffee and take drugs to wake ourselves, pop sedatives to sleep, and then take SSRI’s to counter the depression that results. We schedule our work and productivity oblivious to the way the lunar cycle influences our moods and alertness, as well as those of our students, customers, and workforces.

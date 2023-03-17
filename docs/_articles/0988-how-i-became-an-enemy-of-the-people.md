@@ -1,7 +1,7 @@
 ---
 title: How I Became an Enemy of the People
+date: 2009-06-08 04:00:00 Z
 subtitle: 
-date: '2009-06-08T04:00:00.000Z'
 publication: _publications/daily_beast.md
 blurb: The only thing I wanted during my short infamy in the blogosphere was for the
   noise to stop. I had broken faith with the market, and the market was seeking its
@@ -33,8 +33,8 @@ refs: '[{"text"=>"", "original"=>"http://www.amazon.com/exec/obidos/ASIN/1400066
   "Business/Economics"], "title"=>"Life Inc.: How the World Became a Corporation and
   How to Take It Back: Rushkoff, Douglas: 9781400066896: Amazon.com: Books", "favicon"=>"http://www.amazon.com/favicon.ico"}}]'
 sources: 
-published: true
 ---
+
 Yes, I had gotten mugged at gunpoint, and yes, I was now talking trash about my neighborhood. But the real crime—the one that couldn't be forgiven by the likes of New York magazine—was that I might be threatening to help push artificially elevated real-estate prices off a precipice they were nearing all by themselves. As a defamer of the market at the height of its fascist mania, I had rendered myself an enemy of the people.
 
 I turned down an opportunity to tell my side of the story in The New York Times Week in Review. I was just too weary, and every effort to dig myself out of the hole I created just got me in deeper.

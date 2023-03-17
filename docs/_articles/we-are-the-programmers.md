@@ -1,16 +1,16 @@
 ---
-publication: _publications/adbusters.md
 title: We Are the Programmers
+date: 2000-11-10 05:00:00 Z
+publication: _publications/adbusters.md
 subtitle: ''
 image: ''
-date: 2000-11-10 00:00:00 -0500
 blurb: ''
 notes: "Date from Dropbox.  \nText from [http://web.archive.org/web/20101128032028/http://rushkoff.com/articles/articles-and-essays/we-are-the-programmers/](http://web.archive.org/web/20101128032028/http://rushkoff.com/articles/articles-and-essays/we-are-the-programmers/
   \"http://web.archive.org/web/20101128032028/http://rushkoff.com/articles/articles-and-essays/we-are-the-programmers/\")"
 refs: ''
 sources: ''
-
 ---
+
 It all began with the remote control.
 
 The little plastic device empowered us to change the pictures on our screens with the tiniest effort of a single finger. From the comfort of the living room couch, we could exchange Walter Cronkite’s mug for David Brinkley’s, or reject Angie Dickinson in favor of Suzanne Pleshette. Not to mention how easily we could click away from the latest annoying cereal spokesanimal or hamburger huckster. Thanks to the remote control, the “channel surfer” was born. But it was only the beginning.

@@ -1,7 +1,8 @@
 ---
 title: Bush Backs Bells
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: The Bush administration has signalled it won't oppose efforts by the Baby Bells
   to overturn laws forcing them to lease out their landlines at discounted rates --
@@ -57,8 +58,8 @@ refs: '[{"text"=>"the media", "original"=>"http://www.nytimes.com/2004/06/10/bus
   "id"=>"com.nytimes.android", "url"=>"nyt://article/e0895128-81ee-5306-a481-5b102f65eedb"}}},
   "favicon"=>"http://www.nytimes.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico"}}]'
 sources: 
-published: false
 ---
+
 The Bush administration has signalled it won't oppose efforts by the Baby Bells to overturn laws forcing them to lease out their landlines at discounted rates -- thanks to competition from mobile networks and other technologies.
 
   

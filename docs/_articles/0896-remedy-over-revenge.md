@@ -1,14 +1,14 @@
 ---
 title: Remedy Over Revenge
+date: 2001-07-01 04:00:00 Z
 subtitle: 
-date: '2001-07-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: How to Solve the Microsoft Case Once, and for All
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 When the Court of Appeals sent the Microsoft case and the Justice Department's proposed "break up" remedy back to the lower courts for a fix, everyone - at least everyone in the press and punditry pen - seemed to think it marked a victory for Bill Gates. His company would now remain whole and, even if he were eventually punished, his web browser would have even more time to establish itself as the Internet's standard. I still receive email asking why I haven't spoken out against the decision.
 
 Well, I haven't criticized the Court of Appeals decision because it was right.

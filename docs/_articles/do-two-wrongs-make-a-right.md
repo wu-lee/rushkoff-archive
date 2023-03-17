@@ -1,16 +1,16 @@
 ---
-publication: _publications/nyt_syndicate_guardian_of_london.md
 title: Extreme response not a solution
+date: 2002-07-17 04:00:00 Z
+publication: _publications/nyt_syndicate_guardian_of_london.md
 subtitle: How hackers maintain the net's natural balance.
 image: ''
-date: 2002-07-17 00:00:00 -0400
 blurb: ''
 notes: '[https://www.theguardian.com/technology/2002/jul/18/hacking.security](https://www.theguardian.com/technology/2002/jul/18/hacking.security
   "https://www.theguardian.com/technology/2002/jul/18/hacking.security")'
 refs: ''
 sources: ''
-
 ---
+
 So, now I'm getting spam faxes. From advertising ranging from a periodontist in New York City, to a wireless phone company. I only have one phone - the same phone line that grandma would call in an emergency - and these desperate folks send faxes to me at all hours of the night, courtesy of the fax broadcasting companies they've hired.
 
 I'm on the New York State government-enforced "do not call" registry (a database of people who have requested that their phone numbers be removed from telemarketing databases).

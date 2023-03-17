@@ -1,7 +1,7 @@
 ---
 title: The Facial
+date: 2009-04-12 04:00:00 Z
 subtitle: 
-date: 2009-04-12T04:00:00.000Z
 publication: _publications/exe-magazine.md
 blurb: 'I''m not talking about the latest place in Soho to get mud pack treatments,
   but a new preferred climax strategy for young men raised on porn videos. That''s
@@ -10,8 +10,8 @@ blurb: 'I''m not talking about the latest place in Soho to get mud pack treatmen
 notes: 
 refs: 
 sources: 
-
 ---
+
 "I always cum on her stomach or her face," a 24-year-old web designer who works in the Flatiron district explained to me. "I never do it inside. That's a waste. I like to see it happening."
 
 Forgoing the sensuous pleasure of a mutually climactic embrace, porn vid aficionados like Zach choose instead to emulate the sexual practices on which they have been weaned. With 70% of all porn videos ending up in the hands of minors, according to the "Christian Alliance for Sexual Recovery," it's no small wonder that a generation of now sexually active young men have been imprinted by viewing the practice in an emotionally receptive state.

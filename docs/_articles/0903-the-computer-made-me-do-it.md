@@ -1,14 +1,14 @@
 ---
 title: The Computer Made Me Do It
+date: 1999-06-01 04:00:00 Z
 subtitle: 
-date: '1999-06-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Media-Bashing in America
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 It's media-bashing time again in America. In the ever-lingering wake of the Columbine High School tragedy and failed efforts to enact meaningful gun control legislation that might prevent further murders, Congress is setting its sights on a more phantom menace: "violent" video games. If the cultural conservatives get their way, a law will be passed banning the sale of simulated shoot 'em ups to minors.
 
 Proponents of the new regulations site 25 years of studies linking violent movies, television, and games to violent behavior in children and adults. None of the studies I've found, however, demonstrate any causal link between the mediated activities and the real-world violence. Instead, these exercises in soft science demonstrate, for example, that children who are sent to their principal's office for aggressive behavior in the classroom are more likely to say that they play violent games than are other children. Such a study only proves that violent children prefer violent television - not that one causes the other. (Eating curry doesn't turn a person into an Indian, either, no matter how many Indians may consume it.)

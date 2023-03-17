@@ -1,15 +1,15 @@
 ---
 title: There's More To Being A Journalist Than Hitting The 'Publish' Button
+date: 2010-06-15 04:00:00 Z
 subtitle: 
-date: 2010-06-15 00:00:00 -0400
 publication: _publications/nieman_reports.md
 blurb: For better or worse, the internet is 'biased to the amateur and to the immediate.'
 notes: Date from [https://niemanreports.org/articles/theres-more-to-being-a-journalist-than-hitting-the-publish-button/](https://niemanreports.org/articles/theres-more-to-being-a-journalist-than-hitting-the-publish-button/
   "https://niemanreports.org/articles/theres-more-to-being-a-journalist-than-hitting-the-publish-button/")
 refs: 
 sources: 
-
 ---
+
 First they came for the musicians, and I did not speak out--because I am not a musician. Then they came for the filmmakers, and I did not speak out--because I am not a filmmaker. Then they came for the journalists, and there was no one left to speak out for us.
 
 In a media universe that for so many decades, even centuries, seemed stacked against the amateur, the Internet has made a revolutionary impact. Previously, the only law of physics that seemed to apply to the top-down, corporate-driven media space was that of gravity. King George II, William Randolph Hearst, or even Rupert Murdoch would decide what the public should believe and then print that version of reality. And inventions from the printing press to radio, which once seemed to be returning media to the people's hands, were quickly monopolized by the powers that be. Renaissance kings burned unauthorized printing shops, and the Federal Communications Commission tilted the radio spectrum to corporate control. Our mainstream media seemed permanently biased toward those in power as well as toward whatever version of history they wished to record for posterity.

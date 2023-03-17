@@ -1,15 +1,15 @@
 ---
-publication: _publications/confidence-or-the-appearance-of-confidence.md
 title: Interview With Genesis P-Orridge
+date: 2014-04-01 04:00:00 Z
+publication: _publications/confidence-or-the-appearance-of-confidence.md
 subtitle: ''
 image: ''
-date: 2014-04-01 00:00:00 -0400
 blurb: ''
 notes: "Title from CV  \nDate from Amazon"
 refs: ''
 sources: ''
-
 ---
+
 "THE BOTTOM LINE IS THAT THE HUMAN SPECIES HAS TO REALIZE THE HUMAN BODY REALLY IS JUST A CHEAP SUITCASE."
 
 Ways to think about DNA:   

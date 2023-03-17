@@ -1,15 +1,15 @@
 ---
-publication: _publications/seize-the-day.md
 title: Are You Having a Good Time Yet?
+date: 2001-01-01 05:00:00 Z
+publication: _publications/seize-the-day.md
 subtitle: ''
 image: ''
-date: 2001-01-01 00:00:00 -0500
 blurb: ''
 notes: 2001 from CV
 refs: ''
 sources: ''
-
 ---
+
 Are you having a good time yet?  
 a tip from Douglas Rushkoff
 

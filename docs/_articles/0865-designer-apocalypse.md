@@ -1,14 +1,14 @@
 ---
 title: Designer Apocalypse
+date: 1997-03-01 05:00:00 Z
 subtitle: 
-date: '1997-03-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: One reaction to the Heavens Gate Cult suicide
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Did the Internet lead 39 California cult members who made their living designing World Wide Web pages to commit mass suicide? Of course not. But the way that the Internet and the world view it heralds changes the way we think about ourselves and our relationship to the world around us might not be entirely unrelated to this tragedy, either.
 
 I, like so many others, have experienced a wealth of extremely empowering realizations since I went online ten years ago. But the impact of these many essentially positive and even revolutionary insights in such rapid succession might just be too much for the average American adult to handle.

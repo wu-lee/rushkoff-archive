@@ -1,14 +1,14 @@
 ---
 title: The Developer's Dilemma
+date: 2004-03-09 17:00:00 Z
 subtitle: 
-date: '2004-03-09T17:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 The inability to create a great cell-phone software course may tell us a lot about the plight of independent developers in a development-hostile environment.
 
 It's been two years - that's right, two whole years - since we decided it would be a good idea to offer a cell-phone applications course at New York University's Interactive Telecommunications Program, where I teach. We're a telecommunications program, after all, and the current frontier for interactive toolmaking is not the Internet, but the wireless networks unfolding all around us.

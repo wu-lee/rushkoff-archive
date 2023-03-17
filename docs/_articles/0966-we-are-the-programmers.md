@@ -1,14 +1,15 @@
 ---
 title: We Are the Programmers
+date: 2009-04-13 04:00:00 Z
+published: false
 subtitle: 
-date: '2009-04-13T04:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: It all began with the remote control.
 notes: 
 refs: 
 sources: 
-published: false
 ---
+
 The little plastic device empowered us to change the pictures on our screens with the tiniest effort of a single finger. From the comfort of the living room couch, we could exchange Walter Cronkite's mug for David Brinkley's, or reject Angie Dickinson in favor of Suzanne Pleshette. Not to mention how easily we could click away from the latest annoying cereal spokesanimal or hamburger huckster. Thanks to the remote control, the "channel surfer" was born. But it was only the beginning.
 
 A new arsenal of interactive devices promises to change our relationship to TV, forever. Thanks to the videogame joystick, the computer mouse, and the wireless keyboard -- television is now an activity. Something we do, rather than something being done to us. With more interactive opportunities being packed into our set-top boxes every day, our experience of the tube will never be the same.

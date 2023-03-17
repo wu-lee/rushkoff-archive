@@ -1,14 +1,14 @@
 ---
 title: Blinded by the Bytes
+date: 2000-06-01 04:00:00 Z
 subtitle: 
-date: '2000-06-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Why the MP3 Format Sucks
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I thought it was just me. About half an hour into the Riddley Scott action picture "Gladiator," I got a strange sort of headache. It began somewhere behind my eyes, and quickly traveled back into my brain. I had a vague memory of the sensation, and as the burly characters hacked at one another inside a computer-rendered Roman Coliseum, I realized when I had experienced this same head-ache before: traveling to Jar-Jar Binks underwater home city in "Star Wars, The Phantom Menace."
 
 I have been similarly plagued by a kind of unsettling dizziness whenever I listen to MP3 music files -- the format into which songs are compressed for easy downloading on the Internet. The ease with which I can obtain music using programs like Napster is more than outweighed by my inability to listen to them. They don't sound like music at all to me, but like the idea of music. Shallow, fuzzy, and unreal.

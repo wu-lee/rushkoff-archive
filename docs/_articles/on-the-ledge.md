@@ -1,17 +1,17 @@
 ---
-publication: _publications/testament.md
 title: On the Ledge
+date: 2006-02-01 05:00:00 Z
+publication: _publications/testament.md
 subtitle: ''
 image: ''
-date: 2006-02-01 00:00:00 -0500
 blurb: ''
 notes: This column appeared in every comic published by Vertigo with a February 2006
   cover date, as a promotional item.
 refs: ''
 sources: ''
 categories: []
-
 ---
+
 The Bible actually may have been written in the wrong medium. I'm saying this as a media theorist - a guy who has written books and novels, taught university classes, and made documentaries about the impact of new technology on the way we relate to stories. And particularly on those stories we happen to really believe in.
 
 If anything, working in what is still the rather new space of networked computers has taught me that our relationship to narratives is stuck in a dangerous place. Sure, we watch TV and imagine ourselves as characters, but we have lost access to the gaps in the stories, the places where temporality, interpretation and sequence are up for grabs. We just get lost in the seamless reality and get taken along for a ride.

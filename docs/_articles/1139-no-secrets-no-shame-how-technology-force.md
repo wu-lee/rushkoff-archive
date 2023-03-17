@@ -1,14 +1,14 @@
 ---
 title: 'No secrets, no shame: How technology forces honesty'
+date: 2016-07-18 16:00:00 Z
 subtitle: 
-date: '2016-07-18T16:00:00.000Z'
 publication: _publications/digital_trends.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I once saw a human lie detector perform at a conference – one of those guys who can call a dozen people up on stage and match them up with the objects that belong to them, or even “deduce ” their email passwords. He wasn’t doing magic, of course, but simply reading the cues and tells we all give one another all the time. As any gate investigator on Israel’s national airline knows – and its security record attests – our bodies give us away.
 
 If we really do make subtle micro-gestures that betray ourselves to one another, then we must, on some level recognize those signs in others. Sure, some con-men and actors have gotten really good at masking their dishonesty or misdirecting our attention. But many of us have gotten really good at missing the signals we don’t want to see, or lying to ourselves about someone’s truthfulness against our own better judgment.

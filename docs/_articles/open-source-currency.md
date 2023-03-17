@@ -1,17 +1,17 @@
 ---
-publication: _publications/the-edge.md
 title: Open Source Currency
+date: 2006-01-01 05:00:00 Z
+published: false
+publication: _publications/the-edge.md
 subtitle: ''
 image: ''
-date: 2006-01-01 00:00:00 -0500
 blurb: ''
 notes: '[https://www.edge.org/response-detail/11079](https://www.edge.org/response-detail/11079
   "https://www.edge.org/response-detail/11079")'
 refs: ''
 sources: ''
-published: false
-
 ---
+
 It's not only dangerous and by most counts preposterous; it's happening. Open Source or, in more common parlance, "complementary" currencies are collaboratively established units representing hours of labor that can be traded for goods or services in lieu of centralized currency. The advantage is that while the value of centralized currency is based on its scarcity, the bias of complementary or local currencies is towards their abundance.
 
 So instead of having to involve the Fed in every transaction — and using money that requires being paid back with interest — we can invent our own currencies and create value with our labor. It's what the Japanese did at the height of the recession. No, not the Japanese government, but unemployed Japanese people who couldn't afford to pay healthcare costs for their elder relatives in distant cities. They created a currency through which people could care for someone else's grandmother, and accrue credits for someone else to take care of theirs.

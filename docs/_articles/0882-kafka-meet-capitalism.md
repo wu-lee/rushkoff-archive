@@ -1,14 +1,14 @@
 ---
 title: Kafka, Meet Capitalism
+date: 2001-04-01 05:00:00 Z
 subtitle: 
-date: '2001-04-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: My struggle with getting DSL service from a Telco.
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 How much of the saga do you need to hear to recognize it as your own?
 
 Please select from the following menu. You'll need to call the customer help line. You must call the billing department. The computer must have done that. I don't know why. Please hold. Who are you holding for? Please hold. Please select from the following menu.

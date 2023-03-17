@@ -1,14 +1,14 @@
 ---
 title: Why ‘Nation’ Is the Word of the Year
+date: 2018-12-11 17:00:00 Z
 subtitle: 
-date: '2018-12-11T17:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 In one sense, nothing could have undermined the concept of the nation more than its appropriation by our president. By claiming “nationalism” as his guiding ideology, Donald Trump did far more than associate himself with white nationalists. As our conspicuous propagandist-in-chief, Trump’s championing of nationalism forced us to grapple with the question of what, if anything, we mean by “nation” to begin with. And it turns out, the concept is a lot fuzzier than you may think.
 
 Although there weren’t really any official nation states until the Peace of Westphalia in 1648, what we think of as a nation was invented during the three or four centuries prior, by early European monarchs looking to consolidate their power. These were former lords of feudalism, who had depended on the labor of peasants for centuries, but were now losing control. Their dwindling kingdoms were less relevant to people than the growing cities in which they worked and traded. A newly rich city merchant class was challenging the nobility from below.

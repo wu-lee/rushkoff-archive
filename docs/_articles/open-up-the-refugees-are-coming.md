@@ -1,10 +1,10 @@
 ---
-publication: _publications/medium.md
 title: 'Open Up: The Refugees are Coming'
+date: 2022-03-22 04:00:00 Z
+publication: _publications/medium.md
 subtitle: I’ll stake my future on the solidarity of the people over the cynicism of
   the elite.
 image: "/uploads/1_ph9xqc2yfvug0icbvaqd3q.jpeg"
-date: 2022-03-22 00:00:00 -0400
 blurb: On hearing what was coming, the global elite immediately concluded that the
   world could not get its act together in time. Like everything else in the elite’s
   world view, there would be winners and losers.
@@ -12,8 +12,8 @@ notes: 'Source: [https://gen.medium.com/open-up-the-refugees-are-coming-d5633bb9
   "https://gen.medium.com/open-up-the-refugees-are-coming-d5633bb9bc57")'
 refs: ''
 sources: ''
-
 ---
+
 The displacement of over four million Ukrainians to other parts of the world has got me thinking about the relationship of people to places. Thanks to war, climate change, and economic pressures (which are all rapidly becoming one and the same) an increasing number of people are finding themselves dispossessed.
 
 It’s not necessarily a new story. Here in America, for example, colonists displaced the indigenous populations, then turned the land from a living partner into claimed territory, owned property, and eventually speculative real estate. Land ownership became the new way of being able to claim the right to use or even occupy one place or another.

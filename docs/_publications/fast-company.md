@@ -1,5 +1,5 @@
 ---
 title: Fast Company
 url: ''
-
 ---
+

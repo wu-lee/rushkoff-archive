@@ -1,15 +1,15 @@
 ---
-publication: _publications/painful-but-fabulous-the-life-and-art-of-genesis-p-orridge.md
 title: Good Trip or Bad Trip? The Art and Heart of Genesis P-Orridge
+date: 2003-01-06 05:00:00 Z
+publication: _publications/painful-but-fabulous-the-life-and-art-of-genesis-p-orridge.md
 subtitle: ''
 image: ''
-date: 2003-01-06 00:00:00 -0500
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-
 ---
+
 Genesis P-Orridge's work defies objective analysis. So I won't even pretend that this little essay can accurately summarize or, dare I say it, codify his varied adventures in music, literature, art, magick, cultural engineering, and performance. Genesis's expressions are characterized, at least in part, by a breaking of conventional boundaries, a challenging of expectations, and a blurring of the usually polarized relationship between artist and spectator, performer and audience. To speak about Genesis's work is to speak the way a person projects oneself onto his work. Nothing more.
 
 But if one man's experience of Genesis P-Orridge can serve to illustrate something about the shape of Genesis's intention--much in the way the tire treads across one's chest can be used to infer something about the car and driver that ran him over--then let me be of service. I have been impacted by this man, and I've lived to tell about it.

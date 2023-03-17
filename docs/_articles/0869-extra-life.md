@@ -1,14 +1,14 @@
 ---
 title: Extra Life
+date: 1998-10-01 04:00:00 Z
 subtitle: 
-date: '1998-10-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Computers, Not Just Software, Should be Taught in School
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Those of us who can remember writing BASIC programs in makeshift high school "computer labs" no longer need to think of ourselves as nerds. We're simply old.
 
 In what might be fondly termed the "golden age" of programming, high school kids interested in computers weren't taught how to use software or upgrade RAM. We weren't even taught programming, exactly. Instead, we explored the workings of these new machines with well-intentioned and underpaid math teachers at our sides. We had no PC's -- just a couple of "dumb" terminals hooked up to the Board of Education or some other nearby mainframe. By the time we were seniors, we generally understood the machine better than the adults who used it full time. In fact, one of us -- an alpha nerd who had demonstrated absolute mastery of the system -- who would be entrusted with the highest security codes, and be charged with maintaining the entire machine.  

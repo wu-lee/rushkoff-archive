@@ -1,7 +1,8 @@
 ---
 title: 'Sms Activism: Don''t Call Us, We''ll Call You'
+date: 2005-06-08 04:00:00 Z
+published: false
 subtitle: 
-date: '2005-06-08T04:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: 
 notes: 
@@ -17,8 +18,8 @@ refs: '[{"text"=>"Mass Immediate Response", "original"=>"http://www.pfaw.org/pfa
   "meta"=>{"title"=>"Smart Mobs  ", "description"=>"Just another WordPress weblog",
   "favicon"=>"http://www.smartmobs.com/favicon.ico"}}]'
 sources: 
-published: false
 ---
+
 Mobile-enabled politics are still far from true networked solidarity -- and may do unaffiliated activists more harm than good.
 
 Although invented in the thrall of the great Enlightenment and its celebration of individual human autonomy, modern democracy has never truly been about the rights and thoughts of the individual. It's about the mass. Candidates don't accumulate votes one by one, but bloc by bloc. They speak to potential supports as the members of affiliations or tribes: autoworkers, Zionist Jews, soccer moms or NASCAR dads. The trick is to say or do something that flips a whole constituency over into one's column.

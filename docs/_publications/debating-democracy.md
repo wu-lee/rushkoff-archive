@@ -1,5 +1,5 @@
 ---
 title: Debating Democracy
 url: ''
-
 ---
+

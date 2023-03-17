@@ -1,16 +1,16 @@
 ---
-publication: _publications/new-york-press.md
 title: Reading the Consumer Mind
+date: 2004-03-31 05:00:00 Z
+publication: _publications/new-york-press.md
 subtitle: ''
 image: ''
-date: 2004-03-31 00:00:00 -0500
 blurb: The age of neuromarketing has dawned.
 notes: 'Source: [http://web.archive.org/web/20040402005441/http://www.nypress.com/17/7/news&columns/rotation.cfm](http://web.archive.org/web/20040402005441/http://www.nypress.com/17/7/news&columns/rotation.cfm
   "http://web.archive.org/web/20040402005441/http://www.nypress.com/17/7/news&columns/rotation.cfm")'
 refs: ''
 sources: ''
-
 ---
+
 By now, most of us in the appropriately concerned corners have heard at least something about Emory University’s neuromarketing research center, the BrightHouse Institute for Thought Sciences. The latest innovation in a never-ending quest to decode consumer behaviors, the institute uses Emory University Hospital’s Magnetic Resonance Imaging (MRI) equipment to scan the brains of human subjects on behalf of corporate clients such as Coca-Cola, K-mart and Home Depot.
 
 Of course, this goes against the grain for any of us still old enough, or conscious enough, to recognize the difference between marketing and culture. We are already living in a world where the colors of wallpaper, the textures of carpet and the scents pumped through ventilation systems are concocted to alter our mood, change our gait and make us bring more items to the checkout line. Our children recognize McDonald’s and Nike logos before they can read, and our teens are suffering from more advertising-related psychological diseases every year–from diabetes and anorexia to attention deficit disorder and alcoholism.

@@ -1,17 +1,17 @@
 ---
-publication: _publications/medium.md
 title: Don’t Abandon People in Red States
+date: 2022-06-26 04:00:00 Z
+publication: _publications/medium.md
 subtitle: Let’s build an Overground Railroad instead
 image: "/uploads/0_0fkezmmm_gt4w507.jpg"
-date: 2022-06-26 00:00:00 -0400
 blurb: I’m not so sure retreat is the answer — especially for those of us who have
   the privilege of doing so
 notes: 'Source: [https://rushkoff.medium.com/dont-abandon-people-in-red-states-6522b42fbdc7](https://rushkoff.medium.com/dont-abandon-people-in-red-states-6522b42fbdc7
   "https://rushkoff.medium.com/dont-abandon-people-in-red-states-6522b42fbdc7")'
 refs: ''
 sources: ''
-
 ---
+
 I overhead a couple of high school students this morning talking about their college options.
 
 “I don’t think I’m going to apply to Grinnel, anymore,” one said.

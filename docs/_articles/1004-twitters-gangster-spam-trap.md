@@ -1,7 +1,7 @@
 ---
 title: Twitter's Gangster Spam Trap
+date: 2009-09-30 04:00:00 Z
 subtitle: 
-date: '2009-09-30T04:00:00.000Z'
 publication: _publications/daily_beast.md
 blurb: 'Spam schemes are everywhere, and now they''ve hit Twitter. Early Monday morning,
   I received a rare email from a woman I respect tremendously, Marina Gorbis, executive
@@ -11,8 +11,8 @@ blurb: 'Spam schemes are everywhere, and now they''ve hit Twitter. Early Monday 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 **mgorbis:** Hey, I just added you to my Mafia family. You should accept my invitation! :)
 
 And it was followed by a link.

@@ -1,14 +1,14 @@
 ---
 title: In Defense Of The Three-Day Work Week
+date: 2015-06-30 04:00:00 Z
 subtitle: 
-date: 2015-06-30T04:00:00.000Z
 publication: _publications/good.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 Unemployment metrics have become the best proof that our economic recovery is incomplete. Free market advocates are using high unemployment figures to show that Keynesian-style government spending doesn’t really move the needle. Leftists use the same figures to argue that corporate capitalism has reached its endpoint: Investors make money in the stock market while real people earn less income, if they can find jobs at all. But what if joblessness were less of a bug than a feature of the new digital economy?
 
 Don’t get me wrong. I feel the pain of those whose livelihoods have been replaced by computers and robots. In fact, we may be reaching a stage of technological efficiency once imagined only by science fiction writers and early cyberneticists: an era when robots can till the fields, build our houses, and even revive the sick. It’s an era that was supposed to be accompanied by more leisure time. If robots are doing all the work, shouldn’t we get to lie back and enjoy some iced tea?

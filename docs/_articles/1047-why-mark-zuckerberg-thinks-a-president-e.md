@@ -1,14 +1,14 @@
 ---
 title: Why Mark Zuckerberg thinks a President Elizabeth Warren would 'suck'
+date: 2019-10-01 13:27:00 Z
 subtitle: 
-date: 2019-10-01T13:27:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 If there's one thing that seems to scare Mark Zuckerberg to the bone, it's the threat of a functional government that represents the interests of its citizens. To him, government appears to be the faceless bureaucracy that slaps him on the wrist with a $5 billion fine when his company spies too much or too illegally on his users.
 
 So when one of his employees asked him at an open meeting what he thought of Elizabeth Warren, Zuck was uncharacteristically candid -- as if triggered by the mere thought of the possibility that someone with so much faith in the power of big government could become our chief executive. She "thinks the right answer is to break up the companies," he said. And even though he believes he would win a legal battle against the US government, he added, "Does that still suck for us? Yes."

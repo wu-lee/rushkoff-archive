@@ -1,14 +1,15 @@
 ---
 title: 'The Next Billion: Multilingual Users and Mobile Telephony'
+date: 2005-02-14 05:00:00 Z
+published: false
 subtitle: 
-date: '2005-02-14T05:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: Why the mobile industry needs to learn the world's struggling languages.
 notes: 
 refs: 
 sources: 
-published: false
 ---
+
 Even today's most guarded estimates indicate that half of the world's 6000 languages will likely be extinct by the year 2050. A decidedly more catastrophic prediction from researchers at the University of Manchester now places that number closer to 90%. Because mobile phones aren't yet universal interpreters, we should be concerned -- not simply in the interest of preserving cultural heritage and diversity, but also because minority language communities represent some of the most potentially valuable markets still underserved by the mobile industry. Think Africa, deep Asia, the Pacific and the Middle East.
 
 The problem for advocates of language conservation is that there's little concrete evidence that a decline in the number of languages would be directly detrimental to the human race. Several recent books have attempted to address the ramifications of this phenomenon, including David Crystal's *Language Death* as well as Daniel Nettle's and Suzanne Romaine's *Vanishing Voices: The Extinction of the World's Languages.* However, as much as we can commend these authors for their passion and concern, when it comes to the question of why we should care, they have little to offer beyond speculation and tenuous analogies.

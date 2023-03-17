@@ -1,14 +1,14 @@
 ---
 title: 'We Won: Get Used to It'
+date: 2018-10-04 16:00:00 Z
 subtitle: 
-date: '2018-10-04T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Back in 2000, I was invited to appear at Richard Metzger’s famous counterculture festival, DisinfoCon, along with luminaries of the alternative scene like Joe Coleman, Robert Anton Wilson, The Girls of Karen Black, Marilyn Manson, Grant Morrison, Kembra Pfahler, and more. It was a crazy, boisterous, artsy, psychedelic, and rebellious celebration of the weird, the occult, and the odd, all presented under the tagline, “everything you know is wrong.”
 
 It felt like such a bounty of counterculture riches, such a turning point, that I challenged the assembled renegades to accept victory. “The counterculture has won,” I told them. “It’s time we realize that we are not the counterculture at all. We are not against culture. George Bush is the counterculture.”

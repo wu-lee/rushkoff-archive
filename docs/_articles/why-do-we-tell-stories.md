@@ -1,16 +1,16 @@
 ---
-publication: _publications/the-edge.md
 title: Why do we tell stories?
+date: 2002-01-01 05:00:00 Z
+publication: _publications/the-edge.md
 subtitle: ''
 image: ''
-date: 2002-01-01 00:00:00 -0500
 blurb: ''
 notes: '[https://www.edge.org/response-detail/11881](https://www.edge.org/response-detail/11881
   "https://www.edge.org/response-detail/11881")'
 refs: ''
 sources: ''
-
 ---
+
 Human beings can't help but understand their world in terms of narratives. Although the theory of evolution effectively dismantled our creationist myths over a century ago, most thinking humans still harbor an attachment to the notion that we were put here, with purpose, by something. New understandings of emergence, as well as new tools for perceiving the order underlying chaos, seem to the hold the promise for a widescale liberation from the constructed myths we use to organize our experience, as well as the dangers that over-dependence on such narratives bring forth. At least I hope so.
 
 At the very least, narratives are less dangerous when we are free to participate in their writing. I'll venture that it is qualitatively better for human beings to take an active role in the unfolding of our collective story than it is to adhere blindly to the testament of our ancestors or authorities.

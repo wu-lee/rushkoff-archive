@@ -1,7 +1,8 @@
 ---
 title: A Spectrum Carol
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: Yes, it's holiday time, so here's a true legend from the early days of wireless
   data.
@@ -51,8 +52,8 @@ refs: '[{"text"=>"Federal Register", "original"=>"http://edocket.access.gpo.gov/
   {"text"=>"Spectrum Etiquette,", "original"=>"http://www.sss-mag.com/fccarchive.html",
   "meta"=>{"title"=>"Archived FCC RF News, page 1", "favicon"=>"http://www.sss-mag.com/favicon.ico"}}]'
 sources: 
-published: false
 ---
+
 Yes, it's holiday time, so here's a true legend from the early days of wireless data.
 
   

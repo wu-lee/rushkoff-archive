@@ -1,7 +1,8 @@
 ---
 title: Learning From Tv's Mistakes
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: Today's advertising crisis needn't threaten mobile content at all. In fact,
   the mobile industry can exploit the coming shift in media buying patterns to establish
@@ -9,8 +10,8 @@ blurb: Today's advertising crisis needn't threaten mobile content at all. In fac
 notes: 
 refs: 
 sources: 
-published: false
 ---
+
 Today's advertising crisis needn't threaten mobile content at all. In fact, the mobile industry can exploit the coming shift in media buying patterns to establish itself firmly in the emerging landscape.
 
   

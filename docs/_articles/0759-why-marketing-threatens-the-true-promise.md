@@ -1,15 +1,15 @@
 ---
 title: Why Marketing Threatens the True Promise of Social Media
+date: 2011-01-06 12:12:36 Z
 subtitle: 
-date: 2011-01-06T12:12:36.000Z
 publication: _publications/mashable.md
 blurb: 
 notes: 
 refs: 
 sources: 
 image: "/uploads/0759-why-marketing-threatens-the-true-promise.jpg"
-
 ---
+
 *[Douglas Rushkoff](http://rushkoff.com) is the author of* [Life Inc: How Corporatism Conquered the World and How We Can Take It Back](http://www.amazon.com/Life-Inc-Corporatism-Conquered-World/dp/0812978501)*, out this week in paperback from RandomHouse, as well as* [Program or Be Programmed](http://www.orbooks.com/our-books/program/) *from ORBooks. Follow him on [Twitter](http://twitter.com/#!/rushkoff) and [Facebook](http://facebook.com/DouglasRushkoff).*
 
 Social media is everywhere, and it is finally accepted as much as, well, as much as the Internet itself. Sadly, though, in reaching this level of ubiquity, we have ended up surrendering the real promise of this medium.

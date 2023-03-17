@@ -1,15 +1,15 @@
 ---
-publication: _publications/write-now.md
 title: The Douglas Rushkoff Interview
+date: 2007-12-01 05:00:00 Z
+publication: _publications/write-now.md
 subtitle: ''
 image: ''
-date: 2007-12-01 00:00:00 -0500
 blurb: ''
 notes: Winter 2007 issue
 refs: ''
 sources: ''
-
 ---
+
 Conducted in person by **_Jeff Newelt_**, October 2007  
 Transcribed by **Steven Tice**
 

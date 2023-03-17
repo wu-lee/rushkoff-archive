@@ -1,16 +1,16 @@
 ---
 title: 'The Power of Three: When Technology, Business, and Marketing Converge - Part
   III'
+date: 2008-10-16 00:00:00 Z
 subtitle: 
-date: 2008-10-16T00:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: '[{"text"=>"part one", "original"=>"http://www.thefeature.com/article?articleid=100415",
   "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}}]'
 sources: 
-
 ---
+
 It's one thing to know your consumers - it's a far greater challenge to develop your technology and balance sheet around them.
 
   

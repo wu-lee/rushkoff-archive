@@ -1,16 +1,16 @@
 ---
 title: It’s Time To Break Up Amazon
+date: 2017-06-19 04:00:00 Z
 subtitle: ''
-date: 2017-06-19T00:00:00.000-04:00
 publication: _publications/''.md
 blurb: With its mega-acquisition of Whole Foods, the retail behemoth moves to suck
   the value out of yet another market, writes Douglas Rushkoff.
 notes: Pasted from https://www.fastcompany.com/40432885/its-time-to-break-up-amazon
 refs: ''
 sources: ''
-image: /uploads/it-s-time-to-break-up-amazon.jpg
-
+image: "/uploads/it-s-time-to-break-up-amazon.jpg"
 ---
+
 “Amazon just bought Whole Foods,” my friend texted me seconds after the announcement of [the proposed acquisition](https://news.fastcompany.com/report-amazon-is-buying-whole-foods-4040976). “It’s over. The world.”
 
 This unease is widespread, and has raised new calls for breaking up Jeff Bezos’s impending monopoly by force. Surely the company, which now [generates 30%](https://www.theatlantic.com/technology/archive/2017/06/when-exactly-does-amazon-become-a-monopoly/530616/) of all online and offline retail sales growth in the United States, and already controls [40% of internet cloud services](https://www.channele2e.com/channel-partners/csps/cloud-market-share-2017-amazon-microsoft-ibm-google/), has reached too far. The 3% hike in Amazon’s share price since the announcement—which would alone more than pay for the acquisition—may attest less to the deal’s appropriateness than to investors’ growing fear that missing out on Amazon means missing out on the future of the economy.

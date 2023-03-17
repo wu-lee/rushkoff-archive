@@ -1,14 +1,14 @@
 ---
 title: The Electronic Acid Test
+date: 1997-07-01 04:00:00 Z
 subtitle: 
-date: '1997-07-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The Electronic Acid Test
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 The mainstream media has found yet another Internet-related threat to our well-being: the preponderance of "pro-drug" dialogue online. A recent front page New York Times piece leads the battle charge of articles decrying open conversations online between marijuana users and advocates. The cautionary journalists feel that, like Web sites with pictures of naked people (the horror!) these controversial words and ideas can be accessed by young people.
 
 Let's set aside, for a moment, the question of whether mainstream media's bias against the legalization of cannabis is based in well-founded concern for our brains or merely the now wholly unconscious vestiges of an old alliance with the makers of nylon rope who wanted to put an end to the use of hemp for the same purpose. Pot and most other mind-altering substances are illegal in the U.S., and our media should certainly be expected to lament violations of the law and people who appear to be encouraging others to do so.

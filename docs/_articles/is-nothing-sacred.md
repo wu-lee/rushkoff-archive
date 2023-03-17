@@ -1,16 +1,16 @@
 ---
-publication: _publications/the-edge.md
 title: Is Nothing Sacred?
+date: 2001-01-09 05:00:00 Z
+publication: _publications/the-edge.md
 subtitle: ''
 image: ''
-date: 2001-01-09 00:00:00 -0500
 blurb: ''
 notes: '[https://www.edge.org/response-detail/12012](https://www.edge.org/response-detail/12012
   "https://www.edge.org/response-detail/12012")'
 refs: ''
 sources: ''
-
 ---
+
 It seems to me we’ve surrendered the notion of the sacred to those who only mean to halt the evolution of culture. Things we call "sacred" are simply ideologies and truths so successfully institutionalized that they seem unquestionable. For example, the notion that sexual imagery is bad for young people to see — a fact never established by any psychological or anthropological study I’ve come across — is accepted as God-ordained fact, and used as a fundamental building block to justify censorship. (Meanwhile, countless sitcoms in which parents lie to one another are considered wholesome enough to earn "G" television ratings.)
 
 A politician’s claim to be "God-fearing" is meant to signify that he has priorities greater than short-term political gain. What most people don’t realize is that, in the Bible anyway, God-fearing is a distant second to God-loving. People who were God-fearing only behaved ethically because they were afraid of the Hebrew God’s wrath. This wasn’t a sacred relationship at all, but the self-interested avoidance of retaliation.

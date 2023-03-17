@@ -1,7 +1,7 @@
 ---
 title: The Networked Individual
+date: 2008-10-16 00:00:00 Z
 subtitle: 
-date: 2008-10-16T00:00:00.000Z
 publication: _publications/nokias_the_feature.md
 blurb: The cell phone may be bringing us into a new renaissance, but it may end up
   differently than what we're expecting. Instead of becoming more empowered as individuals,
@@ -13,8 +13,8 @@ refs: '[{"text"=>"Buckminster Fuller", "original"=>"http://www.bfi.org/operating
   {"text"=>"Networked Individualism", "original"=>"http://www.ascusc.org/jcmc/vol8/issue3/wellman.html",
   "meta"=>{"favicon"=>"http://www.ascusc.org/favicon.ico"}}]'
 sources: 
-
 ---
+
 The cell phone may be bringing us into a new renaissance, but it may end up differently than what we're expecting. Instead of becoming more empowered as individuals, we may give up on the notion of individuality altogether.
 
   

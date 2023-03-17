@@ -1,18 +1,18 @@
 ---
-publication: _publications/medium.md
 title: Beyond the Valley
+date: 2019-11-13 05:00:00 Z
+publication: _publications/medium.md
 subtitle: The rest of the world is using technology to subvert digital capitalism.
   We can, too.
 image: "/uploads/1_tdcttj-h7vvcs1mqjx-uyg.jpeg"
-date: 2019-11-13 00:00:00 -0500
 blurb: How can a company live by the credo “don’t be evil” if it’s not even looking
   beyond its webpage metrics?
 notes: '[https://medium.com/team-human/beyond-the-valley-759d1d5756d1](https://medium.com/team-human/beyond-the-valley-759d1d5756d1
   "https://medium.com/team-human/beyond-the-valley-759d1d5756d1")'
 refs: ''
 sources: ''
-
 ---
+
 Digital technology is the subject of our time.
 
 It’s more than just topic of so many articles, panels, talks, and books. Our technology serves as the very focus and direction of our society. But the more we look to our devices, platforms, and networks for an understanding of our collective situation, the further untethered we become from the real world in which we live.

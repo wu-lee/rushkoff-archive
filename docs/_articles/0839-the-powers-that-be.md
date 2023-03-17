@@ -1,7 +1,8 @@
 ---
 title: The Powers That Be
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: The wireless industry's biggest problem could become the world's biggest solution.
 notes: 
@@ -31,8 +32,8 @@ refs: '[{"text"=>"Moore''s Law", "original"=>"http://www.intel.com/research/sili
   {"text"=>"harvesting", "original"=>"http://www.controlmagazine.com/Web_First/CT.nsf/ArticleID/SKUN-5Y3K5R/",
   "meta"=>{"title"=>"controlmagazine.com", "favicon"=>"http://www.controlmagazine.com/favicon.ico"}}]'
 sources: 
-published: false
 ---
+
 The wireless industry's biggest problem could become the world's biggest solution.
 
   

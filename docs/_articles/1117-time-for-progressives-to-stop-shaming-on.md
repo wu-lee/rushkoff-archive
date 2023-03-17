@@ -1,14 +1,14 @@
 ---
 title: Time for Progressives to Stop Shaming One Another
+date: 2019-04-10 16:00:00 Z
 subtitle: 
-date: '2019-04-10T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Sometimes I find my hopes for the progressive agenda outweighed by my fear for what happens each time they make another stride. I realize times are hard — economic inequality is high; racism, sexism, and homophobia are on the rise; and climate crisis is in progress — and these issues need to be addressed urgently. But I’m growing increasingly concerned about the progressive left’s rigid understanding of positive social change. There’s almost a refusal to acknowledge victories and a reluctance to welcome those who want to join.
 
 For instance, when a brand like Nike decides to make ads in favor of Colin Kaepernick, we want to push back. I get it. It’s blatant pandering to Black Lives Matter, right? It’s a dilution of the values of the movement. But it’s also an indication that a big company wants to show its support for an important cause.

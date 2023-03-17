@@ -1,14 +1,14 @@
 ---
 title: Fighting the Terrorist Virus
+date: 2006-12-04 06:00:00 Z
 subtitle: 
-date: '2006-12-04T06:00:00.000Z'
 publication: _publications/discover.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 As we watch our grandmothers drop toothpaste tubes into Transportation Security Administration trash bins before boarding planes this holiday season, we might reflect on whether something is wrong with our current model of national security. It doesn't take a military expert to see that a strategy of spot-checking for dangerous fluids or scanning international phone calls is a losing battle against a foe that can pop up literally anywhere.
 
 Could it be that the approach to intelligence we adopted for past wars is no longer appropriate for combating the newer threat of terrorism? For terrorism isn't so much an act of war as it is a virus—a very contagious set of destructive commands. It depends on our highly networked "media space" for its transmission and exploits our society's immune deficiencies in order to find candidates to carry out its orders. This is a new phenomenon and one we must understand if we are to mount an effective resistance. Before terrorism, war was conducted mostly through the principle of "command and control." Generals issued orders for troop movements just as artillery sergeants specified target coordinates to gunners. Military intelligence meant intercepting the enemy chain of command. That's why so much energy was expended in World War II on breaking the Germans' secret codes. The allies needed to know where the Nazis intended to strike.

@@ -1,14 +1,14 @@
 ---
 title: Trump as job creator -- hope or hoax?
+date: 2017-01-18 17:00:00 Z
 subtitle: 
-date: 2017-01-18T17:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 The power of the tweet is in full force.
 
 Corporations give the appearance of buckling under pressure from Donald Trump to create more jobs in America. GM just announced it will be investing $1 billion more in US factories, and hiring as many as 7,000 workers over the next two years. Walmart claims it will add 10,000.

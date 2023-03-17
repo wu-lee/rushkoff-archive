@@ -1,9 +1,9 @@
 ---
-publication: _publications/medium.md
 title: Avoiding the Power Trip
+date: 2022-04-25 04:00:00 Z
+publication: _publications/medium.md
 subtitle: Psychedelics, like everything else, are political
 image: "/uploads/0_imitvfoflowmoizu.jpg"
-date: 2022-04-25 00:00:00 -0400
 blurb: As psychedelics make a new comeback — this time with the support of the psychotherapeutic
   and investment community alike — we must be more conscious of the politics, economics,
   and power at stake.
@@ -11,8 +11,8 @@ notes: 'Source: [https://rushkoff.medium.com/avoiding-the-power-trip-9a53ed42e3e
   "https://rushkoff.medium.com/avoiding-the-power-trip-9a53ed42e3e7")'
 refs: ''
 sources: ''
-
 ---
+
 I was a member of the psychedelic counterculture in the 1980s when pretty much every mind-expanding substance was illegal. For us, that illegality was just an obstacle. Taking a psychedelic or growing a marijuana plant was not considered a stand against a draconian legal system and repressive government but simply a way of getting what we wanted in spite of a draconian legal system and repressive government.
 
 Many of us who witnessed the very end of the Sixties and the eventual sell-out of the yuppies, gave up on politics and revolution. The hippies became Bill Clinton, who seemed to us just another version of Ronald Reagan. No, the object of the game for us was to be like the people in Richard Linklater’s movie [Slacker](https://www.youtube.com/watch?v=KlmfRuXxuXo). Earn enough money to pay for food and rent so you can spend your time reading philosophy, hanging out with friends, and doing trippy things. I remember Timothy Leary once telling us not to invite a particularly ardent leftist to a party at his house because “Marxists don’t know how to have fun.” He didn’t want his acid trip overly inflected by the oppression of the proletariat, because he believed that Marxism was inherently “anti-psychedelic.”

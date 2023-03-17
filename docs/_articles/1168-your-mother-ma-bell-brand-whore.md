@@ -1,14 +1,14 @@
 ---
 title: 'Your Mother: Ma Bell, Brand Whore?'
+date: 2004-05-21 16:00:00 Z
 subtitle: 
-date: '2004-05-21T16:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 AT&T's MVNO deal with Sprint points to a new telecom infrastructure strategy.
 
 AT&T has had its share of disgraces since the US Department of Justice forced them to break up into eight "Baby Bells" back in 1984. Long distance competition from young upstarts like Sprint and MCI; a meager cable TV effort ultimately sold off to Comcast; a technologically plagued and then financially troubled cell phone service, spun out and eventually sold off to Cingular; and, most recently - on April Fool's Day of all times - being dropped from the Dow.

@@ -1,14 +1,14 @@
 ---
 title: Twelve Steps to Sustainable Business
+date: 2017-12-15 17:00:00 Z
 subtitle: 
-date: '2017-12-15T17:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Nobody cares about how we got here. They just want solutions for how to get out of the trap. CEOs are struggling to create value for corporations programmed only to accumulate more capital, drain local economies, and externalize the costs.
 
 So I’ve been ending my talks lately with specific, actionable suggestions for how companies of all sizes and stages can become more sustainably profitable in the current environment. It amounts to a 12-step program for getting off the addiction to growth. If you need to grow in order to survive, then you’re not a real business — you’re just a brand name on debt.

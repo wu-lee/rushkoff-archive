@@ -1,14 +1,14 @@
 ---
 title: Real reason Wells Fargo scandal should scare you
+date: 2016-09-09 04:00:00 Z
 subtitle: 
-date: 2016-09-09T04:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 It's not hackers breaking into your bank account that should scare you; it's the banks themselves. Details are now surfacing about more than 1.5 million unauthorized Wells Fargo bank and credit card accounts created on behalf of unwitting customers by bank employees hoping to cash in on new account bonuses.
 
 I'm finding it hard to take comfort in the fact that more than 5,300 employees have just been fired for engaging in the practice. 5,300 employees? That's not a few bad actors, but an indication of the systemic, institutionalized extraction that has been guiding banking for the past several decades, if not longer.

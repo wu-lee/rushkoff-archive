@@ -1,16 +1,16 @@
 ---
-publication: _publications/nyt_syndicate_guardian_of_london.md
 title: Stockbrokers seek a Net profit
+date: 1999-01-21 05:00:00 Z
+publication: _publications/nyt_syndicate_guardian_of_london.md
 subtitle: ''
 image: ''
-date: 1999-01-21 00:00:00 -0500
 blurb: ''
 notes: '[https://www.theguardian.com/technology/1999/jan/21/onlinesupplement4](https://www.theguardian.com/technology/1999/jan/21/onlinesupplement4
   "https://www.theguardian.com/technology/1999/jan/21/onlinesupplement4")'
 refs: ''
 sources: ''
-
 ---
+
 "What's with this Internet?" an old friend called to ask me late one night last week. "I mean I know it's a big deal and all," she admitted, "but this is crazy!"
 
 By "this," she meant the recent spate of new Internet stock offerings, where securities issued in the morning at nine or 10 dollars per share are worth 10 times more by the end of the day.

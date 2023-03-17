@@ -1,14 +1,14 @@
 ---
 title: Promises Made to Pizza Kids
+date: 2000-11-01 05:00:00 Z
 subtitle: 
-date: '2000-11-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Don't blame idealistic hackers for your own failed business plans.
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Another month, another conference. This one, hosted by a respected Internet business consultancy firm, chose what has become the default theme for our once-booming industry's events: what to do after the crash.
 
 Perhaps predictably, the gathering degenerated into something of a blame game, with each panel and speaker choosing a new target for the assembled failed dot.com investors' collective wrath. The people attending this conference, like most Internet investors, were latecomers. They had learned of the network's existence a couple of years ago -- after billions of dollars had already been made by earlier inventors and speculators. Having finally earned a spot on the bandwagon only to watch it fall off a cliff, these ladies and gentlemen were ready to lynch the bandleader. If they could just figure out who that was.

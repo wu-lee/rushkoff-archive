@@ -1,16 +1,16 @@
 ---
-publication: _publications/rushkoff.com.md
 title: Greener Pastures
+date: 2004-03-03 05:00:00 Z
+publication: _publications/rushkoff.com.md
 subtitle: ''
 image: ''
-date: 2004-03-03 00:00:00 -0500
 blurb: ''
 notes: '[https://rushkoff.com/greener-pastures/](https://rushkoff.com/greener-pastures/
   "https://rushkoff.com/greener-pastures/")'
 refs: ''
 sources: ''
-
 ---
+
 “A hundred pennies make a dollar,” my father would say, encouraging me to surrender the coin in my hand to a narrow slot in the head of a porcelain pig. It was all for the promise of a transubstantiation of loose change to cash, metal to paper, that confounded my understanding of both economics and material reality. Still, his authority earned my confidence and, like so many other children my age, I made the sacrifice, dreaming of the day that piggy would finally be smashed open, and I would be rich. A postponement of joy for some future, but existentially uncertain, pay-off.
 
 It was a useful belief to have internalized by adulthood, when an entirely new cast of parent figures, from the fund manager on CNBC to the stockbroker at the bank, tried to convince us that the only sensible thing to do with our money was to invest. A “buy and hold” strategy graced with “compounded yields” would turn meager monthly contributions into millions by the time we’d need it. They showed us the pie charts to prove it.

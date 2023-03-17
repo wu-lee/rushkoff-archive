@@ -1,14 +1,14 @@
 ---
 title: Lugging Their Laptops
+date: 1999-05-01 04:00:00 Z
 subtitle: 
-date: '1999-05-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Some surprising answers from cyber-have children about the joys of computing.
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 A few students in the cyberculture class I teach at New York University just conducted an interesting survey. They interviewed over 125 children in elementary school about computers -- what they are, how much they like them, whether they own them and, most importantly, where and how they use them.
 
 As might be expected, wealthy children -- those in an expensive private school -- knew the most about computers. Every one of these students were required to purchase and maintain a laptop (a school requirement) on which to do homework.

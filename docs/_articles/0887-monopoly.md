@@ -1,15 +1,15 @@
 ---
 title: Mega media is mediocre
+date: 2000-02-09 05:00:00 Z
 subtitle: 
-date: 2000-02-09 00:00:00 -0500
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Douglas Rushkoff explains why he's not afraid of media monopolies
 notes: '[https://www.theguardian.com/technology/2000/feb/10/onlinesupplement6](https://www.theguardian.com/technology/2000/feb/10/onlinesupplement6
   "https://www.theguardian.com/technology/2000/feb/10/onlinesupplement6")'
 refs: 
 sources: 
-
 ---
+
 The hubbub in concerned circles these days is that AOL-TimeWarner, and now Time-Warner-Elektra mergers herald a dangerous trend. The dark enemy at the heart of this nightmare scenario? Media Monopoly.
 
 I understand the fear -- however misplaced it might be. I get it sometimes myself, and it goes something like this: a single giant company or corporate conglomerate will control virtually all the media content that we, the people, are exposed to. That company will have the ability to censor, or "edit," news and points of view that do not serve its own profit-making agenda. The bigger the conglomerate, the more "special interests" there are to be protected. So if, for example, General Electric owns NBC, we might see a lack of news stories in which satellite technology or defense department spending are criticized.

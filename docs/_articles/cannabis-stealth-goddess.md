@@ -1,15 +1,15 @@
 ---
-publication: _publications/the-pot-book.md
 title: 'Cannabis: Stealth Goddess'
+date: 2010-01-01 05:00:00 Z
+publication: _publications/the-pot-book.md
 subtitle: ''
 image: ''
-date: 2010-01-01 00:00:00 -0500
 blurb: ''
-notes: "2010"
+notes: '2010'
 refs: ''
 sources: ''
-
 ---
+
 Back around the time he was dying, Timothy Leary kept returning to an odd little game where he'd ask people to rank their drugs. Most of us assumed it was the illness (or the morphine) getting the best of him, because he just kept doing it with everyone.
 
 "Come on, sit down on the bed," he'd say to whoever happened to be visiting that day. “Get a pen, and list the drugs in order."

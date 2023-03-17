@@ -1,14 +1,14 @@
 ---
 title: What happens when anyone can code? We’re about to find out
+date: 2016-06-10 16:00:00 Z
 subtitle: 
-date: '2016-06-10T16:00:00.000Z'
 publication: _publications/digital_trends.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 We may be moving into an era when everyone can make computer programs, even though they don’t know how to code — at least not in the way we think about coding today.
 
 I’ve started playing with an iPad app called Ready that lets kids build little games, simple apps, and creative digital projects. It uses a simple drag-and-drop interface to create objects, change their properties, and make them interact with each other or a user.

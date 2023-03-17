@@ -1,7 +1,7 @@
 ---
 title: Social Media and the Perils of Looking for Likes
+date: 2014-02-19 05:00:00 Z
 subtitle: ''
-date: 2014-02-19T00:00:00.000-05:00
 publication: _publications/cnn.md
 blurb: ''
 notes: 'Source: https://rushkoff.com/social-media-and-the-perils-of-looking-for-likes/
@@ -9,8 +9,8 @@ notes: 'Source: https://rushkoff.com/social-media-and-the-perils-of-looking-for-
 refs: ''
 sources: ''
 image: ''
-
 ---
+
 Ask teens the object of social media, and they’ll all tell you the same thing: to get “likes.” Whether on Facebook, Twitter, Instagram or Tumblr, young users understand the coin of this realm, and are more than happy to do what is necessary to accumulate it. But is the currency value neutral, or does it come with an agenda of its own?
 
 Living for likes makes a teen’s social career a whole lot easier, in some respects. Now there’s a number letting kids know how popular they are, how well a photo is resonating with their friends, or whether their video stands a chance of vaulting them into the professional world of singing, skateboarding or twerking.

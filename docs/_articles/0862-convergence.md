@@ -1,14 +1,14 @@
 ---
 title: Convergence
+date: 1996-12-01 05:00:00 Z
 subtitle: 
-date: '1996-12-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Our Last, Best Hope For Peace
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Anyone who has been following the Internet Wars for the past decade or so knows that the indigenous population of community-builders has long been on the brink of absolute surrender to the invading force of better-armed and tactically superior venture capitalists.
 
 Settling for corporate-sponsored chat areas and bulletin boards on commercial music distribution sites, the net's true enthusiasts -- people who would rather share ideas than simply click and buy -- find themselves supporting their enemies by default, and adding to the "clickthrough" and "target demographic" statistics, as well as the profits, of their former foes. Except for the occasional act of terrorism -- a computer virus -- la resistance has all but disappeared.

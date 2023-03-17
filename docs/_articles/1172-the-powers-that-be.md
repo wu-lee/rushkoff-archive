@@ -1,14 +1,14 @@
 ---
 title: The Powers That Be
+date: 2004-07-13 16:00:00 Z
 subtitle: 
-date: '2004-07-13T16:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 The wireless industry's biggest problem could become the world's biggest solution.
 
 Power -- the ultimate hurdle. No matter how wirelessly we may be able to transmit our voices, text , images or even locations, we are still tethered to the grid for a few hours each day sucking the joules of energy we'll need for our next outing.

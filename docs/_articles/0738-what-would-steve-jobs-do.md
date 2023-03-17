@@ -1,14 +1,14 @@
 ---
 title: What Would Steve Jobs Do?
+date: 2011-11-11 00:00:00 Z
 subtitle: 
-date: '2011-11-11T00:00:00.000Z'
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 **(CNN)** -- When does a cult become a religion? When the cult leader dies. Only then do L. Ron Hubbard's Dianetics practitioners become the religion of Scientology, the followers of Joseph Smith become full-fledged Mormons, or -- by the same logic -- a few anti-establishment apostles become Christianity.
 
 What then of the cult of Apple after the death of its own leader, Steve Jobs? I like Apple products as much as any user, and respect the contributions that Apple under Jobs' leadership made to the co-evolution of human beings and their technologies. But all along I have also been aware of the closed nature of Apple technologies, as well as the leap of faith that has been required to accept Jobs' promise that doing things in some new way will be "fantastic." Without Jobs telling us to cross the chasm, will we continue to embrace each of Apple's future revolutions in hardware, software or both?

@@ -1,15 +1,15 @@
 ---
 title: The GOP Stole Satire From the Left
+date: 2020-09-16 16:00:00 Z
 subtitle: 
-date: 2020-09-16T16:00:00.000Z
 publication: _publications/medium.md
 blurb: Trump has brought pranksterism to the Republican Party. That used to be liberals’
   specialty.
 notes: 
 refs: 
 sources: 
-
 ---
+
 I still remember when it was the Left who had more fun. It wasn’t just that they were younger and had better hair, music, and drugs (though all of that certainly helped); it was that the Left was fabulously irreverent. Whether [nominating a pig](https://en.wikipedia.org/wiki/Pigasus_(politics)) for president, or [raining dollar bills](https://www.thenation.com/article/archive/it-was-50-years-ago-today-abbie-hoffman-threw-money-at-the-new-york-stock-exchange/) on the New York Stock Exchange, these were pranksters and media activists who tweaked their noses at authority and undermined the foundations of consensus society.
 
 Today, it’s Trump and QAnon who have taken on that countercultural mantle, using the media available at their disposal to [destabilize fact-based reality](https://www.theatlantic.com/ideas/archive/2019/06/donald-trumps-sinister-assault-truth/591925/) and promote [conspiracy theories](https://www.washingtonpost.com/opinions/2020/08/24/trumps-ugly-new-conspiracy-theory-only-underscores-his-weakness/) — and to do it all so cheekily that we can’t even tell if they actually believe what they’re saying.

@@ -1,15 +1,15 @@
 ---
-publication: _publications/contemplate-the-international-journal-of-cultural-jewish-thought.md
 title: Nothing Sacred
+date: 2007-01-01 05:00:00 Z
+publication: _publications/contemplate-the-international-journal-of-cultural-jewish-thought.md
 subtitle: ''
 image: ''
-date: 2007-01-01 00:00:00 -0500
 blurb: ''
-notes: "2007"
+notes: '2007'
 refs: ''
 sources: ''
-
 ---
+
 Can we talk? Why aren't I surprised that none other than Joan Rivers is responsible for one of the most accurate condensations of the core values of a three thousand year old tradition. It was the Jews' struggle for self-preservation, after all, as well as their deeply held humanist beliefs, that made them promoters of open discussion--so much that third century Romans purchased memberships in Jewish synagogues just so they could take part in intellectual conversations.
 
 Sadly, for many Jews today, Judaism is a closed book. Jewish texts are not open for scrutiny; they are intentionally left closed. In many synagogues, community is either forgone or leveraged in the name of fundraising for a besieged Israel. The iconoclasm intrinsic to the descendants of Abraham--the legendary idol smasher--has been discarded, but the obsolete racist and sexist beliefs of our ancestors--some prayer books still include a prayer that thanks God for not making us women1--have been preserved.

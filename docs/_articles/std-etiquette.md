@@ -1,15 +1,15 @@
 ---
-publication: _publications/2sexe.md
 title: STD Etiquette
+date: 1999-07-30 04:00:00 Z
+publication: _publications/2sexe.md
 subtitle: ''
 image: ''
-date: 1999-07-30 00:00:00 -0400
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-
 ---
+
 STD Etiquette
 
 I was working my way up her thigh with my lips, just managing to get my tongue beneath the edge of her panties, when I felt her hand on my shoulder.

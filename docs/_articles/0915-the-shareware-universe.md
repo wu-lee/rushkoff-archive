@@ -1,14 +1,14 @@
 ---
 title: The Shareware Universe
+date: 1998-05-01 04:00:00 Z
 subtitle: 
-date: '1998-05-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Why innovation happens through cooperation, not competition.
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Some people are getting tired of my anti-business tirades. Mostly businesspeople, in fact -- or developers and journalists trying to justify why they sold their souls to them. The argument they throw at me in emails, online forums, and my public speaking gigs is this: how can you hate a market-driven Internet when it's the market that's driving technological innovation, universal access, and competitive pricing?
 
 How can I? Because it is not the brute force of the marketplace that has brought us any of the major technological and social leaps leading to what we now know as the Internet. These innovations have been driven by cooperation, not competition.

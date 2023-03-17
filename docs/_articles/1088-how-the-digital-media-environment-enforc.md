@@ -1,14 +1,14 @@
 ---
 title: How the Digital Media Environment Enforces Boundaries
+date: 2016-01-08 17:00:00 Z
 subtitle: 
-date: '2016-01-08T17:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 In the 1980’s, the ultimate television president, Ronald Reagan, went to Berlin and implored Mr. Gorbachev to “tear down this wall.” Thanks to the global spectacle of electronic age as well as the unifying image of the earth from space, we were on our way to becoming one world. For better and for worse, both the spirit of kumbaya and the new power of the global market were in full force. This was utterly consistent with the media landscape of that society.
 
 Today, the ultimate Internet candidate, Donald Trump, offers not to tear down a wall but to build one between the United States and Mexico. Thanks to the discrete bits and binary logic of the digital age, as well as the frightfully alienating spectacle of beheadings on social media, we are becoming obsessed with divisions and indentificiation. For better and for worse, both the spirit of decentralization and the latent power of nationalism are in full force. This is utterly consistent with the media landscape of our society.

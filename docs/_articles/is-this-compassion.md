@@ -1,18 +1,18 @@
 ---
-publication: _publications/medium.md
 title: Is This Compassion?
+date: 2022-02-11 05:00:00 Z
+publication: _publications/medium.md
 subtitle: I’m trying a new approach to the pain and suffering around me. It may be
   working.
 image: "/uploads/0__k-qn1efoqhyw_ex.jpg"
-date: 2022-02-11 00:00:00 -0500
 blurb: Instead of girding myself for interactions with those in great pain, I do the
   opposite.
 notes: 'Source: [https://forge.medium.com/is-this-compassion-36aa8fda3701](https://forge.medium.com/is-this-compassion-36aa8fda3701
   "https://forge.medium.com/is-this-compassion-36aa8fda3701")'
 refs: ''
 sources: ''
-
 ---
+
 My go-to approach to crisis has always been to rely on my most rational sensibilities. Observe the symptoms, identify the problem, come up with a solution, and execute. In some ways, particularly in situations where another human being is involved, this approach has allowed me to insulate myself from the actual pain and suffering, while still being a part of the “solution.”
 
 But while this approach may have functioned back when I worked in an operating room and encountered real tragedy on a daily basis (I was premed in college and got a job as an anesthesia technician), it isn’t working today. Like many of you, I’m trying to process a lot of people’s suffering at the same time. I’m contending with multiple family illnesses, friends dying, students and colleagues in crisis, and a bigger world of readers, listeners, and perfect strangers who are confused, terrified, and traumatized by everything going on.

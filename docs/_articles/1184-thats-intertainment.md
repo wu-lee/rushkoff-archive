@@ -1,14 +1,14 @@
 ---
 title: That’s Inter-tainment
+date: 2005-03-09 17:00:00 Z
 subtitle: 
-date: '2005-03-09T17:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 How mobile can -- and should -- change the way we think about entertaining ourselves and each other.
 
 Conventional wisdom has it that entertainment applications will be the key to unleashing the next great wave of handheld mobile activity. If only handset manufacturers and mobile operators could figure out just what games people want to play, music they want to listen to or content they want to access, the industry will get through its current doldrums and escalate to the next level. Everybody who needs a cell phone already has one, now it's time to get the people who don't need one. And in a world where we're either working or playing, the only other avenue is entertainment.

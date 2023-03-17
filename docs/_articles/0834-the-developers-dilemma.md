@@ -1,7 +1,8 @@
 ---
 title: The Developer's Dilemma
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: The inability to create a great cell-phone software course may tell us a lot
   about the plight of independent developers in a development-hostile environment.
@@ -19,8 +20,8 @@ refs: '[{"text"=>"Interactive Telecommunications Program,", "original"=>"http://
   "meta"=>{"title"=>"shirky.com is almost here!", "description"=>"The owner of this
   domain has not yet uploaded their website.", "favicon"=>"http://www.shirky.com/favicon.ico"}}]'
 sources: 
-published: false
 ---
+
 The inability to create a great cell-phone software course may tell us a lot about the plight of independent developers in a development-hostile environment.
 
   

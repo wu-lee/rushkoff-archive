@@ -1,9 +1,9 @@
 ---
-publication: _publications/medium.md
 title: It Doesn't Get Better?
+date: 2022-05-21 04:00:00 Z
+publication: _publications/medium.md
 subtitle: When middle school bullies rule the world
 image: "/uploads/0_jvwdtpegj5iipiz9.jpg"
-date: 2022-05-21 00:00:00 -0400
 blurb: We adults may have lost the ability to tell our kids that our adult lives are
   better than their tortured adolescence. But by respecting the example they are setting,
   we can strive to be more like them, ourselves.
@@ -11,8 +11,8 @@ notes: 'Source: [https://rushkoff.medium.com/it-doesnt-get-better-156f3ed184a2](
   "https://rushkoff.medium.com/it-doesnt-get-better-156f3ed184a2")'
 refs: ''
 sources: ''
-
 ---
+
 I found myself actually bothered by Elon Musk’s tweets today. For the most part, I’ve ignored him the same way I ignore most of what happens on that platform. I check out my own highly curated list of users for links to interesting articles I may have missed, and try not to get fooled into reading the provocations from people looking for attention.
 
 But something about the world’s richest man making so many misogynist, bullying, and alt-right posts in the name of “free speech” or “owning the libs,” has got me sad. The once-genius — if Mercurial — entrepreneur has replaced Donald Trump, our former President, as the Internet’s Troll in Chief.

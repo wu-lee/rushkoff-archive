@@ -1,14 +1,14 @@
 ---
 title: 'The Ayes Have It: US Law Catches up with Camera Phones'
+date: 2004-05-14 16:00:00 Z
 subtitle: 
-date: '2004-05-14T16:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 In reaction to a recent spate of camera phone voyeurism in places like locker rooms and bleacher seats, a new bill has been put before the US Congress that would make it illegal to videotape, photograph, film, broadcast or record a person who is naked or in underwear in any location a "reasonable person would believe that he or she could disrobe in privacy."
 
 The bill, authored by Congressman (and former FBI agent) Michael Oxley of Ohio, specifically targets those who take pictures of others when they believe that "their private parts would not be visible to the public, regardless of whether that person is in a private area."

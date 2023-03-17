@@ -1,15 +1,15 @@
 ---
-publication: _publications/fresh-cream.md
 title: 'Children of Chaos: Surviving the End of the World as We Know It'
+date: 2000-01-11 05:00:00 Z
+publication: _publications/fresh-cream.md
 subtitle: ''
 image: ''
-date: 2000-01-11 00:00:00 -0500
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-
 ---
+
 Douglas Rushkoff  
 CHILDREN OF CHAOS - SURVIVING THE END OF THE WORLD AS WE KNOW IT, 1997  
 Selected by Apinan Poshyananda

@@ -1,15 +1,15 @@
 ---
-publication: _publications/the-new-top-line.md
 title: Let Them Eat Apple Pie
+date: 1999-08-01 04:00:00 Z
+publication: _publications/the-new-top-line.md
 subtitle: Cultural Imperialism and the Internet
 image: ''
-date: 1999-08-01 00:00:00 -0400
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-
 ---
+
 **b) Is the Internet American? Much of Europe seems to think so.**
 
 To European cultures that believe their value lies in their past contributions, or to leaders and academics who feel their own authority rests in accomplishments of decades or centuries ago, the spread of the Internet across the Atlantic is understandably threatening. Internet culture catalyzes change.

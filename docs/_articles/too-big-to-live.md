@@ -1,9 +1,9 @@
 ---
-publication: _publications/changethis.md
 title: Too Big to Live
+date: 2009-06-04 04:00:00 Z
+publication: _publications/changethis.md
 subtitle: Why Letting Banks Fail Is Actually Good For Real People
 image: ''
-date: 2009-06-04 00:00:00 -0400
 blurb: ''
 notes: |-
   Source: [https://cdn.porchlightbooks.com/legacyassets/system/manifestos/pdfs/000/000/314/original/59.01.LifeInc.pdf](https://cdn.porchlightbooks.com/legacyassets/system/manifestos/pdfs/000/000/314/original/59.01.LifeInc.pdf "https://cdn.porchlightbooks.com/legacyassets/system/manifestos/pdfs/000/000/314/original/59.01.LifeInc.pdf")
@@ -11,8 +11,8 @@ notes: |-
   Date: [https://www.porchlightbooks.com/blog/changethis/2009/too-big-to-live-why-letting-banks-fail-is-actually-good-for-real-people](https://www.porchlightbooks.com/blog/changethis/2009/too-big-to-live-why-letting-banks-fail-is-actually-good-for-real-people "https://www.porchlightbooks.com/blog/changethis/2009/too-big-to-live-why-letting-banks-fail-is-actually-good-for-real-people")
 refs: ''
 sources: ''
-
 ---
+
 As the financial institutions we have come to rely on appear to topple under their own weight, our natural instinct is to rush to support them. These are the banks, investment groups, and insurance firms to which we have outsourced our savings, financing, and investing. They fund our businesses and lend most of our currency into existence. 
 
 Were we just a bit more aware of how this dependency developed, and what it costs us in the long run, we might choose instead to exploit their temporary vulnerability toward very different ends. Indeed, if we had our wits about us, we would seek to put our biggest banks out of our misery, for good. 

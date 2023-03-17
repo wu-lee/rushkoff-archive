@@ -1,15 +1,16 @@
 ---
 title: My Cell Phone Is Not a Tv
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: The wireless industry's insistence on bringing the wrong media to our cell
   phones may cost us - and them - the whole game.
 notes: 
 refs: 
 sources: 
-published: false
 ---
+
 The wireless industry's insistence on bringing the wrong media to our cell phones may cost us - and them - the whole game.
 
   

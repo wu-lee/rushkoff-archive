@@ -1,14 +1,14 @@
 ---
 title: We Don't Run Computers Anymore, They Run Us
+date: 2013-03-14 04:00:00 Z
 subtitle: 
-date: '2013-03-14T04:00:00.000Z'
 publication: _publications/wall_street_journal.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Technology has always given us more control over time—especially now at the dawn of the digital age. But no matter how precisely we can count our milliseconds, neither our bodies nor our businesses are proving as programmable as our computers.
 
 Digital technology tends to make one minute look the same as any other. Still, try as we might to ignore them, the people who work for us, invest in us, and buy from us are guided by rhythms we ignore at our peril.

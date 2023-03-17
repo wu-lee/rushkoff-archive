@@ -1,18 +1,18 @@
 ---
-publication: _publications/guardian.md
 title: 'Huffington Post and AOL: the end of Web 2.0'
+date: 2011-02-09 05:00:00 Z
+published: false
+publication: _publications/guardian.md
 subtitle: ''
 image: "/uploads/arianna-huffington-001.jpg"
-date: 2011-02-09 00:00:00 -0500
 blurb: 'HuffPo''s sale to AOL does not mean its demise, but it is the demise of something:
   we''d write for free for Arianna, but not AOL'
 notes: '[https://www.theguardian.com/commentisfree/cifamerica/2011/feb/09/arianna-huffington-aol-douglas-rushkoff](https://www.theguardian.com/commentisfree/cifamerica/2011/feb/09/arianna-huffington-aol-douglas-rushkoff
   "https://www.theguardian.com/commentisfree/cifamerica/2011/feb/09/arianna-huffington-aol-douglas-rushkoff")'
 refs: ''
 sources: ''
-published: false
-
 ---
+
 It's easy to make fun of AOL's pending purchase of HuffPo. Just like AOL's purchase of TimeWarner, here we have a new media company – Huffington Post – fooling an old media company, AOL, into overpaying for something that has already peaked. Combined with the merger of Daily Beast with Newsweek, and Facebook's primping for IPO, it seems as if the second great age of internet media, the fabled "Web 2.0", is now going the way of Web 1.0 – that is, boom, sell, and bust.
 
 But to many of us on the writer side of the equation, it feels like the turning over of something a bit more personal. Why exactly should AOL's purchase of HuffPo feel so strange to many of us who have contributed to the site over the years?

@@ -1,14 +1,14 @@
 ---
 title: Their Ridicule Means We Are Winning
+date: 2019-02-20 17:00:00 Z
 subtitle: 
-date: '2019-02-20T17:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 It’s easy to underestimate the significance of what’s been happening this year. That’s just the way mainstream media pundits and politicians want it.
 
 Thousands of children in Europe and Great Britain walked out of school to protest climate change inaction. In rallies and interviews with contentious and cynical reporters, they articulated the science, economics, and political ineptitude responsible for the climate catastrophe in progress. They made a clear, urgent demand that the adults currently responsible for business and government policies accept short-term inconveniences so that today’s young people will be permitted to live out the rest of their natural life spans. British Prime Minister Theresa May and other members of government in Europe implied that the kids were simply playing hooky and that their time would better be spent in school.

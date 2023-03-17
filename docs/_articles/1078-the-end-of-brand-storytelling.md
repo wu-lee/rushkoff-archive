@@ -1,14 +1,14 @@
 ---
 title: The End of Brand Storytelling
+date: 2014-08-01 16:00:00 Z
 subtitle: 
-date: '2014-08-01T16:00:00.000Z'
 publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Let me tell you a story. Actually, let me spare you the story, especially when it comes to brand marketing. Don’t you feel better? I certainly would. Just the anticipation of having to sit through a company’s story fills me with dread. Not a lot, but enough to make me turn the page, change the channel, or click on a different link.
 
 Stories just don’t work anymore. But it’s proving difficult for some CMOs (chief marketing officers) to accept the demise of traditional narrative. Even here in this column a couple of months ago, when I suggested that brand mythology had lost its power in our increasingly digital age, I ended up receiving some angry emails from CMOs who thought I was undermining their entire industry. All I said was that—thanks to the factual bias of social media—genuine competence had moved front and center. Rather than marketing a brand’s mythology (which likely had been created to hide the product’s unattractive industrial origins), it was time to market a company’s real attributes. The job of the CMO was becoming less fictional storyteller than brand ombudsman and communicator: to help a CEO and his company gain the confidence it needed to tell the truth about itself. And, if necessary, to change said truth—by reducing carbon footprint or improving labor conditions—in order to have a good truth to tell.

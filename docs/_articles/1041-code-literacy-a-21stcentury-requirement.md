@@ -1,14 +1,14 @@
 ---
 title: 'Code Literacy: A 21st-Century Requirement'
+date: 2012-11-13 05:00:00 Z
 subtitle: 
-date: 2012-11-13T05:00:00.000Z
 publication: _publications/edutopia.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 Ask kids what Facebook is for, and they'll tell you it's there to help them make friends. And, on the surface anyway, that's what it looks like. Of course, anyone who has poked a bit deeper or thought a bit longer about it understands that people programming Facebook aren't sitting around wondering how to foster more enduring relationships for little Johnny, Janey and their friends, but rather how to monetize their social graphs -- the trail of data the site is busy accumulating about Johnny and Janey every second of the day and night.
 
 After all, our kids aren't Facebook's customers; they're the product. The real customers are the advertisers and market researchers paying for their attention and user data. But it's difficult for them or us to see any of this and respond appropriately if we don’t know anything about the digital environment in which all this is taking place. That’s why -- as an educator, media theorist and parent -- I have become dedicated to getting kids code literate.

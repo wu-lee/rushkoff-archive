@@ -1,14 +1,14 @@
 ---
 title: Sports may be the Internet's 'killer app'
+date: 1999-02-13 05:00:00 Z
 subtitle: 
-date: 1999-02-13T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 But the popularity of sports news, conversation and gambling on line has forced me to realize that quite the opposite is true: Sports fans are geeks. They are librarians, dedicated to preserving the most esoteric details of sports trivia and maintaining the archives of scores and players past.
 
 They are statisticians, constantly calculating variables against one another (Does Smith score more on rainy days?). They also are historians, preserving the narratives of great victories and losses and retelling them to young newcomers who, without such examples, might mistake their own sports era for one of the great golden ages.

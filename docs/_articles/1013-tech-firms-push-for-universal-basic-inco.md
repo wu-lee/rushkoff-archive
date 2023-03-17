@@ -1,14 +1,14 @@
 ---
 title: Tech Firm's Push For Universal Basic Income Is Self-Serving
+date: 2017-07-28 04:00:00 Z
 subtitle: 
-date: 2017-07-28T04:00:00.000Z
 publication: _publications/los_angeles_times.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 Just a year ago, proposing a concept like universal basic income could practically get me laughed off the stage at a tech industry conference. The idea that everyone should be guaranteed a minimum subsidy from the government seemed to go against every fundamental tenet of creative destruction: Don't reward the obsolete! Force people to evolve! If workers lose their jobs to automation, retrain them for new ones!
 
 From the perspective of Silicon Valley's executives, only a hippie or communist would suggest that people be given a livable wage simply for being alive. But to me, having just published a book about the lopsided returns of the digital economy, universal basic income seemed an obvious solution to a problem first posed in the 1950s by the inventor of cybernetics, Norbert Wiener: What would happen when robots could till the fields, rendering human labor obsolete? Would humans seize the opportunity to lie down in beach chairs and sip lemonade? Or would the economy be thrown into chaos, with humans perpetually competing for work against their tireless mechanical peers?

@@ -1,7 +1,7 @@
 ---
 title: How Google Trained Your Brain
+date: 2009-06-03 04:00:00 Z
 subtitle: 
-date: '2009-06-03T04:00:00.000Z'
 publication: _publications/daily_beast.md
 blurb: In a few ways—just a few, but real enough—Bing represents more than Microsoft's
   ability to purchase a memorable but (necessarily) meaningless one-syllable name
@@ -11,8 +11,8 @@ blurb: In a few ways—just a few, but real enough—Bing represents more than M
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Google pays us for running its partners' ads on our blogs and podcast sites; Microsoft pays us to buy stuff from its partners.
 
 First off, after a week of test-driving it, I can report that Bing is fast and friendly. Faster than Google at assembling what amounts to a more usefully arranged assortment of links, images, and media associated with your search. The speed probably has as much to do with the fact that the entire world is not banging on Bing's servers the way they are on Google's, but it nonetheless feels uncommonly nimble. Do a video search and you instantly get a giant page of thumbnails—roll the cursor over one and it starts playing right there. Do a search for "Boston to New York" and you get a page of airfares, the direction prices are trending, and which travel days are cheapest.

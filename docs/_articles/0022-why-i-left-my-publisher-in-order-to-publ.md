@@ -1,14 +1,14 @@
 ---
 title: Why I Left My Publisher in Order to Publish a Book
+date: 2010-09-29 23:00:00 Z
 subtitle: 
-date: 2010-09-29T23:00:00.000Z
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 I'm getting more questions about my latest book than about any other I’ve written. And this is before the book is even out—before anyone has even read the galleys.
 
 That’s because the questions aren’t about what I wrote, but about how I ended up publishing it: with an independent publisher, for very little money, and through a distribution model that makes it available on only one website. Could I be doing this of sound mind and my own volition? Why would a bestselling author, capable of garnering a six-figure advance on a book, forgo the money, the media, and the mojo associated with a big publishing house?

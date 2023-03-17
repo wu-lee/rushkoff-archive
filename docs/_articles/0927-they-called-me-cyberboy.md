@@ -1,14 +1,14 @@
 ---
 title: They Called Me Cyberboy
+date: 1996-01-01 05:00:00 Z
 subtitle: 
-date: 1996-01-01 00:00:00 -0500
 publication: _publications/time.md
 blurb: 
 notes: Date given as 1996 on CV
 refs: 
 sources: 
-
 ---
+
 Not so long ago, I could freak people out by talking about cyberculture. It was fun. They'd laugh nervously when I'd say they'd be using email someday. They'd call me "cyberboy" and mean it as an insult. I felt like a renegade.
 
 However frustrating it was to be an Internet evangelist in the late 1980's, it beat what I'm feeling now having won the battle. A journey into cyberspace is about as paradigm-threatening as an afternoon at the mall. The Internet is better, bigger, faster, and brighter, but the buzz is gone.

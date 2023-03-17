@@ -1,16 +1,16 @@
 ---
-publication: _publications/nyt_syndicate_guardian_of_london.md
 title: Second Sight
+date: 2001-03-21 05:00:00 Z
+publication: _publications/nyt_syndicate_guardian_of_london.md
 subtitle: ''
 image: ''
-date: 2001-03-21 00:00:00 -0500
 blurb: ''
 notes: '[https://www.theguardian.com/technology/2001/mar/22/onlinesupplement4](https://www.theguardian.com/technology/2001/mar/22/onlinesupplement4
   "https://www.theguardian.com/technology/2001/mar/22/onlinesupplement4")'
 refs: ''
 sources: ''
-
 ---
+
 In the beginning, it seemed that the decision to grant the public open access to the internet would herald a new era of teledemocracy, political activism and a reinstatement of the collective will in public affairs.
 
 The emergence of a networked culture, accompanied by an ethic of media literacy, open discussion and direct action, held the promise of a more responsive political system wherever it spread.

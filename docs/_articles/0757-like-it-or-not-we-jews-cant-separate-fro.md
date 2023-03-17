@@ -1,14 +1,14 @@
 ---
 title: Like It or Not, We Jews Can’t Separate From Israel
+date: 2010-06-15 04:00:00 Z
 subtitle: 
-date: 2010-06-15T04:00:00.000Z
 publication: _publications/jewish_week.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 I generally feel guilty about stuff. Sometimes I blame that on my being Jewish — other times I accept that it's just me. Maybe that’s why the latest round of somewhat justified Israel bashing, as well as the utterly unjustified Jew-bashing that’s going along with it, has been keeping me up at night. Try as I might, I don’t seem able to extricate myself from Israel anymore.
 
 For the past few decades, most American Jews have been forced to take one of two fairly extreme stances on Israel. There’s the traditional stance, “Israel, love it no matter what,” which has been pretty much the prerequisite to doing anything officially Jewish. If you’re not with the crowd that accepts whatever Israel does as right, no matter what, then you’re basically lumped in with the “self-hating Jews” and may as well turn to Buddhism or some other, friendlier, and less conditional faith.

@@ -1,16 +1,16 @@
 ---
-publication: _publications/the-week.md
 title: Douglas Rushkoff’s 6 Favorite Books About Big Ideas
+date: 2016-05-02 04:00:00 Z
+publication: _publications/the-week.md
 subtitle: ''
 image: ''
-date: 2016-05-02 00:00:00 -0400
 blurb: The author recommends works by Lewis Mumford, William Gibson, and more
 notes: '[https://theweek.com/articles/614537/douglas-rushkoffs-6-favorite-books-about-big-ideas](https://theweek.com/articles/614537/douglas-rushkoffs-6-favorite-books-about-big-ideas
   "https://theweek.com/articles/614537/douglas-rushkoffs-6-favorite-books-about-big-ideas")'
 refs: ''
 sources: ''
-
 ---
+
 [**_Technics & Civilization_**](https://target.georiot.com/Proxy.ashx?tsid=156573&GR_URL=http%3A%2F%2Famazon.com%2FTechnics-Civilization-Lewis-Mumford%2Fdp%2F0226550273%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtheweekus-us-9484790829128930000-20) by Lewis Mumford (Univ. of Chicago, $25). This 1934 book invented media theory, the notion that our technologies create entire environments that reshape life as we know it. The invention of the clock led to hourly employment. The capital-intensive machinery of the industrial age led to consolidated corporate power. Mumford said it all, first.
 
 [**_Technopoly: The Surrender of Culture to Technology _**](https://target.georiot.com/Proxy.ashx?tsid=156573&GR_URL=http%3A%2F%2Famazon.com%2FTechnopoly-The-Surrender-Culture-Technology%2Fdp%2F0679745408%3Ftag%3Dhawk-future-20%26ascsubtag%3Dtheweekus-us-8058351766137175000-20)by Neil Postman (Vintage, $16). Still the simplest explanation of how new technologies get the better of us: We make a tool, we change our lives to accommodate the tool, the tool becomes our new reality. Think cars, TV, computers, smartphones...

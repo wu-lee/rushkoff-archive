@@ -1,14 +1,14 @@
 ---
 title: Playing Undead
+date: 1995-04-01 05:00:00 Z
 subtitle: 
-date: '1995-04-01T05:00:00.000Z'
 publication: _publications/swing.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 "All hail his royal highness, the noble primogen of the Tremere, Lord Julius," announces a herald as the last of the vampire clans arrives at the Elysium. It's 10:00 on a cold, wet, moonless night in San Francisco, yet nearly 75 Goth-clad bloodsuckers have gathered at the Arts Pavilion, a huge, circular, outdoor atrium butressed by ornate gargoyled columns, to conduct their weekly conclave.
 
 Lord Julius, the dark-bearded, barrel-chested leader of the Tremere clan has taken somewhat of a gamble tonight. Against specific local ordinance he has created a new vampire -- a ravishing young progeny with jet black hair and Wednesday Adams' deadpan smile. She snuggles close to her master, finding refuge in his huge cape, as the rest of the staff-wielding Tremere clan gather protectively around their leader, ready for battle.

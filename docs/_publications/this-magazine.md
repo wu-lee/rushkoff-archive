@@ -1,5 +1,5 @@
 ---
 title: This Magazine
 url: ''
-
 ---
+

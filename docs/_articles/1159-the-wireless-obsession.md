@@ -1,13 +1,12 @@
 ---
 title: The Wireless Obsession
+date: 2004-01-12 17:00:00 Z
 subtitle: 
-date: '2004-01-12T17:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
 
 Are there times when going wireless is just plain pointless? Rushkoff's extended battle with Wireless Obsessive Dissorder.

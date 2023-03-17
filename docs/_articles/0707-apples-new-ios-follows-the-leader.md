@@ -1,15 +1,15 @@
 ---
 title: Apple's New iOS Follows the Leader
+date: 2013-09-19 04:00:00 Z
 subtitle: 
-date: '2013-09-19T04:00:00.000Z'
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
-image: /uploads/0707-apples-new-ios-follows-the-leader.jpg
+image: "/uploads/0707-apples-new-ios-follows-the-leader.jpg"
 ---
+
 *Phil Schiller, Apple senior vice president of worldwide marketing, touts the new iPhone 5C last week at Apple headquarters.*
 
 **(CNN)** -- A few million iPhone users woke up to a new operating system this week, the much-heralded iOS 7, the biggest change in Apple's smartphone operating system since the phone was first released in 2007.

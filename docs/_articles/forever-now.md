@@ -1,15 +1,15 @@
 ---
-publication: _publications/gdi-impuls.md
 title: Forever Now
+date: 2013-01-01 05:00:00 Z
+publication: _publications/gdi-impuls.md
 subtitle: ''
 image: ''
-date: 2013-01-01 00:00:00 -0500
 blurb: ''
 notes: "2013  \nIssue 2"
 refs: ''
 sources: ''
-
 ---
+
 Die Gegenwart macht sich breit. Wer keine Echtzeit bieten kann, läuft ausser Konkurrenz. Auch wenn Begriffe wie «Timeline» eine lineare Zeitbezogenheit nahelegen, geht es (fast) nur um deren Ende im Jetzt - und um die Verlängerung in die allernächste Zukunft. Am besten ist positioniert, wer der Gegenwart genau diese Nasenlänge voraus ist.
 
 Ein kleines, buntes Bilderbüchlein zeigt, was alles in welcher Geschwindigkeit geschehen muss, damit die Nachricht vom Vulkanausbruch am anderen Ende der Welt bis zu uns nach Hause kommt. Da wird der Bericht eines Augenzeugen an einen Journalisten durchtelefoniert, der bringt das ins Lokalradio, das reicht es an die Nachrichtenagentur weiter, die die Meldung prüft und in ihr System einspeist, worauf sie in einer Redaktion bei uns ankommt und dort so publiziert wird, dass sie uns erreicht. Schon in den Frühnachrichten um 6 Uhr konnte der Ausbruch von 4.58 Uhr gezeigt werden. Ja, so erzählte man das damals noch seinen Kindern - im Jahr 1999.

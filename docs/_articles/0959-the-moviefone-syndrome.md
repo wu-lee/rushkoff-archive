@@ -1,14 +1,14 @@
 ---
 title: The Moviefone Syndrome
+date: 1999-08-01 04:00:00 Z
 subtitle: 
-date: '1999-08-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: How Convenience Becomes Coercion
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Blame us "early adopters." We're the ones who enjoy using new technologies before they hit the mainstream.. But, in doing so, we end up turning something fun into something mandatory. And then it just isn't any fun anymore. In fact, it's downright debilitating.
 
 Take Moviephone. Great idea. In return for listening to a brief advertisement we were granted the free service of finding out when and where any movie might be playing. When it started, Moviephone was an information-only technology. Eventually, over time, the service was extended to include a ticket-buying feature: for a buck or two per person, callers could actually buy their tickets in advance with a Touchtone phone.

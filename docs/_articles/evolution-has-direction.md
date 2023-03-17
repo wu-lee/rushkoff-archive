@@ -1,15 +1,15 @@
 ---
-publication: _publications/what-we-believe-but-cannot-prove.md
 title: Evolution Has Direction
+date: 2006-02-28 05:00:00 Z
+publication: _publications/what-we-believe-but-cannot-prove.md
 subtitle: ''
 image: ''
-date: 2006-02-28 00:00:00 -0500
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-
 ---
+
 Though I can't prove it more than anecdotally or experientially, I believe that evolution has purpose and direction. To me it seems obvious, if absolutely unconfirmable, that matter is groping toward complexity. True enough, stresses and threats, ranging from time and friction to decomposition and predators, require objects and life-forms to achieve some measure of durability in order to sustain themselves. But this ability to surviveseems to me more a means to an end than an end in itself.
 
 Theology goes a long way toward imbuing substance and processes with meaning - describing life as 'matter reaching toward divinity,' or as the process by which divinity calls matter back to itself. But theologians mistakenly ascribe this sense of purpose to history rather than to the future. This is only natural, since the narrative structures we use to understand our world tend to have beginnings, middles, and ends. In order to experience the payoff at the end of the story, we need to see it as somehow built into the original intention of events.

@@ -1,14 +1,14 @@
 ---
 title: Exodus
+date: 2001-05-01 04:00:00 Z
 subtitle: 
-date: '2001-05-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: From Pyramid-Building to a Global Programmers Union
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I'm in Europe this week, doing a few lectures and celebrating the launch of my new novel. For some reason, I feel less like an American author on book tour than a traveling rabbi helping people gain perspective about the past five years.
 
 There's nothing like a little market collapse to get one thinking about life's larger issues, and asking those big questions. It's not that high tech business people are suddenly worried about where their money is going to come from. (They'll just get jobs.) No, it's waking up to realize just how enslaved they were by it in the first place. Hundreds of thousands of dot.com workers and investors, toiling in mindless devotion to the Great Business Plan, have suddenly been released, albeit involuntarily, from bondage. There's an opportunity here.

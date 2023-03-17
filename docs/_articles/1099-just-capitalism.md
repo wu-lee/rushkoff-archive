@@ -1,14 +1,14 @@
 ---
 title: Just Capitalism
+date: 2018-09-18 16:00:00 Z
 subtitle: 
-date: '2018-09-18T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 What if investors could make the same or even better returns from the stock market index funds by focusing on companies doing social good? When I learned that a group of multimillionaires-from Deepak Chopra to Ariana Huffington-had developed a stock fund with Goldman Sachs called Just Capital to do just that, I was about to celebrate until I looked at the top holdings: polluting chipmakers like Intel and Texas Instruments, obesity enablers from Pepsi to Yum Brands, surveillance firms like Alphabet, and propagandists including NewsCorp.
 
 It's not a list of socially good companies at all, but simply a list of the biggest companies in the world, with a filter that weeds out the ones that refuse-in one way or another-to nod to labor, community responsibility, green production, or reduced slavery footprints. (Yes, slaves still make our stuff, but that's another topic.) It's a laudable direction to encourage, but these companies hardly count as socially responsible investments. So what if they let their employees volunteer a day a month to build playgrounds? Or if they offer free power outlets for electric cars in the parking lot? That doesn't make up for the company's primary impact or the greater damage to the economy and planet caused by capital pouring into shareholder value.

@@ -1,15 +1,15 @@
 ---
-publication: _publications/platform-cooperativism-ours-to-hack-and-to-own.md
 title: Renaissance Now
+date: 2017-08-15 04:00:00 Z
+publication: _publications/platform-cooperativism-ours-to-hack-and-to-own.md
 subtitle: ''
 image: ''
-date: 2017-08-15 00:00:00 -0400
 blurb: ''
 notes: Date from Amazon (given as 2016 on CV)
 refs: ''
 sources: ''
-
 ---
+
 What would it take to make the digital economy less like industrial capitalism on steroids, and more consonant with the distributive nature of digital networks themselves? People are trying a lot of strategies, from peer-to-peer value exchanges and the restoration of the commons to crowd-funded debt remediation schemes and local favor-banks. Something big is going on here. 
 
 Surprisingly, perhaps, these efforts rarely involve digital technology itself at their core. Rather, they are informed by a digital sensibility. It turns out that we don’t actually need blockchains to reconcile and administrate the contributions that each driver has made to a driverowned version of Uber any more than we need cryptography to stage a debt strike. 

@@ -1,7 +1,7 @@
 ---
 title: Should We Trust Twitter?
+date: 2013-09-03 04:00:00 Z
 subtitle: 
-date: 2013-09-03 00:00:00 -0400
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -31,8 +31,8 @@ refs: '[{"text"=>"banned a user for openly criticizing NBC''s coverage", "origin
   has laid out for itself to make money and keep growing its service."}, "twitter_card"=>{"url"=>"https://www.pcworld.idg.com.au/article/430319/pursuit_business_plan_twitter_riles_developers/"},
   "favicon"=>"https://www.idgcdn.com.au/compressor-staticfiles/consumer/images/pcw/favicon.ico?release=20200730161603"}}]'
 sources: 
-
 ---
+
 (CNN) -- Twitter users are rightly aghast that the company on Sunday banned a user for openly criticizing NBC's coverage of the Olympics. After Guy Adams, a British newspaper reporter for The Independent, posted negative comments about NBC's tape-delayed Olympics coverage (including one executive's work e-mail for viewers to make complaints), Twitter alerted its business partner -- NBC -- and showed the network how to file a complaint capable of shutting down the offending user.
 
 Both Twitter and NBC apologized Tuesday, and Twitter restored Adams' account.

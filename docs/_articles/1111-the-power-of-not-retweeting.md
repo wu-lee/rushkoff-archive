@@ -1,14 +1,14 @@
 ---
 title: The Power of Not Retweeting
+date: 2019-01-30 05:00:00 Z
 subtitle: 
-date: 2019-01-30 00:00:00 -0500
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 I’m on tour with the Team Human book and have been inspired by the interest I’m getting from real people and places, podcasts and independent journalists — but a bit surprised by the almost deafening silence from institutional media. I know that’s partly because they’re all busy covering Trump and Russiagate, while almost ignoring stories like the coup in Venezuela, the dam disaster in Brazil, or the anti-Kurd offensive in Turkey. Books are not shocking enough for the viral mediascape, unless they’re bombshell tell-alls from former Trump staffers.
 
 Then, all of a sudden, that Covington Catholic Schoolboy MAGA Hat Versus Native American video hits the Twitterverse, and everyone wants me on air to analyze the way human interactions are being poisoned by social media platforms and the fake accounts spewing weaponized messages. The hook!

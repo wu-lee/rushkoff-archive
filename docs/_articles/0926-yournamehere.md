@@ -1,14 +1,14 @@
 ---
 title: your.name.here
+date: 1996-12-01 05:00:00 Z
 subtitle: 
-date: '1996-12-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Paul Garrin's alternate network of nameservers ROCKS
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 What's in a name? When it comes to the Internet, more than meets the eye. A few select companies are making millions of dollars selling official Web site names to people and organizations around the world, and countless others are hoping to cash in buy "prospecting" names they think someone else might want to use in the future.
 
 Thanks to a media artist named Paul Garrin, the arcane, limited, and easily exploitable system by which names are assigned to web sites might soon be coming to an end.

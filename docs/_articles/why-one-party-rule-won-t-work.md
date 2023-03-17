@@ -1,16 +1,16 @@
 ---
-publication: _publications/medium.md
 title: Why One Party Rule Won’t Work
+date: 2022-02-06 05:00:00 Z
+publication: _publications/medium.md
 subtitle: The problem with my proposal for a new centrist Democratic Party
 image: "/uploads/0_szzwfesgchj-erng.jpg"
-date: 2022-02-06 00:00:00 -0500
 blurb: ''
 notes: 'Source: [https://rushkoff.medium.com/why-one-party-rule-wont-work-84eee45c47c5](https://rushkoff.medium.com/why-one-party-rule-wont-work-84eee45c47c5
   "https://rushkoff.medium.com/why-one-party-rule-wont-work-84eee45c47c5")'
 refs: ''
 sources: ''
-
 ---
+
 Yesterday, I wrote up [a thought experiment](https://rushkoff.medium.com/adjusting-to-one-party-rule-3083d2d07f14) for how the Democratic Party could attempt to preserve the legislative process after Republicans’ [officially ](https://int.nyt.com/data/documenttools/rnc-censure-resolution/58226d40412e4f18/full.pdf)determined their own more centrist members had committed “sabotage,” and defended the Capitol riots as “legitimate public discourse.” I deleted it because I think people were taking my proposal a bit too seriously.
 
 My fantasy was that by accepting Republicans who still respect basic rule of law into the Democratic party, the new “Democrats” could achieve a super majority. Then, the party could split into two _caucuses_ — a progressive and a conservative one — debate issues, arrive at compromises, and then vote unanimously enough on the outcomes to thwart filibuster attempts from the remaining authoritarian Republicans. In other words, the Democratic Party as we know it would be dissolved, and become what was formerly known as the two party system.

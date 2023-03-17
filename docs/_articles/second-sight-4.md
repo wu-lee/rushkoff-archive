@@ -1,16 +1,16 @@
 ---
-publication: _publications/nyt_syndicate_guardian_of_london.md
 title: Second Sight
+date: 1999-11-03 05:00:00 Z
+publication: _publications/nyt_syndicate_guardian_of_london.md
 subtitle: ''
 image: ''
-date: 1999-11-03 00:00:00 -0500
 blurb: ''
 notes: '[https://www.theguardian.com/technology/1999/nov/04/onlinesupplement13](https://www.theguardian.com/technology/1999/nov/04/onlinesupplement13
   "https://www.theguardian.com/technology/1999/nov/04/onlinesupplement13")'
 refs: ''
 sources: ''
-
 ---
+
 Now that he has analysed more than 17,000 questionnaires about internet use filled out at America's ABC News web site over the past year, a psychologist named David Greenfield believes he has proof positive that the internet is addictive.
 
 He announced his findings to the American Psychological Association which, no doubt, will soon join the American Pediatric Association in condemning today's media for its negative effects on the human mind and body.

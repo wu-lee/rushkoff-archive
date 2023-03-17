@@ -1,15 +1,15 @@
 ---
-publication: _publications/graven-images-religion-in-comic-books-and-graphic-novels.md
 title: Looking for God in the Gutter
+date: 2010-10-21 04:00:00 Z
+publication: _publications/graven-images-religion-in-comic-books-and-graphic-novels.md
 subtitle: ''
 image: ''
-date: 2010-10-21 00:00:00 -0400
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-
 ---
+
 COMICS HAVE ALWAYS BEEN ABOUT mythic narratives and beings: Superman is nothing if not Godlike, the Marvel Universe is virtually a pantheon, and even Charlie Brown was everyman's Job. But recently, writers have been taking this mythic potential more literally by making comics explicitly religious: Virgin's _India Authentic_, Osamu Tezuka's _Buddha_, R. Crumb's _Book of Genesis Illustrated_, and my own _Testament_, to name just a few. Why do so many writers choose to explore their relationship to the gods through comics?
 
 There are plenty of answers--as many as there are comics, I imagine. But really, beyond the iconic representations, the history of superheroes, or the protection offered writers in a supposedly "kids'" medium, what is it about comics themselves that make them such an appropriate venue for Bible and Upanishads alike?

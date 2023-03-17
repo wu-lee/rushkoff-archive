@@ -1,14 +1,14 @@
 ---
 title: Our reptile brains were triggered by MAGA hat video
+date: 2019-01-22 13:51:00 Z
 subtitle: 
-date: 2019-01-22T13:51:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 A viral video has once again confirmed everyone's preconceptions about human nature, the state of our politics and even "kids nowadays."
 
 Yes, the confrontation between a teenage boy in a MAGA hat and an older Native American at the Lincoln Memorial last Friday was a sick spectacle. If you recoiled when you first saw it online, you were right to be disgusted. But you shouldn't conclude -- no matter what version of the video you saw -- that it captures some meaningful reflection of human nature or even America's current cultural divide.

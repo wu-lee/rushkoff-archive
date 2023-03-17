@@ -1,16 +1,16 @@
 ---
-publication: _publications/the-edge.md
 title: '"The Thing That I Call Doug"'
+date: 1999-10-25 04:00:00 Z
+publication: _publications/the-edge.md
 subtitle: A Talk with Douglas Rushkoff
 image: ''
-date: 1999-10-25 00:00:00 -0400
 blurb: ''
 notes: '[https://www.edge.org/3rd_culture/rushkoff/rushkoff_index.html](https://www.edge.org/3rd_culture/rushkoff/rushkoff_index.html
   "https://www.edge.org/3rd_culture/rushkoff/rushkoff_index.html")'
 refs: ''
 sources: ''
-
 ---
+
 Introduction by John Brockman
 
 Until recently, media and technology guru Douglas Rushkoff believed that we should let technology develop at its own pace and in its own way. "I thought that this rapid acceleration of culture would allow us to achieve the kind of turbulence necessary to initiate a dynamical system," he says. "And I saw everyone who called for us to put on the brakes, or to put new governors on the development of culture, as the enemy to our evolution forward. Their vigilance would prevent us from reaching the next level of complexity."

@@ -1,7 +1,7 @@
 ---
 title: The New Whistleblowers
+date: 2012-03-24 04:00:00 Z
 subtitle: 
-date: '2012-03-24T04:00:00.000Z'
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -12,8 +12,8 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   "snippet"=>"Back when I was a kid, they were called \"whistle-blowers\": employees
   of corrupt companies or government agencies, who went to the press with shocking
   stories of criminality or abuse.", "dateLastCrawled"=>"2020-06-22T05:13:00.0000000Z"}]'
-published: true
 ---
+
 Back when I was a kid, they were called "whistle-blowers": employees of corrupt companies or government agencies, who went to the press with shocking stories of criminality or abuse.
 
 Daniel Ellsberg risked his life to leak the Pentagon Papers, which destroyed public support for the Vietnam War. Plutonium pellet maker Karen Silkwood was exposing malfeasance at the Kerr-McGee plutonium plant when she was killed in an auto wreck. Jeffrey Wigand exposed Brown & Williamson's practice of intentionally manipulating the effect of nicotine in cigarettes, forcing Big Tobacco finally to admit the addictiveness of their product.

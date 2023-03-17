@@ -1,15 +1,15 @@
 ---
 title: Play is the Key to Renewing From Inside
+date: 2008-01-01 05:00:00 Z
 subtitle: ''
-date: 2008-01-01T00:00:00.000-05:00
 publication: _publications/develop.md
 blurb: ''
 notes: 'Source: https://www.kessels-smit.com/files/Douglas_Rushkoff_-_Develop_2-2008.pdf '
 refs: ''
 sources: ''
 image: ''
-
 ---
+
 _What do playing and doing business have in common?_ 
 
 Business people should be more open to the idea of meaningful, playful, and ongoing innovation. But most businesspeople have surrendered innovation to marketing. They see their product as either inferior to or the same as everybody else’s. The only place they think they can create any differential is through their branding, through the mythology surrounding their product rather than through the product itself.

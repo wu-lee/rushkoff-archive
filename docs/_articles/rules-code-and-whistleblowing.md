@@ -1,16 +1,16 @@
 ---
-publication: _publications/medium.md
 title: Rules, Code, and Whistleblowing
+date: 2021-10-05 04:00:00 Z
+publication: _publications/medium.md
 subtitle: On Facebook’s need for human intervention
 image: "/uploads/1_gtl3tsfoq3z98pznarzrxq.jpeg"
-date: 2021-10-05 00:00:00 -0400
 blurb: What Facebook needs is some human intervention.
 notes: 'Source: [https://onezero.medium.com/rules-code-and-whistleblowing-6796a2039af5](https://onezero.medium.com/rules-code-and-whistleblowing-6796a2039af5
   "https://onezero.medium.com/rules-code-and-whistleblowing-6796a2039af5")'
 refs: ''
 sources: ''
-
 ---
+
 As I watched Facebook whistleblower Frances Haugen’s Senate testimony today, I found myself oddly encouraged by the proceedings.
 
 No, it doesn’t make me happy to hear how the people running Facebook have consciously chosen profit over the health and welfare of their users. If Mark Zuckerberg could have somehow been happy with just twenty billion dollars of personal wealth instead of[ $120 billion](https://www.forbes.com/profile/mark-zuckerberg/?sh=7cebf9d23e06), his company could have done a hundred billion dollars less damage to the world. Countless deaths, psychological traumas, political meltdowns, and disinformation could have been avoided, and our vital social justice movements would not have been steered by [fake activist organizations](https://www.nytimes.com/2018/08/14/technology/facebook-disinformation-black-elevation.html) down such dangerous ideological dead-ends.

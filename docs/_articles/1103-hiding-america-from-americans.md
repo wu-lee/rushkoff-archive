@@ -1,14 +1,14 @@
 ---
 title: Hiding America From Americans
+date: 2018-11-01 16:00:00 Z
 subtitle: 
-date: '2018-11-01T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Until quite recently, films like 1954’s Abstract in Concrete were banned for American viewers. Although produced with U.S. tax dollars, this cinematic interpretation of the lights of Times Square was meant for European consumption only. Like the rest of the art and culture exported by the United States Information Agency, Abstract in Concrete was part of a propaganda effort to make our country look more free, open, and tolerant than many of us preceived or even wanted it to be. In the mid-1940’s, when conservative members Congress got wind of the progressive image of America we were projecting abroad, they almost cut the USIA’s funding, potentially reducing America’s global influence.
 
 Well, America today is in no danger of projecting too free, open, or tolerant a picture of itself to the world. But I’m starting to wonder if maybe the nationalist, xenophobic, inward-turned America on display to the world these days might just be the real us — the real U.S. Maybe the propaganda we created to make ourselves look like the leading proponents of global collaboration and harmony was just that: propaganda.

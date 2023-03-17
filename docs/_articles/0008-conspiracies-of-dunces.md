@@ -1,14 +1,14 @@
 ---
 title: Conspiracies of Dunces
+date: 2007-09-20 04:00:00 Z
 subtitle: 
-date: '2007-09-20T04:00:00.000Z'
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I have to admit that I do this with some trepidation. I can already feel the assault on my inbox. But after a good long think about potential time and energy being lost by our entire community to senseless and ultimately inconsequential musings, I have to come out and say it: the alternative theories about 9-11 are wrong. Worse, the endless theorizing and speculation about trajectories, explosives, military tests, fake airplane parts and remote control navigation actually distracts some of our best potential activists from addressing the more substantive matters at hand.
 
 Yes, I believe that 9-11 theorizing debilitates the counterculture. It robs us of some potentially creative thinkers. It replaces truly important questions with trivial ones. It marginalizes more constructive investigation of American participation in the development of Al Qaeda as well as its subsequent aggravation. And perhaps worst of all, it is precisely the sort of activity that government disinformation specialists would want us to be involved with.

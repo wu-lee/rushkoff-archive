@@ -1,7 +1,7 @@
 ---
 title: We've Spent The Last Decade Letting Our Tech Define Us. It's Out Of Control.
+date: 2019-12-29 05:00:00 Z
 subtitle: 
-date: 2019-12-29T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Technology has grown from some devices and platforms we use to an entire environment
   in which we function
@@ -9,8 +9,8 @@ notes: '[https://www.theguardian.com/commentisfree/2019/dec/29/decade-technology
   "https://www.theguardian.com/commentisfree/2019/dec/29/decade-technology-privacy-tech-backlash")'
 refs: 
 sources: 
-
 ---
+
 We may come to remember this decade as the one when human beings finally realized we are up against something. We’re just not quite sure what it is.
 
 More of us have come to understand that our digital technologies are not always bringing out our best natures. People woke up to the fact that our digital platforms are being coded by people who don’t have our best interests at heart. This is the decade when, finally, the “tech backlash” began.

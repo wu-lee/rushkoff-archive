@@ -1,15 +1,15 @@
 ---
 title: Hubble Hobbled by Bush's Bubble
+date: 2004-01-17 05:00:00 Z
 subtitle: 
-date: 2004-01-17T05:00:00.000Z
 publication: _publications/nokias_the_feature.md
 blurb: I starting writing about this last night on The Feature, but I'm still finding
   myself actively irked, so I'll use my blog to blather on.
 notes: 
 refs: 
 sources: 
-
 ---
+
 In order to fund Bush's PR campaign for space - a series of pointless but publicity-rich manned flights to the moon and Mars - NASA will have to abandon the Hubble telescope. The shuttle mission to do routine maintenance and battery replacement has been canceled, and the telescope has been slated to die sometime in 2007.
 
 Perhaps NASA's single greatest exploratory achievement, the Hubble has been sending images of the universe back to earth, wirelessly. This means that there doesn't need to be people out in space looking through the Hubble's eyepiece. No, computers and transmitters are used so that scientists and astronomers can relax here on earth and analyze them, rather than spend the money to live out in space while they are collected.

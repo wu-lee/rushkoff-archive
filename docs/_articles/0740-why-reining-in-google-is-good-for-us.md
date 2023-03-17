@@ -1,7 +1,7 @@
 ---
 title: Why Reining in Google Is Good for Us
+date: 2012-05-04 04:00:00 Z
 subtitle: 
-date: '2012-05-04T04:00:00.000Z'
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -49,8 +49,8 @@ refs: '[{"text"=>"challenging", "original"=>"http://www.nytimes.com/2012/04/28/t
   "original"=>"http://www.sabine.k12.la.us/zhs/Webintro/gopher.html", "meta"=>{"title"=>"Error
   404 - Page Not Found", "favicon"=>"http://www.sabine.k12.la.us/favicon.ico"}}]'
 sources: 
-published: true
 ---
+
 *Google is in the cross hairs as the Federal Trade Commission and European Commission are challenging the firm's monopoly.*
 
 **(CNN)** -- I don't like feeling stuck in a particular operating system, social network or piece of software. It's not that I won't commit to a product or company -- it's that I don't trust any of them enough to get married to one of them. Once they own me, they'll start either selling my data to other companies, limiting my Web experiences to the ones that help sell their clients' products or otherwise screwing with me as a consumer and person.

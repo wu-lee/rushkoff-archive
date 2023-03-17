@@ -1,7 +1,7 @@
 ---
 title: Unlike - Why I'm Leaving Facebook
+date: 2013-02-25 05:00:00 Z
 subtitle: 
-date: '2013-02-25T05:00:00.000Z'
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -27,8 +27,8 @@ refs: '[{"text"=>"does things on our behalf", "original"=>"http://www.forbes.com
   {"text"=>"If you ''like'' me", "original"=>"http://readwrite.com/2012/12/11/why-are-dead-people-liking-stuff-on-facebook",
   "archive"=>"http://web.archive.org/web/20191230055425/https://readwrite.com/2012/12/11/why-are-dead-people-liking-stuff-on-facebook/"}]'
 sources: 
-published: true
 ---
+
 I used to be able to justify using Facebook as a cost of doing business. As a writer and sometime activist who needs to promote my books and articles and occasionally rally people to one cause or another, I found Facebook fast and convenient. Though I never really used it to socialize, I figured it was okay to let other people do that, and I benefited from their behavior.
 
 I can no longer justify this arrangement. Today I am surrendering my Facebook account, because my participation on the site is simply too inconsistent with the values I espouse in my work. In my upcoming book *Present Shock*, I chronicle some of what happens when we can no longer manage our many online presences. I argue - as I always have - for engaging with technology as conscious human beings, and dispensing with technologies that take that agency away.

@@ -1,14 +1,14 @@
 ---
 title: As Above, So Below
+date: 2003-12-14 17:00:00 Z
 subtitle: 
-date: '2003-12-14T17:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 The satellite dish at the heart of a new age conference dedicated to 'world peace' begs whether violent communications strategies only beget more of the same.
 
 I'm writing this dispatch on my way home from Puerto Rico, where Oscar Arias (Nobel laureate and former President of Costa Rica) and Deepak Chopra (doctor and spiritual teacher) are holding their second annual conference of The Alliance for the New Humanity. The conference is about a lot of things - but, from what I can tell, anyway - it's mostly about launching a new civilization more concerned about peace and sustainable living than the current one.

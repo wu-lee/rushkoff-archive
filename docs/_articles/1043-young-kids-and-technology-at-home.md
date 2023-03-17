@@ -1,14 +1,14 @@
 ---
 title: Young Kids and Technology at Home
+date: 2013-01-04 05:00:00 Z
 subtitle: 
-date: 2013-01-04T05:00:00.000Z
 publication: _publications/edutopia.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 When I was a kid, the main reason my mom limited our television time was x-rays. Back in 1968, when I was seven years old, the same age my daughter is now, a big study on radioactive emissions from cathode ray tubes had just come out, and so our new color Philco had become the enemy. My brother and I had to watch A Charlie Brown Christmas and the NY Jets win the Super Bowl from 15 feet away, in the corner of the room diagonally opposite from the set.
 
 Today, we don't even have a single screen from which to protect our kids, or a threat as immediately visceral as cathode rays to neutralize. Interactive screens are everywhere. They invite an ever-expanding array of modes of participation, states of consciousness and exposure to manipulation. Worse, the era of big budget studies to measure media's effects is over; the only ones spending money to learn about the impact of this stuff are marketers, and they're not concerned with quite the same things that parents are.

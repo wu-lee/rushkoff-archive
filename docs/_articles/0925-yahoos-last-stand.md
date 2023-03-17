@@ -1,14 +1,14 @@
 ---
 title: Yahoo's Last Stand
+date: 2000-02-01 05:00:00 Z
 subtitle: 
-date: '2000-02-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: When Hackers Attack
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 We may never know exactly who perpetrated the string of attacks on the World Wide Web's most trafficked sites this week. It could have been international terrorists attempting to destabilize NASDAQ, or even a shady Internet security firm hoping to create a market for its own services. But it's certainly easy enough to understand the motives for such an outbreak of cyber-sabotage in the context of today's widespread resentment towards the corporations who have commandeered the Internet.
 
 Numerous programs capable of disabling web sites in precisely the way that Yahoo, Buy.com, and other companies were paralyzed have been available on public bulletin boards for months. Why would people take the trouble, and even put themselves at risk to distribute these black market tools?

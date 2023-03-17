@@ -1,14 +1,14 @@
 ---
 title: An End to Movements
+date: 2009-08-15 23:00:00 Z
 subtitle: 
-date: 2009-08-15T23:00:00.000Z
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 The national healthcare movement was doomed from the start. TV clips of shouting matches at town halls and fear-mongering by cynical politicians may be lamentable, but we are witnessing something more profound than the collapse of civic discourse. The failure of a movement that could rightly claim over 70 percent public acceptance just a month ago, exposes the inherent failure of movements of any kind to effectively address our society's ills.
 
 That’s right. Mass organization may just have been a twentieth century thing: collective actions of all sorts—good and bad—were responses to the corporatization of government and industy. As such, they took the form of the entities with whom they sought to do battle. But—like the top-heavy, highly abstracted creatures they were created to counter —they are proving utterly incapable of providing an alternative to what they would replace.

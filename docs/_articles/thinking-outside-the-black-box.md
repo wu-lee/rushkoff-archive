@@ -1,17 +1,17 @@
 ---
-publication: _publications/medium.md
 title: Thinking Outside the Black Box
+date: 2019-01-09 05:00:00 Z
+publication: _publications/medium.md
 subtitle: What the algorithms can’t see may be the most human thing about us
 image: "/uploads/1_wtoj6moe4lr-wwa8ogjvnq.jpeg"
-date: 2019-01-09 00:00:00 -0500
 blurb: Facebook’s clumsy efforts to mirror us back to ourselves offer a peek into
   the black boxes that are increasingly coming to dominate our society.
 notes: '[https://medium.com/team-human/the-real-value-of-facebook-19d1d6cb3003](https://medium.com/team-human/the-real-value-of-facebook-19d1d6cb3003
   "https://medium.com/team-human/the-real-value-of-facebook-19d1d6cb3003")'
 refs: ''
 sources: ''
-
 ---
+
 It feels like we’ve finally reached “peak Facebook.”
 
 Thanks in part to recent revelations about how the company [gave access to user data and private messages](https://www.nytimes.com/2018/12/18/technology/facebook-privacy.html?action=click&module=inline&pgtype=Homepage) to Netflix, Spotify, and others, as well as the [dirty tricks campaign](https://www.nytimes.com/2018/11/22/business/on-thanksgiving-eve-facebook-acknowledges-details-of-times-investigation.html) to smear Facebook critic George Soros, people are becoming aware that the platform doesn’t merely hurt society as a side effect. Facebook is an intentionally bad actor. That said, maybe there’s something to be gained or learned from the social network before it’s gone.

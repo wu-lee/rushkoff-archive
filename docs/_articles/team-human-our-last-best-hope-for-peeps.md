@@ -1,16 +1,16 @@
 ---
-publication: _publications/medium.md
 title: 'Team Human: Our Last Best Hope for Peeps'
+date: 2016-09-05 04:00:00 Z
+publication: _publications/medium.md
 subtitle: ''
 image: "/uploads/1_avtq1ywoapfk8_rzzoiopa.jpeg"
-date: 2016-09-05 00:00:00 -0400
 blurb: ''
 notes: 'Source: [https://medium.com/newco/team-human-our-last-best-hope-for-peeps-b8e723ad7fa2](https://medium.com/newco/team-human-our-last-best-hope-for-peeps-b8e723ad7fa2
   "https://medium.com/newco/team-human-our-last-best-hope-for-peeps-b8e723ad7fa2")'
 refs: ''
 sources: ''
-
 ---
+
 I thought long and hard about how best to respond to the thousands of emails I’ve received since publishing [Throwing Rocks at the Google Bus](http://rushkoff.com/throwingrocks). People, companies, mayors, cooperatives, towns and big corporations, all looking for ways to distribute prosperity more widely, start local currencies, build platform cooperatives, convert to employee ownership, offer dividends instead of capital gains, or crowdfund a bookstore. I’ve answered more than half — or about 20,000 of them — individually. But I realized that it’s really not me who has the answers; it’s you.
 
 I’m not a one-stop shop for new social and economic strategies. But I know a heck of a lot of the people who have the answers — people who understand we have to stop optimizing human lives for economic growth, and start optimizing the economy for human prosperity. People who want to stop programming people for technology, and start programming technology for people. The people I’ve come to call Team Human.

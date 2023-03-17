@@ -1,15 +1,15 @@
 ---
 title: It Won’t Be Easy to Break Free From Trump’s Media Chaos
+date: 2021-01-20 05:00:00 Z
 subtitle: 
-date: '2021-01-20T05:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
-image: /uploads/1061-it-wont-be-easy-to-break-free-from-trump.jpeg
+image: "/uploads/1061-it-wont-be-easy-to-break-free-from-trump.jpeg"
 ---
+
 Admit it. Twitter isn’t quite as sensational without its leading troll, President Donald Trump. Online disinformation — perhaps the most compelling content available on social networks — is down 73% since he was banned. Not even the response to an armed attack on the Capitol or the fake news about antifa and Black Lives Matter having instigated it as a false flag event have been enough to stir up the social media landscape to previous frenzied levels of activity. And if social media is already suffering in the post-Trump era, imagine how boring cable news is going to be without its leading villain?
 
 Our whole media ecosystem has been dominated by Trump. As a result, love him or hate him, Trumpism has been America’s addiction for the past four years — not just an entertaining distraction but an addiction with destructive consequences. The extent to which Joe Biden can succeed as our next president may rest on all of our ability to let go of the most consuming American spectacle since, well, ever.

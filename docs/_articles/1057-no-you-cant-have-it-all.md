@@ -1,14 +1,14 @@
 ---
 title: No, you can't have it all
+date: 2015-10-20 16:00:00 Z
 subtitle: 
-date: 2015-10-20T16:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 Technology has always been about choice: Fire allowed us to choose to live in colder climates. Electric lighting offered us the choice to read at night. Drugs give us the freedom to choose stressful, self-destructive lifestyles.
 
 And digital technology gives us the ability to do more than one thing at the same time -- or at least it feels that way.

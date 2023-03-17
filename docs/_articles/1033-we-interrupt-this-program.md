@@ -1,15 +1,15 @@
 ---
 title: We Interrupt This Program
+date: 2011-02-01 05:00:00 Z
 subtitle: 
-date: 2011-02-01T05:00:00.000+00:00
 publication: _publications/school_library_journal.md
 blurb: 
 notes: Date from [https://www.slj.com/story/we-interrupt-this-program-media-theorist-douglas-rushkoff-has-second-thoughts-about-our-digital-practices](https://www.slj.com/story/we-interrupt-this-program-media-theorist-douglas-rushkoff-has-second-thoughts-about-our-digital-practices
   "https://www.slj.com/story/we-interrupt-this-program-media-theorist-douglas-rushkoff-has-second-thoughts-about-our-digital-practices")
 refs: 
 sources: 
-
 ---
+
 Ask any kid what Facebook is for and he'll tell you it's there to help him make friends. What else could he think? It's how he does make friends. He has no idea that the real purpose of the software, and the people coding it, is to monetize his relationships. He isn't even aware of those people, the program, or their purpose.
 
 The kids I celebrated in my early books as "digital natives," capable of seeing through all efforts of big media and marketing, have actually proven less able to discern the integrity of the sources they read and the intentions of the programs they use than we struggling adults are. If they don't know what the programs they're using are even for, they don't stand a chance at using them effectively. They're less likely to become power users than the used. It is our job as educators to change all this. We're our students' best chance of becoming media--or new media--literate. Yet our digital practices betray our own unconscious approach toward these media. We employ technologies in our lives and our curriculums by force of habit or fear of being left behind.

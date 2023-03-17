@@ -1,14 +1,14 @@
 ---
 title: Trickle Up Democracy
+date: 2012-09-01 04:00:00 Z
 subtitle: 
-date: 2012-09-01T04:00:00.000Z
 publication: _publications/tikkun.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 I KNOW WE'RE NOT SUPPOSED to say such things, but I have lost faith in national politics. Yes, I'll vote in the coming elections and do my part to get the less sold-out, less anti-communitarian candidate in office. But I no longer look to the top tier of centralized government to solve our problems or help us grope toward conclusions together.
 
 For me, big government has become as abstract as the corporations that made it possible. The more I study the emergence of corporate capitalism, the more I see central government as the other side of the same coin: a booming peer-to-peer society was intentionally dismantled during the Renaissance in order to reassert the authority of the aristocracy. This was achieved by giving "chartered monopolies" the exclusive authority to do business in their industries (cronyism) and by giving central banks the exclusive authority to issue currency. All work, trade, lending, and borrowing now had to go through the central authorities. This abstracted what we think of as commerce.

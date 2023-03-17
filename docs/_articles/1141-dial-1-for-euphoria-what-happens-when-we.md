@@ -1,14 +1,14 @@
 ---
 title: 'Dial 1 for euphoria: What happens when we can zap our brains into any mood?'
+date: 2016-04-25 16:00:00 Z
 subtitle: 
-date: '2016-04-25T16:00:00.000Z'
 publication: _publications/digital_trends.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 One algorithm makes you smaller, and one makes you tall. But the ones the FDA gives you won’t do anything at all – not without a prescription, anyway.
 
 Welcome to the brave new world of electrotherapy stimulation. What may have once been limited to experimental research labs is about to become as common as Prozac – and that should have Big Pharma scared.  Mood alteration is becoming as simple and inexpensive as a battery-powered handheld device with two little electrodes you strap on your head. Sit there for 20 minutes receiving gentle, barely perceptible pulses, and cure your anxiety, insomnia, PTSD, depression, bipolar disorder, and more.

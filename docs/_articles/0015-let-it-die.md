@@ -1,14 +1,14 @@
 ---
 title: Let It Die
+date: 2009-03-15 04:00:00 Z
 subtitle: 
-date: 2009-03-15T04:00:00.000Z
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 With any luck, the economy will never recover.
 
 In a perfect world, the stock market would decline another 70 or 80 percent along with the shuttering of about that fraction of our nation's banks. Yes, unemployment would rise as hundreds of thousands of formerly well-paid brokers and bankers lost their jobs; but at least they would no longer be extracting wealth at our expense. They would need to be fed, but that would be a lot cheaper than keeping them in the luxurious conditions they’re enjoying now. Even Bernie Madoff costs us less in jail than he does on Park Avenue.

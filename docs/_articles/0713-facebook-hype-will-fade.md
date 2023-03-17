@@ -1,7 +1,7 @@
 ---
 title: Facebook Hype Will Fade
+date: 2011-01-07 05:00:00 Z
 subtitle: 
-date: '2011-01-07T05:00:00.000Z'
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -10,8 +10,8 @@ refs: '[{"text"=>"CNN.com", "original"=>"http://www.cnn.com/2011/OPINION/01/07/r
   hype will fade", "type"=>"article"}, "description"=>"All signs for Facebook appear
   to be pointing up. ", "favicon"=>"http://www.cnn.com/favicon.ico"}}]'
 sources: 
-published: true
 ---
+
 (CNN) -- All signs for Facebook appear to be pointing up.
 
 Mark Zuckerberg is Time's Man of the Year, the movie about him seems likely to be an Oscar winner, and now Goldman Sachs is raising $1.5 billion from its favorite investors on behalf of the social networking company.

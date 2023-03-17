@@ -1,14 +1,14 @@
 ---
 title: '3D Printers: Making is the New Taking'
+date: 2013-12-01 17:00:00 Z
 subtitle: ''
-date: 2013-12-01T17:00:00.000Z
 publication: _publications/hemispheres_magazine.md
 blurb: ''
 notes: ''
 refs: ''
 sources: ''
-
 ---
+
 Back in December 1972, my dad surprised the family with a strangely prescient holiday gift: an Odyssey, the first-ever home video game console. At the time it was a nerdy novelty - this was even before Pong, mind you - but it was the harbinger of seismic shift in entertainment. Then, five years later, dad’s were coming home with Radio Shack’s TRS 80, one of the first retail home computers, and another glimpse into the future. 
 
 Likewise, this holiday season - below the radar but equally significant - families are unboxing their very first 3D printers. Sure, they’re as amazed by this hi-tech novelty as we were with video games and PCs back in the day. But they’re just as unaware of how central these devices will eventually become to the way we live - not to mention how disruptive they will be to manufacturing, business, and the entire global economy.

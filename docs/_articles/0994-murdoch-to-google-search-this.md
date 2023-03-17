@@ -1,7 +1,7 @@
 ---
 title: Murdoch to Google - Search This
+date: 2009-11-09 05:00:00 Z
 subtitle: 
-date: '2009-11-09T05:00:00.000Z'
 publication: _publications/daily_beast.md
 blurb: 'As unlikely as it sounds, Rupert Murdoch may end up being our last best hope
   for a peaceful solution to the Internet''s war on professional journalism. A man
@@ -24,8 +24,8 @@ refs: '[{"text"=>"In an interview with Sky News Australia", "original"=>"http://
   "creator"=>"", "images"=>[{"url"=>"https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_270,w_480,x_0,y_0/dpr_2.0/c_limit,w_600/f_jpg/fl_lossy,q_auto/v1493134503/videos/2009/11/09/rupert-murdoch-challenges-google/sky-news-rupert-murdoch_csuz4t"}]},
   "favicon"=>"http://www.thedailybeast.com/static/media/favicon.b30a79ed.ico"}}]'
 sources: 
-published: true
 ---
+
 [In an interview with Sky News Australia](http://www.thedailybeast.com/videos/2009/11/09/rupert-murdoch-challenges-google.html) over the weekend, Murdoch challenged the Cardinal Rule of the Internet by suggesting that information wants to be expensive: “They shouldn’t have had it free all the time, and I think we’ve been asleep. It costs us a lot of money to put together a newspaper.”
 
 Murdoch is talking about more than simply charging for access to the online versions of his newspapers, which The Wall Street Journal and a few others have been doing successfully for years. Railing against “content kleptomaniacs” like Google, Microsoft, and Ask.com—which effectively syndicate News Corp. content without paying—Murdoch even suggested he might put up walls that prevent the stories in his papers from appearing in Google searches at all.

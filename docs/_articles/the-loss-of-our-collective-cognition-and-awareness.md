@@ -1,15 +1,15 @@
 ---
-publication: _publications/what-should-we-be-worried-about.md
 title: The Loss of Our Collective Cognition and Awareness
+date: 2014-02-11 05:00:00 Z
+publication: _publications/what-should-we-be-worried-about.md
 subtitle: ''
 image: ''
-date: 2014-02-11 00:00:00 -0500
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-
 ---
+
 We should be worried about the decline of the human nervous system. We should be worried that something—likely environmental but possibly more subtle than that—is hampering our ability to parent new human beings with coherently functioning perceptual apparatuses. We should worry about what this means not just for our society's economic future but for the future of our collective cognition and awareness as a species.
 
 Consider the rising proportion of our youth who are classified as “special needs.” By current count, one in eighty-eight children has an autism spectrum disorder—and one in fifty-four boys. Eight percent of children between three and seventeen years old have a learning disability. Seven percent have ADHD. And these figures are rising steadily. The vast majority of children with spectrum disorders also suffer from “co-morbidities," such as anxiety disorder, sensory-processing disorder, intellectual disabilities, and social disorders. These special-needs children will likely need special education and then special care and special caretakers for the rest of their lives. Someone has to pay for this.

@@ -1,7 +1,8 @@
 ---
 title: 'Media Tie-Ins: What the Mobile Industry Can Learn From Ovaltine'
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: 
 notes: 
@@ -29,8 +30,8 @@ refs: '[{"text"=>"Radio Orphan Annie Secret Society", "original"=>"http://www.ra
   "description"=>"", "images"=>[{"url"=>"http://www.wirelesswatch.jp/bts/_4sns.jpg"}],
   "card"=>"summary_large_image", "site"=>"@Wireless_Watch"}, "favicon"=>"http://www.wirelesswatch.jp/bts/ico.png"}}]'
 sources: 
-published: false
 ---
+
 The stories, games, and characters driving youth culture can also drive the uptake of communications technologies.
 
   

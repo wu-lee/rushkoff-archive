@@ -1,7 +1,8 @@
 ---
 title: Cell Phone Cinema
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: Lights, camera, compression! The new world of bite-sized video.
 notes: 
@@ -54,8 +55,8 @@ refs: '[{"text"=>"CTIA Wireless IT and Entertainment Expo", "original"=>"http://
   G. McCabe", "Sean Spicer", "Hurricanes"], "twitter_card"=>{}, "favicon"=>"http://www.iht.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico"}},
   {"text"=>"Mobisodes", "original"=>"http://news.com.com/TV+to+the+rescue/2100-1039_3-5423178.html?tag=nefd.top"}]'
 sources: 
-published: false
 ---
+
 Lights, camera, compression! The new world of bite-sized video.
 
   

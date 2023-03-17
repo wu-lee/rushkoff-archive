@@ -1,14 +1,14 @@
 ---
 title: 'Music In, Music Out: The Garage Band Ethos in a Cellular World'
+date: 2005-01-26 17:00:00 Z
 subtitle: 
-date: '2005-01-26T17:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 The future of mobile music lies in creating tunes, not just downloading them.
 
 To most wireless industry business forecasters, the future in music revenue means MP3s. Some see cell phones with the memory and audio capacity of an iPod. Others look forward to cell phones as preferred FM receivers, and satellite radio companies are already working on integrating their technology into mobile handsets.

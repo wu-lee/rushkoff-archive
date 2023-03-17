@@ -1,14 +1,14 @@
 ---
 title: Russia, the Internet and a new way to wage war?
+date: 2015-10-28 16:00:00 Z
 subtitle: 
-date: '2015-10-28T16:00:00.000Z'
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 According to a report in The New York Times this week, the presence of Russian spy ships near important trans-Atlantic data cables is causing consternation among American military and intelligence officials. What, if anything, are the Russians planning to do? Are they trying to see how easily they could cut the cables if war broke out?
 
 All anybody knows for sure is that the game theory that we used to plot out provocations and responses during the Cold War is obsolete in a digital age.

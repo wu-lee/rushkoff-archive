@@ -1,14 +1,14 @@
 ---
 title: It's Got a Hold on You
+date: 2005-05-27 16:00:00 Z
 subtitle: 
-date: '2005-05-27T16:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 The mobile phones in our hands may have a more totemic role in our lives than we suspect.
 
 There's something magical about the objects we use every day. No, not that plastic pen, but the one over there in the holder on your desk, the Mont Blanc. Or the wallet in your pocket, actually a bit too worn out, but a gift from your daughter. Or the portable clock radio you saved when going through your dad's stuff after he died.

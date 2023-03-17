@@ -1,16 +1,16 @@
 ---
-publication: _publications/medium.md
 title: The Future of Work — Part One
+date: 2021-09-21 04:00:00 Z
+publication: _publications/medium.md
 subtitle: How automation will force us to retrieve human competence
 image: "/uploads/0_ryv9bbfgcfuidkkt.jpg"
-date: 2021-09-21 00:00:00 -0400
 blurb: ''
 notes: 'Source: [https://marker.medium.com/the-future-of-work-part-one-d51ebc64e1ea](https://marker.medium.com/the-future-of-work-part-one-d51ebc64e1ea
   "https://marker.medium.com/the-future-of-work-part-one-d51ebc64e1ea")'
 refs: ''
 sources: ''
-
 ---
+
 We are not in a second industrial age. That may be the dream of those who really want to double down on the dehumanizing legacy of the past few hundred years of employment. But the emergence of digital technology, algorithms, and robots offers much more than an opportunity to further automate our businesses, alienating our workers and customers alike; it’s a chance to retrieve the human sensibilities at the heart of our organizations, and embrace the truly collaborative, participatory spirit of this age.
 
 The digital renaissance of the early 1990s was about the unbridled possibilities of the collective human imagination. Early internet pioneers understood that human beings, connected as never before, could create any future we wanted. Unlike passive television viewers, members of the internet generation would be more hands-on participants in the world. Instead of the conformist and highly individual “company man,” we’d begin to see teams of creatives, developing new approaches from the bottom up. Armed with a PC and an internet connection, anyone could become anything.

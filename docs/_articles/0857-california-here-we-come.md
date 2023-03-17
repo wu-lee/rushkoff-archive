@@ -1,14 +1,14 @@
 ---
 title: California Here We Come
+date: 2008-04-17 04:00:00 Z
 subtitle: 
-date: '2008-04-17T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: March 1999
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I wasn't sure whether the mass of cocktail-swilling Internet businesspeople were celebrating their various victories or merely trying to look that way. I had stumbled into Silicon Alley '99, New York City's premier cyber-business conference, which had grown by this year -- just its second -- into a nearly thousand-person extravaganza.
 
 It was plain for all to see that New York's vast financial resources and stock exchanges had successfully conquered Silicon Valley, usurping the West Coast's role as the epicenter of interactive technology, and making millionaires out of hundreds if not thousands of the earliest investors. But no matter how many Armani suits and Prada sheath dresses crowded the swank sushi bars in this colossal Tribeca loft, I couldn't help but notice an air of discontent. The managers of huge stock funds seemed to wander about aimlessly, asking vague questions of almost everyone, as if attempting to figure out which new company might be bought next by Excite before Excite is bought by @home and @home is absorbed into AT&T. 26-year-olds from faraway places like Toronto and Milwaukee smiled earnestly and shook hands with everyone who would shake back ˜ brimming with equal parts of enthusiasm to get on board and fear that they may have already missed the boat.

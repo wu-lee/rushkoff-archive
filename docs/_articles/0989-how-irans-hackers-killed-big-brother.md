@@ -1,7 +1,7 @@
 ---
 title: How Iran's Hackers Killed Big Brother
+date: 2009-06-16 04:00:00 Z
 subtitle: 
-date: '2009-06-16T04:00:00.000Z'
 publication: _publications/daily_beast.md
 blurb: Perhaps the best indication for Americans that something important is going
   on in Iran right now is the fact that Twitter has delayed a scheduled downtime for
@@ -13,8 +13,8 @@ blurb: Perhaps the best indication for Americans that something important is goi
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Unlike the United States, where Facebook friends, Meetup groups, and other online innovations successfully elected a candidate who (at least initially) lacked top-down support, the Iranian power structure has less compunction about snuffing digital democracy. Incumbent Mahmoud Ahmadinejad is widely believed to have shut down Iranian access to Facebook as soon as it was clear his opponent's supporters were using the social network to organize rallies and motivate voters. Not that Mousavi's 36,000 Facebook friends at that point would have led to the undeniable landslide the opposition leader would have needed to actually win—but the heavy-handed gesture hinted at what was to come. It was the opening salvo in a digital war with global implications, and a blueprint for the democratizing influence of the Internet.
 
 Iran's government counterattacked with a blockade, closing off the four Internet access routes it controlled, leaving just one pipe through Turkey for messages to breach it.

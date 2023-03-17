@@ -1,14 +1,14 @@
 ---
 title: Nowhere to Run
+date: 1999-05-01 04:00:00 Z
 subtitle: 
-date: '1999-05-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Y2K Survivalists
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 "They'll come at night -- especially if you've got an electric lamp glowing somewhere, a dead giveaway," warned one member of an online survivalist conference.
 
 "I've got an order in on a 500 gallon water tank," explained another, "I'll give you the URL."

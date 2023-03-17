@@ -1,17 +1,17 @@
 ---
-publication: _publications/cnn.md
 title: Panicked over massive data breach? You should be
+date: 2015-12-01 05:00:00 Z
+published: false
+publication: _publications/cnn.md
 subtitle: ''
 image: ''
-date: 2015-12-01 00:00:00 -0500
 blurb: ''
 notes: '[https://www.cnn.com/2015/06/05/opinions/rushkoff-government-hack/](https://www.cnn.com/2015/06/05/opinions/rushkoff-government-hack/
   "https://www.cnn.com/2015/06/05/opinions/rushkoff-government-hack/")'
 refs: ''
 sources: ''
-published: false
-
 ---
+
 (CNN) — The Obama administration has admitted, painfully, that the recent hack of government agencies’ personnel files may have put at least 21.5 million government background checks – including those seeking top security clearance – in the hands of Chinese hackers. It’s as if our efforts to make ourselves safe by investigating people and storing that data have become our greatest vulnerability.
 
 Maybe the Internet and security simply don’t mix?

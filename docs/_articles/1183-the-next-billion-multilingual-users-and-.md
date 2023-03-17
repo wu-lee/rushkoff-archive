@@ -1,14 +1,14 @@
 ---
 title: 'The Next Billion: Multilingual Users and Mobile Telephony'
+date: 2005-01-26 17:00:00 Z
 subtitle: 
-date: '2005-01-26T17:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Why the mobile industry needs to learn the world's struggling languages.
 
 Even today's most guarded estimates indicate that half of the world's 6000 languages will likely be extinct by the year 2050. A decidedly more catastrophic prediction from researchers at the University of Manchester now places that number closer to 90%. Because mobile phones aren't yet universal interpreters, we should be concerned -- not simply in the interest of preserving cultural heritage and diversity, but also because minority language communities represent some of the most potentially valuable markets still underserved by the mobile industry. Think Africa, deep Asia, the Pacific and the Middle East.

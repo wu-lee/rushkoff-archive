@@ -1,7 +1,8 @@
 ---
 title: Sex, Lies and Videophones
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: New services allow users to fake the background sounds and appearance   of
   their locations -- all because interactive media really wants us to   be more honest.
@@ -38,8 +39,8 @@ refs: '[{"text"=>"SounderCover", "original"=>"http://www.simeda.com/soundercover
   {"text"=>"Some", "original"=>"http://www.160characters.org/members.php?action=info&username=Mike%20Grenville",
   "meta"=>{"title"=>"Page not found – 160 characters", "favicon"=>"http://www.160characters.org/favicon.ico"}}]'
 sources: 
-published: false
 ---
+
 New services allow users to fake the background sounds and appearance of their locations -- all because interactive media really wants us to be more honest.
 
   

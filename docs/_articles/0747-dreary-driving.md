@@ -1,14 +1,14 @@
 ---
 title: Dreary Driving
+date: 2007-04-03 04:00:00 Z
 subtitle: 
-date: '2007-04-03T04:00:00.000Z'
 publication: _publications/discover.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 The driver in the TV commercial looks able enough. Then he pulls up next to another vehicle, hits a button labeled “park assist,” and sits back passively while his Lexus turns the steering wheel, backs up at precisely the right angle, stops before it hits the curb, and neatly pulls itself into the open spot. The perfect parallel park, brought to you by microchip and Japanese engineering.
 
 This luxury feature is just the latest in a long string of technological leaps forward for the automobile, but somehow the sight of a car literally parking itself makes me wonder if we've gone too far.

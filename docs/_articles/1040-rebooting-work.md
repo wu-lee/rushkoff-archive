@@ -1,14 +1,15 @@
 ---
 title: Rebooting Work
+date: 2016-02-01 05:00:00 Z
+published: false
 subtitle: 
-date: '2016-02-01T05:00:00.000Z'
 publication: _publications/geographical.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: false
 ---
+
 DIGITAL AND ROBOTIC technologies could offer us both a bounty of productivity as well as relief from myriad repeatable tasks. Unfortunately, as our economy is currently configured, neither of these potential miracles are coming true.
 
 It's not like we weren't warned. In the 1940s, the father of 'cybernetics,' Norbert Wiener, worried about what thinking machines meant for the human employees who would have to compete with them. Wiener realised that if we didn't change the underlying operating system of our economy, our technologies may not serve our economic prosperity as positively as we might hope. Before we embed the values of our industrial economy into the fabric of the digital one, we need to re-evaluate our fundamental assumptions about employment and compensation.

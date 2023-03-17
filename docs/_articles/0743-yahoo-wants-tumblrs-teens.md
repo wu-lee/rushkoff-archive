@@ -1,7 +1,7 @@
 ---
 title: Yahoo Wants Tumblr's Teens
+date: 2013-05-20 04:00:00 Z
 subtitle: 
-date: '2013-05-20T04:00:00.000Z'
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -12,8 +12,8 @@ refs: '[{"text"=>"pay over $1 billion", "original"=>"http://money.cnn.com/2013/0
   {"text"=>"his blog post responding", "original"=>"http://staff.tumblr.com/post/50902268806/news",
   "archive"=>"http://web.archive.org/web/20200623231018/https://staff.tumblr.com/post/50902268806/news"}]'
 sources: 
-published: true
 ---
+
 So why would Yahoo -- the original king of Internet discussion groups -- pay over $1 billion for a simple little blog-publishing tool like Tumblr? Doesn't the giant Web company have the ability to create its own application that lets people post words and pictures online? Of course it does.
 
 No, Yahoo isn't buying a technology company so much as the community that uses it. It paid a billion bucks for Tumblr for the very same reason that Facebook paid a billion dollars last year [for web-sharing app Instagram](http://dealbook.nytimes.com/2012/04/09/facebook-buys-instagram-for-1-billion/): for the kids.

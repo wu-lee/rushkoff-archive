@@ -1,14 +1,14 @@
 ---
 title: Click Culture
+date: 1996-08-01 04:00:00 Z
 subtitle: 
-date: '1996-08-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Thoughts on the strength of mouse-driven attention spans
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Do you have the attention span required to scroll through this entire nine-hundred-word column or, like me and countless others, will you most likely get the gist by scanning the first couple of sentences and then moving on to something else?
 
 The habits you pick up playing with the TV remote, the Sega joystick, and the computer mouse have changed the way you read and react to this newspaper. I cannot control your journey as easily as I could before. You are more conscious of every attempt made to program you, and more able and willing to steer clear. After all, they don't call the stuff on television "programming" for nothing. The people making television are not programming the TV set or their own schedules - they're programming us, the viewers. Their programs work to influence our purchasing decisions, political allegiances, personal identifications, and moral foundations. They want to sell us something, even if it's just more TV.

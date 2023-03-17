@@ -1,14 +1,14 @@
 ---
 title: Breaking Tech Myths
+date: 2008-05-09 04:00:00 Z
 subtitle: 
-date: '2008-05-09T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: October 1998
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 As millions in America sat down to their Thanksgiving turkey dinners last week, we celebrated a shamelessly mythologized reconstruction of our continent's history. According to the well-ingrained but now-disputed legend, the pilgrims' first Thanksgiving was communal in spirit, a demonstration of the debt they owed the native Americans who taught them how to survive in a new and hostile environment.
 
 So much time has past since this myth was created that no one really knows what happened -- only that the Native Americans were eventually slaughtered both by the Pilgrims and those who followed shortly afterwards. In any case, there was no one around at the time to correct the "bad" information before it became accepted historical fact.

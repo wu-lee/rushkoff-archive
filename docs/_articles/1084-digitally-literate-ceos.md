@@ -1,14 +1,14 @@
 ---
 title: Digitally Literate CEOs
+date: 2014-01-01 17:00:00 Z
 subtitle: 
-date: '2014-01-01T17:00:00.000Z'
 publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Today’s CEOs likely consider themselves above—or certainly beyond—learning something as elementary as computer code. But as everyone from pop stars to pro basketball players have been arguing and even demonstrating lately, in thedigital age, knowing how to code is basic literacy—it’s fundamental.
 
 Black-Eyed Peas rapper Will.i.am, for example, is aggressively studying code in order to better serve in his new role as Intel’s Director of Creative Innovation. And unlike, say, Ashton Kutcher’s new “product engineer” position with Lenovo, Will.i.am’s new gig is definitely more than a marketing ploy. Beyond building new tools for musicians, he’s frequently spotted at tech conferences and workshops, fully cognizant that participation in the digital culture and thedigital economy means speaking the native language. Meanwhile, for NBA star Chris Bosh, learning to code is about more than parlaying his athletic career into a business or having something to fall back on if the basketball thing doesn’t work out. As he explained in a manifesto he wrote for Wired magazine this past fall, Bosh simply takes “comfort in having a basic understanding of how something as big as this works.”

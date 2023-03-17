@@ -1,14 +1,14 @@
 ---
 title: Twitter Is Not a Failure
+date: 2016-02-18 05:00:00 Z
 subtitle: 
-date: 2016-02-18T05:00:00.000Z
 publication: _publications/atlantic.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 To listen to Wall Street tell the story, Twitter is an abject failure. The stock is down more than 50 percent since co-founder Jack Dorsey took over as CEO last year. User growth and revenue prospects have stagnated, and investors see little chance of a major turnaround.
 
 Yet only in the twisted logic of the startup economy could a company with around $500 million of revenue per quarter—and more, most recently—be called a failure. That's half a billion dollars for a tiny application that simply lets people send out 140 characters to each other. The economic activity it has generated is nothing short of miraculous.

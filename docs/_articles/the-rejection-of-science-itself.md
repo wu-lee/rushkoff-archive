@@ -1,16 +1,16 @@
 ---
-publication: _publications/the-edge.md
 title: The Rejection of Science Itself
+date: 2015-12-26 05:00:00 Z
+publication: _publications/the-edge.md
 subtitle: ''
 image: ''
-date: 2015-12-26 00:00:00 -0500
 blurb: ''
 notes: 'Source: [https://www.edge.org/annual-question/2016/response/26666](https://www.edge.org/annual-question/2016/response/26666
   "https://www.edge.org/annual-question/2016/response/26666")'
 refs: ''
 sources: ''
-
 ---
+
 Annual Question:
 
 [WHAT DO YOU CONSIDER THE MOST INTERESTING RECENT \[SCIENTIFIC\] NEWS? WHAT MAKES IT IMPORTANT?](https://www.edge.org/annual-question/what-do-you-consider-the-most-interesting-recent-scientific-news-what-makes-it)

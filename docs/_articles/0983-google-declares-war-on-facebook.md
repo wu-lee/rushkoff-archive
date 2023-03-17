@@ -1,7 +1,7 @@
 ---
 title: Google Declares War on Facebook
+date: 2009-11-04 05:00:00 Z
 subtitle: 
-date: '2009-11-04T05:00:00.000Z'
 publication: _publications/daily_beast.md
 blurb: To Google, it's just a new, relatively minor set of upgrades to one of its
   many applications. To Facebook, it's a declaration of war. Google wants in on “social,”
@@ -9,8 +9,8 @@ blurb: To Google, it's just a new, relatively minor set of upgrades to one of it
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 But a scorched-earth battle over our social networks may leave casualties in its wake, particularly if we start to look at our friends the way either of these companies do.
 
 Google announced this week that it is putting a few new bells and whistles on its Friend Connect software. Users visiting sites that have the application installed will be able to fill out little profiles of themselves and see the profiles of others who have been there. Presumably, regular visitors of the same sites will seek each other out based on shared opinions and preferences. And make friends. Think of it as Facebook functionality without the Facebook.

@@ -1,7 +1,7 @@
 ---
 title: Economics is Not a Natural Science
+date: 2009-08-11 04:00:00 Z
 subtitle: ''
-date: 2009-08-11T00:00:00.000-04:00
 publication: _publications/the-edge.md
 blurb: We must stop perpetuating the fiction that existence itself is dictated by
   the immutable laws of economics. These so-called laws are, in actuality, the economic
@@ -15,8 +15,8 @@ notes: 'Source: https://www.edge.org/conversation/economics-is-not-natural-scien
 refs: ''
 sources: ''
 image: ''
-
 ---
+
 The marketplace in which most commerce takes place today is not a pre-existing condition of the universe. It's not nature. It's a game, with very particular rules, set in motion by real people with real purposes. That's why it's so amazing to me that scientists, and people calling themselves scientists, would propose to study the market as if it were some natural system — like the weather, or a coral reef.
 
 It's not. It's a product not of nature but of engineering. And to treat the market as nature, as some product of purely evolutionary forces, is to deny ourselves access to its ongoing redesign. It's as if we woke up in a world where just one operating system was running on all our computers and, worse, we didn't realize that any other operating system ever did or could ever exist. We would simply accept Windows as a given circumstance, and look for ways to adjust our society to its needs rather than the other way around.

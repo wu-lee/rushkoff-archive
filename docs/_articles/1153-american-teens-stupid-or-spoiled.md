@@ -1,14 +1,14 @@
 ---
 title: 'American Teens: Stupid or Spoiled?'
+date: 2003-10-17 16:00:00 Z
 subtitle: 
-date: '2003-10-17T16:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 America's teen market may prove difficult for snazzy handset manufacturers to penetrate. But the real reasons for upgrade reluctance might surprise them.
 
 I hadn't been to Europe for close to a year, and have to admit I was surprised, even inspired by the speed with which young people are upgrading their handheld wireless devices over there. As I strolled the streets of many a London neighborhood, I saw kids taking photos, shooting video, sending real email (not just text messages or sms, but genuine internet mail), and even mo-blogging, nearly everywhere I looked.

@@ -1,7 +1,8 @@
 ---
 title: World Conquest Through Bottom Up Media
+date: 2008-03-31 04:00:00 Z
+published: false
 subtitle: 
-date: '2008-03-31T04:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: So how do the owners of handheld wireless devices take over the world? Easy.
   By using them.
@@ -14,8 +15,8 @@ refs: '[{"text"=>"Douglas Rushkoff", "original"=>"http://www.rushkoff.com/", "ar
   articles, cover art, biography, tour schedule, and mailing list.", "url"=>"https://rushkoff.com/",
   "site_name"=>"Rushkoff"}, "twitter_card"=>{"card"=>"summary"}, "favicon"=>"http://www.rushkoff.com/favicon-16x16.png"}}]'
 sources: 
-published: false
 ---
+
 So how do the owners of handheld wireless devices take over the world? Easy. By using them.
 
 Perhaps it more a testament to the sorry state of democracy in the United States than to any 'renaissance shift' that cell phones offer a genuine opportunity to restore the public will to national affairs. Our mishandled, if not miscounted, presidential election put the fate of the highest office in the land in the hands of the Supreme Court, who gleefully expanded its own powers in order to do so. The next set of congressional elections featured such anti-democratic tactics as handing out flyers in poor neighborhoods announcing that the election would be held on the wrong day, or that all traffic tickets would have to be paid to officials waiting outside the voting booth.

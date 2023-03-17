@@ -1,13 +1,12 @@
 ---
 title: Content Deliverance
+date: 2004-01-25 17:00:00 Z
 subtitle: 
-date: '2004-01-25T17:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
 
 Content Management is for losers. Young people may have discovered the dark truth about digital media: the person who wins the right to store a piece of data has actually won the booby prize.

@@ -1,14 +1,14 @@
 ---
 title: Pivoting Inward
+date: 2015-04-01 16:00:00 Z
 subtitle: 
-date: '2015-04-01T16:00:00.000Z'
 publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Back when I was growing up in the 1970’s, Radio Shack was always one of my favorite stores. I was an electronics geek, fascinated by crystal radio kits, diodes and capacitors. A blank circuit board and pile of transistors was an invitation to make pretty much anything one could imagine: a walkie-talkie, a battery tester, a lie detector. If there were plans, I could follow them. If there were no plans, well, there was Larry at the New Rochelle Radio Shack who could point me in the right direction. 
 
 The electronics age was the original tech “maker” era, after all - when crafts transitioned from wood and glue to wires and solder. And like many technology geeks of my generation, I found myself saddened yet unsurprised by Radio Shack’s recent bankruptcy. Not too saddened to miss out on the clearance sales as a couple of thousand retail outlets are closed, and not too cynical to miss the fact that the only things people were buying were the little parts and tools in the back of the store - the small area still dedicated to Radio Shack’s original technology hackers. 

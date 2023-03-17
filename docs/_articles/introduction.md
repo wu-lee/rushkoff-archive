@@ -1,15 +1,15 @@
 ---
-publication: _publications/we-know-what-you-want.md
 title: Introduction
+date: 2005-02-01 05:00:00 Z
+publication: _publications/we-know-what-you-want.md
 subtitle: ''
 image: ''
-date: 2005-02-01 00:00:00 -0500
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-
 ---
+
 These are challenging times for conscious people. More challenging than I usually allow myself to believe.
 
 I originally wrote _Coercion: Why We Listen to What "They" Say_ as a primer to the world and ideas I had been describing in my previous books. I had been so excited about the prospect of interactivity, virtual community, and consciousness expansion, that I thought all I needed to do was write about these new possibilities and everyone would jump in. My earliest books, _Cyberia_, _Media Virus_ and _Playing the Future_, were happy announcements of the fact that the tools of reality creation were now in the hands of average people. We could all read the news, report the news, and make the news - as well as anything else we chose to. Seize the day. The world is ours.

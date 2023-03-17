@@ -1,7 +1,7 @@
 ---
 title: Occupy Wall Street Is Not a Protest but a Prototype
+date: 2011-10-26 00:00:00 Z
 subtitle: 
-date: '2011-10-26T00:00:00.000Z'
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -70,8 +70,8 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   boys banging on drums comprise the bulk of the imagery we see of the Occupy Wall
   Street movement. Stock brokers look on, police man the barricades, and what appears
   to be a […]", "dateLastCrawled"=>"2020-06-19T02:46:00.0000000Z"}]'
-published: true
 ---
+
 The more familiar something looks, the less threatening it seems. This is why images of funny-looking college students marching up Broadway or shirtless boys banging on drums comprise the bulk of the imagery we see of the Occupy Wall Street movement. Stock brokers look on, police man the barricades, and what appears to be a traditional protest movement carries on another day, week, or month.
 
 But “Occupy” is anything but a protest movement. That's why it has been so hard for news agencies to express or even discern the “demands” of the growing legions of Occupy participants around the nation, and even the world. Just like pretty much everyone else on the planet, occupiers may want many things to happen and other things to stop, but the occupation is not about making demands. They don’t want anything from you, and there is nothing you can do to make them stop. That’s what makes Occupy so very scary and so very promising. It is not a protest, but a prototype for a new way of living. 

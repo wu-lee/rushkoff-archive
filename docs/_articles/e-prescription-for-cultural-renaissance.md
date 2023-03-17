@@ -1,9 +1,9 @@
 ---
-publication: _publications/ecstasy-the-complete-guide.md
 title: E-Prescription for Cultural Renaissance
+date: 2001-01-01 05:00:00 Z
+publication: _publications/ecstasy-the-complete-guide.md
 subtitle: ''
 image: ''
-date: 2001-01-01 00:00:00 -0500
 blurb: ''
 notes: |-
   Source: [http://www.sterneck.net/drogen/rushkoff-drugs/index.php](http://www.sterneck.net/drogen/rushkoff-drugs/index.php "http://www.sterneck.net/drogen/rushkoff-drugs/index.php")
@@ -11,8 +11,8 @@ notes: |-
   Date: 2001 per CV
 refs: ''
 sources: ''
-
 ---
+
 Every culture and subculture get the drugs that they deserve. In fact, almost every major cultural movement in history can be traced back to the chemicals they did or didn't have.  
   
 While ancient nomadic tribes experienced regular psychedelic excursions by eating the mushrooms that grew on the dung of the cattle herds they followed, early agrarian cultures were denied the privilege (and spared the hazards) of such a drug-inspired social system. Historians tracing the shift in value systems towards property ownership and in psychology towards the development and maintenance of ego too often ignore the impact that these natural psychedelics must have had on these early cultures.  

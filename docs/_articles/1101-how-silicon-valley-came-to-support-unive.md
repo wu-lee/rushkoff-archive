@@ -1,14 +1,14 @@
 ---
 title: How Silicon Valley Came to Support Universal Basic Income
+date: 2018-10-10 16:56:02 Z
 subtitle: 
-date: '2018-10-10T16:56:02.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 In 2016, I was invited to Uber's headquarters (then in San Francisco) to talk about the failings of the digital economy and what could be done about it. Silicon Valley firms are the only corporations I know that ask for private talks for free. They don't even cover cab fare. Like Google and Facebook, Uber figures that the chance to address their developers and executives offers intellectuals the rare privilege of influencing the digital future or, maybe more crassly, getting their books mentioned on the company blog.
 
 For authors of business how-to books, it makes perfect sense. Who wouldn't want to brag that Google is taking their business advice? For me, it was a little different. Throwing Rocks at the Google Bus was about the inequity embedded in the digital economy: how the growth of digital startups was draining the real economy and making it harder for people to participate in creating value, make any money, or keep up with rising rents.

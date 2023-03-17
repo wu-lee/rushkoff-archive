@@ -1,9 +1,9 @@
 ---
-publication: _publications/uses-of-blogs.md
 title: Blogs and the Communications Renaissance
+date: 2006-06-01 04:00:00 Z
+publication: _publications/uses-of-blogs.md
 subtitle: ''
 image: ''
-date: 2006-06-01 00:00:00 -0400
 blurb: ''
 notes: |-
   Date from Amazon
@@ -11,8 +11,8 @@ notes: |-
   Author: Joanne Jacobs & Douglas Rushkoff
 refs: ''
 sources: ''
-
 ---
+
 Finally it's becoming practical for people with little or no technical expertise whatsoever to find their voice.
 
 Now we just need ways to make sure we know how to hear them....¹

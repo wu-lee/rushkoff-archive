@@ -1,7 +1,7 @@
 ---
 title: The Decade Google Made You Stupid
+date: 2009-12-13 00:00:00 Z
 subtitle: 
-date: '2009-12-13T00:00:00.000Z'
 publication: _publications/daily_beast.md
 blurb: The results are a bit scary. Not only have computers changed the way we think,
   they've also discovered what makes humans think—or think we're thinking. At least
@@ -9,8 +9,8 @@ blurb: The results are a bit scary. Not only have computers changed the way we t
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Here are the four things cognizant people should know about the decade when computers mastered our cognition.
 
 **GOOGLE MAKES US STUPID**

@@ -1,14 +1,14 @@
 ---
 title: The Dark Side of Reality TV
+date: 2007-05-23 04:00:00 Z
 subtitle: 
-date: '2007-05-23T04:00:00.000Z'
 publication: _publications/discover.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 We thought they had ended over 40 years ago, but Stanley Milgram's infamous psychology experiments are back—in a crueler and more public form than he ever devised.
 
 The original experiments were inspired by the Nuremberg trial of Adolf Eichmann, who engineered the transport of Jews to Nazi concentration camps. Milgram wanted to know if German war criminals could have simply been “following orders,” as they claimed, and not truly complicit in the death camp atrocities. To find out, he set up an experiment in which subjects were instructed by men in white lab coats to deliver increasingly intense electric shocks to victims who screamed in pain, complained of a heart condition, and begged for the experiment to be halted. More than half of the subjects carried out the orders despite their own mounting anxiety, slowly increasing the electric shocks to seemingly lethal levels. Although they were later informed that their victims were just actors, the subjects suffered lasting psychological trauma after discovering just what they themselves were capable of. (Such experiments were declared unethical by the American Psychological Association in 1973.)

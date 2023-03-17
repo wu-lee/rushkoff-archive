@@ -1,14 +1,14 @@
 ---
 title: Buying a Computer for Mom
+date: 2000-07-01 04:00:00 Z
 subtitle: 
-date: '2000-07-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Why it's so hard to find something that works, anymore.
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I've been avoiding this moment for a long time. But eventually, I knew I'd have to deal with it.
 
 Having been involved with computers for, what, the past twenty five years -- I'd think I was quite capable of picking a system suitable for my soon-to-be 63-year-old mother's introduction to cyberspace. "Just get me something that will do America Online," she told me. "And maybe print out some letters. And faxing. I'd love to get one of those printer/fax/scanner copier machines," she said, referring to something she saw at my brother's house. "I can do that, right?"

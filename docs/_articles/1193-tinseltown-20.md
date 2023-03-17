@@ -1,14 +1,14 @@
 ---
 title: Tinseltown 2.0
+date: 2005-02-23 17:00:00 Z
 subtitle: 
-date: '2005-02-23T17:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 University of Southern California's Interactive Media Division takes on mobile technology
 
 The parking lot known as present-day Los Angeles may prove to be the ideal Petri dish for the development of new mobile technologies and experiences. The city is central to the production of everything from music and film to television, videogames and just about any other twentieth-century media one can name. Even the branded-entertainment powerhouses live there.

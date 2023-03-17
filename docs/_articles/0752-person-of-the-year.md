@@ -1,14 +1,14 @@
 ---
 title: Person of the Year
+date: 2007-03-16 04:00:00 Z
 subtitle: 
-date: '2007-03-16T04:00:00.000Z'
 publication: _publications/discover.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I wonder how many people picked up Time's “Person of the Year” issue, gazed into the little silver mirror on the cover, and felt genuinely proud to be among the 300-million-or-so people the magazine's editors felt deserved this special honor. After all, we had some stiff competition.
 
 I can almost see Time’s editors sitting around the conference room table in their crisp shirts—frozen by the possibility of offending subscribers in red states or blue states, or both—finally throwing up their hands and turning the whole conundrum on its head: If these pesky Internet-blogging readers are going to give us hell no matter who we choose, why not just choose them?

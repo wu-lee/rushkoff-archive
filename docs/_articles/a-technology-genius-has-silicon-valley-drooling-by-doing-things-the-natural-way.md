@@ -1,17 +1,17 @@
 ---
-publication: _publications/nyt_syndicate_guardian_of_london.md
 title: A technology genius has Silicon Valley drooling - by doing things the natural
   way
+date: 1999-10-06 04:00:00 Z
+publication: _publications/nyt_syndicate_guardian_of_london.md
 subtitle: ''
 image: ''
-date: 1999-10-06 00:00:00 -0400
 blurb: ''
 notes: '[https://www.theguardian.com/technology/1999/oct/07/onlinesupplement17](https://www.theguardian.com/technology/1999/oct/07/onlinesupplement17
   "https://www.theguardian.com/technology/1999/oct/07/onlinesupplement17")'
 refs: ''
 sources: ''
-
 ---
+
 You know the way the horizons in video games are often covered with mist or obscured by clouds? Or have you ever played a racing game and made the car go so fast that you could see the road and railings being drawn by the computer as you moved? That's because the way a computer or video game console currently renders pictures and landscapes is limited by the processing power of its microchip and the capabilities of its graphics card. Things like horizons are so "far" away and difficult to draw that it's easier to simply mask them. And since digital graphics like polygons with textured surfaces require so much memory to render, most games draw only the part of the world you are in at the time.
 
 Each new scene or room you enter doesn't exist until you get there. Enter Tom Barbalet, a 22-year-old Australian technology genius who has been working since he was a teenager on an alternative, much simpler way to get computers to create the simulations on which video games, virtual reality, and, eventually, networked "convergence" environments will depend. He just passed through Silicon Valley last week demonstrating his homemade graphics engine, and everyone from the designers at Nintendo to programmers at Apple has been left in shock. While early computers used to render their pictures using simple math equations to draw lines, curves, and surfaces, the invention of graphics cards and polygon engines moved things in a different direction.

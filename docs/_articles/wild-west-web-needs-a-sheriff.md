@@ -1,15 +1,15 @@
 ---
 title: Wild West Web Needs a Sheriff
+date: 2014-01-16 05:00:00 Z
 subtitle: ''
-date: 2014-01-16T00:00:00.000-05:00
 publication: _publications/cnn.md
 blurb: ''
 notes: 'Source: https://rushkoff.com/wild-west-web-needs-a-sheriff/ . Date from CV.'
 refs: ''
 sources: ''
 image: ''
-
 ---
+
 This week, champions of the “open net” are decrying a U.S. Court of Appeals decision striking down an FCC ruling that required Internet service providers to be neutral in their restrictions on bandwidth.
 
 The idea here is that giant bandwidth users, like Netflix or YouTube, will be required to pay access providers, like Verizon or Time Warner Cable, for all that video they’re streaming to the likes of us. Maybe they’d even be able to buy themselves a special faster lane on the Internet for their traffic.

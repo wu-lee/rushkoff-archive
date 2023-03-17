@@ -1,7 +1,8 @@
 ---
 title: 21st Century Renaissance
+date: 2008-03-31 04:00:00 Z
+published: false
 subtitle: 
-date: '2008-03-31T04:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: 
 notes: 
@@ -13,8 +14,8 @@ refs: '[{"text"=>"Douglas Rushkoff", "original"=>"http://www.rushkoff.com/", "ar
   articles, cover art, biography, tour schedule, and mailing list.", "url"=>"https://rushkoff.com/",
   "site_name"=>"Rushkoff"}, "twitter_card"=>{"card"=>"summary"}, "favicon"=>"http://www.rushkoff.com/favicon-16x16.png"}}]'
 sources: 
-published: false
 ---
+
 Today's renaissance makes us feel that our self-expression matters, too.
 
 Yes, it certainly looks like doom and gloom out there. Between the paired threats of terrorism and totalitarianism, it's hard to see much on the horizon worthy of celebration. But maybe, for just a moment, we should entertain the possibility that - in the big picture - this isn't a truly dark moment, at all. Rather, it's a dark, fearful reaction to a profoundly transformative era.

@@ -1,7 +1,8 @@
 ---
 title: Networked Plush
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: Inserting a cell phone or an Airport in a fuzzy doll just won't cut it. It's
   time for toys to network.
@@ -24,8 +25,8 @@ refs: '[{"text"=>"Winnie the Pooh", "original"=>"http://www.fisher-price.com/us/
   "site_name"=>"BuyDomains.com", "images"=>[{"url"=>"https://www.buydomains.com/browser/img/logo-header.png"}],
   "type"=>"website"}, "title"=>"Buy Domains - needies.com is for sale!", "favicon"=>"http://static.buydomains.com//browser/img/favicon.ico?version=202007220"}}]'
 sources: 
-published: false
 ---
+
 Inserting a cell phone or an Airport in a fuzzy doll just won't cut it. It's time for toys to network.
 
   

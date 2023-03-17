@@ -1,14 +1,14 @@
 ---
 title: Why Johnny Can't Program
+date: 2010-09-30 04:00:00 Z
 subtitle: 
-date: 2010-09-30T04:00:00.000Z
 publication: _publications/huffington_post.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 Ask any kid what Facebook is for and he’ll tell you it’s there to help him make friends. What else could he think? It’s how he *does* make friends. He has no idea the real purpose of the software, and the people coding it, is to monetize his relationships. He isn’t even aware of those people, the program, or their purpose.
 
 The kids I celebrated in my early books as “digital natives” capable of seeing through all efforts of big media and marketing have actually proven *less* capable of discerning the integrity of the sources they read and the intentions of the programs they use. If they don’t know what the programs they are using are even for, they don’t stand a chance to use them effectively. They are less likely to become power users than the used.

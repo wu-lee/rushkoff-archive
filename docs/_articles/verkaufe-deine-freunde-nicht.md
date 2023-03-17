@@ -1,15 +1,15 @@
 ---
-publication: _publications/gdi-impuls.md
 title: Verkaufe deine Freunde nicht
+date: 2011-01-01 05:00:00 Z
+publication: _publications/gdi-impuls.md
 subtitle: ''
 image: ''
-date: 2011-01-01 00:00:00 -0500
 blurb: ''
 notes: "Issue 1  \n2001"
 refs: ''
 sources: ''
-
 ---
+
 Digitale Medien handeln nach wie vor von den Beziehungen zwischen Menschen. In der ständigen Koevolution von Mensch und Technologie entstehen immer mehr Instrumente, die uns verbinden - und die lnstrumente, die dies nicht tun, lernen es schnell. Wir müssen uns stets vor Augen führen, dass bei digitalen Medien der Kontakt mit anderen Menschen im Mittelpunkt stehen sollte. Und nicht ihre Informationen - oder schlimmer, ihr Geld.
 
 Fast unmittelbar nachdem die ersten Computernetzwerke für das US-amerikanische Verteidigungsministerium entwickelt wurden, haben die Betreiber dieser Systeme etwas Seltsames bemerkt: Die Wissenschaftler, die Nutzerkonten hatten, verwendeten immer mehr Zeit und Bandbreite darauf, über ihre persönlichen Forschungsinteressen und bevorzugten Science-Fiction-Romane zu sprechen, anstatt über ihre offiziellen Aufgaben.

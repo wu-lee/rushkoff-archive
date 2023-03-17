@@ -1,14 +1,14 @@
 ---
 title: Hacking The Economy
+date: 2009-03-19 04:00:00 Z
 subtitle: 
-date: 2009-03-19T04:00:00.000Z
 publication: _publications/h_plus.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 Hacking the economy is easier than it looks.
 
 The first step, of course, is to remember that the economy itself is just a model. It’s a way of understanding the world as a series of transactions made by rational, self-interested beings working to maximize value for themselves. That’s supposedly the given.

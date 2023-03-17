@@ -1,14 +1,14 @@
 ---
 title: Too Many Secrets
+date: 1996-12-01 05:00:00 Z
 subtitle: 
-date: '1996-12-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Thoughts on Cryptography, Privacy, and Secrets
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 There are secrets, and there are secrets about secrets. Meta-secrets.
 
 For example, it was recently revealed that members of the United States and British intelligence communities knew about Nazi concentration camp atrocities long before they released this information to legislators and the public. This withholding of information delayed the development of global anti-Nazi sentiment, and kept the holocaust from becoming a top priority. We simply pretended not to know about the death camps.

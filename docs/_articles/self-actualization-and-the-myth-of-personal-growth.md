@@ -1,15 +1,15 @@
 ---
 title: Self-Actualization and the Myth of Personal Growth
+date: 2021-02-11 05:00:00 Z
 subtitle: How the counterculture surrendered communal well-being to individual enlightenment
-date: 2021-02-11 00:00:00 -0500
 publication: _publications/medium.md
 blurb: ''
 notes: Pasted from https://medium.com/team-human/self-actualization-and-the-myth-of-personal-growth-67c12e5310f3
 refs: ''
 sources: ''
-image: /uploads/self-actualization-and-the-myth-of-personal-growth.jpeg
-
+image: "/uploads/self-actualization-and-the-myth-of-personal-growth.jpeg"
 ---
+
 Many Westerners have come to understand the problems inherent in a society obsessed with growth and have struggled to assert a more timeless set of spiritual sensibilities. But, almost invariably, such efforts get mired in our ingrained notions of personal growth, progress, and optimism.
 
 Frank Baum, the author of _The Wizard of Oz_, embodied this dynamic. He was not only a devoted follower of Russian spiritualist Madame Blavatsky but also the founder of the first magazine on window dressing and retail strategies for department stores. Dorothy’s journey down the Yellow Brick Road combined the esoteric wisdom of his teacher with the can-do optimism of early 20th-century American consumerism. The gifts Dorothy and her companions finally receive from the Wizard merely activate the potentials they had with them all along. All they really needed was a shift in consciousness, but good products and salesmanship didn’t hurt. Similarly, Rev. Norman Vincent Peale’s “positive thinking” derived from occult and transcendentalist roots but caught on only when he framed it as a prosperity gospel. He taught the poor to use the power of prayer and optimism to attain the good life and helped the wealthy justify their good fortune as an outward reward for their inner faith.

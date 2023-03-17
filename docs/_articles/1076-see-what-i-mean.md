@@ -1,14 +1,14 @@
 ---
 title: See What I Mean?
+date: 2015-12-01 17:00:00 Z
 subtitle: 
-date: '2015-12-01T17:00:00.000Z'
 publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 The first people I knew who were truly captivated by the net were Deadheads. These West Coast tripsters saw connected machines as the technology through which they could finally share hallucinatory spaces together. As psychedelics champion Terence McKenna once explained to me, virtual reality would be a place where “you can quite literally see what I mean.” 
 
 This notion of a shared visual landscape – a place where we can express ourselves through colors and shapes and vibrating lights – may actually be coming to a computer screen near you. 

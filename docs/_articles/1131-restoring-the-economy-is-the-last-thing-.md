@@ -1,14 +1,14 @@
 ---
 title: Restoring the Economy Is the Last Thing We Should Want
+date: 2020-04-27 16:00:00 Z
 subtitle: 
-date: '2020-04-27T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 'Blah the Black of Black '
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Everyone wants to know when we’re going to get the economy started up again, and just how many lives we’re willing to surrender before we do. We’ve all been made to understand the dilemma: The sooner we “open up” American and get back to our jobs, the more likely we spread Covid-19, further overwhelming hospitals and killing more people. Yet the longer we wait, the more people will suffer and die in other ways.
 
 I think this is a false choice. Yes, it may be true that every 1% rise in unemployment leads to a corresponding 1% rise in suicides. And it’s true that an extended freeze of the economy could shorten the lifespan of 6.4 million Americans entering the job market by an average of about two years. But such metrics say less about the human cost of the downturn than they do about the dangerously absolute dependence of workers on traditional employment for basic sustenance — an artifact of an economy that has been intentionally rigged to favor big banks and passive shareholders over small and local businesses that actually provide goods and services in a sustainable way.

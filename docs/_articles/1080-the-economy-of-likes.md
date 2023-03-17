@@ -1,14 +1,14 @@
 ---
 title: 'The Economy of Likes '
+date: 2014-06-01 16:00:00 Z
 subtitle: 
-date: '2014-06-01T16:00:00.000Z'
 publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 So in spite of its interactive patina, the digital economy continues the industrial practice of preventing real people from participating in the growth economy – at least as its beneficiaries. We still get to work and we still end up living and socializing on a landscape that feels much more like business than pleasure. There’s just no money. 
 
 In fact, the digital landscape so effectively monopolizes economic activity that most people have almost nothing left to be extracted. That’s why in order to maintain some semblance of growth, Internet companies had to find a way to extract something other than cash from its users. Something measurable, countable, and attractive enough to shareholder to justify their real cash investment in the companies’ stock. 

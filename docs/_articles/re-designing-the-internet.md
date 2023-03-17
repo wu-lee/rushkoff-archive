@@ -1,16 +1,16 @@
 ---
-publication: _publications/medium.md
 title: "(Re)-Designing the Internet"
+date: 2021-11-01 04:00:00 Z
+publication: _publications/medium.md
 subtitle: Invitation to a new course I’m teaching with Jeff Jarvis
 image: "/uploads/0_f2wmpymmx9rhxlu9.jpg"
-date: 2021-11-01 00:00:00 -0400
 blurb: ''
 notes: 'Source: [https://rushkoff.medium.com/re-designing-the-internet-2593fe7dae8d](https://rushkoff.medium.com/re-designing-the-internet-2593fe7dae8d
   "https://rushkoff.medium.com/re-designing-the-internet-2593fe7dae8d")'
 refs: ''
 sources: ''
-
 ---
+
 What if the Internet were still being designed? What if we knew everything we now know about surveillance capitalism and social media addiction and Instagram depression and fake news, and had the chance for a big do-over?
 
 Well, we do. No matter how seemingly entrenched the monopolies of Facebook and Google, the Internet is still a work in progress. Code is not set in stone, it’s malleable. So are our network protocols, our software, our business models, regulatory statutes, and ethical frameworks.

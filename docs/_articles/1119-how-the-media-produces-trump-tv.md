@@ -1,14 +1,14 @@
 ---
 title: How the Media Produces Trump TV
+date: 2019-06-17 16:00:00 Z
 subtitle: 
-date: '2019-06-17T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 It’s easy to interpret Trump’s total domination of mainstream news media as the first true win for digital propaganda. For good reason: the fake news on Facebook, the weaponized memes of Cambridge Analytica, and the President’s own Twitter barrages appear to be eclipsing the fact-based reporting of mainstream journalists. But it’s not those messages themselves — especially not in their context online — that shape the narratives we use to understand our world; it’s the way they are broadcast through traditional media like print, radio and, most importantly, television.
 
 Much has been made of whether Trump has truly given up his previous job of running the Trump Organization. But the more important moonlighting involves another of his careers: that of reality television star and producer. It’s how he made the majority of his money, how he crafted his mythological origin story as a self-made billionaire, and how he controls the political narrative today. As long as television news journalists continue to submit to the logic of reality TV, Trump will remain in control of our national narrative, and likely the country as well.

@@ -1,5 +1,5 @@
 ---
 title: Political Perspectives
 url: ''
-
 ---
+

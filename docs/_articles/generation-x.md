@@ -1,15 +1,15 @@
 ---
-publication: _publications/a-magical-universe-the-best-of-magical-blend-magazine.md
 title: Generation X
+date: 1996-01-01 05:00:00 Z
+publication: _publications/a-magical-universe-the-best-of-magical-blend-magazine.md
 subtitle: ''
 image: ''
-date: 1996-01-01 00:00:00 -0500
 blurb: ''
 notes: ''
 refs: ''
 sources: ''
-
 ---
+
 with Mike Gorman and DNA
 
 Illiterate channel surfers? Couch potatoes? Apathetic video junkies? Socially alienated ciphers? Journalists, college professors, avatars of popular culture, parents, marketing experts and twenty-somethings, themselves, have been trying to define the post-Baby Boomer generation since hippies turned into yuppies and the bloated eighties gave way to the more sedate nineties. GenXers are too young to remember the assassination of Kennedy, and just old enough to remember the embarrassing end of disco. They didn't profit from the excesses of the eighties, but they are guaranteed to pay for them. For a long time, Generation X was defined more by what it was not than what it was.

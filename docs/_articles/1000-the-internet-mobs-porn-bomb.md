@@ -1,7 +1,7 @@
 ---
 title: The Internet Mob's Porn Bomb
+date: 2010-01-10 05:00:00 Z
 subtitle: 
-date: '2010-01-10T05:00:00.000Z'
 publication: _publications/daily_beast.md
 blurb: 'Members of 4chan''s notorious \"random\" board, known as /b/, were swarming
   like hornets again last week. And rather than stinging Scientology, Sarah Palin,
@@ -10,8 +10,8 @@ blurb: 'Members of 4chan''s notorious \"random\" board, known as /b/, were swarm
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 For those unfamiliar with its history, 4chan is a massive online bulletin board, believed to be the second-largest in the world, created in 2003 by a then-15-year-old named Christopher Poole who goes by the screen name “moot.” Its original purpose was to allow users to post graphics easily, instead of just text—much in the fashion of similar sites in Japan dedicated to manga and anime. But the ability for users to post anonymously has also made the site an enormous gathering place for those who wish to exploit this facelessness, turning the Internet into a tool for exacting mob justice on people and institutions they consider enemies. This could mean anything from crashing your Web site to filling your inbox with eternal spam, publishing your identity and phone number to hacking your bank records.
 
 The question becomes whether YouTube's removal of the videos merely served as an excuse for a virtual rampage. Eight-year-old LukeyWes1234 was just this week's Rodney King.

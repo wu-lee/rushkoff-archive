@@ -1,15 +1,15 @@
 ---
 title: Abolish Debates Once and for All
+date: 2020-10-23 16:00:00 Z
 subtitle: 
-date: '2020-10-23T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
-image: /uploads/1059-abolish-debates-once-and-for-all.jpeg
+image: "/uploads/1059-abolish-debates-once-and-for-all.jpeg"
 ---
+
 Almost everyone seems to think last night’s debate was so much better than the first. To me, that’s a bit like saying having a stroke is much better than suffering a heart attack. It’s not. Even if it’s less painfully dramatic to watch, the damage is the same — or, in this case, actually worse.
 
 A less unhinged president speaking lies in a calm voice is not fundamentally an improvement over a totally unhinged president shouting lies out of turn. It simply camouflages the inadequacy of his arguments under the veneer of a well-established format. Indeed, the debate structure itself enables and legitimizes the untethering of civic discourse from on-the-ground reality. This can’t go on. Blame the moderators all you want, but the form itself is untenable. Or at least it’s been rendered obsolete by a combination of television values and intentional spoilsporting.

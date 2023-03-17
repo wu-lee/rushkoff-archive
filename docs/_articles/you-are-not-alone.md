@@ -1,15 +1,15 @@
 ---
-publication: _publications/prime-times-writers-on-their-favorite-tv-shows.md
 title: You Are Not Alone
+date: 2004-01-01 05:00:00 Z
+publication: _publications/prime-times-writers-on-their-favorite-tv-shows.md
 subtitle: MST3K, LOST IN SPACE, and the Reality of Science Fiction
 image: ''
-date: 2004-01-01 00:00:00 -0500
 blurb: ''
 notes: 2004 from CV
 refs: ''
 sources: ''
-
 ---
+
 TV isn't just for the masses. Sure, there are those huge, national spectacle moments that stay in our individual and cultural memory as if they were implanted surgically: O.J. Simpson pretending that he couldn't fit into his gloves. Tonya Harding whining about her improperly tied figure skates. Rhoda taking the subway to her own wedding. Nixon resigning. Radar O'Reilly saluting through tears on the last episode of _M*A*S*H_. Seinfeld and company in their prison cell. These moments bring us all together because we've all seen them--and we know that so many others watched them at the very same time.
 
 But there's another, even more profound way for television to nest itself into our consciousness. It can make any one of us believe we are the only person in the world who really gets what it is going on. It was during those lonely moments--when it was just me and the tube against an otherwise nonsensical world--that my real relationship with this very personal medium was forged.

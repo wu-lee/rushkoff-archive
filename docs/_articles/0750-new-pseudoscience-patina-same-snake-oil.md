@@ -1,14 +1,14 @@
 ---
 title: New Pseudoscience Patina, Same Snake Oil
+date: 2007-06-20 04:00:00 Z
 subtitle: 
-date: '2007-06-20T04:00:00.000Z'
 publication: _publications/discover.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 As the saying goes, opposites attract, as when an electron races to a positively charged ion, or the north pole of a magnet pulls the south pole of another. But try telling that to proponents of The Secret, the latest in a long line of spiritual systems aimed at selling personal prosperity through faulty scientific reasoning.
 
 In case you've missed it on Oprah or Larry King Live, The Secret is a self-help DVD and companion book synthesizing the pitches of a few dozen of today’s most prominent self-help gurus. Its creator, an Australian named Rhonda Byrne, claims there’s a single truth underlying all these systems. It’s more ancient than the Bible and has been intentionally hidden from human beings for just as long. The great secret? Positive thinking. Abundance is a state of mind: Think healthy, and you’ll be healthy. Or more to the point, think rich, and you’ll get rich. Most of the spiritual teachers in The Secret are wealth-seminar leaders who display the book’s logo on their Web sites. The Secret has certainly worked wonders for its marketers: More than 1.5 million DVDs have been sold, and the book hit number one on The New York Times best-seller list of hardcover advice books.

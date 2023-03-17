@@ -1,14 +1,14 @@
 ---
 title: These Streets Were Made for Talking
+date: 2004-06-01 16:00:00 Z
 subtitle: 
-date: '2004-06-01T16:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Using utterly backwards-compatible technologies, a new mobile service lets city streets tell their histories to anyone with a cell phone.
 
 A walk through New York's Lower East Side betrays very little about its history. Sure, a few apartment buildings have Jewish stars engraved near the roofs, and a couple of bodegas still sport the remnants of Hebrew writing over the threshold.

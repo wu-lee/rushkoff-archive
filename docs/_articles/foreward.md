@@ -1,15 +1,15 @@
 ---
-publication: _publications/transformations-in-the-nervepool-the-rituals-and-zoacodes-of-ebon-fisher.md
 title: Foreward
+date: 2006-01-01 05:00:00 Z
+publication: _publications/transformations-in-the-nervepool-the-rituals-and-zoacodes-of-ebon-fisher.md
 subtitle: ''
 image: ''
-date: 2006-01-01 00:00:00 -0500
 blurb: ''
-notes: "2006"
+notes: '2006'
 refs: ''
 sources: ''
-
 ---
+
 It's not enough to come up with a great idea, or even the solution to one of the world's great problems. The trick is to communicate it to the right people. That means traversing civilizations, geography, and even time itself. For what if the person you truly need to hear your message doesn't speak your language, refuses to see through your cultural bias, or hasn't even been born yet? How can one communicate across these chasms?
 
 Writers, for the most part, are screwed. Text is rather disposable these days. Unless we create a work--usually one of fiction--that appeals to some mythological or fetishistic urge, we won't be published in the kind of leather-bound edition that merits preservation. Our work is kept alive as long as it is deemed immediately relevant, the canon, for the most part, having been already established.

@@ -1,14 +1,14 @@
 ---
 title: The Ghost in My Machine
+date: 1998-09-01 04:00:00 Z
 subtitle: 
-date: '1998-09-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The end of my association with Windows PC's.
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 It looks like I'll have to throw out my computer. Or at least donate it to some institution I don't really care for. Maybe if I take it apart and give away the components, the hex on the machine itself will be broken.
 
 For the past six months, I have been unable to access the Internet from my desktop computer. It's a pretty big machine, too. A Micron Pentium II 266, with 64megs of ram. Not state of the art, but not too shabby, either. Amazingly, about a week after the warrantee expired, my Internet connections began to terminate. I'd download a few emails, and then the connection would just slow down and stop. The silliest thing is that the computer would still think it was connected to the Internet. It just could do anything about it.

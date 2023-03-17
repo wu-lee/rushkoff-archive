@@ -1,15 +1,15 @@
 ---
 title: 'The Power of Three: When Technology, Business, and Marketing Converge - Parts
   I & II'
+date: 2008-10-16 00:00:00 Z
 subtitle: 
-date: 2008-10-16T00:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 The new generation of high-speed content delivery technologies marks a turning point for the mobile industry. It's finally time to abandon the notion that you are just cell phone companies or wireless access providers, and come to grips with the fact that you are selling, or at least supporting, an entirely new set of digital lifestyles.
 
   

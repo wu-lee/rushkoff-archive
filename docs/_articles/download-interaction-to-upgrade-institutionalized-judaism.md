@@ -1,16 +1,16 @@
 ---
-publication: _publications/forward.md
 title: Download Interaction To Upgrade Institutionalized Judaism
+date: 2003-07-11 04:00:00 Z
+publication: _publications/forward.md
 subtitle: ''
 image: ''
-date: 2003-07-11 00:00:00 -0400
 blurb: ''
 notes: '[https://forward.com/news/7638/download-interaction-to-upgrade-institutionalized/](https://forward.com/news/7638/download-interaction-to-upgrade-institutionalized/
   "https://forward.com/news/7638/download-interaction-to-upgrade-institutionalized/")'
 refs: ''
 sources: ''
-
 ---
+
 The emergence of the Internet a decade ago promised to do for media what Judaism did millennia earlier for religion: turn our understanding of the world from a vision received into a vision negotiated. Both cyberspace’s networkers and Israel’s God-wrestlers have sought to turn top-down affairs into participatory ones. Instead of passively listening to the stories of our programmers, they are empowered to write and share their own.
 
 But both of these revolutions seem to have been stalled — and by similar forces. The Internet has become entrenched in e-commerce. Organized Judaism has been stalled by the weight of its own institutions. And what’s needed, in both cases I believe, is more Jewishness.

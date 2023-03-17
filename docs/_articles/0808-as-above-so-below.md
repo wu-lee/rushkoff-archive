@@ -1,7 +1,8 @@
 ---
 title: As Above, So Below
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: The satellite dish at the heart of a new age conference dedicated to 'world
   peace' begs whether violent communications strategies only beget more of the same.
@@ -10,8 +11,8 @@ refs: '[{"text"=>"The Alliance for the New Humanity.", "original"=>"http://www.a
   "archive"=>"http://web.archive.org/web/20050306013541/http://www.anhglobal.org:80/main.html",
   "meta"=>{"description"=>"See related links to what you are looking for.", "favicon"=>"http://www.anhglobal.org/favicon.ico"}}]'
 sources: 
-published: false
 ---
+
 The satellite dish at the heart of a new age conference dedicated to 'world peace' begs whether violent communications strategies only beget more of the same.
 
   

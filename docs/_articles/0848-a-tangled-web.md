@@ -1,14 +1,14 @@
 ---
 title: A Tangled Web
+date: 1996-12-01 05:00:00 Z
 subtitle: 
-date: '1996-12-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Mixed feelings about the Internet's most TV-like application
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I've been feeling nostalgic lately. I miss the pre-World Wide Web Internet: the bulletin board conferences, chat rooms, text-only Usenet groups; the 1,200-baud-is-fast-enough situation that formed the fledgling virtual community. Today, as I visit the Web and click through its colorful pages, I find myself filled with a sense of loss. I go back to my old stomping grounds--the ancient newsgroups and IRC chats of the early days--and find them largely abandoned. Yet these are the places carrying what may be left of the Internet's soul.
 
 The promise of the Internet was manifold: self-expression, virtual community, and world peace...remember? The joy of going online was--and still can be--conversation. Whether in real-time chat rooms or posted discussion boards, contact was the hunger driving the expansion of the Net: communication with other people, exchange of ideas, and formation of new communities created in cyberspace.

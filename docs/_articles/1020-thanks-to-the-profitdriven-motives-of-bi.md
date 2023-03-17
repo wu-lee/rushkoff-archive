@@ -1,15 +1,15 @@
 ---
 title: Second Sight
+date: 2000-08-23 04:00:00 Z
 subtitle: 
-date: 2000-08-23 00:00:00 -0400
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: 
 notes: '[https://www.theguardian.com/technology/2000/aug/24/internetnews.onlinesupplement4](https://www.theguardian.com/technology/2000/aug/24/internetnews.onlinesupplement4
   "https://www.theguardian.com/technology/2000/aug/24/internetnews.onlinesupplement4")'
 refs: 
 sources: 
-
 ---
+
 Those of you who have followed this column for any length of time know that I resent the way business has taken over the internet. Since 1994, when the international research communications infrastructure was officially opened to business, I've critiqued what has appeared to me to be a degradation of the content, spirit, and mission of the interactive space.
 
 Well, I'm done complaining. Do not worry - I'm still as anti-corporate as the next guy. If anything, I have become so anti-corporate that I do not mind exploiting them as much as they think they are exploiting us. They mean to take as much as they can get from us, so what is so terrible about our taking whatever we can get from them? In other words: why not let big business build our internet?

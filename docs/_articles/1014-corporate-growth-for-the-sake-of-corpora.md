@@ -1,14 +1,14 @@
 ---
 title: Corporate Growth for the Sake of Corporate Growth
+date: 2016-04-20 04:00:00 Z
 subtitle: 
-date: 2016-04-20T04:00:00.000Z
 publication: _publications/atlantic.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 On at least one level, Bernie Sanders remains right: Billionaires are getting richer as everyone else gets poorer. Yes, the top one-tenth of 1 percent own nearly as much wealth as the bottom 90 percent, but the problem is, Sanders stops his rhetoric right there. Such statements lead both his followers and detractors to assume he's calling for a forced redistribution of all that money through taxes or other penalties.
 
 A better approach would be to focus on the economic system's inner workings and how they can be retooled. Right now, the American economy demands that businesses take a grow-or-die approach to their industries. Growth of capital ranks above everything else, such that even revenue pales in comparison: A company such as Twitter, which makes $500 million per quarter off an app that sends 140-character messages, is considered a failure on Wall Street. Investors don't want that $2 billion a year—they want to see the share price grow 100-fold over the rate they bought in at.

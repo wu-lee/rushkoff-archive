@@ -1,14 +1,14 @@
 ---
 title: One World, First World
+date: 1996-10-01 04:00:00 Z
 subtitle: 
-date: '1996-10-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Is the Internet a First-World-Only phenomenon?
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I'm no cynic. I love the idea of human evolution, and I love to believe that technology has a role in it. As the interactive mediaspace extends around the globe, eradicating obsolete national and ideological boundaries, I get a thrill. I like going online and feeling what it's like to access servers, cultures, and people on the other side of the planet.
 
 The Internet, as an idea anyway, has transformed our perception of the planet -- much as those first pictures of the earth taken from the moon did. Just as those photos of a moist blue planet with no political boundaries launched the environmental and world peace movements, the Internet suggests to its participants that we are all members of the same, global community. In spite of the way Internet servers are labeled, the electrons passing between them know no religious, racial, or national allegiances. And now, neither do many of us.

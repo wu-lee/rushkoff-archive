@@ -1,15 +1,15 @@
 ---
-publication: _publications/the-tomorrow-project-bestselling-authors-describe-daily-life-in-the-future.md
 title: Last Day of Work
+date: 2011-01-01 05:00:00 Z
+publication: _publications/the-tomorrow-project-bestselling-authors-describe-daily-life-in-the-future.md
 subtitle: ''
 image: ''
-date: 2011-01-01 00:00:00 -0500
 blurb: ''
-notes: "2011"
+notes: '2011'
 refs: ''
 sources: ''
-
 ---
+
 I'm finally doing it. Clocking out for the last time.
 
 It's been twenty years since they began offering the package, close to a decade since the company's been down to just the skeletal observation crew, and over a year since it's been just me. Well, Curtis and me, but he wasn't ever fully here anyway, so when he left the office it was more like watching someone log off one network to join another.

@@ -1,14 +1,14 @@
 ---
 title: Why I'm Not Moving to Canada
+date: 2006-07-01 04:00:00 Z
 subtitle: 
-date: '2006-07-01T04:00:00.000Z'
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Looks like things are going to get worse here in the United States before they get better.
 
 Military adventures abroad kill many while proving little. Fundamentalism of the most noxious kind is fueled by a political system growing more cynically manipulative by the day. Education declines along with America's innovative capacity and global standing. The dollar declines as the deficit rises. The rich get richer while the poor get poorer, not as some unintended side effect of economic policy but rather as an orchestrated result. Access to foods and nutrients that work is directly challenged by chemical and pharmaceutical industries who enjoy more attention from Congress than does our nation's health. Real estate prices rise along with college tuitions, rendering class mobility less fluid than ever, while credit and healthcare industries cost individuals a majority of their income.

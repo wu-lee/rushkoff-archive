@@ -1,7 +1,7 @@
 ---
 title: Raising Baby Einstein
+date: 2007-12-01 05:00:00 Z
 subtitle: 
-date: '2007-12-01T05:00:00.000Z'
 publication: _publications/arthur.md
 blurb: Now, instead of repairing the neighborhood sidewalks, we purchase Bugaboos—the
   $800 stroller equivalent of an SUV, complete with shock absorbers, to traverse the
@@ -9,8 +9,8 @@ blurb: Now, instead of repairing the neighborhood sidewalks, we purchase Bugaboo
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I thought parenthood would be an opportunity to unplug on a certain level. To disconnect from the consumerist pathology of the market and engage in the most intimate and natural process available to human beings. There's something going on between father, mother, and baby that no expert, no marketer, and no website can touch. Isn't there?
 
 Perhaps. But—at least for me—to find it and hold onto it has meant going against what appears to be a full-frontal assault. While there have always been companies willing to make a buck off the guilt, fear, and ignorance of new parents, never before have they enjoyed a medium like the Internet, or a generation of parents who look to their media for the answers to all of life's problems.

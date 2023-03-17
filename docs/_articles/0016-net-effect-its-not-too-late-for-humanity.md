@@ -1,14 +1,14 @@
 ---
 title: 'Net Effect: It''s Not Too Late for Humanity to Survive the Digital'
+date: 2009-10-12 04:00:00 Z
 subtitle: 
-date: 2009-10-12T04:00:00.000Z
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 The first time I worked with a computer, way back in high school in the late ’70s, there was no such thing as software. To use the terminal, I had to write my own code and then input it into the computer. Only then would the computer be a typewriter, a calculator, a psychiatrist, or an elevator controller. A computer was an “anything” machine. Moreover, everything I wrote and saved—my “content”—was accessible and changeable by anyone else on the system—unless I specifically ordered otherwise. Media was no longer fixed, it was changeable. Not only ownership, but also the notion of finality itself had become arbitrary—even artificial.
 
 Today, most of us think of computers—and all of our digital devices—in terms of the applications they offer: “What does it already do” instead of “what can I make it do?” Likewise, instead of teaching computer programming in school, we teach kids how to use Microsoft Windows. This difference is profound. It exemplifies the core difference between a society capable of thinking its way beyond its current limitations, and one destined to repeat the same mistakes until it drives itself to extinction.

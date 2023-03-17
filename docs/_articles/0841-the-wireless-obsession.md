@@ -1,7 +1,8 @@
 ---
 title: The Wireless Obsession
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: Are there times when going wireless is just plain pointless? Rushkoff's extended
   battle with Wireless Obsessive Dissorder.
@@ -9,8 +10,8 @@ notes:
 refs: '[{"text"=>"crazy conference", "original"=>"http://www.thefeature.com/article?articleid=100272"},
   {"text"=>"secretly available modem driver", "original"=>"http://groups.yahoo.com/group/vzw_t720/files/Mac%20OS%20X%20Verison%20Modem%20Scripts/"}]'
 sources: 
-published: false
 ---
+
 Are there times when going wireless is just plain pointless? Rushkoff's extended battle with Wireless Obsessive Dissorder.
 
   

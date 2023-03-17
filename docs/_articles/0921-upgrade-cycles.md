@@ -1,14 +1,14 @@
 ---
 title: Upgrade Cycles
+date: 1997-12-01 05:00:00 Z
 subtitle: 
-date: '1997-12-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Learning to Say Enough
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 We're supposed to be in favor of innovation. It's a form of evolution. Then why is every new version of software or upgrade of processor feeling like such a drag?
 
 By presenting technology as a mere extension of our natural development towards a more networked and efficiently communicating cultural organism, I have always been able to rationalize my way out of the sometimes uncomfortable imperative to change with the times.

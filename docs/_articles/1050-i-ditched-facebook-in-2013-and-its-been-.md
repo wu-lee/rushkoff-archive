@@ -1,14 +1,14 @@
 ---
 title: I ditched Facebook in 2013, and it's been fine
+date: 2018-03-21 22:30:00 Z
 subtitle: 
-date: 2018-03-21T22:30:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 You can ditch Facebook. It's OK. You will survive. And not only will you get through it, but your life will get better.
 
 This month's revelations that Facebook had sold, released or lost control of millions of users' data has left many people wanting out -- but wondering whether they can leave the social media platform they and hundreds of millions of others around the globe depend on.

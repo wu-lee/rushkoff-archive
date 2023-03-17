@@ -1,16 +1,16 @@
 ---
 title: Think Occupy Wall St. Is a Phase? You Don’t Get It
+date: 2011-10-05 04:00:00 Z
 subtitle: ''
-date: 2011-10-05 00:00:00 -0400
 publication: _publications/cnn.md
 blurb: ''
 notes: Pasted from https://www.cnn.com/2011/10/05/opinion/rushkoff-occupy-wall-street/index.html
   , edited for formatting
 refs: ''
 sources: ''
-image: /uploads/think-occupy-wall-st.is-a-phase-you-don-t-get-it.jpg
-
+image: "/uploads/think-occupy-wall-st.is-a-phase-you-don-t-get-it.jpg"
 ---
+
 Like the spokesmen for Arab dictators feigning bewilderment over protesters’ demands, mainstream television news reporters finally training their attention on the growing Occupy Wall Street protest movement seem determined to cast it as the random, silly blather of an ungrateful and lazy generation of weirdos. They couldn’t be more wrong and, as time will tell, may eventually be forced to accept the inevitability of their own obsolescence.
 
 Consider how CNN anchor Erin Burnett, covered the goings on at Zuccotti Park downtown, where the protesters are encamped, in [a segment ](http://transcripts.cnn.com/TRANSCRIPTS/1110/03/ebo.01.html)called “Seriously?!” “What are they protesting?” she asked, “nobody seems to know.” Like Jay Leno testing random mall patrons on American History, the main objective seemed to be to prove that the protesters didn’t, for example, know that the U.S. government has been reimbursed for the bank bailouts. It was condescending and reductionist.

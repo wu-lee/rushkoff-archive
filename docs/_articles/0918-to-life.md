@@ -1,14 +1,14 @@
 ---
 title: To Life
+date: 2001-09-19 04:00:00 Z
 subtitle: 
-date: 2001-09-19 00:00:00 -0400
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: 10 Ways to Understand What Just Happened
 notes: Date is based on when this column was emailed (per Dropbox file)
 refs: 
 sources: 
-
 ---
+
 I've received a lot of email from people supporting my attempts to reach some clarity (mostly on the media-squatters discussion list) while avoiding any particular pole of fundamentalism or extremism. And I've received many critical emails from all 'sides' of this catastrophe.
 
 It's tricky to navigate this terrain, especially because I'm personally upset by the events of last week - not just the plane crash, but the media follow-ups the online debating, the cloud of horrible smoke, the check-points and military vehicles in the street, and, of course, the deaths of members of my community. I know this has happened to many people in other places and countries, but they generally react with grief and horror, too.

@@ -1,14 +1,14 @@
 ---
 title: The Trump Cult?
+date: 2018-08-17 16:00:00 Z
 subtitle: 
-date: '2018-08-17T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 On October 23, 1863, when the expected apocalypse failed to occur, an estimated 100,000 followers of breakaway Christian prophet William Miller descended from their rooftops in what the mainstream media assumed would be disgrace and embarrassment. “When the world stubbornly refused to come to an end last Spring,” a condescending Pennsylvania Statesmen mused, “notwithstanding the ingenious and elegant calculations of Mr. Miller, we indulged in the hope that the whole affair would be laid on the table, or indefinitely postponed.”
 
 But despite having sold all their worldly possessions in the belief that they would be meeting Jesus Christ and swept up to heaven, the followers were undeterred. They simply set new dates for doomsday and committed even more steadfastly to their cause. Newspapers such as the Herald Expositor considered it their responsibility to dispel “this and similar delusions,” but to no avail. As if invigorated by disappointment, Miller’s followers later went on to establish the Seventh-Day Adventist movement, now 25 million members strong.

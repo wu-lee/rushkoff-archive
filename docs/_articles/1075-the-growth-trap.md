@@ -1,14 +1,14 @@
 ---
 title: " The Growth Trap"
+date: 2016-03-01 17:00:00 Z
 subtitle: 
-date: '2016-03-01T17:00:00.000Z'
 publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Grass grows, trees grow, even whole forests grow. But they don't grow forever. So why do we ask our businesses to do the same? 
 
 I was asked to speak at a meeting of executive vice presidents of one the ten biggest corporations in the world - a household name that makes household products. Before my keynote, the CEO got on stage to rally the troops.  He explained how the company had achieved a respectable 4.3% growth the previous year, but that this was little better than putting one's money in an index fund. To be successful - to really deliver for its shareholders - the company would have to deliver 6.2% in the coming year. 

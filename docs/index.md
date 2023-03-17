@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+
 # Contents
 
 The original boilerplate index text remains below...

@@ -1,14 +1,14 @@
 ---
 title: Smash the Idols We Worship
+date: 2011-04-22 04:00:00 Z
 subtitle: 
-date: 2011-04-22T04:00:00.000Z
 publication: _publications/forward.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 For most of us, the release from slavery described in the story of Pesach is metaphorical. We are not enslaved physically; we are rather imprisoned mentally, emotionally and spiritually. Mitzrayim, the “narrow place,” is a narrow state of mind from which we are released the moment we are willing to smash our idols.
 
 Those 10 plagues had only as much to do with terrifying Pharaoh as they did with releasing us from the gods the Hebrews likely also worshipped in their 400-year sojourn in Egypt. Blood desecrated the god of the Nile, locusts desecrated the god of corn, darkness desecrated the god of the sun and so on. Deliverance meant abandoning those false gods.

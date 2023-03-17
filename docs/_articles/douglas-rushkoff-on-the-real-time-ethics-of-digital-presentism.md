@@ -1,16 +1,16 @@
 ---
-publication: _publications/fast-company.md
 title: Douglas Rushkoff On The Real-Time Ethics of “Digital Presentism”
+date: 2013-03-19 04:00:00 Z
+publication: _publications/fast-company.md
 subtitle: ''
 image: "/uploads/3007169-poster-1280-2-real-time-ethics.webp"
-date: 2013-03-19 00:00:00 -0400
 blurb: ''
 notes: 'Source: [https://www.fastcompany.com/3007169/douglas-rushkoff-real-time-ethics-digital-presentism](https://www.fastcompany.com/3007169/douglas-rushkoff-real-time-ethics-digital-presentism
   "https://www.fastcompany.com/3007169/douglas-rushkoff-real-time-ethics-digital-presentism")'
 refs: ''
 sources: ''
-
 ---
+
 When people hear the title of my new book, “Present Shock,” they assume I am trying to warn them about something awful. Yet while there are some pretty disorienting things about living in the present tense–constantly bombarded by real-time pings and simultaneous demands–there’s also something terrific about engaging in a highly digital now: We end up reconnecting to a whole lot of what matters.
 
 That was my experience on encountering [Slaveryfootprint.org](http://slaveryfootprint.org/), a website that helps you calculate how many slaves are currently working for you. It adds up the stuff you have, and then figures out how many people were forced to dig, assemble, or carry it for you–against their will. It’s a startling example of how the Net can make the invisible, visible. In the real world, we just hold the iPhone or use an appliance; the web can allow us to see all the human time that has been packed into its creation.

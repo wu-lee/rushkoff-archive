@@ -1,14 +1,14 @@
 ---
 title: Internet Psychology
+date: 1997-05-01 04:00:00 Z
 subtitle: 
-date: '1997-05-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Cause or Cure
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Is the Internet a source of psychological problems, or does it provide a cure? For every book or article I read about the detrimental effects of spending time online, I now see another listing sites where people can turn for psychological counseling.
 
 I receive many letters from psychologists asking about the effect of computers and the Internet on the psyche. There has been a lot of speculation, but not a lot of substantive research. While psychologists have reported treated few cases of "Internet Addiction," so far they would have to count as anecdotal evidence. Usually, they involve a person using the Internet as a way of avoiding some other life trouble like a bad marriage, a physical problem, or social isolation. If a person no one to talk to at home, work, or in town, it‚s no wonder that he might get addicted to the Internet. In fact, the only two people I‚ve met who I would call addicted to online interaction are both young mothers who, though great parents, long for some contact with human beings capable of speech.

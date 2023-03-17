@@ -1,14 +1,14 @@
 ---
 title: Free Inside
+date: 1999-09-01 04:00:00 Z
 subtitle: 
-date: '1999-09-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Novelty versus commodity
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Back in the days when my dad was a kid, he'd get a free baseball card in every pack of bubble gum. It was a marketing gimmick on the order of a free toy whistle inside a box of Cap'n Crunch. But it eventually served to turn the bubble gum industry on its head.
 
 By the 1970's, when I was growing up, Topps was no longer known as a gum company but a baseball card empire. We'd buy ten cards per pack, along with a stale stick of gum that we'd usually throw away. The gum had lost its role as a product, and been reduced to the giveaway. Today, you don't even get a stick of gum in a pack of baseball cards. The pink chewing product that made the cards possible in the first place was reduced to a piggyback and then eliminated altogether. Such are the dangers of creating promotions that upstage your product. In the baseball card vs. bubble gum wars, the baseball cards won.

@@ -1,14 +1,14 @@
 ---
 title: The Mother of All Bubbles
+date: 2014-02-04 16:56:02 Z
 subtitle: 
-date: '2014-02-04T16:56:02.000Z'
 publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Want to know the best indicator that we've entered the final phase of a startup bubble? It's the massive success ofShark Tank, the ABC reality hit in which entrepreneurs compete for investment from the likes of Mark Cuban, Barbara Corcoran, and Steven Tisch. The money's real but the show's all in fun - or so I thought, until it began rebroadcasting on business channel CNBC. 
 
 It's one thing to give everyday viewers the vicarious thrill of being a real investor; it's another when this sort of wish fulfillment becomes a core principle of venture capital. But as Title III of the JOBS Act goes into effect this spring - relaxing the restrictions on qualified investors -a lot of Americans will be making the leap from fantasy angels to real life ones.  Here comes everybody.  

@@ -1,14 +1,14 @@
 ---
 title: Signs of the Times
+date: 2002-07-25 04:00:00 Z
 subtitle: 
-date: 2002-07-25T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The AOL and Time Warner merger was doomed from the start
 notes: 
 refs: 
 sources: 
-
 ---
+
 When AOL bought Time Warner, the New York Times asked me to write a comment piece. "What does it all mean?" my assigning editor asked.
 
 What I wrote was that AOL's purchase of Time Warner heralded the end of the dotcom bubble. AOL was cashing in its casino chips. And just like the gambler who trades in his coloured plastic disks for real cash, AOL's Steve Case understood that his run was over and that it was time to trade in his stock certificates for those of a company that had genuine assets.

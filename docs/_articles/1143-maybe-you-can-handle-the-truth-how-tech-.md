@@ -1,14 +1,14 @@
 ---
 title: 'Maybe you can handle the truth: How tech has dulled our taste for tall tales'
+date: 2015-10-28 16:00:00 Z
 subtitle: 
-date: '2015-10-28T16:00:00.000Z'
 publication: _publications/digital_trends.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Digital culture seems up in arms about the ways the new Steve Jobs movie diverges from factual history. Unlike the film, nothing ever failed in an Apple demo, Jobs didn’t get into fights with people before going on stage, Wozniak never said any of the things his character does in the movie, and engineers simply don’t work and speak the way they do in the movie.
 For people who knew Jobs or Apple well – or have even read Walter Isaacson’s book – the poetic license taken by the film feels like an inaccuracy being entered into the historical record. In that sense, it’s worse than a time-travel inconsistency in the Star Trek universe.
 

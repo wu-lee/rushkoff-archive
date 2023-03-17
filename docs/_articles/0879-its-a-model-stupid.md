@@ -1,14 +1,14 @@
 ---
 title: It's a Model, Stupid
+date: 2000-04-01 05:00:00 Z
 subtitle: 
-date: '2000-04-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Telling the Map From the Territory
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Computers are modeling systems. Good ones. So good, in fact, that it's easy to forget the worlds they create are not worlds at all, but models.
 
 When a computer models a typewriter, we call it a word processor. It can model a spreadsheet, a checkbook, a weather system or a city's electrical grid. If the computer simulates the model accurately enough, then we hook it up to the pulleys, printers, and devices of our real world. That's when the model of a typewriter crosses over into the world of things, and actually types a page. But the word processor itself - the program with which we interact - is still just a simulation.

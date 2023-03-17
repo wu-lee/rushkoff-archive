@@ -1,17 +1,17 @@
 ---
-publication: _publications/medium.md
 title: 'Move Along: The Car Crash is Fake'
+date: 2022-01-02 05:00:00 Z
+publication: _publications/medium.md
 subtitle: Real Americans Don’t Give a Shit About the Culture Wars
 image: "/uploads/0_mvdb_hmhucoack2g.jpg"
-date: 2022-01-02 00:00:00 -0500
 blurb: Life is hard enough without television anchors and talk show hosts imploring
   us to question the good faith efforts of everyone, everywhere, to simply get by.
 notes: 'Source: [https://rushkoff.medium.com/move-along-the-car-crash-is-fake-cf9e327913c6](https://rushkoff.medium.com/move-along-the-car-crash-is-fake-cf9e327913c6
   "https://rushkoff.medium.com/move-along-the-car-crash-is-fake-cf9e327913c6")'
 refs: ''
 sources: ''
-
 ---
+
 I have let myself get too worked up for too long about the culture wars on Twitter and its extensions on cable TV. They are not based in reality, but rhetoric. So this year, I’m ignoring them.
 
 I think we can trace today’s ideological Wrestlemania in part to Donald Trump’s invented facts about Obama’s birth (he’s not an immigrant) or a Mexican invasion (when Trump announced his candidacy, undocumented immigration from Mexico was actually at a fifteen-year low). Likewise, Hilary Clinton’s ill-advised characterization of Trump’s supporters as “a basket of deplorables” unnecessarily inflamed nearly half the country. The rest of what we are living through feels like the reverberation of these original sins.

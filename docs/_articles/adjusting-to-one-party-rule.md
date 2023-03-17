@@ -1,18 +1,18 @@
 ---
-publication: _publications/medium.md
 title: Adjusting to One-Party Rule
+date: 2022-02-06 05:00:00 Z
+publication: _publications/medium.md
 subtitle: Only the Democratic party — corrupted though it may be — is willing to submit
   to the rule of law. Should it move to the center in order to represent everyone
   interested in representative democracy?
 image: "/uploads/0_wxlrkqeu81x5meyv.jpg"
-date: 2022-02-06 00:00:00 -0500
 blurb: ''
 notes: 'Source: [https://rushkoff.medium.com/adjusting-to-one-party-rule-3083d2d07f14](https://rushkoff.medium.com/adjusting-to-one-party-rule-3083d2d07f14
   "https://rushkoff.medium.com/adjusting-to-one-party-rule-3083d2d07f14")'
 refs: ''
 sources: ''
-
 ---
+
 A (failed) thought experiment on one-party rule. (see the follow-up post, [here](https://rushkoff.medium.com/why-one-party-rule-wont-work-84eee45c47c5).)
 
 This week, the Republican Party took the final step. They declared, [officially](https://www.nytimes.com/2022/02/04/us/politics/republicans-jan-6-cheney-censure.html), that the January 6th protests, riots, violence, insurrection or murders (depending on your perspective) were “legitimate political discourse.” Further, they ratified the motion that any representatives attempting to determine what happened on that day are [officially censured](https://www.nytimes.com/interactive/2022/02/04/us/rnc-resolution-censure-cheney-kinziger.html) and no longer supported by the party. Today’s resolution declared that Representatives Cheney and Kinzinger, by agreeing to serve on the January 6th Select Committee, are guilty of “sabotage.”

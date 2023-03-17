@@ -1,13 +1,12 @@
 ---
 title: Walter's Wireless World
+date: 2003-12-21 17:00:00 Z
 subtitle: 
-date: '2003-12-21T17:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
 
 What would Walter Ong have thought about the current evolution of mobile media, or, What Would Jesus Moblog?

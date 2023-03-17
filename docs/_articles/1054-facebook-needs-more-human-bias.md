@@ -1,14 +1,14 @@
 ---
 title: Facebook needs more 'human bias'
+date: 2016-05-11 16:00:00 Z
 subtitle: 
-date: 2016-05-11T16:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 Facebook's PR department has been busy defending itself against allegations from an anonymous, disgruntled employee that editors of the company's "trending stories" list were biased against conservative viewpoints. The story -- itself a trending topic today -- may say less about the failings of biased human intervention, however, than the need for more of it.
 
 According to the employee's allegations, stories quoting conservative stalwarts such as Glenn Beck were being rejected by Facebook's human reviewers because "it was like they had a bias against Ted Cruz." We might as well use that argument to explain the entire news media's coverage on Donald Trump over every other candidate, and every other important story this election cycle.

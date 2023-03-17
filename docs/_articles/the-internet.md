@@ -1,16 +1,16 @@
 ---
-publication: _publications/the-edge.md
 title: The Internet
+date: 2008-01-01 05:00:00 Z
+publication: _publications/the-edge.md
 subtitle: ''
 image: ''
-date: 2008-01-01 00:00:00 -0500
 blurb: ''
 notes: '[https://www.edge.org/memberbio/douglas_rushkoff](https://www.edge.org/memberbio/douglas_rushkoff
   "https://www.edge.org/memberbio/douglas_rushkoff")'
 refs: ''
 sources: ''
-
 ---
+
 I thought that it would change people. I thought it would allow us to build a new world through which we could model new behaviors, values, and relationships. In the 90's, I thought the experience of going online for the first time would change a person's consciousness as much as if they had dropped acid in the 60's.
 
 I thought Amazon.com was a ridiculous idea, and that the Internet would shrug off business as easily as it did its original Defense Department minders.

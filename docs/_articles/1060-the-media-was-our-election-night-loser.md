@@ -1,15 +1,15 @@
 ---
 title: The Media Was Our Election Night Loser
+date: 2020-11-04 17:00:00 Z
 subtitle: 
-date: '2020-11-04T17:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
-image: /uploads/1060-the-media-was-our-election-night-loser.png
+image: "/uploads/1060-the-media-was-our-election-night-loser.png"
 ---
+
 For days, if not weeks, our media pundits have been telling us not to expect a winner on election night. The left demanded patience and voiced their concerns that Trump would prematurely declare victory and turn to the courts for support.
 
 Yet when election night came, those calls for patience went out the window. Instead, Democrats melted down on television and social media, treating every Trump red-state victory as a sign of certain defeat. It may not have been their fault.

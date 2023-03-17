@@ -1,7 +1,8 @@
 ---
 title: Rock the (Wireless) vote.com
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: Does politics by thumb - via the culture of MTV - enhance democracy, or reduce
   it to a marketing survey?
@@ -12,8 +13,8 @@ refs: '[{"text"=>"Open Source Democracy", "original"=>"http://www.demos.co.uk/ca
   "meta"=>{"title"=>"Page not found - Rock the Vote", "open_graph"=>{"locale"=>"en_US",
   "title"=>"Page not found - Rock the Vote", "site_name"=>"Rock the Vote"}, "favicon"=>"https://www.rockthevote.org/wp-content/uploads/cropped-checkmark-icon-192x192.png"}}]'
 sources: 
-published: false
 ---
+
 Does politics by thumb - via the culture of MTV - enhance democracy, or reduce it to a marketing survey?
 
   

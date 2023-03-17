@@ -1,9 +1,9 @@
 ---
-publication: _publications/medium.md
 title: How NFTs Will Kill Netflix
+date: 2021-11-15 05:00:00 Z
+publication: _publications/medium.md
 subtitle: The Balkanization of media will continue, until it doesn’t
 image: "/uploads/0_svqhsq6olfyd1zbz.jpg"
-date: 2021-11-15 00:00:00 -0500
 blurb: The more sustainable and revolutionary aspect of all this is the way NFT technology
   can be used almost like a benevolent, and surveillance-free form of digital rights
   management for independent creators.
@@ -11,8 +11,8 @@ notes: 'Source: [https://onezero.medium.com/how-nfts-will-kill-netflix-62f9a3f03
   "https://onezero.medium.com/how-nfts-will-kill-netflix-62f9a3f03e87")'
 refs: ''
 sources: ''
-
 ---
+
 As we all predicted back in the 1990s, the net has spawned new opportunities for independent creators and consumers of all sorts. Blogs, YouTube, print-on-demand, 3D printing, Etsy, eBay, 99designs, Upwork, SoundCloud, Substack, and many many other platforms give creators the ability to make things and sell (or at least distribute) them pretty directly to wide audiences, without signing a contract or getting a job with a movie studio, magazine, publisher, record company, or advertising agency.
 
 The problem is, all this activity was subsumed by a few monopolist platforms that take way more of a share of the profits than they deserve. YouTube and Spotify aren’t much better for the typical artist than Uber and DoorDash are for the typical gig worker. But the decentralized web — that blockchain stuff — could change this. At least for a while.

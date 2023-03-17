@@ -1,15 +1,15 @@
 ---
-publication: _publications/depression-2.0-creative-strategies-for-tough-economic-times.md
 title: Financial Metrics and the Economic Crisis
+date: 2009-06-01 04:00:00 Z
+publication: _publications/depression-2.0-creative-strategies-for-tough-economic-times.md
 subtitle: ''
 image: ''
-date: 2009-06-01 00:00:00 -0400
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-
 ---
+
 **Q:** _What's your perspective on Barack Obama and the economy?_
 
 **DR**: Obama means the best, but we have to remember that he is working within a system; his perspective is presupposed by an economic model. And that model is biased toward those who have the means to accumulate capital, and against those who create real value. Obama said as much in his inaugural speech, when he spoke about finding ways to promote the interests of people who actually "do stuff."

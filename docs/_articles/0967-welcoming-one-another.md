@@ -1,14 +1,14 @@
 ---
 title: Welcoming One Another
+date: 2003-04-25 04:00:00 Z
 subtitle: 
-date: '2003-04-25T04:00:00.000Z'
 publication: _publications/jewish_week.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 So just who is allowed to participate in the conversation that is Judaism, anyway? Is it a blood test, a history of contributions to the right philanthropies, or a working knowledge of the Talmud that earns one a place at the table?
 
 Sure, I spent the 15 years after my bar mitzvah engaged in the secular world fighting for media literacy and social justice, with nary a High Holy Days service to keep myself in the correct column of the ledger in the U'Nesaneh Tokef.

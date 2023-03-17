@@ -1,7 +1,7 @@
 ---
 title: Beyond the Am
+date: 2008-03-01 05:00:00 Z
 subtitle: A Different Perspective on Peoplehood
-date: 2008-03-01T00:00:00.000-05:00
 publication: _publications/contact.md
 blurb: We have internalized the faulty, racist arguments of the peoples whose provincial
   gods and beliefs we refused to accept — and, in the process, accepted a similarly
@@ -11,8 +11,8 @@ notes: 'Spring 2008. Source: https://steinhardtfoundation.org/contact/spring_200
 refs: ''
 sources: ''
 image: ''
-
 ---
+
 Perhaps the most compelling and dangerous misconception held by Jews today is that the longevity of Judaism is dependent on our ability to cling to a rather specious claim of Peoplehood. For while there is great comfort to be found in the mythological origins of a Jewish People chronicled in the Torah, when they become the foundation for a sense of racial or historical entitlement, they undermine the very premise of Judaism.
 
 To be sure, Jewish myth and history are both rife with proclamations of our Peoplehood. It’s just that these assertions are usually made by our worst enemies, looking for a justification to wipe us out. It was Pharaoh who first used the term “am,” or a people, in the Torah, as a way of identifying the Israelites who threatened to outbreed his loyal soldiers. The first references to a Jewish race, or blood, came during the Inquisition. Many Jews had converted to Catholicism, yet still maintained their foothold in the rising middle class of merchants. So the Inquisitors decreed that the practice of Judaism was no longer the crime; now it was simply having Jewish “blood.” Finally, it was Carl Jung who, interpreted through a Nazi lens, held that Jews carried a “genetic memory” for the sort of abstract thought that undermined any fascistic enterprise.

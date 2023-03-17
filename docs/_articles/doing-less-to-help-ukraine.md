@@ -1,18 +1,18 @@
 ---
-publication: _publications/medium.md
 title: Doing Less, to Help Ukraine
+date: 2022-03-09 05:00:00 Z
+publication: _publications/medium.md
 subtitle: We are not there, we are not informed, so we should shut up and use less
   oil
 image: "/uploads/1_1nzhvtaermrfiq7mua-o_q.png"
-date: 2022-03-09 00:00:00 -0500
 blurb: Instead of adding more conflict and confusion to the crisis, we can help metabolize
   the trauma of our fellow beings. We are all connected, after all.
 notes: 'Source: [https://rushkoff.medium.com/doing-less-to-help-ukraine-581898fdd583](https://rushkoff.medium.com/doing-less-to-help-ukraine-581898fdd583
   "https://rushkoff.medium.com/doing-less-to-help-ukraine-581898fdd583")'
 refs: ''
 sources: ''
-
 ---
+
 I didn’t post anything here last week. I didn’t release my regular podcast episode, either. On the one hand, it was a matter of reading the room: when something truly awful is happening, the best course is usually to pause. Of course, that doesn’t stop clueless marketers from continuing to post their bright and cheery messages about discounts on luxury goods, or startups from congratulating themselves that their subscription targets have been met — but I try to tell myself those are scheduled tweets that no one thought to pull from the automated calendar.
 
 Even that tone deaf activity, however, is better than the race to post the best hot take on an unfolding crisis itself. Since when is any of us an expert on Ukraine? As Xeni Jardin tweeted on the day the war began, “Good morning newly minted Russian invasion experts.” Yes, she was being facetious, warning us all in advance of the imminent onslaught of uninformed but vociferously expressed arguments for why NATO or Biden or Obama or Clinton or China or Woodrow Wilson or the World Bank or cryptocurrency should or should not be blamed for the bloodshed.

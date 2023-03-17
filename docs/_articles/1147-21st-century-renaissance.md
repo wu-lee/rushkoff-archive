@@ -1,14 +1,14 @@
 ---
 title: 21st Century Renaissance
+date: 2003-03-31 17:00:00 Z
 subtitle: 
-date: '2003-03-31T17:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Today’s renaissance makes us feel that our self-expression matters, too.
 
 Yes, it certainly looks like doom and gloom out there. Between the paired threats of terrorism and totalitarianism, it’s hard to see much on the horizon worthy of celebration. But maybe, for just a moment, we should entertain the possibility that – in the big picture – this isn’t a truly dark moment, at all. Rather, it’s a dark, fearful reaction to a profoundly transformative era.

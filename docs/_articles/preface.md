@@ -1,15 +1,15 @@
 ---
-publication: _publications/better-work-together-how-the-power-of-community-can-transform-your-business.md
 title: Preface
+date: 2019-01-01 05:00:00 Z
+publication: _publications/better-work-together-how-the-power-of-community-can-transform-your-business.md
 subtitle: ''
 image: ''
-date: 2019-01-01 00:00:00 -0500
 blurb: ''
-notes: "2019"
+notes: '2019'
 refs: ''
 sources: ''
-
 ---
+
 I receive over a hundred emails a day from people with great ideas for social change, new democratic platforms, eco-villages, and alternative currencies. Some of them have already written eloquent white papers, created gorgeous renderings, or plotted our cyclic revenue streams that seem to challenge the laws of perpetual motion. These are well-meaning people, with great educations and skills, turning their attention to the most pressing "wicked problems" of our age. 
 
 Yet almost all of their ingenious blueprints for the salvation of humanity have been conceived and generated alone, in a room, on a computer. Yes, they want to find the others now - people and organizations who share the same fundamental values, and will recognize the wisdom of their master plans. But no matter who I try to connect them to, it never quite works out. That's because they're reaching out to the other people much too late. 

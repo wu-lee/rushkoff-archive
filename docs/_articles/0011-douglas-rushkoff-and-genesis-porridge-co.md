@@ -1,15 +1,16 @@
 ---
 title: Douglas Rushkoff and Genesis P-Orridge Conversation
+date: 2003-01-01 05:00:00 Z
+published: false
 subtitle: 
-date: '2003-01-01T05:00:00.000Z'
 publication: _publications/arthur.md
 blurb: "*As originally published in [Arthur No. 2 (Jan 2003)](http://store.arthurmag.com/product/arthur-issue-2),
   with accompanying photography by Shawn Mortensen…*"
 notes: 
 refs: 
 sources: 
-published: false
 ---
+
 **‘The whole planet is the museum!'  
 Author-theorist Douglas Rushkoff takes tea and talks shop with veteran mindboggler/conceptualist/artist/visionary Genesis P-Orridge, best known for his work as co-founder of seminal industrial outfit Throbbing Gristle and leader of neo-primitive-shamanic ravists Psychic TV**
 

@@ -1,14 +1,14 @@
 ---
 title: Repatriating American Companies
+date: 2014-02-01 17:00:00 Z
 subtitle: 
-date: '2014-02-01T17:00:00.000Z'
 publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I got a call from the CEO of what he called “an American television brand,” asking me to help him bring his company’s communications strategy into the 21st Century. “I want to get us on the social networks. Be less dependent on advertising and become a truly transparent company.” 
 
 There were so many buzzwords gleaned off the pages of Wired and Fast Company, I wasn’t even sure where to begin. So I started with what little knowledge I had of the television industry: there are no major American television manufacturers. 

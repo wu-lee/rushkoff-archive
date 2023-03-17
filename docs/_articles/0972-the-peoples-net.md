@@ -1,15 +1,15 @@
 ---
 title: The People's Net
+date: 2001-07-01 04:00:00 Z
 subtitle: 
-date: 2001-07-01T04:00:00.000Z
 publication: _publications/yahoo_internet_life.md
 blurb: The Internet is Back, Alive and Well
 notes: July 2001 per [https://rushkoff.com/the-peoples-net/](https://rushkoff.com/the-peoples-net/
   "https://rushkoff.com/the-peoples-net/")
 refs: 
 sources: 
-
 ---
+
 To those of us who really love it, the Internet is looking and feeling more social, more alive, more participatory, and more, well, more Internet-y than ever before. This might sound surprising, given the headlines proclaiming the official bursting of the technology bubble. Likewise, analysts on the financial cable channels and the venture capitalists of Silicon Alley now shun any company whose name ends in .com and have moved on to more promising new buzzwords, such as wireless.
 
 But the statistics fly in the face of conventional wisdom. In terms of real hours spent online and the number of people getting new accounts every day, Internet use is up. We spent an average of 20.2 hours looking at Internet sites in March 2001, up from 15.9 hours last year and 12.8 hours the year before, according to the latest data from Jupiter Media Metrix. More surprisingly, while countless dot-coms have gone under for failure to meet investor demands, e-commerce is actually up-it rose more than 30 percent compared with last year. More than 100 million Americans now buy goods and services online.

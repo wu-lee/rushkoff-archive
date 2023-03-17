@@ -1,14 +1,14 @@
 ---
 title: Back to Mac
+date: 1997-04-01 05:00:00 Z
 subtitle: 
-date: '1997-04-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: A Prodigal Son Returns
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 About two years ago in this space, I made an announcement that led to over 1000 horrified responses from you readers. I'm still receiving a trickle of email about it to this day. And all I had done was explain the reasons why I had traded in my Macintosh computer for a Windows machine.
 
 Now, two years and three Windows operating systems later, I am finally admitting defeat. I understand Windows as well as most technical support personnel. I can edit a config.sys file and delete bad lines in an autoexec.bat with the best of them. I can partition a hard drive in FAT32, manually configure a dial-up adapter, and scour my systems folder for obsolete dll's.

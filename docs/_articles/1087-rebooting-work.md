@@ -1,14 +1,14 @@
 ---
 title: Rebooting Work
+date: 2016-01-04 05:00:00 Z
 subtitle: 
-date: 2016-01-04 00:00:00 -0500
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 Digital and robotic technologies offer us both a bounty of productivity as well as welcome relief from myriad repeatable tasks. Unfortunately, as our economy is currently configured, both of these seeming miracles are also big problems. How do we maintain market prices in a world with surplus productivity? And, even more to the point, how do we employ people when robots are taking all the jobs?
 
 Back in the 1940’s, when computers were completing their very first cycles, the father of “cybernetics,” Norbert Wiener, began to worry about what these thinking technologies might mean for the human employees who would someday have to compete with them. His concern for “the dignity and rights of the worker” in a technologized marketplace were decried as communist sympathizing, and he was shunned from most science and policy circles.

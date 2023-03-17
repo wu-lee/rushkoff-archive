@@ -1,14 +1,14 @@
 ---
 title: Faith = Illness
+date: 2006-04-30 04:00:00 Z
 subtitle: 
-date: '2006-04-30T04:00:00.000Z'
 publication: _publications/arthur.md
 blurb: Why I've had it with religious tolerance.
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Okay, so let's get into this God game.
 
 I think it's time to get serious about the role God plays in human affairs, and evaluate whether it's appropriate to let everyone in on the bad news: God doesn't exist, never did, and the closest thing we'll ever see to God will emerge from our own collective efforts at making meaning.

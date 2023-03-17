@@ -1,7 +1,7 @@
 ---
 title: The Tail Wagging the Doge
+date: 2022-06-13 04:00:00 Z
 subtitle: How Speculators Prevent Crypto from Working as a Safe Haven
-date: 2022-06-13T00:00:00.000-04:00
 publication: _publications/medium.md
 blurb: Crypto’s astonishing, if short-lived success as a speculative investment has
   only undermined its entirely more revolutionary function as a currency alternative.
@@ -12,8 +12,8 @@ sources: ''
 image: "/uploads/the-tail-wagging-the-doge.jpg"
 categories:
 - _categories/crypto.md
-
 ---
+
 One of the most common questions I’ve been getting this week is from young investors (they wouldn’t call themselves investors, but they are) wondering why their crypto holdings are going down as fast or faster than the stock market.
 
 “But I bought all this Ethereum because I _knew_ the market was about to crash,” one Coinbase trader complained to me.

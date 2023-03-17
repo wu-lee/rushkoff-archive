@@ -1,14 +1,14 @@
 ---
 title: 'Autonomous Zone: The Work-as-Art of Yury Gitman'
+date: 2004-08-11 16:00:00 Z
 subtitle: 
-date: '2004-08-11T16:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 How mobile gaming energizes the spirit -- and technology -- of the networked society.
 
 Yury Gitman might best be described as an activist. Not just in the political sense of that word (though he is certainly an innovator for those who need voice) but for his ability to put so many people and ideas into action.

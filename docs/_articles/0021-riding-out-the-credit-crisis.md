@@ -1,14 +1,14 @@
 ---
 title: Riding Out the Credit Crisis
+date: 2008-05-01 04:00:00 Z
 subtitle: 
-date: '2008-05-01T04:00:00.000Z'
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 There's two kinds of people asking me about the economy lately: people with money wanting to know how to keep it “safe,” and people without money, wanting to know how to keep safe, themselves.
 
 Maybe it’s the difference between those two concerns that best explains the underlying nature of today’s fiscal crisis.

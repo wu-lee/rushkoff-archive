@@ -1,14 +1,14 @@
 ---
 title: Turning My Back on Mac
+date: 1997-05-01 04:00:00 Z
 subtitle: 
-date: '1997-05-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The day I sold my mac...
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I feel like a traitor.
 
 I sold my Macintosh to a friend, and used the cash to buy my first IBM-compatible, or what's now known simply as a PC (short for Personal Computer). This little public confession, no matter how heartfelt, does nothing to assuage my guilt at having turned my back on my Mac brethren and joining what feels so much like the evil empire of Microsoft Windows.

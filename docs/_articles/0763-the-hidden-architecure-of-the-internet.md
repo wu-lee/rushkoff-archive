@@ -1,14 +1,14 @@
 ---
 title: The Hidden Architecure of the Internet
+date: 2008-05-13 04:00:00 Z
 subtitle: 
-date: 2008-05-13T04:00:00.000Z
 publication: _publications/red_herring.md
 blurb: The real space of cyberspace
 notes: Date given as March 2001 on CV
 refs: 
 sources: 
-
 ---
+
 Back in the late 20th century, at the dawn of the Internet Era, Media Lab founder Nicholas Negroponte told us that to be "digital," we would have to learn the difference between atoms - those tiny particles making up the stuff of the real world - and bits - the units of pure, binary information that define the landscape and content of cyberspace.
 
 But, as these photographs reveal, atoms might best be thought of as units of pure information, and bits, well, bits are anything if not tiny particles with substance, mass, and motion.

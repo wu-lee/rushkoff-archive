@@ -1,14 +1,14 @@
 ---
 title: Reimagining Money
+date: 2016-03-07 05:00:00 Z
 subtitle: 
-date: '2016-03-07T05:00:00.000Z'
 publication: _publications/atlantic.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Bitcoin was conceived as a modern solution to an ages-old problem: How can two parties agree on and verify an exchange of value? In this sense, Bitcoin is an effective technology, in that it trains the massive processing power of distributed personal computers on the same situation that paper currency was built to resolve.
 
 But in important ways, Bitcoin transposes some of the shortcomings of traditional currency onto the digital realm. It ignores a whole host of questions about the potential to reimagine what money can be designed to emphasize: What sorts of money will encourage admirable human behavior? What sorts of money systems will encourage trust, reenergize local commerce, favor peer-to-peer value exchange, and transcend the growth requirement? In short, how can money be less an extractor of value and more a utility for its exchange?

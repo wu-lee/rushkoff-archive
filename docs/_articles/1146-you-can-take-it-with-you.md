@@ -1,14 +1,14 @@
 ---
 title: You CAN Take It With You!
+date: 2003-10-26 17:00:00 Z
 subtitle: 
-date: 2003-10-26T17:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 Number portability is finally set to arrive in the United States. Providers are bracing themselves for the biggest change in their industry since ‘mobile’ meant car phone.
 
 After years of resistance, America’s wireless providers are finally succumbing to a government mandate that they grant their customers ‘number portability’ – the ability to take their cell phone numbers with them when they change to a different carrier.

@@ -1,14 +1,14 @@
 ---
 title: Look at Me
+date: 2001-03-01 05:00:00 Z
 subtitle: 
-date: '2001-03-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The Other Side of Internet Voyeurism
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Do reality TV and webcams indicate the future of media? Shows like Survivor, its countless clones, and the thousands of voyeuristic web sites springing up online all point to an alarming trend: we have become more interested in watching real people than crafted entertainments like television drama and movies.
 
 Given the quality of fictional drama these days, that's no small wonder. Scripts for television shows are conceived and written by committee, usually in a week or less. Their stories are ripped from the headlines and translated into a three-act structure with little or no regard for their thematic power or contribution to cultural conversation. In a sense, they are just acted-out (and usually watered-down) versions of something happening in real life somewhere, anyway.

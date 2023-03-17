@@ -1,7 +1,8 @@
 ---
 title: It's Got a Hold on You
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: The mobile phones in our hands may have a more totemic role in our lives than
   we suspect.
@@ -26,8 +27,8 @@ refs: '[{"text"=>"Genevieve Bell", "original"=>"http://www.bbc.co.uk/religion/re
   {"text"=>"divinely blessed limited-edition cellphone.", "original"=>"http://www.textually.org/textually/archives/2004/07/004381.htm",
   "meta"=>{"title"=>"404 Not Found", "favicon"=>"http://www.textually.org/favicon.ico"}}]'
 sources: 
-published: false
 ---
+
 The mobile phones in our hands may have a more totemic role in our lives than we suspect.
 
   

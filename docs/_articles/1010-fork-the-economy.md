@@ -1,15 +1,16 @@
 ---
 title: Fork the Economy
+date: 2016-01-04 05:00:00 Z
+published: false
 subtitle: 
-date: '2016-01-04T05:00:00.000Z'
 publication: _publications/shareable.md
 blurb: I've given up on fixing the economy. The economy is not broken. It's simply
   unjust. There's a difference.
 notes: 
 refs: 
 sources: 
-published: false
 ---
+
 We have to stop looking at our economy as a broken system, but one that is working absolutely true to its original design. It's time to be progressive — and this means initiating systemic changes.
 
 For example, Bernie Sanders’ well-meaning calls to rein in the banking industry by restoring the Federal Reserve’s function as a "regulatory agency" reveals the Left’s inability to grasp the true causes for today’s financial woes. We are not witnessing capitalism gone wrong — an otherwise egalitarian currency system has not been corrupted by greedy bankers — but, rather, capitalism doing exactly what it was programmed to do from the beginning. To fix it, we would have to dig down to its most fundamental code, and rewrite it to serve people instead of power.

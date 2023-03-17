@@ -1,14 +1,14 @@
 ---
 title: Playing God
+date: 2001-12-01 05:00:00 Z
 subtitle: 
-date: '2001-12-01T05:00:00.000Z'
 publication: _publications/yahoo_internet_life.md
 blurb: The Net and Fundamentalism
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I saw a bumper sticker on a minivan in Wisconsin last week that read: "In case of rapture, this car will be empty!" I suppose that means that my car shall remain occupied. But I am less troubled by the supposed inevitability of my damnation than the delight with which those Milwaukee passengers seemed to be anticipating Armageddon. They're looking forward to the apocalypse!
 
 This is what happens when people take the stories their religions offer a bit too literally. Sure enough, the narratives of the Bible, like those of many other religious texts, tell a version of the history of the human race-from God's creation of the universe, through the life and death of a messiah, right on to the end of everything and the tallying of the score. In that paradigm, if you subscribe to the right story and follow the rules, all you have to do is hang in there and wait for the ending, and you'll be saved. Best of all, the real quandaries of human existence-questions such as where do we come from, what is the right way to live, and where do we go when we die-are all preordained. A closed book.

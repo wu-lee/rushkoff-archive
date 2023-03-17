@@ -1,16 +1,16 @@
 ---
-publication: _publications/medium.md
 title: Yearning for Proof
+date: 2022-04-10 04:00:00 Z
+publication: _publications/medium.md
 subtitle: The real incentive for blockchains
 image: "/uploads/0_1hjzkw47k3s82wmk.jpg"
-date: 2022-04-10 00:00:00 -0400
 blurb: ''
 notes: 'Source: [https://onezero.medium.com/yearning-for-proof-82d178672a78](https://onezero.medium.com/yearning-for-proof-82d178672a78
   "https://onezero.medium.com/yearning-for-proof-82d178672a78")'
 refs: ''
 sources: ''
-
 ---
+
 I’ve made no secret of my skepticism about the blockchain as a solution for our economic woes. Yes, the economy is tilted, corrupt, and easily gamed — but the solution is likely social, not technological. While national, debt-based central currencies create terrible incentives, abstractions, and growth mandates, moving our transactions to a decentralized ledger maintained by wealthy hackers may not truly be any better. And most people know this, deep down.
 
 That’s why I don’t believe the tremendous emotional draw of tokens, NFTs, and DAOs has anything to do with economic equality. Not really. And while many cynical investors and collectors are excited about the possibility of betting on the right token or crypto-art images and getting rich quickly off the hype, there is a smaller but more earnest contingent of people who see something bigger at play.

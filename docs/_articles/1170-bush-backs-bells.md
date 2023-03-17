@@ -1,14 +1,14 @@
 ---
 title: Bush Backs Bells
+date: 2004-06-10 16:00:00 Z
 subtitle: 
-date: '2004-06-10T16:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 The Bush administration has signalled it won't oppose efforts by the Baby Bells to overturn laws forcing them to lease out their landlines at discounted rates -- thanks to competition from mobile networks and other technologies.
 
 In what has been billed by the press as a reversal in strategy, the Bush administration won't oppose Verizon, BellSouth, and the other Baby Bells in their quest to overturn provisions of the 1996 Telecommunications Act that require them to offer landline rental to their competitors at extremely discounted rates.

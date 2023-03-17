@@ -1,14 +1,14 @@
 ---
 title: Clonaid
+date: 2009-04-12 04:00:00 Z
 subtitle: 
-date: '2009-04-12T04:00:00.000Z'
 publication: _publications/seed.md
 blurb: SEED Magazine March/April 2003
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 On the sensationalized landscape of American media, scientific breakthroughs and alien fantasies often seem to walk hand in hand. It's as if our inability to cope with the implications of a new discovery makes us susceptible to the most outlandish and unfounded claims.
 
 Like most of America, I woke up to the Clonaid story on December 27th (I can’t help but suspect Eve was supposed to be born on Christmas day, just to stoke America’s messianic fervor). And, if for no other reason than its uncontextualized placement at the heart of the news stream, I believed it to be true for at least seven minutes. But even seven minutes is a long time when it comes to media cycles. In the minds of countless television viewers and, worse, news media professionals, the damage had been done.

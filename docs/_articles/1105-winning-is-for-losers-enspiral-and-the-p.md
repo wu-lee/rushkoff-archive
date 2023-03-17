@@ -1,14 +1,14 @@
 ---
 title: 'Winning Is for Losers: Enspiral and the Politics of Consent'
+date: 2018-11-07 17:00:00 Z
 subtitle: 
-date: '2018-11-07T17:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I receive more than 100 emails a day from people with great ideas for social change, new democratic platforms, eco-villages, and alternative currencies. Some of them have already written eloquent white papers, created gorgeous renderings, or plotted out cyclic revenue streams that seem to challenge the laws of perpetual motion. These are well-meaning people, with great educations and skills, turning their attention to the most pressing “wicked problems” of our age.
 
 Yet almost all of their ingenious blueprints for the salvation of humanity have been conceived and generated alone, in a room, on a computer. Yes, they want to find the others now — people and organizations who share the same fundamental values and who will recognize the wisdom of their master plans. But no matter whom I try to connect them to, it never quite works out. That’s because they’re reaching out to the other people much too late.

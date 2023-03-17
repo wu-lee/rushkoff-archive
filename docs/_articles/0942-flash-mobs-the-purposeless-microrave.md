@@ -1,7 +1,8 @@
 ---
 title: 'Flash Mobs: The Purposeless Microrave'
+date: 2003-09-19 04:00:00 Z
+published: false
 subtitle: 
-date: '2003-09-19T04:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: I surrender to the media hype. Here's what I think about Flash Mobs, writing
   about Flash Mobs, and writing about writing about Flash Mobs.
@@ -19,8 +20,8 @@ refs: '[{"text"=>"Cyberia", "original"=>"http://www.rushkoff.com/cyberia.html", 
   "width"=>1200, "height"=>900}], "locale"=>"en_US"}, "twitter_card"=>{"images"=>[{"url"=>"http://www.madagascarinstitute.com/wp-content/uploads/2009/10/5042142461_82b1707157_o.jpg?w=640"}],
   "card"=>"summary_large_image"}, "favicon"=>"http://www.madagascarinstitute.com/favicon.ico"}}]'
 sources: 
-published: false
 ---
+
 I've gotten more email than I want to count asking me about Flash Mobs. And phone calls from countless journalists from countless local papers, all charged with writing something about these spontaneous cell-inspired gatherings.
 
 From the perspective of a guy who used to be considered a cyberpundit (an oxymoronic title, as I see it, since this is a medium that undoes artificial expertise), it's like the old days: a phenomenon happens that seems inexplicable, or at least worthy of some ink, and then everyone and his sister (or everyone and her brother) wants to write about it, or produce a segment about it.

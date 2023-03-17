@@ -1,15 +1,15 @@
 ---
-publication: _publications/plgrm.md
 title: 'Interview: Douglas Rushkoff'
+date: 2012-12-01 05:00:00 Z
+publication: _publications/plgrm.md
 subtitle: ''
 image: ''
-date: 2012-12-01 00:00:00 -0500
 blurb: ''
 notes: "Winter 2012  \nVolume 1, Issue 2"
 refs: ''
 sources: ''
-
 ---
+
 Douglas Rushkoff is an author (_Program Or Be Programmed_; _Life, Inc._; _Nothing Sacred_), speaker, and documentary filmmaker (_The Merchants of Cool_, _The Persuaders_). Nobody has thought as much or as carefully about the technology we use, its programmed biases, and the effect those biases have on us as we interact with it. The day after he rushed his wife to the hospital with a busted up toe, PLGRM spoke with him about his forthcoming book and his old high school friends (spoiler alert: think _The West Wing_).
 
 **How's your wife's toe?**

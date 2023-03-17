@@ -1,15 +1,15 @@
 ---
 title: Mediasprawl
+date: 2003-09-01 04:00:00 Z
 subtitle: Springfield U.S.A.
-date: 2003-09-01T00:00:00.000-04:00
 publication: _publications/iowa-journal-of-cultural-studies.md
 blurb: ''
 notes: 'Source: https://pubs.lib.uiowa.edu/ijcs/article/29902/galley/138245/view/ '
 refs: ''
 sources: ''
 image: ''
-
 ---
+
 _The Simpsons_ are the closest thing in America to a national media literacy program. By pretending to be a kids’ cartoon, the show gets away with murder: that is, the virtual murder of our most coercive media iconography and techniques. For what began as entertaining interstitial material for an alternative network variety show has revealed itself, in the twenty-first century, as nothing short of a media revolution. 
 
 Maybe that’s the very reason _The Simpsons_ works so well. _The Simpsons_ were bom to provide _The Tracey Ullman Show_ with a way of cutting to commercial breaks. Their very function as a form of media was to bridge the discontinuity inherent to broadcast television. They existed to pave over the breaks. But rather than dampening the effects of these gaps in the broadcast stream, they heightened them. They acknowledged the jagged edges and recombinant forms behind the glossy patina of American television and, by doing so, initiated its deconstruction. They exist in the outlying suburbs of the American media landscape: the hinterlands of the Fox network. And living as they do—simultaneously a part of yet separate from the mainstream, primetime fare—they are able to bear witness to our cultural formulations and then comment upon them.  

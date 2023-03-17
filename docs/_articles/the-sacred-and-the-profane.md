@@ -1,16 +1,16 @@
 ---
 title: The Sacred and the Profane
+date: 2003-07-01 04:00:00 Z
 subtitle: A Conversation with Douglas Rushkoff
-date: 2003-07-01T00:00:00.000-04:00
 publication: _publications/zeek.md
 blurb: ''
 notes: Pasted from http://www.zeek.net/feature_0307.shtml and additional URLs linked
   at bottom. Includes additional images.
 refs: ''
 sources: ''
-image: /uploads/the-sacred-and-the-profane.jpg
-
+image: "/uploads/the-sacred-and-the-profane.jpg"
 ---
+
 Douglas Rushkoff is a well-known media theorist and social critic who made his mark as a prophet of the early Internet. In pioneering works such as _Cyberia, Playing the Future_, and _Media Virus_ , as well as in reconsiderations in works such as _Coercion_, Rushkoff advanced and then partly retracted a theory that the Internet's new modes of social communication were truly revolutionary, and entered into the media theorist's lexicon a host of terms once reserved for computer programmers.
 
 Now Rushkoff, Professor of Virtual Culture at NYU, has turned his attention to Judaism, which, he says, has some of the same virtues as the early Internet: text-centeredness, open source values (in which everyone has access to the 'code' and can contribute new ideas, in contrast to closed source systems in which the code is kept secret and modified only by those in charge), the capacity to change. Judaism's core message, Rushkoff says, is in some sense post-religious; in contrast to cultic religions which give to the gods all responsibility for worldly affairs, Judaism gives that responsibility to human beings. Our job is not to venerate idols but to smash them, and "engaging in the difficult work of making the most ethical, compassionate, life-affirming choice in every situation… to figure out what those choices are and how to muster the courage to resolve to live them."

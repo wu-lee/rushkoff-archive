@@ -1,16 +1,16 @@
 ---
-publication: _publications/holland-herald.md
 title: Think Like a Geek
+date: 2007-10-01 04:00:00 Z
+publication: _publications/holland-herald.md
 subtitle: ''
 image: ''
-date: 2007-10-01 00:00:00 -0400
 blurb: In this _Holland Herald_ exclusive, Douglas Rushkoff explains why outsourcing
   is out and embracing your inner nerd is what it's all about
 notes: October 2007
 refs: ''
 sources: ''
-
 ---
+
 What distinguishes you from your competition? Your brand? Your customer database? Your distribution? Your product? I beg to differ. In the long run, the only thing that distinguishes your business from anyone else's is your smarts.
 
 By "smarts" I don't just mean your personal intelligence, or even the intelligence of the people working for you, but the intelligence with which your entire culture operates. What smarts does your company bring to the table? Or to put it another way, how does the very existence of your firm change the rules of the game?

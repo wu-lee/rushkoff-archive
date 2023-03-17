@@ -1,14 +1,14 @@
 ---
 title: Phones as Hackable Platforms
+date: 2004-11-24 17:00:00 Z
 subtitle: 
-date: '2004-11-24T17:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Marko Ahtisaari wants the wireless industry to embrace its users as developers.
 
 The mobile industry is stuck. But don't start printing out those resumes quite yet. A new romance may give the industry just the kick it needs, if we are to put faith in the words of the intriguing director and head of user experience at Nokia's Insight and Foresight unit, Marko Ahtisaari.

@@ -1,17 +1,17 @@
 ---
-publication: _publications/medium.md
 title: Program or Be Programmed
+date: 2022-04-20 04:00:00 Z
+publication: _publications/medium.md
 subtitle: Ten years ago, I realized media literacy meant something different
 image: "/uploads/1_savwwixgsvnfewvo1cwwsa.jpeg"
-date: 2022-04-20 00:00:00 -0400
 blurb: That’s why the original commands we give our computers are so important. Whatever
   values we embed will be the values they achieve.
 notes: 'Source: [https://rushkoff.medium.com/program-or-be-programmed-633fb8f045f3](https://rushkoff.medium.com/program-or-be-programmed-633fb8f045f3
   "https://rushkoff.medium.com/program-or-be-programmed-633fb8f045f3")'
 refs: ''
 sources: ''
-
 ---
+
 As media theorist [John Culkin first observed](http://www.medialit.org/reading-room/john-culkin-sj-man-who-invented-media-literacy-1928-1993), we shape our technologies at the moment of their conception, but from that point forward they shape us. We humans designed the telephone, but from then on the telephone influenced how we communicated, conducted business, and conceived of the world. We also invented the automobile, but then rebuilt our cities around automotive travel and our geopolitics around fossil fuels.
 
 This axiom holds true for technologies from the pencil to the birth control pill. But computers, algorithms, and artificial intelligences add another twist: after we launch them, they not only shape us but they also begin to shape _themselves_. We give them an initial goal, then give them all the data they need to figure out how to accomplish it. From that point forward, we humans no longer fully understand how an AI may be processing information or modifying its tactics. The machine isn’t conscious enough to tell us. It’s just trying everything, and hanging onto what works.

@@ -1,14 +1,14 @@
 ---
 title: The Epidemic of Civic Amnesia Is Spreading to Liberals
+date: 2018-11-14 17:00:00 Z
 subtitle: 
-date: '2018-11-14T17:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I was at a dinner party the other night when a well-to-do woman I know, an ardent Hillary supporter in the last election, put down her wine glass and said to no one in particular, “Maybe 150 years is long enough.”
 
 She was referring to affirmative action, public housing, social services, urban renewal, and everything else she perceived to be part of a vast effort at reparations for black people since the Civil War. After more than a century of such programs, African Americans still have lower employment, worse health, less education, and fewer assets than their counterparts in other ethnic categories. “Other minorities have figured it out without the advantages,” she continued. “Why should Koreans and Mexicans be able to work it out, but not the blacks?”

@@ -1,9 +1,9 @@
 ---
-publication: _publications/changethis.md
 title: The Era of Jack Welch is Over
+date: 2010-12-08 05:00:00 Z
+publication: _publications/changethis.md
 subtitle: Create Real Value Now, or Perish
 image: ''
-date: 2010-12-08 00:00:00 -0500
 blurb: ''
 notes: |-
   Source: [http://web.archive.org/web/20101213193637/http://changethis.com/manifesto/77.01.RealValueNow/pdf/77.01.RealValueNow.pdf](http://web.archive.org/web/20101213193637/http://changethis.com/manifesto/77.01.RealValueNow/pdf/77.01.RealValueNow.pdf "http://web.archive.org/web/20101213193637/http://changethis.com/manifesto/77.01.RealValueNow/pdf/77.01.RealValueNow.pdf")
@@ -11,8 +11,8 @@ notes: |-
   Date from [https://www.porchlightbooks.com/blog/changethis/2010/the-era-of-jack-welch-is-over-create-real-value-now-or-perish-](https://www.porchlightbooks.com/blog/changethis/2010/the-era-of-jack-welch-is-over-create-real-value-now-or-perish- "https://www.porchlightbooks.com/blog/changethis/2010/the-era-of-jack-welch-is-over-create-real-value-now-or-perish-")
 refs: ''
 sources: ''
-
 ---
+
 Yes, the net has changed business as profoundly as anything since central banking. But instead of seizing the opportunity, most businesses are still so addicted to the old way of doing things that they do the very opposite: they use the net to entrench themselves even further into the Industrial Age landscape that is fast disappearing. 
 
 There is a single insight here—an immediately actionable strategy that can change your relationship to the new economic forces at play for the better. I’ll explain it here, but if you need proof or context I suggest you pick up my mercifully short 140-age book on this same subject. This is not rocket science—it is business 101. Or at least Business 101 before the net came and made everyone think like investment bankers instead of business people. 

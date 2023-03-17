@@ -1,16 +1,16 @@
 ---
-publication: _publications/new-inquiry.md
 title: Turtles From the Shells
+date: 2013-03-11 04:00:00 Z
+publication: _publications/new-inquiry.md
 subtitle: ''
 image: "/uploads/douglas-1.jpg"
-date: 2013-03-11 00:00:00 -0400
 blurb: ''
 notes: 'Source: [https://thenewinquiry.com/turtles-from-the-shells/](https://thenewinquiry.com/turtles-from-the-shells/
   "https://thenewinquiry.com/turtles-from-the-shells/")'
 refs: ''
 sources: ''
-
 ---
+
 **_The end of the world really did happen, just like the Mayans said; but not in the way we thought_**
 
 When I was a kid I saw a television documentary about the life cycle of the turtle. I remember only the beginning, when the baby turtles hatch from their shells and begin running down the beach toward the ocean. Thousands of baby turtles, enthusiastically and frantically wriggling their way to the water, just seconds after being born.

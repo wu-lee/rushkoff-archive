@@ -1,7 +1,7 @@
 ---
 title: Which One of These Sneakers Is Me?
+date: 2000-03-30 05:00:00 Z
 subtitle: 
-date: 2000-03-30 00:00:00 -0500
 publication: _publications/london_times.md
 blurb: How Marketers Outsmart Our Media-Savvy Children
 notes: "Date from [https://depaul.digication.com/walis_words/Rhetorical_Essay](https://depaul.digication.com/walis_words/Rhetorical_Essay
@@ -10,8 +10,8 @@ notes: "Date from [https://depaul.digication.com/walis_words/Rhetorical_Essay](h
   \"http://web.archive.org/web/20111105082842/https://rushkoff.com/articles-individual/2009/4/13/which-one-of-these-sneakers-is-me.html\")"
 refs: 
 sources: 
-
 ---
+
 I was in one of those sports "superstores" the other day, hoping to find a pair of trainers for myself. As I faced the giant wall of shoes, each model categorized by either sports affiliation, basketball star, economic class, racial heritage or consumer niche, I noticed a young boy standing next to me, maybe 13 years old, in even greater awe of the towering selection of footwear.
 
 His jaw was dropped and his eyes were glazed over - a psycho-physical response to the overwhelming sensory data in a self-contained consumer environment. It's a phenomenon known to retail architects as "Gruen Transfer," named for the gentleman who invented the shopping mall, where this mental paralysis is most commonly observed.

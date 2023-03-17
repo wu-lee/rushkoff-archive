@@ -1,14 +1,14 @@
 ---
 title: Operation Mindfuck 2.0
+date: 2019-04-24 16:00:00 Z
 subtitle: 
-date: '2019-04-24T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Propaganda used to mean getting people to believe stuff. Now it means getting them to question what they believe or whether there’s any truth at all. However disorienting this is, it may not be all bad.
 
 The term “propaganda” originally referred to a 17th-century committee of Roman Catholic cardinals that sought to propagate the religion through foreign missions — the marginally and only temporarily benevolent face of European colonialism. In modern times, public relations guru Ed Bernays revived the term to describe the way Woodrow Wilson’s administration convinced Americans to support U.S. involvement in World War I. Propaganda was about telling the same story through so many media channels at once that there appeared to be only one story.

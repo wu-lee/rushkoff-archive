@@ -1,15 +1,15 @@
 ---
 title: Playing With Fractals
+date: 2002-01-01 05:00:00 Z
 subtitle: 
-date: '2002-01-01T05:00:00.000Z'
 publication: _publications/anthologies.md
 blurb: Published in *Sarah Sze*, By Sarah Sze (Center for Curatorial Studies/Bard
   College, 2002)
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I first encountered Sarah Sze - whom I hadn't yet heard of - at a cocktail party in New York. She was about to leave for Paris to do an installation "with ladders."
 
 "Ladders you can climb?"I asked. "Like a jungle gym?"

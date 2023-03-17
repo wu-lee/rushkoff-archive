@@ -1,15 +1,15 @@
 ---
 title: Is Google Redefining ‘Don’t Be Evil’?
+date: 2013-12-19 05:00:00 Z
 subtitle: ''
-date: 2013-12-19T00:00:00.000-05:00
 publication: _publications/cnn.md
 blurb: ''
 notes: 'Source: https://www.cnn.com/2013/12/19/opinion/rushkoff-google-robotics/index.html '
 refs: ''
 sources: ''
 image: "/uploads/is-google-redefining-don-t-be-evil.jpg"
-
 ---
+
 _“Do the right thing; don’t be evil_
 
 _Honesty and integrity in all we do_

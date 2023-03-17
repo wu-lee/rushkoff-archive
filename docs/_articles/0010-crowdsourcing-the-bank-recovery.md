@@ -1,14 +1,14 @@
 ---
 title: Crowdsourcing the Bank Recovery
+date: 2009-03-27 04:00:00 Z
 subtitle: 
-date: 2009-03-27T04:00:00.000Z
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 I don't believe Tim Geithner’s toxic asset auction plan will work to change the basic problem of bank insolvency, but that doesn’t stop me from appreciating the sheer brilliance and post-partisan nature of the approach.
 
 Most commentators and economists are focusing on the way the plan distributes risk, perhaps unfairly—with the government guaranteeing most losses while giving hedge funds and investors half of the gains. But that misses the point of the whole thing.

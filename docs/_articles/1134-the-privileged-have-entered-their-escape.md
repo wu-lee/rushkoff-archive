@@ -1,14 +1,14 @@
 ---
 title: The Privileged Have Entered Their Escape Pods
+date: 2020-09-01 16:00:00 Z
 subtitle: 
-date: '2020-09-01T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Many of us don’t like who we have become in this pandemic but feel little freedom to choose otherwise. Officially, we may be wearing our masks to protect others, but it sure does feel appropriate to hide our faces when we’re engaging in so many self-interested, survivalist activities in the light of day — leveraging whatever privilege we may enjoy to stock and equip our homes so they can serve as makeshift bunkers, workplaces, private schools, and hermetically sealed entertainment centers.
 
 Sure, because I’m still being paid as a professor at CUNY (the City University of New York), I donated my government relief check to the local food pantry and am sending a significant portion of my income to friends who can no longer meet their basic expenses. But I also went and spent $500 on a big rubber pool for my daughter and our neighbors’ kids to use as the basis for a makeshift private summer camp. And I’ve seen similar inflatable blue bubbles all over town.

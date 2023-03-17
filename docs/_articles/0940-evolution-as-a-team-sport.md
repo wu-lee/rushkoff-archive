@@ -1,14 +1,14 @@
 ---
 title: Evolution as a Team Sport
+date: 2005-02-01 05:00:00 Z
 subtitle: 
-date: '2005-02-01T05:00:00.000Z'
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Nothing is around the corner. There's no threshold to reach, event horizon to cross, or moment of novelty to await. The change has happened. Indeed, you're soaking in it.
 
 Those of us who like to think of ourselves on the progressive or countercultural end of the spectrum can't help but try to foment change. We want our revolution, after all, and won't be satisfied until we've won - and done so in a way that everyone notices. Catastrophe and climax are prizes for our long uphill battle. But by insisting on getting to notice change in dramatic ways, we guarantee it never truly happening.

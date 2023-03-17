@@ -1,15 +1,15 @@
 ---
 title: What if All Language is Oppressive?
+date: 2021-07-12 16:00:00 Z
 subtitle: 
-date: '2021-07-12T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
-image: /uploads/1067-what-if-all-language-is-oppressive.jpg
+image: "/uploads/1067-what-if-all-language-is-oppressive.jpg"
 ---
+
 I’ve been reading a lot lately about Brandeis’s Prevention, Advocacy & Resource Center, PARC, and its well-meaning effort to make language less oppressive. The “oppressive language list” they’ve come up with mostly includes labels like “slave” to describe an enslaved person, “prisoner” for someone who is incarcerated, or “victim” for someone who has been victimized.
 
 The idea here is that turning someone’s oppression or situation into a label is forcing an identity onto them. It’s especially destructive when such labels become derogatory, such as “imbecile” for people within a certain IQ range, or “dumb” for people who are incapable of speech. So a lot of the effort behind reforming language amounts to replacing one euphemism for another, less offensive or limiting one. At least temporarily. Crippled becomes handicapped becomes disabled becomes differently abled. Learning problems become special needs, which in turn become learning differences. But these iterations never seem to last.

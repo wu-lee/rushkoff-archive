@@ -1,13 +1,12 @@
 ---
 title: 'Flash Mobs: The Purposeless MicroRave'
+date: 2003-09-19 16:00:00 Z
 subtitle: 
-date: '2003-09-19T16:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
 
 I surrender to the media hype. Here's what I think about Flash Mobs, writing about Flash Mobs, and writing about writing about Flash Mobs.

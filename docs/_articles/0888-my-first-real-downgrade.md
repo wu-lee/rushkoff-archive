@@ -1,14 +1,14 @@
 ---
 title: My First Real Downgrade
+date: 1997-08-01 04:00:00 Z
 subtitle: 
-date: '1997-08-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: How Spam Nuked My Ability to Cybercommute
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Never, ever, respond to an email advertisement again. You'll be doing yourself and the rest of us trying to work or play on the Internet a big favor.
 
 I've made a habit, perhaps even an ethic, of shrugging off commercial advances onto the Internet. Since the real estate in cyberspace is effectively infinite, I have tended to adopt an attitude of live and let live. Although at least twenty spam messages find their way into my mailbox each day, I've gotten pretty good at identifying the "subject lines" of advertisements and then deleting without even reading them.

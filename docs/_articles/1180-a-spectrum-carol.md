@@ -1,14 +1,14 @@
 ---
 title: A Spectrum Carol
+date: 2004-12-22 17:00:00 Z
 subtitle: 
-date: '2004-12-22T17:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Yes, it's holiday time, so here's a true legend from the early days of wireless data.
 
 'Twas the night before Airport, when all through the house

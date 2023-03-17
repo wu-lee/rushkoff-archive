@@ -1,14 +1,14 @@
 ---
 title: Eyes on the Prize
+date: 2000-10-01 04:00:00 Z
 subtitle: 
-date: '2000-10-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Let business build our Internet for us
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Those of you who have followed my work for any length of time know I resent the way business has taken over the Internet. Since 1994, when the international research communications infrastructure was officially opened to business, I've watched what has appeared to me to be a degradation of the content, spirit, and mission of the interactive space.
 
 Well, I'm done complaining.

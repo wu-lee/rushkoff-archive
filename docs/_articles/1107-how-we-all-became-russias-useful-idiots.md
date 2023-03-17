@@ -1,14 +1,14 @@
 ---
 title: How We All Became Russia’s ‘Useful Idiots’
+date: 2018-12-05 17:00:00 Z
 subtitle: 
-date: '2018-12-05T17:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 The New York Times recently ran one of the most compelling and informative documentaries I’ve seen since Adam Curtis’ mind-blowing Century of the Self series. “Operation Infektion,” as it’s called, is a tragically, egregiously underpublicized and difficult to access trio of 15-minute videos — either lost to the ineptitude of the Times web staff or simply buried in the torrent of other daily news and treasonous revelations.
 
 The films chronicle the Russian effort to spread conspiracy theories in the United States since the 1980s, beginning with the planted story in an Indian newspaper about the AIDS virus being concocted in a U.S. military lab, right through the story about Hillary Clinton running a child sex ring out of the basement of a pizzeria — which turned out to have no basement. The movies show how 85 percent or more of Russian intelligence activity and budgeting went to promoting fake news stories in the United States. Intelligence agents’ yearly review focused primarily on how many ideas they came up with for conspiracies and how many they were able to get picked up by dupes, called “useful idiots,” such as Alex Jones and Sean Hannity. The possibility that a U.S. president would retweet such planted stories, or even repeat them in his speeches, was beyond their wildest hopes.

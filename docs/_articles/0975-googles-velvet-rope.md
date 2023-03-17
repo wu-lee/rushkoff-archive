@@ -1,7 +1,7 @@
 ---
 title: Google's Velvet Rope
+date: 2009-10-14 00:00:00 Z
 subtitle: 
-date: '2009-10-14T00:00:00.000Z'
 publication: _publications/daily_beast.md
 blurb: Ubiquity ain't what it used to be.
 notes: 
@@ -22,8 +22,8 @@ refs: '[{"text"=>"this week''s column on Daily Beast", "original"=>"http://www.t
   "images"=>[{"url"=>"https://img.thedailybeast.com/image/upload/fl_lossy,q_auto/placeholder_euli9k"}]},
   "favicon"=>"http://www.thedailybeast.com/static/media/favicon.b30a79ed.ico"}}]'
 sources: 
-published: true
 ---
+
 For Google, the problem with being a free, abundant, and rather infinite set of services is that it's hard to create much of a stir about anything. There are so many major software service options under the "more" menu on the Gmail page that they've had to go and add a final item called "even *more*." Blogger, Calendar, Docs, Earth, Health, YouTube, Chrome—it's all there, all the time, for everyone.
 
 While that may be great for a 21st-century technology movement dedicated to offering the infinity of the info-sphere to the masses, it's not necessarily great for a 21st-century technology company looking to increase value for its shareholders. To do that, a company needs some mystique, some barriers to entry: a virtual velvet rope that—just like the one used by a nightclub—has less to do with any real threat of overcrowding than the need to create the illusion of exclusivity. If you block them, they will come.

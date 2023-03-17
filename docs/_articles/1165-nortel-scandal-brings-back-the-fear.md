@@ -1,14 +1,14 @@
 ---
 title: Nortel Scandal Brings Back the Fear
+date: 2004-04-30 16:00:00 Z
 subtitle: 
-date: '2004-04-30T16:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Just last week, it looked like a Fed rate hike or the cooling of China's markets were Wall Street's biggest worries. Now, corporate malfeasance has roared back into the headlines.
 
 Nortel Networks Corporation is reviving both professional and personal investors' worst fears that the accounting woes of the Tyco/Enron Era are not really behind us, and that they've come to roost smack in the middle of the telecommunications industry.

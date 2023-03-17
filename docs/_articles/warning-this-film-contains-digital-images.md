@@ -1,16 +1,16 @@
 ---
-publication: _publications/nyt_syndicate_guardian_of_london.md
 title: 'Warning: This Film Contains Digital Images'
+date: 2000-05-31 04:00:00 Z
+publication: _publications/nyt_syndicate_guardian_of_london.md
 subtitle: ''
 image: ''
-date: 2000-05-31 00:00:00 -0400
 blurb: ''
 notes: '[https://www.theguardian.com/technology/2000/jun/01/onlinesupplement8](https://www.theguardian.com/technology/2000/jun/01/onlinesupplement8
   "https://www.theguardian.com/technology/2000/jun/01/onlinesupplement8")'
 refs: ''
 sources: ''
-
 ---
+
 I thought it was just me. About half an hour into the Ridley Scott action picture Gladiator, I got a strange sort of headache. It began somewhere behind my eyes, and quickly travelled back into my brain. I had a vague memory of the sensation, and as the burly characters hacked at one another inside a computer-rendered Roman Coliseum, I realised when I had experienced this same headache before: travelling to Jar-Jar Binks's underwater home city in Star Wars, The Phantom Menace.
 
 I have been similarly plagued by a kind of unsettling dizziness whenever I listen to MP3 music files - the format into which songs are compressed for easy downloading on the internet. The ease with which I can obtain music using programs like Napster is more than outweighed by my inability to listen to them. They don't sound like music at all to me, but like the idea of music. Shallow, fuzzy, and unreal.

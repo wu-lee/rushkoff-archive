@@ -1,14 +1,14 @@
 ---
 title: What If Mark Zuckerberg Had Stayed in School?
+date: 2019-03-21 16:00:00 Z
 subtitle: 
-date: '2019-03-21T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 This month, Facebook founder Mark Zuckerberg has announced yet another new direction for his famously bad-acting company. Now, he says, the platform once responsible for the Cambridge Analytica election fiasco and countless other personal invasions will become the poster child for privacy and encryption. Maybe after all the evasions, missteps, and pivots, Zuckerberg is finally learning from his experiences.
 
 But as I watch Mark Zuckerberg zig and zag his way through one disaster after another, I can’t help but muse on one of the ways he could have spared himself — and the rest of humanity — all this trouble. What if he had simply stayed in school?

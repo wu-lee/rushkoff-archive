@@ -1,14 +1,14 @@
 ---
 title: Trump Believes the Law Itself Is Corruption
+date: 2019-11-25 16:56:02 Z
 subtitle: 
-date: '2019-11-25T16:56:02.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 As a kid, I used to wonder if civilization is really just the process by which older, weaker people prevent younger, stronger ones from taking over. By the time the younger ones figure it all out, they’re old enough to need the protection of civilization’s rules themselves.
 
 This is not too far from the way President Donald Trump sees the legal system: Laws are the enemy of the effective CEO and benevolent dictator alike. They are the limits through which the lazy and inferior hold back the great. In this sense, laws are a corruption of the natural order where the strong survive by leveraging their evolutionary advantages over the weak.

@@ -1,7 +1,8 @@
 ---
 title: 'Universal Access: Not Just for the Disabled'
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: 
 notes: 
@@ -31,8 +32,8 @@ refs: '[{"text"=>"Mobile Speak accessibility program.", "original"=>"http://www.
   "balance training aid", "health problems technology", "neuromodulation", "profoundly
   blind", "sensory substitution", "vestibular treatment", "vision aid"], "favicon"=>"https://static.parastorage.com/client/pfavico.ico"}}]'
 sources: 
-published: false
 ---
+
 Paying attention to one group's disabilities enhances usability for everyone else.
 
   

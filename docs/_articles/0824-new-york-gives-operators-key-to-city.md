@@ -1,7 +1,8 @@
 ---
 title: New York Gives Operators Key to City
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: The city's lampposts will provide more than just light, thanks to a new deal
   with a number of wireless companies.
@@ -9,8 +10,8 @@ notes:
 refs: '[{"text"=>"Local coverage", "original"=>"http://www.nypost.com/news/regionalnews/18259.htm",
   "meta"=>{"title"=>"Page not found | New York Post", "favicon"=>"https://nypost.com/wp-content/themes/nypost-2016/static/images/favicon-nypost/favicon.ico"}}]'
 sources: 
-published: false
 ---
+
 The city's lampposts will provide more than just light, thanks to a new deal with a number of wireless companies.
 
   

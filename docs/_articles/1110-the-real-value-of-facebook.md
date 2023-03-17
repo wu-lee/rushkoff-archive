@@ -1,14 +1,14 @@
 ---
 title: The Real Value of Facebook
+date: 2019-01-09 17:00:00 Z
 subtitle: 
-date: '2019-01-09T17:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 It feels like we’ve finally reached “peak Facebook.”
 
 Thanks in part to recent revelations about how the company gave access to user data and private messages to Netflix, Spotify, and others, as well as the dirty tricks campaign to smear Facebook critic George Soros, people are becoming aware that the platform doesn’t merely hurt society as a side effect. Facebook is an intentionally bad actor. That said, maybe there’s something to be gained or learned from the social network before it’s gone.

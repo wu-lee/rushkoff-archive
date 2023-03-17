@@ -1,14 +1,14 @@
 ---
 title: Outsourced Boredom
+date: 2007-02-27 05:00:00 Z
 subtitle: 
-date: '2007-02-27T05:00:00.000Z'
 publication: _publications/discover.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Back in the mid-18th century, Hungarian author and inventor Wolfgang von Kempelen amazed audiences with what appeared to be a chess-playing automaton. Called the Mechanical Turk, it consisted of a wooden box with whirring gears and a mannequin dressed like a Turk, whose hand deftly moved pieces across the board, beating most of its human opponents.
 
 Of course, the Turk was really controlled by a human being—a chess master, in fact—hidden within the box along with a second chessboard linked to the first with magnets. The Mechanical Turk was just an ingenious hoax, one that fooled many gullible souls.

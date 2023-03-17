@@ -1,5 +1,5 @@
 ---
 title: Jewish Journal
 url: ''
-
 ---
+

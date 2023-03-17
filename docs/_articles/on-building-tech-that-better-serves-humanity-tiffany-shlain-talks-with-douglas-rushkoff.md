@@ -1,16 +1,16 @@
 ---
-publication: _publications/how-to-mozfest.md
 title: On Building Tech That Better Serves Humanity - Tiffany Shlain Talks With Douglas
   Rushkoff
+date: 2019-10-26 04:00:00 Z
+publication: _publications/how-to-mozfest.md
 subtitle: ''
 image: ''
-date: 2019-10-26 00:00:00 -0400
 blurb: ''
 notes: ''
 refs: ''
 sources: ''
-
 ---
+
 From: Tiffany  
 To: Douglas
 

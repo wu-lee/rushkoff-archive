@@ -1,17 +1,17 @@
 ---
-publication: _publications/arthur.md
 title: Crowdsourcing the Bank Recovery
+date: 2009-03-27 04:00:00 Z
+published: false
+publication: _publications/arthur.md
 subtitle: ''
 image: ''
-date: 2009-03-27 00:00:00 -0400
 blurb: ''
 notes: '[https://arthurmag.com/2009/03/30/crowdsourcing-the-bank-recovery-by-douglas-rushkoff/](https://arthurmag.com/2009/03/30/crowdsourcing-the-bank-recovery-by-douglas-rushkoff/
   "https://arthurmag.com/2009/03/30/crowdsourcing-the-bank-recovery-by-douglas-rushkoff/")'
 refs: ''
 sources: ''
-published: false
-
 ---
+
 I don’t believe Tim Geithner’s toxic asset auction plan will work to change the basic problem of bank insolvency, but that doesn’t stop me from appreciating the sheer brilliance and post-partisan nature of the approach.
 
 Most commentators and economists are focusing on the way the plan distributes risk, perhaps unfairly—with the government guaranteeing most losses while giving hedge funds and investors half of the gains. But that misses the point of the whole thing.  

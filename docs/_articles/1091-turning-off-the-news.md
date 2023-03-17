@@ -1,14 +1,14 @@
 ---
 title: Turning Off the “News”
+date: 2021-09-10 16:00:00 Z
 subtitle: 
-date: '2021-09-10T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Thanks to recent flooding in my part of the country, I’ve been too busy digging myself and my neighbors out the mud to watch the news or scroll through Twitter. Not surprisingly, I am better for it.
 
 Somehow, even without the benefit of either Glenn Greenwald’s tweets or Rachel Maddow’s rants, I’m still aware of what’s going on in the world. I get the newspaper on my doorstep, and email headlines in my inbox. I know about climate change, the California governor recall election, and the new citizen-informant system in Texas for people to turn in neighbors who try to get abortions after five weeks. But, having “dropped out” just after Joe Rogan recovered from Covid, I don’t know who is winning the argument over whether it was the expensive 

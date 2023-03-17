@@ -1,7 +1,7 @@
 ---
 title: Is Apple the New Big Brother?
+date: 2009-08-11 04:00:00 Z
 subtitle: 
-date: '2009-08-11T04:00:00.000Z'
 publication: _publications/daily_beast.md
 blurb: 'Has the company that famously satirized the stultifying primacy of IBM-compatible
   computers in its Orwellian commercial for the 1984 Super Bowl finally emerged as
@@ -14,8 +14,8 @@ blurb: 'Has the company that famously satirized the stultifying primacy of IBM-c
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 It was supposed to be Bill Gates who turned out to be Satan.
 
 What is being lost on those of us who remember Apple as an alternative to IBM or, better, Bill Gates' Windows evil empire, is that Apple has always been a closed, self-interested, and essentially profit-maximizing enterprise. The point is not that Apple has turned to the dark side. It has not slowly succumbed to the logic of the corporation. It's simply that by becoming a networking company in addition to a computer company, it finally exposed its true core.

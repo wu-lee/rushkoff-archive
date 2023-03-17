@@ -1,14 +1,14 @@
 ---
 title: Disposable News
+date: 2015-10-13 04:00:00 Z
 subtitle: 
-date: '2015-10-13T04:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I have become fascinated and concerned by the efforts of social media companies to become news services. Facebook, Twitter, and even Snapchat are now competing to be the way we find news stories. Is that because these companies are so very committed to making sure their users are informed? Does that have anything to do with the mandate (such as it is) of social media platforms?
 
 It’s one thing for Twitter and Facebook to do this. It’s necessarily trivializing and sensational, but at least the things on Facebook and Twitter — for better and for worse — become part of the record. The stuff on Snapchat disappears altogether.

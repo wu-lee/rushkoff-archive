@@ -1,14 +1,14 @@
 ---
 title: Conforming to the Machine
+date: 2000-12-01 05:00:00 Z
 subtitle: 
-date: '2000-12-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: How to bring machines to people, rather than the other way around.
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 The old man had never seen a computer up close before. As countless other first-time computer users had done before him, he picked up the mouse, pointed it at the monitor, and clicked.
 
 The hundred computer executives, researchers, and marketers who were watching him laughed out loud. Some of the well-dressed executives even turned red and got tears in their eyes. The poor old guy was approaching a new technology in the most natural way he knew how. But because he didn't conform to the machine's needs, he became the object of ridicule.

@@ -1,14 +1,14 @@
 ---
 title: Banned in Boston
+date: 2008-05-09 04:00:00 Z
 subtitle: 
-date: '2008-05-09T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: March 1997
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Thanks to a mayor looking for votes from the moral right, children in Boston are no longer allowed to access Internet sites offering information about feminism or counseling on eating disorders. Odd? Indeed. But when a politician turns over the authority to censor what our children see online to a company looking to maintain a competitive advantage while advancing its own agendas, anything is possible.
 
 Internet filtering software sounds like a good idea on the surface. It prevents a Web browser from accessing sites with pornography and other subjects parents might not like their children to see. The mayor of Boston has ordered that just such a filtering product, called CyberPatrol, be installed in all public schools and libraries in his city.

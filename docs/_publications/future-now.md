@@ -1,5 +1,5 @@
 ---
 title: Future Now
 url: ''
-
 ---
+

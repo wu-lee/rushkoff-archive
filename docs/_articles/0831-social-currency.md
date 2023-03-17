@@ -1,15 +1,16 @@
 ---
 title: Social Currency
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: No matter how colorful you make it, content will never be king in a wireless
   world. It's not the content that matters - it's the contact.
 notes: 
 refs: 
 sources: 
-published: false
 ---
+
 No matter how colorful you make it, content will never be king in a wireless world. It's not the content that matters - it's the contact.
 
 Wireless providers are busy investing in content. Or, more accurately, in deals with content 'partners' who can provide data with file sizes huge enough to justify the industry's massive expenditure on multimedia-ready platforms and networks. Cart before the horse, as always, the cellular industry may have just speculated itself off yet another cliff.

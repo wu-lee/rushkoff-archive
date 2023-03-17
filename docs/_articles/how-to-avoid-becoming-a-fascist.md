@@ -1,9 +1,9 @@
 ---
-publication: _publications/medium.md
 title: How to Avoid Becoming a Fascist
+date: 2021-10-21 04:00:00 Z
+publication: _publications/medium.md
 subtitle: Why I turned down an appearance on Steve Bannon’s podcast
 image: "/uploads/1_ojovgbi4zxc-durmceahwq.jpeg"
-date: 2021-10-21 00:00:00 -0400
 blurb: Here was one of the others — the most other dude on the planet, even more other
   than Trump himself, asking me to engage. On some level, it felt cowardly, even hypocritical
   not to accept the challenge.
@@ -11,8 +11,8 @@ notes: 'Source: [https://gen.medium.com/how-to-avoid-becoming-a-fascist-8c013248
   "https://gen.medium.com/how-to-avoid-becoming-a-fascist-8c0132483151")'
 refs: ''
 sources: ''
-
 ---
+
 This week, while I was watching the U.S. House committee debate contempt charges against former Trump aide Steve Bannon, a surprising email popped into my inbox: an invitation to appear as a guest on Bannon’s podcast _The War Room: Pandemic_, to talk about transhumanism. His people said he admired my work, my book [_Team Human _](https://www.amazon.com/Team-Human-Douglas-Rushkoff/dp/0393541533/)in particular, and that I would be indispensable to any discussion of excessive uses of technology.
 
 Cut to the chase: No, I did not accept. But I have to admit, I thought long and hard about the opportunity, what my choice would mean to my understanding of public discourse, what common ground I may have with Steve Bannon, and — perhaps most of all — what this invitation said about my work.

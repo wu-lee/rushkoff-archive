@@ -1,15 +1,15 @@
 ---
-publication: _publications/suicide-girls-papercuts.md
 title: Interview
+date: 2007-03-01 05:00:00 Z
+publication: _publications/suicide-girls-papercuts.md
 subtitle: ''
 image: ''
-date: 2007-03-01 00:00:00 -0500
 blurb: ''
 notes: March 2007. No actual title.
 refs: ''
 sources: ''
-
 ---
+
 **Douglas Rushkoff has written on subjects ranging from religion to technology. He's been a best selling author for many years, but it's only recently that he's entered into the comic book world. His Vertigo book. Testament, examines a near future in which a band of renegades have teamed up to combat threats to freedom.**
 
 **(excerpted - full interview at SuicideGirls.com)**

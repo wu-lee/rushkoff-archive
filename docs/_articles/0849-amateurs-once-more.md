@@ -1,14 +1,14 @@
 ---
 title: Amateurs Once More
+date: 2001-06-01 04:00:00 Z
 subtitle: 
-date: '2001-06-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: My Open-Source Novel
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 The internet is for amateurs. No, that's not an insult, but high praise. "Amateurs," by definition, do what they do for the love of it. Because it's fun, social, enriching, transformational, evolutionary, or even just beautiful. Now that the investment community sees the net is seen as more of a lame duck than a cash cow, the only ones left out here (or the only ones that should be) are us amateurs.
 
 How dare I raise myself to the same level as amateurs? I get paid for most of what I do online. Doesn't this make me a lowly professional? I say "no." The point is to do what we do online because we love it - whether or not someone agrees to pay us. Anything done in this very transparent medium for any other reason gets exposed. It's as if the more active mindset we use to navigate internet allows us to detect the intentions of its many posters and publishers. If there's no real passion for anything but revenue, we know it. We can smell it.

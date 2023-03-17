@@ -1,14 +1,14 @@
 ---
 title: Another Kind of Cell Damage
+date: 2005-04-13 16:00:00 Z
 subtitle: 
-date: '2005-04-13T16:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Mobile phones marketed to children may cause less injury to tykes than they do to the image of the entire wireless industry.
 
 Only in America are marketers desperate enough to defy common sense without a second thought. Some companies approach their customer bases with the kind of short-term aims that threaten not only their own interests, but everybody else's as well.

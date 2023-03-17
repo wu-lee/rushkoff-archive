@@ -1,14 +1,14 @@
 ---
 title: 'Technorealism: Get Real!'
+date: 1998-04-06 04:00:00 Z
 subtitle: 
-date: 1998-04-06T04:00:00.000Z
 publication: _publications/nation.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 The New York Times recently launched a new technology section with an ad campaign that asked: Are you a technophile or a technophobe? As far as we can tell we're neither--or maybe both. And we're not alone. Although most commentary about the Internet and other innovations is replete with either breathless hype or doomsday talk, a silent majority finds such extremism inconsistent with its own experience and beliefs. At least, that's the claim made by those giving this perspective a name: technorealism.
 
 Technorealism is a more nuanced way to think about the changes occurring due to the rise of the microchip, the digital bit and interactive networks. Among other things, it seeks to puncture some of the prevailing myths of this so-called information age--like the canard that technology can solve all market problems (such as inequality and monopoly), or the reciprocal claim that markets can solve all technology problems (such as protecting privacy and insuring universal access). Technorealism rests on a collection of shared principles, as set forth below by a new generation of cultural critics. We admire their document's public-interest pragmatism and are especially fond of its claim that public debate about new technologies must be politicized. Maybe we've been technorealists all along. Maybe you're one, too.

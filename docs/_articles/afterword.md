@@ -1,9 +1,9 @@
 ---
-publication: _publications/the-image-a-guide-to-pseudo-events-in-america.md
 title: Afterword
+date: 2011-01-01 05:00:00 Z
+publication: _publications/the-image-a-guide-to-pseudo-events-in-america.md
 subtitle: ''
 image: ''
-date: 2011-01-01 00:00:00 -0500
 blurb: ''
 notes: |-
   Source: [https://rushkoff.com/my-preface-to-boorstins-the-image/](https://rushkoff.com/my-preface-to-boorstins-the-image/ "https://rushkoff.com/my-preface-to-boorstins-the-image/")
@@ -11,8 +11,8 @@ notes: |-
   Date: 2011
 refs: ''
 sources: ''
-
 ---
+
 The first edition of The Image was published in 1961, the same year I was born. Kennedy was yet to be assassinated, LSD was yet to reach Harvard University, and the French post-modernists were yet to begin their deconstruction of America’s television-driven culture.
 
 Ironically perhaps, like most readers coming to the book today, my main access to the sensibility of this era comes from television shows such as _MadMen_ which, for all their slick characters, cigarette smoking, and cynical dialogue, actually depict a kind of innocence: the last moment in our history before the images created on Madison Avenue overtook reality. From our current perspective within the chaos of the Twittersphere, the discussions between admen about what slogans might best sell pantyhose seem almost quaint. Though rather devious in its intent, there was an art to the manufacturing of images that could touch the untapped recesses of human psychology. This was a craft that could be mastered by one set of human beings to influence the behaviors of another.

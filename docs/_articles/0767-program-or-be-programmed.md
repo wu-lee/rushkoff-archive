@@ -1,7 +1,7 @@
 ---
 title: Program or Be Programmed
+date: 2010-10-07 04:00:00 Z
 subtitle: 
-date: 2010-10-07T04:00:00.000Z
 publication: _publications/shareable.md
 blurb: 
 notes: 
@@ -57,8 +57,8 @@ refs: '[{"text"=>"Program or be Programmed: Ten Commands for the Digital Age", "
   for Digital Age, by Douglas Rushkoff - OR Books", "site"=>"@orbooks", "images"=>[{"url"=>"https://www.orbooks.com/wp-content/uploads/2010/08/Program-web.jpg"}],
   "creator"=>"@orbooks"}, "favicon"=>"https://www.orbooks.com/wp-content/uploads/2019/04/orlogo-300x300.png"}}]'
 sources: 
-
 ---
+
 An excerpt from Douglas Rushkoff's latest book, *[Program or be Programmed: Ten Commands for the Digital Age](http://www.orbooks.com/our-books/program/).*
 
 ***Editor's Note:** Douglas Rushkoff is an oracle of the digital age, an author addressing issues few have yet identified. Rushkoff’s latest work,* [Program or be Programmed: Ten Commands for a Digital Age](http://www.orbooks.com/our-books/program/), *sets aside tired debates about the societal value of the Internet and instead posits that the crucial question at hand is whether we direct technology, or let ourselves be directed by it and those who have mastered it. “Choose the former,” writes Rushkoff, “and you gain access to the control panel of civilization. Choose the latter, and it could be the last real choice you get to make.” Rushkoff presents ten succinct commands for choosing our own destiny in the online era, ranging from “Do Not Be ‘Always On’” to “Do Not Sell Your Friends”. In the process, he presents a way we can actively leverage these technologies to build a more shareable world similar to the one we envision in our report The New Sharing Economy, as opposed to allowing our tools and those who create them to define the social constructs of the current era.*

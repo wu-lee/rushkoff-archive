@@ -1,17 +1,17 @@
 ---
-publication: _publications/open-source-democracy.md
 title: Open Source Democracy
+date: 2003-01-01 05:00:00 Z
+publication: _publications/open-source-democracy.md
 subtitle: ''
 image: ''
-date: 2003-01-01 00:00:00 -0500
 blurb: ''
 notes: 'Source:  [http://www.demos.co.uk/opensourcedemocracy_pdf_media_public.aspx](http://www.demos.co.uk/opensourcedemocracy_pdf_media_public.aspx
   "http://www.demos.co.uk/opensourcedemocracy_pdf_media_public.aspx") (via Wayback
   Machine)'
 refs: ''
 sources: ''
-
 ---
+
 **1. Introduction**
 
 The emergence of the interactive mediaspace may offer a new model for cooperation. Although it may have disappointed many in the technology industry, the rise of interactive media, the birth of a new medium, the battle to control it and the downfall of the first victorious camp, taught us a lot about the relationship of ideas to the media through which they are disseminated. Those who witnessed or, better, have participated in the development of the interactive mediaspace have a very new understanding of the way that cultural narratives are developed, monopolised and challenged. And this knowledge extends, by allegory and experience, to areas far beyond digital culture, to the broader challenges of our time.

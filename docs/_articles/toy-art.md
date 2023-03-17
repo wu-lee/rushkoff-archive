@@ -1,15 +1,15 @@
 ---
-publication: _publications/art-toys.md
 title: Toy Art
+date: 2010-09-01 04:00:00 Z
+publication: _publications/art-toys.md
 subtitle: ''
 image: ''
-date: 2010-09-01 00:00:00 -0400
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-
 ---
+
 My friend Andrew had always known about this kind of stuff before I did. He took me on the N-Judah into San Francisco's "real" Chinatown (the Inner Sunset district - not that tourist trap downtown) and into an inconspicuous, fairly ratty store with comic books, video games, playing cards, and books - all in Japanese.
 
 It was like an Asian version of a mall store called Spencer Gifts that we used to go when we were kids, to scope new bongs, incense, and blacklight posters. Except that none of the stuff here was about making kids feel more adult. Most of it, in fact, was about making adults feel more like kids.

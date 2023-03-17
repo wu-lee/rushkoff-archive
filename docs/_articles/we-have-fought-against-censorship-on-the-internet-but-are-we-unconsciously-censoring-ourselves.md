@@ -1,17 +1,17 @@
 ---
-publication: _publications/nyt_syndicate_guardian_of_london.md
 title: We have fought against censorship on the internet - but are we unconsciously
   censoring ourselves?
+date: 2000-09-27 04:00:00 Z
+publication: _publications/nyt_syndicate_guardian_of_london.md
 subtitle: ''
 image: ''
-date: 2000-09-27 00:00:00 -0400
 blurb: ''
 notes: '[https://www.theguardian.com/technology/2000/sep/28/onlinesupplement.censorship](https://www.theguardian.com/technology/2000/sep/28/onlinesupplement.censorship
   "https://www.theguardian.com/technology/2000/sep/28/onlinesupplement.censorship")'
 refs: ''
 sources: ''
-
 ---
+
 Media is a consensus. It's one of the ways we establish what is going on in the world around us. That's why it's so important that the mediaspace remains open and free of censorship. We should all have a say in what it is we think is happening, and a chance to contribute to the conversation.
 
 The internet provided us with just such an opportunity - particularly because it was free of the kinds of legal and business pressures that restrict more mainstream and broadcast media.

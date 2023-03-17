@@ -1,14 +1,14 @@
 ---
 title: I Am Your Father Luke
+date: 1997-03-01 05:00:00 Z
 subtitle: 
-date: '1997-03-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Why Luke should have accepted Darth's first offer
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 The release of the Star Wars "Special Edition" has left me in a funk.
 
 I am a fan of the movies and a fan of technology - yet maintaining both of these perspectives is proving impossible. Despite their hi-tech special effects, the Star Wars movies are anti-technology to their core. By attempting to wrap a space opera around the traditional heroic journey, George Lucas has needlessly polarized spirituality and technology. He put them at war with one another.

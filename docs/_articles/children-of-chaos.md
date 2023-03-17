@@ -1,16 +1,16 @@
 ---
-publication: _publications/world-review.md
 title: Children of Chaos
+date: 1997-01-01 05:00:00 Z
+publication: _publications/world-review.md
 subtitle: Surviving the end of the world as we know it
 image: ''
-date: 1997-01-01 00:00:00 -0500
 blurb: The younger generation are native in a hyper-mediated, electronic world where
   most adults are mere immigrants.
 notes: Vol. 2, No. 3, 1997
 refs: ''
 sources: ''
-
 ---
+
 A guy goes to the doctor, complaining of terrible tapeworm. He's tried every known remedy, but to no avail. The doctor tells him not to worry--just to come back the next day with three bananas and a cookie. The man is perplexed, but he has faith in the doctor's fine reputation and returns the next day as he has been instructed. The doctor asks the man to pull down his pants and bend over. He then proceeds to insert the three bananas, one by one, into the man's rectum. He waits for one minute, then inserts the cookie.
 
 The doctor tells the man to return every day for two weeks, and every day he does the same thing: insert the three bananas, wait one minute, and then insert the cookie. On the last day, the doctor tells his patient to return once more, with three bananas and a hammer. While the man cringes at the thought of having to take in a hammer, he dutifully returns with the requested items.

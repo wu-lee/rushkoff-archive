@@ -1,7 +1,7 @@
 ---
 title: Was Government Hack Our Final Warning?
+date: 2015-06-09 04:00:00 Z
 subtitle: ''
-date: 2015-06-09T00:00:00.000-04:00
 publication: _publications/cnn.md
 blurb: ''
 notes: 'Source: https://rushkoff.com/cnn-was-government-hack-our-final-warning/ .
@@ -9,8 +9,8 @@ notes: 'Source: https://rushkoff.com/cnn-was-government-hack-our-final-warning/ 
 refs: ''
 sources: ''
 image: ''
-
 ---
+
 Was this the big one?
 
 Will the breach of at least 4 million government personnel files across all federal government agencies, including the private data of those applying for top-security clearance, be the one that brings everything down? Or is it merely another tremor before the big quake we’ve all been expecting but are in too much denial to prepare for?

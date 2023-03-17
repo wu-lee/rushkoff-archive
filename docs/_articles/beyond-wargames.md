@@ -1,15 +1,15 @@
 ---
-publication: _publications/rebooting-america-ideas-for-redesigning-american-democracy-for-the-internet-age.md
 title: Beyond Wargames
+date: 2008-09-01 04:00:00 Z
+publication: _publications/rebooting-america-ideas-for-redesigning-american-democracy-for-the-internet-age.md
 subtitle: ''
 image: ''
-date: 2008-09-01 00:00:00 -0400
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-
 ---
+
 "Our nation is both a functioning nation and a model for a functioning nation."
 
 Whenever democracy and computers show up in the same sentence, I can't help but flash back to some early Cold War simulations conducted by RAND corporation. If we bomb Moscow and then they bomb Phoenix, and so on..... Basic zero-sum game theory, applied through the paranoid schizophrenic lens of _Beautiful Mind_ mathematician John Nash, yielded the no-win Doomsday scenario eventually satirized in the cyber-action flick _War Games._

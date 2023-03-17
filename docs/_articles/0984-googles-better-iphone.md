@@ -1,7 +1,7 @@
 ---
 title: Google's Better iPhone
+date: 2009-10-06 04:00:00 Z
 subtitle: 
-date: '2009-10-06T04:00:00.000Z'
 publication: _publications/daily_beast.md
 blurb: I feel a large dose of schadenfreude whenever iPhone users get dropped in the
   middle of their calls with me. Somehow, the failings of the overtaxed AT&T network
@@ -10,8 +10,8 @@ blurb: I feel a large dose of schadenfreude whenever iPhone users get dropped in
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 If today's announcement of a Google-Verizon partnership plays out as planned, that's a tradeoff we won't have to make anymore.
 
 That's right: The biggest and most notoriously closed wireless carrier on Earth is partnering with the biggest and most open Internet company ever, to bring Google's new Android phone platform to users who want a truly expandable smart phone, yet still require a robust and dependable carrier.

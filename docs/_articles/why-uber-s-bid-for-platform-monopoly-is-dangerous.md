@@ -1,14 +1,14 @@
 ---
 title: Why Uber’s Bid for Platform Monopoly is Dangerous
+date: 2015-10-17 04:00:00 Z
 subtitle: ''
-date: 2015-10-17 00:00:00 -0400
 publication: _publications/medium.md
 blurb: ''
 notes: Pasted from https://rushkoff.medium.com/my-problem-with-uber-all-along-has-been-that-it-s-optimized-for-some-really-specific-utility-but-4bcbeb863903
 refs: ''
 sources: ''
-
 ---
+
 My problem with Uber all along has been that it’s optimized for a really specific utility, but at the expense of others. It’s a bit like online universities, which offer courses isolated from the fabric of education or a learning community. That’s the nature of any digital business: you get what you program for, but lose everything else — and sometimes it doesn’t come back.
 
 Remember what Clearchannel did to the FM dial? They bought it all up, and replaced local stations and deep music knowledge with long-distance, computer-generated play lists. It was all excused as free market capitalism; thanks to VC they had more money, so they were entitled to purchase the landscape. Eventually, the non-local Clearchannel FM stations proved they weren’t profitable enough to sustain the company’s valuation, so Clearchannel began selling them. But the institutional knowledge enjoyed by those original FM stations was gone.

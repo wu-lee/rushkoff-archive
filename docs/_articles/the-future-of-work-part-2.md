@@ -1,16 +1,16 @@
 ---
-publication: _publications/medium.md
 title: The Future of Work — Part 2
+date: 2021-09-24 04:00:00 Z
+publication: _publications/medium.md
 subtitle: Collaboration is the human employee’s secret weapon
 image: "/uploads/0_thtcdweikhuem49e.jpg"
-date: 2021-09-24 00:00:00 -0400
 blurb: ''
 notes: 'Source: [https://marker.medium.com/the-future-of-work-part-two-f7f532ccc6b6](https://marker.medium.com/the-future-of-work-part-two-f7f532ccc6b6
   "https://marker.medium.com/the-future-of-work-part-two-f7f532ccc6b6")'
 refs: ''
 sources: ''
-
 ---
+
 _This is the second of a two-part series on the future of work. You can read part one_ [_here_](https://rushkoff.medium.com/the-future-of-work-part-one-d51ebc64e1ea)_._
 
 Truly competent employees need to be rewarded. Bonuses and raises are fine, but they’re not the sign of a culture where competence is valued above all else. No. Instead of extrinsic rewards like money, workers in a culture of competence value autonomy. They want to make it to the innermost circle in the company’s mandala-like org chart — the skunkworks or innovation lab where employees are entrusted to develop new ideas.

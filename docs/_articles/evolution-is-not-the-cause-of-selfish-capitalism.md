@@ -1,16 +1,16 @@
 ---
 title: Evolution Is Not the Cause of Selfish Capitalism
+date: 2019-01-14 05:00:00 Z
 subtitle: Cooperation is imprinted in our genes just as unmistakably as competition
-date: 2019-01-14 00:00:00 -0500
 publication: _publications/medium.md
 blurb: The most direct benefit of more neurons and connections in our brains is an
   increase in the size of the social networks we can form.
 notes: Pasted from https://medium.com/team-human/no-evolution-did-not-make-us-into-selfish-capitalists-95cb9f1402d6
 refs: ''
 sources: ''
-image: /uploads/evolution-is-not-the-cause-of-selfish-capitalism.jpeg
-
+image: "/uploads/evolution-is-not-the-cause-of-selfish-capitalism.jpeg"
 ---
+
 Nature is a collaborative act. If humans are the most evolved species, it is only because we have developed the most advanced ways of working and playing together.
 
 We’ve been conditioned to believe in the myth that evolution is about competition: the survival of the fittest. In this view, each creature struggles against all the others for scarce resources. Only the strongest ones survive to pass on their superior genes, while the weak deserve to lose and die out.

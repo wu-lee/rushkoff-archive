@@ -1,15 +1,15 @@
 ---
-publication: _publications/techtv-s-catalog-of-tomorrow.md
 title: Citizen of the Future
+date: 2002-01-01 05:00:00 Z
+publication: _publications/techtv-s-catalog-of-tomorrow.md
 subtitle: ''
 image: ''
-date: 2002-01-01 00:00:00 -0500
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-
 ---
+
 Democracy is a great thing. I suppose a book about the future is as good a place as any to imagine whether one might ever, truly, come to be -- and how.
 
 Developing our collective autonomy -- our shared responsibility for our unfolding reality -- has been the great human challenge for ages and no doubt will continue to be one for ages to come. But thanks to a recent flurry of scientific, technological, and conceptual innovations, a unique opportunity for upgrading democratic participation may, in fact, be available to us today. We might even be ready to engage in something much closer to democracy than we may have previously imagined.

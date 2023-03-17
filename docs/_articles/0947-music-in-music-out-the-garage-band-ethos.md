@@ -1,7 +1,8 @@
 ---
 title: 'Music In, Music Out: The Garage Band Ethos in a Cellular World'
+date: 2005-01-26 05:00:00 Z
+published: false
 subtitle: 
-date: '2005-01-26T05:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: The future of mobile music lies in creating tunes, not just downloading them.
 notes: 
@@ -58,8 +59,8 @@ refs: '[{"text"=>"integrating their technology into mobile handsets", "original"
   {"text"=>"Quick Ringtone", "original"=>"http://www.handyarchive.com/Audio/Utilities-Plugins/7407-Quick-Ringtone.html",
   "meta"=>{"title"=>"404 Not found!", "favicon"=>"http://www.handyarchive.com/favicon.ico"}}]'
 sources: 
-published: false
 ---
+
 To most wireless industry business forecasters, the future in music revenue means MP3s. Some see cell phones with the memory and audio capacity of an iPod. Others look forward to cell phones as preferred FM receivers, and satellite radio companies are already working on [integrating their technology into mobile handsets](http://www.gizmodo.com/gadgets/portable-media/xm-aims-for-cell-phones-eventually-026697.php).
 
 All these developments are possible, even probable. And they represent the most obvious revenue stream for an industry discovering the promise of handheld music. But they also reveal how the people who should be leading the communications business are still longing to get into the content business. We must not look at cell phones as if they were simply the next form of transistor radio or MP3 player, however simple the revenue model of selling MP3s to people seems. While Motorola and others will no doubt make some great money and even greater public relations strides by [inking a few deals with the likes of the iTunes Music Store](http://www.thefeature.com/article?articleid=100921), it's shortsighted for the wireless phone industry to think of itself as playing catch-up with the entertainment industry.

@@ -1,14 +1,14 @@
 ---
 title: 'Recycling Money: Why Double-Dipping Is Good Business'
+date: 2015-08-01 16:56:02 Z
 subtitle: 
-date: 2015-08-01T16:56:02.000Z
 publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 Wouldn’t you like to earn the same dollar twice? It may sound crazy - or even illegal - but it’s actually the secret to success in the new normal: invest and spend in people and enterprises who will end up giving you back the money, one way or the other. 
 
 For most larger companies, revenue and growth are products of their ability to extract value from the places and markets in which they operate. The formula is pretty simple: open a branch, compete the locals out of business, and pull as much money out of circulation as possible in order to deliver returns to shareholders. The money goes in one direction only. Each dollar you earn, you earn only once before squirreling it away.

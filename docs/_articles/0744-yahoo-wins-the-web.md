@@ -1,14 +1,14 @@
 ---
 title: Yahoo Wins the Web
+date: 2012-07-19 04:00:00 Z
 subtitle: 
-date: '2012-07-19T04:00:00.000Z'
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 (CNN) -- This week's announcement that Yahoo is hiring away Google exec Marissa Mayer as its latest CEO has been met by both Wall Street and the tech industry by yawns and worse.
 
 Yawners cite the fact that Yahoo - by all measures a dying corporation - has hired five CEO’s in as many years. The fanfare with which they are brought in is matched only by the size of the failure they leave in their wake. Worse, those who are excited about the appointment seem to care less about what it means for Yahoo or the net than the fact that Mayer is a woman, pregnant, and a former girlfriend of Google chief Larry Page.

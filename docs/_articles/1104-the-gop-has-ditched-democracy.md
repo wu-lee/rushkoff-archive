@@ -1,14 +1,14 @@
 ---
 title: The GOP Has Ditched Democracy
+date: 2018-11-05 17:00:00 Z
 subtitle: 
-date: 2018-11-05T17:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 Do we have to accept the sad premise that people are just too dumb, too uninformed, and too easily fooled to vote intelligently or even rationally? Most of the political class, from both sides of the aisle, seem to think so.
 
 Back during George W. Bush’s re-election campaign, I was invited to a fancy lunch with an ancient former secretary of state and some of the associates from his consulting firm. It was at the height of the swift boat “controversy,” when the Democrat candidate John Kerry was being accused of lying about his tour of duty in Vietnam. Some of the veterans who served with him said he wasn’t a hero but a coward. It wasn’t the first dubious, emotionally charged campaign to undermine the integrity of a political candidate, but it was among the first of the internet era, and it spread not just through mainstream media, but virally, and to great effect.

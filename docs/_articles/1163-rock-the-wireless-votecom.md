@@ -1,14 +1,14 @@
 ---
 title: Rock the (Wireless) Vote.com
+date: 2004-03-22 17:00:00 Z
 subtitle: 
-date: '2004-03-22T17:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Does politics by thumb - via the culture of MTV - enhance democracy, or reduce it to a marketing survey?
 
 I'm all for interactive media enabling the democratic process. Instead of depending on the predigested, packaged stories of the mainstream corporate conglomerates broadcasting the news, we are free to assemble our own perspectives using content from a wide variety of sources, and then engage in living conversations with our peers.

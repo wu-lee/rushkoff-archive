@@ -1,16 +1,16 @@
 ---
-publication: _publications/mediapost.md
 title: Get Back in the Box
+date: 2006-11-28 05:00:00 Z
+publication: _publications/mediapost.md
 subtitle: How being great at what you do is great for business
 image: ''
-date: 2006-11-28 00:00:00 -0500
 blurb: ''
 notes: 'Source: [https://webcache.googleusercontent.com/search?q=cache:BYJ5ZKrfOmIJ:https://www.mediapost.com/publications/article/51698/get-back-in-the-box.html+&cd=1&hl=en&ct=clnk&gl=us](https://webcache.googleusercontent.com/search?q=cache:BYJ5ZKrfOmIJ:https://www.mediapost.com/publications/article/51698/get-back-in-the-box.html+&cd=1&hl=en&ct=clnk&gl=us
   "https://webcache.googleusercontent.com/search?q=cache:BYJ5ZKrfOmIJ:https://www.mediapost.com/publications/article/51698/get-back-in-the-box.html+&cd=1&hl=en&ct=clnk&gl=us")'
 refs: ''
 sources: ''
-
 ---
+
 Like a pot of water brought to a boil, it all looks pretty messy and bubbly right before the system changes and reaches new order.
 
 Any of you involved in media over the past decade now knows that computers and networks offer more than a new way to deliver content or ads: They give everyone more opportunity to assume the roles of authors — of creative participants — in an increasing variety of venues. But most of us are still scared of all those “everyones.” We still don’t “get it” enough to change the way we conduct our communications. Instead of rejoicing at the possibility of a connected community, we panic at the seeming loss of control.

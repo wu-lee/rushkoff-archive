@@ -1,17 +1,17 @@
 ---
-publication: _publications/medium.md
 title: We Still Haven’t Reached the Best Part of the Trip
+date: 2022-01-26 05:00:00 Z
+publication: _publications/medium.md
 subtitle: How Team Human can retrieve the true promise of the digital renaissance.
 image: "/uploads/0_h4tcvbunyl3bqfpx.jpg"
-date: 2022-01-26 00:00:00 -0500
 blurb: Instead of developing technologies to promote the next stage of human evolution,
   we developed technologies to extract market value from people and places
 notes: 'Source: [https://rushkoff.medium.com/we-still-havent-reached-the-best-part-of-the-trip-7eaf1d47fbbd](https://rushkoff.medium.com/we-still-havent-reached-the-best-part-of-the-trip-7eaf1d47fbbd
   "https://rushkoff.medium.com/we-still-havent-reached-the-best-part-of-the-trip-7eaf1d47fbbd")'
 refs: ''
 sources: ''
-
 ---
+
 I just got done with a talk for a college about how we squandered the possibilities for a networked society by focusing on IP in the cloud rather than the people with whom we were connecting. Afterwards, during the Q&A, a student wanted to know why I was so pessimistic about the digital future. I was a bit surprised. Because while I do think we screwed things up, I wouldn’t still be writing and speaking and podcasting and Zooming if I didn’t believe we can still turn this all around.
 
 I’m no pessimist. I’m usually accused of the opposite. I was one of the first to celebrate how the digital renaissance could unleash the wild potentials of the collective human imagination. This renaissance included everything from the chaos math and quantum physics to fantasy role-playing and the Gaia hypothesis. We believed that human beings, connected as never before, could create any future we wanted. The internet would do for humanity what LSD did for the individual.

@@ -1,14 +1,14 @@
 ---
 title: Are Cell Phone Users the New Smokers?
+date: 2004-09-08 16:00:00 Z
 subtitle: 
-date: '2004-09-08T16:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 If the newest etiquette surveys are any indication, mobile phones may be going the way of the cigarette.
 
 Just to prove how good smokers used to have it, a recent Seattle Times article cited the 1941 treatise on manners, "New American Etiquette." The book, with all the compassion that a high-school football coach bestows upon his third-stringers, admonishes nonsmokers not merely to accept but to accommodate their smoking peers. If unwilling, the author suggests, non-smokers would do best to "retire from social activities" altogether. With bludgeoning certitude, the book proclaims "Smokers far outnumber nonsmokers in every type of community, in every class of society and in both sexes... The young man or young woman who does not smoke is a rarity... If (a hostess) will not let her guest smoke in whatever part of the house they happen to be in, she will not have many guests..."

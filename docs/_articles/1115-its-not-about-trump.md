@@ -1,14 +1,14 @@
 ---
 title: It’s Not About Trump
+date: 2019-03-27 16:00:00 Z
 subtitle: 
-date: '2019-03-27T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Noindictment? No collusion? In the wake of the Mueller investigation report this week, many of my progressive friends are reliving the trauma of election night. This can’t be true. It can’t have happened.
 
 Like that night, they are desperately looking for a conspiracy — some reason why the unthinkable happened. Anything to get away from the fact that America really did elect a (hopefully unwitting) fascist game show host for its president.

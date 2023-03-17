@@ -1,9 +1,9 @@
 ---
-publication: _publications/fast-company.md
 title: When The Data Bubble Bursts, Companies Will Have To Actually Sell Things Again
+date: 2016-05-13 04:00:00 Z
+publication: _publications/fast-company.md
 subtitle: ''
 image: ''
-date: 2016-05-13 00:00:00 -0400
 blurb: We’re pushing the limits of how much of our economy can exist just collecting
   and selling data to better target ads. Once people realize that’s a losing game,
   we’ll have to get back to a real economy.
@@ -11,8 +11,8 @@ notes: 'Source: [https://www.fastcompany.com/3059722/when-the-data-bubble-bursts
   "https://www.fastcompany.com/3059722/when-the-data-bubble-bursts-companies-will-have-to-actually-sell-things-again")'
 refs: ''
 sources: ''
-
 ---
+
 How can a company with no revenues still make money? It’s not a trick question. The answer is at the very foundation of the digital economy: advertising.
 
 No matter how dire things get for musicians, writers, movies, websites, smart phone apps, video games, or whole social media platforms, no matter how hard it might be for companies to charge for content, services, or convenience, almost everything we are doing in the digital marketplace can serve as the advertisement for something else. The video game promotes a movie, the movie promotes an app, and the app promotes a video game. Heck, [this article indirectly promotes a book](https://www.amazon.com/Throwing-Rocks-Google-Bus-Prosperity-ebook/dp/B00Z8VTKBQ?ie=UTF8&btkr=1&ref_=dp-kindle-redirect&tag=wwwfccom-20).

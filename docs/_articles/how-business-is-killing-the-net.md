@@ -1,9 +1,10 @@
 ---
-publication: _publications/shift.md
 title: How Business Is Killing the Net
+date: 1999-11-01 05:00:00 Z
+published: false
+publication: _publications/shift.md
 subtitle: ''
 image: ''
-date: 1999-11-01 00:00:00 -0500
 blurb: Though entrepreneurs take credit for making the net flourish, the market has
   actually brought online innovation to a halt. The truth is that, as in life, the
   best things online are free
@@ -13,9 +14,8 @@ notes: |-
   INCOMPLETE. We only have access to the first page of the article. An earlier draft is on Dropbox (Old Articles for Archives / essays / shareware and mosquitos) but appears significantly different from the published article.
 refs: ''
 sources: ''
-published: false
-
 ---
+
 When Red Hat Inc., a Linux packager, recently entered the IPO ring, shareware enthusiasts weren't sure whether to reel in horror or celebrate. A free, open-source operating system, Linux owes its very existence to volunteers working outside the commercial sphere. Now that the software's leading distributor had joined forces with Goldman Sachs to offer common stock to NASDAQ speculators, it appeared at first glance that freeware's ultimate weapon against the Microsoft empire had been surrendered to the forces of capitalism.
 
 This development was especially startling to those who consider Linux the paragon of the internet's spirit of cooperation. Created by hundreds of programmers working in tandem online, the success of Linux sent a message to the increasingly business-focused net community: Collaborating toward common goals yields better technology than competing for market share.

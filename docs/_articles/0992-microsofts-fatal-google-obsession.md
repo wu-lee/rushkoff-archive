@@ -1,7 +1,7 @@
 ---
 title: Microsoft's Fatal Google Obsession
+date: 2009-07-14 04:00:00 Z
 subtitle: 
-date: '2009-07-14T04:00:00.000Z'
 publication: _publications/daily_beast.md
 blurb: In announcing this week that it will be releasing a free, online version of
   its popular Office suite in 2010, Microsoft did something good for customers—especially
@@ -14,8 +14,8 @@ blurb: In announcing this week that it will be releasing a free, online version 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 It’s an extremely dangerous game for Microsoft, which is effectively amputating its most profitable businesses in order to retain its share of the market.
 
 Strange as it seems, while television moves increasingly toward a pay-per-view and premium channels model, computing is getting cheaper and freer. Verizon gives away netbooks to new FIoS subscribers, eTrade gifts BlackBerries to account holders, and Optimum provides access to free WiFi hotspots for its cable-modem users. These strategies can work because the customer still pays for something. The free phone requires a two-year contract.

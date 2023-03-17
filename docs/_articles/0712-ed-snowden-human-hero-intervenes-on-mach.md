@@ -1,14 +1,14 @@
 ---
 title: Ed Snowden - Human Hero Intervenes on Machine Logic
+date: 2013-06-10 04:00:00 Z
 subtitle: 
-date: '2013-06-10T04:00:00.000Z'
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 When I was a kid, I remember a guy named Daniel Ellsberg leaking some classified documents to the New York Times about the Vietnam War called “the Pentagon Papers.” When the whistleblower finally stood trial for espionage, my parents weren't quite sure how to feel. But when Richard Nixon's crew was revealed to have been conducting illegal wiretaps in an effort to discredit the former intelligence contractor, well, they were outraged and decided Ellsberg was a hero. So did the judge and most of America.
 
 I wonder if Ed Snowden - the 29-year-old Booz Allen Hamilton employee behind last week’s series of leaks about NSA surveillance on the American public - will be rewarded with the same admiration. You’d think we would be even more outraged by what he uncovered than we were by the surveillance of Ellsberg. After all, it’s not just one lone loose cannon being wiretapped here, it’s *all* of us. 

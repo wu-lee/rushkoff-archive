@@ -1,7 +1,7 @@
 ---
 title: The Great Google Coverup?
+date: 2010-01-13 05:00:00 Z
 subtitle: 
-date: '2010-01-13T05:00:00.000Z'
 publication: _publications/daily_beast.md
 blurb: Google's actions just don't add up. In response to what they say they suspect
   was a Chinese government-supported cyberattack, including hacking into the Gmail
@@ -13,8 +13,8 @@ blurb: Google's actions just don't add up. In response to what they say they sus
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 My fear—for Google and for us—is that the reason they know it's the Chinese government behind these attacks is because Google gave them the key.
 
 If accepted at face value, Google's argument now—in a reversal of a policy it put in place five years ago—is that it wants to be a staunch defender of "free speech on the Web." Instead of cooperating with the Chinese government's repression of its people, Google now demands that China let it be Google—the relatively totally open corporate-owned index to the Web.

@@ -1,14 +1,14 @@
 ---
 title: It's Nice to Share
+date: 2003-11-21 17:00:00 Z
 subtitle: 
-date: '2003-11-21T17:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 In their relentless pursuit to move “up the food chain” wireless providers are sacrificing the massive potential (and profit) of open standards and interoperability to the booby prize of cool commercial content.
 
 I've been having the same argument with pretty much every "digital content" executive I speak with at wireless companies these days. I tell them that they should develop open standards and invite their users to create content for one another. They tell me there's no way to make money off that.

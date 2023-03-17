@@ -1,16 +1,16 @@
 ---
-publication: _publications/medium.md
 title: The Online Economy Is Breaking Businesses, and Stealing Our Time and Energy
+date: 2016-04-09 04:00:00 Z
+publication: _publications/medium.md
 subtitle: ''
 image: ''
-date: 2016-04-09 00:00:00 -0400
 blurb: ''
 notes: '[https://rushkoff.medium.com/the-online-economy-is-breaking-businesses-and-stealing-our-time-and-energy-d62382048a64](https://rushkoff.medium.com/the-online-economy-is-breaking-businesses-and-stealing-our-time-and-energy-d62382048a64
   "https://rushkoff.medium.com/the-online-economy-is-breaking-businesses-and-stealing-our-time-and-energy-d62382048a64")'
 refs: ''
 sources: ''
-
 ---
+
 Transcript from an interview on _BigThink_ about _Throwing Rocks at the Google Bus_ (Portfilio, 2016)
 
 **Douglas Rushkoff:** The digital economy is breaking things because most people running digital companies aren’t aware of the operating system that’s beneath what they’re doing. There’s a good old fashion venture capital driven operating system. It goes back to central currency and corporatism and chartered monopolies and really the way our economy works, which has worked for a good 400 or 500 years and promoted everything from the British East India Trading Company right through to Walmart and General Electric. But when you take that and juice it up with digital steroids, weird things start to happen. You end up able to tweak and optimize your business so carefully that you can really see is a growing? Is it not growing? What can we do to promote growth? Growth. Growth. And if your company is not growing you end up in big trouble against all the other players that are growing.

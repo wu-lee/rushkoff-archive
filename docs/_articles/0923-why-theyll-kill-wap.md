@@ -1,14 +1,14 @@
 ---
 title: Why They'll Kill Wap
+date: 2001-04-01 05:00:00 Z
 subtitle: 
-date: '2001-04-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The Good Old Days of Text-Only Websites
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Okay, I'll let you in on a secret. There's currently a way to access an Internet as fast, convenient, and uncluttered as it was in the old days before banner ads, animated gifs, and cookie attacks. It's the streamlined, text-only world of WAP -- a scaled-down World Wide Web meant to be accessed only by cellular phones and pda's.
 
 But, thanks to a few security oversights, if you know the unpublished url's for these sites you can get to them through any regular web browser. You will never be the same. Check out The New York Times on the web, sans advertisements and graphics, by visiting http://199.97.97.184/nytimes-partners/avantgo/main.html. Have you done it yet? If you can't right now, trust me: this is the way the Web looked back in 1994, before the ill-fated scheme of advertisers to turn the Internet into a direct marketing platform had even been conceived.

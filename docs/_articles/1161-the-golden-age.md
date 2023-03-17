@@ -1,13 +1,12 @@
 ---
 title: The Golden Age
+date: 2004-02-18 17:00:00 Z
 subtitle: 
-date: '2004-02-18T17:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
 
 Don't take your handheld for granted. This sorry decade may just be remembered as the 'golden age' of wireless devices.

@@ -1,16 +1,16 @@
 ---
-publication: _publications/the-edge.md
 title: Succumbing To Narrative, Or Writing Our Own
+date: 2001-01-01 05:00:00 Z
+publication: _publications/the-edge.md
 subtitle: ''
 image: ''
-date: 2001-01-01 00:00:00 -0500
 blurb: ''
 notes: '[https://www.edge.org/response-detail/11778](https://www.edge.org/response-detail/11778
   "https://www.edge.org/response-detail/11778")'
 refs: ''
 sources: ''
-
 ---
+
 In his speech to Congress, Bush Ù perhaps unintentionally Ù presented the choice before us: we will either bring justice to the nations of our enemies, or bring our enemies to justice.
 
 Although he probably didn't mean it this way, his two alternatives represent two completely different tacks. The former suggests extending the ideals of the Enlightenment on which this nation was founded into regions where human rights are not honored. The latter implies nothing less than accepting the fundamentalists' invitation to holy war.

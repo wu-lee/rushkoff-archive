@@ -1,17 +1,17 @@
 ---
-publication: _publications/medium.md
 title: Keep the Faith
+date: 2022-02-25 05:00:00 Z
+publication: _publications/medium.md
 subtitle: Why it’s better for humans to believe in something
 image: "/uploads/0_n8ahwmqyfa0olpsd.jpg"
-date: 2022-02-25 00:00:00 -0500
 blurb: Maybe machines will consider the possibility that we know something they don’t,
   and keep us around if only on the off-chance we do.
 notes: 'Source: [https://rushkoff.medium.com/keep-the-faith-302700a441b3](https://rushkoff.medium.com/keep-the-faith-302700a441b3
   "https://rushkoff.medium.com/keep-the-faith-302700a441b3")'
 refs: ''
 sources: ''
-
 ---
+
 I’m not a man of faith as it’s commonly understood, but I am starting to wonder if we’re getting to a moment where we human beings need to assert just a bit of sacred mystery to the goings on in this dimensional neighborhood we call reality.
 
 I’ve been thinking a lot about technology, automation, robots, and artificial intelligence, and whether some of the transhumanists are correct in their hope that [machines can carry on the human project](https://www.livescience.com/37499-immortality-by-2045-conference.html) — whatever that may be — after we succumb to climate change or some other disaster of our own making or even just random calamity. Atheist though they may be, the techno-futurists do hope to upload something about themselves or human beings to cloud before going extinct. It’s just that the things they want to infuse into our robot successors are necessarily limited to the aspects of ourselves that can be digitized.

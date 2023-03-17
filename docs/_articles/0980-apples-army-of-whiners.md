@@ -1,7 +1,7 @@
 ---
 title: Apple's Army of Whiners
+date: 2009-06-22 04:00:00 Z
 subtitle: 
-date: '2009-06-22T04:00:00.000Z'
 publication: _publications/daily_beast.md
 blurb: Feel better Steve, but what about me? I mean, I know cancer surgery is no picnic,
   but what does the possibility that you'll reject your new liver mean for my Apple
@@ -11,8 +11,8 @@ blurb: Feel better Steve, but what about me? I mean, I know cancer surgery is no
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Sorry, but that's the emotional current underlying nearly all of the coverage I'm seeing about the Apple founder's just-revealed liver transplant operation in Tennessee for his metastasized neuroendocrine tumor. It's not what I expected from the Apple community, but perhaps it does serve as the most accurate expression of where the once-renegade personal-computer company has ended up.
 
 To buy an Apple product is to bet on the longevity of the closed system to which we've committed ourselves. And that system is embodied—through marketing as much as talent—by Steve Jobs.

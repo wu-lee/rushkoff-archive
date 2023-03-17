@@ -1,7 +1,8 @@
 ---
 title: Content Deliverance
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: 'Content Management is for losers. Young people may have discovered the dark
   truth about digital media: the person who wins the right to store a piece of data
@@ -16,8 +17,8 @@ refs: '[{"text"=>"Mark Hurst", "original"=>"http://www.creativegood.com/", "arch
   {"text"=>"Interactive Telecommunications Program", "original"=>"http://itp.nyu.edu/"},
   {"text"=>"The Bass Station", "original"=>"http://stage.itp.nyu.edu/%7Eaw596/BassStation-final.pdf"}]'
 sources: 
-published: false
 ---
+
 Content Management is for losers. Young people may have discovered the dark truth about digital media: the person who wins the right to store a piece of data has actually won the booby prize.
 
   

@@ -1,14 +1,14 @@
 ---
 title: The Future of Psychology
+date: 1997-05-01 04:00:00 Z
 subtitle: 
-date: '1997-05-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Part two of the way technology effects psychology
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Imagine a whole society going into therapy. No, not thousands of neurotic New Yorkers sitting on couches, but an entire culture seeking psychological counseling. It might not be so outlandish a possibility.
 
 Last week, I attempted to defend the Internet against those who believe it might be causing rather than addressing our psychological woes. But while the Internet itself may not be behind some of the more bizarre behaviors we exhibit online, it does have an effect on our culture at large. Sometimes, a new media can create new problems.

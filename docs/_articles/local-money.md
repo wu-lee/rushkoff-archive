@@ -1,9 +1,9 @@
 ---
-publication: _publications/iou-new-writing-on-money.md
 title: Local Money
+date: 2010-01-01 05:00:00 Z
+publication: _publications/iou-new-writing-on-money.md
 subtitle: ''
 image: ''
-date: 2010-01-01 00:00:00 -0500
 blurb: ''
 notes: |-
   Source: scan
@@ -11,8 +11,8 @@ notes: |-
   2010 per CV
 refs: ''
 sources: ''
-
 ---
+
 In my town, the tiny organic café called Comfort decided to expand to a second, larger location. John, the chef and owner, had been renovating the new space for a year, but - thanks to the credit crisis - was unable to raise the cash required to finish and finally open. With currency unavailable from traditional, centralized money-lending banks, he turned instead to his community, to us, for support. Granted, this is a small town. Pretty much everybody goes to Comfort - the only restaurant of its kind on the small strip - and we all have a stake in its success. Any extension of Comfort would bring more activity, vitality, and commerce to a tiny downtown (commercially devastated in the 1970s by the chain stores and malls on the auto-friendly main strip).
 
 So John's idea was to sell VIP cards, which I helped him rename Comfort Dollars. For every dollar spent on a card, the customer receives the equivalent of $1.20 worth of credit at either restaurant. If I buy a thousand-dollar card. I get twelve hundred dollars' worth of food: a 20 percent rate of return on the investment of dollars. John gets the money he needs a lot cheaper than if he were borrowing it from the bank - he's paying for it in food and labor that he has in ample supply. Meanwhile, customers get more food for less money.

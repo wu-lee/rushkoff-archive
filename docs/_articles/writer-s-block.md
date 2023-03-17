@@ -1,15 +1,15 @@
 ---
-publication: _publications/breakthrough-proven-strategies-to-overcome-creative-block-and-spark-your-imagination.md
 title: Writer's Block
+date: 2012-09-12 04:00:00 Z
+publication: _publications/breakthrough-proven-strategies-to-overcome-creative-block-and-spark-your-imagination.md
 subtitle: ''
 image: ''
-date: 2012-09-12 00:00:00 -0400
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-
 ---
+
 I don't believe in writer's block.
 
 Yes, there may have been days or even weeks at a time when I have not written—even when I may have wanted to—but the doesn't mean I was blocked. It simply means I was in the wrong place at the wrong time. Or, as I'd like to argue, exactly the right place at the right time.

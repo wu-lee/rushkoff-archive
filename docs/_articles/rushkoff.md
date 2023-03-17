@@ -1,15 +1,15 @@
 ---
-publication: _publications/jewish-journal.md
 title: Rushkoff
+date: 2003-05-27 04:00:00 Z
+publication: _publications/jewish-journal.md
 subtitle: ''
 image: ''
-date: 2003-05-27 00:00:00 -0400
 blurb: ''
 notes: Might have a different title-- headline is missing from clip
 refs: ''
 sources: ''
-
 ---
+
 BY MICHAEL W. SASSER  
 SPECIAL TO THE JOURNAL
 

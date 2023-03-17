@@ -1,16 +1,16 @@
 ---
-publication: _publications/medium.md
 title: The Age of Apocalypto
+date: 2022-01-12 05:00:00 Z
+publication: _publications/medium.md
 subtitle: Everything doesn’t have to end.
 image: "/uploads/1_e4uulxp9widnbukva3dmnw.jpeg"
-date: 2022-01-12 00:00:00 -0500
 blurb: ''
 notes: 'Source: [https://rushkoff.medium.com/the-age-of-apocalypto-3e78cfe4a10c](https://rushkoff.medium.com/the-age-of-apocalypto-3e78cfe4a10c
   "https://rushkoff.medium.com/the-age-of-apocalypto-3e78cfe4a10c")'
 refs: ''
 sources: ''
-
 ---
+
 I tried to warn us about what was coming: the collective psychopathology of a society so addicted to its narratives that we would rather the whole thing just end than continue on in its unresolved way.
 
 When I wrote [Present Shock](https://rushkoff.com/books/present-shock/), I was chiefly concerned with the way digital technology had changed our relationship to time. Unlike analog clocks with sweep second hands that go around in a circle, digital clocks just pulse. We don’t journey from 12:10 to 12:11. It just changes. Now you’re here; now you’re there. Like everything digital, time became discrete. One or zero, before or after, yes or no.

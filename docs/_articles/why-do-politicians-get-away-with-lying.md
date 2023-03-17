@@ -1,7 +1,7 @@
 ---
 title: Why do politicians get away with lying?
+date: 2015-12-01 05:00:00 Z
 subtitle: How the Internet enables outlandish claims
-date: 2015-12-01T00:00:00.000-05:00
 publication: _publications/cnn.md
 blurb: 'Editor’s Note: In this election season, we’ve seen a lot of fibbing by politicians.
   Are presidential candidates who persist in saying untrue things enabled by the Internet
@@ -13,8 +13,8 @@ notes: Excerpted from https://www.cnn.com/2015/12/01/opinions/opinion-roundup-po
 refs: ''
 sources: ''
 image: ''
-
 ---
+
 I used to argue that the Internet acted like truth serum: No matter what someone on television claimed, eventually someone would dig up the truth. Then, because it was the truth, it would eventually float up to the surface. It forced me and other writers to be more rigorous about our assertions, lest some expert eventually reveal that they are myths.
 
 The Internet is still a medium that favors nonfiction over made-up stories. While we may watch Netflix dramas over the Internet, the writing and videos populating the Web are mostly factual – in spirit, at least. A tweet or Facebook update goes “viral” because there’s a piece of truth or gossip in it. From the Arab Spring to Charlie Sheen, the most contagious Internet memes tend to be nonfiction moments. We don’t tweet as much about TV characters as we do about stuff the actors playing them have done or said.

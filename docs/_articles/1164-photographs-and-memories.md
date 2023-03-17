@@ -1,13 +1,12 @@
 ---
 title: Photographs and Memories
+date: 2004-04-06 16:00:00 Z
 subtitle: 
-date: '2004-04-06T16:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
 
 The cameraphone represents the latest step in a long evolution away from elevating and preserving moments, to capturing and disposing of them.

@@ -1,14 +1,14 @@
 ---
 title: Why America Is Playing Vaccine Roulette
+date: 2019-07-31 16:00:00 Z
 subtitle: 
-date: '2019-07-31T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I got shingles last week. I went to sleep scratching what I thought was a particularly nasty bug bite, and woke up with what felt like a thousand of them — only they burned right down to the bone. Too much stress, I told myself. Too many appointments and emails and commitments, competing for my nervous system’s attention.
 
 But deep down I know the real reason I got sick: I’d played a bit of vaccine roulette, and lost. Although I get the flu shot every year, I’d selectively ignored the CDC’s recommendation for healthy adults over 50 to get the vaccine for shingles. And as I sit here, contending with the bizarrely alternating burning and itching, fever and chills, I find myself replaying the twisted vaccine logic that went through my head, as well as the way it reflects the greater vaccination panic facing America today. The issue, itself a sort of cultural virus, epitomizes what’s wrong with our public conversation, our relationship to facts, and our sense of civic duty.

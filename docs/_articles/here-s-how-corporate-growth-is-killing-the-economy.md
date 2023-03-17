@@ -1,16 +1,16 @@
 ---
-publication: _publications/fortune.md
 title: Here’s How Corporate Growth is Killing the Economy
+date: 2016-03-06 05:00:00 Z
+publication: _publications/fortune.md
 subtitle: ''
 image: "/uploads/505145430-768x443.jpg"
-date: 2016-03-06 00:00:00 -0500
 blurb: ''
 notes: 'Source: [https://rushkoff.com/heres-corporate-growth-killing-economy/](https://rushkoff.com/heres-corporate-growth-killing-economy/
   "https://rushkoff.com/heres-corporate-growth-killing-economy/")'
 refs: ''
 sources: ''
-
 ---
+
 **Businesses are sacrificed for share price**
 
 It’s easy to see it in fast-forward: companies like Twitter and LinkedIn, who leapfrog each other to achieve sky-high valuations, end up incapable of delivering the hundred-fold returns that investors expect. Sure, the companies have terrific revenue. Twitter brings in over half a billion dollars a quarter. But if and when this revenue reaches a plateau–as it has for Twitter–the company may as well be considered dead.

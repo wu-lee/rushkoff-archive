@@ -1,14 +1,14 @@
 ---
 title: Suicide Bombs as Viral Media
+date: 2005-07-01 04:00:00 Z
 subtitle: 
-date: '2005-07-01T04:00:00.000Z'
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 More than any command structure, terrorist organization or ideology, there's an underlying mechanism propelling the recent spate of suicide attacks in London. It's called a media virus.
 
 For all of America's supposed new media savvy, misunderstandings prevail here about how these events are being coordinated. Yes, these are "networked" events—but not in the sense that they are directly connected through a communications system, with "sleepers" waiting for phone calls and then taking action. It's not a matter of fax trees, email instructions, or direct transmissions between some guys in London, some other ones in Egypt and a central server disseminating commands out of Pakistan.

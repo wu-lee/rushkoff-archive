@@ -1,14 +1,14 @@
 ---
 title: Google's Monopoly Play
+date: 2010-03-20 04:00:00 Z
 subtitle: 
-date: '2010-03-20T04:00:00.000Z'
 publication: _publications/daily_beast.md
 blurb: Why can't we all just get along?
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Just a couple of years ago, Google CEO Eric Schmidt was helping to launch the iPhone—standing onstage with Steve Jobs much in the fashion that Bill Gates video-conferenced himself on to the MacWorld Convention stage back in 1997 to celebrate Microsoft's support of OS X.
 
 Google understood that the iPhone would be more than the first successful smart phone; it would also be the first successful handheld advertising platform. So Schmidt's company worked hard to integrate its search capabilities into the phone, hoping that someday its ubiquitous presence in the iPhone universe would mean the ubiquitous presence of Google's ads. What Google did for the Web, it could also do for the universe of Apps.

@@ -1,17 +1,17 @@
 ---
-publication: _publications/the-edge.md
 title: What Are the Pressing Scientific Issues for the Nation and the World, and What
   Is Your Advice on How I Can Begin to Deal With Them?
+date: 2003-01-01 05:00:00 Z
+publication: _publications/the-edge.md
 subtitle: ''
 image: ''
-date: 2003-01-01 00:00:00 -0500
 blurb: ''
 notes: '[https://www.edge.org/response-detail/11712](https://www.edge.org/response-detail/11712
   "https://www.edge.org/response-detail/11712")'
 refs: ''
 sources: ''
-
 ---
+
 A modest super-fund to explore alternative, non-resource-based energy sources could solve a great majority of the world's problems. But it would need to be accompanied by an equally serious look at our commodities-based economic model. Our chief obstacle to sustainable energy technology might not be scientific at all, but economic. What would happen to the oil industry if we no longer needed oil?
 
 The same could be asked about our chemically and genetically addicted agriculture. It's not that high-yield, top-soil enriching farming practices are out of reach; it's simply that our agribusiness industry doesn't know how to profit off a paradigm that doesn't rely on synthetic fertilizers and gene modification.

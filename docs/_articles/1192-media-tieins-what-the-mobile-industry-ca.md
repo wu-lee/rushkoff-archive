@@ -1,13 +1,12 @@
 ---
 title: 'Media Tie-Ins: What the Mobile Industry Can Learn from Ovaltine'
+date: 2004-10-19 16:00:00 Z
 subtitle: 
-date: '2004-10-19T16:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
 
 The stories, games, and characters driving youth culture can also drive the uptake of communications technologies.

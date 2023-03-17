@@ -1,14 +1,14 @@
 ---
 title: Opportunity Costs
+date: 2008-05-09 04:00:00 Z
 subtitle: 
-date: '2008-05-09T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: March 1997
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 There are people who would have us believe that our computers could destroy the planet. No, not by taking control of the nuclear arsenals or enslaving humanity, but by sapping our resources and literally polluting us to death. They may be right.
 
 I came across some shocking facts in a bulletin produced by a group called the Electronic Industry Good Neighbor Campaign. Apparently, the production of a single six-inch silicon wafer used for computer chips requires the following resources: 3,200 cubic feet of bulk gases, 22 cubic feet of hazardous gases, 2,275 gallons of de-ionized water, 20 pounds of chemicals, and 285 kilowatt hours of electrical power. The end result also yields the following by-products: 25 pounds of sodium hydroxide, 2,840 gallons of waste water, and seven pounds of miscellaneous hazardous waste.

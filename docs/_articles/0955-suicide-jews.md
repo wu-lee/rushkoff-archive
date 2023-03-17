@@ -1,14 +1,14 @@
 ---
 title: Suicide Jews
+date: 2003-06-18 04:00:00 Z
 subtitle: The self-imposed death of institutional Judaism.
-date: 2003-06-18 00:00:00 -0400
 publication: _publications/new-york-press.md
 blurb: ''
 notes: "June 18-24, 2003  \nVolume 16, Number 25"
 refs: 
 sources: 
-
 ---
+
 I'm a Jew. Or, at least I was last time I checked.
 
 But New York’s official institutions of Judaism would say that I’m not, and, most likely, neither are you. No, it’s not because my mom’s not Jewish (the usual, racist, excuse), but because–like so many other intelligent, engaged people on this bagel-fueled island–I don’t happen to belong to a synagogue. As a result, they label me "lapsed" or, in the optimistic language of the market researchers charged with saving Judaism, "a latent Jew."

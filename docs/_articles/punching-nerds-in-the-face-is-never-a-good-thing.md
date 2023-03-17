@@ -1,7 +1,7 @@
 ---
 title: Punching Nerds in the Face is Never a Good Thing
+date: 2014-05-17 04:00:00 Z
 subtitle: ''
-date: 2014-05-17T00:00:00.000-04:00
 publication: _publications/cnn.md
 blurb: ''
 notes: 'Source: https://rushkoff.com/punching-nerds-in-the-face-is-never-a-good-thing/
@@ -9,8 +9,8 @@ notes: 'Source: https://rushkoff.com/punching-nerds-in-the-face-is-never-a-good-
 refs: ''
 sources: ''
 image: ''
-
 ---
+
 At this year’s White House Correspondents’ Dinner — the annual opportunity for the President to engage directly, and humorously, with reporters who cover him — it was expected that most of the jibes would be aimed at Barack Obama. Sure, he gets the chance to defend himself, but it’s pretty much a roast: A leading comedian is invited every year to make jokes, while the commander in chief tries to laugh instead of squirm.
 
 Maybe that’s why I was so jolted when this year’s headliner, comedian Joel McHale of TV’s “The Soup,” took such a hard swipe at Google. “America still has amazing technological innovations. Google Glass has hit the markets. Now, just by walking down the street, we’ll know exactly who to punch in the face.”

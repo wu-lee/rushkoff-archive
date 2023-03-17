@@ -1,16 +1,16 @@
 ---
-publication: _publications/the-edge.md
 title: What Do You Believe Is True Even Though You Cannot Prove It?
+date: 2005-01-01 05:00:00 Z
+publication: _publications/the-edge.md
 subtitle: ''
 image: ''
-date: 2005-01-01 00:00:00 -0500
 blurb: ''
 notes: '[https://www.edge.org/response-detail/10691](https://www.edge.org/response-detail/10691
   "https://www.edge.org/response-detail/10691")'
 refs: ''
 sources: ''
-
 ---
+
 I can't prove it more than anecdotally, but I believe evolution has purpose and direction. It appears obvious, yet absolutely unconfirmable, that matter is groping towards complexity. While the laws of nature—and time itself—require objects and life forms attain durability and sustainability for survival, it seems to me more a means to an end than an end in itself.
 
 Theology goes a long way towards imbuing substance and processes with meaning—describing life as "matter reaching towards divinity," or as the process through which divinity calls matter back up into itself—but theologians repeatedly make the mistake of ascribing this sense of purpose to history rather than the future. This is only natural, since the narrative structures we use to understand our world tend to have beginnings, middles, and ends. In order to experience the pay-off at the end of the story, we need to see it as somehow built-in to the original intention of events.

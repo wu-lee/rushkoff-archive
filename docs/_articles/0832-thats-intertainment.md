@@ -1,15 +1,16 @@
 ---
 title: That's Inter-Tainment
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: How mobile can -- and should -- change the way we think about entertaining
   ourselves and each other.
 notes: 
 refs: 
 sources: 
-published: false
 ---
+
 How mobile can -- and should -- change the way we think about entertaining ourselves and each other.
 
   

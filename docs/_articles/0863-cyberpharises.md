@@ -1,14 +1,14 @@
 ---
 title: Cyberpharises
+date: 1996-12-01 05:00:00 Z
 subtitle: 
-date: '1996-12-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: "(Digital Nomads continued...)"
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 A graying, middle-aged business man smiles meekly at the bottom of the frame. Shadows surround him. On the facing page, the text revealing his thoughts: "Will a 14-year-old SOCIOPATH bring my company to its knees?"
 
 The headroom-oppressed businessman and his typeset, deepest fears are part of a two-page advertisement for IBM SecureWay© products and services. The copy begins, "It can keep you up at night, the thought of some wily hacker..."

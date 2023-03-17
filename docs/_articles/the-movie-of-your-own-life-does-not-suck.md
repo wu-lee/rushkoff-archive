@@ -1,16 +1,16 @@
 ---
 title: The Movie of Your Own Life Does Not Suck
+date: 2018-08-01 04:00:00 Z
 subtitle: A conversation with Bo Burnham, America’s new favorite comedian
-date: 2018-08-01 00:00:00 -0400
 publication: _publications/medium.md
 blurb: The performed version of yourself is not necessarily false. I do think who
   you hope to be can be a more vulnerable truth than who you are afraid you may be.
 notes: Pasted from https://rushkoff.medium.com/the-movie-of-your-own-life-does-not-suck-a-conversation-with-bo-burnham-96983736f566
 refs: ''
 sources: ''
-image: /uploads/the-movie-of-your-own-life-does-not-suck.jpeg
-
+image: "/uploads/the-movie-of-your-own-life-does-not-suck.jpeg"
 ---
+
 [Bo Burnham](http://boburnham.com/) restored my faith in social media. After a meteoric rise on YouTube comparable to Justin Bieber’s, the 20-something comedian went on a national tour, taped two Netflix specials, and just released a feature film called [_Eighth Grade_](http://eighthgrade.movie/) about a teenager who hopes to find herself via vlog.
 
 While I expected the story of a girl getting catfished or engaging in the self-destructive antics of [13 Reasons Why](https://en.wikipedia.org/wiki/13_Reasons_Why), I instead got an inspiring vision of how social media companies — no matter their intent — can still provide young people with the platforms they need to experiment with identity, define themselves on their own terms, and offer up the best, most honest things they have to share with one another.

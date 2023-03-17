@@ -1,14 +1,14 @@
 ---
 title: The Wireless Obsession
+date: 2005-06-22 16:00:00 Z
 subtitle: 
-date: '2005-06-22T16:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Are there times when going wireless is just plain pointless? Rushkoff's extended battle with Wireless Obsessive Dissorder.
 
 I think I may have gone a little insane last month. Sure, it had a lot to do with that crazy conference I attended in Puerto Rico. But it probably had more to do with the fact that I've become obsessed with doing things wirelessly – even when they shouldn’t be done that way. I'm looking for wireless solutions to pretty much every problem in my life. And sometimes, it's just the long way towards a goal that could have been reached more easily, and even less expensively, by giving up and plugging in.

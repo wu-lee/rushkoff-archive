@@ -1,14 +1,14 @@
 ---
 title: Technorealism
+date: 1998-03-01 05:00:00 Z
 subtitle: 
-date: '1998-03-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Why I Signed on to the Controversial Middle-Ground
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 I signed on to a cause a few weeks ago: a crusade for rational thinking   about technology and its role in human affairs.
 
 Oddly and amazingly, just that statement alone has proven controversial. For those who see me as a pro-technology utopian, or who are devoutly pro-technology themselves, it sounds like I'm about to explain why technology stinks, and why it should be monitored, curtailed, or eliminated. But to those who absolutely object to technology and its increasing implementation, the same statement looks like an excuse to stick more of this dangerous stuff in schools and homes, where children will be needlessly exposed to pornography and workers endlessly exploited by robots. (I have the emails to prove it.)

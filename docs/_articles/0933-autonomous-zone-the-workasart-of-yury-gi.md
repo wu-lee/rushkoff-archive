@@ -1,7 +1,8 @@
 ---
 title: 'Autonomous Zone: The Work-as-Art of Yury Gitman'
+date: 2004-08-11 04:00:00 Z
+published: false
 subtitle: 
-date: '2004-08-11T04:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: How mobile gaming energizes the spirit -- and technology -- of the networked
   society.
@@ -19,8 +20,8 @@ refs: '[{"text"=>"Magicbike", "original"=>"http://www.magicbike.net/about.html",
   {"text"=>"Huizinga''s", "original"=>"http://humlink.humanities.mcmaster.ca/%7Edidemusm/play/essay.html",
   "archive"=>"http://web.archive.org/web/20050406204634/http://humlink.humanities.mcmaster.ca:80/~didemusm/play/essay.html"}]'
 sources: 
-published: false
 ---
+
 Yury Gitman might best be described as an activist. Not just in the political sense of that word (though he is certainly an innovator for those who need voice) but for his ability to put so many people and ideas into action.
 
 This Minsk-born (he immigrated when he was five) graduate of New York University's Interactive Telecommunications Program made his name developing the [Magicbike](http://www.magicbike.net/about.html), a roving hotspot that creates mobile hotzones for special events and just for fun. What made the project so interesting was not just the technology solution Gitman provided, but the almost Rorschachian quality of the work: it has been alternatively described as an art project, a business utility, an activism catalyst, an emergency device, a protest tool and, in my own bias, a means of breaking the digital divide by bringing free Wi-Fi access to impoverished areas.

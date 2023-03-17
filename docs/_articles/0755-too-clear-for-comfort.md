@@ -1,14 +1,14 @@
 ---
 title: Too Clear for Comfort
+date: 2006-10-09 05:00:00 Z
 subtitle: 
-date: '2006-10-09T05:00:00.000Z'
 publication: _publications/discover.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Like much of America, I, too, wanted my HDTV. Who wouldn't? In a society where bigger is better and seeing is believing, 42 inches of high-definition plasma should be about all any of us needs to make sense of the world from the safety of our living rooms.
 
 Indeed, HD is a whole new viewing experience. Now we can see the stubble on a baseball player's cheeks. It's a level of reality and closeness we can't even get by going to a game: sweat, pores, tensing jawbone. That's because HDTV isn't just a better picture tube but an entirely different medium. With resolution up to 1,920 x 1,080 pixels (compared with analog TV's 400 or so horizontal lines), a color palette increased by a factor of two, and an aspect ratio that can cover my whole field of vision instead of just a little square, high definition turns the TV set from a flickering box into razor-sharp hyperreality.

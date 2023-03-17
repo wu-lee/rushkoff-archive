@@ -1,7 +1,8 @@
 ---
 title: Honey, I Geotagged the Kids
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: How collaborative cartography could enable us to map our shared worlds -- and
   why the wireless industry probably won't go for it.
@@ -58,8 +59,8 @@ refs: '[{"text"=>"Mapping Hacks", "original"=>"http://mappinghacks.com/"}, {"tex
   "technology", "personal", "cartography", "workshops", "exhibitions", "gallery",
   "projects", "models", "games", "waypoints", "scale", "jeremy wood"], "favicon"=>"http://www.gpsdrawing.com/favicon.ico"}}]'
 sources: 
-published: false
 ---
+
 How collaborative cartography could enable us to map our shared worlds -- and why the wireless industry probably won't go for it.
 
   

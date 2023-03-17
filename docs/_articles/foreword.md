@@ -1,9 +1,9 @@
 ---
-publication: _publications/rave-culture-and-religion.md
 title: Foreword
+date: 2003-11-06 05:00:00 Z
+publication: _publications/rave-culture-and-religion.md
 subtitle: ''
 image: ''
-date: 2003-11-06 00:00:00 -0500
 blurb: ''
 notes: |-
   Source: [https://voidnetwork.gr/wp-content/uploads/2016/09/Rave-Culture-and-Religion-edited-by-Graham-St.-John.pdf](https://voidnetwork.gr/wp-content/uploads/2016/09/Rave-Culture-and-Religion-edited-by-Graham-St.-John.pdf "https://voidnetwork.gr/wp-content/uploads/2016/09/Rave-Culture-and-Religion-edited-by-Graham-St.-John.pdf")
@@ -11,8 +11,8 @@ notes: |-
   Date from Amazon
 refs: ''
 sources: ''
-
 ---
+
 Never trust a writer to chronicle a movement. 
 
 Those of us filing early dispatches from the temporary autonomous zones later known as raves really thought we were just observing the scene—well, participating in the way that all journalists since Hunter S. Thompson have had to acknowledge their own presence at the fringe of the story, but not really engaging in the event as one of _them_, those kids who really think something is happening beyond a bunch of people dancing on drugs. 

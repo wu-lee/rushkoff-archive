@@ -1,14 +1,14 @@
 ---
 title: Hollywood Lays an Egg
+date: 1998-03-01 05:00:00 Z
 subtitle: 
-date: '1998-03-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The myth of the Content Provider
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Gathered together beneath the chandeliers of the Beverly Hilton's main ballroom last week, Hollywood's best and brightest (dressed, anyway) had paid about $1500 each to rub elbows with the interactive media makers who would soon, they feared, replace them. By getting "on board" instead of "run over," the hopeful executives sought to "dive in" and "get connected."
 
 Futurist Paul Saffo and *Snowcrash* novelist Neal Stephenson mixed with the likes of Hollywood mega-agent Jeff Berg and American Film Institute chair Jean Furstenburg. Meanwhile, a demonstration floor crowded with the latest technology from Compaq Computers and other Silicon Valley behemoths provided a plush-carpeted platform for anxious sales reps seeking to hook the big contracts that a digital Hollywood would surely spawn.

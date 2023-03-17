@@ -1,14 +1,14 @@
 ---
 title: Reconsidering Bitcoin
+date: 2013-11-01 16:00:00 Z
 subtitle: 
-date: '2013-11-01T16:00:00.000Z'
 publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 The famous Winklevoss twins are back. In case you missed the movie The Social Network, they’re the Harvard frat boys who first hired Mark Zuckerberg to develop a social network before getting shut out of Facebook, themselves. They were right about the future of social networking, even if they weren’t the ones to implement it, and they made millions in the followup lawsuit. And now - again from the sidelines - they’re placing a bet on another emerging digital technology: Bitcoin. 
 
 By now you’re probably among the millions of people who have heard of the experimental digital “crypto” currency, and are wondering if it might be time for you to get involved. But then the inevitable question comes up: just how does one get involved in Bitcoin, and - more important - why? 

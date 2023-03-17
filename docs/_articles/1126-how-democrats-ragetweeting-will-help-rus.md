@@ -1,14 +1,14 @@
 ---
 title: How Democrats’ Rage-Tweeting Will Help Russia Weaponize the Election — Again
+date: 2020-01-29 17:00:00 Z
 subtitle: 
-date: '2020-01-29T17:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 TO: His Excellency Vladimir V. Putin
 
 President of the Russian Federation

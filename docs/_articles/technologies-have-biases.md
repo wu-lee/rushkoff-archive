@@ -1,15 +1,15 @@
 ---
-publication: _publications/this-will-make-you-smarter.md
 title: Technologies Have Biases
+date: 2012-02-14 05:00:00 Z
+publication: _publications/this-will-make-you-smarter.md
 subtitle: ''
 image: ''
-date: 2012-02-14 00:00:00 -0500
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-
 ---
+
 People like to think of technologies and media as neutral and that only their use or content determines their effect. Guns don't kill people, after all; people kill people. But guns are much more biased toward killing people than, say, pillows--even though many a pillow has been utilized to smother an aging relative or adulterous spouse.
 
 Our widespread inability to recognize or even acknowledge the biases of the technologies we use renders us incapable of gaining any real agency through them. We accept our iPads, Facebook accounts, and automobiles at face value--as preexisting conditions--rather than as tools with embedded biases.

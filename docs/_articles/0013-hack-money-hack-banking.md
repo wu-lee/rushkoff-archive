@@ -1,14 +1,15 @@
 ---
 title: Hack Money, Hack Banking
+date: 2009-03-20 04:00:00 Z
+published: false
 subtitle: 
-date: '2009-03-20T04:00:00.000Z'
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: false
 ---
+
 I've received a ton of great email and response from [last week’s piece \\[“Let It Die”\\]](http://bit.ly/14lo7S) on letting the banks die and letting the market go down another 70 percent. My commentary also generated some confusion, though, so I’d like to clarify and expand on a few points. (I’ll do this again on [WFMU](http://www.wfmu.org/schedule#RK) on Monday evening, when I’ll have the opportunity to take some calls and actually converse.)
 
 First off, and I can’t stress this enough: Commerce is good. Commerce is not the problem. Monopolies are.

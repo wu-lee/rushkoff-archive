@@ -1,15 +1,15 @@
 ---
 title: The Wireless Blackout
+date: 2008-03-31 04:00:00 Z
 subtitle: 
-date: 2008-03-31T04:00:00.000Z
 publication: _publications/nokias_the_feature.md
 blurb: In the Great Blackout of 2003, it was the landlines that worked, and the cell
   phones that failed.
 notes: 
 refs: 
 sources: 
-
 ---
+
 In the Great Blackout of 2003, it was the landlines that worked, and the cell phones that failed.
 
 I'm pretty good in a disaster. I spent a couple of years in the Boy Scouts (their motto is "be prepared") and I've always had a mind prone to worst-case scenario planning for everything from nuclear disaster to the fabled Y2K bug. I suppose I take perverse delight in thinking about the situations portrayed in movies like "28 Days Later," where your wits and ability to think ten steps ahead keep you from getting eaten by zombies.

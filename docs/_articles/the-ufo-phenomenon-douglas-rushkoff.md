@@ -1,15 +1,15 @@
 ---
-publication: _publications/homeland-gameshow.md
 title: 'The UFO Phenomenon: Douglas Rushkoff'
+date: 2005-10-01 04:00:00 Z
+publication: _publications/homeland-gameshow.md
 subtitle: ''
 image: ''
-date: 2005-10-01 00:00:00 -0400
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-
 ---
+
 Track 1: A Personal Opinion of the UFO Phenomenon
 
 Justin Carter: I'm speaking with the prolific writer and software designer Douglas Rushkoff. His books include: Ecstasy Club, Children of Chaos, The Gen X Reader, Siberia, and one of my personal favorites, Media Virus. His writings can also be found in various periodicals worldwide through the internet. Thank you very much for taking the time to speak with me today, Douglas.

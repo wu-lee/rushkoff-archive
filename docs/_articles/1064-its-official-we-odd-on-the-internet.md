@@ -1,15 +1,15 @@
 ---
 title: 'It’s Official: We OD’d on the Internet'
+date: 2021-06-08 16:00:00 Z
 subtitle: 
-date: '2021-06-08T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
-image: /uploads/1064-its-official-we-odd-on-the-internet.jpeg
+image: "/uploads/1064-its-official-we-odd-on-the-internet.jpeg"
 ---
+
 When I was in high school, I was in a play where I got to smoke cigarettes. I say “got to” because back then I was something of a nerd (before nerds were cool) and loved the idea of jocks and other popular kids spying the foil lining of my artfully positioned Marlboro softpack sticking out of my jeans jacket pocket.
 
 I hadn’t quite mastered a natural grip, and couldn’t take more than a few puffs without getting dizzy, so I‘d “practice” smoking after school in the parking lot behind the convenience store, where the kids who I wanted to see me smoking happened to hang out.

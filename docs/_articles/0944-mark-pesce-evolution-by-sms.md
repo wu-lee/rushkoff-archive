@@ -1,7 +1,8 @@
 ---
 title: 'Mark Pesce: Evolution by SMS'
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: 
 notes: 
@@ -24,8 +25,8 @@ refs: '[{"text"=>"The Playful World", "original"=>"http://www.playfulworld.com/p
   "description"=>"Australia’s premier screen arts and broadcast school", "favicon"=>"https://www.aftrs.edu.au/wp-content/themes/aftrs/img/favicons/favicon-16x16.png"}},
   {"text"=>"The You Portal (PDF)", "original"=>"http://dlux.org.au/mobilejourneys/documentation/presentations/MJPesce.pdf"}]'
 sources: 
-published: false
 ---
+
 "LiveRecord is a bare-faced attempt to create another, more powerful form of mobile crack."
 
   

@@ -1,14 +1,14 @@
 ---
 title: Dear Google Employees
+date: 2018-08-17 16:00:00 Z
 subtitle: 
-date: '2018-08-17T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Dear Google Employees,
 
 Congratulations on your letter questioning the morality and impact of the censored search engine you were building for China. You are courageously leveraging your power as developers to insist on participating in decisions about how that power is deployed. You are the human beings who have intervened in the machine.

@@ -1,14 +1,14 @@
 ---
 title: Cell Phone Cinema
+date: 2004-11-10 17:00:00 Z
 subtitle: 
-date: '2004-11-10T17:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Lights, camera, compression! The new world of bite-sized video.
 
 From the talk coming out of the CTIA Wireless IT and Entertainment Expo in San Francisco last month, you'd think wireless providers were about to reap Hollywood-size revenues from new mobile TV and cinema applications. Although AT&T Wireless and Sprint are the only US operators currently offering mobile TV services, and consumer demand has yet to be determined, a number of reports are already enthusiastically hyping mobile TV as the killer app for wireless data , particularly for emerging 3G networks.

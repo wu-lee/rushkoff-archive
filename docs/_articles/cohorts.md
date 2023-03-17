@@ -1,16 +1,16 @@
 ---
-publication: _publications/medium.md
 title: Cohorts
+date: 2013-01-05 05:00:00 Z
+publication: _publications/medium.md
 subtitle: ''
 image: ''
-date: 2013-01-05 00:00:00 -0500
 blurb: ''
 notes: 'Source: [https://rushkoff.medium.com/cohorts-3d22b485402](https://rushkoff.medium.com/cohorts-3d22b485402
   "https://rushkoff.medium.com/cohorts-3d22b485402")'
 refs: ''
 sources: ''
-
 ---
+
 I have been meaning to post to Medium since the first invite. I haven’t, in part, because I can’t find or create the right cohort. I have enough places to publish my professional and promotional writing - and, as has been suggested elsewhere - for now I can get better “reach” in those places.
 
 What I can’t do in any of those places is social writing. The literary equivalent of a seminar or salon, or dorm room. The other opportunities are either too limited in size (Twitter) or are basically invitations for abuse (comments sections).

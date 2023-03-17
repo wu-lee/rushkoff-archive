@@ -1,14 +1,14 @@
 ---
 title: Open Source Currency
+date: 2004-10-13 16:00:00 Z
 subtitle: 
-date: '2004-10-13T16:00:00.000Z'
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Or, how mobile phones can break the money monopoly.
 
 In the midst of discussing wireless data business plans, cell phone technology developments, and the moment-to-moment success of the mobile media industry, it's sometimes easy to forget the bigger picture. Just as early Internet enthusiasts seemed to focus on ad banners and animated GIFs instead of what turned out to be the much more momentous power of blogs to influence the direction of culture, those of us covering mobile data may have also taken our eyes off the bigger prizes in store for this new medium.

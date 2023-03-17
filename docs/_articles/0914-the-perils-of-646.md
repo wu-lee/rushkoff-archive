@@ -1,14 +1,14 @@
 ---
 title: The Perils of 646
+date: 2000-01-01 05:00:00 Z
 subtitle: 
-date: '2000-01-01T05:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Why My Area Code Doesn't Work
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 Has your telephone company assigned you one of those new area codes? Don't take it. Kick and scream if you have to, make any excuse you can come up with -- or be willing to accept the consequences. They're not pretty.
 
 One of the side-effects of the Internet and cellular phone booms has been a tremendous increase in the demand for unique telephone numbers across the United States. To increase their capacity, most big cities now have new districts with new area codes. In New York, for example, 212 filled up last year. A new area code, 646, was created, and all new telephone customers, as well as people like me who happened move from one neighborhood to another, are being assigned phone numbers with the 646 prefix.

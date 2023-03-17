@@ -1,14 +1,14 @@
 ---
 title: It's All Conjecture
+date: 2008-05-09 04:00:00 Z
 subtitle: 
-date: '2008-05-09T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: December 1996
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 All it took was one big flashy article calling me a "high-paid futurist" in the New York Times Business section to spoil my last week of 1996.
 
 Sure, the "$7500 per hour" rate they seem to think I earn has become the source of endless jokes from even my best friends. "Why don't you pay for dinner, Doug, out of that $7500 per hour?" There was even a political cartoon in the Times ridiculing me for demanding and receiving such fees - fees that they saw fit to put in that painfully embarrassing banner headline the week before - just because I'm not an officially sanctioned social scientist or doctor of psychology.

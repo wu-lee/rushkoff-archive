@@ -1,7 +1,8 @@
 ---
 title: Photographs and Memories
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: The cameraphone represents the latest step in a long evolution away from elevating
   and preserving moments, to capturing and disposing of them.
@@ -18,8 +19,8 @@ refs: '[{"text"=>"Katsumi Ihara''s admission", "original"=>"http://www.thefeatur
   "archive"=>"http://web.archive.org/web/20041228093717/http://www.thefeature.com:80/article?articleid=100489",
   "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}}]'
 sources: 
-published: false
 ---
+
 The cameraphone represents the latest step in a long evolution away from elevating and preserving moments, to capturing and disposing of them.
 
   

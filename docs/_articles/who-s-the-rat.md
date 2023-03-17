@@ -1,15 +1,15 @@
 ---
 title: Who's the Rat?
+date: 2003-09-01 04:00:00 Z
 subtitle: ''
-date: 2003-09-01T00:00:00.000-04:00
 publication: _publications/eme-explorations-in-media-ecology.md
 blurb: ''
 notes: 'Source: https://www.rushkoff.com/wp-content/uploads/2015/12/Whos-the-Rat-2.pdf'
 refs: ''
 sources: ''
 image: ''
-
 ---
+
 A random sample of average people is divided into two groups: teachers and students. Each student sits on one side of a wall trying to remember a sequence of words, while the teacher sits on the other and is instructed to deliver an electric shock at each wrong answer. The voltage is increased until the student is writhing on the floor and screaming in agony. How far will each teacher go? Will he or she deliver a lethal dose? Finally, it will be revealed to the teachers that their pupils are really just actors. Won’t they be embarrassed when we all see how easily they can be turned into sadists? 
 
 No, this is isn’t one of next season’s reality shows but the very real psychology experiment carried out at Yale in 1961 by Dr. Stanley Milgram. Participants were so terribly anguished over their capacity to inflict pain on demand that the muchpublicized saga led to new ethical guidelines for psychological experimentation. 

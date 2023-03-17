@@ -1,15 +1,15 @@
 ---
-publication: _publications/follow-for-now-vol.2-more-interviews-with-friends-and-heroes.md
 title: The User's Dilemma
+date: 2010-10-08 04:00:00 Z
+publication: _publications/follow-for-now-vol.2-more-interviews-with-friends-and-heroes.md
 subtitle: ''
 image: ''
-date: 2010-10-08 00:00:00 -0400
 blurb: ''
 notes: Date given on first page; book published in 2021
 refs: ''
 sources: ''
-
 ---
+
 For over two decades. Douglas Rushkoff has been dragging us all out near the horizon, trying to show us glimpses of our own future. Though he's written books on everything from counterculture and video games to advertising and Judaism, he's always maintained a media theorist's bent: one part Marshall McLuhan, one part Neil Postman, and one part a mix of many significant others. _Program or Be Programmed: Ten Commands for a Digital Age_ (O/R Books, 2010) finds him back at the core of what he does. Simply put, this little book, running just shy of 150 pages, is the missing manual for our wild, wired world.
 
 Rushkoff agrees with many media thinkers that we are going through a major shift in the way we conceive, connect, and communicate with each other. His concern is that we're conceding control of this shift to forces that may not have our best interests in mind. "We teach kids how to use software to write," he writes, "but not how to write software. This means they have access to the capabilities given to them by others but not the power to determine the value-creating capabilities of these technologies for themselves." We're conceiving our worlds using metaphors invented by others. This is an important insight and one that helps make up the core of his critique. This book is more Innis's biases of media than it is McLuhan's laws of media, and it left me astounded, especially after reading several books on the subject that were the textual equivalent of fly-over states. _Program or Be Programmed_ is a welcome stop along the way.

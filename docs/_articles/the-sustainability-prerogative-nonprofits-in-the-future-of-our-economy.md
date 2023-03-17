@@ -1,9 +1,9 @@
 ---
-publication: _publications/nonprofit-quarterly.md
 title: 'The Sustainability Prerogative: Nonprofits in the Future of our Economy'
+date: 2017-04-25 04:00:00 Z
+publication: _publications/nonprofit-quarterly.md
 subtitle: ''
 image: ''
-date: 2017-04-25 00:00:00 -0400
 blurb: ''
 notes: |-
   Source: [https://nonprofitquarterly.org/douglas-rushkoff-non-profit-sustainability/](https://nonprofitquarterly.org/douglas-rushkoff-non-profit-sustainability/ "https://nonprofitquarterly.org/douglas-rushkoff-non-profit-sustainability/")
@@ -11,8 +11,8 @@ notes: |-
   Image: nonprofitquarterly.org/wp-content/uploads/2016/04/google-bus-e1461764855795.jpg
 refs: ''
 sources: ''
-
 ---
+
 _Douglas Rushkoff’s best-selling books on media and popular culture, including_ [Present Shock](http://www.rushkoff.com/books/present-shock/)_, have been translated to over thirty languages. He is Professor of Media Theory and Digital Economics at CUNY/Queens, technology and media commentator for CNN, digital literacy advocate for_ [_Codecademy.com_](https://www.codecademy.com/ja/rushkoff) _and a lecturer on media, technology, culture, and economics around the world._
 
 _In_ [Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity](http://www.rushkoff.com/books/throwing-rocks-at-the-google-bus/)_, Douglas Rushkoff argues we have failed to build the distributed economy that digital networks are capable of fostering and have instead doubled down on the industrial age mandate of growth above all. Central to his argument is the rise of a new dominant business form—and it is, ideally, nonprofit._

@@ -1,7 +1,8 @@
 ---
 title: Another Kind of Cell Damage
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: Mobile phones marketed to children may cause less injury to tykes than they
   do to the image of the entire wireless industry.
@@ -42,8 +43,8 @@ refs: '[{"text"=>"Firefly Mobile", "original"=>"http://www.fireflymobile.com/", 
   "keywords"=>["Reviews", "Showtimes", "DVDs", "Photos", "Message Boards", "User Ratings",
   "Synopsis", "Trailers", "Credits"], "favicon"=>"https://m.media-amazon.com/images/G/01/imdb/images-ANDW73HA/android-mobile-196x196._CB479962153_.png"}}]'
 sources: 
-published: false
 ---
+
 Mobile phones marketed to children may cause less injury to tykes than they do to the image of the entire wireless industry.
 
   

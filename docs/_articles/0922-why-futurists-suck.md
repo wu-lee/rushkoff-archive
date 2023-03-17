@@ -1,14 +1,14 @@
 ---
 title: Why Futurists Suck
+date: 1998-08-01 04:00:00 Z
 subtitle: 
-date: '1998-08-01T04:00:00.000Z'
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: How the future is used to change the present.
 notes: 
 refs: 
 sources: 
-published: true
 ---
+
 So far, only my Melbourne sponsors have let me keep the original title of the talk I've been giving around the world this month, "Why Futurists Suck." I shouldn't have been so surprised that 500-or-so concerned Australians would fill the cavernous Malthouse Theater to participate in a free exchange about our collective fate as a digital society. I have a feeling the crowd showed up less to hear me speak than to support the underlying premise of our evening together: the future that futurists futurize may not be the one we want.
 
 The act of futurism itself, as practiced by today's leading cyber pundits, is less predictive than it is propaganda. Think of the shady fortuneteller who foresees "a terrible illness" in her client's future, just so that she can sell some herbs and schedule a follow-up visit. Futurists use their authority and our timidity to shape a future that keeps them in business.

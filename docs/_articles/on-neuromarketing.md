@@ -1,16 +1,16 @@
 ---
-publication: _publications/arthur.md
 title: On Neuromarketing
+date: 2004-11-30 05:00:00 Z
+publication: _publications/arthur.md
 subtitle: ''
 image: ''
-date: 2004-11-30 00:00:00 -0500
 blurb: ''
 notes: '[https://arthurmag.com/2004/11/30/on-neuromarketing/](https://arthurmag.com/2004/11/30/on-neuromarketing/
   "https://arthurmag.com/2004/11/30/on-neuromarketing/")'
 refs: ''
 sources: ''
-
 ---
+
 From [PBs’ Frontline/Douglas Rushkoff “The Persuaders” website](http://www.pbs.org/wgbh/pages/frontline/shows/persuaders/etc/neuro.html):
 
 For an ad campaign that started a revolution in marketing, the Pepsi Challenge TV spots of the 1970s and ’80s were almost absurdly simple. Little more than a series of blind taste tests, these ads showed people being asked to choose between Pepsi and Coke without knowing which one they were consuming. Not surprisingly, given the sponsor, Pepsi was usually the winner.

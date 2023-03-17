@@ -1,14 +1,14 @@
 ---
 title: The New Dope On Video Games
+date: 1998-09-05 04:00:00 Z
 subtitle: 
-date: 1998-09-05T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 I was at a cocktail party recently when I heard the terrifying news. A notice in Scientific American reported that video games change brain chemistry.
 
 In a study conducted at the cyclotron unit of Hammersmith Hospital in London, Dr. Paul Grasby and his fellow researchers determined that playing video games triggers the release of dopamine in the brain.

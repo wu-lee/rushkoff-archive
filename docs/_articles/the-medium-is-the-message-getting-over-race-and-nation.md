@@ -1,15 +1,15 @@
 ---
-publication: _publications/what-israel-means-to-me.md
 title: 'The Medium is the Message: Getting Over Race and Nation'
+date: 2007-08-01 04:00:00 Z
+publication: _publications/what-israel-means-to-me.md
 subtitle: ''
 image: ''
-date: 2007-08-01 00:00:00 -0400
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
-
 ---
+
 I love religions. I think they're great great things—as long as no one actually believes in them.
 
 As a Jew by choice who also happens to have been born Jewish, what excited me about Judaism was its emphasis on religion as a process, rather than a thing one “believes” in. Judaism, in many ways, is less a religion than a process by which we get over religion. And I don't just mean this facetiously. No, in a world where people's inflexibly absolutist perspectives on our shared reality are colliding with disastrous results, we are in dire need of a way to negotiate an understanding of our world that is not mired in obsolete notions of race, place, and God "himself.” Judaism offers just such a negotiation. At least it used to.

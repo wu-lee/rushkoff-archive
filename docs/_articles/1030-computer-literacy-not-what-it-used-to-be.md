@@ -1,14 +1,14 @@
 ---
 title: Computer Literacy Not What It Used To Be
+date: 1998-10-24 04:00:00 Z
 subtitle: 
-date: 1998-10-24T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 A new book, *Extra Life* by *Wired* magazine writer David Bennahum, gave me the opportunity to reminisce about those good old days when kids had free reign of the networks. Now those kids are the adults responsible for designing everything from Netscape to the Palm Pilot. By giving us the keys to the kingdom, our teachers (perhaps unwittingly and by necessity) gave us the best sink-or-swim computer education we could have asked for.
 
 They -- and the proliferation of Tandy, Commodore and Atari equipment that required an understanding of programming -- bred a generation of computer geeks who played with the building blocks out of which today's communications infrastructure is formed.

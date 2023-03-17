@@ -1,7 +1,8 @@
 ---
 title: 'The Ayes Have It: Us Law Catches Up With Camera Phones'
+date: 2004-05-13 04:00:00 Z
+published: false
 subtitle: 
-date: '2004-05-13T04:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: In reaction to a recent spate of camera phone voyeurism in places like locker
   rooms and bleacher seats, a new bill has been put before the US Congress that would
@@ -17,8 +18,8 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   those who take pictures of others when they believe that “their private parts would
   not be visible to the public, regardless of whether that person is in a private
   area.”", "dateLastCrawled"=>"2020-06-06T14:05:00.0000000Z"}]'
-published: false
 ---
+
 The bill, authored by Congressman (and former FBI agent) Michael Oxley of Ohio, specifically targets those who take pictures of others when they believe that "their private parts would not be visible to the public, regardless of whether that person is in a private area."
 
 The law is really just an extension of existing voyeurism statutes, adding penalties of up to a year in jail, and using language that applies specifically to the added threat to privacy imposed by camera phones used surreptitiously in public changing areas.

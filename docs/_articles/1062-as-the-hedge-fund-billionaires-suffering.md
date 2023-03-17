@@ -1,15 +1,15 @@
 ---
 title: How Lulz Took Down Wall Street
+date: 2021-01-29 17:00:00 Z
 subtitle: 
-date: 2021-01-29T17:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-image: /uploads/1062-as-the-hedge-fund-billionaires-suffering.jpeg
-
+image: "/uploads/1062-as-the-hedge-fund-billionaires-suffering.jpeg"
 ---
+
 As the hedge fund billionaires suffering catastrophic losses in the r/WallStreetBets activist campaign now realize, we reap what we sow. Even more so in a digital age.
 
 Norbert Wiener tried to warn us way back in the 1950s that digital technologies would be cybernetic in nature. They do not function in the straight linear fashion of the Industrial Age with its assembly lines, unidirectional drive toward progress, and growth-based capitalism. No, the world of cybernetics is a world of feedback loops — like the cycles of a computer. Call and response. Everything comes back, like karma. And though for a while it looked like digital technology was just going to accelerate that relentless drive toward infinite wealth for the few, feedback has finally kicked in, and the digital revolution so many of us have been waiting for may, at last, be here.

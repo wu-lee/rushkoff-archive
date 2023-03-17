@@ -1,15 +1,16 @@
 ---
 title: 'American Teens: Stupid or Spoiled?'
+date: 2003-10-17 00:00:00 Z
+published: false
 subtitle: 
-date: '2003-10-17T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: America's teen market may prove difficult for snazzy handset manufacturers
   to penetrate. But the real reasons for upgrade reluctance might surprise them.
 notes: 
 refs: 
 sources: 
-published: false
 ---
+
 I hadn't been to Europe for close to a year, and have to admit I was surprised, even inspired by the speed with which young people are upgrading their handheld wireless devices over there. As I strolled the streets of many a London neighborhood, I saw kids taking photos, shooting video, sending real email (not just text messages or sms, but genuine internet mail), and even mo-blogging, nearly everywhere I looked.
 
 These just weren't the wealthy kids in the posh areas, but real people from a fairly wide variety of socio-economic and cultural backgrounds. It seemed to be that a majority of people under forty, and nearly everyone under 20, was sporting a fairly new and fully featured handset.

@@ -1,14 +1,14 @@
 ---
 title: Developing the Social Self
+date: 2013-01-24 05:00:00 Z
 subtitle: 
-date: 2013-01-24T05:00:00.000Z
 publication: _publications/edutopia.md
 blurb: 
 notes: 
 refs: 
 sources: 
-
 ---
+
 I tried to write a single piece on [raising digital kids at home](/blog/kids-technology-home-young-children-douglas-rushkoff) -- but childhood is just too epic a journey for a single piece. Still, the overall strategy for technology in the home is the same from birth to high school graduation: match their developmental level, and make sure they understand whatever medium they are using from the inside out: who made this, how does it work, and what does it want from me?
 
 ### Winning the Bigger Game

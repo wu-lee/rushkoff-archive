@@ -1,15 +1,16 @@
 ---
 title: The Golden Age
+date: 2008-10-16 00:00:00 Z
+published: false
 subtitle: 
-date: '2008-10-16T00:00:00.000Z'
 publication: _publications/nokias_the_feature.md
 blurb: Don't take your handheld for granted. This sorry decade may just be remembered
   as the 'golden age' of wireless devices.
 notes: 
 refs: 
 sources: 
-published: false
 ---
+
 Don't take your handheld for granted. This sorry decade may just be remembered as the 'golden age' of wireless devices.
 
   

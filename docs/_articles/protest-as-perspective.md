@@ -1,15 +1,15 @@
 ---
 title: Protest as Perspective
+date: 2002-01-01 05:00:00 Z
 subtitle: Do We Want a Revolution or a Renaissance?
-date: 2002-01-01T00:00:00.000-05:00
 publication: _publications/journal-of-cognitive-liberties.md
 blurb: ''
 notes: 'Source: https://www.cognitiveliberty.org/ccle1/9jcl/Rushkoff_protest.html'
 refs: ''
 sources: ''
 image: ''
-
 ---
+
 So often we hear people using the word “revolution” to describe the current overwhelming cultural shift fostered by technology and new media. However overwhelming it might be, can we really describe the current transition as a revolution? For me, the word “revolution” evokes images of a violent upheaval and guillotined heads. There’s certainly very little progress implied by revolution; it’s simply someone spinning around in circles.  
 Digital culture may be marginally revolutionary in the sense that it is characterized by what so many companies and institutions have called “thinking outside the box”–a willingness to challenge conventions and consider meta-narratives. But, this notion of thinking outside the box and gaining perspective is not simply moving in a circle. We are coming to a new understanding of what had always been considered _literal_ reality; we are seeing it instead as a _picture_ of reality. Our new tools are also leading us to feel empowered enough to adjust the frame around that picture. Such an upscaling of perception, intention, and design is better described as renaissance.”
 

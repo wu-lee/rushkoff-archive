@@ -1,15 +1,15 @@
 ---
 title: Plunging Into the Abyss
+date: 2021-07-21 16:00:00 Z
 subtitle: 
-date: '2021-07-21T16:00:00.000Z'
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
-image: /uploads/1068-plunging-into-the-abyss.jpg
+image: "/uploads/1068-plunging-into-the-abyss.jpg"
 ---
+
 Itcomes in waves. A friend here, a co-worker there, getting curious about one conspiracy theory or another until they follow one too many trailheads, and end up over the edge. It’s a casualty of living in disorienting times, we tell ourselves. It will eventually pass.
 
 But the hardest part is when the people we’ve traditionally looked to for their brilliance and insights fall into this paranoid trap, as well. They leave us wondering how this could happen to people smarter than ourselves. As Kurt Andersen tweeted over the weekend, “Strangers turning en masse these last decades into crazed crackpot conspiracy theorists has been bad enough, but an educated, talented, funny, sweet, cosmopolitan old friend plunging into that abyss is a really disturbing, depressing Invasion of the Body Snatchers experience.”

@@ -1,7 +1,7 @@
 ---
 title: iPhone Is Not Your Savior
+date: 2012-09-12 04:00:00 Z
 subtitle: 
-date: '2012-09-12T04:00:00.000Z'
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -31,8 +31,8 @@ refs: '[{"text"=>"boost our nation''s GDP", "original"=>"http://www.reuters.com/
   "archive"=>"http://web.archive.org/web/20191009063129/https://www.forbes.com/sites/terokuittinen/2012/05/01/is-the-omgpop-acquisition-haunting-zynga/",
   "meta"=>{"title"=>"Security Violation (403)", "favicon"=>"http://www.forbes.com/favicon.ico"}}]'
 sources: 
-published: true
 ---
+
 **(CNN)** -- Last time around, humanity's savior came in the form of a human messiah. This time, if technology analysts, bankers and venture capitalists are to be believed, it will take the form of a handheld computer otherwise known as a smartphone.
 
 That's right, the new Apple iPhone announced Wednesday is already being credited with saving the United States economy. According to JP Morgan, sales of the new device should [boost our nation's GDP](http://www.reuters.com/article/2012/09/11/us-usa-apple-gdp-idUSBRE8891E720120911) by as much as 0.5% in the fourth quarter of this year alone. That's not a misprint, but half a percent of the nation's economic activity, or $3.2 billion.
