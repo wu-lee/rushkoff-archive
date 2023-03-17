@@ -1,13 +1,15 @@
 ---
 title: It's Nice to Share
 subtitle: 
-date: '2003-11-21T17:00:00.000Z'
+date: 2003-11-21T17:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 In their relentless pursuit to move “up the food chain” wireless providers are sacrificing the massive potential (and profit) of open standards and interoperability to the booby prize of cool commercial content.
 
@@ -34,4 +36,3 @@ That's why the way to survive the coming crunch is not to lock down your wireles
 Wireless companies will, one day, be able to charge their customers for the minutes they use. The object of the game is not to turn into another kind of company, but to do the job of fostering good communication, the sharing of data and programs, and the development of self-organizing communities of users. The industry must sit tight and let this happen - however little excuse it gives them to raise or spend more money. Or to feel cool.
 
 I suppose, in the end, the wireless carriers who refuse to be wireless carriers will get their way. They simply won't exist.
-

@@ -1,13 +1,15 @@
 ---
 title: It's Got a Hold on You
 subtitle: 
-date: '2005-05-27T16:00:00.000Z'
+date: 2005-05-27T16:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 The mobile phones in our hands may have a more totemic role in our lives than we suspect.
 
@@ -38,4 +40,3 @@ My guess is that users' desire to relate to their handheld wireless technology i
 For instance take a culture where hi-tech and hi-totem already coexist, like Taiwan, where in an effort to differentiate its brand, manufacturer Okwap released a divinely blessed limited-edition cellphone. In addition to being blessed in her temple, the phones have wallpapers, ringtones and holograms all based on Matsu, the popular Chinese goddess of the sea.
 
 Although I usually come down hard against such tactics as exploitative or degrading of people's beliefs, I'm finding it hard to feel too terrible about gods, goddesses and other mystical traditions being incorporated into phones as a form of brand differentiation. In a sense, integrating them all with each other only underscores what a central role traditions, technologies and target marketing now play in our lives, and forces us to make a more conscious choice about what we believe in, and why.
-

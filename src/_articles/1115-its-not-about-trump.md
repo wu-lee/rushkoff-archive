@@ -1,13 +1,15 @@
 ---
 title: It’s Not About Trump
 subtitle: 
-date: '2019-03-27T16:00:00.000Z'
+date: 2019-03-27T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 Noindictment? No collusion? In the wake of the Mueller investigation report this week, many of my progressive friends are reliving the trauma of election night. This can’t be true. It can’t have happened.
 
