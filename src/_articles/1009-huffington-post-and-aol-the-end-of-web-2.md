@@ -1,7 +1,7 @@
 ---
 title: 'Huffington Post and AOL: The End of Web 2.0'
 subtitle: 
-date: 2011-02-09T05:00:00.000Z
+date: 2011-02-09T05:00:00.000+00:00
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: 'HuffPo''s sale to AOL does not mean its demise, but it is the demise of something:
   we''d write for free for Arianna, but not AOL'
@@ -10,6 +10,8 @@ notes: '[https://www.theguardian.com/commentisfree/cifamerica/2011/feb/09/ariann
 refs: 
 sources: 
 image: "/uploads/arianna-huffington-001.jpg"
+categories:
+- _categories/periodicals.md
 
 ---
 It's easy to make fun of [AOL's pending purchase of HuffPo](https://www.theguardian.com/world/richard-adams-blog/2011/feb/07/huffington-post-sale-aol-ariana). Just like AOL's purchase of TimeWarner, here we have a new media company – [Huffington Post](http://www.huffingtonpost.com/) – fooling an old media company, AOL, into overpaying for something that has already peaked. Combined with the [merger of Daily Beast with Newsweek](http://www.thedailybeast.com/blogs-and-stories/2010-11-12/newsweek-daily-beast-merge-announcement/), and Facebook's primping for IPO, it seems as if the second great age of internet media, the fabled "Web 2.0", is now going the way of Web 1.0 – that is, boom, sell, and bust.
