@@ -1,14 +1,16 @@
 ---
 title: It’s Good to Feel Small
 subtitle: 
-date: '2021-09-03T16:00:00.000Z'
+date: 2021-09-03T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
-image: /uploads/1074-its-good-to-feel-small.jpeg
+image: "/uploads/1074-its-good-to-feel-small.jpeg"
+categories:
+- _categories/periodicals.md
+
 ---
 Like many north easterners, I’m still digging myself out from the destruction of Hurricane Ida — or, as my insurance company reminds me—“tropical depression” Ida, which is not eligible for a claim on my special “hurricane extension.” Although I lost some precious archives (letters from Timothy Leary, the first dozen Teenage Mutant Ninja Turtle comics, newspapers saved from the JFK assassination, moon landing, and Nixon resignation) the real damage was light. My finished basement is now, well, finished in another way.
 
