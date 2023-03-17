@@ -1,7 +1,7 @@
 ---
 title: Instagram Users Should Wise Up
 subtitle: 
-date: '2012-12-19T00:00:00.000Z'
+date: 2012-12-19T00:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -18,7 +18,9 @@ refs: '[{"text"=>"a blog post backtracking significantly", "original"=>"http://w
   "images"=>[{"url"=>"https://cdn.cnn.com/cnnnext/dam/assets/121218034208-instagram-terms-users-story-top.jpg"}]},
   "keywords"=>["tech", "Instagram backtracks after user privacy revolt - CNN"], "favicon"=>"http://www.cnn.com/favicon.ico"}}]'
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 (CNN) -- I'm just as reactionary and just as outraged as the next Internet user when I learn that a service I've been using for free is going to start selling my information to market researchers or excerpting my posts and pictures for its clients' advertisements or charging me good money to communicate with an online cohort that might have taken me years to build.
 
