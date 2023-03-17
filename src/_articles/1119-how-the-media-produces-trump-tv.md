@@ -1,13 +1,15 @@
 ---
 title: How the Media Produces Trump TV
 subtitle: 
-date: '2019-06-17T16:00:00.000Z'
+date: 2019-06-17T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 It’s easy to interpret Trump’s total domination of mainstream news media as the first true win for digital propaganda. For good reason: the fake news on Facebook, the weaponized memes of Cambridge Analytica, and the President’s own Twitter barrages appear to be eclipsing the fact-based reporting of mainstream journalists. But it’s not those messages themselves — especially not in their context online — that shape the narratives we use to understand our world; it’s the way they are broadcast through traditional media like print, radio and, most importantly, television.
 

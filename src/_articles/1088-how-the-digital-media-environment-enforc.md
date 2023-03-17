@@ -1,13 +1,15 @@
 ---
 title: How the Digital Media Environment Enforces Boundaries
 subtitle: 
-date: '2016-01-08T17:00:00.000Z'
+date: 2016-01-08T17:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/periodicals.md
+
 ---
 In the 1980’s, the ultimate television president, Ronald Reagan, went to Berlin and implored Mr. Gorbachev to “tear down this wall.” Thanks to the global spectacle of electronic age as well as the unifying image of the earth from space, we were on our way to becoming one world. For better and for worse, both the spirit of kumbaya and the new power of the global market were in full force. This was utterly consistent with the media landscape of that society.
 
@@ -25,5 +27,3 @@ That’s why we’re either Americans or Mexicans, Canadians or natural born cit
 I was thinking our goal should be to re-establish the ambiguity — find new tolerance for ill-defined and undefined places on the spectrum. But even in those places, like the increasingly nuanced definition of gender, most are gravitating toward evermore specific names for their sense of self.
 
 So now I’ve started to wonder if it’s better to push through. Maybe forcing definitions, as our digital environment seems to be doing, will lead to more granular definitions and categories. But each time we do this process, we will also be forced to come to terms with the arbitrary nature of all these categories and distinctions. Each one is a compromise, no matter how many decimal places we use.
-
-
