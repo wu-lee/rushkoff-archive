@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 When the Court of Appeals sent the Microsoft case and the Justice Department's proposed "break up" remedy back to the lower courts for a fix, everyone - at least everyone in the press and punditry pen - seemed to think it marked a victory for Bill Gates. His company would now remain whole and, even if he were eventually punished, his web browser would have even more time to establish itself as the Internet's standard. I still receive email asking why I haven't spoken out against the decision.

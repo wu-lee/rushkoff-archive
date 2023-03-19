@@ -11,7 +11,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Yes, these are "networked" events - but not in the sense that the cells are directly linked in a command and control communications network. Cells are not coordinated this way, with "sleepers" waiting for phone calls and taking action. It's not a matter of phone trees, email commands, or direct links between some guys in London, some other ones in Egypt, and a central server disseminating commands from Pakistan.

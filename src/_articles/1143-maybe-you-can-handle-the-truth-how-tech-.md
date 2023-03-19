@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Digital culture seems up in arms about the ways the new Steve Jobs movie diverges from factual history. Unlike the film, nothing ever failed in an Apple demo, Jobs didn’t get into fights with people before going on stage, Wozniak never said any of the things his character does in the movie, and engineers simply don’t work and speak the way they do in the movie.

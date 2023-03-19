@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 You can ditch Facebook. It's OK. You will survive. And not only will you get through it, but your life will get better.

@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Paying attention to one group's disabilities enhances usability for everyone else.

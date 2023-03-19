@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 A few students in the cyberculture class I teach at New York University just conducted an interesting survey. They interviewed over 125 children in elementary school about computers -- what they are, how much they like them, whether they own them and, most importantly, where and how they use them.

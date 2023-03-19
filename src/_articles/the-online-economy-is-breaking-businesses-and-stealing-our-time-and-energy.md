@@ -10,7 +10,7 @@ notes: '[https://rushkoff.medium.com/the-online-economy-is-breaking-businesses-a
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Transcript from an interview on _BigThink_ about _Throwing Rocks at the Google Bus_ (Portfilio, 2016)

@@ -13,7 +13,7 @@ notes: |-
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Many of us take for granted that our retirement is our own personal responsibility. Young professionals understand that they’re playing a game, competing against one another not just in a race for jobs but also for retirement strategies. The only trouble is that 401(k)s might be creating many more losers than winners.

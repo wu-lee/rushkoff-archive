@@ -10,7 +10,7 @@ notes: "Date from Dropbox.  \nText from [http://web.archive.org/web/201011280320
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 It all began with the remote control.

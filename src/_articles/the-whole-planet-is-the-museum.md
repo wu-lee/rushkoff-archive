@@ -14,7 +14,7 @@ notes: |-
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 _I met Genesis in the early ’90s in the Bay Area. He needed a lift to Timothy Leary’s house in Beverly Hills, and I needed an interview for a book I was writing about viral media. We spent about six hours in the car together, trying to impress one another with our strangest thoughts while Gen’s two daughters fought in the back seat._

@@ -9,7 +9,7 @@ notes: January 2004
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 AND AVRAM TOOK SARAI HIS WIFE... AND THE SOULS THAT THEY HAD MADE IN HARAN. Rabbi 'Leazar observed in the name of R. Jose b. Zimra:... It refers... to proselytes \[which they had made\]. Then let it say, "That they had converted"; why THAT THEY HAD MADE? That is to teach you that he who brings a Gentile near \[to God\] is as though he created him. Now let it say, "That he had made"; why THAT THEY HAD MADE? Said R. Hunia: Abraham converted the men and Sarah the women. _Midrash Rabbah-Genesis 39:14_

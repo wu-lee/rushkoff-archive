@@ -13,7 +13,7 @@ notes: ''
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 As a humanist who writes about the impact of digital technology on our lives, I am often mistaken for a futurist. The people most interested in hiring me for my opinions about technology are usually less concerned with building tools that help people live better lives in the present than they are in identifying the Next Big Thing through which to dominate them in the future. I don't usually respond to their inquiries. Why help these guys ruin what's left of the internet, much less civilisation?

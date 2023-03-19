@@ -9,7 +9,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 I'm a bit down on the Internet these days.

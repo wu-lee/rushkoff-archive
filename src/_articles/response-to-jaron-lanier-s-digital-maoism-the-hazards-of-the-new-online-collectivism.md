@@ -12,7 +12,7 @@ notes: |-
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Despite comparing Wikipedia with the likes of American Idol, this is a more reasoned and hopeful argument than it appears at first glance. Lanier is not condemning collective, bottom-up activity as much as trying to find ways to check its development. In short, it's an argument for the mindful intervention of individuals in the growth and acceleration of this hive-mind thing called collective intelligence.

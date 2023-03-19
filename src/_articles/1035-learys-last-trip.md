@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 THAT'S PROBABLY THE WORST PLACE TO leave those," Timothy Leary barks at a beautiful young assistant. She clears a pile of videocassettes from the path of his oncoming electric wheelchair. He stops short. What are they, anyway?" The purple-haired girl reads off the labels.

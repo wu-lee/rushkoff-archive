@@ -10,7 +10,7 @@ notes: '[https://www.theguardian.com/commentisfree/2019/dec/29/decade-technology
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 We may come to remember this decade as the one when human beings finally realized we are up against something. We’re just not quite sure what it is.

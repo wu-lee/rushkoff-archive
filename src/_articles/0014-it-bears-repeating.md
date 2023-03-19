@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 There's two kinds of people asking me about the economy lately: people with money wanting to know how to keep it “safe,” and people without money, wanting to know how to keep safe, themselves.

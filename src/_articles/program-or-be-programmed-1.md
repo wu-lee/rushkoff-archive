@@ -9,7 +9,7 @@ notes: "2010"
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 FACEBOOK

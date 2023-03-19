@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Imagine a whole society going into therapy. No, not thousands of neurotic New Yorkers sitting on couches, but an entire culture seeking psychological counseling. It might not be so outlandish a possibility.

@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 So just who is allowed to participate in the conversation that is Judaism, anyway? Is it a blood test, a history of contributions to the right philanthropies, or a working knowledge of the Talmud that earns one a place at the table?

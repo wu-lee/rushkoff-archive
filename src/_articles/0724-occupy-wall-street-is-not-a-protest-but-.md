@@ -71,7 +71,7 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   Street movement. Stock brokers look on, police man the barricades, and what appears
   to be a […]", "dateLastCrawled"=>"2020-06-19T02:46:00.0000000Z"}]'
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 The more familiar something looks, the less threatening it seems. This is why images of funny-looking college students marching up Broadway or shirtless boys banging on drums comprise the bulk of the imagery we see of the Occupy Wall Street movement. Stock brokers look on, police man the barricades, and what appears to be a traditional protest movement carries on another day, week, or month.

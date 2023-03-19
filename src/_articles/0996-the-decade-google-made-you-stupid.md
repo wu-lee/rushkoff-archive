@@ -10,7 +10,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Here are the four things cognizant people should know about the decade when computers mastered our cognition.

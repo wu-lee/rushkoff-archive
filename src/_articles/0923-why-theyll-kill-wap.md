@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Okay, I'll let you in on a secret. There's currently a way to access an Internet as fast, convenient, and uncluttered as it was in the old days before banner ads, animated gifs, and cookie attacks. It's the streamlined, text-only world of WAP -- a scaled-down World Wide Web meant to be accessed only by cellular phones and pda's.

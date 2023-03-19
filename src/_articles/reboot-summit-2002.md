@@ -9,7 +9,7 @@ notes: ''
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 We are really glad you're making the time and effort to attend the Reboot summit next month. Roger, Rachel and I have been working hard to develop a program that will give us the shared ground and open space necessary to engage in a meaningful set of conversations about Judaism and Jewishness.

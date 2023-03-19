@@ -12,7 +12,7 @@ notes: |-
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Yes, the net has changed business as profoundly as anything since central banking. But instead of seizing the opportunity, most businesses are still so addicted to the old way of doing things that they do the very opposite: they use the net to entrench themselves even further into the Industrial Age landscape that is fast disappearing. 

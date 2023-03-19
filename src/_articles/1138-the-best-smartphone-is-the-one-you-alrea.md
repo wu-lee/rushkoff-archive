@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Now that Apple has disappointed early adopters with a mere incremental iPhone upgrade, and Samsung has done even worse by releasing exploding Galaxy Note 7s, the preposterous futility of the smartphone wars should be coming apparent. Those people who are trading in perfectly usable phones for the latest models are the suckers.

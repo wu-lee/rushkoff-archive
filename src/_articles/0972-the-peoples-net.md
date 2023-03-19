@@ -9,7 +9,7 @@ notes: July 2001 per [https://rushkoff.com/the-peoples-net/](https://rushkoff.co
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 To those of us who really love it, the Internet is looking and feeling more social, more alive, more participatory, and more, well, more Internet-y than ever before. This might sound surprising, given the headlines proclaiming the official bursting of the technology bubble. Likewise, analysts on the financial cable channels and the venture capitalists of Silicon Alley now shun any company whose name ends in .com and have moved on to more promising new buzzwords, such as wireless.

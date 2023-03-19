@@ -9,7 +9,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 I was having lunch—gosh, it must have been three years ago—with Grant Morrison, Scottish storyteller, comics genius, and chaos magician. We were in Life Cafe, across the street from where I lived at the time, and we got on to the subject of 9-11 and the Bush regime and the state of the world.

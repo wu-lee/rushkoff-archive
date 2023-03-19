@@ -9,7 +9,7 @@ notes: Date from Amazon
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Track 1: A Personal Opinion of the UFO Phenomenon

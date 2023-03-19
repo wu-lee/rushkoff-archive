@@ -9,7 +9,7 @@ refs: ''
 sources: ''
 image: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 _What do playing and doing business have in common?_ 

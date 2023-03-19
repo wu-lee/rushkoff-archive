@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 When AOL bought Time Warner, the New York Times asked me to write a comment piece. "What does it all mean?" my assigning editor asked.

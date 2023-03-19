@@ -10,7 +10,7 @@ notes: 'Source: [https://rushkoff.medium.com/why-one-party-rule-wont-work-84eee4
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Yesterday, I wrote up [a thought experiment](https://rushkoff.medium.com/adjusting-to-one-party-rule-3083d2d07f14) for how the Democratic Party could attempt to preserve the legislative process after Republicans’ [officially ](https://int.nyt.com/data/documenttools/rnc-censure-resolution/58226d40412e4f18/full.pdf)determined their own more centrist members had committed “sabotage,” and defended the Capitol riots as “legitimate public discourse.” I deleted it because I think people were taking my proposal a bit too seriously.

@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Technology has always given us more control over time—especially now at the dawn of the digital age. But no matter how precisely we can count our milliseconds, neither our bodies nor our businesses are proving as programmable as our computers.

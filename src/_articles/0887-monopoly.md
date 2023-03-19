@@ -9,7 +9,7 @@ notes: '[https://www.theguardian.com/technology/2000/feb/10/onlinesupplement6](h
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 The hubbub in concerned circles these days is that AOL-TimeWarner, and now Time-Warner-Elektra mergers herald a dangerous trend. The dark enemy at the heart of this nightmare scenario? Media Monopoly.

@@ -10,7 +10,7 @@ refs: ''
 sources: ''
 image: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Was this the big one?

@@ -10,7 +10,7 @@ notes: '[https://www.theguardian.com/technology/2000/jun/29/onlinesupplement13](
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 However vehemently today's web enthusiasts proclaim that "content is king", I suspect very few have stopped to consider just what this stuff called content really is. If it's anything at all.

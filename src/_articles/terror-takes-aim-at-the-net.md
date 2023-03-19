@@ -11,7 +11,7 @@ notes: '[https://www.theguardian.com/technology/2001/sep/20/internetnews.onlines
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 The attack on the World Trade Tower is no more an attack on the global economy than it is an attack on the global network. That's right: the internet we've argued over for the past 10 years has been targeted. Given the quality of a lot of what I've read online since the attack, it's hard to be too upset. The internet is at war with itself, when it should be coming to terms with its real enemies.

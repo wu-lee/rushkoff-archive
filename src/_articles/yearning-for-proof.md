@@ -10,7 +10,7 @@ notes: 'Source: [https://onezero.medium.com/yearning-for-proof-82d178672a78](htt
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 I’ve made no secret of my skepticism about the blockchain as a solution for our economic woes. Yes, the economy is tilted, corrupt, and easily gamed — but the solution is likely social, not technological. While national, debt-based central currencies create terrible incentives, abstractions, and growth mandates, moving our transactions to a decentralized ledger maintained by wealthy hackers may not truly be any better. And most people know this, deep down.

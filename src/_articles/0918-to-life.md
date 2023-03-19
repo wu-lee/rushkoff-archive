@@ -8,7 +8,7 @@ notes: Date is based on when this column was emailed (per Dropbox file)
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 I've received a lot of email from people supporting my attempts to reach some clarity (mostly on the media-squatters discussion list) while avoiding any particular pole of fundamentalism or extremism. And I've received many critical emails from all 'sides' of this catastrophe.

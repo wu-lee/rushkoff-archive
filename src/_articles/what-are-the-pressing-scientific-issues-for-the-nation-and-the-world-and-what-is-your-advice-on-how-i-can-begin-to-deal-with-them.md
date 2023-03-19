@@ -11,7 +11,7 @@ notes: '[https://www.edge.org/response-detail/11712](https://www.edge.org/respon
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 A modest super-fund to explore alternative, non-resource-based energy sources could solve a great majority of the world's problems. But it would need to be accompanied by an equally serious look at our commodities-based economic model. Our chief obstacle to sustainable energy technology might not be scientific at all, but economic. What would happen to the oil industry if we no longer needed oil?

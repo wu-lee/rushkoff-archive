@@ -10,7 +10,7 @@ refs: ''
 sources: ''
 image: "/uploads/what-would-it-take-for-the-economy-to-be-more-fair.jpg"
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 People talk about “the economy” all the time. The economy is growing. The economy is falling apart. The economy is strong.

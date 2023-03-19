@@ -10,7 +10,7 @@ notes: '[https://www.theguardian.com/technology/2000/jun/01/onlinesupplement8](h
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 I thought it was just me. About half an hour into the Ridley Scott action picture Gladiator, I got a strange sort of headache. It began somewhere behind my eyes, and quickly travelled back into my brain. I had a vague memory of the sensation, and as the burly characters hacked at one another inside a computer-rendered Roman Coliseum, I realised when I had experienced this same headache before: travelling to Jar-Jar Binks's underwater home city in Star Wars, The Phantom Menace.

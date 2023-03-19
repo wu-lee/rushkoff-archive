@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 As a kid, I used to wonder if civilization is really just the process by which older, weaker people prevent younger, stronger ones from taking over. By the time the younger ones figure it all out, they’re old enough to need the protection of civilization’s rules themselves.

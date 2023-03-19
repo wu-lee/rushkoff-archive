@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Mobile-enabled politics are still far from true networked solidarity -- and may do unaffiliated activists more harm than good.

@@ -10,7 +10,7 @@ refs: '[{"text"=>"Eatocracy: Anthony Bourdain says help NYC restaurants: Eat out
   tip big", "original"=>"http://eatocracy.cnn.com/2012/11/05/anthony-bourdain-nyc-restaurants-after-sandy/?hpt=op_t1"}]'
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 "Rethinking grid dependence in new climate reality."

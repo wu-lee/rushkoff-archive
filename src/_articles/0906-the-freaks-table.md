@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 One of the greatest side-effects of the dot.com bust has got to be the revitalized interest in cool, weird, and artsy technologies. Wall Street will always be Wall Street, and devotees of the NASDAQ pyramid will continue to understand technologies in terms of their speculative potential. But real human beings with more human concerns have gotten over the tech-spec narrative, and begun to poke around the datasphere in search of something fun to do.

@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 I'm getting more questions about my latest book than about any other I’ve written. And this is before the book is even out—before anyone has even read the galleys.

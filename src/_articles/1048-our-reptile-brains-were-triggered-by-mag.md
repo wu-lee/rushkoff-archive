@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 A viral video has once again confirmed everyone's preconceptions about human nature, the state of our politics and even "kids nowadays."

@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 In the 1980’s, the ultimate television president, Ronald Reagan, went to Berlin and implored Mr. Gorbachev to “tear down this wall.” Thanks to the global spectacle of electronic age as well as the unifying image of the earth from space, we were on our way to becoming one world. For better and for worse, both the spirit of kumbaya and the new power of the global market were in full force. This was utterly consistent with the media landscape of that society.

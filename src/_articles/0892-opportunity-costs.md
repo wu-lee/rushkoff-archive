@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 There are people who would have us believe that our computers could destroy the planet. No, not by taking control of the nuclear arsenals or enslaving humanity, but by sapping our resources and literally polluting us to death. They may be right.

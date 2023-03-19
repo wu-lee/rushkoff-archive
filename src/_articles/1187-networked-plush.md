@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Inserting a cell phone or an Airport in a fuzzy doll just won't cut it. It's time for toys to network.

@@ -15,7 +15,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 It’s an extremely dangerous game for Microsoft, which is effectively amputating its most profitable businesses in order to retain its share of the market.

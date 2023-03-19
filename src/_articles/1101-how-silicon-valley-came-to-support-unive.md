@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 In 2016, I was invited to Uber's headquarters (then in San Francisco) to talk about the failings of the digital economy and what could be done about it. Silicon Valley firms are the only corporations I know that ask for private talks for free. They don't even cover cab fare. Like Google and Facebook, Uber figures that the chance to address their developers and executives offers intellectuals the rare privilege of influencing the digital future or, maybe more crassly, getting their books mentioned on the company blog.

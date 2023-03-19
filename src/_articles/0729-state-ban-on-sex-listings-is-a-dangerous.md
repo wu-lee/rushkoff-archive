@@ -42,7 +42,7 @@ refs: '[{"text"=>"and attorneys general,", "original"=>"http://kuow.org/program.
   "archive"=>"http://web.archive.org/web/20160324192530/http://apps.leg.wa.gov/billinfo/summary.aspx?bill=6251"}]'
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 **(CNN)** -- Underage sex trafficking is an awful thing, on that we can all agree. But the growing clamor by individual U.S. states for the shutdown of Village Voice Media's web-based advertising site, Backpage.com, is panicky, scattershot, legally suspect and potentially just as dangerous.

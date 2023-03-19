@@ -45,7 +45,7 @@ refs: '[{"text"=>"NYU''s Interactive Telecommunications Program", "original"=>"h
   "favicon"=>"http://www.thefeature.com/favicon.ico"}}]'
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 1\\. A new book on fun - doing things, particularly in one's profession or organization, for meaning rather than profit. Getting beyond survival as a motivation, if you're no longer truly fighting for survival - and this is made so hard in our culture.

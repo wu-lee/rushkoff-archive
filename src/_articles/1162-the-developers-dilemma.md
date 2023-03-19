@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 The inability to create a great cell-phone software course may tell us a lot about the plight of independent developers in a development-hostile environment.

@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Thursday’s installment of the Democratic Party’s multinetwork debate fiasco promises more than just another night of bad television; it’s a lesson in bad democracy.

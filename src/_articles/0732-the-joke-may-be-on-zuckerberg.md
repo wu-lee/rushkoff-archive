@@ -26,7 +26,7 @@ refs: '[{"text"=>"Mark Zuckerberg''s announcement", "original"=>"http://hothardw
   "site"=>"verge"}, "favicon"=>"https://cdn.vox-cdn.com/uploads/chorus_asset/file/7395351/android-chrome-192x192.0.png"}}]'
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Facebook's latest defense of the mental distraction it creates for its users? It's not a bug, it's a feature!

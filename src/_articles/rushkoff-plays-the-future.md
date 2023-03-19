@@ -9,7 +9,7 @@ notes: also appeared in June 1996 issue of Paper
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 By Fenton Bailey

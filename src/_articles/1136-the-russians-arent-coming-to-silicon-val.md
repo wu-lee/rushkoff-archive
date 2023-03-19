@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 The Russian government’s influence over Donald Trump may be the least of our problems. I mean, how has White House diplomacy affected your life compared with, say, the algorithms that Google and Facebook use to steer your activity, the automated processes that are fast usurping your means of employment, or the artificial intelligences that are surpassing your own cognitive abilities?

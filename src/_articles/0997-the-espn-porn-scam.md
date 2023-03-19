@@ -32,7 +32,7 @@ refs: '[{"text"=>"how it works", "original"=>"http://www.youtube.com/watch?v=H4q
   "favicon"=>"http://www.youtube.com/yts/img/favicon_144-vfliLAfaB.png"}}]'
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 But the Andrews video has also fueled the spread of highly toxic computer viruses, and quite probably financial thievery and terrorism, by hackers who know the real law of the Internet: The closer an Internet user is to a set of videotaped breasts, the more likely he (and 99% of those who fall into this trap are male) will be to click on whatever he's told to.

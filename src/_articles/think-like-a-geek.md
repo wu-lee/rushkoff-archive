@@ -10,7 +10,7 @@ notes: October 2007
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 What distinguishes you from your competition? Your brand? Your customer database? Your distribution? Your product? I beg to differ. In the long run, the only thing that distinguishes your business from anyone else's is your smarts.

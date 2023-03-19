@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Media is a consensus. It's one of the ways we establish what's going on in the world around us. That's why it's so important that the mediaspace remain open and free of censorship. We should all have a say in what it is we think is happening, and a chance to contribute to the conversation. The Internet provided us with just such an opportunity -- particularly because it was free of the kinds of legal and business pressures that restrict more mainstream and broadcast media.

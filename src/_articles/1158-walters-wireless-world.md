@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 What would Walter Ong have thought about the current evolution of mobile media, or, What Would Jesus Moblog?

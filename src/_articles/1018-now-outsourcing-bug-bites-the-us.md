@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 It is in the name of innovation that America's biggest and brightest technology companies are outsourcing their most seemingly mundane processes to companies in places like and Delhi. What they fail to realise, however, is that the nations to which they are sending this work are not simply the beneficiaries of employment for mid-skilled labour; they are the future winners in the global contest for innovation leadership.

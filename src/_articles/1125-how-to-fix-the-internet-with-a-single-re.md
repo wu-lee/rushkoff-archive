@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 In 2016, the United Nations declared access to the internet to be a basic human right, right up there with shelter, food, and water. And while many of us may have access to an internet, none of us has access to the internet. That’s because it isn’t one uniform entity.

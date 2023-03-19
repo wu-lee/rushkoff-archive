@@ -11,7 +11,7 @@ notes: 'Source: [https://rushkoff.medium.com/keep-the-faith-302700a441b3](https:
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 I’m not a man of faith as it’s commonly understood, but I am starting to wonder if we’re getting to a moment where we human beings need to assert just a bit of sacred mystery to the goings on in this dimensional neighborhood we call reality.

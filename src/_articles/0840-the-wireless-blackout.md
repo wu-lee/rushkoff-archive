@@ -9,7 +9,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 In the Great Blackout of 2003, it was the landlines that worked, and the cell phones that failed.

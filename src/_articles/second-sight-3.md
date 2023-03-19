@@ -10,7 +10,7 @@ notes: '[https://www.theguardian.com/technology/2001/jul/12/internetnews.onlines
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 The internet is for amateurs. No, that's not an insult, but high praise. "Amateurs," by definition, do what they do for the love of it. Because it's fun, social, enriching, transformational, evolutionary or even just beautiful. Now that the investors see the net as more of a lame duck than a cash cow, the only ones left out here (or the only ones that should be) are us amateurs.

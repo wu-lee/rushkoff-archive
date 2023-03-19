@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 The mainstream media has found yet another Internet-related threat to our well-being: the preponderance of "pro-drug" dialogue online. A recent front page New York Times piece leads the battle charge of articles decrying open conversations online between marijuana users and advocates. The cautionary journalists feel that, like Web sites with pictures of naked people (the horror!) these controversial words and ideas can be accessed by young people.

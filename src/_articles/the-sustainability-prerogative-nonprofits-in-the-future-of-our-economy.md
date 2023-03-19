@@ -12,7 +12,7 @@ notes: |-
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 _Douglas Rushkoff’s best-selling books on media and popular culture, including_ [Present Shock](http://www.rushkoff.com/books/present-shock/)_, have been translated to over thirty languages. He is Professor of Media Theory and Digital Economics at CUNY/Queens, technology and media commentator for CNN, digital literacy advocate for_ [_Codecademy.com_](https://www.codecademy.com/ja/rushkoff) _and a lecturer on media, technology, culture, and economics around the world._

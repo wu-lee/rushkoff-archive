@@ -10,7 +10,7 @@ notes: '[https://www.edge.org/response-detail/11430](https://www.edge.org/respon
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 How does the Internet change the way I think? It puts me in the present tense. It's as if my cognitive resources are shifted from my hard drive to my RAM. That which is happening right now is valued, and everything in the past or future becomes less relevant.

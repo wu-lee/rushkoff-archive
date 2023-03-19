@@ -9,7 +9,7 @@ notes: Might have a different title-- headline is missing from clip
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 BY MICHAEL W. SASSER  

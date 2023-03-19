@@ -28,7 +28,7 @@ refs: '[{"text"=>"does things on our behalf", "original"=>"http://www.forbes.com
   "archive"=>"http://web.archive.org/web/20191230055425/https://readwrite.com/2012/12/11/why-are-dead-people-liking-stuff-on-facebook/"}]'
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 I used to be able to justify using Facebook as a cost of doing business. As a writer and sometime activist who needs to promote my books and articles and occasionally rally people to one cause or another, I found Facebook fast and convenient. Though I never really used it to socialize, I figured it was okay to let other people do that, and I benefited from their behavior.

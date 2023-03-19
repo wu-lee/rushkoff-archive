@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 I poked my head up from writing my book a couple of months ago to engage with *Arthur* readers about the subject I was working on: the credit crunch and what to do about it \\[see [“Riding Out the Credit Crisis”](http://www.arthurmag.com/magpie/?p=3149) in Arthur No. 29/May 2008\\]. I got more email about that piece than anything I have written since a column threatening to defect from the Mac community back in the Quadra days.

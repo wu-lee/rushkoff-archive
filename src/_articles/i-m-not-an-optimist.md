@@ -11,7 +11,7 @@ notes: 'Source: [https://rushkoff.medium.com/im-not-an-optimist-45e263df7fc1](ht
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 I spent much of life, and my career, looking on the bright side of things. Technology, media, and our newfound power to express ourselves in a digital age once gave me great hope for the future of the human collective. What could we do? What _would_ we do? My books and articles were correspondingly optimistic about our ability to dig ourselves out of the environmental and economic messes we were creating for ourselves and, disproportionately, for the global poor.

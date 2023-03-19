@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Whenever you’re confused by something Trump is doing, remember: he’s less a politician than a propagandist. Don’t look to the policy for the logic driving his actions — look at the pictures.

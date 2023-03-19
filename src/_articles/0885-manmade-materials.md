@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 When I was about eight years old I would lie at my father's feet as we watched the magic box called television, dad in his big recliner and me on the shag rug. From my vantage point on the floor, I could look up at the bottoms of my father's bedroom slippers. Molded into the plastic soles were the words: "Man-made Materials."

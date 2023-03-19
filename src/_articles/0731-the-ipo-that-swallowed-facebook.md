@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Facebook advocates are touting the company's initial public offering this week -- the biggest ever for an Internet company-- as if it will save the net, the economy and the American way. Its detractors see the final chapter in the rise and fall of a smart but solipsistic Harvard dropout, and predict the inevitable decline of Facebook's stock will spell the end to innovation in social media. Internet Bubble 2.0.

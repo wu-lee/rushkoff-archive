@@ -11,7 +11,7 @@ notes: 'Source:  [http://www.demos.co.uk/opensourcedemocracy_pdf_media_public.as
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 **1. Introduction**

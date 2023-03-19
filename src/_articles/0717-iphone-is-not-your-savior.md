@@ -32,7 +32,7 @@ refs: '[{"text"=>"boost our nation''s GDP", "original"=>"http://www.reuters.com/
   "meta"=>{"title"=>"Security Violation (403)", "favicon"=>"http://www.forbes.com/favicon.ico"}}]'
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 **(CNN)** -- Last time around, humanity's savior came in the form of a human messiah. This time, if technology analysts, bankers and venture capitalists are to be believed, it will take the form of a handheld computer otherwise known as a smartphone.

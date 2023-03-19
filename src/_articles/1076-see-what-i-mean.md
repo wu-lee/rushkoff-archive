@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 The first people I knew who were truly captivated by the net were Deadheads. These West Coast tripsters saw connected machines as the technology through which they could finally share hallucinatory spaces together. As psychedelics champion Terence McKenna once explained to me, virtual reality would be a place where “you can quite literally see what I mean.” 

@@ -9,7 +9,7 @@ refs: ''
 sources: ''
 image: "/uploads/self-actualization-and-the-myth-of-personal-growth.jpeg"
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Many Westerners have come to understand the problems inherent in a society obsessed with growth and have struggled to assert a more timeless set of spiritual sensibilities. But, almost invariably, such efforts get mired in our ingrained notions of personal growth, progress, and optimism.

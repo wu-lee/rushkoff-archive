@@ -11,7 +11,7 @@ notes: 'Source: [https://rushkoff.medium.com/program-or-be-programmed-633fb8f045
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 As media theorist [John Culkin first observed](http://www.medialit.org/reading-room/john-culkin-sj-man-who-invented-media-literacy-1928-1993), we shape our technologies at the moment of their conception, but from that point forward they shape us. We humans designed the telephone, but from then on the telephone influenced how we communicated, conducted business, and conceived of the world. We also invented the automobile, but then rebuilt our cities around automotive travel and our geopolitics around fossil fuels.

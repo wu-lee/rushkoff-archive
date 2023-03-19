@@ -50,7 +50,7 @@ refs: '[{"text"=>"challenging", "original"=>"http://www.nytimes.com/2012/04/28/t
   404 - Page Not Found", "favicon"=>"http://www.sabine.k12.la.us/favicon.ico"}}]'
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 *Google is in the cross hairs as the Federal Trade Commission and European Commission are challenging the firm's monopoly.*

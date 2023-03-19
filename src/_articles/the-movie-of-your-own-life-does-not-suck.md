@@ -10,7 +10,7 @@ refs: ''
 sources: ''
 image: "/uploads/the-movie-of-your-own-life-does-not-suck.jpeg"
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 [Bo Burnham](http://boburnham.com/) restored my faith in social media. After a meteoric rise on YouTube comparable to Justin Bieber’s, the 20-something comedian went on a national tour, taped two Netflix specials, and just released a feature film called [_Eighth Grade_](http://eighthgrade.movie/) about a teenager who hopes to find herself via vlog.

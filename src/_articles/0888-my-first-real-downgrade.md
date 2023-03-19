@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Never, ever, respond to an email advertisement again. You'll be doing yourself and the rest of us trying to work or play on the Internet a big favor.

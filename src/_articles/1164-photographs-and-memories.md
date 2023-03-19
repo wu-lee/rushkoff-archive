@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 The cameraphone represents the latest step in a long evolution away from elevating and preserving moments, to capturing and disposing of them.

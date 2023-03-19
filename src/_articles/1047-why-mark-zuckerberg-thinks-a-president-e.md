@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 If there's one thing that seems to scare Mark Zuckerberg to the bone, it's the threat of a functional government that represents the interests of its citizens. To him, government appears to be the faceless bureaucracy that slaps him on the wrist with a $5 billion fine when his company spies too much or too illegally on his users.

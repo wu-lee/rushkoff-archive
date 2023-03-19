@@ -25,7 +25,7 @@ refs: '[{"text"=>"Flame virus", "original"=>"http://money.cnn.com/2012/05/30/tec
   "favicon"=>"http://www.nytimes.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico"}}]'
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 **(CNN)** -- The recently discovered [Flame virus](http://money.cnn.com/2012/05/30/technology/flame-virus/index.htm) bears all the hallmarks of a cyberattack concocted by a nation-state. It's big and complex and pointed directly at a geopolitical hot zone, Iran.

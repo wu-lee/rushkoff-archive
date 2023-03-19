@@ -20,7 +20,7 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   business goes on as usual. The corporations acting to cut off WikiLeaks remain safe.
   Although many are unsettled by the […]", "dateLastCrawled"=>"2020-05-02T18:53:00.0000000Z"}]'
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Like a momentary glitch on a flat-panel display, the attacks by hackers calling themselves "Anonymous" came and went. Visa, PayPal, MasterCard and Amazon report no significant damage, and business goes on as usual. The corporations acting to cut off WikiLeaks remain safe.

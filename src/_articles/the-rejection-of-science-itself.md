@@ -10,7 +10,7 @@ notes: 'Source: [https://www.edge.org/annual-question/2016/response/26666](https
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Annual Question:

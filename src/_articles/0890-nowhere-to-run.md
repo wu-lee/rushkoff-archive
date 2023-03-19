@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 "They'll come at night -- especially if you've got an electric lamp glowing somewhere, a dead giveaway," warned one member of an online survivalist conference.

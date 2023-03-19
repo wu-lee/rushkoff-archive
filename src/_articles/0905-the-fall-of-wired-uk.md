@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 By pulling the plug on the United Kingdom version of its neon hi-tech monthly, Wired magazine has done more than cancel a publication. It has admitted yet another defeat in its campaign to equate the digital revolution with American-style right-wing libertarianism and to dominate discussions about futurism and cultural ideology with members of its own, highly-regarded posse.

@@ -10,7 +10,7 @@ refs: ''
 sources: ''
 image: "/uploads/think-occupy-wall-st.is-a-phase-you-don-t-get-it.jpg"
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Like the spokesmen for Arab dictators feigning bewilderment over protesters’ demands, mainstream television news reporters finally training their attention on the growing Occupy Wall Street protest movement seem determined to cast it as the random, silly blather of an ungrateful and lazy generation of weirdos. They couldn’t be more wrong and, as time will tell, may eventually be forced to accept the inevitability of their own obsolescence.

@@ -10,7 +10,7 @@ notes: This column appeared in every comic published by Vertigo with a February 
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 The Bible actually may have been written in the wrong medium. I'm saying this as a media theorist - a guy who has written books and novels, taught university classes, and made documentaries about the impact of new technology on the way we relate to stories. And particularly on those stories we happen to really believe in.

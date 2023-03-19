@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 This has been a very bizarre couple of weeks for me. I changed literary agents, did a bookstore discussion/debate with former *Arthur* columnist Daniel Pinchbeck, learned of Robert Anton Wilson's dire end-of-life financial predicament, and then left my wife and 21-month-old daughter to fly to Germany (where I am right now, stuck in an airport thanks to a canceled flight) to give a talk to a big magazine conglomerate about what makes their publications relevant in a mediaspace fast migrating online.

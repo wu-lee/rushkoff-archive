@@ -14,7 +14,7 @@ notes: June 2016
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Those of us who thought the digital marketplace was going to follow the distributed nature of the net, with its decentralised connectivity and ad hoc social activity leading to an equally distributed marketplace, got it wrong--at least, in the short term. We thought that instead of buying everything at Walmart and watching our personal and community wealth being extracted by a highly centralised corporation, we would now enter a new phase of peer-to-peer commerce. The values of the bazaar would be revived by the internet. A new, digitally enabled, people-driven economy would dominate as industrialism's extractive growth mandate needed.

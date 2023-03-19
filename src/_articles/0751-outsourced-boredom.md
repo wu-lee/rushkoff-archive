@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Back in the mid-18th century, Hungarian author and inventor Wolfgang von Kempelen amazed audiences with what appeared to be a chess-playing automaton. Called the Mechanical Turk, it consisted of a wooden box with whirring gears and a mannequin dressed like a Turk, whose hand deftly moved pieces across the board, beating most of its human opponents.

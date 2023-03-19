@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 How mobile can -- and should -- change the way we think about entertaining ourselves and each other.

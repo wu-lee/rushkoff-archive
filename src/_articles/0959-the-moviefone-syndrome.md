@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Blame us "early adopters." We're the ones who enjoy using new technologies before they hit the mainstream.. But, in doing so, we end up turning something fun into something mandatory. And then it just isn't any fun anymore. In fact, it's downright debilitating.

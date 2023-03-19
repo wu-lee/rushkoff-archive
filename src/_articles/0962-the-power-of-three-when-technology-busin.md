@@ -10,7 +10,7 @@ refs: '[{"text"=>"part one", "original"=>"http://www.thefeature.com/article?arti
   "meta"=>{"title"=>"ページが見つかりませんでした  ", "keywords"=>[""], "favicon"=>"http://www.thefeature.com/favicon.ico"}}]'
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 It's one thing to know your consumers - it's a far greater challenge to develop your technology and balance sheet around them.

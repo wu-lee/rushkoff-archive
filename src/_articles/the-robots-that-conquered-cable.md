@@ -9,7 +9,7 @@ notes: Nov. 1994
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 NERDLY CHANNEL-surfers are not the only ones responsible for making Comedy Central's _Mystery Science Theater 3000_ the cult hit of cable television. The three silhouetted characters sitting Loony Tunes-style in a theater between us and some pretty awful B movies are serving up some of the most astute media critique and pure, cheesy camp on television today.

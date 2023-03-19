@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 I've been trying to figure out exactly why President Obama’s approach to the economic crisis upsets me so much, so regularly, and I think I figured it out.

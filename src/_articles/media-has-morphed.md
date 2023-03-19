@@ -12,7 +12,7 @@ notes: issue 31, Feb. 2000
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Those of you called "media professionals" like to think of yourselves as defining the leading edge of world culture. And why not? You conceive, create, sponsor or broadcast the images that are seen around the globe. Whether you make _Baywatch_, Nike commercials or news programs, you are responsible for the stories, pictures and ideas that shape the way millions, perhaps billions of people think and feel.

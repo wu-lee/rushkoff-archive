@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 More than any command structure, terrorist organization or ideology, there's an underlying mechanism propelling the recent spate of suicide attacks in London. It's called a media virus.

@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Bitcoin was conceived as a modern solution to an ages-old problem: How can two parties agree on and verify an exchange of value? In this sense, Bitcoin is an effective technology, in that it trains the massive processing power of distributed personal computers on the same situation that paper currency was built to resolve.

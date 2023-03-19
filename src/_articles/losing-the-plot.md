@@ -9,7 +9,7 @@ notes: Nov/Dec 1999 according to citation in Rave Culture and Religion
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 It was all thump and bleep. Simple analog computer sounds that, amplified to discotheque volume, somehow suggested a new future for the human race. A thousand kids, wearing no style in particular, dancing sexily, rhythmically, or even just spasmodically, committed themselves to pushing through until dawn and beyond. Maybe it was the drugs. Or maybe they were on to something.

@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 This month, Facebook founder Mark Zuckerberg has announced yet another new direction for his famously bad-acting company. Now, he says, the platform once responsible for the Cambridge Analytica election fiasco and countless other personal invasions will become the poster child for privacy and encryption. Maybe after all the evasions, missteps, and pivots, Zuckerberg is finally learning from his experiences.

@@ -12,7 +12,7 @@ notes: 'Source: [https://rushkoff.medium.com/it-doesnt-get-better-156f3ed184a2](
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 I found myself actually bothered by Elon Musk’s tweets today. For the most part, I’ve ignored him the same way I ignore most of what happens on that platform. I check out my own highly curated list of users for links to interesting articles I may have missed, and try not to get fooled into reading the provocations from people looking for attention.

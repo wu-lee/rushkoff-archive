@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 I was at a cocktail party recently when I heard the terrifying news. A notice in Scientific American reported that video games change brain chemistry.

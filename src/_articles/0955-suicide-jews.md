@@ -8,7 +8,7 @@ notes: "June 18-24, 2003  \nVolume 16, Number 25"
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 I'm a Jew. Or, at least I was last time I checked.

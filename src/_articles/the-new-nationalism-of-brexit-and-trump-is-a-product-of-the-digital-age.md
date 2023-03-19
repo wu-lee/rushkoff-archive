@@ -13,7 +13,7 @@ notes: "Source: [https://www.fastcompany.com/3061574/the-new-nationalism-of-brex
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Most of us thought digital technology would connect the whole world in new ways. The Internet was supposed to break down those last boundaries between what are essentially synthetic nation states and herald a new, global community of peers.

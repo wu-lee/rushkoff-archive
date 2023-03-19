@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 We're supposed to be in favor of innovation. It's a form of evolution. Then why is every new version of software or upgrade of processor feeling like such a drag?

@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 There is a Silicon Valley religion, and it’s one that doesn’t particularly care for people — at least not in our present form. Technologists may pretend to be led by a utilitarian, computational logic devoid of superstition, but make no mistake: There is a prophetic belief system embedded in the technologies and business plans coming out of Google, Uber, Facebook, and Amazon, among others.

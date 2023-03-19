@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Does politics by thumb - via the culture of MTV - enhance democracy, or reduce it to a marketing survey?

@@ -15,7 +15,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 It was supposed to be Bill Gates who turned out to be Satan.

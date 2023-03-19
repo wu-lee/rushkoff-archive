@@ -11,7 +11,7 @@ notes: '[https://medium.com/team-human/the-real-value-of-facebook-19d1d6cb3003](
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 It feels like we’ve finally reached “peak Facebook.”

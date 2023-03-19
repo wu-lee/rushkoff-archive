@@ -19,7 +19,7 @@ refs: '[{"text"=>"more at the Daily Beast", "original"=>"http://www.thedailybeas
   "favicon"=>"http://www.thedailybeast.com/static/media/favicon.b30a79ed.ico"}}]'
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 [more at the Daily Beast](http://www.thedailybeast.com/blogs-and-stories/2009-11-09/murdoch-to-google-search-this/full/)

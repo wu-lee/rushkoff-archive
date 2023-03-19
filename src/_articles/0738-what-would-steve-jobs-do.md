@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 **(CNN)** -- When does a cult become a religion? When the cult leader dies. Only then do L. Ron Hubbard's Dianetics practitioners become the religion of Scientology, the followers of Joseph Smith become full-fledged Mormons, or -- by the same logic -- a few anti-establishment apostles become Christianity.

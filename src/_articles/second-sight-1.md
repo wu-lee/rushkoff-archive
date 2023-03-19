@@ -10,7 +10,7 @@ notes: '[https://www.theguardian.com/technology/2000/dec/21/internetnews.onlines
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Many of you are probably looking back on the year 2000 as a bad one for the internet. So how could the following optimistic appraisal of the internet's health at what seems like its nadir be anything but cynical gloating? Because, dear reader, and I mean this from the bottom of my solstice celebrating soul, happy days are here again.

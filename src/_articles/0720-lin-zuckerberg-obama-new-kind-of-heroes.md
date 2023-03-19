@@ -13,7 +13,7 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   be motivated by something bigger than sports. Yes, Jeremy Lin is a terrific athlete,
   whose almost accidental ...", "dateLastCrawled"=>"2020-04-29T23:48:00.0000000Z"}]'
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 (CNN) -- The "Linsanity" surrounding the New York Knicks' surprise phenom at point guard may be motivated by something bigger than sports. Yes, Jeremy Lin is a terrific athlete, whose almost accidental discovery by the Knicks and little-engine-that-could perseverance make for great radio commentary and pop cultural mythology.

@@ -12,7 +12,7 @@ notes: 'Source: [https://www.fastcompany.com/3059722/when-the-data-bubble-bursts
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 How can a company with no revenues still make money? It’s not a trick question. The answer is at the very foundation of the digital economy: advertising.

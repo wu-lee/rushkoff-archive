@@ -10,7 +10,7 @@ refs: ''
 sources: ''
 image: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 At this year’s White House Correspondents’ Dinner — the annual opportunity for the President to engage directly, and humorously, with reporters who cover him — it was expected that most of the jibes would be aimed at Barack Obama. Sure, he gets the chance to defend himself, but it’s pretty much a roast: A leading comedian is invited every year to make jokes, while the commander in chief tries to laugh instead of squirm.

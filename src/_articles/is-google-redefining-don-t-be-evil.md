@@ -9,7 +9,7 @@ refs: ''
 sources: ''
 image: "/uploads/is-google-redefining-don-t-be-evil.jpg"
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 _“Do the right thing; don’t be evil_

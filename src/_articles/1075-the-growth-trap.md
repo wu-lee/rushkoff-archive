@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Grass grows, trees grow, even whole forests grow. But they don't grow forever. So why do we ask our businesses to do the same? 

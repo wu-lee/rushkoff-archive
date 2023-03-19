@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Even the most staunch online-privacy advocate would have to admit that Riya.com is pretty cool. On the surface, it's just a photo-sharing Web site like Flickr or Webshots, where users upload pictures so that others can see their latest. But take a closer look at Riya and you'll notice a unique feature: Users can actually teach the Web site to recognize the faces in their photos and display the names of the people those faces belong to.

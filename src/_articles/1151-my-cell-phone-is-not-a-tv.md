@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 The wireless industry’s insistence on bringing the wrong media to our cell phones may cost us – and them – the whole game.

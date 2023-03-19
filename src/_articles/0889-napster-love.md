@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Like the many who've installed the program, I, too, became addicted to Napster. At least for a moment.

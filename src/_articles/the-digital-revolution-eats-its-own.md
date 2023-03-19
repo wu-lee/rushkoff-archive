@@ -12,7 +12,7 @@ notes: |-
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 From an interview with Douglas Rushkoff on Edge (www.edge.org), a Web site edited by John Brockman. Rushkoff’s most recent book is Coercion, published in September by Riverhead Books.

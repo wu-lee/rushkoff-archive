@@ -9,7 +9,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 The new generation of high-speed content delivery technologies marks a turning point for the mobile industry. It's finally time to abandon the notion that you are just cell phone companies or wireless access providers, and come to grips with the fact that you are selling, or at least supporting, an entirely new set of digital lifestyles.

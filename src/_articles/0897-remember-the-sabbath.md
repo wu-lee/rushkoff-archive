@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 I saw a television advertisement the other day, in which a young executive conducts a business meeting over a cellular phone - while standing at a urinal. When it comes time to zip up, he cradles his cell-phone on his shoulder and goes on talking. But then the phone slips out from under his chin, and tumbles - splash - you guess where. The answer to this dilemma, according to the ad, is a new "hands-free" cellular phone service.

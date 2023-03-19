@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Computers are modeling systems. Good ones. So good, in fact, that it's easy to forget the worlds they create are not worlds at all, but models.

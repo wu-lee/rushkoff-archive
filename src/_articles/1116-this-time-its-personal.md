@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 For the past couple years, I’ve been complaining rather emphatically about the way digital technology has been used to desocialize us — how platforms like Facebook and YouTube turn us against one another by emphasizing our differences and encouraging us to behave like threatened reptiles.

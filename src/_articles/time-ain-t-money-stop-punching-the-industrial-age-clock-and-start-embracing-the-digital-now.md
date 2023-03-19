@@ -13,7 +13,7 @@ notes: |-
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Living in the digital media environment changes a whole lot more than the technologies through which we do business; it has changed our relationship to time, and this is having profound effects on our businesses, our economy, and our customers. 

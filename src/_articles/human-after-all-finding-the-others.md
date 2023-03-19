@@ -13,7 +13,7 @@ notes: '[https://www.goodtroublemag.com/home/human-after-all-douglas-rushkoff](h
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 “Well, honestly, and I can tell you this ’cos I can’t tell the London _Times_ this, but _Team Human_ is a media virus, a collective sigil, neurolinguistic reprogramming. The other books I wrote are information, they’re data and I create narrative around them. I’m telling stories about things. _Team Human_ is almost a piece of literary software. It’s meant as an experience through which people can embed their brain with a programme that will help them resist the manipulative algorithms, platforms and systems that are out there. It’s a piece of cultural medicine.”

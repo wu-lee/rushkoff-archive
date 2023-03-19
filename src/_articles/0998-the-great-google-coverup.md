@@ -14,7 +14,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 My fear—for Google and for us—is that the reason they know it's the Chinese government behind these attacks is because Google gave them the key.

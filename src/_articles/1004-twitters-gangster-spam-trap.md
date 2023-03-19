@@ -12,7 +12,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 **mgorbis:** Hey, I just added you to my Mafia family. You should accept my invitation! :)

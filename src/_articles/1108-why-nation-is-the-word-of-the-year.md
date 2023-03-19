@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 In one sense, nothing could have undermined the concept of the nation more than its appropriation by our president. By claiming “nationalism” as his guiding ideology, Donald Trump did far more than associate himself with white nationalists. As our conspicuous propagandist-in-chief, Trump’s championing of nationalism forced us to grapple with the question of what, if anything, we mean by “nation” to begin with. And it turns out, the concept is a lot fuzzier than you may think.

@@ -12,7 +12,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 The 4Chan community—a diehard, if ever-changing assortment of the Net's most-desperate, most-anonymous, and most-wanted, well, punks—smelled censorship, top-down control, and an evil corporation trying to keep down the world's last squat for hackers. They went batshit. The site's founder posted a note telling his minion's to write and complain to AT&T, and the dog whistle having been heard, a posse called "Project AT&T," quickly formed, dedicated to revenge.

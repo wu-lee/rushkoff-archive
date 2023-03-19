@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 I signed on to a cause a few weeks ago: a crusade for rational thinking   about technology and its role in human affairs.

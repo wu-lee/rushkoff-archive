@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Like much of America, I, too, wanted my HDTV. Who wouldn't? In a society where bigger is better and seeing is believing, 42 inches of high-definition plasma should be about all any of us needs to make sense of the world from the safety of our living rooms.

@@ -10,7 +10,7 @@ notes: '[https://www.edge.org/response-detail/11740](https://www.edge.org/respon
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 "Can human beings achieve spontaneous morality by opening ourselves further to some basic expression of nature, or must we create and adopt a set of moral guidelines?"

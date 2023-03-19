@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 I think I finally understand the method behind the madness of a hysterically funny but surprisingly effective Website named RTMark (www.rtmark.com) . Pronounced "ArtMark," the name is a loose acronym for \\`\\`registered trademark'' and a fitting title for this tongueincheek social action investment scheme.

@@ -11,7 +11,7 @@ notes: ''
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 BY LISA FRIEDMAN MINER  

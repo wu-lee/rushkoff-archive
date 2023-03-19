@@ -9,7 +9,7 @@ notes: Winter 2007 issue
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Conducted in person by **_Jeff Newelt_**, October 2007  

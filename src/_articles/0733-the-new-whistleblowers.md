@@ -13,7 +13,7 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   of corrupt companies or government agencies, who went to the press with shocking
   stories of criminality or abuse.", "dateLastCrawled"=>"2020-06-22T05:13:00.0000000Z"}]'
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Back when I was a kid, they were called "whistle-blowers": employees of corrupt companies or government agencies, who went to the press with shocking stories of criminality or abuse.

@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 AT&T's MVNO deal with Sprint points to a new telecom infrastructure strategy.

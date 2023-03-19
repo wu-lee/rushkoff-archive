@@ -13,7 +13,7 @@ notes: 'Source: [https://www.fastcompany.com/1307504/how-tech-boom-terminated-ca
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 However comforting it might be to blame Southern California’s movie industry for unleashing Governor Terminator on the state’s economy, the real seeds of the current crisis were sewn further north, in the seemingly prosperous corporate parks of Silicon Valley. In fact, the dot.com boom and subsequent, inevitable bust are the real causes of our economic malaise. For while Californians were hit first, hardest and most directly by the rise of dot.com-style capitalism, the rest of us are soon to follow.

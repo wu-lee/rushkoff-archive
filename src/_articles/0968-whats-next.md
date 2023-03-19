@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 I generally hate to think about "what's next" because it implies that there's going to be a next "big thing." I prefer to avoid such predictions, because most big things are really just amalgamations of lots of little things. In fact, as I see it, the very best next big thing we could hope for would be to transcend big things, altogether. Who needs them, except marketers, Walmart, and business plan writers hoping to demonstrate how their brilliant schemes can "scale" to infinity and beyond?

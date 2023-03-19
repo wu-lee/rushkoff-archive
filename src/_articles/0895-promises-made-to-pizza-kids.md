@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Another month, another conference. This one, hosted by a respected Internet business consultancy firm, chose what has become the default theme for our once-booming industry's events: what to do after the crash.

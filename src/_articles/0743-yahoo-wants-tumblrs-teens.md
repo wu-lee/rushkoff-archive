@@ -13,7 +13,7 @@ refs: '[{"text"=>"pay over $1 billion", "original"=>"http://money.cnn.com/2013/0
   "archive"=>"http://web.archive.org/web/20200623231018/https://staff.tumblr.com/post/50902268806/news"}]'
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 So why would Yahoo -- the original king of Internet discussion groups -- pay over $1 billion for a simple little blog-publishing tool like Tumblr? Doesn't the giant Web company have the ability to create its own application that lets people post words and pictures online? Of course it does.

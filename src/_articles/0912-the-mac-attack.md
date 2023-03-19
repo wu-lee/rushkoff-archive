@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Am I in the doghouse, or what? So far, I have received over 300 angry emails from angry Mac loyalists, damning me to eternal hell for announcing in my last column that I had deserted Apple and bought a Windows machine.  

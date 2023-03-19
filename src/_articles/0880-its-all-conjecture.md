@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 All it took was one big flashy article calling me a "high-paid futurist" in the New York Times Business section to spoil my last week of 1996.

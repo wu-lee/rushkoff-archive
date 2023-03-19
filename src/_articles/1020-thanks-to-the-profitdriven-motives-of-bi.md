@@ -9,7 +9,7 @@ notes: '[https://www.theguardian.com/technology/2000/aug/24/internetnews.onlines
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Those of you who have followed this column for any length of time know that I resent the way business has taken over the internet. Since 1994, when the international research communications infrastructure was officially opened to business, I've critiqued what has appeared to me to be a degradation of the content, spirit, and mission of the interactive space.

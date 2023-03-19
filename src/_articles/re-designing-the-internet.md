@@ -10,7 +10,7 @@ notes: 'Source: [https://rushkoff.medium.com/re-designing-the-internet-2593fe7da
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 What if the Internet were still being designed? What if we knew everything we now know about surveillance capitalism and social media addiction and Instagram depression and fake news, and had the chance for a big do-over?

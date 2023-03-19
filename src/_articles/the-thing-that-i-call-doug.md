@@ -10,7 +10,7 @@ notes: '[https://www.edge.org/3rd_culture/rushkoff/rushkoff_index.html](https://
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Introduction by John Brockman

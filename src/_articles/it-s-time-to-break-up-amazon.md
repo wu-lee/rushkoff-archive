@@ -10,7 +10,7 @@ refs: ''
 sources: ''
 image: "/uploads/it-s-time-to-break-up-amazon.jpg"
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 “Amazon just bought Whole Foods,” my friend texted me seconds after the announcement of [the proposed acquisition](https://news.fastcompany.com/report-amazon-is-buying-whole-foods-4040976). “It’s over. The world.”

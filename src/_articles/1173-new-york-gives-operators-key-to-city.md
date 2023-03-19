@@ -8,7 +8,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 The city's lampposts will provide more than just light, thanks to a new deal with a number of wireless companies.

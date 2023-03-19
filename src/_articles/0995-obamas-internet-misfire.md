@@ -14,7 +14,7 @@ notes:
 refs: 
 sources: 
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 Cybersecurity is not like protecting a cannon or some nuclear fissile material. The barbarians are not at the gates. They're inside your PC right now, or just behind that banner ad—the fake one telling you there's a spybot on your hard drive and to "click here" to remove it. Because of the 'Net's decentralized nature, cyberwarfare is less like an artillery battle than it is like hand-to-hand combat. We are all on the frontlines; each of our computers the potential weak spot in the network. Our vulnerabilities are the passwords they "phish" from us by faking messages from the bank, the Social Security numbers they pry from poorly managed university servers, and the computer-processing power they rob from the laptops of millions of porn users whose hard drives are now nodes in our enemies' bot-nets.
