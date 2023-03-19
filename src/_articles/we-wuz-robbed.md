@@ -11,7 +11,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 With people dying in Ukraine, the overturning of Roe V Wade, and the diminishment of the Environmental Protection Agency, the fate of baseball in America may seem like a trivial concern. But after a hard week of fighting the fight for climate remediation, social justice, and economic equality, I was more than disappointed to learn that I would be unable to watch Friday night’s Mets game without a subscription to NBC Peacock. It wasn’t just the loss of my weekly relaxation ritual. It felt to me as if the privatization of baseball represented the final surrender of our shared values and experiences as a people to the short-term interests of the market.
