@@ -11,7 +11,7 @@ notes: April 2016
 refs: ''
 sources: ''
 categories:
-- _categories/periodicals.md
+- _categories/journalism.md
 
 ---
 I've given up on fixing the economy. The economy is not broken. It's simply unjust. There's a difference.
