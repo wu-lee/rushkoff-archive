@@ -1,7 +1,7 @@
 ---
 title: How Much Is Facebook Really Worth?
 subtitle: 
-date: '2011-03-08T05:00:00.000Z'
+date: 2011-03-08T05:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -18,7 +18,9 @@ refs: '[{"text"=>"getting credit for helping to topple regimes in the Middle Eas
   hype will fade", "type"=>"article"}, "description"=>"All signs for Facebook appear
   to be pointing up. ", "favicon"=>"http://www.cnn.com/favicon.ico"}}]'
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 (CNN) -- Depending on who you talk to, Facebook is valued at more than $50 billion -- maybe even as much as $65 billion.
 
