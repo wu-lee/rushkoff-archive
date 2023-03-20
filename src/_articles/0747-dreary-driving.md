@@ -1,13 +1,15 @@
 ---
 title: Dreary Driving
 subtitle: 
-date: '2007-04-03T04:00:00.000Z'
+date: 2007-04-03T04:00:00.000Z
 publication: _publications/discover.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 The driver in the TV commercial looks able enough. Then he pulls up next to another vehicle, hits a button labeled “park assist,” and sits back passively while his Lexus turns the steering wheel, backs up at precisely the right angle, stops before it hits the curb, and neatly pulls itself into the open spot. The perfect parallel park, brought to you by microchip and Japanese engineering.
 
