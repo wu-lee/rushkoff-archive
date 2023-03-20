@@ -1,13 +1,15 @@
 ---
 title: Cell Phone Cinema
 subtitle: 
-date: '2004-11-10T17:00:00.000Z'
+date: 2004-11-10T17:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Lights, camera, compression! The new world of bite-sized video.
 
