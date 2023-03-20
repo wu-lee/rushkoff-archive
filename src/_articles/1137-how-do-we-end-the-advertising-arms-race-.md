@@ -1,13 +1,15 @@
 ---
 title: How do we end the advertising arms race? Start thinking like humans
 subtitle: 
-date: '2016-11-12T17:00:00.000Z'
+date: 2016-11-12T17:00:00.000Z
 publication: _publications/digital_trends.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Advertisers and internet users have been trying to outwit each other since the first banner ad hit the web back in 1994. As websites display ads in increasingly unavoidable ways, users develop new strategies for keeping them at bay. But what began as a low-stakes game of cat and mouse has since escalated. With the arrival of targeted advertising and analytics-based tracking software, avoiding ads means avoiding annoyance or distraction; it means preserving basic privacy, security, and human autonomy.
 
@@ -49,5 +51,3 @@ Perhaps when this becomes the norm, web users will finally confront the fact tha
 Just as we readers may come to recognize the human workers on the other side of our algorithmically chosen content, advertisers may even be convinced that taking the side of their fellow humans is the only step to ensure that their ads will actually be noticed, and not merely registered by a swarm of bots.
 
 If we can all just stop cooperating with robots against real-life people, we may finally end the arms race.
-
-
