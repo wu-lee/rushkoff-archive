@@ -3,13 +3,15 @@ publication: _publications/medium.md
 title: Don’t Hide the Tech
 subtitle: Too much artifice is a symptom of something wrong
 image: "/uploads/0_c-fzr_cicrbtzybg.jpg"
-date: 2022-06-05 00:00:00 -0400
+date: 2022-06-05T00:00:00.000-04:00
 blurb: I’m happy for technology to be more “humane,” but not if that means disguising
   entirely inhumane algorithmic manipulation in more pleasant forms.
 notes: 'Source: [https://rushkoff.medium.com/dont-hide-the-tech-55270ec29f68](https://rushkoff.medium.com/dont-hide-the-tech-55270ec29f68
   "https://rushkoff.medium.com/dont-hide-the-tech-55270ec29f68")'
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 I don’t like nice interfaces. I never have. I always found technologies easier to use when they don’t try to humanize themselves for me. Worse, when they do try to make themselves softer and squishier and “easier” for humans, I get concerned about losing touch with what they’re really doing for us and to us.
