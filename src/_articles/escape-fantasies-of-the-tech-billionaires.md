@@ -3,12 +3,14 @@ publication: _publications/medium.md
 title: Escape Fantasies of the Tech Billionaires
 subtitle: ''
 image: "/uploads/1_uigctkndih_omlvr1yxycg.png"
-date: 2022-05-09 00:00:00 -0400
+date: 2022-05-09T00:00:00.000-04:00
 blurb: My Medium piece Survival of the Richest has grown into a whole book
 notes: 'Source: [https://rushkoff.medium.com/escape-fantasies-of-the-tech-billionaires-e99bba601418](https://rushkoff.medium.com/escape-fantasies-of-the-tech-billionaires-e99bba601418
   "https://rushkoff.medium.com/escape-fantasies-of-the-tech-billionaires-e99bba601418")'
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 We always knew but now we _know_. The tech elite mean to leave us all behind.
