@@ -3,12 +3,14 @@ publication: _publications/fast-company.md
 title: Douglas Rushkoff On The Real-Time Ethics of “Digital Presentism”
 subtitle: ''
 image: "/uploads/3007169-poster-1280-2-real-time-ethics.webp"
-date: 2013-03-19 00:00:00 -0400
+date: 2013-03-19T00:00:00.000-04:00
 blurb: ''
 notes: 'Source: [https://www.fastcompany.com/3007169/douglas-rushkoff-real-time-ethics-digital-presentism](https://www.fastcompany.com/3007169/douglas-rushkoff-real-time-ethics-digital-presentism
   "https://www.fastcompany.com/3007169/douglas-rushkoff-real-time-ethics-digital-presentism")'
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 When people hear the title of my new book, “Present Shock,” they assume I am trying to warn them about something awful. Yet while there are some pretty disorienting things about living in the present tense–constantly bombarded by real-time pings and simultaneous demands–there’s also something terrific about engaging in a highly digital now: We end up reconnecting to a whole lot of what matters.

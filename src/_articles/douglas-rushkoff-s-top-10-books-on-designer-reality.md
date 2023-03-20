@@ -3,12 +3,14 @@ publication: _publications/nyt_syndicate_guardian_of_london.md
 title: " Douglas Rushkoff's top 10 books on designer reality"
 subtitle: ''
 image: ''
-date: 2001-06-06 00:00:00 -0400
+date: 2001-06-06T00:00:00.000-04:00
 blurb: ''
 notes: '[https://www.theguardian.com/books/2001/jun/07/bestbooks.politics](https://www.theguardian.com/books/2001/jun/07/bestbooks.politics
   "https://www.theguardian.com/books/2001/jun/07/bestbooks.politics")'
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 "My favourite books remind us that reality can and should be hacked. We usually change the world using the rules that currently exist, but we can also raise ourselves above the playing field and change the rules themselves. They are all arbitrary, having been written by people just like us. How does one become conscious of the way in which our world has been modelled, and empowered enough to rewrite the rules? By reading books like these."
