@@ -1,7 +1,7 @@
 ---
 title: Google's War on the PC
 subtitle: 
-date: '2009-07-08T04:00:00.000Z'
+date: 2009-07-08T04:00:00.000Z
 publication: _publications/daily_beast.md
 blurb: As the GoogleApps suite of programs finally graduated from its \"beta\" status
   this week, Google also announced its plans to release an operating system on which
@@ -12,7 +12,9 @@ blurb: As the GoogleApps suite of programs finally graduated from its \"beta\" s
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 In a sense, Google is just bringing computing back to the way it was supposed to be.
 
