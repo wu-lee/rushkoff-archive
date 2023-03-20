@@ -3,12 +3,14 @@ publication: _publications/forward.md
 title: Download Interaction To Upgrade Institutionalized Judaism
 subtitle: ''
 image: ''
-date: 2003-07-11 00:00:00 -0400
+date: 2003-07-11T00:00:00.000-04:00
 blurb: ''
 notes: '[https://forward.com/news/7638/download-interaction-to-upgrade-institutionalized/](https://forward.com/news/7638/download-interaction-to-upgrade-institutionalized/
   "https://forward.com/news/7638/download-interaction-to-upgrade-institutionalized/")'
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 The emergence of the Internet a decade ago promised to do for media what Judaism did millennia earlier for religion: turn our understanding of the world from a vision received into a vision negotiated. Both cyberspace’s networkers and Israel’s God-wrestlers have sought to turn top-down affairs into participatory ones. Instead of passively listening to the stories of our programmers, they are empowered to write and share their own.
