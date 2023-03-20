@@ -1,13 +1,15 @@
 ---
 title: Banned in Boston
 subtitle: 
-date: '2008-05-09T04:00:00.000Z'
+date: 2008-05-09T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: March 1997
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Thanks to a mayor looking for votes from the moral right, children in Boston are no longer allowed to access Internet sites offering information about feminism or counseling on eating disorders. Odd? Indeed. But when a politician turns over the authority to censor what our children see online to a company looking to maintain a competitive advantage while advancing its own agendas, anything is possible.
 
