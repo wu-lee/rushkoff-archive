@@ -4,12 +4,14 @@ title: Beyond Pranks, Satire, and Sensemaking
 subtitle: How do we catalyze awe and humility without just triggering more fear and
   confusion?
 image: "/uploads/1_6jt2ubtmwx52wmy-2djdaw.jpeg"
-date: 2022-04-14 00:00:00 -0400
+date: 2022-04-14T00:00:00.000-04:00
 blurb: How do we catalyze awe and humility without just triggering more fear and confusion?
 notes: 'Source: [https://rushkoff.medium.com/beyond-pranks-satire-and-sensemaking-e03118b718c7](https://rushkoff.medium.com/beyond-pranks-satire-and-sensemaking-e03118b718c7
   "https://rushkoff.medium.com/beyond-pranks-satire-and-sensemaking-e03118b718c7")'
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 I have always been a fan of fake news. I don’t mean the kind that we see in today’s disinformation campaigns on Facebook and Twitter. It’s the work of 1960’s pranksters such as [Paul Krassner, Abbie Hoffman, or Robert Anton Wilson and the Discordians that I always admired](https://medium.com/team-human/operation-mindfuck-2-0-358f9d237174). That tradition has been carried on well to this day by fabulous media activists including my friends with the [YesMen](http://theyesmen.org/), [Adbusters](http://adbusters.org/), [Ubermorgen](http://ubermorgen.com/), and the [Birds aren’t Real ](http://birdsarentreal.com/)movement (who contend that the CIA has replaced all real birds with spy drones).

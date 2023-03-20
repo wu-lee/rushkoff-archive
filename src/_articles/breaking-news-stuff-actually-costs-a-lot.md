@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: 'Breaking News: Stuff Actually Costs a Lot.'
 subtitle: Higher prices are not necessarily a bad thing.
 image: "/uploads/0_fz1mwyifisluqfnz.jpg"
-date: 2022-06-13 00:00:00 -0400
+date: 2022-06-13T00:00:00.000-04:00
 blurb: The real reason why things are starting to cost more is that the people making
   them, digging up the resources for them, and delivering them want to be paid a fair
   wage
@@ -11,6 +11,8 @@ notes: 'Source: [https://rushkoff.medium.com/breaking-news-stuff-actually-costs-
   "https://rushkoff.medium.com/breaking-news-stuff-actually-costs-a-lot-762743309e47")'
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 Yes, gas prices are up. I saw a woman fill up her old station wagon with premium the other day, and her pump total went over $90.
