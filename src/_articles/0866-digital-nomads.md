@@ -1,13 +1,15 @@
 ---
 title: Digital Nomads
 subtitle: 
-date: '1996-12-01T05:00:00.000Z'
+date: 1996-12-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Are the Digerati the New Jews?
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 You've seen them. Walking through the streets speaking into tiny Motorola cellulars. Flipping open their Thinkpads in the middle of meetings and receiving Radiomail. Using special passwords and high-speed phone connections to access services the rest of us know nothing about.
 
