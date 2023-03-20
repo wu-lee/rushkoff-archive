@@ -1,13 +1,15 @@
 ---
 title: Don't Judge Judaism by the Numbers
 subtitle: 
-date: '2002-11-21T01:00:00.000Z'
+date: 2002-11-21T01:00:00.000Z
 publication: _publications/new_york_times.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Today, at their annual conference, the United Jewish Communities had planned to release a new $6 million population study. In the past, these studies, issued every 10 years, have warned American Jews that they are ever more imperiled by an aging population, rampant intermarriage, low birth rates and declining synagogue membership.
 
