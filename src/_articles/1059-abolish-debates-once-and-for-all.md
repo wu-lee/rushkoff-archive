@@ -1,14 +1,16 @@
 ---
 title: Abolish Debates Once and for All
 subtitle: 
-date: '2020-10-23T16:00:00.000Z'
+date: 2020-10-23T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
-image: /uploads/1059-abolish-debates-once-and-for-all.jpeg
+image: "/uploads/1059-abolish-debates-once-and-for-all.jpeg"
+categories:
+- _categories/journalism.md
+
 ---
 Almost everyone seems to think last night’s debate was so much better than the first. To me, that’s a bit like saying having a stroke is much better than suffering a heart attack. It’s not. Even if it’s less painfully dramatic to watch, the damage is the same — or, in this case, actually worse.
 
@@ -35,4 +37,3 @@ Given the co-evolution of television and presidential debates, it’s no wonder 
 By maintaining this charade, they only give cover to a cynical player like Trump. The president understands the medium and its flaws, and he uses it against those who are watching in order to make sense of the world.
 
 Televised debates were never really much more than a novelty, a platform for candidates to hit each other with fresh zingers. And if it’s gotten to the point where those of us who care about government and our collective future only watch in order to make sure nothing too catastrophic happens, well, it means it’s time to accept they do more harm than good.
-
