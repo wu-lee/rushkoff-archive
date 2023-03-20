@@ -1,13 +1,15 @@
 ---
 title: Democrats Are Killing It on Prestige TV
 subtitle: 
-date: '2018-10-26T16:00:00.000Z'
+date: 2018-10-26T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 I was channel surfing the other night and came upon a shot of Hillary Clinton in some sort of conversation with Madeleine Albright and Colin Powell. They were talking about the dangers of nationalism — how it’s like a virus that destroys the bonds that keep the world safe. Diversity was the key to security. And I remember wondering: What sort of TV program is actually letting this sort of lofty, idealistic conversation take place?
 
