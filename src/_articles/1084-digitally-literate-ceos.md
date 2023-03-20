@@ -1,13 +1,15 @@
 ---
 title: Digitally Literate CEOs
 subtitle: 
-date: '2014-01-01T17:00:00.000Z'
+date: 2014-01-01T17:00:00.000Z
 publication: _publications/hemispheres_magazine.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Today’s CEOs likely consider themselves above—or certainly beyond—learning something as elementary as computer code. But as everyone from pop stars to pro basketball players have been arguing and even demonstrating lately, in thedigital age, knowing how to code is basic literacy—it’s fundamental.
 
@@ -24,4 +26,3 @@ But for how long? We’re fast approaching the point where the kinds of mistakes
 The good news is that it’s not terribly hard to become basically proficient at code. There are easy, free online sites—my own favorite is codecademy.com—where an executive can learn Python, CSS and Java in private. Imagine aCEO asking the company’s marketers if they A/B tested their campaign, or asked the analysts to show the algorithm they’re using to model next quarter? Better yet, a CEO should get the whole company code literate. Gamify their progress with a leaderboard that shows who is learning the most or the fastest. Workforces will become more skilled and companies more resilient, and systems will become more secure as people learn what the risks are and how to avoid them.
 
 And most of all, they will be able to think logically, algorithmically and in a fashion entirely more consistent with the digital age. As Chris Bosh puts it. “For me winning isn’t ‘winning’—it’s 01110111 01101001 01101110 01101110 01101001 01101110 01100111”
-

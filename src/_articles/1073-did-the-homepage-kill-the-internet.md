@@ -1,14 +1,16 @@
 ---
 title: Did the Homepage Kill the Internet?
 subtitle: 
-date: '2021-08-26T16:00:00.000Z'
+date: 2021-08-26T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
-image: /uploads/1073-did-the-homepage-kill-the-internet.jpg
+image: "/uploads/1073-did-the-homepage-kill-the-internet.jpg"
+categories:
+- _categories/journalism.md
+
 ---
 One of things I really loved about the early net was how open and free it felt. Before the internet was even the internet, Al Gore was talking about the possibility of an “information superhighway” connecting educators and researchers with one another as well as one another’s work. We never thought in terms of destinations. It was more about the journey, the search, and the connections.
 
