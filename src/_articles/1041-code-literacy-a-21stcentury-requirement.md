@@ -1,12 +1,14 @@
 ---
 title: 'Code Literacy: A 21st-Century Requirement'
 subtitle: 
-date: 2012-11-13T05:00:00.000Z
+date: 2012-11-13T05:00:00.000+00:00
 publication: _publications/edutopia.md
 blurb: 
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/journalism.md
 
 ---
 Ask kids what Facebook is for, and they'll tell you it's there to help them make friends. And, on the surface anyway, that's what it looks like. Of course, anyone who has poked a bit deeper or thought a bit longer about it understands that people programming Facebook aren't sitting around wondering how to foster more enduring relationships for little Johnny, Janey and their friends, but rather how to monetize their social graphs -- the trail of data the site is busy accumulating about Johnny and Janey every second of the day and night.

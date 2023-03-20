@@ -1,12 +1,14 @@
 ---
 title: Computer Literacy Not What It Used To Be
 subtitle: 
-date: 1998-10-24T04:00:00.000Z
+date: 1998-10-24T04:00:00.000+00:00
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: 
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/journalism.md
 
 ---
 A new book, *Extra Life* by *Wired* magazine writer David Bennahum, gave me the opportunity to reminisce about those good old days when kids had free reign of the networks. Now those kids are the adults responsible for designing everything from Netscape to the Palm Pilot. By giving us the keys to the kingdom, our teachers (perhaps unwittingly and by necessity) gave us the best sink-or-swim computer education we could have asked for.

@@ -3,12 +3,14 @@ publication: _publications/medium.md
 title: Cohorts
 subtitle: ''
 image: ''
-date: 2013-01-05 00:00:00 -0500
+date: 2013-01-05T00:00:00.000-05:00
 blurb: ''
 notes: 'Source: [https://rushkoff.medium.com/cohorts-3d22b485402](https://rushkoff.medium.com/cohorts-3d22b485402
   "https://rushkoff.medium.com/cohorts-3d22b485402")'
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 I have been meaning to post to Medium since the first invite. I haven’t, in part, because I can’t find or create the right cohort. I have enough places to publish my professional and promotional writing - and, as has been suggested elsewhere - for now I can get better “reach” in those places.
