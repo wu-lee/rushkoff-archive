@@ -3,11 +3,13 @@ publication: _publications/rebooting-america-ideas-for-redesigning-american-demo
 title: Beyond Wargames
 subtitle: ''
 image: ''
-date: 2008-09-01 00:00:00 -0400
+date: 2008-09-01T00:00:00.000-04:00
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 "Our nation is both a functioning nation and a model for a functioning nation."
