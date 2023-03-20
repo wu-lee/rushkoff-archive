@@ -1,14 +1,16 @@
 ---
 title: Apple's New iOS Follows the Leader
 subtitle: 
-date: '2013-09-19T04:00:00.000Z'
+date: 2013-09-19T04:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
-image: /uploads/0707-apples-new-ios-follows-the-leader.jpg
+image: "/uploads/0707-apples-new-ios-follows-the-leader.jpg"
+categories:
+- _categories/journalism.md
+
 ---
 *Phil Schiller, Apple senior vice president of worldwide marketing, touts the new iPhone 5C last week at Apple headquarters.*
 
