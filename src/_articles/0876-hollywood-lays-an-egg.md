@@ -1,13 +1,15 @@
 ---
 title: Hollywood Lays an Egg
 subtitle: 
-date: '1998-03-01T05:00:00.000Z'
+date: 1998-03-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The myth of the Content Provider
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Gathered together beneath the chandeliers of the Beverly Hilton's main ballroom last week, Hollywood's best and brightest (dressed, anyway) had paid about $1500 each to rub elbows with the interactive media makers who would soon, they feared, replace them. By getting "on board" instead of "run over," the hopeful executives sought to "dive in" and "get connected."
 

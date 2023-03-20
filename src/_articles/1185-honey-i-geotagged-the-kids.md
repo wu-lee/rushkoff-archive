@@ -1,13 +1,15 @@
 ---
 title: Honey, I Geotagged the Kids
 subtitle: 
-date: '2005-03-23T17:00:00.000Z'
+date: 2005-03-23T17:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 How collaborative cartography could enable us to map our shared worlds -- and why the wireless industry probably won't go for it.
 
