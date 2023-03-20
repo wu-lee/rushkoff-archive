@@ -1,13 +1,15 @@
 ---
 title: Call Waiting
 subtitle: 
-date: '1998-10-01T04:00:00.000Z'
+date: 1998-10-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Technology & Truth
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 "I'm getting a call, hold on," my friend explained before clicking off our phone conversation to check on the possibility of another.
 
