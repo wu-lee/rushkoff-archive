@@ -1,12 +1,14 @@
 ---
 title: Hacking The Economy
 subtitle: 
-date: 2009-03-19T04:00:00.000Z
+date: 2009-03-19T04:00:00.000+00:00
 publication: _publications/h_plus.md
 blurb: 
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/journalism.md
 
 ---
 Hacking the economy is easier than it looks.

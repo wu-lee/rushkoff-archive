@@ -3,12 +3,14 @@ publication: _publications/rushkoff.com.md
 title: Greener Pastures
 subtitle: ''
 image: ''
-date: 2004-03-03 00:00:00 -0500
+date: 2004-03-03T00:00:00.000-05:00
 blurb: ''
 notes: '[https://rushkoff.com/greener-pastures/](https://rushkoff.com/greener-pastures/
   "https://rushkoff.com/greener-pastures/")'
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 “A hundred pennies make a dollar,” my father would say, encouraging me to surrender the coin in my hand to a narrow slot in the head of a porcelain pig. It was all for the promise of a transubstantiation of loose change to cash, metal to paper, that confounded my understanding of both economics and material reality. Still, his authority earned my confidence and, like so many other children my age, I made the sacrifice, dreaming of the day that piggy would finally be smashed open, and I would be rich. A postponement of joy for some future, but existentially uncertain, pay-off.
