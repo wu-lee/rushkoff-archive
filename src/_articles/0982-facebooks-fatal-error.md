@@ -1,7 +1,7 @@
 ---
 title: Facebook's Fatal Error
 subtitle: 
-date: '2009-06-10T04:00:00.000Z'
+date: 2009-06-10T04:00:00.000Z
 publication: _publications/daily_beast.md
 blurb: The minute that last night turned into Saturday morning, if all went right,
   Facebook's servers were overloaded by millions of people racing to register their
@@ -13,7 +13,9 @@ blurb: The minute that last night turned into Saturday morning, if all went righ
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 That is, if I manage to stake a claim to my own name. The personal stakes here are obvious. Doug Rushkoff is relatively unique, but pity the few thousand Robert Johnsons out there. If they're lightning quick and fairly lucky during in the wee hours, they’ll get something sporty like www.facebook.com/RobJohnson. More likely, their overarching Facebook persona is doomed to RJ1167 or Mynameisrobertjohnsonyesitis.
 

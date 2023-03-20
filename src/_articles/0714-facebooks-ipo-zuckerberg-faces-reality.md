@@ -1,7 +1,7 @@
 ---
 title: Facebook's IPO - Zuckerberg Faces Reality
 subtitle: 
-date: '2012-02-02T05:00:00.000Z'
+date: 2012-02-02T05:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -13,7 +13,9 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   is expected to finally bring Facebook public.The company is reported to be preparing
   to file for an IPO — initial public offering — through which anyone will be able
   to buy shares of the social networking company on an open stock exchange.", "dateLastCrawled"=>"2020-07-07T04:47:00.0000000Z"}]'
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 (CNN) -- We all knew he'd eventually get around to it: Mark Zuckerberg is expected to finally bring Facebook public. The company is reported to be preparing to file for an IPO -- initial public offering -- through which anyone will be able to buy shares of the social networking company on an open stock exchange.
 
