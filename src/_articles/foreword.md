@@ -3,7 +3,7 @@ publication: _publications/rave-culture-and-religion.md
 title: Foreword
 subtitle: ''
 image: ''
-date: 2003-11-06 00:00:00 -0500
+date: 2003-11-06T00:00:00.000-05:00
 blurb: ''
 notes: |-
   Source: [https://voidnetwork.gr/wp-content/uploads/2016/09/Rave-Culture-and-Religion-edited-by-Graham-St.-John.pdf](https://voidnetwork.gr/wp-content/uploads/2016/09/Rave-Culture-and-Religion-edited-by-Graham-St.-John.pdf "https://voidnetwork.gr/wp-content/uploads/2016/09/Rave-Culture-and-Religion-edited-by-Graham-St.-John.pdf")
@@ -11,6 +11,8 @@ notes: |-
   Date from Amazon
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 Never trust a writer to chronicle a movement. 

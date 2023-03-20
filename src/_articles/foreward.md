@@ -3,11 +3,13 @@ publication: _publications/transformations-in-the-nervepool-the-rituals-and-zoac
 title: Foreward
 subtitle: ''
 image: ''
-date: 2006-01-01 00:00:00 -0500
+date: 2006-01-01T00:00:00.000-05:00
 blurb: ''
 notes: "2006"
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 It's not enough to come up with a great idea, or even the solution to one of the world's great problems. The trick is to communicate it to the right people. That means traversing civilizations, geography, and even time itself. For what if the person you truly need to hear your message doesn't speak your language, refuses to see through your cultural bias, or hasn't even been born yet? How can one communicate across these chasms?
