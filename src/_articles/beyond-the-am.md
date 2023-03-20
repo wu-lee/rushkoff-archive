@@ -11,6 +11,8 @@ notes: 'Spring 2008. Source: https://steinhardtfoundation.org/contact/spring_200
 refs: ''
 sources: ''
 image: ''
+categories:
+- _categories/journalism.md
 
 ---
 Perhaps the most compelling and dangerous misconception held by Jews today is that the longevity of Judaism is dependent on our ability to cling to a rather specious claim of Peoplehood. For while there is great comfort to be found in the mythological origins of a Jewish People chronicled in the Torah, when they become the foundation for a sense of racial or historical entitlement, they undermine the very premise of Judaism.
