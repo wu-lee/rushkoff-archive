@@ -1,13 +1,15 @@
 ---
 title: Farewell
 subtitle: 
-date: '2001-08-01T04:00:00.000Z'
+date: 2001-08-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Cyberculture is More than a Story
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Everything really is going to be just fine. Not spectacular, but not disastrous, either. The handholding I've been doing for the past five years can end. It's time to free up this newspaper space for some news.
 

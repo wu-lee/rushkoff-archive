@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: Family Enterprise
 subtitle: What we can all learn from the accountant who became my second father
 image: "/uploads/0_r6cikbgkngofy8ay.jpg"
-date: 2021-11-18 00:00:00 -0500
+date: 2021-11-18T00:00:00.000-05:00
 blurb: I’ll never forget the day he called me from his Florida condo to say, “kid,
   they won’t be bothering you again.” He was gloating. Not only because he had brought
   the IRS to its knees, but because he had protected his kin from a predator.
@@ -11,6 +11,8 @@ notes: 'Source: [https://rushkoff.medium.com/family-enterprise-666062d56a99](htt
   "https://rushkoff.medium.com/family-enterprise-666062d56a99")'
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 My accountant [Sheldon Gordon](https://www.lynbrookcpas.com/about-us) died Monday night. It might not be the kind of news one would normally think about for too long, much less write about. Your accountant dies, you find another one. It’s just business. Right?
