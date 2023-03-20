@@ -1,13 +1,15 @@
 ---
 title: Another Kind of Cell Damage
 subtitle: 
-date: '2005-04-13T16:00:00.000Z'
+date: 2005-04-13T16:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Mobile phones marketed to children may cause less injury to tykes than they do to the image of the entire wireless industry.
 

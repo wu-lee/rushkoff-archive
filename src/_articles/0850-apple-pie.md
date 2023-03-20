@@ -1,13 +1,15 @@
 ---
 title: Apple Pie
 subtitle: 
-date: '1996-08-01T04:00:00.000Z'
+date: 1996-08-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Is the Internet American?
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Is the Internet American? Much of Europe seems to think so. Whenever I go there to give a talk about technology, I'm inevitably scolded by an ambassador or ex-prime minister for promoting an intrinsically American technology and ideology in places that are having enough trouble maintaining their own cultural values without getting deluged by more stuff from the United States.
 
