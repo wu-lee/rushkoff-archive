@@ -1,13 +1,15 @@
 ---
 title: Acceptance (Doesn't Equal) Aquiescence
 subtitle: 
-date: '2006-10-01T04:00:00.000Z'
+date: 2006-10-01T04:00:00.000Z
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 I've been debating for a while about whether to do this. Whether to come right out and say it. On a certain level, it’s like shouting “fire” in a crowded theater. What good is it to announce a problem if I don’t have a ready solution at hand? Furthermore, what if sharing this information – this perspective on our predicament - simply exacerbates our paralysis to do anything about it. I mean, fascism breeds best in populations that have been stunned into complacency, cynicism, or despair.
 
