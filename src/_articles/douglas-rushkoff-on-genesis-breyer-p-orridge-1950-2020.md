@@ -1,13 +1,15 @@
 ---
 title: Douglas Rushkoff on Genesis Breyer P-Orridge (1950-2020)
 subtitle: ''
-date: 2020-03-14 00:00:00 -0400
+date: 2020-03-14T00:00:00.000-04:00
 publication: _publications/boingboing.md
 blurb: ''
 notes: Pasted from https://boingboing.net/2020/03/14/douglas-rushkoff-on-genesis-br.html
 refs: ''
 sources: ''
-image: /uploads/douglas-rushkoff-on-genesis-breyer-p-orridge-1950-2020.jpg
+image: "/uploads/douglas-rushkoff-on-genesis-breyer-p-orridge-1950-2020.jpg"
+categories:
+- _categories/journalism.md
 
 ---
 It was 1993. I was working on my book Media Virus, and about to return home to LA from San Francisco, when Timothy Leary called to ask if I could make room for a "friend in need" who needed a ride. That friend turned out to be Genesis P-Orridge.
