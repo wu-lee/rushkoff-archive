@@ -1,13 +1,15 @@
 ---
 title: Business Is Good
 subtitle: 
-date: '2006-02-01T05:00:00.000Z'
+date: 2006-02-01T05:00:00.000Z
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Business is not the enemy. Not in itself, anyway.
 

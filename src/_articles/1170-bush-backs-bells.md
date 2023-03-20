@@ -1,13 +1,15 @@
 ---
 title: Bush Backs Bells
 subtitle: 
-date: '2004-06-10T16:00:00.000Z'
+date: 2004-06-10T16:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 The Bush administration has signalled it won't oppose efforts by the Baby Bells to overturn laws forcing them to lease out their landlines at discounted rates -- thanks to competition from mobile networks and other technologies.
 
@@ -24,4 +26,3 @@ The demand that Baby Bells offer their lines to others at non-competitive rates 
 As for the charge that most landline phone rates will go up, time will tell. More likely, the Baby Bells are simply forcing their real competitors -- those offering true alternatives to landline service -- to compete using their own technologies.
 
 May the best phone win.
-
