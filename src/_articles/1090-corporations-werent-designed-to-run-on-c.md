@@ -1,13 +1,15 @@
 ---
 title: Corporations Weren’t Designed to Run on Code
 subtitle: 
-date: '2016-03-02T17:00:00.000Z'
+date: 2016-03-02T17:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Plants grow, people grow, even whole forests, jungles, and coral reefs grow — but eventually, they stop. This doesn’t mean they’re dead. They’ve simply reached a level of maturity where health is not about getting bigger, but about sustaining vitality. There may be a turnover of cells, organisms, and even entire species, but the whole system learns to maintain itself over time, without the obligation to grow.
 
