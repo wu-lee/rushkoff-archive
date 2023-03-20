@@ -3,12 +3,14 @@ publication: _publications/ba-business-life.md
 title: Fighting the Digital Giants
 subtitle: ''
 image: ''
-date: 2016-03-02 00:00:00 -0500
+date: 2016-03-02T00:00:00.000-05:00
 blurb: ''
 notes: 'Source: [https://rushkoff.com/fighting-digital-giants/](https://rushkoff.com/fighting-digital-giants/
   "https://rushkoff.com/fighting-digital-giants/")'
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 Most businesses’ biggest fear today, in the digital landscape, is disruption. We all witnessed what Amazon did to the book industry, what streaming media did to music, what Uber is doing to taxi services, what Airbnb is doing to hotels, and other young digital platforms are doing to entire sectors. A business owner can’t help but ask, could I be disrupted next?

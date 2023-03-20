@@ -1,13 +1,15 @@
 ---
 title: Fight for the Future
 subtitle: 
-date: '1998-08-01T04:00:00.000Z'
+date: 1998-08-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The X-Files movie and Windows 98.
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 The modestly trumpeted launch of Windows 98 seems, on the surface, out of character for Microsoft -- especially when compared with the global promotional blitz that accompanied the roll out of Win 95, for which Bill Gates spared no expense. For Win 95 he bought a Rolling Stones song and paid the owners of the Empire State Building to light the New York landmark in the same colors as the Windows logo. Why no fanfare for the operating system's heir?
 
