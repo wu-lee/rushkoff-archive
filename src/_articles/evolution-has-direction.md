@@ -3,11 +3,13 @@ publication: _publications/what-we-believe-but-cannot-prove.md
 title: Evolution Has Direction
 subtitle: ''
 image: ''
-date: 2006-02-28 00:00:00 -0500
+date: 2006-02-28T00:00:00.000-05:00
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 Though I can't prove it more than anecdotally or experientially, I believe that evolution has purpose and direction. To me it seems obvious, if absolutely unconfirmable, that matter is groping toward complexity. True enough, stresses and threats, ranging from time and friction to decomposition and predators, require objects and life-forms to achieve some measure of durability in order to sustain themselves. But this ability to surviveseems to me more a means to an end than an end in itself.

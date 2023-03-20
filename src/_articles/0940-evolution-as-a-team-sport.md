@@ -1,13 +1,15 @@
 ---
 title: Evolution as a Team Sport
 subtitle: 
-date: '2005-02-01T05:00:00.000Z'
+date: 2005-02-01T05:00:00.000Z
 publication: _publications/arthur.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Nothing is around the corner. There's no threshold to reach, event horizon to cross, or moment of novelty to await. The change has happened. Indeed, you're soaking in it.
 
