@@ -1,13 +1,15 @@
 ---
 title: Get Loud!
 subtitle: 
-date: '1999-05-01T04:00:00.000Z'
+date: 1999-05-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The Knicks Noise-Meter and the Pitfalls of Interactive Style
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 had an unsettling experience at a basketball game this afternoon. My New York Knicks, though playing with injuries, had finally caught up with their Canadian opponents. It was one of those magic moments in sports where a sudden burst of enthusiasm by the home team had allowed them to overcome a tremendous deficit and take the lead. The visiting opponents called a "time out" to regroup, and the home crowd went wild.
 
