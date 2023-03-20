@@ -3,12 +3,13 @@ publication: _publications/authorship.md
 title: Douglas Rushkoff
 subtitle: ''
 image: ''
-date: 2000-03-01 05:00:00 +0000
+date: 2000-03-01T05:00:00.000+00:00
 blurb: ''
 notes: Spring 2000
 refs: ''
 sources: ''
-categories: []
+categories:
+- _categories/journalism.md
 
 ---
 Many would say that Douglas Rushkoff is living the author's dream. His books have been national bestsellers, he is a professor of Virtual Culture at New York University, an NPR commentator and more.
