@@ -3,11 +3,13 @@ publication: _publications/conversations-on-the-edge-of-the-apocalypse.md
 title: Bio-Media Theory
 subtitle: ''
 image: ''
-date: 2005-06-06 00:00:00 -0400
+date: 2005-06-06T00:00:00.000-04:00
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 _Douglas Rushkoff is a media theorist and social commentator. His books, articles, newspaper columns, talks, and NPR commentaries thoughtfully explore the psychological and sociological consequences of technology, mass media, advertising, and youth culture. He is one of the most widely read media critics in America and is considered one of the world's experts on youth culture and advertising. Some of his books include_ Cyberia, Media Virus, Playing the Future, and Coercion_. Rushkoff was the correspondent for PBS's award-winning_ Frontline _documentary on teenage culture,_ The Merchants of Cool_. His weekly commentaries air on CBS's_ Sunday Morning_, National Public Radio's_ All Things Considered_, and appear on the back page of_ Time _magazine. He lectures regularly at conferences and universities around the world and has served as an adjunct professor of communication at New York University. He also served as an advisor to the United Nations Commission on World Culture and on the advisory boards of the Media Ecology Association and the Center for Cognitive Liberty and Ethics._
