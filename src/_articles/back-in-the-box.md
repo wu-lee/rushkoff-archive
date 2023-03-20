@@ -3,13 +3,15 @@ publication: _publications/fast-company.md
 title: Back in the Box
 subtitle: ''
 image: ''
-date: 2005-11-01 00:00:00 -0500
+date: 2005-11-01T00:00:00.000-05:00
 blurb: By trying to latch onto the flavor of the moment, many companies forget what
   made them great in the first place.
 notes: 'Source: [https://www.fastcompany.com/54023/back-box](https://www.fastcompany.com/54023/back-box
   "https://www.fastcompany.com/54023/back-box")'
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 I can’t count the number of times I’ve been called by companies searching for a miracle cure–a speech or a day’s consulting to help them “get out of the box.” Invariably, what these firms really need–and what I’ll venture most organizations on the lifeless American corporate landscape could stand–is to get back _in_ the box.
