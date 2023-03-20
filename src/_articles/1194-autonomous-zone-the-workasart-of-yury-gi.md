@@ -1,13 +1,15 @@
 ---
 title: 'Autonomous Zone: The Work-as-Art of Yury Gitman'
 subtitle: 
-date: '2004-08-11T16:00:00.000Z'
+date: 2004-08-11T16:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 How mobile gaming energizes the spirit -- and technology -- of the networked society.
 
@@ -50,4 +52,3 @@ TheFeature: This play also supports the development of "high adrenaline" interfa
 Gitman: I'm talking about communication and computing interfaces for firefighters at a scene, for surfers riding their boards and for bicyclists dodging cars across the city. Let's start by making viable interfaces for high-adrenaline and high-risk situations and activities, and then apply them to everyday mobile interfaces.
 
 Our current interfaces are still clumsy, slow, distracting, and not safe for people physically in motion. High-risk, high-adrenaline and high-stress situations offer designers a wealth of entry points, vernaculars, highly evolved gestures, and precedents for creating responsive applications and interfaces.
-

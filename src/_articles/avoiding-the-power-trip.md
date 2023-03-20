@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: Avoiding the Power Trip
 subtitle: Psychedelics, like everything else, are political
 image: "/uploads/0_imitvfoflowmoizu.jpg"
-date: 2022-04-25 00:00:00 -0400
+date: 2022-04-25T00:00:00.000-04:00
 blurb: As psychedelics make a new comeback — this time with the support of the psychotherapeutic
   and investment community alike — we must be more conscious of the politics, economics,
   and power at stake.
@@ -11,6 +11,8 @@ notes: 'Source: [https://rushkoff.medium.com/avoiding-the-power-trip-9a53ed42e3e
   "https://rushkoff.medium.com/avoiding-the-power-trip-9a53ed42e3e7")'
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 I was a member of the psychedelic counterculture in the 1980s when pretty much every mind-expanding substance was illegal. For us, that illegality was just an obstacle. Taking a psychedelic or growing a marijuana plant was not considered a stand against a draconian legal system and repressive government but simply a way of getting what we wanted in spite of a draconian legal system and repressive government.
