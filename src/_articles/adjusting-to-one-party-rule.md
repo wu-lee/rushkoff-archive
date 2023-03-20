@@ -5,12 +5,14 @@ subtitle: Only the Democratic party — corrupted though it may be — is willin
   to the rule of law. Should it move to the center in order to represent everyone
   interested in representative democracy?
 image: "/uploads/0_wxlrkqeu81x5meyv.jpg"
-date: 2022-02-06 00:00:00 -0500
+date: 2022-02-06T00:00:00.000-05:00
 blurb: ''
 notes: 'Source: [https://rushkoff.medium.com/adjusting-to-one-party-rule-3083d2d07f14](https://rushkoff.medium.com/adjusting-to-one-party-rule-3083d2d07f14
   "https://rushkoff.medium.com/adjusting-to-one-party-rule-3083d2d07f14")'
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 A (failed) thought experiment on one-party rule. (see the follow-up post, [here](https://rushkoff.medium.com/why-one-party-rule-wont-work-84eee45c47c5).)
