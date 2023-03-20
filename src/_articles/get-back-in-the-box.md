@@ -3,12 +3,14 @@ publication: _publications/mediapost.md
 title: Get Back in the Box
 subtitle: How being great at what you do is great for business
 image: ''
-date: 2006-11-28 00:00:00 -0500
+date: 2006-11-28T00:00:00.000-05:00
 blurb: ''
 notes: 'Source: [https://webcache.googleusercontent.com/search?q=cache:BYJ5ZKrfOmIJ:https://www.mediapost.com/publications/article/51698/get-back-in-the-box.html+&cd=1&hl=en&ct=clnk&gl=us](https://webcache.googleusercontent.com/search?q=cache:BYJ5ZKrfOmIJ:https://www.mediapost.com/publications/article/51698/get-back-in-the-box.html+&cd=1&hl=en&ct=clnk&gl=us
   "https://webcache.googleusercontent.com/search?q=cache:BYJ5ZKrfOmIJ:https://www.mediapost.com/publications/article/51698/get-back-in-the-box.html+&cd=1&hl=en&ct=clnk&gl=us")'
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 Like a pot of water brought to a boil, it all looks pretty messy and bubbly right before the system changes and reaches new order.
