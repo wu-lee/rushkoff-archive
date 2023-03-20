@@ -3,11 +3,13 @@ publication: _publications/bookmark-now-writing-in-unreaderly-times.md
 title: A Computer Ate My Book
 subtitle: ''
 image: ''
-date: 2005-01-01 00:00:00 -0500
+date: 2005-01-01T00:00:00.000-05:00
 blurb: ''
 notes: "2005"
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 Books have souls. Or so romantics like me tend to think. Neither the Internet nor computers really threaten the book as an art form. But if we're to believe the latest rumblings from publishing industry journals, author's panels, and librarians' conferences around the world, the book business is in terrible danger. And so are magazines, newspapers, and anything else printed on a page.
