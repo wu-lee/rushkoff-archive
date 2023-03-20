@@ -1,15 +1,16 @@
 ---
 title: Content Deliverance
 subtitle: 
-date: '2004-01-25T17:00:00.000Z'
+date: 2004-01-25T17:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
----
+categories:
+- _categories/journalism.md
 
+---
 Content Management is for losers. Young people may have discovered the dark truth about digital media: the person who wins the right to store a piece of data has actually won the booby prize.
 
 A good friend of mine in the user interface business, Mark Hurst, has argued for years that we should all keep our hard drives free of unnecessary data. Although internet industry experts always disagreed with Hurst (they were in the business of manufacturing hard drives, after all) those of us working in the PDA sector and on early cell phone databases realized that he had a point.
@@ -45,5 +46,3 @@ So what does this mean for the wireless industry? A lot. It means that the next 
 It's a gamble, for sure, but the best place to invest in the future of content may be to focus on temporary delivery and always-on libraries. Kids are coming to believe that the person who takes responsibility for storing and maintaining the data is the one who deserves to be paid. And they're smart enough, at any rate, to realize that it's a job they don't necessarily want to be charged with, themselves.
 
 Like Piggie, the boy who kept the fire going in Lord of the Flies, the kid who has to maintain the content will rarely be the one who gets to dance naked, with abandon. Cellular technology almost always moves in the direction of increased liberation. People delivering content must come to understand that what they deliver is not just content, but delivery itself.
-
-

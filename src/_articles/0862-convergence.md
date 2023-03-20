@@ -1,13 +1,15 @@
 ---
 title: Convergence
 subtitle: 
-date: '1996-12-01T05:00:00.000Z'
+date: 1996-12-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Our Last, Best Hope For Peace
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Anyone who has been following the Internet Wars for the past decade or so knows that the indigenous population of community-builders has long been on the brink of absolute surrender to the invading force of better-armed and tactically superior venture capitalists.
 
