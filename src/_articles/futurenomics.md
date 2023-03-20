@@ -3,7 +3,7 @@ publication: _publications/holland-herald.md
 title: Futurenomics
 subtitle: ''
 image: ''
-date: 2009-01-01 00:00:00 -0500
+date: 2009-01-01T00:00:00.000-05:00
 blurb: Douglas Rushkoff is a renowned author, teacher and documentarian. He investigates
   the way people, cultures and institutions create, share and influence each other's
   values. In this _Holland Herald_ exclusive, he give his thoughts on post-crisis
@@ -11,6 +11,8 @@ blurb: Douglas Rushkoff is a renowned author, teacher and documentarian. He inve
 notes: January 2009
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 The credit crunch may actually be good for business. No, not in the short term. When money becomes more expensive, it is harder for most businesses to get the capital they need to conduct their most basic operations. Even successful companies borrow money to buy materials, pay employees, and cash in on invoices that have yet to be paid. Without the cash flow provided by banks, it is a lot harder for many companies to function - much less expand.
