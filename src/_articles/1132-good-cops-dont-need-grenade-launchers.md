@@ -1,13 +1,15 @@
 ---
 title: Good Cops Don’t Need Grenade Launchers
 subtitle: 
-date: '2020-06-05T16:00:00.000Z'
+date: 2020-06-05T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 By day, the officers appear highly empathetic, kneeling and praying alongside members of the community. By night, they drive armored vehicles, don riot gear, shoot rubber bullets, and resort to tear gas as they corral and trample generally peaceful protestors who have opted to exercise their constitutional right to assembly.
 
