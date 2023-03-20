@@ -1,7 +1,7 @@
 ---
 title: Cell Phones Are Good
 subtitle: 
-date: 2008-10-16T00:00:00.000Z
+date: 2008-10-16T00:00:00.000+00:00
 publication: _publications/feature.md
 blurb: Sci-fi writer and media academic Paul Levinson attempts to show in his new
   book that cell phones are as natural as fingers.
@@ -9,6 +9,8 @@ notes:
 refs: '[{"text"=>"media ecology", "original"=>"http://www.media-ecology.org/", "archive"=>"http://web.archive.org/web/20200725065810/https://www.media-ecology.org/",
   "meta"=>{"title"=>"Media Ecology Association - Home", "favicon"=>"http://www.media-ecology.org/Resources/Pictures/Favicon/favicon-16x16.png"}}]'
 sources: 
+categories:
+- _categories/journalism.md
 
 ---
 Sci-fi writer and media academic Paul Levinson attempts to show in his new book that cell phones are as natural as fingers.
