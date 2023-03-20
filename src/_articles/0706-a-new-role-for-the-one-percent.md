@@ -1,7 +1,7 @@
 ---
 title: A New Role for the One Percent
 subtitle: 
-date: '2012-03-09T05:00:00.000Z'
+date: 2012-03-09T05:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -12,7 +12,9 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   whole lot of us are stuck with credit-card debt that goes up each month, mortgages
   worth more than our homes and student loans that extend into infinity. So it''s
   only natural that we look at the ...", "dateLastCrawled"=>"2020-04-29T23:48:00.0000000Z"}]'
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 (CNN) -- A whole lot of us are stuck with credit-card debt that goes up each month, mortgages worth more than our homes and student loans that extend into infinity. So it's only natural that we look at the debt crisis from the bottom up: from the perspective of the 99% who are getting screwed.
 
