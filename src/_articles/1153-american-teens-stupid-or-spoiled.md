@@ -1,13 +1,15 @@
 ---
 title: 'American Teens: Stupid or Spoiled?'
 subtitle: 
-date: '2003-10-17T16:00:00.000Z'
+date: 2003-10-17T16:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 America's teen market may prove difficult for snazzy handset manufacturers to penetrate. But the real reasons for upgrade reluctance might surprise them.
 
@@ -32,5 +34,3 @@ It's not their lack of technological sophistication that keeps American teens fr
 It's not that American kids don't have cell phones. They do. It's just that they don't have the same need to use their phones for activities that are already being satisfied better elsewhere. After a couple of hours of free instant messaging on the computer every day after school, how much of an appetite could they possibly have for sms, photos or none, late into the night?
 
 Even if they don't prove to be eager handset upgraders, America's youth will still rack up airtime on the cell phones they already have. They're just going to do it the old fashioned way: talking.
-
-
