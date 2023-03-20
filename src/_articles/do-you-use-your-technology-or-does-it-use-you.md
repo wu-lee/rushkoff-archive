@@ -3,11 +3,13 @@ publication: _publications/unbored-the-essential-field-guide-to-serious-fun.md
 title: Do You Use Your Technology or Does It Use You?
 subtitle: ''
 image: ''
-date: 2012-10-16 00:00:00 -0400
+date: 2012-10-16T00:00:00.000-04:00
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 I used to think that kids who grew up with computers in their homes and schools would understand them really well. Better than we grownups do, anyway. Most of us only had television sets when we were kids, and maybe a simple videogame console. Computers came much later, and when they did, they offered us a whole new world of possibilities.
