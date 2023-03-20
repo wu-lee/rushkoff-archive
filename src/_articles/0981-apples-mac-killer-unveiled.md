@@ -1,7 +1,7 @@
 ---
 title: Apple's Mac Killer Unveiled
 subtitle: 
-date: '2010-01-27T05:00:00.000Z'
+date: 2010-01-27T05:00:00.000Z
 publication: _publications/daily_beast.md
 blurb: Beyond the hype, style, and speculation, the truth is that the iPad is really
   just another tablet device. A really big PDA, where a touchscreen does what a laptop's
@@ -9,7 +9,9 @@ blurb: Beyond the hype, style, and speculation, the truth is that the iPad is re
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 What makes the iPad so new and different, of course, is that instead of you having to find a bootleg copy of Apple's OS X operating system and install it illegally on an existing netbook or tablet PC, now you get to have a real Mac system pre-installed on a super-lightweight device that's fully capable of running it.
 

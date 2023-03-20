@@ -1,7 +1,7 @@
 ---
 title: Apple's Army of Whiners
 subtitle: 
-date: '2009-06-22T04:00:00.000Z'
+date: 2009-06-22T04:00:00.000Z
 publication: _publications/daily_beast.md
 blurb: Feel better Steve, but what about me? I mean, I know cancer surgery is no picnic,
   but what does the possibility that you'll reject your new liver mean for my Apple
@@ -11,7 +11,9 @@ blurb: Feel better Steve, but what about me? I mean, I know cancer surgery is no
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Sorry, but that's the emotional current underlying nearly all of the coverage I'm seeing about the Apple founder's just-revealed liver transplant operation in Tennessee for his metastasized neuroendocrine tumor. It's not what I expected from the Apple community, but perhaps it does serve as the most accurate expression of where the once-renegade personal-computer company has ended up.
 
