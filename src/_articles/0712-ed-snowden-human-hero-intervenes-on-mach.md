@@ -1,13 +1,15 @@
 ---
 title: Ed Snowden - Human Hero Intervenes on Machine Logic
 subtitle: 
-date: '2013-06-10T04:00:00.000Z'
+date: 2013-06-10T04:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 When I was a kid, I remember a guy named Daniel Ellsberg leaking some classified documents to the New York Times about the Vietnam War called “the Pentagon Papers.” When the whistleblower finally stood trial for espionage, my parents weren't quite sure how to feel. But when Richard Nixon's crew was revealed to have been conducting illegal wiretaps in an effort to discredit the former intelligence contractor, well, they were outraged and decided Ellsberg was a hero. So did the judge and most of America.
 

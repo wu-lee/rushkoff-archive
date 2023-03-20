@@ -1,13 +1,15 @@
 ---
 title: Electronica
 subtitle: 
-date: '1999-05-01T04:00:00.000Z'
+date: 1999-05-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: The True Cyber Culture
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 What do you think of when you hear the word "cyberculture?" The most popular answers I received in my informal poll this week were:
 
