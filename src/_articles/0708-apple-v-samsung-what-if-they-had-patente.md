@@ -1,7 +1,7 @@
 ---
 title: 'Apple v Samsung: What if They Had Patented the Alphabet?'
 subtitle: 
-date: '2012-08-31T04:00:00.000Z'
+date: 2012-08-31T04:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -13,7 +13,9 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   came up with a new word to describe an action, thought or feeling — like “magnify”
   or “dreadful.” But in this strange world, the person who came up with the word demanded
   that anyone else who used it pay him […]", "dateLastCrawled"=>"2020-07-13T12:14:00.0000000Z"}]'
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Imagine we were just developing spoken language for the first time. And someone came up with a new word to describe an action, thought, or feeling - like “magnify” or “dreadful.” But in this strange world, the person who came up with the word demanded anyone else who used it to pay him a dollar every time the word was uttered. That would make it pretty difficult for us to negotiate our way to a society that communicated through speech.
 

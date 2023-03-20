@@ -1,13 +1,15 @@
 ---
 title: Are Cell Phone Users the New Smokers?
 subtitle: 
-date: '2004-09-08T16:00:00.000Z'
+date: 2004-09-08T16:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 If the newest etiquette surveys are any indication, mobile phones may be going the way of the cigarette.
 
