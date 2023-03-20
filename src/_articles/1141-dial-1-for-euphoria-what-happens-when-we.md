@@ -1,13 +1,15 @@
 ---
 title: 'Dial 1 for euphoria: What happens when we can zap our brains into any mood?'
 subtitle: 
-date: '2016-04-25T16:00:00.000Z'
+date: 2016-04-25T16:00:00.000Z
 publication: _publications/digital_trends.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 One algorithm makes you smaller, and one makes you tall. But the ones the FDA gives you won’t do anything at all – not without a prescription, anyway.
 
