@@ -3,12 +3,14 @@ publication: _publications/fortune.md
 title: Here’s How Corporate Growth is Killing the Economy
 subtitle: ''
 image: "/uploads/505145430-768x443.jpg"
-date: 2016-03-06 00:00:00 -0500
+date: 2016-03-06T00:00:00.000-05:00
 blurb: ''
 notes: 'Source: [https://rushkoff.com/heres-corporate-growth-killing-economy/](https://rushkoff.com/heres-corporate-growth-killing-economy/
   "https://rushkoff.com/heres-corporate-growth-killing-economy/")'
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 **Businesses are sacrificed for share price**
