@@ -3,11 +3,13 @@ publication: _publications/media-education-for-a-digital-generation.md
 title: Foreword
 subtitle: ''
 image: ''
-date: 2015-08-27 00:00:00 -0400
+date: 2015-08-27T00:00:00.000-04:00
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 Media literacy was always a tough sell.
