@@ -3,11 +3,13 @@ publication: _publications/heeb.md
 title: Epic Trip
 subtitle: Doug Rushkoff's Testament
 image: ''
-date: 2007-03-01 00:00:00 -0500
+date: 2007-03-01T00:00:00.000-05:00
 blurb: ''
 notes: Spring 2007
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 TEXT jeff newelt
