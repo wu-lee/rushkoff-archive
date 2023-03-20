@@ -1,15 +1,16 @@
 ---
 title: 'Flash Mobs: The Purposeless MicroRave'
 subtitle: 
-date: '2003-09-19T16:00:00.000Z'
+date: 2003-09-19T16:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
----
+categories:
+- _categories/journalism.md
 
+---
 I surrender to the media hype. Here's what I think about Flash Mobs, writing about Flash Mobs, and writing about writing about Flash Mobs.
 
 
@@ -36,4 +37,3 @@ The real problem with flash mobs is that they are contentless. Unlike, say, a Ma
 They certainly show our need, as people, for mass experiences unmediated by television or profit-driven sports conglomerates. But they also show just how little we understand about why we've lost our ability to assemble meaningfully, or how to win it back.
 
 Sorry, but intelligence and creativity are prerequisites for a social revolution. Mobs can't just be flash. They have to be smart.
-
