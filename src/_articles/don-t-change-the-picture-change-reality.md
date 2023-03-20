@@ -11,7 +11,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 I’ll admit these last few weeks have been particularly destabilizing for a lot of us.
