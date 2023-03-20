@@ -1,7 +1,7 @@
 ---
 title: Google Declares War on Facebook
 subtitle: 
-date: '2009-11-04T05:00:00.000Z'
+date: 2009-11-04T05:00:00.000Z
 publication: _publications/daily_beast.md
 blurb: To Google, it's just a new, relatively minor set of upgrades to one of its
   many applications. To Facebook, it's a declaration of war. Google wants in on “social,”
@@ -9,7 +9,9 @@ blurb: To Google, it's just a new, relatively minor set of upgrades to one of it
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 But a scorched-earth battle over our social networks may leave casualties in its wake, particularly if we start to look at our friends the way either of these companies do.
 
