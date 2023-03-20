@@ -1,13 +1,15 @@
 ---
 title: Faith = Illness
 subtitle: 
-date: '2006-04-30T04:00:00.000Z'
+date: 2006-04-30T04:00:00.000Z
 publication: _publications/arthur.md
 blurb: Why I've had it with religious tolerance.
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Okay, so let's get into this God game.
 
