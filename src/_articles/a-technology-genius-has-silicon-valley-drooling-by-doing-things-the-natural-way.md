@@ -4,12 +4,14 @@ title: A technology genius has Silicon Valley drooling - by doing things the nat
   way
 subtitle: ''
 image: ''
-date: 1999-10-06 00:00:00 -0400
+date: 1999-10-06T00:00:00.000-04:00
 blurb: ''
 notes: '[https://www.theguardian.com/technology/1999/oct/07/onlinesupplement17](https://www.theguardian.com/technology/1999/oct/07/onlinesupplement17
   "https://www.theguardian.com/technology/1999/oct/07/onlinesupplement17")'
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 You know the way the horizons in video games are often covered with mist or obscured by clouds? Or have you ever played a racing game and made the car go so fast that you could see the road and railings being drawn by the computer as you moved? That's because the way a computer or video game console currently renders pictures and landscapes is limited by the processing power of its microchip and the capabilities of its graphics card. Things like horizons are so "far" away and difficult to draw that it's easier to simply mask them. And since digital graphics like polygons with textured surfaces require so much memory to render, most games draw only the part of the world you are in at the time.
