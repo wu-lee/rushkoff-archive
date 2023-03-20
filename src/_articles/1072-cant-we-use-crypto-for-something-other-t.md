@@ -1,14 +1,16 @@
 ---
 title: Can’t We Use Crypto for Something Other Than Capitalism?
 subtitle: 
-date: '2021-08-20T16:00:00.000Z'
+date: 2021-08-20T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
-image: /uploads/1072-cant-we-use-crypto-for-something-other-t.jpg
+image: "/uploads/1072-cant-we-use-crypto-for-something-other-t.jpg"
+categories:
+- _categories/journalism.md
+
 ---
 took a bit of heat last week for suggesting that the blockchain movement may have gone largely off course. Some asked: What about NFTs? Or the decentralized autonomous corporations? Aren’t Bitcoin and Ethereum doing all sorts of great things?
 

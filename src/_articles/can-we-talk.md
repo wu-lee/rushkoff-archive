@@ -3,11 +3,13 @@ publication: _publications/lifestyles.md
 title: Can We Talk?
 subtitle: by Kenneth Applebaum with an intro by Jeanette Friedman
 image: ''
-date: 2003-09-01 00:00:00 -0400
+date: 2003-09-01T00:00:00.000-04:00
 blurb: ''
 notes: "Fall 2003  \nVol. 32, No. 187"
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 _The Jerusalem Report_ called him an atheist because he is an iconoclast, but then, the writer who was so supremely critical of this young, 42-year old deep thinker, Douglas Rushkoff, obviously doesn't understand the second of the Ten Commandments. Jews are the original iconoclasts. That's why everyone else hates them--for that and providing the world with the rest of the Ten Commandments. But people don't get it. Douglas Rushkoff, author of _Nothing is Sacred_, does get Judaism, very, very well. And because he does, more and more institutional Jews and Jewish institutions see him as a threat to their well-being.
