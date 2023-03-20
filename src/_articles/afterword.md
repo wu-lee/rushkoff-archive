@@ -3,7 +3,7 @@ publication: _publications/the-image-a-guide-to-pseudo-events-in-america.md
 title: Afterword
 subtitle: ''
 image: ''
-date: 2011-01-01 00:00:00 -0500
+date: 2011-01-01T00:00:00.000-05:00
 blurb: ''
 notes: |-
   Source: [https://rushkoff.com/my-preface-to-boorstins-the-image/](https://rushkoff.com/my-preface-to-boorstins-the-image/ "https://rushkoff.com/my-preface-to-boorstins-the-image/")
@@ -11,6 +11,8 @@ notes: |-
   Date: 2011
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 The first edition of The Image was published in 1961, the same year I was born. Kennedy was yet to be assassinated, LSD was yet to reach Harvard University, and the French post-modernists were yet to begin their deconstruction of America’s television-driven culture.

@@ -1,13 +1,15 @@
 ---
 title: Amateurs Once More
 subtitle: 
-date: '2001-06-01T04:00:00.000Z'
+date: 2001-06-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: My Open-Source Novel
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 The internet is for amateurs. No, that's not an insult, but high praise. "Amateurs," by definition, do what they do for the love of it. Because it's fun, social, enriching, transformational, evolutionary, or even just beautiful. Now that the investment community sees the net is seen as more of a lame duck than a cash cow, the only ones left out here (or the only ones that should be) are us amateurs.
 
