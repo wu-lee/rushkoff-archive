@@ -4,13 +4,15 @@ title: Exponential Tech Doesn’t Serve Social Good
 subtitle: Why create solutions ‘at scale’ if operating at scale is itself the main
   problem?
 image: "/uploads/1_6ozsfp16duyhirypawhwog.jpeg"
-date: 2021-10-01 00:00:00 -0400
+date: 2021-10-01T00:00:00.000-04:00
 blurb: How do we break through the noise and bring all those many decentralized organizations
   together into the one, single centralized decentralized network?
 notes: 'Source: [https://onezero.medium.com/exponential-tech-doesnt-serve-social-good-c6263dc5ab66](https://onezero.medium.com/exponential-tech-doesnt-serve-social-good-c6263dc5ab66
   "https://onezero.medium.com/exponential-tech-doesnt-serve-social-good-c6263dc5ab66")'
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 We all want to do good. Well, a great many of us want to do good. We recognize that the climate is in peril, corporations are dangerously extractive, wealth disparity is at all-time highs, our kids are self-destructively addicted to social media, politics has descended into a reality TV show with paranoid features, and that civilization itself has only about another 20 years before some combination of the above threats makes life unrecognizable or even unsustainable.

@@ -1,13 +1,15 @@
 ---
 title: Extra Life
 subtitle: 
-date: '1998-10-01T04:00:00.000Z'
+date: 1998-10-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Computers, Not Just Software, Should be Taught in School
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Those of us who can remember writing BASIC programs in makeshift high school "computer labs" no longer need to think of ourselves as nerds. We're simply old.
 
