@@ -3,11 +3,13 @@ publication: _publications/depression-2.0-creative-strategies-for-tough-economic
 title: Financial Metrics and the Economic Crisis
 subtitle: ''
 image: ''
-date: 2009-06-01 00:00:00 -0400
+date: 2009-06-01T00:00:00.000-04:00
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 **Q:** _What's your perspective on Barack Obama and the economy?_
