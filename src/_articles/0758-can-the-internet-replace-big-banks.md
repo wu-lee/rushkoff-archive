@@ -1,13 +1,15 @@
 ---
 title: Can the Internet Replace Big Banks?
 subtitle: 
-date: 2013-03-24T22:12:22.000Z
+date: 2013-03-24T22:12:22.000+00:00
 publication: _publications/mashable.md
 blurb: 
 notes: 
 refs: 
 sources: 
 image: "/uploads/0758-can-the-internet-replace-big-banks.jpg"
+categories:
+- _categories/journalism.md
 
 ---
 *Douglas Rushkoff, a media theorist, author, and documentarian. The ideas in this piece are built on the arguments of his new book, [Present Shock: When Everything Happens Now](http://www.amazon.com/Present-Shock-When-Everything-Happens/dp/1591844762).*

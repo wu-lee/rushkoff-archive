@@ -3,11 +3,13 @@ publication: _publications/the-pot-book.md
 title: 'Cannabis: Stealth Goddess'
 subtitle: ''
 image: ''
-date: 2010-01-01 00:00:00 -0500
+date: 2010-01-01T00:00:00.000-05:00
 blurb: ''
 notes: "2010"
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 Back around the time he was dying, Timothy Leary kept returning to an odd little game where he'd ask people to rank their drugs. Most of us assumed it was the illness (or the morphine) getting the best of him, because he just kept doing it with everyone.
