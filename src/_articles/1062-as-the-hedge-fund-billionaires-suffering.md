@@ -1,13 +1,15 @@
 ---
 title: How Lulz Took Down Wall Street
 subtitle: 
-date: 2021-01-29T17:00:00.000Z
+date: 2021-01-29T17:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-image: /uploads/1062-as-the-hedge-fund-billionaires-suffering.jpeg
+image: "/uploads/1062-as-the-hedge-fund-billionaires-suffering.jpeg"
+categories:
+- _categories/journalism.md
 
 ---
 As the hedge fund billionaires suffering catastrophic losses in the r/WallStreetBets activist campaign now realize, we reap what we sow. Even more so in a digital age.
