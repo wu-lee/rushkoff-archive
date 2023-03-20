@@ -3,12 +3,13 @@ publication: _publications/xy-magazine.md
 title: Delete Facebook
 subtitle: ''
 image: ''
-date: 2018-09-01 04:00:00 +0000
+date: 2018-09-01T04:00:00.000+00:00
 blurb: ''
 notes: Fall 2018
 refs: ''
 sources: ''
-categories: []
+categories:
+- _categories/journalism.md
 
 ---
 HASTINGS, N.Y. 
