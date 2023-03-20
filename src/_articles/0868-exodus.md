@@ -1,13 +1,15 @@
 ---
 title: Exodus
 subtitle: 
-date: '2001-05-01T04:00:00.000Z'
+date: 2001-05-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: From Pyramid-Building to a Global Programmers Union
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 I'm in Europe this week, doing a few lectures and celebrating the launch of my new novel. For some reason, I feel less like an American author on book tour than a traveling rabbi helping people gain perspective about the past five years.
 
