@@ -1,7 +1,7 @@
 ---
 title: How Google Trained Your Brain
 subtitle: 
-date: '2009-06-03T04:00:00.000Z'
+date: 2009-06-03T04:00:00.000Z
 publication: _publications/daily_beast.md
 blurb: In a few ways—just a few, but real enough—Bing represents more than Microsoft's
   ability to purchase a memorable but (necessarily) meaningless one-syllable name
@@ -11,7 +11,9 @@ blurb: In a few ways—just a few, but real enough—Bing represents more than M
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Google pays us for running its partners' ads on our blogs and podcast sites; Microsoft pays us to buy stuff from its partners.
 
