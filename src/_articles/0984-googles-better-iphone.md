@@ -1,7 +1,7 @@
 ---
 title: Google's Better iPhone
 subtitle: 
-date: '2009-10-06T04:00:00.000Z'
+date: 2009-10-06T04:00:00.000Z
 publication: _publications/daily_beast.md
 blurb: I feel a large dose of schadenfreude whenever iPhone users get dropped in the
   middle of their calls with me. Somehow, the failings of the overtaxed AT&T network
@@ -10,7 +10,9 @@ blurb: I feel a large dose of schadenfreude whenever iPhone users get dropped in
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 If today's announcement of a Google-Verizon partnership plays out as planned, that's a tradeoff we won't have to make anymore.
 
