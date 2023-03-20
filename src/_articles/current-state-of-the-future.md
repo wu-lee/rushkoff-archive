@@ -3,12 +3,13 @@ publication: _publications/core.md
 title: Current State of the Future
 subtitle: Seven Questions, Seven Answers
 image: ''
-date: 2015-01-01 05:00:00 +0000
+date: 2015-01-01T05:00:00.000+00:00
 blurb: ''
 notes: only known date is 1995
 refs: ''
 sources: ''
-categories: []
+categories:
+- _categories/journalism.md
 
 ---
 Core's **Jay Bristow** interviews **Douglas Rushkoff**, author of _The Gen-X Reader, Cyberia — Life in the Trenches of Hyperspace_ and _Media Virus — Hidden Agendas in Popular Culture._

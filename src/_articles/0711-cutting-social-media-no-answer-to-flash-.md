@@ -1,7 +1,7 @@
 ---
 title: Cutting Social Media No Answer to Flash Mobs
 subtitle: 
-date: '2011-08-17T04:00:00.000Z'
+date: 2011-08-17T04:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -25,7 +25,9 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   the past, people seemed to require a massive \"cue\" to form a mob. The New York
   blackouts of the summer of 1977 resulted in citywide looting, not just because alarm
   systems were down, but ...", "dateLastCrawled"=>"2020-07-20T08:38:00.0000000Z"}]'
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 In the past, people seemed to require a massive "cue" to form a mob. The New York blackouts of the summer of 1977 resulted in citywide looting, not just because alarm systems were down, but because a whole lot of hot, angry, frustrated people had an excuse to act en masse. Likewise, the verdict on the Rodney King trial served as a spark, synchronizing simultaneous explosions of mob behavior in a dozen North American cities.
 
