@@ -1,7 +1,7 @@
 ---
 title: 'Blessed With Technology: Government Worms'
 subtitle: 
-date: '2012-06-19T04:00:00.000Z'
+date: 2012-06-19T04:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -24,8 +24,10 @@ refs: '[{"text"=>"Flame virus", "original"=>"http://money.cnn.com/2012/05/30/tec
   "apps"=>{"googleplay"=>{"name"=>"NYTimes", "id"=>"com.nytimes.android", "url"=>"nyt://article/d87a4eed-0070-5824-8e05-daf17a16d437"}}},
   "favicon"=>"http://www.nytimes.com/vi-assets/static-assets/favicon-4bf96cb6a1093748bf5b3c429accb9b4.ico"}}]'
 sources: 
-published: true
-image: /uploads/0082-blessed-with-technology-government-worms.jpg
+image: "/uploads/0082-blessed-with-technology-government-worms.jpg"
+categories:
+- _categories/journalism.md
+
 ---
 **(CNN)** -- The recently discovered [Flame virus](http://money.cnn.com/2012/05/30/technology/flame-virus/index.htm) bears all the hallmarks of a cyberattack concocted by a nation-state. It's big and complex and pointed directly at a geopolitical hot zone, Iran.
 
