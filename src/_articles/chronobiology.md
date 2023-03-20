@@ -3,12 +3,14 @@ publication: _publications/the-edge.md
 title: Chronobiology
 subtitle: ''
 image: ''
-date: 2017-01-01 00:00:00 -0500
+date: 2017-01-01T00:00:00.000-05:00
 blurb: ''
 notes: '[https://www.edge.org/response-detail/27083](https://www.edge.org/response-detail/27083
   "https://www.edge.org/response-detail/27083")'
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 The time-is-money ethos of the Industrial Age and wage labor, combined with the generic quality of computerized time-keeping and digital calendars has all but disconnected us from the temporal rhythms on which biological life has oriented itself for millennia. Like all organisms, the human body has evolved to depend on the cyclical ebbs and flows of light, weather, and even the gravitational pull of the moon in order to function effectively.
