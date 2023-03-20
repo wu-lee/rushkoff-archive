@@ -3,13 +3,14 @@ publication: _publications/the-good-book-guide.md
 title: Do Books Have a Future?
 subtitle: ''
 image: ''
-date: 1997-06-01 04:00:00 +0000
+date: 1997-06-01T04:00:00.000+00:00
 blurb: Twenty years on, will computers make books obsolete? The Good Book Guide asked
   cyberguru and author Douglas Rushkoff.
 notes: Date is a guess from context; must be between May 1997 and September 1997
 refs: ''
 sources: ''
-categories: []
+categories:
+- _categories/journalism.md
 
 ---
 Will computers make books obsolete? Of course not. No. They won't. Or so I keep telling myself. I'm embarking on yet another book tour in my now four-year-old career as a published author (there was a book back in 1990, but that one doesn't count). l've been able to witness, first-hand, the way computers and the Internet have influenced the book world's reading habits, buying patterns, production cycles, and marketing decisions. While these technologies have had a somewhat negative impact on certain aspects of the publishing industry, they will only help the book, authors and readers in the long run.
