@@ -1,13 +1,15 @@
 ---
 title: A Spectrum Carol
 subtitle: 
-date: '2004-12-22T17:00:00.000Z'
+date: 2004-12-22T17:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Yes, it's holiday time, so here's a true legend from the early days of wireless data.
 
@@ -50,4 +52,3 @@ The NII band eventually went to 802.11, and that frequency just above 2400MHz we
 Until that day, unraveling the spectrum record reveals a history in which the power players of the communications and computing industries understood that fixed resources must be shared, and that collaboration and cooperation often yield the happiest results.
 
 And that's a good holiday lesson for us all.
-
