@@ -1,13 +1,15 @@
 ---
 title: Back to Mac
 subtitle: 
-date: '1997-04-01T05:00:00.000Z'
+date: 1997-04-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: A Prodigal Son Returns
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 About two years ago in this space, I made an announcement that led to over 1000 horrified responses from you readers. I'm still receiving a trickle of email about it to this day. And all I had done was explain the reasons why I had traded in my Macintosh computer for a Windows machine.
 

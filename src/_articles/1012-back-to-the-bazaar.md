@@ -1,12 +1,14 @@
 ---
 title: Back to the Bazaar
 subtitle: 
-date: 2011-01-03T05:00:00.000Z
+date: 2011-01-03T05:00:00.000+00:00
 publication: _publications/one_plus.md
 blurb: 
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/journalism.md
 
 ---
 THE BAZAAR MAY HAVE BEEN THE MOST IDEAL, IMPROMPTU AND PERFECTLY MANDATORY MEETING OF ALL TIME. These late-Middle Ages market days were social and business gatherings where people were as likely to discuss politics, religion and local gossip as they were the price of grain or the quality of meat at the last stall. I expect people remembered and valued the quality of social and intellectual connections as much or more than the actual booty traded—though the trading is what brought everyone to market in the first place.
