@@ -1,13 +1,15 @@
 ---
 title: As Above, So Below
 subtitle: 
-date: '2003-12-14T17:00:00.000Z'
+date: 2003-12-14T17:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 The satellite dish at the heart of a new age conference dedicated to 'world peace' begs whether violent communications strategies only beget more of the same.
 
@@ -40,4 +42,3 @@ Of course, the VNRs were failing, anyway, I explained. Woody Harrelson and Maris
 The satellite only served to underscore the hypocrisy of holding an expensive conference at an exotic resort hotel, and talking about sustainability while eating baby veal or (endangered) sea bass and drinking water out of individual-size plastic bottles. When I finished, the moderator asked for twenty seconds of silence, after which my words were all but forgotten and the conversation returned to the great success of "Buenos Dias Day," through which people around the world spread goodwill through the media, Latin American style.
 
 But the would-be messengers of peace ignore their inconsistencies at their own peril. For just like adding plastic to groundfill while complaining of global warming, it is internally incongruent to preach peace and understanding via corrupted messaging. In fact, if this conference really did want to make the headlines, they would have stood a better chance at raising attention by forcing the hotel in which they stayed to adopt environmentally responsible policies (and then shown them the financial savings), serving organic vegetarian meals, or bringing speakers to the event via that blasted satellite instead of wasting so very many tons of jet fuel - like I am right now.
-

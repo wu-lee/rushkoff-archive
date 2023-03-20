@@ -3,13 +3,15 @@ publication: _publications/medium.md
 title: As Below, So Above
 subtitle: How the civic abuses of national politics trickle down to Main Street
 image: "/uploads/0_bj1f8oxvde67bu2h.jpg"
-date: 2022-01-21 00:00:00 -0500
+date: 2022-01-21T00:00:00.000-05:00
 blurb: Instead of simply disagreeing with the outcome, they refused to accept the
   legitimacy of the decision-making, insinuating that the whole process was corrupt.
 notes: 'Source: [https://gen.medium.com/as-below-so-above-9ab24d5c59c5](https://gen.medium.com/as-below-so-above-9ab24d5c59c5
   "https://gen.medium.com/as-below-so-above-9ab24d5c59c5")'
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 A few weeks ago, I [wrote](https://rushkoff.medium.com/move-along-the-car-crash-is-fake-cf9e327913c6) about how I’ve decided to turn off the Wrestlemania passing for national news and focus on my local reality. I was hoping that helping neighbors, engaging in mutual aid, and working on local issues might just engender a kind of solidarity. And if we all did this, it would eventually trickle up to the way we handle big issues at scale. Maybe the hands-on way we interact down here on the ground in the real world will stand in such stark contrast to the sensationalist puppet show on Facebook and the cable news, that we’ll all come to realize the debates on TV are not an adequate representation of who we are, nor an appropriate venue in which to work out our collective problems.
