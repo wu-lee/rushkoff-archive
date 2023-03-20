@@ -1,14 +1,16 @@
 ---
 title: 'E: Prescription for Cultural Renaissance'
 subtitle: 
-date: '2001-01-01T05:00:00.000Z'
+date: 2001-01-01T05:00:00.000Z
 publication: _publications/anthologies.md
 blurb: 'Published in *Ecstasy: The Complete Guide*, Edited by Julie Holland, M.D.
   (Park Street Press, 2001)'
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/book-chapters.md
+
 ---
 Every culture and subculture get the drugs that they deserve. In fact, almost every major cultural movement in history can be traced back to the chemicals they did or didn't have.
 
