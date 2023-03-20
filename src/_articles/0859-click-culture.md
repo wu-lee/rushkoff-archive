@@ -1,13 +1,15 @@
 ---
 title: Click Culture
 subtitle: 
-date: '1996-08-01T04:00:00.000Z'
+date: 1996-08-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Thoughts on the strength of mouse-driven attention spans
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Do you have the attention span required to scroll through this entire nine-hundred-word column or, like me and countless others, will you most likely get the gist by scanning the first couple of sentences and then moving on to something else?
 

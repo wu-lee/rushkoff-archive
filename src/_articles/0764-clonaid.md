@@ -1,13 +1,15 @@
 ---
 title: Clonaid
 subtitle: 
-date: '2009-04-12T04:00:00.000Z'
+date: 2009-04-12T04:00:00.000Z
 publication: _publications/seed.md
 blurb: SEED Magazine March/April 2003
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 On the sensationalized landscape of American media, scientific breakthroughs and alien fantasies often seem to walk hand in hand. It's as if our inability to cope with the implications of a new discovery makes us susceptible to the most outlandish and unfounded claims.
 
