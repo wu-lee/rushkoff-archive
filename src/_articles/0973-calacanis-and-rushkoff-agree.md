@@ -1,14 +1,16 @@
 ---
 title: Calacanis and Rushkoff Agree
 subtitle: 
-date: '2009-07-29T04:00:00.000Z'
+date: 2009-07-29T04:00:00.000Z
 publication: _publications/daily_beast.md
 blurb: 'Me, at Daily Beast, on the Yahoo-Microsoft deal:'
 notes: 
 refs: '[{"text"=>"Me, at Daily Beast", "original"=>"http://tinyurl.com/mchrzl"}, {"text"=>"Jason
   Calacanis, on Calacanis.com", "original"=>"http://calacanis.com/2009/07/29/yahoo-committed-seppuku-today/"}]'
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Microsoft and Yahoo are teaming up protect their brands and their shareholders against the unstoppable force that is Google. In doing so, both companies are demonstrating a willingness to change what they are on the most fundamental level, in order to survive. Yahoo search will now be licensed to Microsoft's Bing. Microsoft gets access to Yahoo's search community, and Yahoo gets to focus on display ads and its still-popular content, finance and social sites. So why are Yahoo's shares down 11% as of mid-afternoon Wednesday, and Microsoft's up a bit?
 

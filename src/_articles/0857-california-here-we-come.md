@@ -1,13 +1,15 @@
 ---
 title: California Here We Come
 subtitle: 
-date: '2008-04-17T04:00:00.000Z'
+date: 2008-04-17T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: March 1999
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 I wasn't sure whether the mass of cocktail-swilling Internet businesspeople were celebrating their various victories or merely trying to look that way. I had stumbled into Silicon Alley '99, New York City's premier cyber-business conference, which had grown by this year -- just its second -- into a nearly thousand-person extravaganza.
 
