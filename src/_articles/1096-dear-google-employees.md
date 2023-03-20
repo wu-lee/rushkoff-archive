@@ -1,13 +1,15 @@
 ---
 title: Dear Google Employees
 subtitle: 
-date: '2018-08-17T16:00:00.000Z'
+date: 2018-08-17T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Dear Google Employees,
 

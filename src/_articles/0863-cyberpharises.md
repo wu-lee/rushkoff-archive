@@ -1,13 +1,15 @@
 ---
 title: Cyberpharises
 subtitle: 
-date: '1996-12-01T05:00:00.000Z'
+date: 1996-12-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: "(Digital Nomads continued...)"
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 A graying, middle-aged business man smiles meekly at the bottom of the frame. Shadows surround him. On the facing page, the text revealing his thoughts: "Will a 14-year-old SOCIOPATH bring my company to its knees?"
 
