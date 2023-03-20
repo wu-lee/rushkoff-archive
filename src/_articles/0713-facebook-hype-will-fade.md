@@ -1,7 +1,7 @@
 ---
 title: Facebook Hype Will Fade
 subtitle: 
-date: '2011-01-07T05:00:00.000Z'
+date: 2011-01-07T05:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -10,7 +10,9 @@ refs: '[{"text"=>"CNN.com", "original"=>"http://www.cnn.com/2011/OPINION/01/07/r
   hype will fade", "type"=>"article"}, "description"=>"All signs for Facebook appear
   to be pointing up. ", "favicon"=>"http://www.cnn.com/favicon.ico"}}]'
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 (CNN) -- All signs for Facebook appear to be pointing up.
 

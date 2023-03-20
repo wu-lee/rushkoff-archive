@@ -1,12 +1,14 @@
 ---
 title: Facebook needs more 'human bias'
 subtitle: 
-date: 2016-05-11T16:00:00.000Z
+date: 2016-05-11T16:00:00.000+00:00
 publication: _publications/cnn.md
 blurb: 
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/journalism.md
 
 ---
 Facebook's PR department has been busy defending itself against allegations from an anonymous, disgruntled employee that editors of the company's "trending stories" list were biased against conservative viewpoints. The story -- itself a trending topic today -- may say less about the failings of biased human intervention, however, than the need for more of it.
