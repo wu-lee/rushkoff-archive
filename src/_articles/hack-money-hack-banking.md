@@ -3,12 +3,14 @@ publication: _publications/arthur.md
 title: Hack Money, Hack Banking
 subtitle: Rushkoff on the economy
 image: ''
-date: 2009-03-20 00:00:00 -0400
+date: 2009-03-20T00:00:00.000-04:00
 blurb: ''
 notes: '[https://arthurmag.com/2009/03/23/hack-money-hack-banking-rushkoff-on-the-economy/](https://arthurmag.com/2009/03/23/hack-money-hack-banking-rushkoff-on-the-economy/
   "https://arthurmag.com/2009/03/23/hack-money-hack-banking-rushkoff-on-the-economy/")'
 refs: ''
 sources: ''
+categories:
+- _categories/journalism.md
 
 ---
 I’ve received a ton of great email and response from [last week’s piece \[“Let It Die”\]](http://bit.ly/14lo7S) on letting the banks die and letting the market go down another 70 percent. My commentary also generated some confusion, though, so I’d like to clarify and expand on a few points. (I’ll do this again on [WFMU](http://www.wfmu.org/schedule#RK) on Monday evening, when I’ll have the opportunity to take some calls and actually converse.)
