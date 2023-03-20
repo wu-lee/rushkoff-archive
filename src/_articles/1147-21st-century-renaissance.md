@@ -1,13 +1,15 @@
 ---
 title: 21st Century Renaissance
 subtitle: 
-date: '2003-03-31T17:00:00.000Z'
+date: 2003-03-31T17:00:00.000Z
 publication: _publications/feature.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Today’s renaissance makes us feel that our self-expression matters, too.
 
@@ -50,4 +52,3 @@ The handheld wireless device already has capabilities that were unimaginable to 
 And with this massive communications capacity, the users of these devices may just have the ability to take over the world. More on that in Part Two.
 
 Douglas Rushkoff lectures about media, society, and change at conferences and universities around the world.
-

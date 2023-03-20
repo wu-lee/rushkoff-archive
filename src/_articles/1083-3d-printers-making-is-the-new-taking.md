@@ -1,12 +1,15 @@
 ---
 title: '3D Printers: Making is the New Taking'
 subtitle: ''
-date: 2013-12-01T17:00:00.000Z
+date: 2013-12-01T17:00:00.000+00:00
 publication: _publications/hemispheres_magazine.md
 blurb: ''
 notes: ''
 refs: ''
 sources: ''
+image: ''
+categories:
+- _categories/journalism.md
 
 ---
 Back in December 1972, my dad surprised the family with a strangely prescient holiday gift: an Odyssey, the first-ever home video game console. At the time it was a nerdy novelty - this was even before Pong, mind you - but it was the harbinger of seismic shift in entertainment. Then, five years later, dad’s were coming home with Radio Shack’s TRS 80, one of the first retail home computers, and another glimpse into the future. 
