@@ -3,11 +3,13 @@ publication: _publications/fresh-cream.md
 title: 'Children of Chaos: Surviving the End of the World as We Know It'
 subtitle: ''
 image: ''
-date: 2000-01-11 00:00:00 -0500
+date: 2000-01-11T00:00:00.000-05:00
 blurb: ''
 notes: Date from Amazon
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 Douglas Rushkoff  
