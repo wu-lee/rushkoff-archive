@@ -3,11 +3,13 @@ publication: _publications/a-magical-universe-the-best-of-magical-blend-magazine
 title: Generation X
 subtitle: ''
 image: ''
-date: 1996-01-01 00:00:00 -0500
+date: 1996-01-01T00:00:00.000-05:00
 blurb: ''
 notes: ''
 refs: ''
 sources: ''
+categories:
+- _categories/book-chapters.md
 
 ---
 with Mike Gorman and DNA

@@ -1,13 +1,15 @@
 ---
 title: Gated Communities Online
 subtitle: 
-date: '1997-07-01T04:00:00.000Z'
+date: 1997-07-01T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: Member-only areas, and the social costs.
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Throughout the United States, huge billboards with a large Netscape-style pointing finger herald the launch of Microsoft Network. Well, actually the re-launch of Microsoft Network, or MSN.
 
