@@ -1,13 +1,15 @@
 ---
 title: Conforming to the Machine
 subtitle: 
-date: '2000-12-01T05:00:00.000Z'
+date: 2000-12-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: How to bring machines to people, rather than the other way around.
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 The old man had never seen a computer up close before. As countless other first-time computer users had done before him, he picked up the mouse, pointed it at the monitor, and clicked.
 

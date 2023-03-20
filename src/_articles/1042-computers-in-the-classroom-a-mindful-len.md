@@ -1,12 +1,14 @@
 ---
 title: 'Computers in the Classroom: A Mindful Lens on Technology'
 subtitle: 
-date: 2012-12-11T05:00:00.000Z
+date: 2012-12-11T05:00:00.000+00:00
 publication: _publications/edutopia.md
 blurb: 
 notes: 
 refs: 
 sources: 
+categories:
+- _categories/journalism.md
 
 ---
 I was raised back in the day when teachers showed 16mm films in the classroom. It was a special event: the A/V librarian would wheel in an aqua-colored Bell & Howell projector, one of us nerdy types would wind the film through the various rollers, the screen would come down, the lights would go off and the magic would begin. Even the most boring film was still surrounded by this specialness, which set it apart from business-as-usual in the classroom.
