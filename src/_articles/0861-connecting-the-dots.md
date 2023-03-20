@@ -1,13 +1,15 @@
 ---
 title: Connecting the Dots
 subtitle: 
-date: '1996-12-01T05:00:00.000Z'
+date: 1996-12-01T05:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: TWA flight 808, CIA Crack sales, and Internet-style Conspiracy Theory
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Is the Internet really a forum capable of exposing our governments' deepest, darkest secrets, or is it just a hotbed for conspiracy theorists and the dissemination of their most paranoid delusions to an uncritical audience?
 
