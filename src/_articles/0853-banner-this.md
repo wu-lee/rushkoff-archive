@@ -1,13 +1,15 @@
 ---
 title: Banner This
 subtitle: 
-date: '2008-05-09T04:00:00.000Z'
+date: 2008-05-09T04:00:00.000Z
 publication: _publications/nyt_syndicate_guardian_of_london.md
 blurb: October 1997
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 I hate ads, I hate things that flash at me, and I hate to wait. That's why I've gone into the "preferences" menus in my Web browser and turned off the pictures altogether. I'd rather have no pictures at all than spend my time and money on obnoxious banners.
 
