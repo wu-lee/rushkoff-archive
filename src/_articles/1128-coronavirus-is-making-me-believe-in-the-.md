@@ -1,13 +1,15 @@
 ---
 title: Coronavirus Is Making Me Believe in the Power of the Internet Again
 subtitle: 
-date: '2020-03-16T16:00:00.000Z'
+date: 2020-03-16T16:00:00.000Z
 publication: _publications/medium.md
 blurb: 
 notes: 
 refs: 
 sources: 
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 Had South by Southwest not been canceled, I would have been giving a talk there this morning about fake news. I think they wanted me to get all worked up about the danger of deepfake videos, but I was having a hard time freaking myself out.
 
