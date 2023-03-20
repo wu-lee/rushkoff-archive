@@ -1,7 +1,7 @@
 ---
 title: Are Jobs Obsolete?
 subtitle: 
-date: '2011-09-07T04:00:00.000Z'
+date: 2011-09-07T04:00:00.000Z
 publication: _publications/cnn.md
 blurb: 
 notes: 
@@ -31,7 +31,9 @@ sources: '[{"_type"=>"WebPage", "id"=>"https://api.cognitive.microsoft.com/api/v
   slow but steady replacement of working humans. Unless an external source of funding
   comes in, the post office will have to scale back its operations drastically, or
   simply shut down altogether.", "dateLastCrawled"=>"2020-07-28T03:28:00.0000000Z"}]'
-published: true
+categories:
+- _categories/journalism.md
+
 ---
 The U.S. Postal Service appears to be the latest casualty in digital technology's slow but steady replacement of working humans. Unless an external source of funding comes in, the post office will have to scale back its operations drastically, or simply shut down altogether. That's 600,000 people who would be out of work, and another 480,000 pensioners facing an adjustment in terms.
 
