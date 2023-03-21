@@ -14,7 +14,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 You know that moment when you realize you’re seriously sick, or that your relationship is going to end, or you’ve lost your job, or you realize that you’re about to crash the car? It’s not panic, so much as the queasiness of realization. Like when you see the police lights in the rearview mirror. Ugh.
