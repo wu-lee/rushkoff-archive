@@ -13,7 +13,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 However vehemently today's web enthusiasts proclaim that "content is king", I suspect very few have stopped to consider just what this stuff called content really is. If it's anything at all.
