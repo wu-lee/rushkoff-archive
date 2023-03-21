@@ -1,7 +1,7 @@
 ---
 publication: _publications/medium.md
 title: Don’t Change the Picture, Change Reality
-subtitle: ''
+subtitle: The catastrophes on your TV screen are the result, not the cause
 image: "/uploads/0_wxthqiofjmbervkd.jpg"
 date: 2022-07-12 04:00:00 +0000
 blurb: ''
