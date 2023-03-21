@@ -5,10 +5,14 @@ subtitle: The internet is not killing off conversation but actively encouraging 
 image: ''
 date: 2000-06-28 04:00:00 +0000
 blurb: ''
-notes: ''
+notes: |-
+  Source: [https://www.theguardian.com/technology/2000/jun/29/onlinesupplement13](https://www.theguardian.com/technology/2000/jun/29/onlinesupplement13 "https://www.theguardian.com/technology/2000/jun/29/onlinesupplement13")
+
+  Title from [https://web.archive.org/web/20040810152732/http://www.rushkoff.com/cgi-bin/columns/display.cgi/social_currency](https://web.archive.org/web/20040810152732/http://www.rushkoff.com/cgi-bin/columns/display.cgi/social_currency "https://web.archive.org/web/20040810152732/http://www.rushkoff.com/cgi-bin/columns/display.cgi/social_currency")
 refs: ''
 sources: ''
-categories: []
+categories:
+- _categories/journalism.md
 published: false
 
 ---
