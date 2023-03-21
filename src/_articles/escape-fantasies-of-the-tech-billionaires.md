@@ -1,7 +1,7 @@
 ---
 publication: _publications/medium.md
 title: Escape Fantasies of the Tech Billionaires
-subtitle: ''
+subtitle: My Medium piece Survival of the Richest has grown into a whole book
 image: "/uploads/1_uigctkndih_omlvr1yxycg.png"
 date: 2022-05-09T00:00:00.000-04:00
 blurb: My Medium piece Survival of the Richest has grown into a whole book
