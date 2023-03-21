@@ -1,7 +1,7 @@
 ---
 title: Can’t We Use Crypto for Something Other Than Capitalism?
-subtitle: 
-date: 2021-08-20T16:00:00.000Z
+subtitle: How to make the next generation of bankers better than today’s
+date: 2021-08-20T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
