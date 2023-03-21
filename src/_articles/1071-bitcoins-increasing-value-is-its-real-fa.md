@@ -1,7 +1,8 @@
 ---
 title: Bitcoin’s Increasing Value Is Its Real Failure
-subtitle: 
-date: 2021-08-12T16:00:00.000Z
+subtitle: The technology is fine, but its speculative bias reveals something sad about
+  our relationship with money
+date: 2021-08-12T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
