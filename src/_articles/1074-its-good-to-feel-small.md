@@ -1,7 +1,8 @@
 ---
 title: It’s Good to Feel Small
-subtitle: 
-date: 2021-09-03T16:00:00.000Z
+subtitle: Extreme weather may help remind humans of their place in the bigger scheme
+  of things
+date: 2021-09-03T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
