@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: That Queasy Feeling
 subtitle: How to transcend both denial and distraction when the world seems to be
   coming apart
-image: ''
+image: "/uploads/1_vix_awn52qvwppzpcdxhca.webp"
 date: 2022-07-20 04:00:00 +0000
 blurb: If we’re going to stand any chance of drawing denialists out of their delusion,
   and ignorers away from their distractions, we’re going to have to offer them something
