@@ -1,7 +1,7 @@
 ---
 title: Did the Homepage Kill the Internet?
-subtitle: 
-date: 2021-08-26T16:00:00.000Z
+subtitle: Retrieving the great, big, migratory meta-community of digital nomads
+date: 2021-08-26T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
