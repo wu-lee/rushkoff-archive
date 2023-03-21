@@ -1,7 +1,7 @@
 ---
 title: Turning Off the “News”
-subtitle: 
-date: 2021-09-10T16:00:00.000Z
+subtitle: Yes, It’s Really Okay to Reduce Our Exposure to the Global Info Onslaught
+date: 2021-09-10T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
