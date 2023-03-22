@@ -1,7 +1,7 @@
 ---
 title: 'It’s Official: We OD’d on the Internet'
-subtitle: 
-date: 2021-06-08T16:00:00.000Z
+subtitle: Zooming is to real conversation as smoking is to breathing
+date: 2021-06-08T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
