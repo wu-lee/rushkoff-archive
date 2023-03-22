@@ -1,7 +1,8 @@
 ---
 title: Plunging Into the Abyss
-subtitle: 
-date: 2021-07-21T16:00:00.000Z
+subtitle: As even our smartest friends fall to conspiracy fever, we have to accept
+  it’s not about logic or politics, but addiction
+date: 2021-07-21T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
