@@ -1,7 +1,7 @@
 ---
 title: The AntiVax MetaConspiracy
-subtitle: 
-date: 2021-07-28T16:00:00.000Z
+subtitle: A modest proposal for connecting the dots
+date: 2021-07-28T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
