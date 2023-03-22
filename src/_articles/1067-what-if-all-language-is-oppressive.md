@@ -1,7 +1,7 @@
 ---
 title: What if All Language is Oppressive?
-subtitle: 
-date: 2021-07-12T16:00:00.000Z
+subtitle: The problem with policing a language already built on objectification
+date: 2021-07-12T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
