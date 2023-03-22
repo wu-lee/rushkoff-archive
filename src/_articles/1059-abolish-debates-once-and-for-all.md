@@ -1,7 +1,8 @@
 ---
 title: Abolish Debates Once and for All
-subtitle: 
-date: 2020-10-23T16:00:00.000Z
+subtitle: Even if the candidates weren’t shouting over each other, did we really gain
+  anything?
+date: 2020-10-23T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
