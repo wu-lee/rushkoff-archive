@@ -1,7 +1,7 @@
 ---
 title: Human Beings are Not an Engineering Problem
-subtitle: 
-date: 2021-07-07T16:00:00.000Z
+subtitle: On the re-publication of Robert Anton Wilson’s ‘The New Inquisition’
+date: 2021-07-07T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
