@@ -1,7 +1,7 @@
 ---
 title: The Internet is Us
-subtitle: 
-date: 2021-06-22T16:00:00.000Z
+subtitle: We are not the users of their network. We *are* the network.
+date: 2021-06-22T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
