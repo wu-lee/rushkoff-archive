@@ -1,6 +1,7 @@
 ---
 title: It Won’t Be Easy to Break Free From Trump’s Media Chaos
-subtitle: 
+subtitle: If America is going to recover from its Trump addiction, it’s going to need
+  to embrace monotony
 date: 2021-01-20T05:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
