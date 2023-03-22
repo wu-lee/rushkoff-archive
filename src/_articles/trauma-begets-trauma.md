@@ -12,7 +12,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 I’m seeing the same pattern repeating in nearly all the great, progressive, countercultural, or justice inflected organizations that I’m working to support: infighting. Someone says or does something that “triggers” someone else, and then an internal struggle over righteousness or purity or even just appropriate engagement ensues.
