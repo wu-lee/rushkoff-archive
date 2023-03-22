@@ -1,7 +1,7 @@
 ---
 title: Why the CDC Should Never Have Gotten Involved in Manufacturing Consent
-subtitle: 
-date: 2021-08-06T16:00:00.000Z
+subtitle: Epidemiologists are stuck in a real-time feedback loop with public health
+date: 2021-08-06T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
