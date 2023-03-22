@@ -1,7 +1,7 @@
 ---
 title: We Can’t Fight Fake News with More Fake News
-subtitle: 
-date: 2021-06-01T16:00:00.000Z
+subtitle: We must help one another strive for integrity over impact
+date: 2021-06-01T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
