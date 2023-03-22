@@ -11,7 +11,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 I had a Facebook account in the old days, and [left the platform in 2013 ](https://www.cnn.com/2013/02/25/opinion/rushkoff-why-im-quitting-facebook)when Zuckerberg began using people’s posts in ads without their permission.
