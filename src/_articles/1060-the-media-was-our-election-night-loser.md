@@ -1,7 +1,7 @@
 ---
 title: The Media Was Our Election Night Loser
-subtitle: 
-date: 2020-11-04T17:00:00.000Z
+subtitle: A grim journey through partisan network coverage
+date: 2020-11-04T17:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
