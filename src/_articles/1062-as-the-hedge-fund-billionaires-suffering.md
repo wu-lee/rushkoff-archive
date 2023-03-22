@@ -1,10 +1,10 @@
 ---
 title: How Lulz Took Down Wall Street
-subtitle: 
+subtitle: r/WallStreetBets delivered cybernetic karma to those who deserve it
 date: 2021-01-29T17:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
-notes: 
+notes: ''
 refs: 
 sources: 
 image: "/uploads/1062-as-the-hedge-fund-billionaires-suffering.jpeg"
