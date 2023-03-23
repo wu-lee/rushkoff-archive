@@ -1,7 +1,7 @@
 ---
 title: Trump Believes the Law Itself Is Corruption
-subtitle: 
-date: 2019-11-25T16:56:02.000Z
+subtitle: Rules are for the weak and hold back strong men like himself
+date: 2019-11-25T16:56:02.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
