@@ -1,7 +1,8 @@
 ---
 title: How Centuries of Black Strength Created a Blueprint for Economic Recovery
-subtitle: 
-date: 2020-07-06T16:00:00.000Z
+subtitle: Black communities have for centuries harbored a spirit of support and mutual
+  aid. It’s time the rest of the country followed their lead.
+date: 2020-07-06T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
