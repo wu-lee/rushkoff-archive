@@ -1,7 +1,7 @@
 ---
 title: We Wish to Inform You That Your Death Is Highly Profitable
-subtitle: 
-date: 2020-03-25T16:00:00.000Z
+subtitle: To Trump, our illnesses and deaths are a necessary cost of doing business
+date: 2020-03-25T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
