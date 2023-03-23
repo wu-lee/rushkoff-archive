@@ -14,7 +14,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 Facebook founder Mark Zuckerberg may one day be remembered less for his social network or his Oculus virtual reality platform than his introduction of the term “meta” into popular awareness. With two parts desperation over a declining subscriber base and one part hope that he could breathe new life into his [dying business model](https://www.forbes.com/sites/dereksaul/2022/11/03/meta-is-the-sp-500s-worst-performer-of-2022-as-losses-near-75/?sh=44d820dd303d), Zuck announced he would be dedicating his time — and the company’s capital — into the supposed next generation of digital life. Facebook became a holding company called Meta.
