@@ -1,7 +1,8 @@
 ---
 title: Coronavirus Is Making Me Believe in the Power of the Internet Again
-subtitle: 
-date: 2020-03-16T16:00:00.000Z
+subtitle: Online resources provide a much better tool for understanding COVID-19 than
+  broadcast news
+date: 2020-03-16T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
