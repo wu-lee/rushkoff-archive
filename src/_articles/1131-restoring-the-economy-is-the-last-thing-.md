@@ -1,7 +1,8 @@
 ---
 title: Restoring the Economy Is the Last Thing We Should Want
-subtitle: 
-date: 2020-04-27T16:00:00.000Z
+subtitle: The sooner we open up the economy, the faster we simply recreate what got
+  us into this mess. It’s time for a radical shift.
+date: 2020-04-27T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 'Blah the Black of Black '
 notes: 
