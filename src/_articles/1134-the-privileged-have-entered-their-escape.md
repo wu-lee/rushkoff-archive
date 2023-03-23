@@ -1,7 +1,7 @@
 ---
 title: The Privileged Have Entered Their Escape Pods
-subtitle: 
-date: 2020-09-01T16:00:00.000Z
+subtitle: Technology gave us the dream of a cocooned future. Now we’re living it.
+date: 2020-09-01T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
