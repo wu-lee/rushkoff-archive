@@ -1,7 +1,8 @@
 ---
 title: Was Humanity Simply Not Ready for the Internet?
-subtitle: 
-date: 2019-11-14T17:00:00.000Z
+subtitle: A 1990s cyber enthusiast considers whether he’s to blame for our digital
+  woes
+date: 2019-11-14T17:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
