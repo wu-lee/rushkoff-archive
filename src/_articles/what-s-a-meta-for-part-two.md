@@ -14,7 +14,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 _Continued from_ [_What’s a Meta For, part one_](https://rushkoff.medium.com/whats-a-meta-for-part-one-f4314414c14f)_, which defined the concept of “going meta” on our reality, and showed how capitalism and technology both inspire an urge to “level up.”_
