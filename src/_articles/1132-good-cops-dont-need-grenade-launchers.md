@@ -1,7 +1,8 @@
 ---
 title: Good Cops Don’t Need Grenade Launchers
-subtitle: 
-date: 2020-06-05T16:00:00.000Z
+subtitle: The militarization of our police goes hand in hand with the collapse of
+  civil society
+date: 2020-06-05T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
