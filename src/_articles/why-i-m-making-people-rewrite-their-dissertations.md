@@ -13,7 +13,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 I’ve been on a bunch of dissertation committees lately, where I’m finding myself to be the tough guy—the last holdout refusing to approve the document. It’s a weird feeling because I don’t really consider myself an academic, much less a rigorous one. I do know some stuff, I wrote a dissertation, I have a PhD, and I’m even a “full” professor at a real university. But I’ve always seen myself as more of a writer, thinker, or even artist than a full-fledged professional scholar. (And I have plenty of colleagues who like to remind me that they feel the same way about me and my oeuvre!)
