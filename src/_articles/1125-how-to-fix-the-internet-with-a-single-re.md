@@ -1,7 +1,8 @@
 ---
 title: How to Fix the Internet With a Single Regulation
-subtitle: 
-date: 2020-01-09T17:00:00.000Z
+subtitle: Algorithms have led to filter bubbles and fueled polarization. It’s time
+  to bring back the tech for a shared reality.
+date: 2020-01-09T17:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
