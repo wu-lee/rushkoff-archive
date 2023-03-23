@@ -11,7 +11,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 I’m supposed to give a talk next week about kids and social media and the need for more media literacy education, more regulation of platforms, and more substantive discussion about how to keep our kids from media-induced self-harm. The whole event is well-meaning, but is characterized by a sense of worry and protection. And for some reason, after years of making those sorts of arguments in my articles and documentaries, I have a strong impulse to pivot the other way.
