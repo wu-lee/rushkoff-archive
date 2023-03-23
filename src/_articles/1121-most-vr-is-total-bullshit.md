@@ -1,7 +1,7 @@
 ---
 title: Most VR Is Total Bullshit
-subtitle: 
-date: 2019-08-26T16:00:00.000Z
+subtitle: How tech companies turned an instrument of human potential into one of exploitation
+date: 2019-08-26T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
