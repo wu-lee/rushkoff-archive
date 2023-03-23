@@ -1,6 +1,6 @@
 ---
 title: Why You Don’t Have to Feel Too Sick About What Happened Last Night
-subtitle: 
+subtitle: A counterintuitively optimistic take on the first presidential debate
 date: 2020-09-30T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
