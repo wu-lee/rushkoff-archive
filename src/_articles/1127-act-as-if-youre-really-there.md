@@ -1,7 +1,8 @@
 ---
 title: Act as if You’re Really There
-subtitle: 
-date: 2020-03-16T16:00:00.000Z
+subtitle: What learning to speak remotely teaches us about how to compensate for the
+  coming era of social distancing
+date: 2020-03-16T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
