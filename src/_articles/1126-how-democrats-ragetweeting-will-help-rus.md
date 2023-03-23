@@ -1,7 +1,8 @@
 ---
 title: How Democrats’ Rage-Tweeting Will Help Russia Weaponize the Election — Again
-subtitle: 
-date: 2020-01-29T17:00:00.000Z
+subtitle: The intraparty social media spats of today will inspire Putin and Co.’s
+  memes of tomorrow
+date: 2020-01-29T17:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
