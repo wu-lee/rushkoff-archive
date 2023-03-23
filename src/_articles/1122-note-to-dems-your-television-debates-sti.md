@@ -1,7 +1,7 @@
 ---
 title: 'Note to Dems: Your Television Debates Stink'
-subtitle: 
-date: 2019-09-10T16:00:00.000Z
+subtitle: Democracy suffers as a dying medium makes one last bid for relevance
+date: 2019-09-10T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
