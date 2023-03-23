@@ -1,7 +1,7 @@
 ---
 title: We Are Not the Virus. We Are the Kamikazes.
-subtitle: 
-date: 2020-04-20T16:00:00.000Z
+subtitle: Covid-19 may be our final, last-gasp revolt
+date: 2020-04-20T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
