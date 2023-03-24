@@ -1,7 +1,7 @@
 ---
 title: Why America Is Playing Vaccine Roulette
-subtitle: 
-date: 2019-07-31T16:00:00.000Z
+subtitle: What the great vaccination debate reveals about our social immune system
+date: 2019-07-31T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
