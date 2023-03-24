@@ -1,7 +1,8 @@
 ---
 title: Operation Mindfuck 2.0
-subtitle: 
-date: 2019-04-24T16:00:00.000Z
+subtitle: The hippies’ effort to destabilize the American dream may have worked too
+  well
+date: 2019-04-24T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
