@@ -1,7 +1,8 @@
 ---
 title: How the Media Produces Trump TV
-subtitle: 
-date: 2019-06-17T16:00:00.000Z
+subtitle: Trump obsesses over cable news not as viewer but as co-producer — watching,
+  learning, and getting better every day
+date: 2019-06-17T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
