@@ -1,7 +1,7 @@
 ---
 title: Time for Progressives to Stop Shaming One Another
-subtitle: 
-date: 2019-04-10T16:00:00.000Z
+subtitle: We need to welcome the newly woke, however imperfect
+date: 2019-04-10T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
