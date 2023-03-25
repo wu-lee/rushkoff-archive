@@ -1,6 +1,7 @@
 ---
 title: Selling the Green New Deal With Positivity
-subtitle: 
+subtitle: We should convince the rich that climate remediation is a sure thing and
+  that they better get in on the ground floor
 date: 2019-02-18T11:56:02.000-05:00
 publication: _publications/medium.md
 blurb: 
