@@ -13,86 +13,76 @@ categories:
 published: false
 
 ---
-The War on Networking 
+The attack on the World Trade Tower is no more an attack on the global economy than it is an attack on the global network. That's right: the Internet we've argued over for the past ten years has been targeted. Given the quality of a lot of what I've read online since the attack, it's hard to be too upset. The Internet is at war with itself, when it should be coming to terms with its real enemies.
 
-Douglas Rushkoff is the author of eight books on media and culture, including Cyberia, Media Virus, Playing the Future, Ecstasy Club and Coercion. His newest novel, Exit Strategy, was published this year and is currently online in a special open-source version at www.yil.com/rushkoff. 
+xxx
 
-Douglas lives in New York City's East Village and teaches at New York University. He writes for newspapers and magazines and lectures at universities and confer- ences worldwide. He has created 
+Volume 47, Number 3
 
-by Douglas Rushkoff 
+\-
 
-content for software, television and film-most recently the Frontline documentary "The Merchants of Cool" for PBS. He frequently appears as a commentator on national television and radio news pro- grams such as NPR. 
+I've watched as people on politically progres- sive mailing lists from Nettime to my own media-squat - have wrestled with the intro- duction of such a glaring discontinuity into their conceptual narratives. Everyone is attempting to "make sense" of the World Trade Center tragedy. Unfortunately, as in any moment when things don't make any real sense, many people are reaching for conspira- cy theories, or retreating into one brand of blind fundamentalism or another. Let's entertain them for a moment.
 
-Douglas is currently writing a book about religion that will be pub- lished next year. He is also working on a graphic novel and animated feature. 
+The Internet conspiracies range from a secret Bush-Bin Laden oil deal to a joint effort by Israel and America to earn support for the war against the Palestinians. These ideas all stem from a sense of responsibility for what hap- pened. Of course. People who have experi- enced networking know that no single force is responsible for such a catastrophe.
 
-The attack on the World Trade Tower is no more an attack on the global economy than it is an attack on the global network. That's right: the Internet we've argued over for the past ten years has been targeted. Given the quality of a lot of what I've read online since the attack, it's hard to be too upset. The Internet is at war with itself, when it should be coming to terms with its real enemies. 
+But we don't need an outlandish theory to see that we have been engaged in a certain kind of war for a long time, and that the rules of that war are changing. Throughout the cold war, we had an agreement with USSR to stay with- in certain parameters of engagement. We maintained nuclear arsenals, generally stayed away from one another's hemispheres, and supported insurgents with money.
 
-Volume 47, Number 3 
+Telemedium, The Journal of Media Literacy
 
-\- 
+Our tactics during this period included train- ing and arming people like Bin Laden. We also supported countries with resources or forms of government we liked. (If we do care to look beneath the surface, our support of Jordan's intentionally repressive monarchy is much more objectionable than our support of Israel's attempted democracy. Alas, the Palestinians don't have any idea how hated they are by the so-called Arab community.) The concrete
 
-I've watched as people on politically progres- sive mailing lists from Nettime to my own media-squat - have wrestled with the intro- duction of such a glaring discontinuity into their conceptual narratives. Everyone is attempting to "make sense" of the World Trade Center tragedy. Unfortunately, as in any moment when things don't make any real sense, many people are reaching for conspira- cy theories, or retreating into one brand of blind fundamentalism or another. Let's entertain them for a moment. 
+All of the relativistic angst and political cri- tique expressed by "we highly educated inter- net-literate computer users" has been made possible by the Western system, born in the Renaissance, crafted in the Enlightenment and enacted in the French and US revolutions.
 
-The Internet conspiracies range from a secret Bush-Bin Laden oil deal to a joint effort by Israel and America to earn support for the war against the Palestinians. These ideas all stem from a sense of responsibility for what hap- pened. Of course. People who have experi- enced networking know that no single force is responsible for such a catastrophe. 
+In order to maintain this system, we have done some very questionable things. And these weren't always the best solutions to the real weren't always the best solutions to the real and seeming threats to our security and well- being. But they were better solutions than most societies employed, and we are getting better all the time. What other nation experi- enced a civil rights movement, or shifted from slavery to affirmative action as quickly as we did? What nation developed an economic sys- tem so robust that it is capable of helping almost any other nation out of crisis? And what nation gives such aid?
 
-But we don't need an outlandish theory to see that we have been engaged in a certain kind of war for a long time, and that the rules of that war are changing. Throughout the cold war, we had an agreement with USSR to stay with- in certain parameters of engagement. We maintained nuclear arsenals, generally stayed away from one another's hemispheres, and supported insurgents with money. 
+Yes, we are crippled by our own brands of fun- damentalism (to the point where we can't even make our pledge to the United Nations) and our own economic extremism (preventing us from signing Kyoto) to our own misunder- standing of global relations (keeping us from the racism conference). We are addicted to oil, blind to many of the plights of others, and spiritually confused.
 
-Telemedium, The Journal of Media Literacy 
+But we are also the economy and military that has maintained this soft cushy society — from no-nuclear zones like New Zealand all the way across the hated United States and over to Europe. We have been the military brunt behind a society dedicated to Judeo-Christian ethical development and Hellenist idealism. You want the truth? You can't handle the truth.
 
-Our tactics during this period included train- ing and arming people like Bin Laden. We also supported countries with resources or forms of government we liked. (If we do care to look beneath the surface, our support of Jordan's intentionally repressive monarchy is much more objectionable than our support of Israel's attempted democracy. Alas, the Palestinians don't have any idea how hated they are by the so-called Arab community.) The concrete 
+conflict. Yes, there are sides. There is the side of Call me Jingoistic, but I'm on "our" side in this
 
-All of the relativistic angst and political cri- tique expressed by "we highly educated inter- net-literate computer users" has been made possible by the Western system, born in the Renaissance, crafted in the Enlightenment and enacted in the French and US revolutions. 
+19
 
-In order to maintain this system, we have done some very questionable things. And these weren't always the best solutions to the real weren't always the best solutions to the real and seeming threats to our security and well- being. But they were better solutions than most societies employed, and we are getting better all the time. What other nation experi- enced a civil rights movement, or shifted from slavery to affirmative action as quickly as we did? What nation developed an economic sys- tem so robust that it is capable of helping almost any other nation out of crisis? And what nation gives such aid? 
+3\. The hyper-intellectual neo-communists of the Internet (particularly, the Nettime list from which I have now unsubscribed) who snicker at our losses, and believe that America deserves such an attack as revenge for its actions in Kosovo (saving a race from genocide), or the corporate policies of the Gap.
 
-Yes, we are crippled by our own brands of fun- damentalism (to the point where we can't even make our pledge to the United Nations) and our own economic extremism (preventing us from signing Kyoto) to our own misunder- standing of global relations (keeping us from the racism conference). We are addicted to oil, blind to many of the plights of others, and spiritually confused. 
+\-
 
-But we are also the economy and military that has maintained this soft cushy society — from no-nuclear zones like New Zealand all the way across the hated United States and over to Europe. We have been the military brunt behind a society dedicated to Judeo-Christian ethical development and Hellenist idealism. You want the truth? You can't handle the truth. 
+All three groups are fundamentalists, who are clinging to a world view that tolerance, inter- active media, and yes - capitalism tend to erode. We are all in this together. Abortionists and mothers, Arab and Jew, libertarian and communist.
 
-conflict. Yes, there are sides. There is the side of Call me Jingoistic, but I'm on "our" side in this 
+Take a good hard look at who is attempting to create structures within which everyone can live in peace, and who is not. Which looks more like pluralism to you? Old Jerusalem or Jordan? New York or Tehran? Introspection and self-loathing are extremely positive when they can be used to make real changes to one's outlooks and behaviors. But they can be crippling when taken too far, or when they're indulged at the wrong moment.
 
-19 
+Similarly, fist-waving and hyper-patriotic rhet- oric seems, to me, like a retreat into the sym- bols of an ancient war rather than an expres- sion of the values we aim to defend.
 
-3\. The hyper-intellectual neo-communists of the Internet (particularly, the Nettime list from which I have now unsubscribed) who snicker at our losses, and believe that America deserves such an attack as revenge for its actions in Kosovo (saving a race from genocide), or the corporate policies of the Gap. 
+This is an opportunity to take our ongoing struggle for plurality and human creativity to the next level. For more consciousness, not
 
-\- 
+less. For the dismantling of a war machine that is, in part, our own creation. For the spread of value like property ownership and democracy, which lead inevitably towards rule of law and protection of human rights. People need to
 
-All three groups are fundamentalists, who are clinging to a world view that tolerance, inter- active media, and yes - capitalism tend to erode. We are all in this together. Abortionists and mothers, Arab and Jew, libertarian and communist. 
+The war will be fought on a cultural and ideo- have something at stake.
 
-Take a good hard look at who is attempting to create structures within which everyone can live in peace, and who is not. Which looks more like pluralism to you? Old Jerusalem or Jordan? New York or Tehran? Introspection and self-loathing are extremely positive when they can be used to make real changes to one's outlooks and behaviors. But they can be crippling when taken too far, or when they're indulged at the wrong moment. 
+karmic result of US policy is that the monsters pluralism, creativity, and free will, and there is logical level. We must come to understand
 
-Similarly, fist-waving and hyper-patriotic rhet- oric seems, to me, like a retreat into the sym- bols of an ancient war rather than an expres- sion of the values we aim to defend. 
+we create eventually turn on us.
 
-This is an opportunity to take our ongoing struggle for plurality and human creativity to the next level. For more consciousness, not 
+And all of this is being fairly well reported by mainstream American media channels like the New York Times and network news. (If Fox news is focusing on patriotism and Olympic- games-like heartwarming narratives, so be it. That's what old-style right-wing media is for.)
 
-less. For the dismantling of a war machine that is, in part, our own creation. For the spread of value like property ownership and democracy, which lead inevitably towards rule of law and protection of human rights. People need to 
+A few embassy bombings were not enough to show us what we had created. The World Trade Center was. We have made terrible mis- takes in our ongoing war effort. And the very people that the USSR and the USA were once fighting over are now fighting against us.
 
-The war will be fought on a cultural and ideo- have something at stake. 
+But whatever role we historically played, and however ineffectual our strategy, what we have been aiming to support over the past couple of centuries is creativity and free will.
 
-karmic result of US policy is that the monsters pluralism, creativity, and free will, and there is logical level. We must come to understand 
+the side of intolerance, dogma, and repression. American idealism has its problems, but it's meant to be about freedom, not decrees. The Internet is one of the best tools, yet, for extend- ing this sensibility.
 
-we create eventually turn on us. 
+So far, the rhetoric against the United States
 
-And all of this is being fairly well reported by mainstream American media channels like the New York Times and network news. (If Fox news is focusing on patriotism and Olympic- games-like heartwarming narratives, so be it. That's what old-style right-wing media is for.) 
+has come from three main camps:
 
-A few embassy bombings were not enough to show us what we had created. The World Trade Center was. We have made terrible mis- takes in our ongoing war effort. And the very people that the USSR and the USA were once fighting over are now fighting against us. 
+1\. The extreme fundamentalists who perpe- trated the attacks, as well as their extremely under-educated and impoverished support
 
-But whatever role we historically played, and however ineffectual our strategy, what we have been aiming to support over the past couple of centuries is creativity and free will. 
+ers.
 
-the side of intolerance, dogma, and repression. American idealism has its problems, but it's meant to be about freedom, not decrees. The Internet is one of the best tools, yet, for extend- ing this sensibility. 
+2\. The extreme fundamentalists within our own borders, such as Pat Robertson and Jerry Falwell, who blame the sins of females, homosexuals, and civil libertarians for the WTC attack, and who like the terrorists - suggest that we are being punished by God.
 
-So far, the rhetoric against the United States 
+\-
 
-has come from three main camps: 
-
-1\. The extreme fundamentalists who perpe- trated the attacks, as well as their extremely under-educated and impoverished support 
-
-ers. 
-
-2\. The extreme fundamentalists within our own borders, such as Pat Robertson and Jerry Falwell, who blame the sins of females, homosexuals, and civil libertarians for the WTC attack, and who like the terrorists - suggest that we are being punished by God. 
-
-\- 
-
-what conditions lead people to surrender their free will, and live by decree instead of choice – and then we must fight to eradicate those con- ditions. We must continue to develop cultural and spiritual tools that help people appreciate the value of human life. We must encourage the notion of free will and free expression, along with the resistance to social program- ming. We must protect and extend an interac- tive mediaspace, which promotes collectivism and creativity over isolationism and funda- mentalism. 
+what conditions lead people to surrender their free will, and live by decree instead of choice – and then we must fight to eradicate those con- ditions. We must continue to develop cultural and spiritual tools that help people appreciate the value of human life. We must encourage the notion of free will and free expression, along with the resistance to social program- ming. We must protect and extend an interac- tive mediaspace, which promotes collectivism and creativity over isolationism and funda- mentalism.
 
 It's time to network.
