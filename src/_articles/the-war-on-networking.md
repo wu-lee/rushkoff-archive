@@ -15,15 +15,11 @@ published: false
 ---
 The attack on the World Trade Tower is no more an attack on the global economy than it is an attack on the global network. That's right: the Internet we've argued over for the past ten years has been targeted. Given the quality of a lot of what I've read online since the attack, it's hard to be too upset. The Internet is at war with itself, when it should be coming to terms with its real enemies.
 
+I've watched as people on politically progressive mailing lists -- from Nettime to my own media-squat -- have wrestled with the introduction of such a glaring discontinuity into their conceptual narratives. Everyone is attempting to "make sense" of the World Trade Center tragedy. Unfortunately, as in any moment when things don't make any real sense, many people are reaching for conspiracy theories, or retreating into one brand of blind fundamentalism or another. Let's entertain them for a moment.
+
+The Internet conspiracies range from a secret Bush-Bin Laden oil deal to a joint effort by Israel and America to earn support for the war against the Palestinians. These ideas all stem from a sense of responsibility for what happened. Of course. People who have experienced networking know that no single force is responsible for such a catastrophe.
+
 xxx
-
-Volume 47, Number 3
-
-\-
-
-I've watched as people on politically progres- sive mailing lists from Nettime to my own media-squat - have wrestled with the intro- duction of such a glaring discontinuity into their conceptual narratives. Everyone is attempting to "make sense" of the World Trade Center tragedy. Unfortunately, as in any moment when things don't make any real sense, many people are reaching for conspira- cy theories, or retreating into one brand of blind fundamentalism or another. Let's entertain them for a moment.
-
-The Internet conspiracies range from a secret Bush-Bin Laden oil deal to a joint effort by Israel and America to earn support for the war against the Palestinians. These ideas all stem from a sense of responsibility for what hap- pened. Of course. People who have experi- enced networking know that no single force is responsible for such a catastrophe.
 
 But we don't need an outlandish theory to see that we have been engaged in a certain kind of war for a long time, and that the rules of that war are changing. Throughout the cold war, we had an agreement with USSR to stay with- in certain parameters of engagement. We maintained nuclear arsenals, generally stayed away from one another's hemispheres, and supported insurgents with money.
 
