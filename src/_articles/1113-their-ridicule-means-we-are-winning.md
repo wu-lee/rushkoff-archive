@@ -1,7 +1,7 @@
 ---
 title: Their Ridicule Means We Are Winning
-subtitle: 
-date: 2019-02-20T17:00:00.000Z
+subtitle: There’s something happening here
+date: 2019-02-20T17:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
