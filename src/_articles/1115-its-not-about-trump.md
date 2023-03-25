@@ -1,7 +1,7 @@
 ---
 title: It’s Not About Trump
-subtitle: 
-date: 2019-03-27T16:00:00.000Z
+subtitle: How the left succumbed to the cult of Trump
+date: 2019-03-27T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
