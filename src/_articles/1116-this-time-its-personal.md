@@ -1,7 +1,7 @@
 ---
 title: This Time, It’s Personal
-subtitle: 
-date: 2019-04-03T16:00:00.000Z
+subtitle: How digital technology alienates you from your soul
+date: 2019-04-03T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
