@@ -1,7 +1,7 @@
 ---
 title: Why ‘Nation’ Is the Word of the Year
-subtitle: 
-date: 2018-12-11T17:00:00.000Z
+subtitle: Virulent nationalism proves the U.S. was founded on a myth
+date: 2018-12-11T17:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
