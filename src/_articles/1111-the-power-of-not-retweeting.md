@@ -1,6 +1,6 @@
 ---
 title: The Power of Not Retweeting
-subtitle: 
+subtitle: I was outraged by a tweet. I didn’t share it.
 date: 2019-01-30T00:00:00.000-05:00
 publication: _publications/medium.md
 blurb: 
