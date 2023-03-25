@@ -1,7 +1,8 @@
 ---
 title: The Epidemic of Civic Amnesia Is Spreading to Liberals
-subtitle: 
-date: 2018-11-14T17:00:00.000Z
+subtitle: When supposed progressives go wobbly on social justice, we need to engage
+  them, not ignore them
+date: 2018-11-14T17:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
