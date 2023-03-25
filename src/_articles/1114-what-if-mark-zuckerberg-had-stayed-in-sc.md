@@ -1,7 +1,8 @@
 ---
 title: What If Mark Zuckerberg Had Stayed in School?
-subtitle: 
-date: 2019-03-21T16:00:00.000Z
+subtitle: Two more years at Harvard would have taught him some valuable lessons —
+  and changed the course of Facebook
+date: 2019-03-21T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
