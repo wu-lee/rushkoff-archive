@@ -27,43 +27,15 @@ For me, the impact on our civilization of gaming and interactive play is no less
 
 I have come to liken the experience of a gamer to that of an individual, or even a civilization, maturing. Gamers appear to move through three main phases — three main relationships to the games they play. The first is when one plays the game out of the box. The player reads the rules, like anyone else. And then he plays the game the way one is really supposed to — by the rules. But when he either makes it to the end of the game or gets bored trying to get to the end, the player goes online into a chat room or onto a user group and gets cheat codes for the game. So he goes back and plays the game as a cheater. I suppose the question is: Is the cheater playing the game or not?
 
+I would argue yes, the cheater is playing the game, but now she is playing the metagame; playing the game from outside its original frame, but still playing. The stakes of the game still matter. Besides, the cheat codes are written by the programmers — it is not magic. The cheat codes were written in, and sometimes they are printed in the game magazines because it is an accepted part of the game to go outside the game. So now when someone goes through, say, the dungeons of Doom,2 she has invisibility, or can walk through walls, or has infinite ammunition. So a cheater plays the game that way, the metagame, and when she gets bored with that, then what?
+
+A great gamer — a true gamer — goes back online and finds out how the game was programmed. So now if one is a Doom player, one goes from being a Doom player to a super Doom player (or doom cheater), to becoming a full-fledged Doom programmer.
+
+2\. Doom, a well known first-person shooter game, was created by ActiVision. The player battles other online players as well as stampeding demons, horrific cyber-organic mongrels, and undead Marines in dungeon-like Martian mazes.
+
+The programmer creates her .wad files — her own levels of the game. She might create a simulation of her own high school floor plan so that players can go and actually play Doom in corridors that look like her own high school. Or a more advanced programmer — with a more advanced vision — might choose to alter the game so characters do not carry guns, but magic wands. I saw one version of a Doom game where, instead of shooting people, players used magic spells to turn one another into creatures. The game can continue to evolve in new directions. Making new levels becomes the game play.
+
 xxx
-
-—
-
-\-
-
-it is not
-
-I would argue yes, the cheater is playing the game, but now she is playing the metagame; playing the game from outside its original frame, but still playing. The stakes of the game still matter. Be- sides, the cheat codes are written by the programmers magic. The cheat codes were written in, and sometimes they are printed in the game magazines because it is an accepted part of the game to go outside the game. So now when someone goes through, say, the dungeons of Doom,2 she has invisibility, or can walk through walls, or has infinite ammunition. So a cheater plays the game that way, the metagame, and when she gets bored with that, then what?
-
-\-
-
-A great gamer a true gamer
-
-goes back online and finds out how the game was programmed. So now if one is a Doom player, one goes from being a Doom player to a super Doom player (or doom cheater), to becoming a full-fledged Doom programmer.
-
-2\.
-
-Doom, a well known first-person shooter game, was created by ActiVision. The player battles other online players as well as stampeding demons, horrific cyber-organic
-
-mongrels, and undead Marines in dungeon-like Martian mazes.
-
-2004\]
-
-\-
-
-THE NEW ALPHABET
-
-—
-
-47
-
-The programmer creates her .wad files her own levels of the game. She might create a simulation of her own high school floor plan so that players can go and actually play Doom in corridors that look like her own high school. Or a more advanced programmer
-
-with a more advanced vision
-
-might choose to alter the game so characters do not carry guns, but magic wands. I saw one version of a Doom game where, instead of shooting people, players used magic spells to turn one another into creatures. The game can continue to evolve in new directions. Making new levels becomes the game play.
 
 So gamers move from being just out-of-the-box players or re- ceivers of the game to becoming cheaters of the game to finally becoming programmers of the game. And I see those three stages as the same stages that a human being passes through as he or she develops or that a civilization passes through as it develops. What I am looking at in my work is whether or not the moment that we are in right now is a renaissance on the order of the Renaissance of the 1500s whether civilization, just like a gamer, moves through those three stages.
 
