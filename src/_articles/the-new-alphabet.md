@@ -13,31 +13,21 @@ categories:
 published: false
 
 ---
-Before the advent of Judaism and the alphabet, written communication took the form of hieroglyphics.1 Most of us forget that hieroglyphics means "priestly writing," which it was, because only priests had the time to learn the five or six thousand characters, so it was an elitist form of writing. Subsequently, the original Hebrew twenty-two-letter alphabet changed the equation because all one had to do was learn these twenty-two characters and one would have access to literature -- to the story, to the code -- and it changed everything. Now that people could read and write, they wanted to participate in creating the laws by which they lived instead of just receiving the laws from the gods, or accepting things as they were.
+Before the advent of Judaism and the alphabet, written communication took the form of hieroglyphics.1 Most of us forget that hieroglyphics means "priestly writing," which it was, because only priests had the time to learn the five or six thousand characters, so it was an elitist form of writing. Subsequently, the original Hebrew twenty-two-letter alphabet changed the equation because all one had to do was learn these twenty-two characters and one would have access to literature — to the story, to the code — and it changed everything. Now that people could read and write, they wanted to participate in creating the laws by which they lived instead of just receiving the laws from the gods, or accepting things as they were.
 
-Instead of simply inheriting reality, people felt that they could now contribute to the creation of reality -- that they could actually be authors of the human story. And thus history begins. There is a passage very early in the Bible where God says to Abraham, "you will be a nation of priests." For a long time Jews have taken this to mean, “Oh, we're going to be the priests, and have the little yarmulkes and wear the robes and so on." I do not think the Hebrews' God was saying they would be a nation of actual priests. For to call them priests simply means they would be literate. He was saying they would be a literate nation. That is the miracle of it. It is imagining a nation of people who can actually read and write, and who would actually be literate. And of course, it was so unprecedented they needed to have a revolution in order to do that, hence the metaphor of the Exodus -- the escape from bondage.
+Instead of simply inheriting reality, people felt that they could now contribute to the creation of reality — that they could actually be authors of the human story. And thus history begins. There is a passage very early in the Bible where God says to Abraham, "you will be a nation of priests." For a long time Jews have taken this to mean, “Oh, we're going to be the priests, and have the little yarmulkes and wear the robes and so on." I do not think the Hebrews' God was saying they would be a nation of actual priests. For to call them priests simply means they would be literate. He was saying they would be a literate nation. That is the miracle of it. It is imagining a nation of people who can actually read and write, and who would actually be literate. And of course, it was so unprecedented they needed to have a revolution in order to do that, hence the metaphor of the Exodus — the escape from bondage.
 
 \+ This essay was adapted from remarks presented at the State of Play conference held on November 15, 2003 at New York Law School.
 
 \* Rushkoff is the author of eight best-selling books on new media and popular culture, and is the founder of, and teaches at The Narrative Lab at New York University's Interactive Telecommunications Program. A.B. Princeton University (1983); M.F.A. California Institute of the Arts, 1986; MFA The American Film Institute, 1987.
 
-xxx
-
 1\. I recently wrote a book on Judaism and someone said to me, "Oh, so are you back working in media and games after finishing 'the Judaism thing'?" But to me, they are the same subject, the very same topic. I find it fascinating that people view media and religion as two different subject areas. Because as a media theorist, or at least as a media lover, I see the invention of Judaism as a result of some very ancient new media. In fact, the religion itself might best be understood as a call for media literacy.
 
-45
+For me, the impact on our civilization of gaming and interactive play is no less profound than that of literacy. I think it is potentially that big a thing. I do not mean video games themselves will prove to launch such a fabulous, earth-shattering social or artistic movement. I do not play video or computer games often, having tired of them after a few years. But as a metaphor, along with interactive media in general, games are extremely important for me.
 
-46
+I have come to liken the experience of a gamer to that of an individual, or even a civilization, maturing. Gamers appear to move through three main phases — three main relationships to the games they play. The first is when one plays the game out of the box. The player reads the rules, like anyone else. And then he plays the game the way one is really supposed to — by the rules. But when he either makes it to the end of the game or gets bored trying to get to the end, the player goes online into a chat room or onto a user group and gets cheat codes for the game. So he goes back and plays the game as a cheater. I suppose the question is: Is the cheater playing the game or not?
 
-NEW YORK LAW SCHOOL LAW REVIEW
-
-\[Vol. 49
-
-For me, the impact on our civilization of gaming and interac- tive play is no less profound than that of literacy. I think it is poten- tially that big a thing. I do not mean video games themselves will prove to launch such a fabulous, earth-shattering social or artistic movement. I do not play video or computer games often, having tired of them after a few years. But as a metaphor, along with inter- active media in general, games are extremely important for me.
-
-—
-
-I have come to liken the experience of a gamer to that of an individual, or even a civilization, maturing. Gamers appear to move through three main phases three main relationships to the games they play. The first is when one plays the game out of the box. The player reads the rules, like anyone else. And then he plays the game the way one is really supposed to by the rules. But when he either makes it to the end of the game or gets bored trying to get to the end, the player goes online into a chat room or onto a user group and gets cheat codes for the game. So he goes back and plays the game as a cheater. I suppose the question is: Is the cheater playing the game or not?
+xxx
 
 —
 
