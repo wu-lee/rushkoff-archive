@@ -45,24 +45,4 @@ There are analogues to each of these innovations in our current renaissance. The
 
 And so we move, from being receivers to being interpreters to being authors. I think that the experience of doing that, especially for kids who are playing games and who are experiencing this most readily, changes our relationship to the world at large. That was the thing that interested me about the intersection of law and games: it changes our relationship to the whole notion of law, to the codes by which we live. We no longer believe we are living in a world where these are the given circumstances. We start to understand that the laws by which we live, the codes by which we live, the cities, the planning, the world that we are in are not just sets of given circumstances. These realities are planned; they are designed by other human beings. We now understand that we can enter into any realm and become a designer.
 
-xxx
-
-So for me, what we are doing historically is going from the very end of post-modernism to the next thing. Unlike my French coun- terparts, I am not worried about descending into ontological rela- tivism or moving into this haze where every narrative is equal. I am not worried that everything is being deconstructed and will ulti- mately fall to pieces. This is the next thing, really. Post-modernism is about taking everything apart. We have done that
-
-new alphabet. We are ready
-
-we have our
-
-\-
-
-or at least our kids our ready to become the new authors, to use these pieces as the componentry of the next language and the next narrative that they will write to-
-
-2004\]
-
-nomenon
-
-THE NEW ALPHABET
-
-49
-
-gether. They are experiencing themselves as co-creators of reality. They are seeing the world they are living in as an open source phe- if you learn the code by which this collective narrative is being written, and if you fight for access to those codes, you can actually change things. Each person is a potential author, and I think this is a fundamentally different relationship to law, to code, and perhaps even to reality itself than prior generations have known. This is one of the more important ways in which society could be changed as a result of interactive games and the sensibility that they bring with them.
+So for me, what we are doing historically is going from the very end of post-modernism to the next thing. Unlike my French counterparts, I am not worried about descending into ontological relativism or moving into this haze where every narrative is equal. I am not worried that everything is being deconstructed and will ultimately fall to pieces. This is the next thing, really. Post-modernism is about taking everything apart. We have done that — we have our new alphabet. We are ready — or at least our kids our ready — to become the new authors, to use these pieces as the componentry of the next language and the next narrative that they will write together. They are experiencing themselves as co-creators of reality. They are seeing the world they are living in as an open source phenomenon — if you learn the code by which this collective narrative is being written, and if you fight for access to those codes, you can actually change things. Each person is a potential author, and I think this is a fundamentally different relationship to law, to code, and perhaps even to reality itself than prior generations have known. This is one of the more important ways in which society could be changed as a result of interactive games and the sensibility that they bring with them.
