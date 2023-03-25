@@ -35,29 +35,15 @@ A great gamer — a true gamer — goes back online and finds out how the game w
 
 The programmer creates her .wad files — her own levels of the game. She might create a simulation of her own high school floor plan so that players can go and actually play Doom in corridors that look like her own high school. Or a more advanced programmer — with a more advanced vision — might choose to alter the game so characters do not carry guns, but magic wands. I saw one version of a Doom game where, instead of shooting people, players used magic spells to turn one another into creatures. The game can continue to evolve in new directions. Making new levels becomes the game play.
 
+So gamers move from being just out-of-the-box players or receivers of the game to becoming cheaters of the game to finally becoming programmers of the game. And I see those three stages as the same stages that a human being passes through as he or she develops or that a civilization passes through as it develops. What I am looking at in my work is whether or not the moment that we are in right now is a renaissance on the order of the Renaissance of the 1500s — whether civilization, just like a gamer, moves through those three stages.
+
+The Renaissance moved us from being passive recipients of data and narrative, into becoming more active interpreters of the stories by which we live. The current renaissance would be bringing us from interpretation into authorship.
+
+Consider the innovations of the original Renaissance — all the stuff we learned about in school: perspective paintings, which allowed a flat medium to represent three dimensions, circumnavigating the globe, which changed maps of the world from flat to round, the extended metaphor and the Spenserian sonnet, which allowed for dimensionality in literature, calculus, which allowed us to relate one dimension to another mathematically, and finally, the printing press, which gave people the ability to have their own perspective on literature. Instead of just one manuscript being handed to one person, it could now be sent to a great many people who would each have their own perspectives on it and, of course, challenge the single authoritarian perspective on it.
+
+There are analogues to each of these innovations in our current renaissance. The analogue of perspective painting is virtual reality, but instead of just having a deeper perspective on something, we can now actually go inside and change it. We can change this world from the inside. Instead of having the ability to circumnavigate the globe, we have the ability to blow up the globe. I think this is more significant than the ability to see the globe from space. Now we have some sort of authorship or at least destructive capacity; we can blow this entire thing up. Instead of the extended metaphor or sonnet that allows us to have one form of comparison, we have hypertext, which allows us to relate anything to anything else. Instead of calculus, we have chaos math and fractals, which shows each person, each unit of anything, has tremendous potential — each point in a system is a high leverage point capable of changing the entire system. And instead of the printing press, which allows everyone to have their own perspective, we have the computer and the Internet, which allows everyone to express his or her own perspective on the story.
+
 xxx
-
-So gamers move from being just out-of-the-box players or re- ceivers of the game to becoming cheaters of the game to finally becoming programmers of the game. And I see those three stages as the same stages that a human being passes through as he or she develops or that a civilization passes through as it develops. What I am looking at in my work is whether or not the moment that we are in right now is a renaissance on the order of the Renaissance of the 1500s whether civilization, just like a gamer, moves through those three stages.
-
-—
-
-The Renaissance moved us from being passive recipients of data and narrative, into becoming more active interpreters of the stories by which we live. The current renaissance would be bring- ing us from interpretation into authorship.
-
-\-
-
-Consider the innovations of the original Renaissance all the stuff we learned about in school: perspective paintings, which al- lowed a flat medium to represent three dimensions, circumnavigat- ing the globe, which changed maps of the world from flat to round, the extended metaphor and the Spenserian sonnet, which allowed for dimensionality in literature, calculus, which allowed us to relate one dimension to another mathematically, and finally, the printing press, which gave people the ability to have their own perspective on literature. Instead of just one manuscript being handed to one person, it could now be sent to a great many people who would each have their own perspectives on it and, of course, challenge the single authoritarian perspective on it.
-
-There are analogues to each of these innovations in our cur- rent renaissance. The analogue of perspective painting is virtual reality, but instead of just having a deeper perspective on some-
-
-48
-
-NEW YORK LAW SCHOOL LAW REVIEW
-
-\[Vol. 49
-
-this world from the inside. Instead of having the ability to circum- thing, we can now actually go inside and change it. We can change navigate the globe, we have the ability to blow up the globe. I think this is more significant than the ability to see the globe from space. Now we have some sort of authorship or at least destructive capac- ity; we can blow this entire thing up. Instead of the extended meta- phor or sonnet that allows us to have one form of comparison, we have hypertext, which allows us to relate anything to anything else. Instead of calculus, we have chaos math and fractals, which shows each person, each unit of anything, has tremendous potential each point in a system is a high leverage point capable of changing the entire system. And instead of the printing press, which allows everyone to have their own perspective, we have the computer and the Internet, which allows everyone to express his or her own per- spective on the story.
-
-\-
 
 And so we move, from being receivers to being interpreters to being authors. I think that the experience of doing that, especially for kids who are playing games and who are experiencing this most readily, changes our relationship to the world at large. That was the thing that interested me about the intersection of law and games: it changes our relationship to the whole notion of law, to the codes by which we live. We no longer believe we are living in a world where these are the given circumstances. We start to under- stand that the laws by which we live, the codes by which we live, the cities, the planning, the world that we are in are not just sets of given circumstances. These realities are planned; they are designed by other human beings. We now understand that we can enter into any realm and become a designer.
 
