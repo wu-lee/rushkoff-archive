@@ -1,7 +1,7 @@
 ---
 title: The Anti-Human Religion of Silicon Valley
-subtitle: 
-date: 2018-12-12T17:00:00.000Z
+subtitle: How an esoteric Russian religion still fuels the digital apocalypse
+date: 2018-12-12T17:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
