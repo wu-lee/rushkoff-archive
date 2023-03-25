@@ -1,7 +1,8 @@
 ---
 title: How We All Became Russia’s ‘Useful Idiots’
-subtitle: 
-date: 2018-12-05T17:00:00.000Z
+subtitle: Nationalism may have started as a side effect of fake news, but it’s quickly
+  becoming the new American way
+date: 2018-12-05T17:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
