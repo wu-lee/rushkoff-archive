@@ -57,14 +57,6 @@ Similarly, fist-waving and hyper-patriotic rhetoric seems, to me, like a retreat
 
 This is an opportunity to take our ongoing struggle for plurality and human creativity to the next level. For more consciousness, not less. For the dismantling of a war machine that is, in part, our own creation. For the spread of value like property ownership and democracy, which lead inevitably towards rule of law and protection of human rights. People need to have something at stake.
 
-xxx
-
-The war will be fought on a cultural and ideo- 
-
-understand
-
-\-
-
-what conditions lead people to surrender their free will, and live by decree instead of choice – and then we must fight to eradicate those con- ditions. We must continue to develop cultural and spiritual tools that help people appreciate the value of human life. We must encourage the notion of free will and free expression, along with the resistance to social program- ming. We must protect and extend an interac- tive mediaspace, which promotes collectivism and creativity over isolationism and funda- mentalism.
+The war will be fought on a cultural and ideological level. We must come to understand what conditions lead people to surrender their free will, and live by decree instead of choice - and then we must fight to eradicate those conditions. We must continue to develop cultural and spiritual tools that help people appreciate the value of human life. We must encourage the notion of free will and free expression, along with the resistance to social programming. We must protect and extend an interactive mediaspace, which promotes collectivism and creativity over isolationism and fundamentalism.
 
 It's time to network.
