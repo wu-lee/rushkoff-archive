@@ -1,7 +1,8 @@
 ---
 title: Hiding America From Americans
-subtitle: 
-date: 2018-11-01T16:00:00.000Z
+subtitle: How we sold the world a picture of America more enlightened than Americans
+  could tolerate
+date: 2018-11-01T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
