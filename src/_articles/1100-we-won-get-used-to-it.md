@@ -1,7 +1,8 @@
 ---
 title: 'We Won: Get Used to It'
-subtitle: 
-date: 2018-10-04T16:00:00.000Z
+subtitle: 'What happens when the counterculture becomes mainstream? Hint: the mainstream
+  becomes the counterculture.'
+date: 2018-10-04T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
