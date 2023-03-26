@@ -1,7 +1,7 @@
 ---
 title: Democrats Are Killing It on Prestige TV
-subtitle: 
-date: 2018-10-26T16:00:00.000Z
+subtitle: But conservatives have reality TV — and reality itself — on lock
+date: 2018-10-26T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
