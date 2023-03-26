@@ -1,7 +1,7 @@
 ---
 title: The Trump Cult?
-subtitle: 
-date: 2018-08-17T16:00:00.000Z
+subtitle: A charismatic leader, mind control, and other telltale signs
+date: 2018-08-17T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
