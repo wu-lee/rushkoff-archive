@@ -45,27 +45,21 @@ So far, the rhetoric against the United States has come from three main camps:
 
 2\. The extreme fundamentalists within our own borders, such as Pat Robertson and Jerry Falwell, who blame the sins of females, homosexuals, and civil libertarians for the WTC attack, and who — like the terrorists — suggest that we are being punished by God.
 
-xxx
-
-logical level. We must come to 
-
-19
-
 3\. The hyper-intellectual neo-communists of the Internet (particularly, the Nettime list from which I have now unsubscribed) who snicker at our losses, and believe that America deserves such an attack as revenge for its actions in Kosovo (saving a race from genocide), or the corporate policies of the Gap.
 
-\-
+All three groups are fundamentalists, who are clinging to a world view that tolerance, interactive media, and - yes - capitalism tend to erode. We are all in this together. Abortionists and mothers, Arab and Jew, libertarian and communist.
 
-All three groups are fundamentalists, who are clinging to a world view that tolerance, inter- active media, and yes - capitalism tend to erode. We are all in this together. Abortionists and mothers, Arab and Jew, libertarian and communist.
+Take a good hard look at who is attempting to create structures within which everyone can live in peace, and who is not. Which looks more like pluralism to you? Old Jerusalem or Jordan? New York or Tehran?
 
-Take a good hard look at who is attempting to create structures within which everyone can live in peace, and who is not. Which looks more like pluralism to you? Old Jerusalem or Jordan? New York or Tehran? Introspection and self-loathing are extremely positive when they can be used to make real changes to one's outlooks and behaviors. But they can be crippling when taken too far, or when they're indulged at the wrong moment.
+Introspection and self-loathing are extremely positive when they can be used to make real changes to one's outlooks and behaviors. But they can be crippling when taken too far, or when they're indulged at the wrong moment.
 
-Similarly, fist-waving and hyper-patriotic rhet- oric seems, to me, like a retreat into the sym- bols of an ancient war rather than an expres- sion of the values we aim to defend.
+Similarly, fist-waving and hyper-patriotic rhetoric seems, to me, like a retreat into the symbols of an ancient war rather than an expression of the values we aim to defend.
 
-This is an opportunity to take our ongoing struggle for plurality and human creativity to the next level. For more consciousness, not
+This is an opportunity to take our ongoing struggle for plurality and human creativity to the next level. For more consciousness, not less. For the dismantling of a war machine that is, in part, our own creation. For the spread of value like property ownership and democracy, which lead inevitably towards rule of law and protection of human rights. People need to have something at stake.
 
-less. For the dismantling of a war machine that is, in part, our own creation. For the spread of value like property ownership and democracy, which lead inevitably towards rule of law and protection of human rights. People need to
+xxx
 
-The war will be fought on a cultural and ideo- have something at stake.
+The war will be fought on a cultural and ideo- 
 
 understand
 
