@@ -25,11 +25,15 @@ Our tactics during this period included training and arming people like Bin Lade
 
 And all of this is being fairly well reported by mainstream American media channels like the New York Times and network news. (If Fox news is focusing on patriotism and Olympic-games-like heartwarming narratives, so be it. That's what old-style right-wing media is for.)
 
+A few embassy bombings were not enough to show us what we had created. The World Trade Center was. We have made terrible mistakes in our ongoing war effort. And the very people that the USSR and the USA were once fighting over are now fighting against us.
+
+But whatever role we historically played, and however ineffectual our strategy, what we have been aiming to support over the past couple of centuries is creativity and free will.
+
+All of the relativistic angst and political critique expressed by "we highly educated internet-literate computer users" has been made possible by the Western system, born in the Renaissance, crafted in the Enlightenment and enacted in the French and US revolutions.
+
+In order to maintain this system, we have done some very questionable things. And these weren't always the best solutions to the real and seeming threats to our security and well-being. But they were better solutions than most societies employed, and we are getting better all the time. What other nation experienced a civil rights movement, or shifted from slavery to affirmative action as quickly as we did? What nation developed an economic system so robust that it is capable of helping almost any other nation out of crisis? And what nation gives such aid?
+
 xxx
-
-All of the relativistic angst and political cri- tique expressed by "we highly educated inter- net-literate computer users" has been made possible by the Western system, born in the Renaissance, crafted in the Enlightenment and enacted in the French and US revolutions.
-
-In order to maintain this system, we have done some very questionable things. And these weren't always the best solutions to the real weren't always the best solutions to the real and seeming threats to our security and well- being. But they were better solutions than most societies employed, and we are getting better all the time. What other nation experi- enced a civil rights movement, or shifted from slavery to affirmative action as quickly as we did? What nation developed an economic sys- tem so robust that it is capable of helping almost any other nation out of crisis? And what nation gives such aid?
 
 Yes, we are crippled by our own brands of fun- damentalism (to the point where we can't even make our pledge to the United Nations) and our own economic extremism (preventing us from signing Kyoto) to our own misunder- standing of global relations (keeping us from the racism conference). We are addicted to oil, blind to many of the plights of others, and spiritually confused.
 
@@ -56,10 +60,6 @@ less. For the dismantling of a war machine that is, in part, our own creation. F
 The war will be fought on a cultural and ideo- have something at stake.
 
  pluralism, creativity, and free will, and there is logical level. We must come to understand
-
-A few embassy bombings were not enough to show us what we had created. The World Trade Center was. We have made terrible mis- takes in our ongoing war effort. And the very people that the USSR and the USA were once fighting over are now fighting against us.
-
-But whatever role we historically played, and however ineffectual our strategy, what we have been aiming to support over the past couple of centuries is creativity and free will.
 
 the side of intolerance, dogma, and repression. American idealism has its problems, but it's meant to be about freedom, not decrees. The Internet is one of the best tools, yet, for extend- ing this sensibility.
 
