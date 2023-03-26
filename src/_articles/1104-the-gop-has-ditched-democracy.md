@@ -1,6 +1,7 @@
 ---
-title: The GOP Has Ditched Democracy
-subtitle: 
+title: Democracy Is Not a Failed Experiment
+subtitle: Instead of seeking to represent us, the GOP has weaponized manipulation.
+  Sadly, some Democrats are following suit
 date: 2018-11-05T17:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
