@@ -1,7 +1,7 @@
 ---
 title: How Silicon Valley Came to Support Universal Basic Income
-subtitle: 
-date: 2018-10-10T16:56:02.000Z
+subtitle: The plan is no gift to the masses, but a tool for our further enslavement
+date: 2018-10-10T16:56:02.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
