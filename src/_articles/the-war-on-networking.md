@@ -15,7 +15,7 @@ published: false
 ---
 The attack on the World Trade Tower is no more an attack on the global economy than it is an attack on the global network. That's right: the Internet we've argued over for the past ten years has been targeted. Given the quality of a lot of what I've read online since the attack, it's hard to be too upset. The Internet is at war with itself, when it should be coming to terms with its real enemies.
 
-I've watched as people on politically progressive mailing lists -- from Nettime to my own media-squat -- have wrestled with the introduction of such a glaring discontinuity into their conceptual narratives. Everyone is attempting to "make sense" of the World Trade Center tragedy. Unfortunately, as in any moment when things don't make any real sense, many people are reaching for conspiracy theories, or retreating into one brand of blind fundamentalism or another. Let's entertain them for a moment.
+I've watched as people on politically progressive mailing lists — from Nettime to my own media-squat — have wrestled with the introduction of such a glaring discontinuity into their conceptual narratives. Everyone is attempting to "make sense" of the World Trade Center tragedy. Unfortunately, as in any moment when things don't make any real sense, many people are reaching for conspiracy theories, or retreating into one brand of blind fundamentalism or another. Let's entertain them for a moment.
 
 The Internet conspiracies range from a secret Bush-Bin Laden oil deal to a joint effort by Israel and America to earn support for the war against the Palestinians. These ideas all stem from a sense of responsibility for what happened. Of course. People who have experienced networking know that no single force is responsible for such a catastrophe.
 
@@ -33,13 +33,21 @@ All of the relativistic angst and political critique expressed by "we highly edu
 
 In order to maintain this system, we have done some very questionable things. And these weren't always the best solutions to the real and seeming threats to our security and well-being. But they were better solutions than most societies employed, and we are getting better all the time. What other nation experienced a civil rights movement, or shifted from slavery to affirmative action as quickly as we did? What nation developed an economic system so robust that it is capable of helping almost any other nation out of crisis? And what nation gives such aid?
 
-xxx
-
-Yes, we are crippled by our own brands of fun- damentalism (to the point where we can't even make our pledge to the United Nations) and our own economic extremism (preventing us from signing Kyoto) to our own misunder- standing of global relations (keeping us from the racism conference). We are addicted to oil, blind to many of the plights of others, and spiritually confused.
+Yes, we are crippled by our own brands of fundamentalism (to the point where we can't even make our pledge to the United Nations) and our own economic extremism (preventing us from signing Kyoto) to our own misunderstanding of global relations (keeping us from the racism conference). We are addicted to oil, blind to many of the plights of others, and spiritually confused.
 
 But we are also the economy and military that has maintained this soft cushy society — from no-nuclear zones like New Zealand all the way across the hated United States and over to Europe. We have been the military brunt behind a society dedicated to Judeo-Christian ethical development and Hellenist idealism. You want the truth? You can't handle the truth.
 
-conflict. Yes, there are sides. There is the side of Call me Jingoistic, but I'm on "our" side in this
+Call me Jingoistic, but I'm on "our" side in this conflict. Yes, there are sides. There is the side of pluralism, creativity, and free will, and there is the side of intolerance, dogma, and repression. American idealism has its problems, but it's meant to be about freedom, not decrees. The Internet is one of the best tools, yet, for extending this sensibility. 
+
+So far, the rhetoric against the United States has come from three main camps:
+
+1\. The extreme fundamentalists who perpetrated the attacks, as well as their extremely under-educated and impoverished supporters.
+
+2\. The extreme fundamentalists within our own borders, such as Pat Robertson and Jerry Falwell, who blame the sins of females, homosexuals, and civil libertarians for the WTC attack, and who — like the terrorists — suggest that we are being punished by God.
+
+xxx
+
+logical level. We must come to 
 
 19
 
@@ -59,19 +67,7 @@ less. For the dismantling of a war machine that is, in part, our own creation. F
 
 The war will be fought on a cultural and ideo- have something at stake.
 
- pluralism, creativity, and free will, and there is logical level. We must come to understand
-
-the side of intolerance, dogma, and repression. American idealism has its problems, but it's meant to be about freedom, not decrees. The Internet is one of the best tools, yet, for extend- ing this sensibility.
-
-So far, the rhetoric against the United States
-
-has come from three main camps:
-
-1\. The extreme fundamentalists who perpe- trated the attacks, as well as their extremely under-educated and impoverished support
-
-ers.
-
-2\. The extreme fundamentalists within our own borders, such as Pat Robertson and Jerry Falwell, who blame the sins of females, homosexuals, and civil libertarians for the WTC attack, and who like the terrorists - suggest that we are being punished by God.
+understand
 
 \-
 
