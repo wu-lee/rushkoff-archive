@@ -1,7 +1,7 @@
 ---
 title: Just Capitalism
-subtitle: 
-date: 2018-09-18T16:00:00.000Z
+subtitle: Can billionaires gamify social good?
+date: 2018-09-18T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
