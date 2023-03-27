@@ -1,7 +1,7 @@
 ---
 title: Dear Google Employees
-subtitle: 
-date: 2018-08-17T16:00:00.000Z
+subtitle: An open letter to the tech giant’s awakened workers
+date: 2018-08-17T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
