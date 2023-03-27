@@ -1,7 +1,7 @@
 ---
 title: Lies the Jumbotron Told Me
-subtitle: 
-date: 2018-08-16T16:00:00.000Z
+subtitle: Interactivity, the Mets, and the death of feedback
+date: 2018-08-16T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
