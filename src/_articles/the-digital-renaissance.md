@@ -53,33 +53,25 @@ After all, the material on TV is called programming for a reason; it's designed 
 
 The second liberating interactive device was the videogame joystick. For most of us, the inaugurating videogame experience was Pong. And, perhaps amazingly, we probably still remember that first moment we played. Pong was a simple game based on ping-pong, with two white squares on either side of the screen that moved up and down in conjunction with movements on a control knob. People remember their first time playing Pong the way they remember where they were when Kennedy was assassinated. This isn't because Americans loved table tennis so much and were so happy to have the convenience of practising it on TV. It wasn't about the literal meaning of the metaphor; it was about experiencing something on the television as metaphor. It was a thrill just to move the little white square up and down on the screen, to control the pixel. We had never had control of the pixel before. The TV screen was the holy and inaccessible realm of newscasters and movie stars, a magical place where things just appeared. But, just as the remote control deconstructed television's stories, the joystick demystified its technology, making it an accessible medium and rendering it safe.
 
-xxx
+Finally, the computer mouse and the keyboard turned the receive-only monitor into a portal through which we could express ourselves. The mouse and keyboard spawned a do-it-yourself or 'DIY' internet culture in which people created, uploaded and shared their own content. In a sense, people were the content; we used technology to connect with other people.
 
-Finally, the computer mouse and the keyboard turned the receive-only monitor into a portal through which we could express ourselves. The mouse and keyboard spawned a do-it-yourself or 'DIY' internet culture in which people created, uploaded and shared their own content. In a sense, people were the content; we used tech- nology to connect with other people.
-
-The resulting cyberpunk culture was a renaissance culture. It was a chaotic space,
-
-where new ideas could spring up from almost anywhere. It was a gift economy in which new programs were created and shared for free. It was a community, where new members were introduced and escorted around as if they had just bought a home in a fantasy suburb. Best of all, internet users came to understand that the
-
-DIGITAL CULTURE
-
-mainstream mediaspace no longer represented their reality. From now on, internet users would represent their own.
+The resulting cyberpunk culture was a renaissance culture. It was a chaotic space, where new ideas could spring up from almost anywhere. It was a gift economy in which new programs were created and shared for free. It was a community, where new members were introduced and escorted around as if they had just bought a home in a fantasy suburb. Best of all, internet users came to understand that the mainstream mediaspace no longer represented their reality. From now on, internet users would represent their own.
 
 But almost no one was making money on the internet. Not that this bothered any of the internet's actual users, but families with internet connections were watching three or four hours less TV a week, seeing fewer commercials, and buying less TV-advertised products. Further, people who are having fun and feeling connected to other people are less easily coerced into purchases. So the effects of the remote control, the mouse and the joystick had to be undone. In the interests of the investment community, the internet was restyled as an online mall.
 
-First, the mediaspace deconstructed by the remote control had to be put back together. Companies developed concepts such as sticki- ness, attention economy and eyeball hours in an effort to keep people glued to websites as they were once glued to TV stations. In response to panic-inducing articles from the mainstream media about a channel-surfing culture and decreasing attention spans, attention deficit disorder diagnoses and Ritalin prescriptions went up over 100 percent. Children's ability to enact renaissance was curtailed through drugs.
+First, the mediaspace deconstructed by the remote control had to be put back together. Companies developed concepts such as stickiness, attention economy and eyeball hours in an effort to keep people glued to websites as they were once glued to TV stations. In response to panic-inducing articles from the mainstream media about a channel-surfing culture and decreasing attention spans, attention deficit disorder diagnoses and Ritalin prescriptions went up over 100 percent. Children's ability to enact renaissance was curtailed through drugs.
 
-an entirely new story about the promised new media: money.
+In order to regain control of the pixel, first liberated by the joystick, professional designers re-mystified the computer's interface so that it was no longer two-way. Users were forced to rely on the 'wizards' built into their software programs to work magic they didn't understand. Consider the increasing opacity from DOS to the Macintosh, and Macintosh to Windows 2000. Look at the colourful and confusing interfaces used on the World Wide Web compared with the text-only bulletin boards of the early internet. The only way to participate on the Web is through the mouse; the only opportunity to use the keyboard is to enter one's credit card information. The increasing and deliberate opacity of new interfaces is designed to keep us out.
+
+Finally, in order to undo the DIY culture that had grown out of the keyboard and the mouse, commerce replaced community and content replaced people as the soul of the net. It was announced that, rather than a _communication_ age, we were in an 'information age' because information is data that can be bought and sold.
+
+No longer able to deconstruct, demystify or do our own media, we ended up succumbing to an entirely new story about the promised new media: money.
+
+xxx
 
 The new story competing for consensus approval was based on the idea of a pyramid. Some young person comes up with an idea - a business plan. Then a pyramid with different levels of investor fills in beneath him. Angel investors take the top position; lower down are a few rounds of 'qualified' investors and invest- ment banks and, finally, at the very bottom, an Initial Price Offering (IPO) on NASDAQ. This final ground level is called 'going public'. Of course, by the time the general public was buying shares online, the people at the top of the pyramid had executed an 'exit strategy' and disappeared, taking away their money as the pyramid collapsed beneath them.
 
-In order to regain control of the pixel, first liberated by the joystick, professional designers re-mystified the computer's interface so that it was no longer two-way. Users were forced to rely on the 'wizards' built into their software programs to work magic they didn't understand. Consider the increasing opacity from DOS to the Macintosh, and Macintosh to Windows 2000. Look at the colourful and confusing interfaces used on the World Wide Web compared with the text-only bulletin boards of the early internet. The only way to participate on the Web is through the mouse; the only opportunity to use the keyboard is to enter one's credit card infor- mation. The increasing and deliberate opacity of new interfaces is designed to keep us out.
-
 In the flux generated by our technological renaissance, e-commerce and the dot.com speculative market were reduced to a business fantasy: NASDAQ's claim to the meta-narrative. The pyramid schemes eventually failed, because all pyramid schemes eventually run out of money. Their collapse was aided, in part, by the internet's own structure and function. It is so organic and interactive in its make-up that it shrugs off interventionist government controls and, with a bit more effort, the corporate attacks that follow.
-
-Finally, in order to undo the DIY culture that had grown out of the keyboard and the mouse, commerce replaced community and content replaced people as the soul of the net. It was announced that, rather than a communication age, we were in an 'information age' because information is data that can be bought and sold.
-
-No longer able to deconstruct, demystify or do our own media, we ended up succumbing to
 
 So, now that the dot.com pyramid scheme has failed to establish itself as the overarching metaphor of the digital age, digital reality - and perhaps our social reality is once again up for grabs.
 
