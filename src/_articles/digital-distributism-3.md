@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: Digital Distributism
 subtitle: 'Part IV: How we convince the wealthy that shared prosperity is even possible'
 image: "/uploads/0_pw_m-usid-p34wwr.jpg"
-date: 2022-08-25 04:00:00 +0000
+date: 2022-08-25T04:00:00.000+00:00
 blurb: ''
 notes: '[https://rushkoff.medium.com/digital-distributism-f5021efcfec](https://rushkoff.medium.com/digital-distributism-f5021efcfec
   "https://rushkoff.medium.com/digital-distributism-f5021efcfec")'
@@ -11,7 +11,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 _This is the fourth part of an essay written for the Institute for the Future’s_ [_Equitable Enterprise Initiative_](https://www.iftf.org/equitableenterprise/)_._

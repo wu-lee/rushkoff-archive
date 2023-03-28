@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: Digital Distributism
 subtitle: 'Part III: How to get from digital industrialism to digital distributism'
 image: "/uploads/0_dglhbdbfrfqymlbg.jpg"
-date: 2022-08-18 04:00:00 +0000
+date: 2022-08-18T04:00:00.000+00:00
 blurb: ''
 notes: '[https://rushkoff.medium.com/digital-distributism-2f1ace120387](https://rushkoff.medium.com/digital-distributism-2f1ace120387
   "https://rushkoff.medium.com/digital-distributism-2f1ace120387")'
@@ -11,7 +11,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 In the 1990s, with the advent of digital technology, many of us believed the monopoly industrial system would finally be supplanted. Just as we could compute at home and make our own media, many of us believed we would be empowered to create our own value, or even our own money. The network was to decentralize everything, erode central authority, and make monopoly control of human value exchange impossible.

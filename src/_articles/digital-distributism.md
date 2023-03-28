@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: Digital Distributism
 subtitle: 'Part I: A new economic story; a new theory of change'
 image: "/uploads/1_ipi6mk1tac2e3gmbgzhpcg.webp"
-date: 2022-08-06 04:00:00 +0000
+date: 2022-08-06T04:00:00.000+00:00
 blurb: ''
 notes: '[https://rushkoff.medium.com/digital-distributism-52020e73de7](https://rushkoff.medium.com/digital-distributism-52020e73de7
   "https://rushkoff.medium.com/digital-distributism-52020e73de7")'
@@ -11,7 +11,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 _For the past year, I’ve been serving as a senior advisor to the Institute for the Future’s_ [_Equitable Enterprise Initiative_](https://www.iftf.org/equitableenterprise/)_, along with great new economics thinkers and practitioners from_ [_Jerry Davis_](https://michiganross.umich.edu/faculty-research/faculty/jerry-davis) _and_ [_Astra Taylor_](https://theintercept.com/staff/astra-taylor/) _to_ [_Jessica Gordon Nembhard_](https://www.jjay.cuny.edu/faculty/jessica-gordon-nembhard) _and_ [_Cory Doctorow_](https://www.eff.org/about/staff/cory-doctorow)_. We talk (and argue) about how to create opportunities, develop practices, and build institutions that distribute assets equitably among those who contribute value to the system._
