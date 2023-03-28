@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: Magic Is Real
 subtitle: How the universe winked at me, and why I think it means we will be okay
 image: "/uploads/0_wry0hacjmn2ipawt.jpg"
-date: 2023-02-02 05:00:00 +0000
+date: 2023-02-02T05:00:00.000+00:00
 blurb: "“Coincidence is the skill of a great storyteller.”"
 notes: '[https://humanparts.medium.com/magic-is-real-6b7977576705](https://humanparts.medium.com/magic-is-real-6b7977576705
   "https://humanparts.medium.com/magic-is-real-6b7977576705")'
@@ -11,7 +11,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 Sometimes, particularly when things look hopeless, a little magic is all we need to remember that amazingly improbable things really do happen, and are often connected with our own thoughts and desires.
