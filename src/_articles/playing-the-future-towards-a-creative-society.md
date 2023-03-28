@@ -11,7 +11,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/scholarship.md
-published: false
 
 ---
 Thanks, it’s an honor. The honor is beyond words, so I won’t even try to express that. What I will try to express is that this is a really interesting group of people and an interesting mix. The half over here in the front, you came because you’re members of the Institute of General Semantics, and you pay dues and participate, you receive newsletters. The other half of you—on chairs in the back who were just let in after the dinner—you probably got a Facebook message from Jeff Newelt who’s a friend of mine. The word buzzed through the networks and you came.
