@@ -1,6 +1,7 @@
 ---
 title: Fork The Economy
-subtitle: 
+subtitle: I’ve given up on fixing the economy. The economy is not broken. It’s simply
+  unjust. There’s a difference.
 date: 2016-01-29T00:00:00.000-05:00
 publication: _publications/medium.md
 blurb: This is the subhead thing
