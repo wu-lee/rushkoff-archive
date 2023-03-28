@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: Now You See What I Mean
 subtitle: The real promise of shared virtual realities
 image: ''
-date: 2022-10-21 04:00:00 +0000
+date: 2022-10-21T04:00:00.000+00:00
 blurb: It was that human connection that made the VR worth anything at all.
 notes: '[https://rushkoff.medium.com/now-you-see-what-i-mean-e4b580d37e26](https://rushkoff.medium.com/now-you-see-what-i-mean-e4b580d37e26
   "https://rushkoff.medium.com/now-you-see-what-i-mean-e4b580d37e26")'
@@ -11,7 +11,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 We’re getting something about virtual reality profoundly wrong right now. It’s not about the simulation; it never was. It’s about the way a simulation can create an excuse to connect with other people in a more profound way.

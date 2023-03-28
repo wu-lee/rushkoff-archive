@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: Free Market Hypocrisy
 subtitle: Raising interest rates doesn’t increase supply, it just makes people poorer.
 image: "/uploads/0_ivwx8nmutcogdn0g.jpg"
-date: 2022-11-04 04:00:00 +0000
+date: 2022-11-04T04:00:00.000+00:00
 blurb: The Fed’s solution of raising interest rates doesn’t discourage gouging, nor
   does it increase the supply of goods. Raising interest rates is intended to lower
   demand by making people poorer.
@@ -13,7 +13,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 Inflation sucks, but fighting inflation the wrong way or for the wrong reasons sucks even worse. While I am one the last people who would suggest letting the market serve as the solution to our problems, there’s one place where I do think market solutions can work: the market.
