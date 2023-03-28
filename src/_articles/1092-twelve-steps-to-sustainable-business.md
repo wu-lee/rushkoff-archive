@@ -1,7 +1,8 @@
 ---
 title: Twelve Steps to Sustainable Business
-subtitle: 
-date: 2017-12-15T17:00:00.000Z
+subtitle: Distributed Prosperity Means Breaking the Addiction to Growth, and Circulating
+  Value Throughout Your Marketplace
+date: 2017-12-15T17:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
