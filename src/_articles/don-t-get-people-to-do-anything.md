@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: Don’t “Get” People to Do Anything
 subtitle: Social change is not about changing people, but changing the register
 image: "/uploads/0_b5heolrv8fjakpqu.jpg"
-date: 2023-03-23 04:00:00 +0000
+date: 2023-03-23T04:00:00.000+00:00
 blurb: Are we trying to program people to behave better, or are we creating better
   conditions for such positive change to take place?
 notes: '[https://rushkoff.medium.com/dont-get-people-to-do-anything-9d59a1cf29a0](https://rushkoff.medium.com/dont-get-people-to-do-anything-9d59a1cf29a0
@@ -12,7 +12,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 Nearly every time I’m on a panel or in a conversation about civic harmony, social change or economic equality, someone eventually asks, “I agree, but how are we going to get people to….?” And that’s when the conversation turns to education, publicity campaigns, memes, or some other well-intentioned form of social engineering. If only we could get people to…

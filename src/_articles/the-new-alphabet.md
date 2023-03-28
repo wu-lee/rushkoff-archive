@@ -3,14 +3,13 @@ publication: _publications/new-york-law-school-law-review.md
 title: The New Alphabet
 subtitle: ''
 image: ''
-date: 2004-07-01 04:00:00 +0000
+date: 2004-07-01T04:00:00.000+00:00
 blurb: ''
 notes: Vol. 49, No. 1, 2004-2005
 refs: ''
 sources: ''
 categories:
 - _categories/scholarship.md
-published: false
 
 ---
 Before the advent of Judaism and the alphabet, written communication took the form of hieroglyphics.1 Most of us forget that hieroglyphics means "priestly writing," which it was, because only priests had the time to learn the five or six thousand characters, so it was an elitist form of writing. Subsequently, the original Hebrew twenty-two-letter alphabet changed the equation because all one had to do was learn these twenty-two characters and one would have access to literature — to the story, to the code — and it changed everything. Now that people could read and write, they wanted to participate in creating the laws by which they lived instead of just receiving the laws from the gods, or accepting things as they were.
