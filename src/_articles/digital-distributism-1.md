@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: Digital Distributism
 subtitle: 'Part II: From Artisans to Employees'
 image: "/uploads/1_vs3pdrrmmh32hcpynf7ggw.webp"
-date: 2022-08-11 04:00:00 +0000
+date: 2022-08-11T04:00:00.000+00:00
 blurb: ''
 notes: '[https://rushkoff.medium.com/digital-distributism-28a14bc8c4c8](https://rushkoff.medium.com/digital-distributism-28a14bc8c4c8
   "https://rushkoff.medium.com/digital-distributism-28a14bc8c4c8")'
@@ -11,7 +11,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 _This is the second part of an essay for the_ [_Equitable Enterprise Initiative_](https://www.iftf.org/equitableenterprise/) _at Institute for the Future. Part I is here._

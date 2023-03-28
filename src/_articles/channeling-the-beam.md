@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: Channeling the Beam
 subtitle: Ecstasy Club and the Unfulfillable Promise
 image: "/uploads/0_v4n496bgulwzdjgk.jpg"
-date: 2022-07-26 04:00:00 +0000
+date: 2022-07-26T04:00:00.000+00:00
 blurb: ''
 notes: '[https://rushkoff.medium.com/channeling-the-beam-3ab698041b90](https://rushkoff.medium.com/channeling-the-beam-3ab698041b90
   "https://rushkoff.medium.com/channeling-the-beam-3ab698041b90")'
@@ -11,7 +11,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 I’ve been spending a lot of time lately in my first novel, the 1996 rave sci-fi thriller love story, Ecstasy Club, in hope of developing it for the screen. It has been 25 years since I wrote it, so I feel like I can read and enjoy it as if it were written by a whole other person — which, in some ways, I guess it was.
