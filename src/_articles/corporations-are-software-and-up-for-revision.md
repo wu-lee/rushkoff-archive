@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: Corporations are Software, and Up for Revision
 subtitle: Revisiting my book Life Inc, Fifteen Years Later
 image: ''
-date: 2022-10-07 04:00:00 +0000
+date: 2022-10-07T04:00:00.000+00:00
 blurb: ''
 notes: '[https://rushkoff.medium.com/corporations-are-software-and-up-for-revision-8fed75dfa0aa](https://rushkoff.medium.com/corporations-are-software-and-up-for-revision-8fed75dfa0aa
   "https://rushkoff.medium.com/corporations-are-software-and-up-for-revision-8fed75dfa0aa")'
@@ -11,7 +11,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 I’ve been on something of a virtual tour for my new book, Survival of the Richest: Escape Fantasies of the Tech Billionaires. It’s the first book I’ve written since [Life Inc](https://www.amazon.com/Life-Inc-Corporatism-Conquered-World/dp/0812978501) in 2008 that hasn’t recounted the process by which corporations and capitalism replaced business and commerce, and how most of Silicon Valley’s ignorance of that history has put them and their companies at the mercy of an economic operating system they mistake for the laws of nature.
