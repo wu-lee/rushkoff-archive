@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: Speculative Fiction to the Rescue
 subtitle: On the publication of Cybersalon’s new collection of ideas about the future
 image: "/uploads/1_1dfdsagfby8fac4lqzptng.webp"
-date: 2022-09-29 04:00:00 +0000
+date: 2022-09-29T04:00:00.000+00:00
 blurb: Speculative fiction does something very special to the otherwise closed mind.
   It creates space for the novel.
 notes: '[https://rushkoff.medium.com/speculative-fiction-to-the-rescue-d4797824d52](https://rushkoff.medium.com/speculative-fiction-to-the-rescue-d4797824d52
@@ -12,7 +12,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 _I wrote this introduction to a wonderful new collection of fiction/non-fiction hybrid stories from my old friends at Cybersalon Press, called_ [**_22 Ideas About the Future_**](https://cybersalon.org/press/)_, which was just released today. I realize it reads a bit like a review, so I thought I’d share it here._

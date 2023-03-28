@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: Catastrophe is Just the Figure
 subtitle: We living things are here on the Ground
 image: "/uploads/0_wo-fpb7t-giddgwm.jpg"
-date: 2022-09-15 04:00:00 +0000
+date: 2022-09-15T04:00:00.000+00:00
 blurb: ''
 notes: '[https://rushkoff.medium.com/catastrophe-is-just-the-figure-ff03a837d855](https://rushkoff.medium.com/catastrophe-is-just-the-figure-ff03a837d855
   "https://rushkoff.medium.com/catastrophe-is-just-the-figure-ff03a837d855")'
@@ -11,7 +11,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 Apocalypse bunkers, spaceships, shock collars, and Navy Seals seem to be getting the most attention as I do the media tour for my new book, [Survival of the Richest: Escape Fantasies of the Tech Billionaires](https://wwnorton.com/books/survival-of-the-richest). I suppose that’s only natural; it’s a pretty compelling hook.
