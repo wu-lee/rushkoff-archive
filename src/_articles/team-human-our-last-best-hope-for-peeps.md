@@ -1,7 +1,7 @@
 ---
 publication: _publications/medium.md
 title: 'Team Human: Our Last Best Hope for Peeps'
-subtitle: ''
+subtitle: 'Team Human: Our Last Best Hope for Peeps'
 image: "/uploads/1_avtq1ywoapfk8_rzzoiopa.jpeg"
 date: 2016-09-05T00:00:00.000-04:00
 blurb: ''
