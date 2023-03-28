@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: The Medium is the Message
 subtitle: The real and imagined dangers of AI
 image: "/uploads/0_obgypfkcoxw5sake.jpg"
-date: 2022-12-22 05:00:00 +0000
+date: 2022-12-22T05:00:00.000+00:00
 blurb: ''
 notes: '[https://rushkoff.medium.com/the-medium-is-the-message-fbf83929127](https://rushkoff.medium.com/the-medium-is-the-message-fbf83929127
   "https://rushkoff.medium.com/the-medium-is-the-message-fbf83929127")'
@@ -11,7 +11,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 I got interviewed earlier today by CNN about Artificial Intelligence. They asked “what are the dangers of ChatGPT?” I answered:
