@@ -25,27 +25,21 @@ While Renaissance explorers discovered that the world was round, modern scientis
 
 The computer and the internet changed communication, publication and the idea of community to a degree comparable with the printing press. LSD and psychedelics, like the coffee beans of the Renaissance, had people staying up late together and experimenting with the status quo.
 
+A renaissance is a shift in perspective, the shift from living within a model to moving outside of it; or, as video gamers might express it, from game to 'meta-game'. Young people who spend a lot of time immersed in video game environments understand this phenomenon well. There are two ways one can learn to play a game. The first is to read the rules, practise, and use old-fashioned trial-and-error. The second is to find the magazines and websites that share the secret codes to help one avoid traps, win levels and gain special advantages in the game. Are the people using these 'cheat sheets' really playing the game? Certainly, but the game they're playing is the meta-game.
+
+Likewise, there are moments when we, as society, as a culture, or even as individuals, shift from simply playing the game by the rules to playing the meta-game and changing the rules. These are renaissance moments. Renaissance moments happen when we experience a shift in perspective so that the stories, models and languages that we have been using to understand our reality are suddenly up for grabs. But these renaissance moments are transitory, because almost as soon as our perspectives are shifted, we settle into new conventions. Alas, the possibilities opened by our new perspective close up, and we once again mistake the map for the territory. We forget that the new stories and metaphors we have developed are just that, and we mistake them for literal history.
+
+But before things have been locked down, ideas compete for consensus. The challenge, and the opportunity, during these moments is to make a positive impact in that struggle. For me, this means preserving the notion that the ideas that win consensus approval may be useful, but they are still arbitrary.
+
+I would argue that we are currently in a time of renaissance, still in the process of assimilating the results of a shift in perspective caused by remarkable technological progress. We are still aware that the shift is going on, and hoping to preserve some aspect of our new-found sensitivity into the next phase of human society. It's akin to the realisation many people have in the heightened state of awareness caused by a mystical or psychedelic experience: the person on his visionquest wonders how he will be able to remember that state of awe or insight once the experience is over. He wonders how he can plant a seed or landmark of some kind that he will remember when he returns to waking state consciousness.
+
 xxx
 
-A renaissance is a shift in perspective, the shift from living within a model to moving outside of it; or, as video gamers might express it, from game to 'meta-game'. Young people
-
-who spend a lot of time immersed in video game environments understand this phenomenon well. There are two ways one can learn to play a game. The first is to read the rules, practise, and use old-fashioned trial-and-error. The second is to find the magazines and websites that share the secret codes to help one avoid traps, win levels and gain special advantages in the game. Are the people using these 'cheat sheets' really playing the game? Certainly, but the game they're playing is the meta-game.
-
-Likewise, there are moments when we, as society, as a culture, or even as individuals, shift from simply playing the game by the rules to playing the meta-game and changing the rules. These are renaissance moments. Renaissance moments happen when we experience a shift in perspective so that the stories, models and languages that we have been using to under- stand our reality are suddenly up for grabs. But these renaissance moments are transitory, because almost as soon as our perspectives are shifted, we settle into new conventions. Alas, the possibilities opened by our new perspective close up, and we once again mistake the map for the territory. We forget that the new stories and metaphors we have developed are just that, and we mistake them for literal history.
-
-But before things have been locked down, ideas compete for consensus. The challenge, and the opportunity, during these moments is to make a positive impact in that struggle. For me, this means preserving the notion that the ideas that win consensus approval may be use- ful, but they are still arbitrary.
-
-he will remember when he returns to waking state consciousness.
-
 Likewise, those of us aware of the power of the current renaissance are attempting to preserve and extend the notion that much of reality itself is open source, and that the 'codes' by which we organise our experiences are more accessible than we generally assume. For artists, cultural producers and, of course, architects, there is an imperative to influence what will become the new consensus, and to mark it with a sense of possibility that will help us maintain a sense of agency over our own collective and individual perspectives.
-
-I would argue that we are currently in a time of renaissance, still in the process of assimilating the results of a shift in perspective caused by remarkable technological progress. We are still aware that the shift is going on, and hoping to preserve some aspect of our new-found sensi- tivity into the next phase of human society. It's akin to the realisation many people have in the heightened state of awareness caused by a mystical or psychedelic experience: the person on his visionquest wonders how he will be able to remember that state of awe or insight once the experience is over. He wonders how he
 
 —
 
 A lucky beneficiary of the digital renais- sance, I have been encouraged to believe that our reality is, indeed, open source or at least that much of what we have been regarding as permanent 'hardware' is, indeed, only 'software' and subject to change. For me, the most important insight of cyberculture is that we all have access to its codes; we are all potential reality-programmers.
-
-can plant a seed or landmark of some kind that
 
 Media is the realm in which our access is negotiated. I used to stay up nights wondering: what is media? It was a perplexing question. A zipper is media; open, it means one thing and closed, another. A face is media; we read people's appearance and expressions for infor- mation about them. Even our DNA is media, arguably the best media nature has developed, capable of sending codes through the millennia. Ultimately, the only thing that isn't media is a person's most essential consciousness - one's agency, will and intention. As consciousnesses swimming in media, we create and control narratives to negotiate reality and our places within it. Through competing stories we can negotiate over 'what' is going on. But by making up rules and creating tools through which those stories will be told, we negotiate about the 'how', the meta-story.
 
