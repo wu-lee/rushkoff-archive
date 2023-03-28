@@ -33,25 +33,17 @@ But before things have been locked down, ideas compete for consensus. The challe
 
 I would argue that we are currently in a time of renaissance, still in the process of assimilating the results of a shift in perspective caused by remarkable technological progress. We are still aware that the shift is going on, and hoping to preserve some aspect of our new-found sensitivity into the next phase of human society. It's akin to the realisation many people have in the heightened state of awareness caused by a mystical or psychedelic experience: the person on his visionquest wonders how he will be able to remember that state of awe or insight once the experience is over. He wonders how he can plant a seed or landmark of some kind that he will remember when he returns to waking state consciousness.
 
-xxx
-
 Likewise, those of us aware of the power of the current renaissance are attempting to preserve and extend the notion that much of reality itself is open source, and that the 'codes' by which we organise our experiences are more accessible than we generally assume. For artists, cultural producers and, of course, architects, there is an imperative to influence what will become the new consensus, and to mark it with a sense of possibility that will help us maintain a sense of agency over our own collective and individual perspectives.
 
-—
+A lucky beneficiary of the digital renaissance, I have been encouraged to believe that our reality is, indeed, open source - or at least that much of what we have been regarding as permanent 'hardware' is, indeed, only 'software' and subject to change. For me, the most important insight of cyberculture is that we all have access to its codes; we are all potential reality-programmers.
 
-A lucky beneficiary of the digital renais- sance, I have been encouraged to believe that our reality is, indeed, open source or at least that much of what we have been regarding as permanent 'hardware' is, indeed, only 'software' and subject to change. For me, the most important insight of cyberculture is that we all have access to its codes; we are all potential reality-programmers.
-
-Media is the realm in which our access is negotiated. I used to stay up nights wondering: what is media? It was a perplexing question. A zipper is media; open, it means one thing and closed, another. A face is media; we read people's appearance and expressions for infor- mation about them. Even our DNA is media, arguably the best media nature has developed, capable of sending codes through the millennia. Ultimately, the only thing that isn't media is a person's most essential consciousness - one's agency, will and intention. As consciousnesses swimming in media, we create and control narratives to negotiate reality and our places within it. Through competing stories we can negotiate over 'what' is going on. But by making up rules and creating tools through which those stories will be told, we negotiate about the 'how', the meta-story.
+Media is the realm in which our access is negotiated. I used to stay up nights wondering: what is media? It was a perplexing question. A zipper is media; open, it means one thing and closed, another. A face is media; we read people's appearance and expressions for information about them. Even our DNA is media, arguably the best media nature has developed, capable of sending codes through the millennia. Ultimately, the only thing that isn't media is a person's most essential consciousness - one's agency, will and intention. As consciousnesses swimming in media, we create and control narratives to negotiate reality and our places within it. Through competing stories we can negotiate over 'what' is going on. But by making up rules and creating tools through which those stories will be told, we negotiate about the 'how', the meta-story.
 
 Renaissances are, in part, the moments when we pull out of a particular story for long enough to consider the way in which it is being told.
 
-The game and the meta-game, the stories and the way stories are told, have largely been regulated and controlled for the last few centuries.
+The game and the meta-game, the stories and the way stories are told, have largely been regulated and controlled for the last few centuries. As Aristotle well understood, stories work by creating a character whom the audience likes and having that character make a series of decisions which put him in terrible danger. This brings the audience into a heightened state of tension about this poor character who has made all these wrong decisions. Then, once the audience can't take it any more, the storyteller invents a solution. In a Greek play that solution might have been Athena coming down to save the day.
 
-DIGITAL CULTURE
-
-DIGITAL WORLD
-
-As Aristotle well understood, stories work by creating a character whom the audience likes and having that character make a series of decisions which put him in terrible danger. This brings the audience into a heightened state of tension about this poor character who has made all these wrong decisions. Then, once the audience can't take it any more, the storyteller invents a solution. In a Greek play that solution might have been Athena coming down to save the day.
+xxx
 
 This same storytelling technique has been honed for centuries, and perhaps has been perfected by the advertising industry which has exploited the mainstream mediaspace for its ability to tell very influential little stories called commercials. In 28 seconds, we identify with an aggravated executive, following him into his hellish day, up the incline plane of tension. Because we are a captive audience, with no access to the tools of storytelling, we must take that pain- relieving pill with him at the end of the commercial to relieve our anxiety. The storyteller chooses which pill the listener has to swallow at the end of the story - whether it is a new presi- dent or an old religion.
 
