@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: If I Were CEO of Twitter
 subtitle: What if the platform rose to this occasion?
 image: "/uploads/0_vgfre2bk6b_4oeqk.jpg"
-date: 2022-12-19 05:00:00 +0000
+date: 2022-12-19T05:00:00.000+00:00
 blurb: I’d have the company accept responsibility for itself as a publishing platform.
 notes: '[https://rushkoff.medium.com/if-i-were-ceo-of-twitter-a0520c1e8167](https://rushkoff.medium.com/if-i-were-ceo-of-twitter-a0520c1e8167
   "https://rushkoff.medium.com/if-i-were-ceo-of-twitter-a0520c1e8167")'
@@ -11,7 +11,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 Assuming Elon Musk doesn’t change his mind about stepping down as CEO of Twitter following his promise to abide by this week’s community-wide referendum on his reign, the social network may be in for a change in leadership and, hopefully, direction. Here’s what I would do if I were in charge.
