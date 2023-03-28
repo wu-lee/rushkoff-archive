@@ -1,7 +1,8 @@
 ---
 publication: _publications/medium.md
 title: The Online Economy Is Breaking Businesses, and Stealing Our Time and Energy
-subtitle: ''
+subtitle: Transcript from an interview on BigThink about Throwing Rocks at the Google
+  Bus (Portfilio, 2016)
 image: ''
 date: 2016-04-09T00:00:00.000-04:00
 blurb: ''
