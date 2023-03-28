@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: Probability Leads Only to Death
 subtitle: Be careful how closely you follow the data
 image: "/uploads/0_b4yaxbwocdwiriyj.jpg"
-date: 2023-01-17 05:00:00 +0000
+date: 2023-01-17T05:00:00.000+00:00
 blurb: ''
 notes: '[https://rushkoff.medium.com/probability-leads-only-to-death-44d9ed218b94](https://rushkoff.medium.com/probability-leads-only-to-death-44d9ed218b94
   "https://rushkoff.medium.com/probability-leads-only-to-death-44d9ed218b94")'
@@ -11,7 +11,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 I suppose we all want the greatest chances of a successful outcome in anything we do. Most of us want to take whatever steps offer us the highest probability of getting the job, winning the pitch, selling the book, beating the cancer, meeting a compatible mate, or getting/doing/achieving whatever it is we’re after. But I’ve started to wonder if our digital tools, or at least the tech solutionist mindset they afford (see [Survival of the Richest](https://wwnorton.com/books/survival-of-the-richest)) may be fetishizing the powers of probability at the expense of true human ingenuity.
