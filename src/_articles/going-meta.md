@@ -4,7 +4,7 @@ title: Going Meta
 subtitle: Why the tech billionaires want to rise above the rest of us, and why it’s
   so stupid you have to laugh
 image: "/uploads/0_mfldra8epfkcqj4n.jpg"
-date: 2022-09-01 04:00:00 +0000
+date: 2022-09-01T04:00:00.000+00:00
 blurb: They’re not just going meta, but metastasizing.
 notes: '[https://rushkoff.medium.com/going-meta-d42c6a09225e](https://rushkoff.medium.com/going-meta-d42c6a09225e
   "https://rushkoff.medium.com/going-meta-d42c6a09225e")'
@@ -12,7 +12,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 While Mark Zuckerberg was sitting down to talk with Joe Rogan last week, I was in a studio recording the audio version of my upcoming book, [Survival of the Richest: Escape Fantasies of the Tech Billionaires](https://wwnorton.com/books/survival-of-the-richest/). (Yes, available September 6!)
