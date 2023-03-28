@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: Don’t Forget the Covid Miracles
 subtitle: What we should have learned from the Covid experience
 image: "/uploads/1_nez9xqqmtmk9fbu8oop91a.webp"
-date: 2023-03-04 05:00:00 +0000
+date: 2023-03-04T05:00:00.000+00:00
 blurb: Now that we are (hopefully) emerging from the Covid crisis, do we really want
   to return to business as usual?
 notes: '[https://rushkoff.medium.com/dont-forget-the-covid-miracles-1776fa21e1c4](https://rushkoff.medium.com/dont-forget-the-covid-miracles-1776fa21e1c4
@@ -12,7 +12,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 Three years in, it’s not too early to begin reflecting on what Covid taught us about ourselves and our communities.

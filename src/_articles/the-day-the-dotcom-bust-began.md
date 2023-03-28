@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: The Day the Dotcom Bust Began
 subtitle: The lesson we still refuse to learn about the ill-fated AOL-TimeWarner Merger
 image: "/uploads/1_ssmagisxywgndnqlqnv9vg.webp"
-date: 2023-03-08 05:00:00 +0000
+date: 2023-03-08T05:00:00.000+00:00
 blurb: The only thing peaking about AOL at the turn of the century was its stock price.
 notes: '[https://rushkoff.medium.com/the-day-the-dotcom-bust-began-bd0d52c21321](https://rushkoff.medium.com/the-day-the-dotcom-bust-began-bd0d52c21321
   "https://rushkoff.medium.com/the-day-the-dotcom-bust-began-bd0d52c21321")'
@@ -11,7 +11,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 The Internet changed for me on the morning of January 10, 2000, when an editor from the _New York Times_ called to ask if I could bang out an OpEd by that afternoon. I was thrilled. The culture of the net, which I had been writing about since the late 1980’s, was finally mainstream enough for the Gray Lady to solicit a think piece from a fringe, cyberpunk writer like me.
