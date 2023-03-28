@@ -1,7 +1,7 @@
 ---
 title: Survival of the Richest
-subtitle: 
-date: 2018-07-05T16:00:00.000Z
+subtitle: The wealthy are plotting to leave us behind
+date: 2018-07-05T16:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
