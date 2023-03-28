@@ -1,5 +1,0 @@
----
-title: Cyber Reconsidered
-url: ''
-
----
