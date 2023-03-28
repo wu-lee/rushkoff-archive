@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: Infectious Altruism
 subtitle: A Holiday Story
 image: "/uploads/0_whe9eae7gfvpf3sj.jpg"
-date: 2022-12-15 05:00:00 +0000
+date: 2022-12-15T05:00:00.000+00:00
 blurb: ''
 notes: '[https://rushkoff.medium.com/infectious-altruism-e434a99ed916](https://rushkoff.medium.com/infectious-altruism-e434a99ed916
   "https://rushkoff.medium.com/infectious-altruism-e434a99ed916")'
@@ -11,7 +11,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 There’s an elderly woman who lives near my writing office in town. Over the past ten years I’d seen her from my window, walking from her apartment building over to a cement bench across from the pizza parlor. She’d sit there for an hour or two with her little dog. Whenever I’d go out to buy my lunchtime sandwich or bagel, I’d be sure to pass by and exchange pleasantries, pet her dog, and find out how she was doing.

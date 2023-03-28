@@ -3,7 +3,7 @@ publication: _publications/medium.md
 title: The Year Tech Bro Lunacy Was Exposed
 subtitle: 2022 Year in Review
 image: "/uploads/0_vnqypiov5npwel7p.jpg"
-date: 2022-12-07 05:00:00 +0000
+date: 2022-12-07T05:00:00.000+00:00
 blurb: How the mighty — and scary — have fallen.
 notes: '[https://rushkoff.medium.com/the-year-tech-bro-lunacy-was-exposed-fe220426397b](https://rushkoff.medium.com/the-year-tech-bro-lunacy-was-exposed-fe220426397b
   "https://rushkoff.medium.com/the-year-tech-bro-lunacy-was-exposed-fe220426397b")'
@@ -11,7 +11,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 I think 2022 will be remembered as the year we finally saw the billionaire tech bro narrative for what it is: an insane fantasy held by adult children with too much money and too much power too early in their lives for them to do any good.
