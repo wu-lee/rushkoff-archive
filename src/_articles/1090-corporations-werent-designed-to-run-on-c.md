@@ -1,7 +1,9 @@
 ---
 title: Corporations Weren’t Designed to Run on Code
-subtitle: 
-date: 2016-03-02T17:00:00.000Z
+subtitle: 'An excerpt from Throwing Rocks at the Google Bus: How Growth Became the
+  Enemy of Prosperity, by Douglas Rushkoff (Portfolio 2016). Published in Harvard
+  Business Review March 02, 2016.'
+date: 2016-03-02T17:00:00.000+00:00
 publication: _publications/medium.md
 blurb: 
 notes: 
