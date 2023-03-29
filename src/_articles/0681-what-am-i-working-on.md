@@ -2,7 +2,7 @@
 title: What Am I Working On?
 subtitle: 
 date: 2003-11-06T05:00:00.000+00:00
-publication: _publications/nokias_the_feature.md
+publication: _publications/feature.md
 blurb: Lots of people have been emailing to find out what I'm working on right now.
   Honestly, I'm working on too much. Here's the main list - I'll break it down in
   future posts, because some of it would benefit from discussion.
