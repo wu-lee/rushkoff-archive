@@ -32,3 +32,13 @@ It is during these shifts that everything is up for grabs. A shift of this magni
 The cyberdelic culture believed it could use the Internet and other computer technologies to commandeer the renaissance. We were going to make the world in our own image, for a change. It seemed that anyone turning on to the Internet may as well have been turning on to mushrooms. Going online fundamentally changed the user's experience of the world. People started believing in the Gaia hypothesis and the interconnectedness of all living things.
 
 But in a variety of ways, the deconstructed, demystified, do-it-yourself ethic of the early cyberdelic era was undone. People were just having too much fun, and our online activities were having a powerful impact on our relationship to traditional media programming. We started watching less TV, and became less susceptible to television programming like advertising. (This was what GenX originally referred to.)
+
+These effects of the computer revolution had to be undone. So online specialists from the world of _Wired_ came up with ways to mitigate the liberating potential of new technologies. They invented concepts like stickyness and eyeball hours, in order to regain control over a culture threatening full-scale renaissance. They turned the Internet as best they could into a strip mall or tv dial, and worked to limit our partipation through the keyboard to the entering of a credit card number.
+
+Meanwhile, counterculture programmers who spent years arguing against cynicism about the emergence of a technoculture were finally being rewarded--with jobs and cash. To them, it didn't seem so terrible at all to create a web site for AT&T or any other corporate conglomerate. It meant that the elders were finally recognizing the inevitably of our interactive culture. And it did.
+
+But it was a case of Pink Floyd's "Welcome to the Machine." A bad one, that rivals even rock 'n roll's co-option by the market. Luckily, the scenario plan devised by the various strategic business networks failed, and the imposition of market ideology over the Internet just didn't work. But it took down a lot of well-meaning people with it.
+
+That's what my new novel is about, really. The way people get enslaved by ideas and stories that aren't real. They are tempting--just as tempting as a house in Redwood Hills--but they are booby prizes, and keep us from touching the genuine power we may have tapped.
+
+So, no. I don't feel I was led astray by the cyberdelic community. Not in the least. But I do feel sad, having witnessed their temptation, distraction, and enslavement. Like the Bible teaches, people who build pyramids--whether they're made of stone or investments--are slaves.
