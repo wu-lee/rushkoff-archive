@@ -55,3 +55,19 @@ The terrorist attacks on the WTC and Pentagon were another attempt to arrest sel
 Their narrative (Falwell's and radical so-called Islam) is Armageddon. The world was getting too tolerant, too networked, and too empowered. What the cyber-renaissance taught us is that the story isn't written. It emerges, just as organization emerges from a system. The imposition of a narrative structure, in most cases, will simply impede the emergence of genuine systemic balance. (No, this is not an argument for libertarianism. It is a call for the conscious co-creation, the crafted evolution of an open-ended human story.)
 
 **RU:** _In terms of cyber-counterculture, didn't those attitudes spread at the same time as the great NASDAQ/dot-com hype did, as manifested by Linux and Napster and Gnutella and Slashdot and so forth? Perhaps the end of the '90s was just so much at once, that we couldn't see our own growth through the haze..._
+
+**DR:** Well, of course, it was all happening simultaneously. In many ways, the corporate attack on Internet culture only strengthened us. People like me naively believed that the cyber-renaissance was quite inevitable. We had successfully wrested the Internet from the government's hands, and believed we had enacted a kind of power to the people.
+
+Little did we realize that our rejection of government would simply give free reign to corporations. It's like when you take antibiotics to kill off bacteria--you forget that you create terrific conditions for fungus to grow. Well, corporations were that fungus, that spread unchecked throughout the networks.
+
+Over the past year, however, the Internet--like a living system--rejected the fungal attack. Now, it's stronger than ever. Like an organism that has fought off a virus, we have come to recognize it. We understand the structure and tactics of corporations, we understand that they are not really alive at all, but pieces of code.
+
+And this sensibility is trickling down to 'mass' culture in the form of Naomi Klein's _No Logo,_ my _Coercion_ or Frontline documentary, _Adbusters,_﻿ and more.
+
+True enough, there was a real Internet culture developing the whole time. It wasn't really a Dark Ages at all--even though the _New York Times_ couldn't seem to cover anything about the Internet that didn't involve the NASDAQ index. It's really the public perception of the Internet that was changed--from that of a telecommunications infrastructure to a market phenomenon. People began to think of the Internet as a speculative opportunity rather than a cultural or, dare we say, spiritual one.
+
+The crash of the dot.com market needs to be distinguished from the life cycle of the Internet. What happened on NASDAQ has very little to do with Internet culture--except for the fact that a lot of the companies suffering now were responsible directly and indirectly for building the bandwidth that we're using to have all this fun right now. I'm writing to you from a cybercafe in London, in fact. At frighteningly fast T3 speeds. Can't imagine this would have happened without a huge cash influx from hapless investors.
+
+So now, we're getting to play on the roads left behind by would-be emperors. Fine with me.
+
+And yes, of course, great things like Blogger and Gnutella have been developing all along. Honestly, I feel like the major innovations all occurred in the shareware community before 1995, when Netscape went public. I certainly have a hard time thinking of any real innovation that came through the free market capitalist development paradigm. Explorer, streaming video, Outlook, are all just dolled up versions of programs that came out of University Illinois at Champagne Urbana (Mozilla), or Cornell (CUSeeMe), or MIT.
