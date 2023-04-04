@@ -42,3 +42,16 @@ But it was a case of Pink Floyd's "Welcome to the Machine." A bad one, that riva
 That's what my new novel is about, really. The way people get enslaved by ideas and stories that aren't real. They are tempting--just as tempting as a house in Redwood Hills--but they are booby prizes, and keep us from touching the genuine power we may have tapped.
 
 So, no. I don't feel I was led astray by the cyberdelic community. Not in the least. But I do feel sad, having witnessed their temptation, distraction, and enslavement. Like the Bible teaches, people who build pyramids--whether they're made of stone or investments--are slaves.
+
+**(Added after 9/11)**  
+What the cyberculture experienced was a liberation from a certain narrative. It felt something like liberation from narrative itself. Renaissance events allow for people to rise above the story. Sure, they get trapped in a new one, but that moment of shifting realities from story to meta-story, or game to meta-game, is really special. Quite valuable, really, because it permits us to remember that none of the stories are real. They're templates, superimposed on our reality.
+
+At the very least, we become co-creators of subsequent narratives. I have nothing against narratives, as long as we are all allowed to write them.
+
+The replacement of cyberculture with the dot.com pyramid was an attempt to impose a narrative on the choose-your-own-adventure, open-endedness of cyberculture. The Internet, if you remember, was not seen by big business as an opportunity, but as a threat. The object of the game was to neutralize the threat. Sure, a lot of people thought they were going to make a lot of money using the Internet word in their business plans. But the real, lasting function of the speculative economic game was to recontextualize the cyber-renaissance in a business narrative. It didn't work, because the businesses failed, and not everyone abandoned interactive telecommunications. We're still writing the story.
+
+The terrorist attacks on the WTC and Pentagon were another attempt to arrest self-determination with a static narrative. That's why Falwell couldn't help but justify them. Fundamentalists are people committed to narrative. Instead of changing their narratives to conform to the consensus, they attempt to change the world to fit their obsolete narratives. The narrative is fixed.
+
+Their narrative (Falwell's and radical so-called Islam) is Armageddon. The world was getting too tolerant, too networked, and too empowered. What the cyber-renaissance taught us is that the story isn't written. It emerges, just as organization emerges from a system. The imposition of a narrative structure, in most cases, will simply impede the emergence of genuine systemic balance. (No, this is not an argument for libertarianism. It is a call for the conscious co-creation, the crafted evolution of an open-ended human story.)
+
+**RU:** _In terms of cyber-counterculture, didn't those attitudes spread at the same time as the great NASDAQ/dot-com hype did, as manifested by Linux and Napster and Gnutella and Slashdot and so forth? Perhaps the end of the '90s was just so much at once, that we couldn't see our own growth through the haze..._
