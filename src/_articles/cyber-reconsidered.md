@@ -96,7 +96,7 @@ But by the late '90s, the Internet had been recast as a business plan, and open 
 
 I'm still as impatient as ever for cultural evolution to take place, for human beings to use whatever technologies (from language to love-making) are at their disposal to network politically and develop compassion, and for the demystification of the mass media to change the relationship of the disenfranchised to their cultural programming. I'm still quite enthusiastic about technology and human potential. I simply understand that the market is much more powerful than I had imagined, and that it feeds off fear and unconsciousness.
 
-As for your second part, true. Still, spiritual development and political activism are important stages in an individual and a society's growth. I mean, I always talk about the remote control allowing for deconstruction, the joystick demystifying the image, and then the keyboard allowing for DIY culture to be born.
+As for your second part, true. Still, spiritual development and political activism are important stages in an individual and a society's growth. I mean, I always talk about the remote control allowing for deconstruction, the joystick demystifying the image, and then the keyboard allowing for DIY culture to be born. What 
 
 6
 
