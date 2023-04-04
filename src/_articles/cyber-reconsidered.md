@@ -87,3 +87,21 @@ Honestly, though, the "pedal to the metal" I was advocating was the cyberpunk co
 As I experienced it at the time, the cultural renaissance of the mid-'90s was akin to the creation of a turbulent system. The linear, top-down mediaspace of the past, as well as the highly controlled and unidirectional flow of information and cultural programming, was giving way. The more faxes, cameras, internet connections, and literacy we could muster, the more multi-directional, human-generated, and chaotic the mediaspace would become.
 
 Thanks to turbulence (and I mean the kind we see in wave systems and clouds, not violent riots) the linear culture of the past centuries was finally giving way. But it was fighting back. It seemed to me that anything but a pedal-to-the-metal tactic would give them time to regroup and reorganize a counterattack.
+
+And, of course, that's exactly what happened. A totally misinformed _Time_ magazine cover story about cyberporn, coupled with shock tactics about "internet bombs" and attention deficit disorder from the rest of mainstream media, kept people at arms-length from a new medium that they feared would hurt them and their children in some unpredictable way. When they did go online, it was through the sanitized portals of AOL or some other commercial service, and by the time they got themselves all the way through to the world wide web (which AOL didn't offer for a good long time) they were greeted by the e-commerce merchants, who had time to set up shop.
+
+The thing I didn't realize back in the early '90s was that our hatred of government intervention online, and our successful elimination of most government influence over cyberspace had the unintended side-effect of giving free reign to business. So pedal-to-the-metal ended up meaning much more than "get rid of all restrictions." It meant "let the (so-called) free market libertarians run wild." And, though we don't have time for a full-on discussion of economics, here, the business practices, alliances, and misrepresentations made by the venture capitalists of silicon alley and valley do not represent a free market at all.
+
+But by the late '90s, the Internet had been recast as a business plan, and open universal access meant international 'open' markets. As the original Long Boom propagandists insisted "open good, closed bad: tattoo it on your forehead." So pedal-to-the-metal meant running with this lunacy. Too bad.
+
+I'm still as impatient as ever for cultural evolution to take place, for human beings to use whatever technologies (from language to love-making) are at their disposal to network politically and develop compassion, and for the demystification of the mass media to change the relationship of the disenfranchised to their cultural programming. I'm still quite enthusiastic about technology and human potential. I simply understand that the market is much more powerful than I had imagined, and that it feeds off fear and unconsciousness.
+
+As for your second part, true. Still, spiritual development and political activism are important stages in an individual and a society's growth. I mean, I always talk about the remote control allowing for deconstruction, the joystick demystifying the image, and then the keyboard allowing for DIY culture to be born.
+
+6
+
+7
+
+8
+
+9
