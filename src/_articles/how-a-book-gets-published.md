@@ -12,7 +12,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 Last month, I realized I was writing the very same email for the fourth time. It’s an email I’ve written what must be countless times before in answer to some variation on the question, “how do I publish a book?” I’m asked this question even more than “how do I write a book?” which may say a whole lot about the priorities of today’s aspiring authors. But I’ll cover that question next month.
