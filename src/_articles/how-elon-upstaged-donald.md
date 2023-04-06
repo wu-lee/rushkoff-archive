@@ -13,7 +13,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 Elon Musk accomplished a lot this week.
