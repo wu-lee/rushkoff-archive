@@ -13,7 +13,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 Someday in the not-so-distant future, we may look back on the web and social media, for all their problems, as the benevolent precursors to the thinking machines that took their place. While I’m intrigued as anyone by the way AI chatbots appear to attain sentience, express their desires for human connection, or go entirely off the rails, I am more concerned about our human willingness to accept AI sentience at face value.
