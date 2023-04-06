@@ -12,7 +12,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 While giving a recent television interview about promise and peril AI, I was asked about the inevitable “unemployment problem.” What would we do about all the jobs that would be lost to AI? I paused, then almost jokingly responded, “what if it’s not an unemployment problem but the unemployment solution?” It may sound like a jest, but who wants a job, really, anyway? Jobs are actually a rather recent invention, created after the establishment of “chartered monopolies” that made it illegal for any small business to compete with one of the king’s officially chartered companies. Instead of making shoes and selling them at the market, the cobbler now had to work for His Majesty’s Royal Shoe Company — a favored merchant who offered a kickback to the Crown for the exclusive right to monopolize the sector.
