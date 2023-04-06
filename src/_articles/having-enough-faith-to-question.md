@@ -12,7 +12,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 Back around the turn of the century, I wrote an article for Adbusters called “The Sabbath Revolt.” I was arguing for a “one-seventh rule” where we reserve one day a week for non-commodified activities. This idea of a day off each week was one of the first things the Israelite slaves gave themselves after escaping from Egypt. And seemed to me it could serve as a safeguard for the coming digital onslaught. If the algorithms and AIs were really going to program us into a new sort of slavery, perhaps withholding 1/7th of our time from them could give us enough pause to reflect and reset on our inherent worth.
