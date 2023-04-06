@@ -14,7 +14,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 The greatest security threat in America today is probably John Deere.
