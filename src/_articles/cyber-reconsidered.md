@@ -134,7 +134,7 @@ In the meantime, at least some portion of the countless investment dollars pouri
 
 For the past five years or so, those of us who were aware of how little money could actually be made on truly interactive experiences have attempted to pop the stock market bubble that has formed around it. We know that Internet investing is essentially a pyramid scheme, and that there are not enough eyeball-hours in a day to justify even today's, slightly deflated, dot-com valuations.
 
-3
+So we whine on about how big business doesn't belong online, won't really make any money, and should leave us all alone to play and interact in our publicly owned, civil-minded datasphere. What are we, crazy?
 
 4
 
