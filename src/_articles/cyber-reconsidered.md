@@ -146,7 +146,7 @@ One tragic error has been to resent the people who have made money off the Inter
 
 We want to crash the market and pop the bubble because we hate the poor fools who have seemingly taken over the digital landscape and gotten rich off a set of technologies they only mean to misuse. The recent correction in stock values is a clear indication that our message has been heard. Well, aren't we the kind ones?
 
-9
+I propose we chart a different course. Let's encourage business to invest in the Internet, and to build an open infrastructure that will someday allow the whole world to play a glorious networked game with itself, or better, find ways to interact other than through money or munitions. Let's milk every last drop from the corporate cows before they figure out they've been nourishing an infant who means to swallow them whole.
 
 10
 
