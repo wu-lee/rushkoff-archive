@@ -162,9 +162,9 @@ _Your thoughts, Mr. Rushkoff?_
 
 **DR:** Well, "genepools" may be an obsolete way of phrasing it. There are, however, dispossessed and disenfranchised people who tend to express themselves and their plights by any means necessary. If a "trailer trash" person is unhappy for reasons unknown and as a result of forces with which he or she is unfamiliar, we can't expect her to develop a cogent cultural analysis or social commentary. We may, however, see the expression of anxiety and dissatisfaction coming through whatever channels are available.
 
-6
+The part of the punk-becomes-NWA chain you developed that is left out, as far as I'm concerned, is the translation of British political punk to the Ramones' more random punk. When I was growing up, we didn't know from the Queen or Tories. We just knew some stuff sucked, and the Ramones gave us an easy way to relate to a vibe we didn't quite understand. It felt as though Crass and the Sex Pistols required a knowledge of art and politics that was just too much work for mall rats like us. So with American punk, we got a loud acknowledgement of our own urban, cultural, and intellectual landscape, such as it was.
 
-7
+As far as the movement of this vibe into ghetto culture, I don't know if it really happened that way. Sugarhill Gang and early rap felt like a different camp, to me. People with a different set of problems, singing about their own culture or lack of one. But the disenfranchisement of so-called black kids in America is very different from Queens whites or British punks. I really got to understand it when I spent some time in South Africa in the early '90s. The kids there, who were just getting exposed to MTV for the first time, and seeing images of gangsta rappers and all, they were horrified. Mind you, these were township kids in Soweto and the Districts. Kids who had to put up with stuff that would really make your skin crawl. Way beyond South Central LA in terms of living conditions. And these kids told me they felt "sorry" for the gangsta rap kids of L.A. They concluded that American black kids resorted to these angry and self-destructive expressions because they were dispossessed--the children of slaves, taken from their own lands.
 
 8
 
