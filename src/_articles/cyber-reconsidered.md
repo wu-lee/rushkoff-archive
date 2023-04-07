@@ -142,7 +142,7 @@ Once big business came online, most of us early proselytizers changed our tune t
 
 But maybe we should keep our eyes on that prize. Thanks to the short-sighted, profit-driven motives of mindless corporations, the Internet is cheaper to use, more widely available, and spreading faster than ever before. "Developing" regions and former Soviet-bloc nations are the next target market, and we can only imagine the sorts of incentives being formulated to turn folks who have never even made a phone call into Internet users.
 
-7
+One tragic error has been to resent the people who have made money off the Internet so far. Who cares if they get extremely wealthy? So what if the real estate prices in New York, San Francisco and London go up? This is a decentralized society we're building, anyway. The dot-com investors' belief in the false scarcity of urban real estate is no different than their allegiance to the finite dot-com naming scheme. It's competition that dominates their thinking, which is why they'll never really understand their holy grail of "online community."
 
 8
 
