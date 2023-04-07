@@ -140,7 +140,7 @@ I remember a time, not so long ago, when we were begging for big business to com
 
 Once big business came online, most of us early proselytizers changed our tune to gloom and doom. True enough, the Internet was pillaged. It became a strip mall of epic proportions, and many people logging on today get no sense of the opportunity a communications infrastructure might offer for the formation of a global society.
 
-6
+But maybe we should keep our eyes on that prize. Thanks to the short-sighted, profit-driven motives of mindless corporations, the Internet is cheaper to use, more widely available, and spreading faster than ever before. "Developing" regions and former Soviet-bloc nations are the next target market, and we can only imagine the sorts of incentives being formulated to turn folks who have never even made a phone call into Internet users.
 
 7
 
