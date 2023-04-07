@@ -129,3 +129,25 @@ Well, I'm done complaining.
 Don't worry--I'm still as anti-corporate as the next guy. If anything, I've become so anti-corporate that I don't mind exploiting them as much as they think they're exploiting us. They mean to take as much as they can get from us, so what's so terrible about our taking whatever we can get from them? In other words: Why not let big business build our Internet?
 
 They won't make any money off it, in the long run. In fact, no one has yet developed a truly profitable business plan for the Internet. Not the online magazine of the mid-'90s (no revenue), the e-commerce companies of the late '90s (no margins), or the streaming media sites of the early "broadband" 2000's (no one cares). The only people who have taken home any profits are the speculators who buy stock in these schemes--and then sell it to less crafty speculators before the schemes crash. The other folks who make money, of course, are the legions of advisors, brokers and consultants, who are busy leading everyone else to their doom, and a couple of monopolies.
+
+In the meantime, at least some portion of the countless investment dollars pouring into the Internet are going towards building the infrastructure itself. Telephone companies are developing faster, cheaper ways of increasing data rates, while cable TV companies work to expand bandwidth. Others are laying fiber-optic, launching satellites, miniaturizing cell phones, and integrating databases.
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
