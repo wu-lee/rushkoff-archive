@@ -148,6 +148,30 @@ We want to crash the market and pop the bubble because we hate the poor fools wh
 
 I propose we chart a different course. Let's encourage business to invest in the Internet, and to build an open infrastructure that will someday allow the whole world to play a glorious networked game with itself, or better, find ways to interact other than through money or munitions. Let's milk every last drop from the corporate cows before they figure out they've been nourishing an infant who means to swallow them whole.
 
+Where I'd make an exception, however, is that the whole dot.com boom was based in a lie--a dangerous lie that distorted reality. And no one wants to build on a distortion, unless we do it really very consciously. The propaganda of the market maniacs may have done more damage than their money was worth.
+
+A genuine boom will have to be based in productivity and the distribution of real assets, such as knowledge, rather than the pyramid-based Ponzie of a temporary speculative rush. There really are two economies out there--the real one and the speculative one. I'm all for boot-strapping oneself into nirvana, but if we're going to be working with money--basically just a metaphor for actual real-world survival--then we'll have to develop an economic reality that respects the laws of physics.
+
+**RU:** _Let's move on to your PBS special. I enjoyed your analyses of teen culture: the mook and the midriff. Let me trace a crooked line. It starts with punk rock, in the mid-'70s. Punk is a reaction against the mediocrity of corporate rock. And punk is... well, punk. Young people playfully embrace nihilistic, violent imagery, aggressive music, they start thrashing and moshing. Punks tend to be anti-intellectual, but intellectuals--the movement is promoted by writers and theorists, and even working class drop-outs like Joe Strummer and John Lydon are thinking people. Punk becomes an urban street culture. It also continues the countercultural impulse to dig the non-white "primitive"--so the love of reggae becomes part of the punk gestalt. Reggae begets toasting, which is a mix of the art of dj'ing and the beginnings of rap. This migrates from London and Jamaica to NYC, and becomes part of an early outlaw hip-hop culture that includes rap and graffiti art. Like Reggae, it has a bit of a gangster undertow, which usually comes along with any proud culture hailing from a poor community of outsiders. Public Enemy and others are infected with this virus and make it their own thing. The speed and aggressive energy of punk is part of the mix. Then NWA blows everything away. NWA (read their interview in SPIN back when EFIL4SREGGIN was number one) are total nihilistic punks. Their sense of self, even their sense of humor, as expressed in the SPIN interview, maps pretty closely to the way the Sex Pistols carried on. But there's a big difference. NWA is from a culture that's much rougher than even the white working class Brit street culture that begat the Pistols. NWA and other representatives of the new gangsta rap culture are actually mixed up in a real gangster culture, at a time when crack is exploding, shoot-outs are common, etc. So something that starts with a kind of intellectualized pop nihilism with political undertones starts to migrate into worship of the "thug life." This meme migrates back into the white culture, and you end up with the "mook." Punk was basically smart, but now it's hip to be thick._
+
+_Something similar is also happening in culture as a whole. In the mid-'90s, the popular TV shows were kind of smart--X Files and The Simpsons. Now it's Survivor and Missing Link. Poor and working class people debase themselves and act unbelievably stupid on various daytime TV talk shows. One is tempted to become a snotty elitist, or else to believe that there's a conscious conspiracy by corporate media to teach us contempt for poor people (of all races). But it seems pretty obvious to me that blaming the media is way simplistic. They are simply... well... media--the way in which this seeming cultural devolution is expressing itself._
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
 10
 
 11
+
+12
