@@ -156,11 +156,11 @@ A genuine boom will have to be based in productivity and the distribution of rea
 
 _Something similar is also happening in culture as a whole. In the mid-'90s, the popular TV shows were kind of smart--X Files and The Simpsons. Now it's Survivor and Missing Link. Poor and working class people debase themselves and act unbelievably stupid on various daytime TV talk shows. One is tempted to become a snotty elitist, or else to believe that there's a conscious conspiracy by corporate media to teach us contempt for poor people (of all races). But it seems pretty obvious to me that blaming the media is way simplistic. They are simply... well... media--the way in which this seeming cultural devolution is expressing itself._
 
-3
+_So here's a thought to challenge both of our better, well-intentioned, liberal views. Maybe the conservatives are right. Maybe the unsuccessful gene pools of all races are populating wildly and we're witnessing its effervescense. It's a nasty thought, but it becomes almost irresistable as one watches daytime TV, or the Insane Clown Posse..._
 
-4
+_Your thoughts, Mr. Rushkoff?_
 
-5
+**DR:** Well, "genepools" may be an obsolete way of phrasing it. There are, however, dispossessed and disenfranchised people who tend to express themselves and their plights by any means necessary. If a "trailer trash" person is unhappy for reasons unknown and as a result of forces with which he or she is unfamiliar, we can't expect her to develop a cogent cultural analysis or social commentary. We may, however, see the expression of anxiety and dissatisfaction coming through whatever channels are available.
 
 6
 
