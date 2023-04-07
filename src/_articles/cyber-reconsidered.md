@@ -136,7 +136,7 @@ For the past five years or so, those of us who were aware of how little money co
 
 So we whine on about how big business doesn't belong online, won't really make any money, and should leave us all alone to play and interact in our publicly owned, civil-minded datasphere. What are we, crazy?
 
-4
+I remember a time, not so long ago, when we were begging for big business to come onboard. In the early '90s, before the World Wide Web even existed, Internet enthusiasts would get laughed out of conference rooms for suggesting that any real companies might want to get involved in the interactive age. My first book on the Internet was canceled before it hit the press in 1993, because the publisher feared the "fad" would be over before the ink had dried (The book came out a year later).
 
 5
 
