@@ -138,7 +138,7 @@ So we whine on about how big business doesn't belong online, won't really make a
 
 I remember a time, not so long ago, when we were begging for big business to come onboard. In the early '90s, before the World Wide Web even existed, Internet enthusiasts would get laughed out of conference rooms for suggesting that any real companies might want to get involved in the interactive age. My first book on the Internet was canceled before it hit the press in 1993, because the publisher feared the "fad" would be over before the ink had dried (The book came out a year later).
 
-5
+Once big business came online, most of us early proselytizers changed our tune to gloom and doom. True enough, the Internet was pillaged. It became a strip mall of epic proportions, and many people logging on today get no sense of the opportunity a communications infrastructure might offer for the formation of a global society.
 
 6
 
