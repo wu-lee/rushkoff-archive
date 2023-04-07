@@ -144,7 +144,7 @@ But maybe we should keep our eyes on that prize. Thanks to the short-sighted, pr
 
 One tragic error has been to resent the people who have made money off the Internet so far. Who cares if they get extremely wealthy? So what if the real estate prices in New York, San Francisco and London go up? This is a decentralized society we're building, anyway. The dot-com investors' belief in the false scarcity of urban real estate is no different than their allegiance to the finite dot-com naming scheme. It's competition that dominates their thinking, which is why they'll never really understand their holy grail of "online community."
 
-8
+We want to crash the market and pop the bubble because we hate the poor fools who have seemingly taken over the digital landscape and gotten rich off a set of technologies they only mean to misuse. The recent correction in stock values is a clear indication that our message has been heard. Well, aren't we the kind ones?
 
 9
 
