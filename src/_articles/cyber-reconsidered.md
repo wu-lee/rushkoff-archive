@@ -3,7 +3,7 @@ publication: _publications/the-thresher.md
 title: Cyber Reconsidered
 subtitle: Douglas Rushkoff in conversation with R.U. Sirius
 image: ''
-date: 2002-01-01 05:00:00 +0000
+date: 2002-01-01T05:00:00.000+00:00
 blurb: ''
 notes: 2002, date unknown
 refs: ''
@@ -105,3 +105,27 @@ Whether or not the Internet will ever be used to administrate the planet more ef
 The Ancient Greeks said that the largest governable body politic was 10,000 men (and their women and slaves). But that was for a culture that governed itself on a hillside by show of hands. We clearly are in need of a way to govern and administrate a planet of many more people than this. An interactive mediaspace seems to me as good a tool as we're going to come up with for negotiating a consensus on how to spend our resources, and how to develop new ones.
 
 **RU:** _The glory of the earlier text-based internet was that it was participatory, interactive, and non-commercial. It was raw and rough, but we took the implications of that, of virtual reality, and a few other cultural totems and we evoked a sense of dynamism and hope. But are you really satisfied returning to text-based conversations, or did the novelty wear off? It certainly did for me... you know? Global brain or an awful lotta assholes... You be the judge... The web has been a nice moment, in that sense. It gave us the opportunity to create an online "artifact", a presentation, a personal communique that could be crafted with more care. In other words, there's a reason why we have "societies of spectacle." People like spectacle. So there's that for you to comment on, and additionally, the question, what next? Do we find some way of combining these elements? Does real sensory VR arrive in time to make meeting other people in the net novel and interesting again for a while, or whaaa?_
+
+**DR:** Yeah, well, the novelty wore off for me, too. But I'm forever changed as a result of my experience with the Internet, and my transformation would not have occurred had I been exposed to a less transparent form of media than the original text-only internet. You ask if I really feel like going back to those early text-based conversations. But, to be honest, both of us are still just as involved in those "early text-based" conversations. They're simply happening more in email than on chat boards or the Well. Really - look at us right now! And look at Blogger and other basically text-based systems of self-expression. The inherent transparency is more than refreshing or novel; it's liberating in that the tools of consumption and tools of creation are basically the same.
+
+You know how many of my readers are writers, now, too? I can't imagine how this would have happened without the text-based internet, and all those mailing lists I'm on. I write online now at least as much as I did back in the "old days."
+
+Yes, the web did allow for the creation of a collaborative artifact, even if it did become more about selling than saying, for a while. Now it looks like that aspect of the artifact has withered, and we're back to the collective self-expression. Spectacle is certainly interesting--though I don't know that WeLiveInPublic really should replace Shakespeare, just yet. Exhibitionism is a cultural artifact, but so is a pooper-scooper. It can't replace art. There's room for everything in the spectacle, but so, too, is there room for critical analysis.
+
+I think what's next, honestly, is a return to the sacred. As people get literate, they tend to deconstruct the sacred truths. Then they learn those sacred truths are based on false assumptions or developed to support very specific and obsolete agendas. So we're in the middle of this, occasionally disillusioning, process. And what's next will be a search for a new kind of sanctity. I don't think this will occur online, though it may be supported by online and other new media. In a more flip way of constructing the same thought, what's next is not MP3, but vinyl.
+
+The net can allow for a certain kind of emotionally / spiritually relevant communication, but it pales in comparison with "real" communication and experience. It served as remedial help for a society that lost the ability to communicate at all. It became a nice, safe, dry way to touch one another. Now, hopefully, it has whetted our appetite for something a lot more juicy.
+
+The only real advantages to the net are the massive numbers and massive networking. If it's not intended for a whole lot of people, or for someone far away, I'd keep it in meatspace. Unless you're creating some kind of virtual art project.
+
+**RU:** _I criticized the long boom, for a variety of reasons, many of them the same as its more prominent critics. I'm sorry it's over. Having all that bullshit money fertilizer energy optimism around meant that interesting projects could get funding. There were alienating aspects to it, and it certainly caused pain in terms of the housing market and so forth here in San Francisco. But in evolutionary terms, a boom is fertile ground. I guess ultimately, a boom based on stock market illusions is really just a little fart. Perhaps there's a way of fostering a genuine boom, one that includes the market but evokes a dynamic in which people actually create useful things. Right now, the overall zeitgeist feeling is one of vacancy. The market crashed, Bush was elected (or installed), the content-based websites are going down the tubes, and everybody is just sort of standing around with their mouths open. Err... no question really, just conversation...._
+
+**DR:** I wrote an article along those lines, during the beginning of the crash...here it is:
+
+Those of you who have followed my work for any length of time know I resent the way business has taken over the Internet. Since 1994, when the international research communications infrastructure was officially opened to business, I've watched what has appeared to me to be a degradation of the content, spirit, and mission of the interactive space.
+
+Well, I'm done complaining.
+
+Don't worry--I'm still as anti-corporate as the next guy. If anything, I've become so anti-corporate that I don't mind exploiting them as much as they think they're exploiting us. They mean to take as much as they can get from us, so what's so terrible about our taking whatever we can get from them? In other words: Why not let big business build our Internet?
+
+They won't make any money off it, in the long run. In fact, no one has yet developed a truly profitable business plan for the Internet. Not the online magazine of the mid-'90s (no revenue), the e-commerce companies of the late '90s (no margins), or the streaming media sites of the early "broadband" 2000's (no one cares). The only people who have taken home any profits are the speculators who buy stock in these schemes--and then sell it to less crafty speculators before the schemes crash. The other folks who make money, of course, are the legions of advisors, brokers and consultants, who are busy leading everyone else to their doom, and a couple of monopolies.
