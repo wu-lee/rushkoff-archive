@@ -177,4 +177,4 @@ The only answer I can grope towards is education and genuine media literacy.
 **(Added after 9/11)  
 **Again, what genuine or "deep" media literacy means is that everyone, not just the elites or the powerful or the authorized, is invited to collaborate in the writing of the story--the writing of the rules.
 
-12
+There are, most generally speaking, two ways that values and laws get transmitted and implemented. By testament, or by consensus. That's why they call the books of the Bible "testaments." 600,000 people stood at Mt. Sinai and watched while God did all those miracles with Moses. The Torah is, quite literally, a testament to those events. Then, you pass on the religion because of the authority of the testament: "my father's father saw these events."
