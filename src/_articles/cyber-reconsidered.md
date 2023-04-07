@@ -170,8 +170,11 @@ I think what you're witnessing--from Jerry Springer to indie rap--is a disposses
 
 No, the lyrics that his kids write--or that the black kids on the other side of the tracks write--will not address the core problems. But by the time these people are given a forum, the very mechanisms for their dissent have been declawed.
 
-10
+We can't expect kids from South Central to be informed by Marx or Derrida the way that university punks were. And yes, corporate America will find ways to channel their rage into purchases and commodifiable cultural stereotypes. Problem is, these usually exacerbate the problems.
 
-11
+The only answer I can grope towards is education and genuine media literacy.
+
+**(Added after 9/11)  
+**Again, what genuine or "deep" media literacy means is that everyone, not just the elites or the powerful or the authorized, is invited to collaborate in the writing of the story--the writing of the rules.
 
 12
