@@ -132,7 +132,7 @@ They won't make any money off it, in the long run. In fact, no one has yet devel
 
 In the meantime, at least some portion of the countless investment dollars pouring into the Internet are going towards building the infrastructure itself. Telephone companies are developing faster, cheaper ways of increasing data rates, while cable TV companies work to expand bandwidth. Others are laying fiber-optic, launching satellites, miniaturizing cell phones, and integrating databases.
 
-2
+For the past five years or so, those of us who were aware of how little money could actually be made on truly interactive experiences have attempted to pop the stock market bubble that has formed around it. We know that Internet investing is essentially a pyramid scheme, and that there are not enough eyeball-hours in a day to justify even today's, slightly deflated, dot-com valuations.
 
 3
 
