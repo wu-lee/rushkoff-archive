@@ -10,7 +10,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 Doug Rushkoff is the author of eight popular books about digital and pop culture, including _Media Virus,_ and _Coercion: Why We Listen to What "They" Say._ His 1995 book, _Cyberia: Life in the Trenches of Hyperspace_ focused on the cyberculture movement of the early 1990s. I was one of the book's subjects. In this conversation, we looked back, and then discussed the State of the Cyberculture circa 2001. Rushkoff added additional comments after the events of 9/11. _-RU_
