@@ -12,7 +12,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 _This is the second of four “interventions” for changing the register from digital industrialism to something, well, better. The_ [_idea of changing the register is introduced here_](https://rushkoff.medium.com/dont-get-people-to-do-anything-9d59a1cf29a0)_, and the first intervention,_ [_“denaturalize power” is here_](https://rushkoff.medium.com/if-it-aint-real-don-t-fix-it-c080b27f82c5)_._
