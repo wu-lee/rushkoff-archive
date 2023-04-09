@@ -11,7 +11,6 @@ notes: '[https://rushkoff.medium.com/wanna-make-something-together-1616414ae5ff]
 refs: ''
 sources: ''
 categories: []
-published: false
 
 ---
 I’ve been teaching in the Media Studies department at CUNY/Queens College for the past, gosh, eight years. This coming Fall, I’ll become the new director of the graduate program, where we’ve been focused on media studies scholarship in the context of social change and social justice. It’s been fun and enriching, but increasingly people have been asking for something more hands-on, embedded in community, or expressed in the form of performing arts or media activism.
