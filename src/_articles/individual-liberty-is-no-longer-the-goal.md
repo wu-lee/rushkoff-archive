@@ -12,7 +12,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 _This is the fourth in a series of pieces on instigating social change by focusing less on changing or manipulating people than_ [_changing the “register_](https://medium.com/@rushkoff/dont-get-people-to-do-anything-9d59a1cf29a0)_.” I got the word “register” from_ [_business ethicist Jerry Davis_](https://www.teamhuman.fm/episodes/242-marina-gorbis-jerry-davis)_, with whom I’m working on an initiative called Equitable Enterprise at Institute for the Future. He doesn’t mean changing the cash register, or moving to a blockchain ledger. Rather, he means moving from industrial, growth-based values to ones of mutuality and collaborative commerce._
