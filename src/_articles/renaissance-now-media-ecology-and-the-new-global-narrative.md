@@ -3,7 +3,7 @@ publication: _publications/eme-explorations-in-media-ecology.md
 title: Renaissance Now! Media Ecology and the New Global Narrative
 subtitle: ''
 image: ''
-date: 2002-04-01 05:00:00 +0000
+date: 2002-04-01T05:00:00.000+00:00
 blurb: ''
 notes: ''
 refs: ''
@@ -13,35 +13,12 @@ categories:
 published: false
 
 ---
+**HACKING BORDERS:  
+REVOLUTION OR RENAISSANCE?**
+
+So often we hear people using the word _revolution_ to describe the current overwhelming cultural shift fostered by technology and new media. However overwhelming it might be, can we really describe the current transition as a revolution? For me, the word _revolution_ evokes images of a violent upheaval and guillotined heads. There's certainly very little progress implied by _revolution_; it is simply someone spinning around in circles. Digital culture may be marginally revolutionary in the sense that it is characterized by what so many companies and institutions have called "thinking outside the box"--a willingness to challenge conventions and consider meta-narratives. But this notion of thinking outside the box and gaining perspective is not simply moving in a circle. We are coming to a new understanding of what had always been considered literal reality; we are seeing it instead as a picture of reality. Our new tools are also leading us to feel empowered enough to adjust the frame around that picture. Such an upscaling of perception, intention, and design is better described as _renaissance_.
+
 xxx
-
-So often we hear people using the word revolution to describe the current over-
-
-whe\~g _cul\~ral shift fostered by technology and new media. However over-
-
-whelming It ffilght be, can we really describe the current transition as a revolution?
-
-For me, the word revolution evokes images of a violent upheaval and guillotined
-
-heads. There's certainly very little progress implied by revolution; it is simply
-
-someone spinning around in circles. Digital culture may be marginally revolu-
-
-tionary in the sense that it is characterized by what so many companies and insti-
-
-tutions have called "thinking outside the box" -a willingness to challenge con-
-
-ventions and consider meta-narratives. But this notion of thinking outside the box
-
-and gaining perspective is not simply moving in a circle. We are coming to a new
-
-understanding of what had always been considered literal reality; we are seeing it
-
-instead as a picture of reality. Our new tools are also leading us to feel empowered
-
-enough to adjust the frame around that picture. Such an upscaling of perception,
-
-intention, and design is better described as renaissance.
 
 Renaissance literally means "rebirth." Old ideas emerge in a new context. A ren-
 
