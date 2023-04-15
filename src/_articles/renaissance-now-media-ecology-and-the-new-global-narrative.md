@@ -18,49 +18,9 @@ REVOLUTION OR RENAISSANCE?**
 
 So often we hear people using the word _revolution_ to describe the current overwhelming cultural shift fostered by technology and new media. However overwhelming it might be, can we really describe the current transition as a revolution? For me, the word _revolution_ evokes images of a violent upheaval and guillotined heads. There's certainly very little progress implied by _revolution_; it is simply someone spinning around in circles. Digital culture may be marginally revolutionary in the sense that it is characterized by what so many companies and institutions have called "thinking outside the box"--a willingness to challenge conventions and consider meta-narratives. But this notion of thinking outside the box and gaining perspective is not simply moving in a circle. We are coming to a new understanding of what had always been considered literal reality; we are seeing it instead as a picture of reality. Our new tools are also leading us to feel empowered enough to adjust the frame around that picture. Such an upscaling of perception, intention, and design is better described as _renaissance_.
 
+_Renaissance_ literally means "rebirth." Old ideas emerge in a new context. A renaissance is a reconfiguring of the constructed ways we experience the world in order to reconnect with it, the adaptation our cultural lenses to conform to our changing vision. In the last Renaissance, a number of discoveries and inventions changed our most basic experience of the real. Perspective painting allowed us to create representations of reality that simulated dimensionality. The discovery that the world was round and the ability to circumnavigate it radically redefined our notion of space and our sense of agency. The development of calculus allowed us to relate planes to spheres and spheres to four-dimensional fictional objects, performing conceptual calculations never before possible. The printing press allowed the widespread distribution of ideas and data, connecting people in expanded social and political communities. By the Enlightenment, coffee imported from Morocco encouraged people to stay up late at night and talk, giving rise to a "bohemian" culture dedicated to challenging conventional models of reality through the new perspectives they had gained.
+
 xxx
-
-Renaissance literally means "rebirth." Old ideas emerge in a new context. A ren-
-
-aissance is a reconfiguring of the constructed ways we experience the world in
-
-order to reconnect with it, the adaptation our cultural lenses to conform to our
-
-changing vision. In the last Renaissance, a number of discoveries and inventions
-
-changed our most basic experience of the real. Perspective painting allowed us to
-
-Douglas Rushkoff, a New York-based writer, is adjunct professor in New York
-
-University's Interactive Telecommunications Program. Portions of this article first
-
-appeared in Yahoo! Internet Life. Another passage is adapted from an essay in the book£-
-
-Futures (London: Wiley, 2001).
-
-Direct •11 correspondence to www.rushkoff.com
-
-41
-
-Rushkoff: Renaissance N ow!
-
-__ 1: that simulated dimensionality. Th dis · of reauty · · e co
-
-create represenraoons d the ability to circumnavtgate
-
-th
-
-it radically red\~ery 3⁄4t world was round an f agency. The development of calcuJUs \~11ltled Ou
-
-e d ur sense o c dim . I fi ctt..10,,_, r i . of space an o d heres to rour- ens1ona ictional ob· ed \\ts \\
-
-nooon heres an sp "bl Th . lects to relate planes to spcalculations never before poss1 e. _e pnnting press all\~Per. I f nning conceptual . . of ideas and data, connecting people
-
-th
-
-in exp ,,_,ed
-
-o "despread distnbuoon . . By the Enlightenment, coffee irnponedanfded \\
 
 e WI cal nununioes. . h d alk ro
 
