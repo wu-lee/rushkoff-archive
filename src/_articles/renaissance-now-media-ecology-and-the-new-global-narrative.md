@@ -22,43 +22,9 @@ _Renaissance_ literally means "rebirth." Old ideas emerge in a new context. A re
 
 The late 20th century brought discoveries and inventions whose collective impact could be considered a renaissance of at least equal magnitude. While perspective painting allowed Renaissance artists to create two-dimensional images, the holograph now allows us to create three-dimensional representations that approximate our vision even more closely. By manipulating the laws of perspective, some Renaissance painters created deliberately skewed or "trick" representations of reality, challenging the reliability of our vision and suggesting the possibility that illusion exists in reality. The mechanics of the holograph offer a similar challenge because when a holographic plate is shattered into many pieces, the image is not fragmented. Each shard of the plate will contain a smaller image of the entire original, suggesting that fractal relationships may underlie much of our illusions as well as our reality. The underlying technology of holographs further extends our understanding of dimensionality and has been used to understand everything from society to brain anatomy.
 
+Although Renaissance explorers discovered that the world was round, modern scientists discovered atomic energy and took us to the moon. Having already mastered the globe through exploration, we were now able to explore beyond it, to see it as an object from another position in space, and even to destroy it. Meanwhile, chaos math and systems theory opened complex conceptual possibilities in much the same way calculus had for Renaissance mathematicians.
+
 xxx
-
-the holograph now allows us to crle ly By manipulating the laws of perspec- . . ven more c ose . " . k" approximate our vtsion e. ed deliberately skewed or tnc representa- . pamters creat . . · th . tive, some Renaissance . Ii bility of our vtsIOn and suggesting e poss1-
-
-tions of reality, chall\~n\~g th
-
-e. re Tha hanics of the holograph off er a similar . ill · ts m reality. e mec • ·
-
-bility that us10n eXIS holo a hie plate is shattered mto many p1\~ces, the
-
-challenge because when a h r \~ f the plate will contain a smaller IIDage of
-
-image is not fragmented. \~ac ths arf 0
-
-tal Ian· onships may underlie much of our
-
-the \~nore . ongm . • al esnng at rac re , sugg . The underlying technology of holographs further
-
-illusions as well as our r_ealityf. dim . ality and has been used to understand extends our understanding o ens1on
-
-rythin from society to brain anatomy. od ev\~thou:h Renaissance explorers discovered that the world was_ round\~; m:
-
-scientists discovered atomic energy and took us to the moon. Havmg alre y .
-
-tered the globe through exploration, we were now able to explore beyond It, \~o
-
-see it as an object from another position in space, and even to destro\~ \~t.
-
-Meanwhile, chaos math and systems theory opened complex conce\~\~al possibilities
-
-The
-
-in
-
-computer
-
-much the same way calculus had for Renaissance mathemat1c1ans.
 
 and the Internet have changed communication, publication, and
 
