@@ -20,37 +20,9 @@ So often we hear people using the word _revolution_ to describe the current over
 
 _Renaissance_ literally means "rebirth." Old ideas emerge in a new context. A renaissance is a reconfiguring of the constructed ways we experience the world in order to reconnect with it, the adaptation our cultural lenses to conform to our changing vision. In the last Renaissance, a number of discoveries and inventions changed our most basic experience of the real. Perspective painting allowed us to create representations of reality that simulated dimensionality. The discovery that the world was round and the ability to circumnavigate it radically redefined our notion of space and our sense of agency. The development of calculus allowed us to relate planes to spheres and spheres to four-dimensional fictional objects, performing conceptual calculations never before possible. The printing press allowed the widespread distribution of ideas and data, connecting people in expanded social and political communities. By the Enlightenment, coffee imported from Morocco encouraged people to stay up late at night and talk, giving rise to a "bohemian" culture dedicated to challenging conventional models of reality through the new perspectives they had gained.
 
+The late 20th century brought discoveries and inventions whose collective impact could be considered a renaissance of at least equal magnitude. While perspective painting allowed Renaissance artists to create two-dimensional images, the holograph now allows us to create three-dimensional representations that approximate our vision even more closely. By manipulating the laws of perspective, some Renaissance painters created deliberately skewed or "trick" representations of reality, challenging the reliability of our vision and suggesting the possibility that illusion exists in reality. The mechanics of the holograph offer a similar challenge because when a holographic plate is shattered into many pieces, the image is not fragmented. Each shard of the plate will contain a smaller image of the entire original, suggesting that fractal relationships may underlie much of our illusions as well as our reality. The underlying technology of holographs further extends our understanding of dimensionality and has been used to understand everything from society to brain anatomy.
+
 xxx
-
-e WI cal nununioes. . h d alk ro
-
-social and Politi co
-
-M OC
-
-le to stay up late at rug t \~ t , giving rise torn
-
-co encouraged peop ed challengm· g conventional models of re\~i· a
-
-or dedicat to
-
-<lllty
-
-"bohemian"culture
-
-ecoves . they had <r.iined.
-
-b-- d . . h through the new persp h discoveries an mvennons w ose collecti
-
-The late 20th centurY broug
-
-b
-
-t_ ance of at least equal magnitude. While peve ·dered a renaiss dim . r- impact could e cons
-
-• . e artists to create two- ens1onal imagPI: . . all ed Renaissanc . al . """l
-
-speccive pamong ow ate three-dimension representations that
 
 the holograph now allows us to crle ly By manipulating the laws of perspec- . . ven more c ose . " . k" approximate our vtsion e. ed deliberately skewed or tnc representa- . pamters creat . . · th . tive, some Renaissance . Ii bility of our vtsIOn and suggesting e poss1-
 
