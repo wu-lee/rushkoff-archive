@@ -24,13 +24,9 @@ The late 20th century brought discoveries and inventions whose collective impact
 
 Although Renaissance explorers discovered that the world was round, modern scientists discovered atomic energy and took us to the moon. Having already mastered the globe through exploration, we were now able to explore beyond it, to see it as an object from another position in space, and even to destroy it. Meanwhile, chaos math and systems theory opened complex conceptual possibilities in much the same way calculus had for Renaissance mathematicians.
 
+The computer and the Internet have changed communication, publication, and the idea of community to a degree comparable to the printing press. LSD and psychedelics, like the coffee beans of the Renaissance, had people staying up late together and experimenting with the status quo.
+
 xxx
-
-and the Internet have changed communication, publication, and
-
-the idea of community to a degree comparable to the printing press. LSD and psychedelics, like the coffee beans of the Renaissance, had people staying up late
-
-together and experimenting with the status quo.
 
 A renaissance is a shift in perspective, the shift from living within a model to
 
