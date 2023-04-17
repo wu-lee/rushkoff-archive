@@ -36,6 +36,8 @@ Likewise, those of us aware of the power of the current renaissance are attempti
 
 A lucky beneficiary of the digital renaissance, I have been encouraged to believe that our reality is, indeed, open source--or at least that much of what we have been regarding as permanent _hardware_ is, indeed, only _software_ and subject to change. For me, the most important insight of cyberculture is that we all have access its codes; we are all potential reality programmers.
 
+Media constitute the realm in which our reality is negotiated. I used to stay up nights wondering: What are media? It was a perplexing question. A zipper is a medium; open, it means one thing and closed, another. A face is a medium; we read people's appearance and expressions for information about them. Even our DNA is a medium--arguably, the best medium nature has developed, capable of sending codes through the millennia. Ultimately, only a person's most essential consciousness--one's agency, will, and intention--isn't a medium. As consciousnesses swimming in media, we create and control narratives to negotiate reality and our places within it. Through competing stories we negotiate what is going on. But by making up rules and creating tools for storytelling, we negotiate how those stories will be told: the meta-story.
+
 xxx
 
 . Media constitute the realm lll w_
