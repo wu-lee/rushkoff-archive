@@ -28,33 +28,9 @@ The computer and the Internet have changed communication, publication, and the i
 
 A renaissance is a shift in perspective, the shift from living within a model to moving outside of it. Or, as video gamers might express it, from _game_ to _metagame_. Young people who spend a lot of time immersed in video game environments understand this phenomenon well. There are two ways one can learn to play a game. The first is to read the rules, practice, and use old-fashioned trial and error. The second is to find the magazines and Web sites that will share secret codes to avoid traps, win levels, and gain special advantages in the game. Are the people using these "cheat sheets" really playing the game? Certainly, but the game they are playing is the meta-game.
 
+Likewise, there are moments when we, as society, as a culture, or even as individuals, shift from simply playing the game by the rules to playing the meta-game and changing the rules. These are renaissance moments. Renaissance moments happen when we experience a shift in perspective so that the stories, models, and languages that we have been using to understand our reality are suddenly up for grabs. But these renaissance moments are transitory, because almost as soon as our perspectives are shifted, we settle into new conventions. Alas, the possibilities opened by our new perspective close up, and we once again mistake the map for the territory. We forget that the new stories and metaphors we have developed are just representations, and we mistake them for literal history.
+
 xxx
-
-l c . , ate two-dimension images, . OOSI e • . , :ut1sts t() LfC .
-
-allowed Rrn.u\~,am't · L-,.__d' ,ensional representations that
-
-\-.reate tmt."-- 10 • th 1 f
-
-) w alJo"'-s us w l B ,anipulatmg e aws o perspec-
-
-\~osdy Y n • k" ,ision even morel dcl:be rely skewed or "tnc representa- . reared 1 ra · th ·
-
-,.mce pamrers r . .
-
-1
-
-. f r ,\~sion and suggestmg e possi-
-
-aJJ · the relnh1 1n' o ou ff · ·1
-
-1
-
-\~gi\~g . Th. · hanics of the holograph o er a s1mi ar
-
-exists m realirv. e mcc • · th
-
-h h I ., h·c plate is shattered mto many pieces, e
 
 w en a o ograp 1 • • all · f
 
