@@ -26,75 +26,9 @@ Although Renaissance explorers discovered that the world was round, modern scien
 
 The computer and the Internet have changed communication, publication, and the idea of community to a degree comparable to the printing press. LSD and psychedelics, like the coffee beans of the Renaissance, had people staying up late together and experimenting with the status quo.
 
+A renaissance is a shift in perspective, the shift from living within a model to moving outside of it. Or, as video gamers might express it, from _game_ to _metagame_. Young people who spend a lot of time immersed in video game environments understand this phenomenon well. There are two ways one can learn to play a game. The first is to read the rules, practice, and use old-fashioned trial and error. The second is to find the magazines and Web sites that will share secret codes to avoid traps, win levels, and gain special advantages in the game. Are the people using these "cheat sheets" really playing the game? Certainly, but the game they are playing is the meta-game.
+
 xxx
-
-A renaissance is a shift in perspective, the shift from living within a model to
-
-moving outside of it. Or, as video gamers might express it, from game to metagame. Young people who spend a lot of time immersed
-
-ments understand this phenomenon
-
-in video game environwell. There are two ways one can learn to
-
-play a game. The first is to read the rules, practice, and use old-fashioned trial and
-
-error. The second is to find the magazines and Web sites that will share secret
-
-codes to avoid traps, win levels, and gain special advantages in the game. Are the
-
-people using these "cheat sheets" really playing the game? Certainly, but the g
-
-h l · · th
-
-ame
-
-t ey are p ayrng 1s e meta-game.
-
-\~
-
-' I \\',,it . , ,, J '' '- ,· •
-
-,.-"·' \~,. .i- i:.· ''· · . , llit\\'. The discovery th"t . ,ns11. ,1 ' , - - ...l f' , t,
-
-. I ,1 ,,1,t.1n\~ .. it r.,dically t"t:Ue ined Ot1r
-
-w111 • 1, .1,,.1tt . l I JI . . 1-1\\ rh.11 :- .- \\.1,,,,11. \~ •nt of ca cu us a owed lls . , ,t ro t • , I ', it I ,pint I b'
-
-im"'r:\~ \\ i ch.- .1 b1li l' ' lhc ,J,•,·c· l .- ,n-ll firtiona o Jects, per\~ ,un1.1 .lO\\ · ·11-' ' ' r tllt'll\~H • ' all
-
-• J r Sc'll\~t' l't ,I\~( . ) 1,,11\\'-l I . I l'ht: rwinung press OWed
-
-mu tm - . 1i.-1\\':- 11 ·,1b l', l . "' spht•i-c·s .1111I ·'I' . t,d1 ,11· 1'1
-
-'-'· "-·ting peop c m expanded l \~ . ,-•, ti l'lHllll .. . d f
-
-tt'tl ,-.1kul.ltn'11\~ '. ' . 11,,l d.,c.,. ·nt t·ottee tmportc ro1
-
-n
-
-· · t I k.1:- · • 1· •htc•tllllt ' • • •
-
-disrrihuri\\' 11 ''. ' 1
-
-, ih,· l· 11 1
-
-:-- . 1 ·\\lld rnlk, gtvmg nse to a
-
-' ·, '' tl I'' l( ' f
-
-:-al comnuimn, . ·. , lll' l.trt' .,c \~., tion;tl models o reality _ _ ,J 1·1,,,r.1 . -,n, t: ll -:H. "t'U .. pt'<'I' t . 1 ll,·11••111\~ I. l • \~ . l l .. l.l :' •
-
-m.' ded1•\~-\~t\~\~ h:'.,. h.i,l \~.iint_"l. 1 • nYrntions whose collective
-
-perspKflH\~ t ,· ···t1t'' .HHl ' • d Wh'l
-
-"' . h,\\)u\~hr .1 1
-
-\~-"" ' • • 1
-
-, 't "iual magmtu e. 1 e per-
-
-cc:11run, · . . , l,t ,lt l ,l\~ ,.... • ' al ' \~ _ 'd red :1 rr11.11:-s.111
 
 l c . , ate two-dimension images, . OOSI e • . , :ut1sts t() LfC .
 
