@@ -34,19 +34,9 @@ But before things have been locked down, ideas compete for consensus. The challe
 
 Likewise, those of us aware of the power of the current renaissance are attempting to preserve and extend the notion that much of reality itself is "open source"--that the "codes" by which we organize our experiences are more accessible than we generally assume. For artists, cultural producers, and, of course, activists, there is an imperative to influence what will become the new consensus and to mark it with sense of possibility that will help us maintain a sense of agency over our own collective and individual perspectives.
 
+A lucky beneficiary of the digital renaissance, I have been encouraged to believe that our reality is, indeed, open source--or at least that much of what we have been regarding as permanent _hardware_ is, indeed, only _software_ and subject to change. For me, the most important insight of cyberculture is that we all have access its codes; we are all potential reality programmers.
+
 xxx
-
-A lucky beneficiary of the digit
-
-that our reality is, indeed, open 5
-
-been regarding as permanent bar
-
-ch · rt
-
-ange. For me, the most unpo.
-
-access its codes; we are all pot\~nnt
 
 . Media constitute the realm lll w_
 
