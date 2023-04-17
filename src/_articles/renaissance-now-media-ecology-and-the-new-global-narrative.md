@@ -32,41 +32,9 @@ Likewise, there are moments when we, as society, as a culture, or even as indivi
 
 But before things have been locked down, ideas compete for consensus. The challenge, and the opportunity, during these moments is to make a positive impact in that struggle. For me, this means preserving the notion that the ideas that win consensus approval may be useful, but they are still arbitrary. This is the true _border hack_: to move outside the frame of the picture and show others how this is possible. I would argue that we are currently in a period of renaissance, still in the process of assimilating the results of a shift in perspective caused by remarkable technological progress. We are still aware that the shift is going on and hoping to preserve some aspect of our newfound sensitivity into the next phase of human society. It is akin to the realization we have in the heightened state of awareness caused by a mystical or psychedelic experience: At the height of a visionquest we wonder how we will be able to remember that state of awe or insight once the experience is over. We wonder how to plant a seed or landmark of some kind that will be remembered after the return to waking-state consciousness.
 
+Likewise, those of us aware of the power of the current renaissance are attempting to preserve and extend the notion that much of reality itself is "open source"--that the "codes" by which we organize our experiences are more accessible than we generally assume. For artists, cultural producers, and, of course, activists, there is an imperative to influence what will become the new consensus and to mark it with sense of possibility that will help us maintain a sense of agency over our own collective and individual perspectives.
+
 xxx
-
-ssible. I would argue that we a
-
-po f · ·1 ·
-
-process o ass1m1 atmg the resul
-
-technological progress. We are st
-
-preserve s\~me \~spect of our_ ne
-
-society. It IS akin to the reahzati
-
-caused by a mystical or psyched
-
-wonder how we will be able to
-
-experience is over. We wonder h
-
-will be remembered after the re
-
-Likewise, those of us aware oft
-
-ing to preserve and extend the not·
-
-that the "codes" by which we or
-
-we generally assume. For artists,
-
-is an imperative to influence wha
-
-with sense of possibility that will .
-
-collective and individual perspec
 
 A lucky beneficiary of the digit
 
