@@ -38,43 +38,9 @@ A lucky beneficiary of the digital renaissance, I have been encouraged to believ
 
 Media constitute the realm in which our reality is negotiated. I used to stay up nights wondering: What are media? It was a perplexing question. A zipper is a medium; open, it means one thing and closed, another. A face is a medium; we read people's appearance and expressions for information about them. Even our DNA is a medium--arguably, the best medium nature has developed, capable of sending codes through the millennia. Ultimately, only a person's most essential consciousness--one's agency, will, and intention--isn't a medium. As consciousnesses swimming in media, we create and control narratives to negotiate reality and our places within it. Through competing stories we negotiate what is going on. But by making up rules and creating tools for storytelling, we negotiate how those stories will be told: the meta-story.
 
+Renaissances are, in part, the moments when we pull out of a particular story long enough to consider the way in which it is being told. The game and the meta-game, the stories and the meta-stories, have been regulated and controlled for centuries. As Aristotle well understood, stories work by creating a character whom the audience likes and having that character make a series of decisions that lead to terrible danger. This brings the audience into a heightened state of tension about this poor character who has made all these wrong decisions. Then, once the audience can't take it anymore, the storyteller invents a solution. In a Greek play that solution might have been Athena coming down to save the day.
+
 xxx
-
-. Media constitute the realm lll w_
-
-11\.ight . h media
-
-Ine . s Wondering: W at are .
-
-diurn; open it means one thing
-
-read , d express1
-
-DN P\~ople's appearance an the bes·
-
-s I\\ 18 a medium-arguably, . endin h jllen111a,
-
-c0h... • g codes through t e m ·u an,
-
-'\~Clo , nc', Wl ' \~ llC.:n o,-,.. "' r> n c :lP'C } J •
-
-E
-
-X.
-
-ONs IN MIDIA ECOLO,.Y Lik · - -\~ "' ew1se th ·d J ' · ere VI ua s, shift fro a\~e moments whe . and changin m simply play· n we, as society, as a culture, or even as indi- happen wh g the rules. Th mg the game by the rules to playing the meta-game en we ese are r ·
-
-. languages that experience a shift . ena1ssance_ moments. Renaissance moments
-
-b B h We have bee . 10 perspecuve so that the stories models and gra s. ut t e n using t d . ' ' . se renaissanc O un erstand our reality are suddenly up for
-
-Perspectives hift e moments · b are s ed are transitory, ecause almost as soon as our opened_ by our new per;pwe _settle into new conventions. Alas, the possibilities
-
-h t t ,vr ect1ve dos d . . t e em ory. we forget th h e up, an we once agam rrustake the map for
-
-. . at t e new t . d h JUSt representations and . s ones an metap ors we have developed are But before thing\~ h wbe tnlStake them for literal history. ave een lock d d "d challenge, and the opportu . d . e own, 1 eas compete for consensus. The
-
-111
 
 • that struggle For hi\~ity, unng these moments is to make a positive impact · me t s mean · h · · • I ' s preserving t e notion that the ideas that wm consensus approva may be f 1 b h · ·
 
