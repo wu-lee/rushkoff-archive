@@ -40,43 +40,9 @@ Media constitute the realm in which our reality is negotiated. I used to stay up
 
 Renaissances are, in part, the moments when we pull out of a particular story long enough to consider the way in which it is being told. The game and the meta-game, the stories and the meta-stories, have been regulated and controlled for centuries. As Aristotle well understood, stories work by creating a character whom the audience likes and having that character make a series of decisions that lead to terrible danger. This brings the audience into a heightened state of tension about this poor character who has made all these wrong decisions. Then, once the audience can't take it anymore, the storyteller invents a solution. In a Greek play that solution might have been Athena coming down to save the day.
 
+This same storytelling technique has perhaps been perfected by the advertising industry, which has exploited the mainstream mediaspace for its ability to tell very influential little stories called commercials. In 28 seconds, we identify with, say, an aggravated executive, follow him into his hellish day, up the inclined plane of tension. Because we are a captive audience, with no access to the tools of storytelling, we must take that pain-relieving pill with him at the end of the commercial to relieve our anxiety. The storyteller chooses what pill the listener has to swallow at the end of the story--whether it is a new president or an old religion.
+
 xxx
-
-• that struggle For hi\~ity, unng these moments is to make a positive impact · me t s mean · h · · • I ' s preserving t e notion that the ideas that wm consensus approva may be f 1 b h · ·
-
-d h k
-
-use u , ut t ey are still arbitrary. This is the true bor-
-
-er ac : to move outside the f f h · d h · · . rame o t e picture an s ow others how this is
-
-possible. I wo\~l\~ ar\~e that we are currently in a period of renaissance, still in the
-
-process of ass1m1lat1ng the results of a shift in perspective caused by remarkable
-
-technological progress. We are still aware that the shift is going on and hoping to
-
-preserve some aspect of our newfound sensitivity into the next phase of human
-
-society. It is akin to the realization we have in the heightened state of awareness
-
-caused by a mystical or psychedelic experience: At the height of\~ vi\~ionquest we
-
-wonder how we will be able to remember that state of awe or 1ns1ght once the
-
-experience is over. We wonder how to plant a seed or land\~ark of some kind that
-
-will be remembered after the return to waking-state consciou\~ness. L k ' . h f are of the power of the current renaissance are attempt- 1 ew1se, t ose o us aw f li · lf · "open source" - . d h · ht ucho rea ty1tse 1s mg to pr
-
-eserve and exten t e notion t a m . ore accessible than
-
-h . · r expenences are m
-
-\~
-
-t at
-
-the " codes" by which we organize ou d d of course activists, there
 
 . ltural pro ucers, an ' , . we ge
 
