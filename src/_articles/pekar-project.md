@@ -11,7 +11,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/fiction-miscellaneous.md
-published: false
 
 ---
 [http://www.smithmag.net/pekarproject/2010/06/22/story-22/](http://www.smithmag.net/pekarproject/2010/06/22/story-22/ "http://www.smithmag.net/pekarproject/2010/06/22/story-22/")
