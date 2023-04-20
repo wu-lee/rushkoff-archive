@@ -42,6 +42,10 @@ Renaissances are, in part, the moments when we pull out of a particular story lo
 
 This same storytelling technique has perhaps been perfected by the advertising industry, which has exploited the mainstream mediaspace for its ability to tell very influential little stories called commercials. In 28 seconds, we identify with, say, an aggravated executive, follow him into his hellish day, up the inclined plane of tension. Because we are a captive audience, with no access to the tools of storytelling, we must take that pain-relieving pill with him at the end of the commercial to relieve our anxiety. The storyteller chooses what pill the listener has to swallow at the end of the story--whether it is a new president or an old religion.
 
+**LET THERE BE NETWORKS**
+
+I saw a bumper sticker on a minivan in Wisconsin recently that read, "In case of rapture, this car will be empty!" I suppose that little quip means my car will still be occupied. But I am less troubled by the inevitability of my damnation, according to their schema, than the delight with which those Milwaukee passengers were anticipating Armageddon. They are looking forward to the apocalypse!
+
 xxx
 
 . ltural pro ucers, an ' , . we ge
