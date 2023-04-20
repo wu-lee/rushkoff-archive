@@ -12,7 +12,6 @@ refs: ''
 sources: ''
 categories:
 - _categories/journalism.md
-published: false
 
 ---
 _This is the last in a series of five pieces about_ [_changing the register_](https://medium.com/@rushkoff/dont-get-people-to-do-anything-9d59a1cf29a0)_, which just means engendering the attitudes and behaviors we want to see in ourselves by intervening in the cultural landscape instead of manipulating people. The first three interventions were to_ [_Denaturalize Power_](https://medium.com/@rushkoff/if-it-aint-real-don-t-fix-it-c080b27f82c5)_,_ [_Trigger Agency_](https://medium.com/@rushkoff/everything-is-up-for-discussion-94cb071e2950)_, and_ [_Resocialize People_](https://medium.com/p/38f472e75d70/edit)_. I saved the best one for last._
