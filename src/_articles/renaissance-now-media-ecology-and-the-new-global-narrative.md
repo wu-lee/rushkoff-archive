@@ -48,95 +48,9 @@ I saw a bumper sticker on a minivan in Wisconsin recently that read, "In case of
 
 This is what happens when people take the stories their religions offer a bit too literally. Sure enough, the narratives of the Bible--like those of many other religions--tell a version of the history of the human race, from God's creation of the universe through the life and death of a messiah right on to the end of everything and the tallying of the score. If you subscribe to the right story and follow the rules, all you have to do is wait for the ending and you'll be saved. Best of all, the real quandaries of human existence--questions such as "Where do we come from?" and "Where do we go when we die?" are now a matter of preordained fate. A closed book.
 
+But these kinds of stories were developed back before the days of interactive media. When you're part of a captive, passive audience without keyboards or even joysticks, the only way out of a story is to wait. You have to accept the storyteller's solution because it's the only one. Either that, or reject the story altogether and risk damnation.
+
 xxx
-
-But these ki d f • f · racci
-
-ve
-
-media Wh n \~ o stones were developed back before the days o tdnte evel1
-
-· en you re part of · . k b ar s or joysticks the I a captive, passive audience without ey O h stort ' on Y way out f · pt t e teller's solution b . , 0 a story 1s to wait. You have to acce ltogerh·
-
-ecause it s the 1 · h · h story a er and risk da . on Y one. Eit er that or reJect t e mnat1on. '
-
-\~
-
-t· ·'
-
-;ve negotiate what. is going
-
-,-reJling. we negotiate ho"'
-
-II out of a panicular story
-
-J. The game and the meta-
-
-red and controlled for cen-
-
-\-re,tcing a character whom
-
-rs of decisions that lead to
-
-:1.ed state of tension about
-
-ons. Then, once the audi-
-
-tion. In a Greek play that
-
-the day.
-
-rfected by the advenising
-
-e for its ability to tell very
-
-, we identify with, say, an
-
-the inclined plane of ten-
-
-' the tools of storytelling,
-
-1d of the commercial to
-
-.istener has to swallow at
-
-old religion.
-
-:ly that read, "In case of
-
-, means my car will still
-
-my damnation, accord-
-
-:vaukee passengers were
-
-,e apocalypse!
-
-religions off er a bit too
-
-)Se of many other reli-
-
-n God's creation of the
-
-> the end of everything
-
-t story and follow the
-
-e saved. Best of all, the
-
-"Where do we come
-
-:er of preordained fate.
-
-he days of interactive
-
-::> ut keyboards or even
-
-c to accept the story-
-
-:ct the story aJtogcth-
-
-EXPLORATIONS IN MEDIA ECOLOGY
 
 This was the sad fate of poor infidels like me, until pretty recently. Thanks to
 
