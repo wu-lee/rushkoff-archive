@@ -50,277 +50,39 @@ This is what happens when people take the stories their religions offer a bit to
 
 But these kinds of stories were developed back before the days of interactive media. When you're part of a captive, passive audience without keyboards or even joysticks, the only way out of a story is to wait. You have to accept the storyteller's solution because it's the only one. Either that, or reject the story altogether and risk damnation.
 
-xxx
+This was the sad fate of poor infidels like me, until pretty recently. Thanks to the Internet, we now have a way out of the story: We can write our own endings.
 
-This was the sad fate of poor infidels like me, until pretty recently. Thanks to
-
-the Internet, we now have a way out of the story: We can write our own endings.
-
-After all, this interactive medium is, at its core, an invitation to talk back-tele-
-
-vision with a keyboard. The online world is one in which we are entitled to voice
-
-our own opinions, however much they might contradict the status quo. We are
-
-challenged to reflect on the stories we're being told, even create our own ver-
-
-sions--our own, personal, sacred truths.
+After all, this interactive medium is, at its core, an invitation to talk back--television with a keyboard. The online world is one in which we are entitled to voice our own opinions, however much they might contradict the status quo. We are challenged to reflect on the stories we're being told, even create our own versions--our own, personal, sacred truths.
 
 What a terrific weapon the Internet gives us against extreme fundamentalism!
 
-And it comes just in time now that we're facing the darkest terror of true believ-
+And it comes just in time now that we're facing the darkest terror of true believers who blindly follow the unilateral decrees of their leaders. For fundamentalists are simply people who insist that their religion's narrative become everyone else's literal truth.
 
-ers who blindly follow the unilateral decrees of their leaders. For fundamentalists
+Interactive media tend to loosen up those fixed narratives by allowing users to contribute their own ideas to the story. Try giving a sermon in an AOL chat room, or a list of commandments on the Yahoo Internet Life bulletin boards. The people you're preaching to won't remain silent, at all. The clergy I know who have taken their messages online have had to reassess their roles as ministers of faith and accept new ones as partners in spiritual learning. When religion is practiced on the Internet, participants quickly realize that we're all in this together.
 
-are simply people who insist that their religion's narrative become everyone else's
+The Internet undermines the blind obedience of fundamentalism by offering alternative points of view, promoting pluralism, and encouraging feedback. Not that this interactivity is all that new. While the fundamentalist priests of ancient Israel sacrificed animals on the altar, those interested in hypertext were sitting around a table arguing together as they wrote the Talmud. While fundamentalist lslamists were declaring their first Holy Wars, liberals in old Baghdad were sharing wine and finding common ground with similarly inclined Christians and Jews.
 
-literal truth.
+Today, the Internet deconstructs the narratives that religions use to explain the world, while inviting people from every race and culture to participate in the conversation. No wonder fundamentalists are getting upset.
 
-Interactive media tend to loosen up those fixed narratives by allowing users to
+In this light, it's easy to see the entire personal computing revolution as a new sort of spiritual movement. Is it coincidental that these technologies were developed in California's Bay Area, the breeding ground for alternative spiritual practices? Even the first easily networkable personal computer--the Apple--was conceived by Steve Jobs on the bongwater-stained carpets of a Reed College dorm room. And Jobs, a Buddhist at the time, didn't call it an Apple for nothing. The personal computer was the forbidden fruit--a way of access to the Tree of Knowledge, and an affront to those who would sequester any information from the formerly little people. The meek would indeed inherit the earth.
 
-contribute their own ideas to the story. Try giving a sermon in an AOL chat room,
+The realms of computing and, even more so, networking were unfamiliar turf. They were hard to navigate and harder still to design. People were creating a universe now, and it was as challenging as a lucid dream: Anything we could imagine, we would behold. It's no wonder that many Silicon Valley firms were forced to rely on the skills of many wild young members of the counterculture, people whose own mystical excursions had brought them into intimate contact with realities as mutable and hallucinatory as any graphical user interface.
 
-or a list of commandments on the Yahoo Internet Life bulletin boards. The peo-
+Those of us lucky enough to get online in the early years were immediately struck by how plastic, fluid, and malleable the world can be. Onlme communities have no real form--they are the ever-changing consensus reality of their members. One's value in an interactive conversation is not his or her ability to obey, but the capacity to hear and then express. The interactive universe does not exist without the active participation of its people--and this participation is the ongoing act of creation itself. Talk about playing God. xxx
 
-ple you're preaching to won't remain silent, at all. The clergy I know who have
+**THE END OF THE OLD STORY**
 
-taken their messages online have had to reassess their roles as ministers of faith and
+Interactivity changed our relationship to other media, too. It was hard to watch television in quite the same way, especially with a remote control in your hand. Whether we simply channel-surfed away from the surfers on _Baywatch_, or went online and posted alternatives to a CNN story, our interactive tools gave us the ability to deconstruct the stories we were being told, and to begin to construct our own.
 
-accept new ones as partners in spiritual learning. When religion is practiced on the
+This is actually something very rare, especially in the spiritual realm.
 
-Internet, participants quickly realize that we're all in this together.
+There are a few faiths in which congrcgants are invited to participate in the creation and interpretation of the underlying narrative. Certain Jewish sects spurn answers in favor of more questions and interpretation; Quakers enjoy a dogma-free, town-meeting style Sabbath. Most religious traditions, however, simply treat their believers as a "mass," who must depend on their priests or ministers for access to the "story." But just as the Internet has led patients to information about alternative medical treatments (often against doctor's orders), it has given congregants the ability to find alternative stories about who we are, who made us, and why. xxx
 
-The Internet undermines the blind obedience of fundamentalism by offering
+More important than any one story we may have discovered or written, the experience of sifting through them all, taking them apart, and writing our own has changed our relationship to religion, perhaps forever. The Internet is anathema to narrative. If you want to understand life as a story etched in stone, you had better stay away.
 
-alternative points of view, promoting pluralism, and encouraging feedback. Not
+Cyber culture, based on an ethic of interactivity, releases the captive audience from the spell of the story and offers them the opportunity for active participation, instead.
 
-that this interactivity is all that new. While the fundamentalist priests of ancient
-
-Israel sacrificed animals on the altar, those interested in hypertext were sitting
-
-around a table arguing together as they wrote the Talmud. While fundamentalist
-
-lslamists were declaring their first Holy Wars, liberals in old Baghdad were shar-
-
-ing wine and finding common ground with similarly inclined Christians and Jews.
-
-Today, the Internet deconstructs the narratives that religions use to explain the
-
-world, while inviting people from every race and culture to participate in the con-
-
-..
-
-\- - \~.-ion. No wonder fundamentalists are getting upset .
-
-I, . _ .., ... \~i\~ht, it's easy to see t_he e?ti\~e personal computing revol_ution as a new
-
-, 1ntual movement. Is 1t comc1dental that these technologies were devel-
-
-\-j l alifornia's Bay Area, the breeding ground for alternative spiritual prac-
-
-en · the first easily networkable personal computer-the Apple--was con-
-
-oy Steve Jobs _9P\~ bongw\~ter-st\~ine,d car\~ets of a Reed College dorm
-
-. And Jobs, a B / q \~ th\~ time, d1\~n t call 1t an Apple for nothing. The
-
-.:,nal compute -·,;. orb1dden fruit-a way of access to the Tree of
-
-.. nvledge, a-?d - -,/,7'·"' those who w?uld se\~uest\~r any information from
-
-.. formerly httl /\~ meek would mdeed 1nhent the earth.
-
-\- 1 1d eve , ·
-
-......
-
-\-- - \~ n,', 0 , n more so. nPturnr1nna TITt>r .a .. \~.C--:1: _ .. \~ r
-
-\-\~ •')\~ ' \\>el}
-
-<l)i; ill)_
-
-f tell,
-
-<ll
-
-llill\~,
-
-to
-
-\\Vilt '
-
-of
-
-lilii,,:___
-
-)
-
-re
-
-d,
-
-till
-
-lV t: d vva.y v u\~....,._ \~a. •- ..... -- ✓ • . . - -
-
-ve medium is, at its core, an invitation to talk back-tele-
-
-The online world is one in which we are entitled to voice
-
-\~ver much they might contradict the status quo. We are the stories we're being told, even create our own ver-
-
-nal, sacred truths.
-
-we
-
-apon the Internet gives us against extreme fundamentalism!
-
-\~ · tin time now that we're facing the darkest terror of true believ-
-
-low the unilateral decrees of their leaders. For fundamentalists
-
-.vho insist that their religion's narrative become everyone else's
-
-ntera
-
-\~ e
-
-media tend to loosen up those fixed narratives by allowing users to contrfbute their own ideas to the story. Try giving a sermon in an AOL chat room, or a list of commandments on the Yahoo Internet Life bulletin boards. The peo- :;;\~\~u'r_e preaching to won't remain silent, at all._ The clergy_ I _know wh_o have heir messages online have had to reassess thetr roles as rrurusters of faith and accept new . . 11 . h 1· . . . d h I 0 nes as partners in sp1ntua earrung. W en re 1g1on 1s practice on t e nternet, pa · . 11 · hi h Th I nicipants quickly realize that we're a mt s toget er.
-
-al e _nternet undermines the blind obedience of fundamentalism by offering ternatrve p · . . · f db k N th hi . Olflts of view, promoting pluralism, and encouragmg ee ac . ot at t s inte . . . 1· . f . I 1 . . ractivuy 1s all that new. While the fundamenta 1st pnests o ancient srae sacnfic d . I
-
-. h
-
-. . d e aruma s on the altar, those interested m ypertext were s1ttmg aroun a tabl . ·1 fu d a1· I 1 . e argumg together as they wrote the Talmud. Whi e n ament 1st s anusts were d 1 · h · · · al · Id hd d h • . ec anng t eir first Holy Wars, hber s m o Bag a were s ar- mg wine and findin d · h 'mil I · 1· d Ch · · dJ \~ d h g common groun wit s1 ar y me me nst1ans an ews. 7d ay, ;il e _Int\~\~net deconstructs the narratives that religions use to explain the wor : w Ne mvitmg people from every race and culture to participate in the con- versation. 0 wonder fu d Ii . h. . n amenta sts are gettmg upset. In t IS \~i\~ht, it's easy to see the entire personal computing revolution as a new sort o_f spin:11aI movement. Is it coincidental that these technologies were devel-
-
-\~pe\~ In Califor\~ia's Bay Area, the breeding ground for alternative spiritual prac- t1\~es · Even the first easily networkable personal computer-the Apple---was con- ceived by Steve \] obs on the bongwater-stained carpets of a Reed College dorm
-
-room. And Jobs, a Buddhist at the time, didn't call it an Apple for nothing. The personal computer was the forbidden fruit-a way of access to the Tree of
-
-Knowledge, and an affront to those who would sequester any information from the formerly little people. The meek would indeed inherit the earth.
-
-The realms of computing and, even more so, networking were unfamiliar turf.
-
-They were hard to navigate and harder still to design. People were creating a uni-
-
-verse now, and it was as challenging as a lucid dream: Anything we could imagine,
-
-we would behold. It's no wonder that many Silicon Valley firms were forced to rely on the skills of many wild young members of the counterculture, people whose own mystical excursions had brought th\~m into i\~timate contact with real- ities as mutable and hallucinatory as any graphical user interface.
-
-45
-
-,,
-
-Ruihkoff: Renaiuance Now!
-
-\~ of us lucky enough to get online in the early years w\~re immediate!
-
-J.truck by how plastic, fluid, an.d malleable the world can be. Onlme communiti\~
-
-have no real form-{hcy are the ever-changing consensus reality of their member
-
-h
-
-s.
-
-One'* value in an intcractive . conversation is not his or er ability to obey, but the
-
-capacity to hear and then express. The interactive universe docs not exist without
-
-the active participation
-
-of its people-and this participation is the ongoing act of
-
-creation itself. Talk about playing God.
-
-THE END OF THE OLD STORY
-
-Interactivity changed our relationship to other media, too. It was hard to watch
-
-telcl\\'ision in quite the same way, especially with a remote control in your hand.
-
-Whether we simply channel-surfed away from the surfers on Baywatch, or went
-
-online and posted alternatives to a
-
-CNN story, our interactive tools gave us the
-
-ability to
-
-deconstruct the stories we were being told, and to begin to construct our
-
-own.
-
-Thi.-, s i actually somc.>thing very rare, especially in the spiritual realm.
-
-There are a few faiths in which congrcgants arc invited to participate in the cre-
-
-ation and interpretation of the underlying narrative. Certain Jewish sects spurn
-
-answers in favor
-
-of more questions and interpretation; Quakers enjoy a dogma-
-
-frce, town-mcc.-ting style Sabbath. Most religious traditions, however, simply treat
-
-their believers as a "mass," who must depend on their priests or ministers for
-
-access to the "story." But just as the internet has led patients to information about
-
-alternative medical treatments (often against doctor's orders), it has given congre-
-
-gants the ability to find alternative stories about who we are, who made us, and
-
-why.
-
-More important than any one story we may have discovered or written, the
-
-experience of sifting through them all, taking them apart, and writing our own has
-
-changed our relationship to religion, perhaps forever. The Internet is anathema to
-
-narrative. If you want to understand life as a story etched in stone, you had better
-
-stay away.
-
-Cyber culture, based on an ethic of interactivity, releases the captive audience
-
-f:om .the spell of the story and offers them the opportunity for active participa-
-
-tion, mstcad.
-
-The television remote control represented the first in a series of liberating inter-
-
-active tec\~nologies. Im_agine a \~nan sitting in l\~is LaZBoy chair in · 958, with pop-
-
-corn on his lap, watchrng a painful commercial. The
-
-TV prr · \~ is de
-
-on throwing this poor man into a terrible state of
-
-amw:t
-
-get out of that imposed state of tension, he's go" C.
-
-lift himself out of his chair, walk up to the 'T'
-
-perhaps, 50 calories of human labor. If
-
-he 11, ·
-
-cial, however, he may use up only 10 calr
-
-the lazy decision. It will take the 10 c\~•
-
-all, the material on TV is called
-
-p·
-
-EXPLott,
-
-grarn us as we sit passive\\ . \~ tion- Imagine a 14-year-o\]
+The television remote control represented the first in a series of liberating interactive technologies. Imagine a man sitting in his LaZBoy chair in 1958, with popcorn on his lap, watching a painful commercial. The TV programmer is dead-set on throwing this poor man into a terrible state of anxiety. If the viewer wants to get out of that imposed state of tension, he's got to move the popcorn off his lap, lift himself out of his chair, walk up to the TV, and turn the channel--which is, perhaps, 50 calories of human labor. If he sits through to the end of the commercial, however, he may use up only 10 calories of anxiety. The brain is lazy; it makes the lazy decision. It will take the 10 calories and submit to the programming. After all, the material on TV is called programming for a reason; it's designed to program us as we sit passively in our seat. But the remote control changes the equation. Imagine a 14-year-old today
 
 signs that he's being put ii
 
