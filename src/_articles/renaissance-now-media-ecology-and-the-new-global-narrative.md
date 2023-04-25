@@ -82,15 +82,7 @@ More important than any one story we may have discovered or written, the experie
 
 Cyber culture, based on an ethic of interactivity, releases the captive audience from the spell of the story and offers them the opportunity for active participation, instead.
 
-The television remote control represented the first in a series of liberating interactive technologies. Imagine a man sitting in his LaZBoy chair in 1958, with popcorn on his lap, watching a painful commercial. The TV programmer is dead-set on throwing this poor man into a terrible state of anxiety. If the viewer wants to get out of that imposed state of tension, he's got to move the popcorn off his lap, lift himself out of his chair, walk up to the TV, and turn the channel--which is, perhaps, 50 calories of human labor. If he sits through to the end of the commercial, however, he may use up only 10 calories of anxiety. The brain is lazy; it makes the lazy decision. It will take the 10 calories and submit to the programming. After all, the material on TV is called programming for a reason; it's designed to program us as we sit passively in our seat. But the remote control changes the equation. Imagine a 14-year-old today
-
-signs that he's being put ii
-
-that it takes to press a bU'
-
-I(.ids with a remote contr,
-
-surfing back and fonh
+The television remote control represented the first in a series of liberating interactive technologies. Imagine a man sitting in his LaZBoy chair in 1958, with popcorn on his lap, watching a painful commercial. The TV programmer is dead-set on throwing this poor man into a terrible state of anxiety. If the viewer wants to get out of that imposed state of tension, he's got to move the popcorn off his lap, lift himself out of his chair, walk up to the TV, and turn the channel--which is, perhaps, 50 calories of human labor. If he sits through to the end of the commercial, however, he may use up only 10 calories of anxiety. The brain is lazy; it makes the lazy decision. It will take the 10 calories and submit to the programming. After all, the material on TV is called programming for a reason; it's designed to program us as we sit passively in our seat. But the remote control changes the equation. Imagine a 14-year-old today, watching a commercial, and feeling the first signs that he's being put into an imposed state of tension. With the .0001 calorie that it takes to press a button, he's out of tension and out of the arc of that story. Kids with a remote control watch TV in a new way, following 10 stations at once, surfing back and forth through different stories.
 
 this they're not watc' ·
 
