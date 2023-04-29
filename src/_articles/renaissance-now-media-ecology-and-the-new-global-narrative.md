@@ -84,255 +84,35 @@ Cyber culture, based on an ethic of interactivity, releases the captive audience
 
 The television remote control represented the first in a series of liberating interactive technologies. Imagine a man sitting in his LaZBoy chair in 1958, with popcorn on his lap, watching a painful commercial. The TV programmer is dead-set on throwing this poor man into a terrible state of anxiety. If the viewer wants to get out of that imposed state of tension, he's got to move the popcorn off his lap, lift himself out of his chair, walk up to the TV, and turn the channel--which is, perhaps, 50 calories of human labor. If he sits through to the end of the commercial, however, he may use up only 10 calories of anxiety. The brain is lazy; it makes the lazy decision. It will take the 10 calories and submit to the programming. After all, the material on TV is called programming for a reason; it's designed to program us as we sit passively in our seat. But the remote control changes the equation. Imagine a 14-year-old today, watching a commercial, and feeling the first signs that he's being put into an imposed state of tension. With the .0001 calorie that it takes to press a button, he's out of tension and out of the arc of that story. Kids with a remote control watch TV in a new way, following 10 stations at once, surfing back and forth through different stories. When they experience TV like this they're not watching television at all, but watching the television, deconstructing it as television.
 
-The second liberating interactive device was the videogame joystick. For most of you, your inaugurating videogame experience was Pong. And, perhaps amazingly, you probably still remember that first moment you played. Pong was a simple game based on ping-pong, with two white squares on either side of the screen that would move up and down along with your movements on a control knob. People remember their first time playing Pong the way they remember where they were when President Kennedy was shot. This isn't because Americans loved table tennis so much and were happy to have the convenience of practicing it on TV. It wasn't about the literal meaning of the metaphor; it was about experiencing something on the television as metaphor. It was a thrill just to move the little white square up and down on the screen, to control the pixel. We had never had control of the pixel before. The TV screen was the holy and inaccessible realm of newscasters and movie stars, a magical place where things simply appeared. But just as the remote control deconstructed television's stories, so the joystick demystified its technology--making it an accessible medium and rendering it safe. xxx
+The second liberating interactive device was the videogame joystick. For most of you, your inaugurating videogame experience was Pong. And, perhaps amazingly, you probably still remember that first moment you played. Pong was a simple game based on ping-pong, with two white squares on either side of the screen that would move up and down along with your movements on a control knob. People remember their first time playing Pong the way they remember where they were when President Kennedy was shot. This isn't because Americans loved table tennis so much and were happy to have the convenience of practicing it on TV. It wasn't about the literal meaning of the metaphor; it was about experiencing something on the television as metaphor. It was a thrill just to move the little white square up and down on the screen, to control the pixel. We had never had control of the pixel before. The TV screen was the holy and inaccessible realm of newscasters and movie stars, a magical place where things simply appeared. But just as the remote control deconstructed television's stories, so the joystick demystified its technology--making it an accessible medium and rendering it safe.
 
-Finally, the computer mouse and the keyboard liberated the receive-only mon-
+Finally, the computer mouse and the keyboard liberated the receive-only monitor, and turned it into a portal through which we could express ourselves. The mouse and keyboard spawned a do-it-yourself (DIY) Internet culture in which people created, uploaded, and shared their own content. In a sense, people were the content; we used technology to connect with other people.
 
-itor, and turned it into a portal through which we could express ourselves. The
+The resulting cyberpunk culture was a renaissance culture. It was a chaotic space, where new ideas could spring up from almost anywhere. It was a gift economy, where new programs were created and shared--for free. It was a community, where new members were introduced and escorted around as if they had just bought a home in a fantasy suburb. Best of all, Internet users came to understand that the mainstream mediaspace no longer represented their reality. From now on, Internet users would represent their own. xxx
 
-mouse and keyboard spawned a do-it-yourself (DIY) Internet culture in which
+In those days--the 2400-baud, ASCII-text era of ten long years ago--the Internet had nothing to do with the NASDAQ index. In fact, until 1992 you had to sign an agreement promising not to conduct any business online just to get access to the Internet! Imagine that. It was a business-free zone.
 
-people created, uploaded, and shared their own content. In a sense, people were
+How could such rules have ever been put in place? Because the Internet began as a public project. It was created to allow scientists at universities and government facilities to share research and computing resources. Everyone from the Pentagon to Al Gore saw the value of universally accessible information-sharing network, and invested all sorts of federal funds in building a backbone capable of connecting computers around the world.
 
-the content; we used technology to connect with other people.
+What they didn't realize was that they were doing a whole lot more than connecting computers to one another. They were connecting people to one another, too. Before long, all those scientists who were supposed to be exchanging research or comparing data were also exchanging stories about their families and comparing notes on the latest _Star Trek_ movies. People from around the world were playing games, socializing, and crossing cultural boundaries that had never been crossed before. Because no one was using it to discuss military technology anymore, the government abandoned the network and turned it over to the public.
 
-The resulting
+The Internet's unexpected social side-effect turned out to be its incontrovertible main feature. Its other functions fall by the wayside. The Internet's ability to network human beings is its very life's blood. It fosters communication, collaboration, sharing, helpfulness, and community. Then word got out.
 
-\~ rpunk culture was a renaissance culture. It was a chaotic
+The nerdiest among us found out first. Then came those of us whose friends were nerds. Then their friends, and so on. Someone would simply insist he had found something you needed to know about--the way a childhood friend lets you in on a secret door leading down to the basement under the junior high school.
 
-space, where , .. , could spring up from almost anywhere. It was a gift eco\~-
+How many of you can remember that first time you watched him log on? How he turned the keyboard over to you and asked what you want to know, where you want to visit, or whom you want to meet? That was the magic moment when you "got it." Internet fever. There was a whole new world out there, unlimited by the constraints of time and space, appearance and prejudice, gender and power.
 
-omy, where (r
+It's no wonder so many people compared the 1990s Internet to the psychedelic 1960s. It seemed that all we needed to do was get a person online and he or she would be changed forever. And people were. A sixty-year-old midwestern businessman I know found himself logging on every night to engage in a conversation about }ungian archetypes. It lasted for four weeks before he even realized the person with whom he was conversing was a sixteen-year-old boy from Tokyo.
 
-ms we\~e created and shared-for free. It v.:as a comm\~m-
+It felt as though we were wiring up a global brain. Visionaries of the period, like Ted Nelson, invented words like _hypertext_ and told us how the Internet could be used as a library for everything ever written. A musician named Jaron Lanier invented a bizarre interactive space he called "virtual reality," in which people would be able to, in his words, "really see what the other means." Starry-eyed authors like me wrote optimistic books announcing the new global renaissance.
 
-ty. -•1-.
+The Internet was no longer a government research project. It was alive. Out of control and delightfully chaotic. What's more, it promoted an agenda all its own.
 
-\~re i \~ -\~,. were introduced and escorted around as 1f they had JUSt
+Using a computer mouse and keyboard to access other human beings on the other side of the monitor changed our relationship to media and the power they held. The tube was no longer a place that only a corporate conglomerate could access. It was Rupert Murdoch, Dan Rather, and Heather Locklear's turf no more. The Internet was _our_ space.
 
-• \~ ' -\~-,- .asy suburb. Best of all, Internet users came to understand
+The Internet fostered a DIY mentality. We called 1t _cyberpunk_. Why watch packaged programming on TV when you can make your own online? Who needs corporate content when you can be the content? This was a whole new world we could design ourselve, on our own terms. It felt like a revolution.
 
-:diaspace no longeJ,J:\~esented their reality. From now on,
-
-:epresent their o\~
-
-.e 2400-?aud, fi' l '
-
-\~ra of ten long rears ago-the
-
-; to do
-
-w1thi · , mdex. In fact, until 1992 you had
-
-.nt pro
-
-\~ sing ;: :. :t any business online just to get
-
-net! lmagme , Jsiness-free zone.
-
-.h rules have
-
-ei- · ) 1 n place? Because the Internet be an
-
-·t It was creat '\\.' · · · · g - • - - - '- \~'
-
-e
-
-ntlsts
-
-at lint
-
-Ve f Sltlf'C: ::l nct 0 ('\\Vf'rnmP nt
-
-\- --\~ nvu., net ao
-
-wn a lUllt,
-
-W 1 U 1. ,v ....... u- . - --- - --- -
-
-People re\~ . first time playing Pong the way they reme\~ber where
-
-they were
-
-w\~ .... dent Kennedy was shot. This isn't b\~cause Amen\~a?s l?ved
-
-table tennis so much and were happy to have the convenience of practici\~g it _on
-
-TV. It wasn't about the literal meaning of the metaphor; it was about ex\~enenc\~g
-
-.ething on the televis on i as metaphor. It was a thrill just to move the little white
-
-.up and down on the screen, to control the pixe\~. We ha\~ never had control
-
-\\ el before. The TV screen was the holy and inaccessible realm of ?ews-
-
-d t movie stars, a magical place where things simply \~ppe\~red. But JU\~\~ as
-
-Jte control deconstructed television's stories, so the Joystick demystified
-
-h v . .. c:chnology-making it an accessible medium and rendering it s\~fe.
-
-. Finally, the computer mouse and the keyboard liberated the receive-only mon-
-
-itor, and turned it into a portal through which we could express ourse\~ves. \~e
-
-mouse and keyboard spawned a do-it-yourself (DIY) Internet culture 1n which
-
-people created, uploaded, and shared their own content. In a sense, people were
-
-the content; we used technology to connect with other people. .
-
-The resulting cyberpunk culture was a renaissance culture. It was a chaotic
-
-space, where new ideas could spring up from almost anywhere. It was a gift econ-
-
-omy, where new programs were created and shared-for free. It was a communi-
-
-ty, where new members were introduced and escorted around as if they had just
-
-bought a home in a fantasy suburb. Best of all, Internet users came to understand
-
-that the mainstream mediaspace no longer represented their reality. From now on,
-
-Internet users would represent their own.
-
-In those days-the 2400-baud, ASCII-text era of ten long years ago-the
-
-Internet had nothing to do with the NASDAQ index. In fact, until 1992 you had
-
-to sign an agreement promising not to conduct any business online just to get
-
-access to the Internet! Imagine that. It was a business-free zone.
-
-How could such rules have ever been put in place? Because the Internet began
-
-as a public project. It was created to allow scientists at universities and government
-
-facilities to share research and computing resources. Everyone from the Pentagon
-
-to Al Gore saw the value of universally accessible information-sharing network,
-
-47
-
-• Paglia : The North American Intellectual Tradition
-
-and invested all sorts of federal funds in building a backbone capable of connect- ing computers around the world.
-
-What they didn't realize was that they were doing a whole lot more than con- necting computers to one another. They were connecting people to one another, too. Before long, all those scientists who were supposed to be exchanging research or comparing data were also exchanging stories about their families and compar- ing notes on the latest Star Trek movies. People from around the world were play- ing games, socializing, and crossing cultural boundaries that had never been crossed before. Because no one was using it to discuss military technology any- more, the government abandoned the network and turned it over to the public. The Internet's unexpected social side-effect turned out to be its incontrovertible main feature. Its other functions fall by the wayside. The Internet's ability to net- work human beings is its very life's blood. It fosters communication, collabora- tion, sharing, helpfulness, and community. Then word got out. The nerdiest among us found out first. Then came those of us whose friends were nerds. Then their friends, and so on. Someone would simply insist he had found something you needed to know about-the way a childhood friend lets you in on a secret door leading down to the basement under the junior high school.
-
-How many of you can remember that first time you watched him log on? How he turned the keyboard over to you and asked what you want to know, where you want to visit, or whom you want to meet? That was the magic moment when you "got it." Internet fever. There was a whole new world out there, unlimited by the constraints of time and space, appearance and prejudice, gender and power. It's no wonder so many people compared the 1990s Internet to the psychedelic 1960s. It seemed that all we needed to do was get a person online and he or she would be changed forever. And people were. A sixty-year-old midwestern busi- nessman I know found himself logging on every night to engage in a conversation about }ungian archetypes. It las\~ed for four_ weeks bef or:
-
-h. \~ n realized the per- son with whom he was conversmg was a s1xteen-year-1 .6-.... . \~ ...... T-1 It felt as though we were wiring up a
-
-<-W.brain.
-
-"
-
-· Ted Nelson, invented words like h,· /
-
-used as a library for everythin\~ invented a bizarre interactive ,
-
-would be able to, in his wo· . ."7
-
-authors like me wrote opt;
-
-The Internet was no lr
-
-:ontrol and delightfull
-
-Using a computer I
-
-8
-
-':ork hu\~an beings is its very life's blood. It f\~\~\~-\~;s \~\~1 .. ' - -\~
-
-tlon, shann\~, helpfulness, and community. Then word got out.
-
-The nerdiest among us found out first. Then came those of us w hose friends
-
-were nerds. T?en their friends, and so on. Someone would simply insist he had
-
-foun? something you needed to know about-the way a childhood friend lets
-
-you in on a secret door leading down to the basement under the junior high
-
-school.
-
-How many of you can remember that first time you watched him log on? How
-
-he turned the keyboard over to you and asked what you want to know, where you
-
-want to visit, or whom you want to meet? That was the magic moment when you
-
-cc got it.,, Internet fever. There was a whole new world out there, unlimited by the
-
-constraints of time and space, appearance and prejudice, gender and power.
-
-It's no wonder so many people compared the 1990s Internet to the psychedelic
-
-1960s. It seemed that all we needed to do was get a person online and he or she
-
-would be changed forever. And people were. A sixty-year-old midwestern busi-
-
-nessman I know found himself logging on every night to engage in a conversation
-
-about Jungian archetypes. It lasted for four weeks before he even realized the per-
-
-son with whom he was conversing was a sixteen-year-old boy from Tokyo.
-
-It felt as though we were wiring up a global brain. Visionaries of the period, like
-
-Ted Nelson, invented words like hypertext and told us how the Internet could be
-
-used as a library for everything ever written. A musician named Jaron Lanier
-
-invented a bizarre interactive space he called "virtual reality," in which people
-
-would be able to, in his words, "really see what the other means." Starry-eyed
-
-authors like me wrote optimistic books announcing the new global renaissance.
-
-The Internet was no longer a government research project. It was alive. Out of
-
-control and delightfully chaotic. What's more, it promoted an agenda all its own.
-
-Using a computer mouse and keyboard to access other human beings on the
-
-other side of the monitor changed our relationship to media and the power they
-
-held. The tube was no longer a place that only a corporate conglomerate could
-
-access. It was Rupert Murdoch, Dan Rather, and Heather Locklear's turf no more.
-
-The Internet was our space.
-
-I
-
-\~
-
-EXPLORATIONS IN MEDIA ECOLOGY
-
-The Internet foster d DIY . . k d . e a mentality. We called 1t cyberpunk. Why watch
-
-pac age programming on 1V when you can make your own online? Who needs
-
-corporate content whe b h .
-
-Id d . n you can et e content? This was a whole new world we cou es1gn ourselves f . . Th , h . ' on our own terms. It elt like a revolution.
-
-atds w Y it fostered such a deep sense of community. New users were gently
-
-escorte around the I b d d h h
-
-. . nternet y more seasone veterans an s own w ere and
-
-how to particip\~te. An experienced user would delight in setting up a newbie's
-
-Internet connection. It was considered an honor to rush out into the night to fix
-
-a fellow us ' hni 1 er s tee ca problem. To be an Internet user was to be an Internet
-
-advocate.
+That's why it fostered such a deep sense of community. New users were gently escorted around the Internet by more seasone veterans and shown where and how to participate. An experienced user would delight in setting up a newbie's Internet connection. It was considered an honor to rush out into the night to fix a fellow user's technical problem. To be an Internet user was to be an Internet advocate. xxx
 
 It's also why almost everything to do with the Internet was free. Software was
 
