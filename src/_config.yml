@@ -58,3 +58,25 @@ feed:
   collections:
     - articles
     - videos_elsewhere
+rushkoff:
+  sidebar:
+    categories:
+      # Sets the categories in the sidebar index.  Note, the urls
+      # need to point to existing pages.  Specifically, if a sidebar
+      # category "Journalism" exists linking to /categories/journalism.html,
+      # then the "categories" collection must exist and include a category
+      # "journalism".
+      - title: Journalism
+        url: /categories/journalism.html
+      - title: Book Chapters
+        url: /categories/book-chapters.html
+      - title: Scholarship
+        url: /categories/scholarship.html
+      - title: Fiction & Misc
+        url: /categories/fiction-miscellaneous.html
+      - title: Everything
+        url: /articles.html
+    more_categories:
+      # Like categories, but made distinct, by spacing it below.
+      - title: Sort By Publication
+        url: /publications.html
