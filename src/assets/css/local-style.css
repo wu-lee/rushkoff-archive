@@ -109,11 +109,3 @@ article .video {
 }
 .h_iframe        {position: relative; padding-top: 56%;}
 .h_iframe iframe {position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
-
-/* Style category list items */
-ul.post-list {
-  list-style: none;
-}
-li.post-list-item * {
-  line-height: 1.9em;
-}
