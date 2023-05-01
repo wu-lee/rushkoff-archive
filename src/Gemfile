@@ -10,7 +10,7 @@ gem "jekyll", "~> 4.0"
 gem "jekyll-theme-rushkoff", github: "rushkoff/jekyll-theme-rushkoff"
 gem "jekyll-feed"
 gem "jekyll-remote-theme", github: "benbalter/jekyll-remote-theme"
-gem "youtube_rails", github: "wu-lee/youtube_rails"
+gem "youtube_rails", github: "luizpicolo/youtube_rails"
 
 group :development do
   gem "webrick", "~> 1.8"
