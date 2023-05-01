@@ -1,5 +1,5 @@
 ---
-title: Articles
+title: Everything
 layout: page
 ---
 This is the full list of published articles.
