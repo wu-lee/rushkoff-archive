@@ -52,6 +52,9 @@ li.post-list-item .post-list-subtitle {
   font-style: italic;
   font-size: medium;
 }
+li.post-list-item {
+  list-style: none;
+}
 
 /* Prevent content from expanding too wide; center it when it stops expanding */
 article.post {
