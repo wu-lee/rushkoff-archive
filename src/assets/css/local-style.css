@@ -27,33 +27,44 @@ header.post-header .meta a {
 	border-top: 1px solid #ccc;
 }
 
-/* Align article post-list dates and publications vertically */
+ul.post-list {
+  padding-left: 0;
+}
 ul.post-list .flex-align {
   display: flex;
   align-items: baseline;
+  justify-content: flex-start;
+  flex-wrap: wrap;
 }
 
 /* Align the post-list subtitles */
 ul.post-list .flex-align .post-list-title {
-  flex-grow: 1;
+  font-weight: bold;
 }
 ul.post-list .flex-align .post-link {
   margin-left: revert; /* undo theme style */
 }
 ul.post-list .flex-align .post-date {
-  margin-right: 10px;
+  text-transform: inherit;
+  color: inherit;
+  letter-spacing: inherit;
+  font-size: inherit;
+  width: auto;
 }
 ul.post-list .flex-align .post-list-publication {
-  margin-left: 10px;
+  font-style: italic;
 }
 li.post-list-item .post-list-subtitle {
   flex-basis: 100%;
-  margin-left: 90px;
-  font-style: italic;
   font-size: medium;
 }
 li.post-list-item {
-  list-style: none;
+  list-style: none; /* No bulletpoints */
+  line-height: 1.3em;
+  margin-bottom: 0.6em;
+}
+.post-list-delim {
+  width: 0.7em;
 }
 
 /* Prevent content from expanding too wide; center it when it stops expanding */

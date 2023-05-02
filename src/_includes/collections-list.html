@@ -78,11 +78,6 @@
           {% assign item_collection = site.collections | where: "label", item.collection | first %} 
           <i class="post-type {{ item_collection.icon_class}}" title="{{ item_collection.item_desc }}"></i>
 
-          {% if include.date != 'OMIT' %}
-          {%- assign date_format = "%Y/%m/%d" -%}
-          <span class="post-date">{{ item.date | date: date_format }}</span>
-          {% endif %}
-
           <span class="post-list-title">
             {% if item.published != false %}
             <a class="post-link" href="{{ item.url | relative_url }}">
@@ -94,6 +89,7 @@
 
             {% endif %}
           </span>
+          <span class="post-list-delim"></span>
 
           {% if include.publication != 'OMIT' %}
           <span class="post-list-publication" _publication-id="{{ item.publication }}">
@@ -101,13 +97,20 @@
             {%   if item.published == false %}(unpublished){% endif %}
             {% else %}
             {%   if publication %}
-            (<a href="{{ publication.url | relative_url }}" class="post-link">{{ publication.title | escape -}}</a>
-            {%-    unless item.published != false -%}; unpublished{%- endunless -%})
+            <a href="{{ publication.url | relative_url }}" class="post-link">{{ publication.title | escape -}}</a>
+            {%-    unless item.published != false -%}; unpublished{%- endunless -%}
             {%   else %}
             (no publication{%- if item.published == false -%}; unpublished{%- endif -%})
             {%   endif %}
             {% endif %}
           </span>
+          <span class="post-list-delim"></span>
+          
+          {% endif %}
+          
+          {% if include.date != 'OMIT' %}
+          {%- assign date_format = "%b %d, %Y" -%}
+          <span class="post-date">{{ item.date | date: date_format }}</span>
           {% endif %}
         </div>
         {% if item.subtitle %}
