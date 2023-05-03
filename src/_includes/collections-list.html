@@ -123,50 +123,5 @@
     </ul>
   </div>
   
-  <ul class="post-list" id="search-list">
-    {%- for item in items -%}
-    {%    assign publication = publications | where: "path", item.publication | first %}
-    <li class="post-list-item"
-      _publication-id="{{ item.publication }}"
-      _category-ids="{{ item.categories | join(" ") }}">
-      <div class="flex-align">
-        {% assign item_collection = site.collections | where: "label", item.collection | first %} 
-        <span class="post-type">{{ item_collection.item_desc }}</span>
-        
-        {%- assign date_format = "%Y/%m/%d" -%}
-        <span class="post-date">{{ item.date | date: date_format }}</span>
-        
-        <span class="post-list-title">
-          {% if item.published != false %}
-          <a class="post-link" href="{{ item.url | relative_url }}">
-            {{ item.title | escape }}
-          </a>
-          
-          {% else %}
-          {{   item.title | escape }}
-          
-          {% endif %}
-        </span>
-        
-        <span class="post-list-publication" _publication-id="{{ item.publication }}">
-          {% if include.publication %}
-          {%   unless item.published != false %}(unpublished){% endunless %}
-          {% else %}
-          {%   if publication %}
-          (<a href="{{ publication.url | relative_url }}" class="post-link">{{ publication.title | escape -}}</a>
-          {%-    unless item.published != false -%}; unpublished{%- endunless -%})
-          {%   else %}
-          (no publication{%-    unless item.published != false -%}; unpublished{%- endunless -%})
-          {%   endif %}
-          {% endif %}
-        </span>
-      </div>
-      {% if item.subtitle %}
-      <div class="post-list-subtitle">{{ item.subtitle | escape }}</div>
-      {% endif %}
-      
-    </li>
-    {%- endfor -%}
-  </ul>
   {%- endif -%}
 </div>
