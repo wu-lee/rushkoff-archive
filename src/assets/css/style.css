@@ -1,6 +1,5 @@
-@import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
-@import url('https://fonts.googleapis.com/css?family=Gelasio|Kulim+Park|Nanum+Myeongjo|Nanum+Gothic|Noto+Sans|Noto+Sans+KR|Roboto&display=swap');
-@import url(syntax/monokai.css);
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+1:800|M+PLUS+1:400|Fira+Sans|Gelasio&display=swap');
+@import url(../syntax/monokai.css);
 
 :root {
   --blue: #007bff;
@@ -29,8 +28,14 @@
   --breakpoint-md: 768px;
   --breakpoint-lg: 992px;
   --breakpoint-xl: 1200px;
-  --font-family-sans-serif: "Roboto", "Nanum Gothic";
-  --font-family-serif: "Nanum Myeongjo";
+  --font-family-sans-serif: "Fira Sans", sans-serif;
+  --font-family-serif: "Gelasio", serif;
+  --font-family-body: "Fira Sans", sans-serif;
+  --font-family-titles: "M PLUS 1", sans-serif;
+  --font-family-brand: "Gelasio", serif;
+  --font-family-code: monospace;
+  --font-family-footer: "M PLUS 1", sans-serif;
+  --font-family-nav: "M PLUS 1", sans-serif;
 }
 
 * {
@@ -49,7 +54,7 @@ body {
 	height: 100%;
 	margin: 0;
 	padding: 0;
-	font-family: 'Gelasio', 'Nanum Myeongjo', serif;
+	font-family: var(--font-family-body);
 	color: #2c3e50;
 }
 
@@ -66,14 +71,14 @@ a:hover {
 pre {
 	display: block;
 	overflow: auto;
-	margin-bottom: 15px;
-	padding-bottom: 10px;
-	padding: 5px;
+	margin-bottom: 0.75em;
+	padding-bottom: 0.5em;
+	padding: 0.25em;
 	line-height: 1.2;
 }
 
 code {
-	font-family: "Menlo", "Consolas", monospace;
+	font-family: var(--font-family-code);
 	font-size: 0.8em;
 	margin: 0px;
 }
@@ -88,15 +93,14 @@ code {
 .content {
 	/*margin-left: 180px;*/
 	flex: 1 1 auto;
-	padding: 0px 30px;
+	padding: 0px 1.7rem;
 }
 
 .sidebar {
 	/*position: fixed;*/
 	display: flex;
 	flex-flow: column nowrap;
-	flex: 0 0 220px;
-	padding: 15px;
+	padding: 0.75em;
 	z-index: 1;
 	background-color: #222;
 	color: #fff;
@@ -113,7 +117,7 @@ code {
 
 .sidebar-brand > a {
 	font-size: 300%;
-	font-family: 'Gelasio';
+	font-family: var(--font-family-brand);
 	color: #fff;
 }
 
@@ -123,16 +127,16 @@ code {
 }
 
 .sidebar-header {
-	margin-bottom: 50px;
+	margin-bottom: 3rem;
 }
 
 .sidebar-nav {
-	margin-top: 20px;
+	margin-top: 1.5rem;
 }
 
 .nav-title {
 	font-size: 100%;
-	font-family: "Noto Sans";
+	font-family: var(--font-family-nav);
 	text-transform: uppercase;
 	border-bottom: 1px solid gray;
 	margin-bottom: 5px;
@@ -140,14 +144,17 @@ code {
 
 a.nav-item {
 	font-size: 120%;
-	font-family: "Noto Sans";
+	font-family: var(--font-family-nav);
 	text-transform: capitalize;
 	color: #aaa;
 }
 
 a.nav-item:hover { color: #777; }
 
-.badge { font-size: 70%; }
+.badge {
+  font-size: 60%;
+  font-style: italic;
+}
 .badge::before { content: "("; }
 .badge::after { content: ")"; }
 
@@ -155,7 +162,6 @@ a.nav-item:hover { color: #777; }
 }
 
 .post-link {
-	margin-left: 10px;
 	font-size: 110%;
 	color: #333;
 }
@@ -185,7 +191,7 @@ article .share .btn {
 	color: #e74c3c;
 }
 #contact-list-secondary {
-	padding-bottom: 10px;
+	padding-bottom: 0.25em;
 }
 
 article .share .facebook:hover {
@@ -204,8 +210,8 @@ article .share .gplus:hover {
 
 article {
 	padding: 0 5% 0;
-	font-size: 17px;
-	margin-bottom: 100px;
+	font-size: 1.2rem;
+	margin-bottom: 6rem;
 	line-height: 1.9;
 }
 
@@ -216,9 +222,9 @@ article img { max-width: 100%; }
 blockquote {
 	color: #828282;
   	border-left: 4px solid #ccc;
-  	padding-left: 10px;
+  	padding-left: 0.5em;
   	margin: 0;
-  	margin-bottom: 15px;
+  	margin-bottom: 0.75em;
 }
 
 p {
@@ -232,7 +238,6 @@ article h3,
 article h4,
 article h5,
 article h6 {
-	font-family: "Roboto", "Nanum Gothic";
 	color: #333;
   	margin-bottom: 0;
 }
@@ -251,46 +256,38 @@ article.home h4 a:hover {
 }
 
 header.post-header {
-	padding: 50px 0px 10px 0px;
-	margin-bottom: 30px;
-	border-bottom: 1px solid #ccc;
+	padding: 3.5rem 0px 2rem 0px;
+	margin-bottom: 3rem;
 	text-align: center;
 }
 
-header.home {
-	text-align: left;
-}
-
 .post-title {
-	font-size: 1.5em;
+  font-family: var(--font-family-titles);
+	font-size: 2.3rem;
 	color: #111;
 	font-weight: bold;
+  text-transform: uppercase;
 }
 
 .post-date {
-	text-transform: uppercase;
-	color: #555;
-	letter-spacing: 1px;
-	font-size: 0.8em;
 	display: inline-block;
-	width: 80px;
 }
 
 .author .author-image {
   float: left;
-  margin-right: 20px;
+  margin-right: 1.5rem;
 }
 
 footer {
-	padding-top: 15px;
-	font-family: 'Ubuntu';
+	padding-top: 1rem;
+	font-family: var(--font-family-footer);
 }
 
 .sidebar-footer {
-	margin-top: 80px;
-	font-size: 0.75em;
+	margin-top: 5rem;
+	font-size: 0.65em;
 	font-weight: lighter;
-	font-family: "Roboto";
+	font-family: var(--font-family-footer);
 	line-height: 1.5;
 }
 
@@ -338,14 +335,9 @@ footer {
 	}
 }
 
-/* Make the padding bottom of headers larger */
-header.post-header {
-  padding-bottom: 20px;
-}
-
 /* Style the .meta element and position it below the header rule */
 header.post-header {
-  margin-bottom: 50px;
+  margin-bottom: 3rem;
   position: relative;
 }
 header.post-header .meta {
@@ -361,61 +353,53 @@ header.post-header .meta a {
 /* Add a larger margin and a rule to post-lists */
 .post-list-content {
   margin-top: 2em;
+  font-family: var(--font-family-titles);
 }
 .post-list-wrapper {
   margin-top: 0;
-	border-top: 1px solid #ccc;
 }
 
 ul.post-list {
   padding-left: 0;
 }
-ul.post-list .flex-align {
-  display: flex;
-  align-items: baseline;
-  justify-content: flex-start;
-  flex-wrap: wrap;
-}
 
 /* Align the post-list subtitles */
-ul.post-list .flex-align .post-list-title {
+ul.post-list .post-list-title {
   font-weight: bold;
 }
-ul.post-list .flex-align .post-link {
-  margin-left: revert; /* undo theme style */
-}
-ul.post-list .flex-align .post-date {
-  text-transform: inherit;
-  color: inherit;
-  letter-spacing: inherit;
-  font-size: inherit;
-  width: auto;
-}
-ul.post-list .flex-align .post-list-publication {
+ul.post-list .post-list-publication {
   font-style: italic;
 }
 li.post-list-item .post-list-subtitle {
-  flex-basis: 100%;
   font-size: medium;
 }
 li.post-list-item {
   list-style: none; /* No bulletpoints */
   line-height: 1.3em;
   margin-bottom: 0.6em;
+  display: flex;
+  flex-direction: column;
 }
 .post-list-delim {
-  width: 0.7em;
+  width: 0.2em;
+  display: inline-block;
 }
 
 /* Prevent content from expanding too wide; center it when it stops expanding */
 article.post {
   max-width: 65em;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Space content paragraphs */
 article.post .post-text p {
   margin-bottom: 1.5em;
+}
+
+.topic-header {
+  width: 100%;
+  border-bottom: 1px solid #ccc;
 }
 
 /* Style the search input */
@@ -426,6 +410,13 @@ form.search {
   justify-content: space-between;
   align-items: stretch;
   gap: 0.3rem;
+  border-bottom: 1px solid #ccc;
+}
+.search-input {
+  font-family: var(--font-family-nav);
+}
+select, button, input {
+  border: none;
 }
 form.search .search-input {
   width: 0; /* prevents wide elements like .search-input-publication

@@ -33,12 +33,10 @@
 <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
 <noscript><style>form.search { display: none; }</style></noscript>
 <div class="post-list-content">
-  <p class="badge">
-    {{ items.size }} {% if items.size == 1 %}item{% else %}items{% endif %}.
-  </p>
+  {%- if items.size == 0 -%}
+  <p class="badge">0 items.</p>
   
-  {%- if items.size > 0 -%}
-  
+  {%- else -%}
   <form class="search">
     <input type="text" class="search-input search-input-text" placeholder="Search Titles">
 
@@ -67,6 +65,10 @@
     <button class="search-input search-button" >Clear</button>
   </form>
 
+  <p class="badge">
+    {{ items.size }} {% if items.size == 1 %}item{% else %}items{% endif %}.
+  </p>
+  
   <div class="post-list-wrapper">
     <ul class="post-list" id="search-list">
       {%- for item in items -%}
@@ -76,7 +78,6 @@
         _category-ids="{{ item.categories | join(" ") }}">
         <div class="flex-align">
           {% assign item_collection = site.collections | where: "label", item.collection | first %} 
-          <i class="post-type {{ item_collection.icon_class}}" title="{{ item_collection.item_desc }}"></i>
 
           <span class="post-list-title">
             {% if item.published != false %}
