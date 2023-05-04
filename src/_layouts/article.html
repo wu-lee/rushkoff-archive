@@ -12,7 +12,7 @@ layout: default
   </header>
 
   
-  {% if page.image %}
+  {% if page.image and page.image.size > 0 %}
   <div class="image">
     <img class="article hero" src="{{ page.image | relative_url }}" alt="article image">
   </div>
