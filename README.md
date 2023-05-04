@@ -19,15 +19,9 @@ Folders within are:
 
 ## For Content Editors:
 
-There used to be a non-techy friendly UI for editing the content at [Forestry.io][forestry] but that application was end-of-lifed in April 2023. A replacement may be implemented, perhaps using the successor to Forestry, [TinaCMS][tinacms], but this is work in progress at the time of writing.
+See [EDITORS.md](./EDITORS.md)
 
-In the mean time you can edit the articles directly in GitHub's UI, see [EDITORS.md](./EDITORS.md) for more information.
-
-There is a GitHub Action which rebuilds the website whenever changes are committed to the master branch of this repository. To check the state of this action look on the [Actions Tab][actions] of this project.  You can also trigger the action manually there.
-
-If there are problems building, contact a developer who has access to the project. A sensible way to do this is to submit an issue describing a problem in the [Issues][issues] tab on the GitHub project page. When doing this it is extremely helpful to explain what the problem is - and importantly - how a developer would recreate the problem you're seeing.
-
-## For Development
+## For Developers
 
 Developers can clone this repository, and assuming Jekyll and the other prerequisites are installed on their development computer, build a copy there.
 
@@ -35,7 +29,5 @@ Pushing changes back to the `master` branch should trigger a site rebuild.
 
 More details in [DEVELOPERS.md](./DEVELOPERS.md).
 
-[forestry]: https://forestry.io
-[tinacms]: https://tina.io
 [actions]: https://github.com/rushkoff/rushkoff-archive/actions
 [issues]: https://github.com/rushkoff/rushkoff-archive/issues
