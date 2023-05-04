@@ -1,46 +1,41 @@
-<img src="./assets/avatar.svg" width="150" alt="Rushkoff Avatar" title="Rushkoff Avatar">
-https://rushkoff.github.io/rushkoff-archive/
 # Rushkoff Archive
 
-This repository contains code to extract the posts stored at
-https://api.archive.rushkoff.com/.
+<img src="./assets/avatar.svg" width="150" alt="Rushkoff Avatar" title="Rushkoff Avatar">
 
-To execute the extraction, run:
+This is the source code repository for the Rushkoff Archive website, currently at:
 
-    posts2yaml.rb  # to get Markdown with a YAML metadata header
-	
-Or:
+https://rushkoff.github.io/rushkoff-archive/
 
-    posts2tsv.rb   # to get tab-delimited values suitable for spreadsheet import
-	
-Requires Ruby 2.x or later.
+## What's here
 
-Note, there is currently a dump of the posts in YAML format under
-[src/_articles/][1], included for inspection. This is a work in
-progress.
+The top-level folder contains support code, configuration, and documentation, like this README.md file.
 
-This dump additionally also serves as a basis for a [GitHub Pages][2]
-static site generation at https://wu-lee.github.io/rushkoff-archive/
-but could be altered later. When pages here are edited, the site
-should get upated accordingly as soon as the changes are pushed into
-the repository on GitHub.
+Folders within are:
 
+ - `.github/workflows/` - Configuration for the GitHub [Action][actions] which rebuild the site.
+ - `assets/` - Images and other what-not used in documentation etc. (not those used for the site).
+ - `src/` - The actual Jekyll site.
+ - `scripts/` - Scripts used for the initial population and subsequent maintenance of the repository.
 
-## Running in development mode
+## For Content Editors:
 
-To run Jekyll in development mode, see [3][].  In brief, assuming
-you're on a Unix-like OS and have Git, Ruby, and Ruby's Bundler
-command installed:
+There used to be a non-techy friendly UI for editing the content at [Forestry.io][forestry] but that application was end-of-lifed in April 2023. A replacement may be implemented, perhaps using the successor to Forestry, [TinaCMS][tinacms], but this is work in progress at the time of writing.
 
-- Check out this repository locally: `git clone git@github.com:wu-lee/rushkoff-archive.git`
-- Change to the `src` folder: `cd rushkoff-archive/src`
-- Install Jekyll: `bundle install`
-- Run Jekyll: `bundle exec jekyll serve`
-- This should print out the server address to use, typically http://127.0.0.1:4000. Open that in a browser.
-- Edits should trigger Jekyll to rebuild the site automatically.
+In the mean time you can edit the articles directly in GitHub's UI, see [EDITORS.md](./EDITORS.md) for more information.
 
+There is a GitHub Action which rebuilds the website whenever changes are committed to the master branch of this repository. To check the state of this action look on the [Actions Tab][actions] of this project.  You can also trigger the action manually there.
 
+If there are problems building, contact a developer who has access to the project. A sensible way to do this is to submit an issue describing a problem in the [Issues][issues] tab on the GitHub project page. When doing this it is extremely helpful to explain what the problem is - and importantly - how a developer would recreate the problem you're seeing.
 
-[1]: ./src/_articles
-[2]: https://pages.github.com/
-[3]: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll
+## For Development
+
+Developers can clone this repository, and assuming Jekyll and the other prerequisites are installed on their development computer, build a copy there.
+
+Pushing changes back to the `master` branch should trigger a site rebuild.
+
+More details in [DEVELOPERS.md](./DEVELOPERS.md).
+
+[forestry]: https://forestry.io
+[tinacms]: https://tina.io
+[actions]: https://github.com/rushkoff/rushkoff-archive/actions
+[issues]: https://github.com/rushkoff/rushkoff-archive/issues
