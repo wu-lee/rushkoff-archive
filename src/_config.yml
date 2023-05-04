@@ -69,7 +69,7 @@ rushkoff:
       - title: Fiction & Misc
         url: /categories/fiction-miscellaneous.html
       - title: Everything
-        url: /articles.html
+        url: /index.html
     more_categories:
       # Like categories, but made distinct, by spacing it below.
       - title: Sort By Publication
