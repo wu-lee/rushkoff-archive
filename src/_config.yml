@@ -52,7 +52,6 @@ plugins:
 feed:
   collections:
     - articles
-    - videos_elsewhere
 rushkoff:
   sidebar:
     categories:
