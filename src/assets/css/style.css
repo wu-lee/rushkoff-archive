@@ -91,13 +91,15 @@ code {
 }
 
 .content {
-	/*margin-left: 180px;*/
+	margin-left: 15rem;
 	flex: 1 1 auto;
 	padding: 0px 1.7rem;
 }
 
 .sidebar {
-	/*position: fixed;*/
+	position: fixed;
+  height: 100%;
+  width: 15em;
 	display: flex;
 	flex-flow: column nowrap;
 	padding: 0.75em;
@@ -304,12 +306,16 @@ footer {
 
 	.content {
 		padding: 0px;
+    margin-left: 0px;
 	}
 	.container {
 	    flex-direction: column;
 	}
 
 	.sidebar {
+    position: static;
+    width: revert;
+    height: revert;
 		font-size: 0.8em;
 		flex: 0 0 auto;
 		flex-flow: row nowrap;
