@@ -13,13 +13,14 @@
 {% assign items = include.items %}
 
 <div class="post-list-content">
+  <div class="topic-header"></div>
   <p class="badge">
     {{ topics.size }} {% if topics.size == 1 %}item{% else %}items{% endif %}.
   </p>
 
   {%- if topics.size > 0 -%}
   <div class="post-list-wrapper">
-    <ul class="post-list fa-ul">
+    <ul class="post-list">
       {%- for topic in topics -%}
       {%-   assign topic_items = items | where: item_field, topic.path -%}
       {%-   assign count = 0 -%}
@@ -31,11 +32,13 @@
 
       {%- if topic_items.size > 0 -%}
       <li class="post-list-item">
-        <i class="post-type fa fa-li {{ topic_collection.icon_class}}" title="{{ topic_collection.item_desc }}"></i>
-
-        <a class="post-link" href="{{ topic.url | relative_url }}">
-          {{ topic.title | escape }}
-        </a>
+        <div class="flex-align">
+          <span class="post-list-title">
+            <a class="post-link" href="{{ topic.url | relative_url }}">
+              {{ topic.title | escape }}
+            </a>
+          </span>
+        </div>
         <span class="badge">
           {{ topic_items.size }} {% if topic_items.size == 1 %}item{% else %}items{% endif %}
         </span>

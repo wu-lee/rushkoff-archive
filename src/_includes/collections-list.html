@@ -33,12 +33,10 @@
 <script src="{{ '/assets/js/search.js' | relative_url }}"></script>
 <noscript><style>form.search { display: none; }</style></noscript>
 <div class="post-list-content">
-  <p class="badge">
-    {{ items.size }} {% if items.size == 1 %}item{% else %}items{% endif %}.
-  </p>
+  {%- if items.size == 0 -%}
+  <p class="badge">0 items.</p>
   
-  {%- if items.size > 0 -%}
-  
+  {%- else -%}
   <form class="search">
     <input type="text" class="search-input search-input-text" placeholder="Search Titles">
 
@@ -67,8 +65,12 @@
     <button class="search-input search-button" >Clear</button>
   </form>
 
+  <p class="badge">
+    {{ items.size }} {% if items.size == 1 %}item{% else %}items{% endif %}.
+  </p>
+  
   <div class="post-list-wrapper">
-    <ul class="post-list fa-ul" id="search-list">
+    <ul class="post-list" id="search-list">
       {%- for item in items -%}
       {%    assign publication = publications | where: "path", item.publication | first %}
       <li class="post-list-item"
@@ -76,12 +78,6 @@
         _category-ids="{{ item.categories | join(" ") }}">
         <div class="flex-align">
           {% assign item_collection = site.collections | where: "label", item.collection | first %} 
-          <i class="post-type fa fa-li {{ item_collection.icon_class}}" title="{{ item_collection.item_desc }}"></i>
-
-          {% if include.date != 'OMIT' %}
-          {%- assign date_format = "%Y/%m/%d" -%}
-          <span class="post-date">{{ item.date | date: date_format }}</span>
-          {% endif %}
 
           <span class="post-list-title">
             {% if item.published != false %}
@@ -94,6 +90,7 @@
 
             {% endif %}
           </span>
+          <span class="post-list-delim"></span>
 
           {% if include.publication != 'OMIT' %}
           <span class="post-list-publication" _publication-id="{{ item.publication }}">
@@ -101,13 +98,20 @@
             {%   if item.published == false %}(unpublished){% endif %}
             {% else %}
             {%   if publication %}
-            (<a href="{{ publication.url | relative_url }}" class="post-link">{{ publication.title | escape -}}</a>
-            {%-    unless item.published != false -%}; unpublished{%- endunless -%})
+            <a href="{{ publication.url | relative_url }}" class="post-link">{{ publication.title | escape -}}</a>
+            {%-    unless item.published != false -%}; unpublished{%- endunless -%}
             {%   else %}
             (no publication{%- if item.published == false -%}; unpublished{%- endif -%})
             {%   endif %}
             {% endif %}
           </span>
+          <span class="post-list-delim"></span>
+          
+          {% endif %}
+          
+          {% if include.date != 'OMIT' %}
+          {%- assign date_format = "%b %d, %Y" -%}
+          <span class="post-date">{{ item.date | date: date_format }}</span>
           {% endif %}
         </div>
         {% if item.subtitle %}

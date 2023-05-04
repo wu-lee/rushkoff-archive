@@ -2,27 +2,24 @@ remote_theme: wu-lee/jekyll-theme-monos
 title: Rushkoff Archive
 description: Douglas Rushkoff's Article Archive
 unpublished: false
+# This is used to narrow the the google search. Used in the `site:` parameter
+search_domain: rushkoff.github.io
 collections:
   # Define our collections and their properties
   articles:
     item_desc: Article
-    icon_class: fa fa-newspaper-o
     output: true
   publications:
     item_desc: Publication
-    icon_class: fa fa-university
     output: true
   categories:
     item_desc: Category
-    icon_class: fa fa-tag
     output: true
   videos_elsewhere:
     item_desc: Video
-    icon_class: fa fa-film
     output: true
   misc_elsewhere:
     item_desc: Misc
-    icon_class: fa fa-asterisk
     output: true
 defaults:
   # Set the default front-matter fields for various content types
@@ -57,4 +54,25 @@ plugins:
 feed:
   collections:
     - articles
-    - videos_elsewhere
+rushkoff:
+  sidebar:
+    categories:
+      # Sets the categories in the sidebar index.  Note, the urls
+      # need to point to existing pages.  Specifically, if a sidebar
+      # category "Journalism" exists linking to /categories/journalism.html,
+      # then the "categories" collection must exist and include a category
+      # "journalism".
+      - title: Journalism
+        url: /categories/journalism.html
+      - title: Book Chapters
+        url: /categories/book-chapters.html
+      - title: Scholarship
+        url: /categories/scholarship.html
+      - title: Fiction & Misc
+        url: /categories/fiction-miscellaneous.html
+      - title: Everything
+        url: /index.html
+    more_categories:
+      # Like categories, but made distinct, by spacing it below.
+      - title: Sort By Publication
+        url: /publications.html
