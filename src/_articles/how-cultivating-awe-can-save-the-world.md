@@ -3,6 +3,7 @@ publication: _publications/medium.md
 title: How Cultivating Awe Can Save the World
 subtitle: The best-kept but scientifically-validated secret for engendering generosity
 image: "/uploads/0_ya7b5ixhmeea2fj8.jpg"
+image_desc: Two girls sitting on a stone wall in the country, looking across a lake at a snow capped mountain.
 date: 2023-04-18 04:00:00 +0000
 blurb: Awe opens us to the fuller realization that our individual and collective identities
   are mutually reinforcing
