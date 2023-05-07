@@ -22,7 +22,8 @@ layout: default
   
   {% if page.image and page.image.size > 0 %}
   <div class="image">
-    <img class="article hero" src="{{ page.image | relative_url }}" alt="article image">
+    <img class="article hero" src="{{ page.image | relative_url }}"
+      alt="{{ page.image_desc | default: 'the main article image'}}">
   </div>
   {% endif %}
 
