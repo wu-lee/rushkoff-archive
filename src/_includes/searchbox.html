@@ -1,0 +1,9 @@
+<form
+  class="sitesearch"
+  action="https://www.google.com/search"
+  method="get" name="sitesearch" target="_blank">
+  <input name="sitesearch" type="hidden" value="{{ site.search_domain | escape }}">
+  <input autocomplete="on" name="q"
+    placeholder="Search {{ site.search_domain | escape }}" required="required"  type="text">
+  <button type="submit">Search</button>
+</form>

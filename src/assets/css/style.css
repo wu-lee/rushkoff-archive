@@ -441,6 +441,16 @@ form.search .search-button {
   flex: 0 0 10%;
 }
 
+.sitesearch input[type=text] {
+  padding: 3px;
+  border-radius: 3px;
+  background: #ccc;
+  font-style: italic;
+}
+.sitesearch button {
+  display: none; /* Hide, but keep present for screenreaders */
+}
+
 /* Feed icon */
 img.feed {
   vertical-align: middle;
@@ -460,3 +470,13 @@ article .video {
 }
 .h_iframe        {position: relative; padding-top: 56%;}
 .h_iframe iframe {position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
+
+@media print {
+  /* hide sidebar and restore margin */
+  .sidebar {
+    display: none;
+  }
+  .content {
+	  margin-left: auto;
+  }
+}
