@@ -7,7 +7,15 @@ layout: default
     <div class="post-title">{{ page.title | escape }}</div>
     <div class="post-subtitle">{{ page.subtitle }}</div>
     <p class="meta">
-      Published in <a href="{{ publication.url | relative_url }}">{{ publication.title }}</a> on {{ page.date | date: "%-d %B %Y" }}
+      {% if site.author %}
+      <span class="site-by">By <span class="site-author">{{ site.author | escape }}</span>.</span>
+      {% endif %}
+      <span class="published-in">
+        Published in <a href="{{ publication.url | relative_url }}">{{ publication.title | escape }}</a>
+      </span>
+      <span class="published-on">
+        on {{ page.date | date: "%-d %B %Y" }}
+      </span>
     </p>
   </header>
 
