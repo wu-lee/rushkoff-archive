@@ -68,7 +68,7 @@ In this light, it's easy to see the entire personal computing revolution as a ne
 
 The realms of computing and, even more so, networking were unfamiliar turf. They were hard to navigate and harder still to design. People were creating a universe now, and it was as challenging as a lucid dream: Anything we could imagine, we would behold. It's no wonder that many Silicon Valley firms were forced to rely on the skills of many wild young members of the counterculture, people whose own mystical excursions had brought them into intimate contact with realities as mutable and hallucinatory as any graphical user interface.
 
-Those of us lucky enough to get online in the early years were immediately struck by how plastic, fluid, and malleable the world can be. Onlme communities have no real form--they are the ever-changing consensus reality of their members. One's value in an interactive conversation is not his or her ability to obey, but the capacity to hear and then express. The interactive universe does not exist without the active participation of its people--and this participation is the ongoing act of creation itself. Talk about playing God. xxx
+Those of us lucky enough to get online in the early years were immediately struck by how plastic, fluid, and malleable the world can be. Onlme communities have no real form--they are the ever-changing consensus reality of their members. One's value in an interactive conversation is not his or her ability to obey, but the capacity to hear and then express. The interactive universe does not exist without the active participation of its people--and this participation is the ongoing act of creation itself. Talk about playing God.
 
 **THE END OF THE OLD STORY**
 
@@ -76,7 +76,7 @@ Interactivity changed our relationship to other media, too. It was hard to watch
 
 This is actually something very rare, especially in the spiritual realm.
 
-There are a few faiths in which congrcgants are invited to participate in the creation and interpretation of the underlying narrative. Certain Jewish sects spurn answers in favor of more questions and interpretation; Quakers enjoy a dogma-free, town-meeting style Sabbath. Most religious traditions, however, simply treat their believers as a "mass," who must depend on their priests or ministers for access to the "story." But just as the Internet has led patients to information about alternative medical treatments (often against doctor's orders), it has given congregants the ability to find alternative stories about who we are, who made us, and why. xxx
+There are a few faiths in which congrcgants are invited to participate in the creation and interpretation of the underlying narrative. Certain Jewish sects spurn answers in favor of more questions and interpretation; Quakers enjoy a dogma-free, town-meeting style Sabbath. Most religious traditions, however, simply treat their believers as a "mass," who must depend on their priests or ministers for access to the "story." But just as the Internet has led patients to information about alternative medical treatments (often against doctor's orders), it has given congregants the ability to find alternative stories about who we are, who made us, and why.
 
 More important than any one story we may have discovered or written, the experience of sifting through them all, taking them apart, and writing our own has changed our relationship to religion, perhaps forever. The Internet is anathema to narrative. If you want to understand life as a story etched in stone, you had better stay away.
 
@@ -88,7 +88,7 @@ The second liberating interactive device was the videogame joystick. For most of
 
 Finally, the computer mouse and the keyboard liberated the receive-only monitor, and turned it into a portal through which we could express ourselves. The mouse and keyboard spawned a do-it-yourself (DIY) Internet culture in which people created, uploaded, and shared their own content. In a sense, people were the content; we used technology to connect with other people.
 
-The resulting cyberpunk culture was a renaissance culture. It was a chaotic space, where new ideas could spring up from almost anywhere. It was a gift economy, where new programs were created and shared--for free. It was a community, where new members were introduced and escorted around as if they had just bought a home in a fantasy suburb. Best of all, Internet users came to understand that the mainstream mediaspace no longer represented their reality. From now on, Internet users would represent their own. xxx
+The resulting cyberpunk culture was a renaissance culture. It was a chaotic space, where new ideas could spring up from almost anywhere. It was a gift economy, where new programs were created and shared--for free. It was a community, where new members were introduced and escorted around as if they had just bought a home in a fantasy suburb. Best of all, Internet users came to understand that the mainstream mediaspace no longer represented their reality. From now on, Internet users would represent their own.
 
 In those days--the 2400-baud, ASCII-text era of ten long years ago--the Internet had nothing to do with the NASDAQ index. In fact, until 1992 you had to sign an agreement promising not to conduct any business online just to get access to the Internet! Imagine that. It was a business-free zone.
 
@@ -136,339 +136,29 @@ Anyone logging onto the Internet for the first time in the year 2000 encountered
 
 In the interests of the investment community, the Internet was restyled as an online mall. A direct marketing platform. An interactive mail-order catalog! This little scheme seemed to hold more promise. So much prormse, in fact, that Wall Street investors took notice. Not that many of these e-commerce businesses actually made money. But they looked like someday they could.
 
-Besides, Wall Street cares less about actual revenues than the ability to create the perception that there might be revenues at some point in the future. That's why it's called speculation. Others might call it a pyramid scheme. Here's how it works: Someone writes a business plan for a new kind of e-commerce company. That person finds "angel investors"--very in-the-know people who give money to write a bigger business plan and hire a CEO. Then comes the "first round" and "second round," where other, slightly less in-the-know people invest a few million more. Then come the institutional investors, who underwrite the now-infamous Initial Price Offering (IPO) on NASDAQ. This final ground level is called "going public." At the very bottom of the pyramid, come retail investors. That's you and me. We're supposed to log into an e-trading site and invest our money. So what's all that got to do with the Internet, you ask? Exactly. The Internet was merely the sexy word, the come-hither, the bright idea at the top of the pyramid. Sure, there were and are still plenty of entrepreneurs creating vibrant, successful online businesses--look at Yahoo, Amazon, and Ebay. But the Internet wasn't born to support the kind of global economic boom that venture capitalists were envisioning. And by turning the Internet's principle use from socializing toward monetizing, business went against the Internet's very functionality. xxx
+Besides, Wall Street cares less about actual revenues than the ability to create the perception that there might be revenues at some point in the future. That's why it's called speculation. Others might call it a pyramid scheme. Here's how it works: Someone writes a business plan for a new kind of e-commerce company. That person finds "angel investors"--very in-the-know people who give money to write a bigger business plan and hire a CEO. Then comes the "first round" and "second round," where other, slightly less in-the-know people invest a few million more. Then come the institutional investors, who underwrite the now-infamous Initial Price Offering (IPO) on NASDAQ. This final ground level is called "going public." At the very bottom of the pyramid, come retail investors. That's you and me. We're supposed to log into an e-trading site and invest our money. So what's all that got to do with the Internet, you ask? Exactly. The Internet was merely the sexy word, the come-hither, the bright idea at the top of the pyramid. Sure, there were and are still plenty of entrepreneurs creating vibrant, successful online businesses--look at Yahoo, Amazon, and Ebay. But the Internet wasn't born to support the kind of global economic boom that venture capitalists were envisioning. And by turning the Internet's principle use from socializing toward monetizing, business went against the Internet's very functionality.
 
-No longer able to deconstruct, demystify, or develop our own media, we suc-
+No longer able to deconstruct, demystify, or develop our own media, we succumbed to an entirely new story about the promise new media: money. Of course, by the time the general public was buying shares online, the people at the top of the pyramid disappeared--taking away their money as the pyramid collapsed beneath them in what is called an "exit strategy." That's another way of saying "carpet bag."
 
-cumbed to an entirely new story about the promise new media: money. Of course,
+**IT'S ALIVE**
 
-by the time the general public was buying shares online, the people at the top of
+The real Internet was hiding underneath this investment charade the whole time. It was a little harder to find, perhaps, and no one in the mainstream press was writing about it anymore, but plenty of people were still sharing stories, e-mailing relatives, finding new communities, and educating themselves. The spirit of the Internet was dormant, maybe, but very much alive.
 
-the pyramid disappeared-taking away their money as the pyramid collap\~ed
+This is why those schemes were doomed to fail. The behavior control being implemented by more nefarious online merchants, the mercenary tactics of former hackers, and the commercial priorities of the Internet's investors were blatant contradictions of the Internet's true nature. Sure, the Internet could support some business guests the way that a tree can support some mushrooms at its base and a few squirrels in its branches. But businesses attacked the Internet like a set of chainsaws. Or, better, a parasitic fungus. It needed to be rejected.
 
-beneath them in what is called an "exit strategy." That's another way of saymg
+The dot.com pyramid schemes eventually failed because all pyramid schemes eventually run out of money. The dot.com collapse was also aided, in part, by the Internet's own structure and function. Its organic and interactive make-up shrugs off interventionist government controls. Just a bit more effort halted the corporate attacks that followed. It's no different than when the government abandoned the Internet in the 1980s. Instead of talking about defense contracts, the scientists online began talking about science fiction stories. The Internet never does what it's supposed to do. It has a mind, and life, of its own.
 
-"carpet bag."
+Now that the dot.com pyramid has failed to establish itself as the overarching metaphor of the Digital Age, digital reality--and perhaps our social reality--is once again up for grabs. That's because we're alive, too.
 
-IT'S ALIVE
+The many great applications that real people and organizations have developed to make all of our lives better are taking center stage. They are compelling and surpass even some of our wildest dreams for what the Internet might someday achieve. The ideas, information, and applications now launching on Web sites around the world capitalize on the transparency, usability, and accessibility that the Internet was born to deliver.
 
-The real Internet was hiding underneath this investment charade the whole \~e.
+As long as we can maintain our renaissance sensibility and our awareness of the implications of the open source reality in which we live, we have access to enormous opportunities for cultural progress. These opportunities imply profound consequences for any of us who have become conscious of how to hack the borders of reality.
 
-· h · ress was wnt- It was a little harder to find, perhaps, and no one m t e mamstrea\~ P ailin 1
+People who have been exposed to the Internet and to other interactive and virtual systems understand that our world--any system--is made up of intentionally designed interfaces. Spending so much time in virtual space, we are more aware of real space, political space, and ideological space, and the way it shapes interaction. We are more sensitive to the power and the way it is exploited. Right now, as a result of our renaissance sensibility, the definitions and conventions of our reality are becoming the component parts of a new language. Nothing is only itself, because its identifying characteristics become a self-conscious manifestation of its underlying essence. An ironic distance. A self-conscious reframing of almost everything.
 
-ing about it anymore, but plenty of people wer\~ still shari\~g sto
+Renaissance awareness is a form of self-protection, really. A defense. We are trying to focus on the mediated feeling of things. We want to stay awake in renaissance awareness as long as possible before the next reality template concretizes itself and self-conscious similes become tight metaphors. We now see that this is like that, sort of like that--it is as if. But we know that eventually "it is like" and "it is as if" will collapse into "it is." The world is that. Reality's transparency and accessibility lost yet again. At the same time, however, there is great longing to let go, to trust t?at the world is not trying to do something to us--to engage in an experience without fear and suspicion. Artists and writers have been working on this problem for centuries. Shakespeare often wrote prologues for his plays in which a character lets the audience in on the metaphor: "oh pardon gentles all, that we would presume that the stage would represent..." The modesty and honesty give your audience permission to relax. They know they are not going to be manipulated. If we can communicate this sort of goodwill in ritualized contexts, we should be able to do it in the real world of communication, as well. xxx
 
-\~\~, e-\~ rit
-
-0
-
-j :\~\~ atives, finding new communities, and educat\~g themse ves. e sp1
-
-d b b t very much alive. b •
-
-Internet was ormant, may e, u fail. The behavior control emg
-
-This is why those schemes were doomed to h rcenary tactics of for-
-
-£ . 1· e merchants, t e me bl . plemented by more ne anous on m h I et's investors were atant
-
-1m . l · ·t· soft e ntern
-
-mer hackers, and the commerc1a pnon ie S the Internet could support some
-
-t adictions of the Internet's true nature. ure, e mushrooms at its base and a
-
-con r h can support som l"k f . guests the way t at a tree . ked the Internet 1 e a set o
-
-s . . h But busmesses attac
-
-rrels 1Il its branc es: . fu s It needed to be rejected.
-
-l parasitic ngu . 11 failed because all pyramid schemes
-
-schemes eventua Y l · d d · art, by the
-
-The dot.com collapse was a so a\~ e ' m p s
-
-\~ . Its organic and interactive make-up shrug
-
-uon. l J t a bit more effort halted the corpo- 1tro s. us b d d
-
-iff erent than when the government a a\~ o\~e I . J _L\~,, a ,-nntr::H'.t.S. the scientists
-
-◄ EXPLORATIONS IN MEDIA ECOLOGY
-
-bigger business plan and hire a CEO. Then comes the "first round" and "second
-
-round," where other, slightly less in-the-know people invest a few million more.
-
-Then come the institutional investors who underwrite the now-infamous Initial
-
-\~rice Offering (IPO) on NASDAQ. This final ground level is called "going pub-
-
-lic.•: At the very bottom of the pyramid, come retail investors. That's you and me.
-
-We re supposed to log into an e-trading site and invest our money. So what's all
-
-that got to do with the Internet, you ask? Exactly. The Internet was merely the
-
-sexy word, the come-hither, the bright idea at the top of the pyramid. Sure, there
-
-were and are still plenty of entrepreneurs creating vibrant, successful online busi-
-
-nesses-look at Yahoo, Amazon, and Ebay. But the Internet wasn't born to sup-
-
-pon the kind of global economic boom that venture capitalists were envisioning.
-
-An\~ by turning the Internet's principle use from socializing toward monetizing,
-
-busmess went against the Internet's very functionality.
-
-No longer able to deconstruct, demystify, or develop our own media, we suc-
-
-cumbed to an entirely new story about the promise new media: money. Of course,
-
-by the time the general public was buying shares online, the people at the top of
-
-the pyramid disappeared-taking away their money as the pyramid collapsed
-
-beneath them in what is called an "exit strategy." That's another way of saying
-
-"carpet bag."
-
-IT'S ALIVE
-
-The real Internet was hiding underneath this investment charade the whole ti\~e.
-
-It was a little harder to find, perhaps, and no one in_ the m\~nstrea\~ press ':\~s w;\~:
-
-ing about it anymore, but plenty of people were still sharmg Scones, e-\~\~ilin, h
-
-atives, finding new communities, and educat\~g themselves. The spmt o t e
-
-Internet was dormant, maybe, but vedry mu\~h ah;\~i The behavior control being
-
-This is why those schemes were oome to a1 . h tactics of for-
-
-£ . nline merchants, t e mercenary • 1 ted by more ne anous o . bl t t imp emen . . . f the Internet's mvestors were a an
-
-d h · al pnonues o
-
-mer hackers, an t e commer\~1 Sure the Internet could support some
-
-·1dictions of the Internet s true nature. ' shrooms at its base and a h can support some mu .c
-
-\~ guests the \~ t at a tree b . ttacked the Internet like a set 01 . . . ' -,,ches. But usmesses a .
-
-1rrels lI1 . . fu It needed to be re1ected. ras1t1c ngus. · d h
-
-ws. 0 h ntually failed because all pyram1 sc emes ,.. emes eve . d d · b the
-
-e \~or "' , .. ,, dot.com collapse wa\~ also a\~ e , m p\~rt, y s
-
-entu:> 1n. lts organic and mteracuve make up shru\~-
-
-lnter , :rols. Just a bit more eHort halted the corp d
-
-o' :ferent than when the government ab\~do\~e . h t\\Sts . . lki bout defense contracts, t e sc1en r ta ng a h • , fiction stories. The Internet never does w at its
-
-d life of its own. .
-
-,lid has' failed to establish itself as th\~ overa\~c'nin\~
-
-, • • - . I _ _ _ , : .., , _ ,,nrl n Prh\~OS our socia\\ rea\\ity-lS
-
-✓
-
-IT'S ALIVE
-
-The real Internet Was h.d. .
-
-It was a little hard
-
-er to f\~ ind ing underneath h this investment charade the whole time. . . ing about it anym b . ' per aps, and no one in the mainstream press was wnt-
-
-a '
-
-tl· ves finding n
-
-ew
-
-ore, commu
-
-ut plenty . of people were still sharing stories, e-mailing rel- . I ternet was dor . . f h nities, and educating themselves. The sp1nt o t e n mant, mayb b Thi s 1s
-
-· w y t h h ose sche e, ut very much alive. . . 1 d b mes Were doomed to fail. The behavior control being imp emente y more nefar· 1· . ff h k d h ious on ine merchants the mercenary tactics o or- rner ac ers, an t e commer · 1 · • . ' bl d. · f h cia priorities of the Internet's investors were atant ontra 1ct1ons o t e Intern e
-
-c .
-
-business guests t e
-
-h
-
-way that e s true nature. Sure, the Internet could support some
-
-. . . · b d a tree can support some mushrooms at its ase an a f w squirrels 1n its branche B b · e s. ut us1nesses l"k f
-
-chainsaws. Or, better, a parasitic attacked the Internet 1 e a set o fungus It d d b · t d . . nee e to e r eJ ec e . The dot.com pyramid schemes eventually failed because all pyramid schemes
-
-eventually run out of money. The dot.com collapse was also aided, in part, by the
-
-Internet's o\~n s\~ructure and function. Its organic and interactive make-up shrugs
-
-off interventionist government controls. Just a bit more effort halted the corpo-
-
-rate attacks that followed. It's no different than when the government abandoned
-
-the Internet in the 1980s. Instead of talking about defense contracts, the scientists
-
-online began talking about science fiction stories. The Internet never does what it's
-
-supposed to do. It has a mind, and life, of its own. .
-
-Now that the dot.com pyramid has failed to establish itself as the overarching
-
-metaphor of the Digital Age, digital reality-and perhaps our social reality-is
-
-once again up for grabs. That's because we're alive, too.
-
-\-
-
-Rushkoff: Renaissance Now!
-
-The many great \~pplications that real people and organizations have developed
-
-to make all of our lives better are taking center stage. They are compelling and sur-
-
-pas\~ even so\~e of our wildest dreams for what the Internet might someday
-
-achieve. The ideas, information, and applications now launching on Web sites
-
-around the world capitalize on the transparency, usability, and accessibility that
-
-the Internet was born to deliver.
-
-As long as we can maintain our renaissance sensibility and our awareness of the
-
-implications of the open source reality in which we live, we have access to enor-
-
-mous opportunities for cultural progress. These opportunities imply profound
-
-consequences for any of us who have become conscious of how to hack the bor-
-
-ders of reality.
-
-People who have been exposed to the Internet and to other interactive and vir-
-
-tual systems understand that our world-any system-is made up of intentional-
-
-ly designed interfaces. Spending so much time in virtual space, we are more aware
-
-of real space, political space, and ideological space, and the way it shapes interac-
-
-tion. We are more sensitive to the power and the way it is exploited. Right now,
-
-as a result of our renaissance sensibility, the definitions and conventions of our
-
-reality are becoming the component parts of a new language. Nothing is only
-
-itself, because its identifying characteristics become a self-conscious manifestation
-
-of its underlying essence. An ironic distance. A self-conscious reframing of almost
-
-everything.
-
-Renaissance awareness is a form of self-protection, really. A defense. We are try-
-
-ing to focus on the mediated feeling of things. We want to stay awake in renais-
-
-sance awareness as long as possible before the next reality template concretizes
-
-itself and self-conscious similes become tight metaphors. We now see that this is
-
-like that, sort of like that-it is as if. But we know that eventually "it is like" and
-
-"it is as if" will collapse into "it is . " The world is that. Reality's transparency and
-
-accessibility lost yet again. At the same time, however, there is great longing to let
-
-go, t\~ trust t?at the world is not trying to do something to us-to engage in an
-
-experience without fear and suspicion. Artists and writers have been working on
-
-this problem for centuries. Shakespeare often wrote es for ' ·
-
-h. h h
-
-sin
-
-w 1c a c aracter lets the audience in on the metaphr
-
-\~e would presume that the stage would represent
-
-give. your audience permission to relax. They ·
-
-mampulated. If we can communicate thi\~ \~-,
-
-we should be able to do it in the real w •
-
-52
-
-li b ----····-.... "'-llJIUlllLJ, Ult: Ut:lllllllUJl.> \~ .. - - th" . nl
-
-\~ea ty are e\~o\~g ?1e component parts of a new language: No tn\~ ts o_ y
-
-itself, because its identifyi·ng ch . . b lf onscious manifestation . aractensncs ecome a se -c
-
-of Its u\~derlying essence. An ironic distance. A self-conscious refraining of almost
-
-everything .
-
-. Renaissance awareness is a form of self-protection, really. A defense. w_e are t1?'-
-
-mg to focus on the mediated feeling of things. We want to stay awake m ren_a1s-
-
-\~ance awareness as long as possible before the next reality template concret\~zes
-
-t\~elf and self-co\~scious similes become tight metaphors. We now !\~e.
-
-th\~t t\~ is
-
-like that, sort of like that-it is as if. But we know that eventually it is like and
-
-"it is as if" will collapse into "it is." The world is that. Reality's transparency and
-
-accessibility lost yet again. At the same time, however, there is great longing to let
-
-go, to trust that the world is not trying to do something to us-to engage in an
-
-experience without fear and suspicion. Artists and writers have been working on
-
-this problem for centuries. Shakespeare often wrote prologues for his plays in
-
-which a character lets the audience in on the metaphor: "oh pardon gentles all, that
-
-we would presume that the stage would represent ... " The modesty and honesty
-
-give your audience permission to relax. They know they are not going to be
-
-manipulated. If we can communicate this sort of goodwill in ritualized contexts,
-
-we should be able to do it in the real world of communication, as well.
-
-It is the responsibility of programmers and designers, in particular, to realize
-
-that genuine social engagement and genuine discourse are what will keep people
-
-out of the traps and trances they are now at pains to avoid. If we can create online
-
-and mediated experiences that foster this kind of interaction and discourse-expe-
-
-riences that facilitate people as people, rather than subjugating them to other
-
-intentions-we will prolong our sense of freedom as well as our ability to hack
-
-even more of world's imaginary borders.
+It is the responsibility of programmers and designers, in particular, to realize that genuine social engagement and genuine discourse are what will keep people out of the traps and trances they are now at pains to avoid. If we can create online and mediated experiences that foster this kind of interaction and discourse--experiences that facilitate people as people, rather than subjugating them to other intentions--we will prolong our sense of freedom as well as our ability to hack even more of world's imaginary borders.
 
 1ve developed
 
