@@ -48,7 +48,6 @@ jobs:
           branch: 'gh-pages'         # branch to commit the built static site files onto
           jekyll_src: './src'        # where the jekyll source is
           jekyll_cfg: '_config.yml'  
-          jekyll_baseurl: '/rushkoff-archive'         # override the baseurl from from _config.yml
           bundler_ver: '>=0'         # latest bundler version
           cname: ''                  # don't use a cname
           actor: ''                  # Use the GITHUB_ACTOR
