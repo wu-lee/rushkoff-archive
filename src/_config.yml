@@ -3,7 +3,7 @@ description: Douglas Rushkoff's Article Archive
 author: Douglas Rushkoff
 unpublished: false
 # This is used to narrow the the google search. Used in the `site:` parameter
-search_domain: rushkoff.github.io
+search_domain: archive.rushkoff.com
 collections:
   # Define our collections and their properties
   articles:
