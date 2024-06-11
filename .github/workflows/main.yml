@@ -48,7 +48,7 @@ jobs:
           branch: 'gh-pages'         # branch to commit the built static site files onto
           jekyll_src: './src'        # where the jekyll source is
           jekyll_cfg: '_config.yml'  
-          bundler_ver: '>=0'         # latest bundler version
+          bundler_ver: '<=2.4.22'         # latest bundler version
           cname: ''                  # don't use a cname
           actor: ''                  # Use the GITHUB_ACTOR
           pre_build_commands: ''     # No additional dependencies to install
