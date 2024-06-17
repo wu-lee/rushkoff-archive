@@ -3,9 +3,12 @@
   {% include head.html %}
   <body>
     <div class="container">
+      {%- comment -%}
+      <!--  this was removed to simplify the output -->
       <div class="sidebar">
         {% include sidebar.html %}
       </div>
+      {%- endcomment -%}
       <div class="content">
         {{ content }}
       </div>
