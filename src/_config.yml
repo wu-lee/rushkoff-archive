@@ -51,6 +51,11 @@ defaults:
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-tidy
+jekyll_tidy:
+  exclude:
+    - '**/*.csv'
+    - '**/*.xml'
 feed:
   collections:
     - articles
