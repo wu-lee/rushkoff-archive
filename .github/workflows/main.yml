@@ -38,7 +38,6 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
-
       # Use GitHub Deploy Action to build and deploy to Github
       - uses: jeffreytse/jekyll-deploy-action@v0.4.0
         with:
@@ -49,7 +48,7 @@ jobs:
           jekyll_src: './src'        # where the jekyll source is
           jekyll_cfg: '_config.yml'  
           bundler_ver: '<=2.4.22'         # latest bundler version
-          cname: ''                  # don't use a cname
+          cname: 'archive.rushkoff.com'   # use this cname
           actor: ''                  # Use the GITHUB_ACTOR
           pre_build_commands: ''     # No additional dependencies to install
 
