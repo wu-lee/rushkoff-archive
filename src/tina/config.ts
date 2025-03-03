@@ -11,25 +11,26 @@ const branch =
   process.env.GITHUB_BRANCH ||
   process.env.VERCEL_GIT_COMMIT_REF ||
   process.env.HEAD ||
-  "main";
+  "master";
 
 export default defineConfig({
   branch,
 
   // Get this from tina.io
-  clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
+  clientId: process.env.TINA_PUBLIC_CLIENT_ID,
   // Get this from tina.io
   token: process.env.TINA_TOKEN,
 
   client: { skip: true },
   build: {
     outputFolder: "admin",
-    publicFolder: "assets",
+    publicFolder: "",
+//    basePath: process.env.TINA_BASE_PATH, // May be undefined
   },
   media: {
     tina: {
-      mediaRoot: "",
-      publicFolder: "assets",
+      mediaRoot: "uploads",
+      publicFolder: "",
     },
   },
   // See docs on content modeling for more info on how to setup new content models: https://tina.io/docs/schema/
@@ -39,7 +40,7 @@ export default defineConfig({
         format: "md",
         label: "Articles",
         name: "articles",
-        path: "src/_articles",
+        path: "_articles",
         match: {
           include: "**/*",
         },
@@ -58,7 +59,7 @@ export default defineConfig({
         format: "md",
         label: "Publications",
         name: "publications",
-        path: "src/_publications",
+        path: "_publications",
         match: {
           include: "**/*",
         },
@@ -77,7 +78,7 @@ export default defineConfig({
         format: "md",
         label: "Categories",
         name: "categories",
-        path: "src/_categories",
+        path: "_categories",
         match: {
           include: "**/*",
         },
@@ -96,7 +97,7 @@ export default defineConfig({
         format: "md",
         label: "Videos",
         name: "videos",
-        path: "src/_videos_elsewhere",
+        path: "_videos_elsewhere",
         match: {
           include: "**/*",
         },
@@ -115,7 +116,7 @@ export default defineConfig({
         format: "md",
         label: "Misc",
         name: "misc",
-        path: "src/_misc_elsewhere",
+        path: "_misc_elsewhere",
         match: {
           include: "**/*",
         },
@@ -132,4 +133,12 @@ export default defineConfig({
       },
     ],
   },
+  search: {
+    tina: {
+      indexerToken: process.env.TINA_SEARCH_TOKEN,
+      stopwordLanguages: ['eng'],
+    },
+    indexBatchSize: 100,
+    maxSearchIndexFieldLength: 100,
+  }
 });
