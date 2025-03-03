@@ -39,7 +39,7 @@ export default defineConfig({
         format: "md",
         label: "Articles",
         name: "articles",
-        path: "src/_articles",
+        path: "_articles",
         match: {
           include: "**/*",
         },
@@ -58,7 +58,7 @@ export default defineConfig({
         format: "md",
         label: "Publications",
         name: "publications",
-        path: "src/_publications",
+        path: "_publications",
         match: {
           include: "**/*",
         },
@@ -77,7 +77,7 @@ export default defineConfig({
         format: "md",
         label: "Categories",
         name: "categories",
-        path: "src/_categories",
+        path: "_categories",
         match: {
           include: "**/*",
         },
@@ -96,7 +96,7 @@ export default defineConfig({
         format: "md",
         label: "Videos",
         name: "videos",
-        path: "src/_videos_elsewhere",
+        path: "_videos_elsewhere",
         match: {
           include: "**/*",
         },
@@ -115,7 +115,7 @@ export default defineConfig({
         format: "md",
         label: "Misc",
         name: "misc",
-        path: "src/_misc_elsewhere",
+        path: "_misc_elsewhere",
         match: {
           include: "**/*",
         },
