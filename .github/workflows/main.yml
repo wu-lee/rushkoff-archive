@@ -60,6 +60,7 @@ jobs:
           provider: 'github'
           token: ${{ secrets.GITHUB_TOKEN }} # Use the default access token
           repository: ''             # current repository
+          ruby_ver: '3.2.0'          # should match .tool-versions
           branch: 'gh-pages'         # branch to commit the built static site files onto
           jekyll_src: './src'        # where the jekyll source is
           jekyll_cfg: '_config.yml'  
