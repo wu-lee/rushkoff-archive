@@ -57,10 +57,22 @@ export function articleFields() {
       label: "sources",
     },
     {
+      // Ideally this would be a list of references to the categories
+      // collection. We can't have lists of references. And lists of objects
+      // wrapping references are janky - and don't work. Because, the
+      // returned items are not strings, as we need them to be, but objects.
+      // Therefore, we hack this by hardwiring a list of strings which will work,
+      // so long as the categories aren't changed!
       type: "string",
-      name: "categories",
       label: "categories",
+      name: "categories",
       list: true,
+      options: [
+        { value: "_categories/book-chapters.md", label: "Book Chapters" },
+        { value: "_categories/fiction-miscellaneous.md", label: "Fiction and Miscellaneous" },
+        { value: "_categories/journalism.md", label: "Journalism" },
+        { value: "_categories/scholarship.md", label: "Scholarship" },
+      ]
     },
   ] as TinaField[];
 }
