@@ -24,10 +24,10 @@ export function articleFields() {
       required: true,
     },
     {
-      type: "string",
+      type: "reference",
       name: "publication",
       label: "publication",
-      options: [],
+      collections: ["publications"],
       required: true,
     },
     {
