@@ -64,8 +64,8 @@ export function articleFields() {
       // Therefore, we hack this by hardwiring a list of strings which will work,
       // so long as the categories aren't changed!
       type: "string",
-      label: "category",
-      name: "category",
+      label: "categories",
+      name: "categories",
       list: true,
       options: [
         { value: "_categories/book-chapters.md", label: "Book Chapters" },
