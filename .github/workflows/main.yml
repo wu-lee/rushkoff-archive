@@ -38,6 +38,10 @@ jobs:
           key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
           restore-keys: |
             ${{ runner.os }}-gems-
+      # Install modules
+      - name: Install node modules
+        working-directory: './src'
+        run: npm install
       # Build TinaCMS
       - name: Build TinaCMS
         env:
