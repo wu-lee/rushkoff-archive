@@ -1,3 +1,4 @@
+import * as React from "react";
 import type { TinaField } from "tinacms";
 export function articleFields() {
   return [
