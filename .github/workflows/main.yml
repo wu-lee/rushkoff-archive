@@ -27,7 +27,7 @@ on:
 
 jobs:
   build_and_deploy:
-    runs-on: ubuntu-20.04 # avoid death by deprecation
+    runs-on: ubuntu-22.04 # Explicitly name the version, to avoid unexpected errors as versions shift
     steps:
       - uses: actions/checkout@v3
 
