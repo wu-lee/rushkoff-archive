@@ -64,7 +64,8 @@ jobs:
           jekyll_src: './src'        # where the jekyll source is
           jekyll_cfg: '_config.yml'  
           bundler_ver: '<=2.4.22'         # latest bundler version
-          cname: 'archive.rushkoff.com'   # use this cname
+          cname: ${{ vars.CNAME || '' }}    # use this cname - get from github repo var
+          jekyll_baseurl: ${{ vars.BASE_URL || '' }} # publish at this path - get from github repo var
           actor: ''                  # Use the GITHUB_ACTOR
           pre_build_commands: ''     # No additional dependencies to install
 
