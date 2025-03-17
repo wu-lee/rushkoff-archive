@@ -40,6 +40,20 @@ jobs:
           key: ${{ runner.os }}-cache-${{ hashFiles('**/cache.key') }}
           restore-keys: |
             ${{ runner.os }}-cache-
+      # Install modules
+      - name: Install node modules
+        working-directory: './src'
+        run: npm install
+      # Build TinaCMS
+      - name: Build TinaCMS
+        env:
+          TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
+          TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
+          TINA_SEARCH_TOKEN: ${{ secrets.TINA_SEARCH_TOKEN }}
+          TINA_BASE_PATH: ${{ vars.BASE_URL }}
+          CNAME: ${{ vars.CNAME }}
+        working-directory: './src'
+        run: npm run tinacms build        
       # Use GitHub Deploy Action to build and deploy to Github
       - uses: jeffreytse/jekyll-deploy-action@v0.6.0
         with:
